@@ -1,150 +1,181 @@
-# Crossroads Government Act of 2025
-
+# Crossroads Government Act of 2025: Draft 4.14
 **Posted to r/Bulwarkomics**  
-**Draft**: 4.15 | **Date**: March 2026  
-**Author**: Thunderfish2  
+**Draft**: 4.14 Detailed | **Date**: April 29, 2025  
 
-The Crossroads Government Act of 2025 (Draft 4.15) establishes a decentralized, sectoral, merit-driven government for New Crossroads, post-2025 revolution. It serves 112 million citizens (94 million Corporate Citizens) within a $14.5 trillion GDP (65% co-ops/$9.425 trillion, 15% corporate/$2.175 trillion, 20% informal/$2.9 trillion), scaling to $38.94 trillion GDP (65% co-ops/$25.311 trillion) by 2075.  
+The **Crossroads Government Act of 2025 (Draft 4.14)** establishes a decentralized, worker-led government for **New Crossroads**, post a 2025 revolution. It serves 112 million citizens (94 million Corporate Citizens) with a $14.5 trillion GDP (65% co-ops/$9.425 trillion, 15% corporate/$2.175 trillion, 20% informal/$2.9 trillion), targeting a $38.94 trillion GDP by 2075. Governed by **20 Regional Boards** (220 members), a **10-member National Assembly**, and an **11-member Central Council**, it operates without a central leader, supported by 10 economic sectors and 5,000 credit unions acting as a decentralized central bank. The act manages $601.58 billion revenue, $550 billion Sovereign Wealth Fund (SWF), $452.5 billion loans, and $15.04 billion reserve-backed Wallets, integrating geographic hubs (e.g., Corridon, Frostpeak), sustainability (parkweb, greenhouses), and co-op empowerment.
 
-Governance operates without political parties through 10 economic sectors, 20 Regional Boards (220 members), a 10-member National Assembly, and an 11-member Central Council. It is supported by 5,000 credit unions (decentralized central bank), the Crossroads Workforce Database (CWD), and roving special auditors designed to deter elite capture. The act manages $601.58 billion revenue, $550 billion Sovereign Wealth Fund (SWF), $452.5 billion loans, and $15.04 billion reserve-backed wallets.
+---
 
-## Section 1: Local Level — Sectors, Credit Unions, and Incorporation
+## Section 1: Local Level—Sectors, Credit Unions, and Incorporation  
+### 1.1 Economic Sectors  
+Ten sectors anchor New Crossroads’ economy and governance: **Industry & Infrastructure**, **Health**, **Education**, **Agriculture**, **Trade & Corporate**, **Media & Communications**, **Legal & Judiciary**, **Defense/Aerospace & Tech**, **Co-op**, **Treasury**, mapped to hubs (e.g., Corridon River for Industry & Infrastructure, Heartland Plains for Agriculture, Crossroads City for Co-op). Treasury oversees 5,000 credit unions, issuing Bulwark Coin (BWC, 0.025 oz precious metal backing) and managing $452.5 billion loans.
+- **Membership**: At age 20, 94 million **Citizens** are auto-incorporated, assigned to 1 sector based on diploma/service. Sector switch every 5 years via credit unions (250/region). Juniors (12–19, $10,000+ revenue or $500 loans) pre-incorporate. Dropouts (900,000–1.8 million) assigned via apprenticeships. By 2075, 109 million citizens (130 million population).
+- **Functions**:
+  - *Regional*: Masters coordinate $22.625 billion loans/region (65% co-op/$14.70625 billion, 15% corporate/$3.39375 billion, 20% informal/$4.525 billion). Sector councils (50 masters/sector/region, elected by 10,000 masters) draft proposals (3-month review, CWD-tracked). 51% master vote (100,000/200,000) submits to Regional Boards (e.g., Education funding Frostpeak schools).
+  - *Federal*: Grandmasters propose laws for 94 million voters every 5 years (6/10 vote, 12-month vetting).
+- **Master/Grandmaster Criteria**:
+  - *Masters*: 3+ years post-service, 5+ apprentices ($10,000+ co-op revenue), $100,000 revenue. Elected by 13 million journeymen (2 million total, 200,000/sector).
+  - *Grandmasters*: 10+ apprentices, 80% retention, $1.5 million impact. Elected by 2,000 masters/sector.
+  - *Cross-Sector Masters*: 1 million (50,000/region), vote in 2 sectors (15% cap, ~705,000/4.7 million voters/region/sector).
+- **Voting**: ~4.7 million voters/region (94 million total, adjusted: 6.5 million Corridon, 3 million Frostpeak/Ember) vote for 10 masters/sector every 5 years (biennial cycles, ~235,000 co-op votes: 1 vote/1,000 employees, 5% cap). Dropouts vote for wildcards, credit union/FCL boards. Juniors vote for FCL boards if members. $10 BWC credits incentivize turnout (~90 million voters, $850 million/year). By 2075, 109 million voters.
 
-### 1.1 Economic Sectors
-Ten sectors anchor governance and the economy:  
-Industry & Infrastructure, Health, Education, Agriculture, Trade & Corporate, Media & Communications, Legal & Judiciary, Defense/Aerospace & Tech, Co-op, Treasury.  
+#### 1.1.1 Master Nominations and Elections
+- **Elections**:
+  - *Masters*: 13 million journeymen nominate 10 candidates/sector/region (10% endorsement), elect 10,000/sector/region via 51% vote (~4.7 million voters/region, blockchain-secured). 30-day campaigns, $1 billion SWF for co-op forums. $10 BWC credits ($850 million/year).
+  - *Grandmasters*: 2,000 masters/sector nominate 3 candidates, elect 1 via 51% vote.
+- **Board Nominations**:
+  - *Sectoral Nominating Panels (SNPs)*: 9 sectors (180 panels, 9/region), 15 masters/SNP, opt-in lottery. Treasury lottery (51 staff/region). Nominate 2 candidates via 51% vote (FCL revenue $100,000+). 3-month deliberation, 15-day runoffs, Legal & Judiciary disputes.
+  - *Regional Energy Assemblies (REAs)*: Industry & Infrastructure, 100–200 members/district, nominate 2 candidates.
+  - *Regional Health Assemblies (RHAs)*: Health, 100–200 members/district, nominate 2 candidates.
+  - *Transparency*: Credit unions publish profiles (30 days, $1 million/region).
+- **Funding**: $500 million/year (councils, elections), $463 million/year (SNPs/REAs/RHAs), $150 million/year (blockchain), $850 million/year (BWC credits), from $550 billion SWF.
 
-Each is mapped to regional hubs (e.g., Corridon River for Industry & Infrastructure, Heartland Plains for Agriculture, Crossroads City for Co-op). Treasury oversees 5,000 credit unions issuing Bulwark Coin (BWC, 0.025 oz precious metal backing) and managing $452.5 billion loans.
+### 1.2 Credit Unions
+5,000 credit unions (250/region) issue BWC (0.025 oz reserve), managing $452.5 billion loans ($217.5 billion SWF, $235 billion banking, $50 billion non-SWF), $208 billion banking suite, $15.04 billion wallets, $94 billion shares for $14.5 trillion GDP (65% co-ops/$9.425 trillion, 15% corporate/$2.175 trillion, 20% informal/$2.9 trillion), scaling to $1.2084 trillion loans by 2075. Details in *[Credit Union Act](https://www.reddit.com/r/Bulwarkomics/s/akvIkYmd89)*.
+- **Board Elections**: Members (1–1,000 shares) elect 5–7 board members ($75,000/year, $525 million/year) every 3 years, trained via Credit Union Academy ($500 million/year). Boards oversee loans, banking suite, and shares, ensuring 65/15/20 GDP split.
+- **Functions**:
+  - *Loans*: $452.5 billion (65% co-op/$294.125 billion, 15% corporate/$67.875 billion, 20% informal/$90.5 billion), including $50 billion non-SWF for small co-ops/informal businesses.
+  - *Banking Suite*: $208 billion ($94 billion checking, $94 billion savings, mutual funds, GICs, bonds, crypto, retirement).
+  - *Wallets*: $15.04 billion ($50/citizen, to $326 by 2075).
+  - *Shares*: $94 billion base ($1/BWC, max 1,000/citizen, 4–8% dividends).
+  - *Revenue*: $96.6185 billion/year, including $22.87 billion from fees (BWC Transaction: $15 billion, Cash Swap: $362.5 million, Checking: $940 million, ETF: $705 million, Liquidity: $2.2625 billion, Micro-Loan: $200 million, Micro-Loan Interest: $400 million, Non-SWF Interest: $2.5 billion, Insurance: $500 million), $2.48 billion SMSWF profits, $71.2685 billion reserve interest/investments.
+- **CLS**: 60,000 officers manage loans, issue $500 student venture loans (ages 12–15, lenient criteria, loan advice, mentorship for $10,000+ revenue or path-altering ventures), support bankruptcy recovery, ensure 65/15/20 split. CLS Academy ($1.5375 billion/year) trains officers. Cost: $1.875 billion/year, funded by $1.5375 billion credit union revenue and $337.5 million SWF.
+- **Oversight**: CWD ($150 million/year) tracks loans, boards, CLS metrics, audited by 50–75 auditors, $1 billion blockchain/AI, capping $2.5 billion fraud.
 
-- **Membership**: At age 20, 94 million Citizens are auto-incorporated and assigned to one sector based on diploma/service. Sector switches allowed every 5 years via credit unions (250/region).  
-- **Juniors** (12–19): Pre-incorporate with $10,000+ revenue or $500 loans (blockchain ID, 1 share, $50 wallet, no voting until 20).  
-- **Dropouts** (900,000–1.8 million): Assigned via apprenticeships; gain wildcard and credit union/FCL board voting rights.  
-- **By 2075**: 109 million Corporate Citizens (130 million total population).
+### 1.3 Citizen Incorporation
+At age 20, 94 million citizens receive:
+- Blockchain ID, auto-incorporation for co-op/informal access.
+- 1 vote, 1 base share ($1/BWC, up to 1,000, 4–8% dividends).
+- $50 BWC wallet (0.025 oz backing, to $326 by 2075) for $500 micro-loans.
+- Untaxed informal income under $100,000.
+- **Juniors**: Ages 12–19 with $10,000+ revenue or $500 loans open accounts (blockchain ID, 1 share, $50 wallet, no voting until 20, $2 million/year).
+- **Dropouts**: Access $5 billion/year apprenticeships, vote for wildcards, credit union/FCL boards.
+- **Citizen Flow Program**: $15 billion SWF-funded campaign educates 112 million on elections, governance, fraud prevention, sustainability via AM radio, TV, internet, managed by Governance Training Program, tracked via CWD.
 
-### 1.2 Master & Grandmaster Criteria
-- **Masters** (2 million total, 200,000/sector): 3+ years post-service, 5+ apprentices ($10,000+ co-op revenue), $100,000 revenue.  
-- **Grandmasters** (100,000 total, 10,000/sector): 10+ apprentices, 80% retention, $1.5 million impact.  
-- **Cross-Sector Masters** (1 million total, 50,000/region): Vote in two sectors (15% cap per sector, \~705,000/4.7 million voters/region/sector).
-
-### 1.3 Voting & Nomination Summary
-
-| Position                  | Electorate                          | Nomination Process                              | Election Frequency & Term | Vote Required | Approx. Voters (2025) |
-|---------------------------|-------------------------------------|--------------------------------------------------|---------------------------|---------------|-----------------------|
-| Masters (10/sector/region) | 13 million journeymen nationwide   | 10% endorsement → 10 candidates/sector/region   | Every 5 years            | 51%           | \~4.7 million/region   |
-| Grandmasters (1/sector)   | 2,000 masters/sector               | 3 candidates nominated by masters               | Every 5 years            | 51%           | 2,000/sector          |
-| Regional Board Masters (10/region) | \~4.7 million voters/region | SNPs, REAs, RHAs nominate 2 candidates/sector  | Every 5 years            | 51%           | \~4.7 million/region   |
-| Regional Board Wildcards (1/region) | 94 million nationwide     | Open nomination (any citizen)                   | Annually                 | 51%           | \~94 million           |
-| Central Council Masters (10) | 200 regional masters             | Nominated by Regional Boards                    | Every 5 years            | 101/200       | 200                   |
-| National Assembly Grandmasters (10) | 2,000 masters/sector        | 1 per sector                                    | Every 5 years            | 51% per sector| 2,000/sector          |
-
-- **Incentives**: $10 BWC credits per voter (\~$850 million/year) to boost turnout (\~90 million voters expected).  
-- **Blockchain-secured**: All votes tracked via CWD ($150 million/year).
-
-### 1.4 Credit Unions
-5,000 credit unions (250/region) issue BWC, manage $452.5 billion loans ($294.125 billion co-op, $67.875 billion corporate, $90.5 billion informal), $208 billion banking suite, $15.04 billion wallets, $94 billion shares.  
-- **Board Elections**: 5–7 members ($75,000/year) elected every 3 years by members (1–1,000 shares).  
-- **CLS**: 60,000 officers manage loans, issue $500 student venture loans, support bankruptcy recovery. CLS Academy trains officers ($1.5375 billion/year).  
-- **Revenue**: $96.6185 billion/year (fees, interest, SMSWF profits, etc.).  
-- **Oversight**: CWD tracks performance; 50–75 auditors + $1 billion blockchain/AI cap $2.5 billion fraud.
-
-### 1.5 Citizen Incorporation
-At age 20:  
-- Blockchain ID, auto-incorporation into one sector.  
-- 1 vote, 1 base share ($1/BWC, up to 1,000, 4–8% dividends).  
-- $50 BWC wallet (scaling to $326 by 2075).  
-- Untaxed informal income under $100,000.  
-
-Citizen Flow Program ($15 billion SWF-funded) educates 112 million on governance, elections, and fraud prevention via AM radio, TV, and forums.
+---
 
 ## Section 2: Regional Level
-
 ### 2.1 Regional Boards
-20 Regional Boards (220 members total):  
-- **Composition**: 10 masters (1/sector) + 1 wildcard per region.  
-- **Election**: \~4.7 million voters/region elect 10 masters every 5 years; 94 million elect 20 wildcards annually.  
-- **Terms**: 5 years (masters), 1 year (wildcards).  
-- **Wildcard Powers**: Propose 1 resolution per meeting (cannot repeat same issue within 6 months without 51% board support); resolve tied votes; chair quarterly public forums ($20 million/year).  
-- **Functions**:  
-  - Manage $22.625 billion loans/region (65% co-op, 15% corporate, 20% informal).  
-  - Oversee $10.4 billion banking/region, $752 million wallets/region.  
-  - Fund regional projects (e.g., Corridon barges, rail, ports).  
-  - Approve Central Council appointments (11/20 vote).  
-  - Administer $500 million/region Co-op Stabilization Fund.  
-- **Operations**: Monthly meetings, $27.5 million/region budget ($550 million total).
+Each of 20 regions (e.g., Region 1: Crossroads City/Corridon, 6.5 million voters; Region 3: North Valley City/Frostpeak, 3.5 million voters) has an 11-member Board (220 total):
+- **Composition**: 10 masters (1/sector), 1 wildcard.
+- **Nomination**: SNPs, REAs, RHAs nominate 2 candidates/sector/region.
+- **Election**: ~4.7 million voters/region elect 10 masters every 5 years, 94 million elect 20 wildcards annually ($1.5 billion voter mobilization, $850 million/year BWC credits). 5-year terms (masters), 1-year terms (wildcards). By 2075, 109 million voters.
+- **Wildcard Powers**: Propose 1 resolution/meeting (e.g., $500 million informal co-ops), requiring 6/11 approval. Resolve tied votes, chair quarterly forums ($20 million/year).
+- **Chairman**: Elected annually by 6/11 vote (masters only).
+- **Functions**:
+  - Manage $22.625 billion loans/region (65% co-op, 15% corporate, 20% informal), audited via CWD.
+  - Oversee $10.4 billion banking accounts/region, $752 million wallets/region.
+  - Fund projects (e.g., $75.4 billion manufacturing co-ops, $47.125 billion clinic loans).
+  - Coordinate infrastructure: Corridon barges ($15.75 billion), 50,000 km rail ($37.5 billion), 97 million tons ports ($19.35 billion).
+  - Support sustainability: $50 million/region for greenhouses, $25 million/region for Heartland Valley Eco-Zone.
+  - Approve Central Council appointments (11/20 vote).
+  - Review vetoes/emergency powers (15/20 vote).
+  - Discretionary funds: $4.9625 billion/region, to $13.255 billion by 2075.
+  - Administer $500 million/region Co-op Stabilization Fund ($10 billion/year).
+- **Operations**: Monthly meetings, biannual audits. Budgets: $27.5 million/region ($550 million total), from $601.58 billion revenue.
 
 ### 2.2 Judiciary
-200 judges (10/region), appointed by Regional Boards (6/11 vote), 10-year terms. Legal & Judiciary sector oversees audits, disputes, and $2.5 billion fraud cap.
+200 judges (10/region) appointed by Regional Boards (6/11 vote), 10-year terms. Legal & Judiciary sector oversees $208 billion banking audits, $15.04 billion wallets, $94 billion shares, $2.5 billion fraud cap, disputes (e.g., parkweb violations).
+
+---
 
 ## Section 3: National Level
-
 ### 3.1 Central Council
-- **Composition**: 11 members (10 masters: 1/sector + 1 wildcard).  
-- **Election**: 200 regional masters elect 10 masters (101/200 vote); 94 million elect wildcard annually.  
-- **Terms**: 5 years (one-term limit).  
-- **Chairman**: Elected by 6/11 vote (2-year term, masters only).  
-- **Functions**: Oversee $601.58 billion revenue, $550 billion SWF, $452.5 billion loans; appoint 510 staff, 200 judges, NEB/NHB directors; allocate $50 billion infrastructure, $30 billion R&D, $20 billion housing, etc.  
-- **Veto Power**: Block Assembly/Board decisions (6/11 vote, 7 days).  
-- **Emergency Powers**: NEC activation (6/11 vote, 90 days) or chairman action (30 days for >10% GDP crises).  
-- **Operations**: 9/11 quorum, $500 million budget.
+- **Composition**: 11 members (10 masters: 1/sector, 1 wildcard).
+- **Election**: 200 regional masters elect 10 masters (101/200 vote). 94 million elect wildcard annually ($1.5 billion voter mobilization, $850 million/year BWC credits). 5-year terms, one-term limit. By 2075, 109 million voters.
+- **Chairman**: Elected by 6/11 vote (2-year term, masters only).
+- **Functions**:
+  - Oversee $601.58 billion revenue ($129.775 billion personal, $70 billion co-op, $9.25 billion corporate, $15 billion excise, $18.75 billion property, $49 billion tariffs, $15.65 billion fees; $276.18 billion minerals, $27.618 billion solar), with $96.6185 billion from credit unions, seeding $550 billion SWF, scaling to $1.6127 trillion revenue and $3.082 trillion SWF by 2075.
+  - Manage $550 billion SWF, funding sectoral, community ($10.1 billion Charity SWF), emergency ($50 billion), and mining SWFs, with $217.5 billion for loans.
+  - Manage $452.5 billion loans, $627.2 billion assets ($362.5 billion cash, $15.04 billion wallets, $94 billion shares, $208 billion accounts, $125–$175 billion reserve), scaling to $1.2084 trillion loans.
+  - Appoint 510 department staff, 200 judges, 3 SAP arbiters, 3 NEC directors, NEB experts/chairman (6/11 vote, 11/20 Boards confirm).
+  - Approve NEB strategic plans (e.g., $751.7 billion energy investments).
+  - Allocate $50 billion infrastructure, $30 billion R&D, $20 billion agro camps, $20 billion housing, $64.25 billion reserve, $500 million space launches.
+  - Manage sustainability: $50 million/year parkweb, $500 million/year CO2 pipelines, $1 billion greenhouses.
+  - Administer $10 billion/year Co-op Stabilization Fund.
+- **Veto Power**: Block Assembly/Board decisions with 6/11 vote (7 days). Appeals via 15/20 Boards or SAP.
+- **Emergency Powers**: NEC activation (6/11 vote, 90 days) or chairman action (30 days, >10% GDP crises), reviewed by 15/20 Boards.
+- **Operations**: 9/11 quorum, $500 million ops, audited by 50–75 auditors, CWD.
 
 ### 3.2 National Assembly
-- **Composition**: 10 grandmasters (1/sector).  
-- **Election**: 2,000 masters/sector elect 1 (51% vote).  
-- **Terms**: 5 years (one-term limit).  
-- **Functions**: Propose laws for 94 million voters every 5 years (6/10 vote); advise on tariffs, SWF, infrastructure.  
-- **Operations**: Yearly meetings, $500 million budget.
+- **Composition**: 10 grandmasters (1/sector).
+- **Election**: 2,000 masters/sector elect 1 grandmaster (51% vote). 5-year terms, one-term limit.
+- **Chairman**: Elected by 6/10 vote (3-year term).
+- **Functions**: Propose laws for 94 million voters every 5 years (6/10 vote). Advise on tariffs, infrastructure, SWF allocations. Conduct hearings for FCLs, credit unions, middle class.
+- **Operations**: Yearly meetings, $500 million ops, audited via CWD.
 
 ### 3.3 National Emergency Council (NEC)
-- **Composition**: 3 directors (Central Council appoints, 6/11 vote, 3-year term).  
-- **Functions**: 90-day emergency powers for crises; redirect revenue/SWF/loans.  
-- **Funding**: $50 billion SWF reserve.
+- **Composition**: 3 directors, appointed by Central Council (6/11 vote, 3-year term).
+- **Functions**: 90-day emergency powers for crises (e.g., Corridon flooding), 30-day action for >10% GDP crises, redirecting $601.58 billion revenue, $550 billion SWF, $452.5 billion loans.
+- **Funding**: $50 billion SWF, $5 billion/year plans, tracked via CWD.
 
 ### 3.4 Special Arbiter Panel (SAP)
-- **Composition**: 3 arbiters (CJC appoints, 6/10 vote, 5-year term; 1+ cross-sector master).  
-- **Functions**: Resolve deadlocks, advise EGA, review vetoes/emergencies.  
-- **Funding**: $3 million/year.
+- **Composition**: 3 arbiters, appointed by CJC (6/10 vote, 5-year term), 1+ cross-sector master.
+- **Functions**: Resolve deadlocks (e.g., $7.5 billion agro tariffs), advise EGA, review vetoes/emergencies.
+- **Funding**: $3 million/year, tracked via CWD.
 
 ### 3.5 Emergency General Assembly (EGA)
-- **Composition**: 21 chairmen (1 Central Council, 20 Regional Boards, 1 National Assembly).  
-- **Trigger**: 3/20 regions report co-op collapse (>20% GDP drop) or crisis.  
-- **Functions**: Issue 90-day resolutions; mediated by SAP.  
-- **Safeguards**: 7/10 CJC or 15/20 Boards can overturn.
+- **Composition**: 21 chairmen (1 Central Council, 20 Regional Boards, 1 National Assembly).
+- **Trigger**: 3/20 regions report co-op collapse (>20% GDP drop) or crises.
+- **Functions**: Issue 90-day resolutions (e.g., redirect $452.5 billion loans), mediated by SAP.
+- **Safeguards**: 7/10 CJC or 15/20 Boards overturn, tracked via CWD.
 
-## Section 4: Checks and Balances Overview
+---
 
-| Mechanism                  | Who Can Trigger / Use It                  | Requirement                  | Effect / Limit                              |
-|----------------------------|-------------------------------------------|------------------------------|---------------------------------------------|
-| Recall (Regional Board)    | Masters in region                         | 51% masters                  | Remove master; 90-day cooling-off after failed attempt |
-| Recall (Central Council)   | Regional masters                          | 101/200                      | Remove member                               |
-| Recall (Wildcard)          | All voters                                | 51% nationwide               | Remove wildcard                             |
-| Veto (Central Council)     | Central Council                           | 6/11 vote                    | Block Assembly/Board decision (7 days)      |
-| Emergency Powers (NEC)     | Central Council                           | 6/11 vote                    | 90-day powers; reviewed by 15/20 Boards     |
-| Chairman Action            | Council Chairman                          | >10% GDP crisis              | 30-day action; reviewed by 15/20 Boards     |
-| EGA Trigger                | 3/20 Regional Boards                      | Crisis/co-op collapse        | 90-day resolutions; SAP mediation           |
-| Roving Special Auditors    | 50–75 auditors + CWD/blockchain/AI        | Any time (unannounced)       | Investigate fraud/power abuse; $2.5B cap    |
-| Cross-Sector Forum         | NLC + Central Council                     | Annual ($5–10M/year)         | Encourage inter-sector collaboration        |
+## Section 4: Departments and Special Bodies
+### 4.1 Departments
+Ten departments (51 staff/sector, 510 total) oversee $45.25–$90.5 billion loans/sector, funded by $601.58 billion revenue and $550 billion SWF. Appointed by Central Council (6/11 vote, 11/20 Boards confirm).
+- **Industry & Infrastructure**: Manages $50 billion infrastructure, $2.5 trillion energy, including Corridon barges ($15.75 billion), 50,000 km rail ($37.5 billion).
+- **Health**: Oversees $180 billion SWF, $47.125 billion clinic loans, NHB (11 members, $100 million/year).
+- **Education**: Runs $94.35 billion vouchers, $5 billion dropout apprenticeships, $1.5375 billion CLS Academy, $2.5 billion Governance Training Program for student venture loans, voter education.
+- **Agriculture**: Secures food via $20 billion agro camps, $45.375 billion revenue.
+- **Trade & Corporate**: Caps 15% corporate GDP ($2.175 trillion), oversees $49 billion tariffs.
+- **Media & Communications**: Educates via $15 billion SWF, including parkweb tourism.
+- **Legal & Judiciary**: Appoints 200 judges, audits $2.5 billion fraud cap.
+- **Defense/Aerospace & Tech**: Funds 100,000 active, 1 million reserves ($61 billion peacetime).
+- **Co-op**: Drives 65% GDP ($9.425 trillion), oversees $2.395 trillion CCIF, $10 billion Stabilization Fund.
+- **Treasury**: Oversees $601.58 billion revenue, $550 billion SWF, 5,000 credit unions ($96.6185 billion/year), manages CWD ($150 million/year).
 
-- **Auditor Impact**: Roving special auditors + public CWD logs create strong deterrence against elite capture.  
-- **Annual Cross-Sector Collaboration Forum**: $5–10 million/year (SWF-funded) brings masters/grandmasters from all sectors for one day to align priorities (non-binding recommendations to Central Council).
+### 4.2 Special Bodies
+- **National Energy Board (NEB)**: 11 members, regulates 400 TWh grid, $751.7 billion investments, $197 billion district loans.
+- **National Healthcare Board (NHB)**: 11 members, oversees $200 billion healthcare, $145 billion healthcare SWF, $35 billion mental health SWF.
+- **Auditors**: 50–75, audit credit unions, FCLs, SWF, loans, sustainability projects, capping $2.5 billion fraud via CWD.
 
-## Section 5: Departments and Special Bodies
-(Original departments kept exactly as in Draft 4.14 — Industry & Infrastructure, Health, Education, etc., with 51 staff/sector, 510 total.)
+---
+
+## Section 5: Checks and Balances
+- **Recalls**: 51% masters for Regional Boards, 51% grandmasters for Assembly, 101/200 regional masters for Council, 51% of 94 million voters for wildcards.
+- **Voting**: ~4.7 million voters/region elect 2 million masters every 5 years ($850 million/year BWC credits). Co-ops add 1 vote/1,000 employees (5% cap). CWD locks non-voters for 2 weeks.
+- **Oversight**: $1 billion blockchain/AI and CWD track SWF, loans, banking, sustainability, fraud ($2.5 billion cap).
+
+---
 
 ## Section 6: Operational Cycle
-(Original cycle kept exactly — 2025 elections, 2026–2029 operations, 2030 vote on laws, repeat.)
+- **2025**: ~4.7 million voters/region elect 2 million masters, 20 wildcards, 10 Assembly grandmasters, 11 Council members. Credit union boards oversee $452.5 billion loans. CLS mentors FCLs, issues student venture loans. Council approves NEB’s $751.7 billion energy investments.
+- **2026–2029**: Boards manage $22.625 billion loans/region, wildcards propose resolutions. Council oversees $601.58 billion revenue, $550 billion SWF. Assembly proposes laws. NEC/SAP handle crises/deadlocks.
+- **2030**: 94 million vote on laws, new masters; cycle repeats.
+- **2075–2080**: 109 million voters, loans scale to $1.2084 trillion ($60.42 billion/region), SWF to $3.082 trillion.
+
+---
 
 ## Key Stats (2025–2075)
-- **Population**: 112 million (94 million Corporate Citizens) → 130 million (109 million Corporate Citizens).  
-- **GDP**: $14.5 trillion (65% co-ops) → $38.94 trillion.  
-- **SWF**: $550 billion → $3.082 trillion.  
-- **Loans**: $452.5 billion → $1.2084 trillion.  
-- **Revenue**: $601.58 billion → $1.6127 trillion.  
+- **Population**: 112 million (94 million Corporate Citizens, 67 million middle class) to 130 million (109 million Corporate Citizens).
+- **GDP**: $14.5 trillion (65% co-ops/$9.425 trillion) to $38.94 trillion (65% co-ops/$25.311 trillion).
+- **SWF**: $550 billion to $3.082 trillion.
+- **Loans**: $452.5 billion to $1.2084 trillion.
+- **Revenue**: $601.58 billion to $1.6127 trillion.
+- **Credit Unions**: 5,000, $96.6185 billion/year revenue, $452.5 billion loans, $208 billion accounts, $15.04 billion wallets, $94 billion shares.
+- **Regions**: 20 (e.g., Region 1: Crossroads City/Corridon, Region 3: Frostpeak).
 - **Governance**: 20 Regional Boards (220 members), 10 National Assembly grandmasters, 11 Central Council members, 200 judges, 510 department staff.
 
-## Notes for r/Bulwarkomics
-Draft 4.15 adds clarity to wildcard limits, recall cooling-off, cross-sector forums, and two tables for voting and checks/balances. The system remains sectoral, merit-driven, party-free, and heavily audited to deter elite capture.
+---
 
-**Feedback Requested**:  
-- Do the wildcard and recall safeguards feel balanced?  
-- Should the Cross-Sector Forum be mandatory or kept optional?  
-- Any other tweaks to make the meritocracy even tighter?
+## Glossary
+- **BWC**: Bulwark Coin, backed by 0.025 oz precious metals.
+- **CCIF**: Capital Investment Fund, $2.395 trillion co-op pool.
+- **FCL**: Federated Cooperative Limited, worker/customer-owned co-op.
+- **SWF**: Sovereign Wealth Fund, $550 billion to $3.082 trillion.
+- **CWD**: Crossroads Workforce Database, $150 million/year, tracking metrics.
+- **CLS**: Crossroads Loan Service, manages $452.5 billion loans, mentors FCLs.
+
+---
