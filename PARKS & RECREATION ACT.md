@@ -154,8 +154,4 @@ The **Corridon River** flows **1,200 km southwest** across **2.7 million km²**,
 - Aligned revenue to include **$15.65 billion fees/patronage** ($8.4125 billion credit unions, $7.2375 billion other), with $31.18 billion park-specific resources ($1.5 billion timber, $9.4 billion shipping fees, $20.28 billion other).
 - Clarified $2.5 billion/year CCIF for parks within $50 billion/year SWF projects, with exclusive greenhouses (Region 5) and CO2 pipelines (Region 3).
 - Detailed Region 3’s 750 km CO2 pipeline supporting 25 mining FCLs ($470 million/year profit, SMSWF-funded).
-- Confirmed 30,000 co-op clubs as recreation-focused FCLs, with profits feeding SWF sub-funds (e.g., $13.2 billion/year to Healthcare by 2075).
-
-**Feedback Requested**: How should the $550 billion SWF prioritize parks vs. housing or mining sub-funds? Does the $290 billion co-op recharge’s integration with CCIF and SWF projects align across acts? Thoughts on scaling CO2 pipelines in Region 3 or linking co-op clubs to Monetary Act’s Housing SWF?
-
----
+- Confirmed 30,000 co-op clubs as recreation-focused FCLs, with profits feeding SWF sub-funds (e.g., $13.2 billion/year to Healthcare by 2075)
