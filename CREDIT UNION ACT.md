@@ -112,10 +112,3 @@ Every citizen who buys into a Wallet **grows the national metals reserve** via E
 | CLS Officers               | 60,000                      | —                           |
 | Revenue                    | $96.6185 billion/year       | —                           |
 
-## Notes for r/Bulwarkomics
-**Draft 2.7** reorganizes for maximum clarity, adds tables for tiers/revenue/ETFs/stats, keeps every detail from Draft 2.6, and highlights how credit unions self-recapitalize, grow the metals reserve via member Wallets/ETFs, and offer low-barrier entry with tiered wealth-building.
-
-**Feedback Requested**:  
-- Do the tables make the tiers, revenue, and ETF mechanics easier to understand?  
-- Does the self-recapitalization + reserve-growth loop feel clear now?  
-- Any other sections that still feel dense?
