@@ -202,10 +202,3 @@ If co-op GDP dips below 60%, Treasury triggers fee hikes (1–2% BWC) or cash sh
 | CGCI                       | $1 trillion cap, $329B/year | $2.5 trillion cap, $879B/year |
 | Revenue                    | $601.58 billion             | $1.6127 trillion            |
 
-## Notes for r/Bulwarkomics
-**Draft 6.6** reorganizes for clarity, adds tables for revenue/SWF/key stats, and improves flow without dropping any detail from Draft 6.5. This is the monetary backbone that funds everything else (FCLs, healthcare, education, defense, housing).
-
-**Feedback Requested**:  
-- Do the tables make revenue and SWF sub-funds easier to scan?  
-- Any sections that still feel dense or need more breakdown?  
-- Thoughts on the dual-currency balance between cash (informal) and BWC (formal)?
