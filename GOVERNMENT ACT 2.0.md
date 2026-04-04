@@ -1,9 +1,9 @@
-# Crossroads Government Act of 2025: Draft 4.15
+# Crossroads Government Act of 2025: Draft 4.16
 
 **Posted to r/Bulwarkomics**  
-**Draft**: 4.15 Detailed | **Date**: April 1, 2026  
+**Draft**: 4.16 Detailed | **Date**: April 4, 2026  
 
-The **Crossroads Government Act of 2025 (Draft 4.15)** establishes a decentralized, worker-led government for **New Crossroads**, post a 2025 revolution. It serves 112 million citizens (94 million Corporate Citizens) with a $14.5 trillion GDP (65% co-ops/$9.425 trillion, 15% corporate/$2.175 trillion, 20% informal/$2.9 trillion), targeting a $38.94 trillion GDP by 2075. Governed by **20 Regional Boards** (220 members), a **10-member National Assembly**, and an **11-member Central Council**, it operates without a central leader, supported by 10 economic sectors and 5,000 credit unions acting as a decentralized central bank. The act manages $601.58 billion revenue, $550 billion Sovereign Wealth Fund (SWF), $452.5 billion loans, and $15.04 billion reserve-backed Wallets, integrating geographic hubs (e.g., Corridon, Frostpeak), sustainability (parkweb, greenhouses), and co-op empowerment.
+The **Crossroads Government Act of 2025 (Draft 4.16)** establishes a decentralized, worker-led government for **New Crossroads**, post a 2025 revolution. It serves 112 million citizens (94 million Corporate Citizens) with a $14.5 trillion GDP (65% co-ops/$9.425 trillion, 15% corporate/$2.175 trillion, 20% informal/$2.9 trillion), targeting a $38.94 trillion GDP by 2075. Governed by **20 Regional Boards** (220 members), a **10-member National Assembly**, and an **11-member Central Council**, it operates without a central leader, supported by 10 economic sectors and 5,000 credit unions acting as a decentralized central bank. The act manages $601.58 billion revenue, $550 billion Sovereign Wealth Fund (SWF), $452.5 billion loans, and $15.04 billion reserve-backed Wallets, integrating geographic hubs (e.g., Corridon, Frostpeak), sustainability (parkweb, greenhouses), and co-op empowerment.
 
 ---
 
@@ -100,7 +100,7 @@ Each of 20 regions (e.g., Region 1: Crossroads City/Corridon, 6.5 million voters
 
 - **Sustainability**: Support regional sustainability initiatives: $50 million/region for greenhouses, $25 million/region for Heartland Valley Eco-Zone.
 
-- **National Appointments**: Approve Central Council appointments (11/20 vote).
+- **National Appointments**: Approve Central Council appointments (11/20 vote). **Nominate candidates for Supreme Court justices (7 seats)** for confirmation by the National Assembly.
 
 - **Emergency Review**: Review vetoes and emergency powers (15/20 vote to overturn).
 
@@ -112,7 +112,9 @@ Each of 20 regions (e.g., Region 1: Crossroads City/Corridon, 6.5 million voters
 
 ### 2.2 Judiciary
 
-200 judges (10/region) appointed by Regional Boards (6/11 vote), 10-year terms. Legal & Judiciary sector oversees $208 billion banking audits, $15.04 billion wallets, $94 billion shares, $2.5 billion fraud cap, disputes (e.g., parkweb violations).
+**Regional Judges**: 200 judges (10/region) appointed by Regional Boards (6/11 vote), 10-year terms. Legal & Judiciary sector oversees $208 billion banking audits, $15.04 billion wallets, $94 billion shares, $2.5 billion fraud cap, disputes (e.g., parkweb violations).
+
+**Supreme Court**: 7 justices nominated by Regional Boards (11/20 vote) and confirmed by the National Assembly (6/10 vote). Justices serve 15-year terms with a mandatory retirement age of 75. The Supreme Court hears appeals on constitutional questions, disputes between regions, conflicts between national bodies (Central Council, National Assembly, Regional Boards), and final appeals on cases involving the $2.5 billion fraud cap. Decisions require a 5/7 majority.
 
 ---
 
@@ -121,7 +123,7 @@ Each of 20 regions (e.g., Region 1: Crossroads City/Corridon, 6.5 million voters
 ### 3.1 Central Council
 
 - **Composition**: 11 members (10 masters: 1/sector, 1 wildcard).
-- **Election**: 200 regional masters of the Regional Boards elect 10 masters (101/200 vote). 94 million elect wildcard annually ($1.5 billion voter mobilization, $850 million/year BWC credits). 5-year terms, one-term limit. By 2075, 109 million voters.
+- **Election**: 200 regional masters of the Regional Boards elect 10 masters (101/200 vote). **Elected members must be confirmed by the National Assembly (6/10 vote) before taking office.** 94 million elect wildcard annually ($1.5 billion voter mobilization, $850 million/year BWC credits). 5-year terms, one-term limit. By 2075, 109 million voters.
 - **Chairman**: Elected by 6/11 vote (2-year term, masters only).
 
 - **Functions**:
@@ -150,6 +152,11 @@ Each of 20 regions (e.g., Region 1: Crossroads City/Corridon, 6.5 million voters
 
 - **Law Proposal**: Propose laws for 94 million voters every 5 years (6/10 vote). Proposed laws undergo 12-month vetting before national referendum, with explanatory materials prepared by the Assembly and made publicly available via CWD. Referenda require a simple majority of voters to pass.
 
+- **Confirmation Powers**:
+  - **Central Council**: Confirm the 10 masters elected by Regional Boards (6/10 vote). Confirmation hearings shall assess qualifications, potential conflicts of interest, and alignment with the nation's co-op values. Rejected candidates shall be replaced by the Regional Boards within 60 days.
+  - **Regional Judges**: Confirm the 200 judges appointed by Regional Boards (6/10 vote, applied collectively or individually at Assembly discretion).
+  - **Supreme Court Justices**: Confirm the 7 justices nominated by Regional Boards (6/10 vote). Confirmation requires public hearings and a two-thirds majority (7/10) for chief justice.
+
 - **Advisory Role**: Advise on tariffs, infrastructure, SWF allocations, and other matters of national importance through formal resolutions (6/10 vote).
 
 - **Oversight Hearings**: Conduct public hearings on matters of national importance. By a vote of 6/10 grandmasters, the Assembly may summon:
@@ -159,6 +166,7 @@ Each of 20 regions (e.g., Region 1: Crossroads City/Corridon, 6.5 million voters
   - The head of any national department
   - The arbiters of the Special Arbiter Panel (for matters within their jurisdiction)
   - The national or regional directors of the Crossroads Loan Service (for systemic issues)
+  - Justices of the Supreme Court (for matters of judicial conduct or impeachment proceedings)
   
   In conducting hearings, the Assembly may:
   - Compel testimony under oath, with perjury penalties as established by the judiciary
@@ -172,7 +180,9 @@ Each of 20 regions (e.g., Region 1: Crossroads City/Corridon, 6.5 million voters
 
 - **Annual State of the Nation**: The Chairman of the Central Council shall appear before the Assembly annually to report on the state of the Sovereign Wealth Fund, the national revenue, the loan portfolio, and major infrastructure and sustainability projects. The hearing shall be made available to the public via CWD and regional media.
 
-- **Operations**: Yearly meetings (with additional sessions as needed for hearings or emergencies), $500 million operations budget (separate from Central Council and Regional Board budgets, administered by the Assembly), audited via CWD.
+- **Impeachment Power**: The Assembly may impeach Supreme Court justices, regional judges, Central Council members, and other high officials for treason, bribery, corruption, or gross neglect of duty. Impeachment requires a 7/10 vote and is tried before the Supreme Court (for executive/legislative officials) or a special panel of regional judges (for Supreme Court justices).
+
+- **Operations**: Yearly meetings (with additional sessions as needed for hearings, confirmations, or emergencies), $500 million operations budget (separate from Central Council and Regional Board budgets, administered by the Assembly), audited via CWD.
 
 ### 3.3 National Emergency Council (NEC)
 
@@ -207,7 +217,7 @@ Ten departments (51 staff/sector, 510 total) oversee $45.25–$90.5 billion loan
 - **Agriculture**: Secures food via $20 billion agro camps, $45.375 billion revenue.
 - **Trade & Corporate**: Caps 15% corporate GDP ($2.175 trillion), oversees $49 billion tariffs.
 - **Media & Communications**: Educates via $15 billion SWF, including parkweb tourism.
-- **Legal & Judiciary**: Appoints 200 judges, audits $2.5 billion fraud cap.
+- **Legal & Judiciary**: Appoints 200 judges, audits $2.5 billion fraud cap. Administrates Supreme Court operations.
 - **Defense/Aerospace & Tech**: Funds 100,000 active, 1 million reserves ($61 billion peacetime).
 - **Co-op**: Drives 65% GDP ($9.425 trillion), oversees $2.395 trillion CCIF, $10 billion Stabilization Fund.
 - **Treasury**: Oversees $601.58 billion revenue, $550 billion SWF, 5,000 credit unions ($96.6185 billion/year), manages CWD ($150 million/year).
@@ -216,6 +226,7 @@ Ten departments (51 staff/sector, 510 total) oversee $45.25–$90.5 billion loan
 
 - **National Energy Board (NEB)**: 11 members, regulates 400 TWh grid, $751.7 billion investments, $197 billion district loans.
 - **National Healthcare Board (NHB)**: 11 members, oversees $200 billion healthcare, $145 billion healthcare SWF, $35 billion mental health SWF. Coordinates with Regional Boards on regional healthcare implementation.
+- **Supreme Court**: 7 justices, nominated by Regional Boards (11/20 vote), confirmed by National Assembly (6/10 vote). 15-year terms, mandatory retirement at 75. Original jurisdiction over constitutional questions and disputes between regions. Appellate jurisdiction over cases involving the $2.5 billion fraud cap, conflicts between national bodies, and impeachments of high officials.
 - **Auditors**: 50–75, audit credit unions, FCLs, SWF, loans, sustainability projects, capping $2.5 billion fraud via CWD. **Appointed by Central Council (6/11 vote), confirmed by Regional Boards (11/20 vote).** Auditors serve 5-year terms and may be removed only by joint action of Central Council and the Regional Board of the region they serve.
 
 ---
@@ -223,6 +234,14 @@ Ten departments (51 staff/sector, 510 total) oversee $45.25–$90.5 billion loan
 ## Section 5: Checks and Balances
 
 - **Recalls**: 51% masters for Regional Boards, 101/200 regional masters for Council, 51% of 94 million voters for wildcards. **Grandmasters are not subject to recall**; the 5-year term with one-term limit serves as the accountability mechanism for the Assembly.
+
+- **Confirmation Chain**:
+  - Regional Boards elect Central Council masters → **National Assembly confirms (6/10 vote)**
+  - Regional Boards appoint regional judges → **National Assembly confirms (6/10 vote)**
+  - Regional Boards nominate Supreme Court justices → **National Assembly confirms (6/10 vote, 7/10 for chief justice)**
+  - Central Council appoints department staff, SAP arbiters, NEC directors, NEB commissioners → **Regional Boards confirm (11/20 vote)**
+
+- **Impeachment**: National Assembly may impeach (7/10 vote). Supreme Court tries impeachments of executive/legislative officials. Special panel of regional judges tries impeachments of Supreme Court justices.
 
 - **Voting**: ~4.7 million voters/region elect 2 million masters every 5 years ($850 million/year BWC credits). Co-ops add 1 vote/1,000 employees (5% cap). CWD locks non-voters for 2 weeks.
 
@@ -232,9 +251,9 @@ Ten departments (51 staff/sector, 510 total) oversee $45.25–$90.5 billion loan
 
 ## Section 6: Operational Cycle
 
-- **2025**: ~4.7 million voters/region elect 2 million masters, 20 wildcards, 10 Assembly grandmasters, 11 Council members. Credit union boards oversee $452.5 billion loans. CLS mentors FCLs, issues student venture loans. Council approves NEB's $751.7 billion energy investments.
+- **2025**: ~4.7 million voters/region elect 2 million masters, 20 wildcards, 10 Assembly grandmasters, 11 Council members (subject to Assembly confirmation). Regional Boards nominate and Assembly confirms 7 Supreme Court justices. Credit union boards oversee $452.5 billion loans. CLS mentors FCLs, issues student venture loans. Council approves NEB's $751.7 billion energy investments.
 
-- **2026–2029**: Boards manage $22.625 billion loans/region, **exercise state legislature functions (police, education, healthcare oversight, credit union audits)** , wildcards propose resolutions. Council oversees $601.58 billion revenue, $550 billion SWF. **Assembly proposes laws, conducts oversight hearings, receives annual State of the Nation address.** NEC/SAP handle crises/deadlocks.
+- **2026–2029**: Boards manage $22.625 billion loans/region, **exercise state legislature functions (police, education, healthcare oversight, credit union audits)** , wildcards propose resolutions. Council oversees $601.58 billion revenue, $550 billion SWF. **Assembly proposes laws, conducts oversight hearings, confirms appointments, receives annual State of the Nation address.** NEC/SAP handle crises/deadlocks.
 
 - **2030**: 94 million vote on laws, new masters; cycle repeats.
 
@@ -251,7 +270,7 @@ Ten departments (51 staff/sector, 510 total) oversee $45.25–$90.5 billion loan
 - **Revenue**: $601.58 billion to $1.6127 trillion.
 - **Credit Unions**: 5,000, $96.6185 billion/year revenue, $452.5 billion loans, $208 billion accounts, $15.04 billion wallets, $94 billion shares.
 - **Regions**: 20 (e.g., Region 1: Crossroads City/Corridon, Region 3: Frostpeak).
-- **Governance**: 20 Regional Boards (220 members), 10 National Assembly grandmasters, 11 Central Council members, 200 judges, 510 department staff.
+- **Governance**: 20 Regional Boards (220 members), 10 National Assembly grandmasters, 11 Central Council members, 200 regional judges, 7 Supreme Court justices, 510 department staff.
 
 ---
 
