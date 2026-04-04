@@ -194,7 +194,7 @@ If co-op GDP dips below 60%, Treasury triggers fee hikes (1–2% on BWC transact
 
 ## Section 3: Co-op Ecosystem Integration
 
-**Rationale**: FCLs are the engine of the 65% co-op economy. Their profits are transparently split (33% healthcare, 5% education, 22% charity, 40% members). Large FCLs face full CWD tracking; small FCLs operate with minimal oversight.
+**Rationale**: FCLs are the engine of the 65% co-op economy. Their profits are transparently split (10% healthcare, 10% education, 10% charity, 30-40% members/employees, 30-40% Investors/Founders ). Large FCLs face full CWD tracking; small FCLs operate with minimal oversight.
 
 - **FCL Role**: 27,100 FCLs (1,355/region) drive $9.425 trillion (65% GDP), scaling to $25.311 trillion by 2075. Contribute $2.036 trillion exports, $274 billion resources.  
 - **Profit Split**: 33% healthcare, 5% education, 22% charity, 40% members (70% workers/customers, 30% investors/owners; adjustable via 75% vote).  
