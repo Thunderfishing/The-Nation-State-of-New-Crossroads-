@@ -12,7 +12,7 @@ The **Crossroads Government Act of 2025 (Draft 4.15)** establishes a decentraliz
 ### 1.1 Economic Sectors  
 Ten sectors anchor New Crossroads' economy and governance: **Industry & Infrastructure**, **Health**, **Education**, **Agriculture**, **Trade & Corporate**, **Media & Communications**, **Legal & Judiciary**, **Defense/Aerospace & Tech**, **Co-op**, **Treasury**, mapped to hubs (e.g., Corridon River for Industry & Infrastructure, Heartland Plains for Agriculture, Crossroads City for Co-op). Treasury oversees 5,000 credit unions, issuing Bulwark Coin (BWC, 0.025 oz precious metal backing) and managing $452.5 billion loans.
 
-- **Membership**: At age 20, 94 million **Citizens** are auto-incorporated, assigned to 1 sector based on diploma/service. Sector switch every 5 years via credit unions (250/region). Juniors (12–19, $10,000+ revenue or $500 loans) pre-incorporate. Dropouts (900,000–1.8 million) assigned via apprenticeships. By 2075, 109 million citizens (130 million population).
+- **Membership**: At age 20 **Citizens** are auto-incorporated, assigned to 1 sector based on diploma/service. Sector switch every 5 years via credit unions (250/region). Juniors (12–19, $10,000+ revenue or $500 loans) pre-incorporate. Dropouts (900,000–1.8 million) assigned via apprenticeships. By 2075, 109 million citizens (130 million population).
 
 - **Functions**:
   - *Regional*: Masters coordinate $22.625 billion loans/region (65% co-op/$14.70625 billion, 15% corporate/$3.39375 billion, 20% informal/$4.525 billion). Sector councils (50 masters/sector/region, elected by 10,000 masters) draft proposals (3-month review, CWD-tracked). 51% master vote (100,000/200,000) submits to Regional Boards (e.g., Education funding Frostpeak schools).
@@ -58,7 +58,7 @@ Ten sectors anchor New Crossroads' economy and governance: **Industry & Infrastr
 
 ### 1.3 Citizen Incorporation
 
-At age 20, 94 million citizens receive:
+At age 20, citizens receive:
 - Blockchain ID, auto-incorporation for co-op/informal access.
 - 1 vote, 1 base share ($1/BWC, up to 1,000, 4–8% dividends).
 - $50 BWC wallet (0.025 oz backing, to $326 by 2075) for $500 micro-loans.
