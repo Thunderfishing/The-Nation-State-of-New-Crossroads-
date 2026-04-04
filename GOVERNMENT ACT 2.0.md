@@ -121,7 +121,7 @@ Each of 20 regions (e.g., Region 1: Crossroads City/Corridon, 6.5 million voters
 ### 3.1 Central Council
 
 - **Composition**: 11 members (10 masters: 1/sector, 1 wildcard).
-- **Election**: 200 regional masters elect 10 masters (101/200 vote). 94 million elect wildcard annually ($1.5 billion voter mobilization, $850 million/year BWC credits). 5-year terms, one-term limit. By 2075, 109 million voters.
+- **Election**: 200 regional masters of the Regional Boards elect 10 masters (101/200 vote). 94 million elect wildcard annually ($1.5 billion voter mobilization, $850 million/year BWC credits). 5-year terms, one-term limit. By 2075, 109 million voters.
 - **Chairman**: Elected by 6/11 vote (2-year term, masters only).
 
 - **Functions**:
