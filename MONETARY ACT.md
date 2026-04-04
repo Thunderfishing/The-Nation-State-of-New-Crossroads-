@@ -197,7 +197,7 @@ If co-op GDP dips below 60%, Treasury triggers fee hikes (1–2% on BWC transact
 **Rationale**: FCLs are the engine of the 65% co-op economy. Their profits are transparently split (10% healthcare, 10% education, 10% charity, 30-40% members/employees, 30-40% Investors/Founders ). Large FCLs face full CWD tracking; small FCLs operate with minimal oversight.
 
 - **FCL Role**: 27,100 FCLs (1,355/region) drive $9.425 trillion (65% GDP), scaling to $25.311 trillion by 2075. Contribute $2.036 trillion exports, $274 billion resources.  
-- **Profit Split**: 33% healthcare, 5% education, 22% charity, 40% members (70% workers/customers, 30% investors/owners; adjustable via 75% vote).  
+- **Profit Split**: 10% healthcare, 10% education, 10% charity, 30-40% member/employees 30_40% investors/founders; adjustable via 75% vote).  
 - **Capital Investment Fund (CCIF)**: $2.395 trillion ($1.96 trillion FCLs, $435 billion corporates), 7.5% returns, 0.5% fee. Funds co-op startups, SWF projects.  
 - **Alliance Network**: 1,832 members (1,755 FCL-elected, 77 Regional Board appointees) allocate CCIF funds, approve investments (65% FCL vote + 11/20 Board confirmation). Supports fusion, telehealth, media, parkweb, energy hubs. Audited via CWD.  
 - **Asymmetric Scrutiny**: FCLs with revenue below $1 million file simplified annual reports. FCLs above $1 million file full CWD disclosures. FCLs above $100 million face quarterly audits and public transparency hearings.  
