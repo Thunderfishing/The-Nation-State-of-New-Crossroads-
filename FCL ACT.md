@@ -22,7 +22,7 @@ Establishes the structure, governance, and financial operations of **195,100 Fed
 
 ### 2.1 FCL Network
 
-- **Structure**: 27,100 core FCLs (1,355 per region) plus 27,600 recreation-focused co-op clubs (1,380 per region) in 2025. Core FCLs grow to 30,000 (1,500 per region) by 2075. All are worker/customer-owned and produce goods/services across retail, manufacturing, agriculture, energy, tech, professional services, and recreation. **FCLs operate under three maturity tiers (see Section 2.4), with only Tier 3 requiring the full governance structure described in this Act.**
+- **Structure**: 195,100 core FCLs (1,355 per region) plus 27,600 recreation-focused co-op clubs (1,380 per region) in 2025. Core FCLs grow to 30,000 (1,500 per region) by 2075. All are worker/customer-owned and produce goods/services across retail, manufacturing, agriculture, energy, tech, professional services, and recreation. **FCLs operate under three maturity tiers (see Section 2.4), with only Tier 3 requiring the full governance structure described in this Act.**
 - **Revenue**: $9.425 trillion/BWC (65% GDP), funded by $294.125 billion/BWC loans, capital investments, and profits.
 
 ### 2.2 Membership
