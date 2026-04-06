@@ -10,7 +10,7 @@ Establishes the structure, governance, and financial operations of **195,100 Fed
 
 ## Section 1: Purpose and Scope
 
-- **Objective**: Establish 27,100 worker/customer-owned FCLs (1,355/region) to drive 65% of $14.5 trillion/BWC GDP ($9.425 trillion co-op sector) in 2025, scaling to $25.311 trillion (65% of $38.94 trillion) by 2075, contributing $2.036 trillion/BWC exports and utilizing $274 billion/BWC resources ($112.5 billion minerals, $45.375 billion agriculture, $26.625 billion fuels, $9 billion forestry/water, $31.18 billion parks, $49.32 billion other).
+- **Objective**: Establish 195,100 worker/customer-owned FCLs (1,355/region) to drive 65% of $14.5 trillion/BWC GDP ($9.425 trillion co-op sector) in 2025, scaling to $25.311 trillion (65% of $38.94 trillion) by 2075, contributing $2.036 trillion/BWC exports and utilizing $274 billion/BWC resources ($112.5 billion minerals, $45.375 billion agriculture, $26.625 billion fuels, $9 billion forestry/water, $31.18 billion parks, $49.32 billion other).
 - **Role**: Produce goods/services in retail (e.g., grocery stores), manufacturing (e.g., steel mills), agriculture, energy, tech, professional services (e.g., law firms), and recreation (e.g., co-op clubs), empowering workers, customers, and investors via cooperative ownership, patronage returns, and profit-sharing.
 - **Distinction**:
   - FCLs produce goods/services, unlike credit unions managing financial services.
