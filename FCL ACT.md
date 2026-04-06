@@ -6,7 +6,7 @@
 
 ## Purpose
 
-Establishes the structure, governance, and financial operations of **27,100 Federated Cooperatives Limited (FCLs)** across 20 regions in New Crossroads, driving 65% of the **$14.5 trillion/BWC GDP** ($9.425 trillion co-op sector) in 2025, scaling to **$25.311 trillion** by 2075, using Bulwark Coin (BWC). FCLs produce goods/services in retail, manufacturing, agriculture, energy, tech, professional services, and recreation, distinct from credit unions managing financial services.
+Establishes the structure, governance, and financial operations of **195,100 Federated Cooperatives Limited (FCLs)** across 20 regions in New Crossroads, driving 65% of the **$14.5 trillion/BWC GDP** ($9.425 trillion co-op sector) in 2025, scaling to **$25.311 trillion** by 2075, using Bulwark Coin (BWC). FCLs produce goods/services in retail, manufacturing, agriculture, energy, tech, professional services, and recreation, distinct from credit unions managing financial services.
 
 ## Section 1: Purpose and Scope
 
