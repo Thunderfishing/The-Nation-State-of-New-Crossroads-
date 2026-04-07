@@ -1,7 +1,7 @@
 # Crossroads FCL Structure Act of 2025
 
 **Posted to r/Bulwarkomics**  
-**Draft**: 2.7 | **Date**: April 2026  
+**Draft**: 2.9 | **Date**: April 2026  
 **Author**: Thunderfish2  
 
 ## Purpose
@@ -22,7 +22,8 @@ Establishes the structure, governance, and financial operations of **195,100 Fed
 
 ### 2.1 FCL Network
 
-- **Structure**: 195,100 core FCLs (1,355 per region) plus 27,600 recreation-focused co-op clubs (1,380 per region) in 2025. Core FCLs grow to 30,000 (1,500 per region) by 2075. All are worker/customer-owned and produce goods/services across retail, manufacturing, agriculture, energy, tech, professional services, and recreation. **FCLs operate under three maturity tiers (see Section 2.4), with only Tier 3 requiring the full governance structure described in this Act.**
+- **Structure**: 195,100 core FCLs,  plus 27,600 recreation-focused co-op clubs . 
+All are worker/customer-owned and produce goods/services across retail, manufacturing, agriculture, energy, tech, professional services, and recreation. **FCLs operate under three maturity tiers (see Section 2.4), with only Tier 3 requiring the full governance structure described in this Act.**
 - **Revenue**: $9.425 trillion/BWC (65% GDP), funded by $294.125 billion/BWC loans, capital investments, and profits.
 
 ### 2.2 Membership
@@ -44,7 +45,7 @@ Establishes the structure, governance, and financial operations of **195,100 Fed
 
 - **Shares**:
   - **Base Shares**: $1/BWC par value, up to 1,000 ($1,000/BWC), 4–8% dividends. Upon exit, members receive par value ($1 per share) plus unpaid dividends. The $1,500/BWC maximum refers to the value of a member's accumulated account (shares × dividends), not share price appreciation.
-  - **Investor Shares**: $50,000–$5 million/BWC, tied to 30% ownership (or 40%/20%), voting capped at 5% per investor, non-sellable except via Section 2.6, estate-transferrable.
+  - **Investor Shares**: $50,000–$5 million/BWC (or up to $500 million/BWC under Heavy Industry Clause, Section 2.4.3), tied to 30% ownership (or 40%/20% or 49% under Heavy Industry Clause), voting capped at 5% per investor (or 15% under Heavy Industry Clause), non-sellable except via Section 2.5, estate-transferrable.
 - **Mechanics**: Members (70% voting power in standard FCLs); investors (30% voting power, 5% cap per investor). Example: 10 investors (3% stake each) collectively exercise 30% voting power.
 - **Investor Eligibility**: Must demonstrate co-op initiation/scaling, approved by FCL and Regional Boards. Secondary buyers must meet same criteria.
 
@@ -57,7 +58,8 @@ Establishes the structure, governance, and financial operations of **195,100 Fed
 - **Governance:** No board required. Founder(s) act as management team. Members hold shares but do not elect a board. Decisions made by founders with simple majority worker input.
 - **Investor Ownership:** Permitted (small stakes). Founders scaling from informal sector retain control.
 - **Patronage:** Voluntary, not required. May be offered at founder's discretion.
-- **Exit & Funding:** See Sections 2.6, 2.7, and 3.6.
+- **CCIF:** Fully exempt (no contributions, no participation required).
+- **Exit & Funding:** See Sections 2.5, 2.6, and 3.6.
 - **Transition:** Must upgrade to Tier 2 upon exceeding any threshold (employees, revenue, OR loans).
 
 #### Tier 2 – Mid-Size Co-op (15–75 workers, $2M–$25M revenue, <$5M loans)
@@ -65,14 +67,43 @@ Establishes the structure, governance, and financial operations of **195,100 Fed
 - **Governance:** 3-member board. Composition: 2 worker representatives + 1 investor representative (if investors exist). If no investors, 3 worker representatives. No customer representative. Weekly meetings, simple majority decisions. Emergency decisions delegated to manager/CEO.
 - **Optional Expansion:** 5-member board permitted if revenue exceeds $10M (4 worker representatives + 1 investor representative).
 - **Patronage:** Required per Section 3.1.
-- **Exit & Funding:** See Sections 2.6, 2.7, and 3.6.
+- **CCIF:** Fully optional. May deposit unspent capital allocations and earn returns (5–7%) with no mandatory contribution.
+- **Exit & Funding:** See Sections 2.5, 2.6, and 3.6.
 - **Transition:** Must upgrade to Tier 3 upon exceeding any threshold.
 
 #### Tier 3 – Full FCL (75+ workers or $25M+ revenue)
 
-- **Governance:** Full structure as described in Section 4. 5–7 member board with 70/30 member/investor voting. Patronage, profit-sharing, CCIF contributions, full audits.
+**Base Tier 3 Rules:**
+- **Governance:** Full structure as described in Section 4. 5–7 member board with 70/30 member/investor voting. Patronage, profit-sharing, full audits.
 - **Patronage:** Required per Section 3.1.
-- **Exit & Funding:** See Sections 2.6, 2.7, and 3.6.
+- **CCIF:** Fully optional. May deposit unspent capital allocations and earn returns (5–7%) with no mandatory contribution.
+- **Investor Share Cap (Base):** $50,000–$5 million per investor
+- **Investor Voting Cap (Base):** 5% per investor
+- **Minimum Member Ownership:** 70%
+- **Exit & Funding:** See Sections 2.5, 2.6, and 3.6
+
+**Heavy Industry Clause (Optional Rider for Tier 3 FCLs only)**
+
+An FCL may apply to the Regional Board for designation under the Heavy Industry Clause if it meets **one or more** of the following:
+- Projected capital expenditure >$500 million
+- Operates in: nuclear generation, vehicle manufacturing, aerospace, semiconductor fabrication, heavy steel, port/rail infrastructure, or telecommunications backbone
+- Employs >2,000 workers
+
+**If approved, the following modified rules apply:**
+
+| Provision | Base Tier 3 | With Heavy Industry Clause |
+|-----------|-------------|----------------------------|
+| Investor share cap (individual) | $5 million | **$500 million** |
+| Investor voting cap (individual) | 5% | **15%** |
+| Minimum member ownership | 70% | **51%** |
+| Maximum investor ownership | 30% | **49%** |
+| Board size | 5–7 | **7–11** (minimum 5 worker/customer seats) |
+| Central Council oversight | No | **Yes (annual review)** |
+| Community Benefit Agreement | Recommended | **Required** |
+| Labor peace agreement | No | **Required for projects >1,000 workers** |
+| CCIF | Fully optional | Fully optional (same as base) |
+
+**Approval process:** Regional Board → Co-op Department → Central Council (simple majority). Renewal every 5 years.
 
 #### Downgrade
 
@@ -84,7 +115,8 @@ An FCL may request downgrade to a lower tier if it remains below all applicable 
 |------|----------------|-------------|
 | Tier 1 (Micro) | ~15,000 | Small startups, informal sector transitions |
 | Tier 2 (Mid) | ~8,000 | Growing co-ops with light governance |
-| Tier 3 (Full) | ~4,100 | Large-scale FCLs with full structure |
+| Tier 3 (Base) | ~3,900 | Large-scale FCLs with full structure |
+| Tier 3 (Heavy Industry) | ~200 | Nuclear, auto, aerospace, heavy infrastructure |
 
 ### 2.5 Exit Mechanisms for Founders and Investors
 
@@ -95,7 +127,7 @@ When a founder or investor seeks to sell their ownership stake in an FCL, the fo
 |------|------------------------|--------------------------------------|------------------------------|
 | Tier 1 (Micro) | Optional | Permitted (no board vote required) | Not eligible |
 | Tier 2 (Mid) | Required first right | Board vote required (simple majority) | Eligible with board approval |
-| Tier 3 (Full) | Required first right | Board vote required (60% member vote) | Eligible with Regional Board approval |
+| Tier 3 (Base + Heavy Industry) | Required first right | Board vote required (60% member vote) | Eligible with Regional Board approval |
 
 **2.5.2 Redemption Reserve**  
 - Tier 2 and Tier 3 FCLs must allocate **5% of annual net profit** to a **Redemption Reserve** until the reserve equals 10% of total member/investor equity.
@@ -111,7 +143,7 @@ All exit valuations shall use the **CWD audited book value** as of the most rece
 **2.5.5 Co-op Capital Index**  
 - A **Crossroads Co-op Capital Index (CCI)** is established, operated by the CCIF Alliance Network under oversight of the Co-op Department and Central Council.
 - Only **non-voting investor shares** (including converted founder shares) and **retainer client shares** (Section 2.3) may be listed. Worker base shares are non-tradable.
-- Listing criteria: FCL must be Tier 3, audited by CWD, and have Regional Board approval.
+- Listing criteria: FCL must be Tier 3 (Base or Heavy Industry), audited by CWD, and have Regional Board approval.
 - Trading limited to **Corporate Citizens (20+)** and **existing FCL investors** who meet eligibility criteria. No open market access.
 - Pricing: Anchored to CWD audited book value. Daily price movement capped at ±10%. Minimum hold period: 12 months after purchase.
 - CCIF acts as liquidity backstop, authorized to purchase unlisted shares at 90% of book value if no buyer found within 90 days.
@@ -139,7 +171,7 @@ Not included: Profit-sharing from future periods, investor-style capital gains, 
 |------|--------------|-------------------|-------|
 | Tier 1 (Micro) | Lump sum within 90 days | 0% | Small amounts (<$5k typical) |
 | Tier 2 (Mid) | 20% upfront, balance over 3 years | 3% simple interest | Preserves cash flow |
-| Tier 3 (Full) | 10% upfront, balance over 5 years | 5% simple interest | Large co-ops can amortize |
+| Tier 3 (Base + Heavy Industry) | 10% upfront, balance over 5 years | 5% simple interest | Large co-ops can amortize |
 
 **2.6.4 Termination for Cause (Firing)**  
 A worker-member who leaves the FCL for any reason — including voluntary resignation, retirement, layoff, or termination for cause — is entitled to the full redemption value of their base shares and accumulated patronage equity under the payout schedule in Section 2.6.3.
@@ -171,16 +203,16 @@ Member redemption under this section is **senior** to investor exits under Secti
   - Deduct expenses (e.g., wages, utilities).
   - Allocate 5–10% for patronage.
   - Allocate 10–25% for capital investments.
-  - Allocate 5–15% to the Co-operative Capital Investment Fund (CCIF), where co-ops can pool unspent capital investment spending for returns and later use.
+  - Allocate 0–15% to the Co-operative Capital Investment Fund (CCIF) — **entirely voluntary** (see Section 3.8 for details).
   - Split remaining profit as follows (boards may adjust ±5% with 75% approval):
 
 | Allocation                  | Required % of Remaining Profit |
 |-----------------------------|--------------------------------|
-| Healthcare Contribution     | 10–15%                         |
-| Education Contribution      | 3–5%                           |
-| Charity/Social Good         | 5–10%                          |
-| Members/Employees           | 40–50%                         |
-| Investors/Founders          | 20–30%                         |
+| Healthcare Contribution     | 10%                         |
+| Education Contribution      | 5%                           |
+| Charity/Social Good         | 10%                          |
+| Members/Employees           | 40%                         |
+| Investors/Founders          | 35%                         |
 
 - **Distribution**:
   - **Standard FCLs**: 70% to workers/customers, 30% to investors.
@@ -195,7 +227,6 @@ Member redemption under this section is **senior** to investor exits under Secti
   - Business Loans: $50,000–$5 million/BWC, 5–6%.
   - Energy FCLs: $12.65 billion/BWC/district.
 - **Capital Investments**: $50,000–$5 million/BWC (standard FCLs), non-equity loans ($100,000–$1 million/BWC, professional FCLs), 10–20% profit reinvestment.
-- **CCIF Contributions**: 10–30% net profit, funding $50 billion/year SWF projects ($2.5 billion parks, $47.5 billion non-park, e.g., housing, renewables). **Tier 1 Micro-Co-ops are exempt from CCIF contributions.**
 - **Revenue**: $601.58 billion ($70 billion co-op tax, $15 billion excise, $9 billion corporate tax, $15 billion tariffs, $18.75 billion property tax, $15.65 billion fees/patronage, $129.775 billion personal income tax, $250 million solo corporate tax, $290 billion co-op recharge, with $274 billion resources including $31.18 billion parks).
 
 ### 3.4 Corporate Structure
@@ -217,39 +248,123 @@ Member redemption under this section is **senior** to investor exits under Secti
 
 **3.6.1 Tier 1 (Micro)**  
 - Access to microloans: $1,000–$50,000 via Regional Co-op Stabilization Fund (0–2% interest, unsecured).
-- No CCIF contribution required.
+- No CCIF contribution required (fully exempt).
 - Eligible for informal sector transition grants ($5,000–$25,000, match required).
 
 **3.6.2 Tier 2 (Mid)**  
 - Access to business loans: $50,000–$2 million via credit unions (5–6% interest) or Regional Co-op Stabilization Fund (3–4%).
-- CCIF contribution: 5% of net profit (half the standard 10% rate for Tier 3).
+- CCIF: Fully optional. May deposit unspent capital allocations.
 - Eligible for Redemption Reserve matching grants (up to $50,000/year from Regional Board).
 
-**3.6.3 Tier 3 (Full)**  
-- Access to full loan range: $50,000–$5 million via credit unions (5–6%).
-- CCIF contribution: 10–30% of net profit as per Section 3.2.
+**3.6.3 Tier 3 (Base + Heavy Industry)**  
+- Access to full loan range: $50,000–$5 million via credit unions (5–6%). Heavy Industry FCLs may access project finance up to $2 billion via CCIF or private placement.
+- CCIF: Fully optional. May deposit unspent capital allocations.
 - Eligible to list on Co-op Capital Index (Section 2.5.5).
 - May issue co-op bonds (up to 200% of equity) with Co-op Department approval.
+
+### 3.7 Co-op/Corporate Joint Ventures (CCJV)
+
+**3.7.1 Authorization**  
+FCLs may enter into Joint Ventures with corporations registered under Section 3.4 for specific projects, technology licensing, or time-limited production arrangements. CCJVs are separate legal entities from both parent organizations.
+
+**3.7.2 Ownership Tiers**
+
+| CCJV Type | Co-op Ownership | Corporate Ownership | Max Term | Approval Body |
+|-----------|-----------------|---------------------|----------|---------------|
+| Co-op Led | 51–99% | 1–49% | 20 years | Regional Board |
+| Corporate Led | 30–49% | 51–70% | 15 years | Central Council |
+| Strategic Infrastructure | 40% (min) | 60% (max) | 25 years | Central Council (75%) |
+
+**3.7.3 Governance Protections**
+- Corporate partners have **no voting rights** in FCL internal affairs outside the JV.
+- FCL worker-members in a CCJV retain full base share rights in their home FCL.
+- JV board seats proportional to ownership; co-op must hold at least one seat.
+- Deadlocked disputes resolved by Co-op Department arbitration.
+
+**3.7.4 Financial Rules**
+- JV profits taxed at corporate rate (Section 3.4) unless co-op-owned portion >50%, then co-op tax rate applies to that portion.
+- Patronage returns apply only to co-op-owned share of JV profits.
+- JV may opt into CCIF deposits if co-op-owned portion >50% (voluntary, requires board vote).
+
+**3.7.5 Exit and Buyout**
+- Upon JV dissolution, assets distributed by ownership percentage.
+- Co-op has **right of first refusal** to buy corporate partner's share at appraised value.
+- Corporate partner may sell to another corporation only with co-op's written consent.
+- If co-op declines purchase, Regional Board may approve alternative corporate buyer.
+
+**3.7.6 Prohibitions**
+- CCJVs may not be used to circumvent investor voting caps (Section 2.3).
+- CCJVs may not hold base shares in other FCLs.
+- No CCJV may exist for more than 25 years without Central Council renewal.
+
+### 3.8 Co-operative Capital Investment Fund (CCIF)
+
+**3.8.1 Nature and Purpose**  
+The Co-operative Capital Investment Fund (CCIF) is a **voluntary liquidity pool** that enables FCLs and corporate participants to deposit unspent capital allocations, earn returns (5–7%), and fund national-scale projects aligned with the Sovereign Wealth Fund (SWF). The CCIF is **not a tax or mandatory contribution** — participation is entirely optional.
+
+**3.8.2 Voluntary Participation**  
+- **Tier 1 Micro-Co-ops:** Fully exempt. May not participate.
+- **Tiers 2 and 3:** Fully optional. May deposit any portion of unspent capital allocation at any time.
+- **Corporations:** May participate subject to approval by Co-op Department and Central Council.
+
+**3.8.3 Projected Scale**  
+Through voluntary participation, the CCIF is projected to reach:
+
+| Source | Projected Deposit Balance |
+|--------|---------------------------|
+| FCLs (Tiers 2–3) | $1.96 trillion |
+| Corporate participants | $435 billion |
+| **Total system-wide** | **$2.395 trillion** |
+
+These projections assume 5–7% annual returns and typical capital allocation patterns. Actual balances depend on voluntary participation.
+
+**3.8.4 Returns**  
+- Depositing FCLs earn **5–7% annual returns** on their CCIF balance.
+- Returns are paid in BWC (50% cash, 50% BWC credits by default; FCLs may elect 100% cash with 30-day notice).
+- Interest accrues daily, paid quarterly.
+
+**3.8.5 Withdrawals**  
+- Deposits may be withdrawn at any time with **30 days' notice** for amounts up to 20% of an FCL's total deposit.
+- Larger withdrawals (over 20%) require **90 days' notice** to preserve pool liquidity.
+- No penalties for withdrawal. No lock-up periods.
+
+**3.8.6 Use of Funds**  
+CCIF funds enable **$50 billion/year in national SWF-linked projects** including:
+- Greenhouses ($1 billion/year)
+- Recycling hubs ($500 million/year)
+- CO2 pipelines ($500 million/year)
+- Renewables, housing, eco-zones ($47.5 billion/year)
+
+Project selection follows the SWF framework under the Monetary Act, with CCIF receiving proportional returns from completed projects.
+
+**3.8.7 Governance**  
+- Operated by the **CCIF Alliance Network**, a independent body under Co-op Department oversight.
+- Annual audits by CWD.
+- Depositing FCLs elect 5 of 9 CCIF board seats proportionally (1 vote per $1 million deposited, capped at 10% of total voting power).
+
+**3.8.8 Relation to Other Provisions**  
+- CCIF deposits are **separate from** Redemption Reserve (Section 2.5.2) and may not be encumbered for member exits.
+- CCIF may act as liquidity backstop for Co-op Capital Index (Section 2.5.5).
 
 ## Section 4: Governance and Oversight
 
 - **FCL Boards** (Tier 3 Full FCLs only; Tiers 1–2 follow Section 2.4):
-  - **Composition**: 5–7 members, elected by workers/customers (70% voting power) and investors (30% voting power, 5% cap per investor), 3-year terms. Includes co-op clubs.
-  - **Board Structure**: 4 member representatives (2 workers, 2 customers), 1–2 investor representatives.
+  - **Composition**: 5–7 members (7–11 for Heavy Industry Clause FCLs), elected by workers/customers (70% voting power, or 51% minimum for Heavy Industry) and investors (30% voting power, up to 15% per investor for Heavy Industry), 3-year terms. Includes co-op clubs.
+  - **Board Structure**: 4 member representatives (2 workers, 2 customers), 1–2 investor representatives (Heavy Industry: minimum 5 worker/customer seats).
   - **Salaries**: Small (<$5 million/BWC): $10,000–$25,000/BWC/year; Medium ($5–50 million/BWC): $25,000–$50,000/BWC/year; Large (>$50 million/BWC): $50,000–$75,000/BWC/year.
-  - **Role**: Manage operations, profit allocation, patronage, ownership ratios. Decisions require 51% majority.
+  - **Role**: Manage operations, profit allocation, patronage, ownership ratios, **decide CCIF participation (voluntary)** . Decisions require 51% majority.
 - **Regional Boards**:
   - **Composition**: 20 boards, 11 members each (10 masters, 1 wildcard, 220 total), elected by ~4.7 million voters/region (94 million total, 12+ with base/investor shares), 5-year terms (masters), 1-year terms (wildcards).
   - **Salaries**: $50,000–$75,000/BWC/year, $11–$16.5 million/BWC/year total.
-  - **Role**: Approve loans, manage $500 million/BWC/region Co-op Stabilization Fund, oversee FCL compliance, verify investor eligibility, **approve tier upgrade/downgrade requests**.
+  - **Role**: Approve loans, manage $500 million/BWC/region Co-op Stabilization Fund, oversee FCL compliance, verify investor eligibility, **approve tier upgrade/downgrade requests**, **approve Heavy Industry Clause applications**, **oversee CCJVs**.
 - **Oversight**:
-  - **Co-op Department**: Approves professional FCLs, arbitrates disputes, enforces 5% investor voting caps via blockchain/AI audits.
-  - **Central Council**: Aligns system-wide policies.
+  - **Co-op Department**: Approves professional FCLs, arbitrates disputes, enforces investor voting caps via blockchain/AI audits, **reviews Heavy Industry Clause renewals**, **oversees CCIF Alliance Network**.
+  - **Central Council**: Aligns system-wide policies, **approves Heavy Industry Clause (final step)** , **approves Corporate Led CCJVs**.
   - **Audits**: 50–75 auditors audit 5% of FCLs biannually, capping $2.5 billion/BWC fraud via $1 billion/BWC/year blockchain/AI, aligned with Parks and Monetary Acts. **Tier 1 Micro-Co-ops are exempt from biannual audits unless flagged for irregularities.**
 
 ## Section 5: Sustainability and Regional Integration
 
-- **Sustainability**: FCLs implement $50 billion/BWC/year SWF projects, funded by $550 billion SWF (Monetary Act):
+- **Sustainability**: FCLs implement $50 billion/BWC/year SWF projects, funded by $550 billion SWF (Monetary Act) and **voluntary CCIF deposits**:
   - Greenhouses: $1 billion/BWC/year (non-park, e.g., Region 4), distinct from Parks Act's 30,000 ha (Region 5).
   - Recycling Hubs: $500 million/BWC/year (Region 4).
   - CO2 Pipelines: $500 million/BWC/year (non-park, e.g., Region 6), distinct from Parks Act's 750 km (Region 3).
@@ -267,13 +382,11 @@ Member redemption under this section is **senior** to investor exits under Secti
 
 ### A1: Key Stats (2025–2075)
 
-- **FCLs**: 27,100 (1,355/region, including 27,600 co-op clubs), $9.425 trillion/BWC to $25.311 trillion/BWC. **Estimated tier breakdown: 15,000 Tier 1 (Micro), 8,000 Tier 2 (Mid), 4,100 Tier 3 (Full).**
-- **Ownership**: 70/30 member/investor (standard, 5% voting cap), 60/40, 80/20, or 100% worker (professional). Professional FCLs may also use cost-share or retainer client share models.
-- **Shares**: $1/BWC base share (par value, non-depreciating), $1,500/BWC max account value; investor shares ($50,000–$5 million/BWC, 5% voting cap); retainer client shares ($1,000–$25,000, non-voting, patronage-eligible, refundable).
+- **FCLs**: 27,100 (1,355/region, including 27,600 co-op clubs), $9.425 trillion/BWC to $25.311 trillion/BWC. **Estimated tier breakdown: 15,000 Tier 1 (Micro), 8,000 Tier 2 (Mid), 3,900 Tier 3 (Base), 200 Tier 3 (Heavy Industry Clause).**
+- **Ownership**: 70/30 member/investor (standard, 5% voting cap), 60/40, 80/20, or 100% worker (professional). Heavy Industry Clause: 51/49 member/investor, 15% voting cap per investor, $500M individual cap. Professional FCLs may also use cost-share or retainer client share models.
+- **Shares**: $1/BWC base share (par value, non-depreciating), $1,500/BWC max account value; investor shares ($50,000–$5 million/BWC standard, up to $500M for Heavy Industry, 5–15% voting cap); retainer client shares ($1,000–$25,000, non-voting, patronage-eligible, refundable).
 - **Patronage**: 2–8%, $862.5 million/BWC/year. **Required for Tiers 2–3; voluntary for Tier 1.** Professional FCLs may opt out or limit to retainer share clients.
 - **Profit-Sharing**: 33% healthcare, 5% education, 22% charity, 40% members (70% workers/customers, 30% investors). Cost-share professional FCLs have no firm-level profit-sharing. **Tier 1 profit-sharing voluntary.**
 - **Dividends**: 4–8% on shares.
 - **Bonuses**: 2% masters, 4% grandmasters. **Apprenticeships in Tier 1, journeyman in Tier 2, master/grandmaster in Tier 3.**
-- **Governance**: 20 Regional Boards (220 members), FCL boards (5–7 members, 4 member, 1–2 investor representatives) – **Tier 3 only. Tier 2: 3-member board (2 workers, 1 investor if any). Tier 1: no board.**
-- **Exits**: Three-layer system for founders/investors (Section 2.5); mandatory redemption for workers/customers (Section 2.6) with no forfeiture for firing.
-- **Funding**: Tiered access per Section 3.6 (microloans for Tier 1, reduced CCIF for Tier 2, full access + bonds for Tier 3).
+- **Governance**: 20 Regional Boards (220 members), FCL boards (5–7 members, 4 member, 1–2 investor representatives) – **Tier 3 only. Heavy Industry: 7–11 members, minimum 5 worker/customer seats. Tier 2: 3-member
