@@ -466,52 +466,21 @@ CWD locks non-voters from credit union services for 2 weeks following an electio
 
 ## Appendix B: Auto-Incorporation vs Business Registration Flowchart
 
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                    AUTO-INCORPORATION vs BUSINESS REGISTRATION              │
-├─────────────────────────────────────────────────────────────────────────────┤
-│                                                                             │
-│  AT AGE 20 (AUTO-INCORPORATION)                                            │
-│  ┌─────────────────────────────────────────────────────────────────────┐   │
-│  │  Every citizen receives:                                            │   │
-│  │  • Blockchain ID                                                     │   │
-│  │  • $50 BWC wallet                                                    │   │
-│  │  • 1 base share ($1/BWC)                                             │   │
-│  │  • Right to work (any lawful activity)                               │   │
-│  │  • Informal sector access (cash, no surveillance)                    │   │
-│  └─────────────────────────────────────────────────────────────────────┘   │
-│         │                                                                  │
-│         ▼                                                                  │
-│  ┌─────────────────────────────────────────────────────────────────────┐   │
-│  │  This is NOT a business license.                                     │   │
-│  │  You are a NATURAL PERSON (citizen), not a LEGAL PERSON (entity).    │   │
-│  └─────────────────────────────────────────────────────────────────────┘   │
-│         │                                                                  │
-│         ├─────────────────────────────┬─────────────────────────────┐      │
-│         ▼                             ▼                             ▼      │
-│  ┌──────────────┐              ┌──────────────┐              ┌──────────────┐
-│  │ INFORMAL     │              │ REGISTER     │              │ REGISTER     │
-│  │ (no license) │              │ AS CO-OP     │              │ AS CORPORATION│
-│  └──────┬───────┘              └──────┬───────┘              └──────┬───────┘
-│         │                             │                             │
-│         ▼                             ▼                             ▼
-│  ┌──────────────┐              ┌──────────────┐              ┌──────────────┐
-│  │ • Cash only  │              │ • FCL status │              │ • Corporate  │
-│  │ • No hiring  │              │ • Can hire   │              │   status     │
-│  │ • No limited │              │ • Limited    │              │ • Can hire   │
-│  │   liability  │              │   liability  │              │ • Limited    │
-│  │ • No taxes   │              │ • 5% profit  │              │   liability  │
-│  │   (under     │              │   tax (>$100k│              │ • 15-20%     │
-│  │   $100k)     │              │   profit)    │              │   profit tax │
-│  │ • Protected  │              │ • 65% GDP    │              │ • 15% GDP    │
-│  │   by Sec 1A  │              │   target     │              │   cap        │
-│  └──────────────┘              └──────────────┘              └──────────────┘
-│                                                                             │
-│  TRANSITION: Informal → Co-op (no penalty, free Cash→BWC swap)              │
-│  TRANSITION: Co-op → Corporation (discouraged, higher taxes)                │
-│                                                                             │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
+```mermaid
+graph TD
+    Start["Age 20: Auto-Incorporation<br/>Blockchain ID + $50 BWC + 1 share + right to work"] --> Notice["This is NOT a business license<br/>(Natural Person, not Legal Person)"]
+    
+    Notice --> Informal["Informal (no license)"]
+    Notice --> Coop["Register as Co-op"]
+    Notice --> Corp["Register as Corp"]
+    
+    Informal --> Info1["Cash only<br/>No hiring<br/>No limited liability<br/>No taxes (<$100k)<br/>Sec 1A Prot"]
+    Coop --> Info2["FCL status<br/>Can hire<br/>Limited liability<br/>5% profit tax<br/>65% GDP Tar"]
+    Corp --> Info3["Corporate status<br/>Can hire<br/>Limited liability<br/>15-20% tax<br/>15% GDP Cap"]
+    
+    Informal -.->|"Free Cash→BWC swap<br/>No penalty"| Coop
+    Coop -.->|"Discouraged<br/>Higher taxes"| Corp
+
 
 ---
 
