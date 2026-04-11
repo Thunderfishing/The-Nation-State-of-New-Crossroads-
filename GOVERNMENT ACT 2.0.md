@@ -41,7 +41,7 @@ Ten sectors anchor New Crossroads' economy and governance: **Industry & Infrastr
 
 ### 1.2 Credit Unions
 
-5,000 credit unions (250/region) issue BWC (0.025 oz reserve), managing $452.5 billion loans ($217.5 billion SWF, $235 billion banking, $50 billion non-SWF), $208 billion banking suite, $15.04 billion wallets, $94 billion shares for $14.5 trillion GDP (65% co-ops/$9.425 trillion, 15% corporate/$2.175 trillion, 20% informal/$2.9 trillion), scaling to $1.2084 trillion loans by 2075. Details in *[Credit Union Act](https://www.reddit.com/r/Bulwarkomics/s/akvIkYmd89)*.
+5,000 credit unions (250/region) issue BWC (0.025 oz reserve), managing $452.5 billion loans ($217.5 billion SWF, $235 billion banking, $50 billion non-SWF), $208 billion banking suite, $15.04 billion wallets, $94 billion shares for $14.5 trillion GDP (65% co-ops/$9.425 trillion, 15% corporate/$2.175 trillion, 20% informal/$2.9 trillion), scaling to $1.2084 trillion loans by 2075. Details in *
 
 - **Board Elections**: Members (1–1,000 shares) elect 5–7 board members ($75,000/year, $525 million/year) every 3 years, trained via Credit Union Academy ($500 million/year). Boards oversee loans, banking suite, and shares, ensuring 65/15/20 GDP split.
 
@@ -71,6 +71,96 @@ At age 20, citizens receive:
 - **Citizen Flow Program**: $15 billion SWF-funded campaign educates 112 million on elections, governance, fraud prevention, sustainability via AM radio, TV, internet, managed by Governance Training Program, tracked via CWD.
 
 ---
+
+### 1.4 Auto-Incorporation at Age 20 (Clarified)
+
+At age 20, every citizen receives:
+
+| Component | What it is | What it is NOT |
+|-----------|------------|----------------|
+| Blockchain ID | Digital identity for voting, banking, CWD | Not a business license |
+| $50 BWC wallet | Digital currency account (scales to $326 by 2075) | Not a corporate bank account |
+| 1 base share ($1/BWC) | Credit union membership share (4–8% dividends) | Not equity in a co-op |
+| Right to work | May engage in any lawful economic activity | Not a license to practice regulated trades |
+| Informal sector access | May conduct cash commerce below DLB threshold | Not tax-exempt (but informal wages under $100k untaxed) |
+
+**What auto-incorporation does NOT grant**:
+- Automatic business license (sole proprietorship, partnership, co-op, or corporation)
+- Limited liability protection
+- The right to hire employees as a business entity
+- The right to issue shares or take investors
+
+**To operate as a business** (hire employees, take investors, access limited liability, issue shares), a citizen must register as:
+- A **co-op (FCL)** — preferred (65% GDP target, lower taxes)
+- A **corporation** — permitted (15% corporate GDP cap)
+
+This distinction preserves the informal economy (where citizens work for themselves, cash-only, no registration required) while providing a clear ladder to formal business status.
+
+### 1.5 Right to Work (Without License)
+
+**Any citizen may engage in any lawful economic activity without a business license**, except where:
+- Public safety requires licensure (medical doctor, electrician, lawyer, engineer, aircraft pilot)
+- Environmental protection requires permits (mining, logging, large-scale agriculture)
+- The activity involves regulated substances (pharmaceuticals, nuclear materials, weapons)
+
+**Licensed trades** require credentials from the Education Act (journeyman, master, grandmaster status). A citizen with journeyman credentials may practice their trade as an independent worker without forming a co-op or corporation.
+
+**Example**: A journeyman electrician (age 20, just completed mandatory service) may:
+- Fix wiring in neighbors' homes for cash (informal, no license needed — already credentialed)
+- Keep all earnings (informal wages under $100k untaxed)
+- Deposit cash to BWC for free at any credit union
+- Choose to form a co-op later if they want to hire other electricians
+
+This is not a gap. It is the intentional design of the informal economy guarantee (Monetary Act Section 1A).
+
+---
+
+### Overview: Two Votes per Citizen
+
+Every citizen aged 20+ receives **two votes**:
+
+| Vote Type | What it elects | Weight | Notes |
+|-----------|----------------|--------|-------|
+| **Sector Vote** | Masters (10 per sector per region) | 1 citizen = 1 vote | Vote follows your sector of employment |
+| **Wildcard Vote** | Wildcard representatives (1 per region) | 1 citizen = 1 vote | At-large, no sector restriction |
+
+**Cross-sector masters** (citizens with master status in two sectors) may vote in **both sectors** (2 sector votes + 1 wildcard vote = 3 total votes). Grandmasters similarly may vote in all sectors where they hold grandmaster status.
+
+### 2.2 Who Votes for What (Complete Chart)
+
+| Position | Elected by | Number of positions | Term | Votes per voter |
+|----------|------------|---------------------|------|-----------------|
+| **Masters** (sector representatives) | Journeymen and masters in that sector (13M total) | 10 per sector per region (2,000 total per region) | 5 years | 1 (sector vote) |
+| **Wildcards** (at-large regional reps) | All citizens in region (~4.7M) | 1 per region (20 total) | 1 year | 1 (wildcard vote) |
+| **Regional Board members** (masters only) | Masters in region (2,000) | 10 masters + 1 wildcard (11 per region) | 5 years (masters), 1 year (wildcard) | Masters: 1 vote (internal) |
+| **Central Council members** (masters only) | Regional Board masters (200 total) | 10 masters + 1 wildcard (11 total) | 5 years | 1 vote (internal) |
+| **National Assembly grandmasters** | Masters in sector (2,000 per sector nationally) | 1 per sector (10 total) | 5 years | 1 vote (internal) |
+| **Credit Union Board members** | Credit union members (1–1,000 shares) | 5–7 per credit union (25,000–35,000 total) | 3 years | 1 member, 1 vote |
+
+### Co-op Voting Power
+
+Co-ops (FCLs) receive **additional voting power** proportional to employment:
+
+| Co-op size (employees) | Additional votes | Cap |
+|------------------------|------------------|-----|
+| 1–1,000 | 1 vote | 5% of total votes in any election |
+| 1,001–2,000 | 2 votes | 5% cap |
+| 2,001–3,000 | 3 votes | 5% cap |
+| ... | ... | ... |
+| 10,000+ | 10 votes | 5% cap (cannot exceed 5% of total) |
+
+**Rationale**: Co-ops are member-owned. Their "vote" is exercised by a designated member representative (elected by the co-op's workers). This prevents large co-ops from dominating elections while still recognizing their economic weight.
+
+**Example**: A co-op with 5,000 employees gets 5 additional votes. In a regional election with 4.7 million voters, 5 votes is 0.0001% — negligible. The cap ensures no co-op can exceed 5% of total votes, even in small local elections.
+
+### Voting Incentives
+
+| Incentive | Amount | Funded by | Notes |
+|-----------|--------|-----------|-------|
+| BWC credit per vote | $10 BWC | SWF ($850M/year) | Paid automatically to wallet after voting |
+| Turnout target | 90% of eligible voters | SWF | Additional $5 BWC if region exceeds 90% |
+
+**Asymmetric scrutiny**: Voting records are private. CWD tracks only whether a citizen voted (not how they voted). Cash voting credits are untaxed and untracked.
 
 ## Section 2: Regional Level
 
