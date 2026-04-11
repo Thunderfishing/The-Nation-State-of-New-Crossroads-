@@ -21,21 +21,7 @@ Governed by **20 Regional Boards** (220 members), a **10-member National Assembl
 - **Co-op voting power** scales with employment (1 vote per 1,000 employees, 5% cap per co-op)
 - **Clear separation** between natural persons (citizens) and legal persons (co-ops, corporations)
 
----
-
-## Section 0: Harmonization Notes (Draft 4.16 → 5.0)
-
-| Area | Draft 4.16 | Draft 5.0 |
-|------|-----------|-----------|
-| **Co-op tax** | Referenced old 12.5% | Updated to 5% on profit over $100k (Monetary Act 8.0) |
-| **SWF funding** | Referenced $290B co-op recharge | Eliminated (per Monetary Act 8.0) |
-| **FCL count** | Implicit (27,100) | Explicit (195,100 core + 27,600 clubs) |
-| **DAI references** | Missing | Added to loan sections (1.0% floor) |
-| **Auto-incorporation** | Unclear (confused with business license) | Clarified: wallet + right to work ≠ legal person status |
-| **Voting structure** | Confusing | Clear two-vote system with chart |
-| **Informal economy** | Mentioned but not integrated | Full integration with Monetary Act Section 1A |
-
----
+---         
 
 ## Section 1: Fundamental Principles
 
