@@ -274,6 +274,77 @@ Each of 20 regions (e.g., Region 1: Crossroads City/Corridon, 6.5 million voters
 
 - **Operations**: Yearly meetings (with additional sessions as needed for hearings, confirmations, or emergencies), $500 million operations budget (separate from Central Council and Regional Board budgets, administered by the Assembly), audited via CWD.
 
+---
+
+### 3.2.1 Mandatory 5‑Year National Law Cycle (Insert after “Functions”)
+
+In addition to its existing functions, the National Assembly **must** propose at least one law, amendment, or repeal package for national referendum every 5 years. The 5‑year cycle begins in 2030 (first scheduled vote). Proposed laws undergo 12‑month vetting as described in Section 3.2.
+
+- If the Assembly fails to propose a law by the deadline, the citizen‑initiated process (Section 3.2.2) automatically triggers with a reduced signature threshold (0.5% of national voters instead of 2%).
+- The Assembly may propose multiple laws in a single cycle, but each must comply with the 2‑for‑1 repeal rule (Section 3.2.3) if that rule is active.
+
+---
+
+### 3.2.2 Citizen‑Initiated Laws (Insert after 3.2.1)
+
+Citizens may force a law, amendment, or repeal onto the 5‑year national ballot without Assembly approval.
+
+**Process**:
+1. A petition is filed with the Treasury via CWD.
+2. Signatures are collected electronically (blockchain‑verified) or on paper via credit unions.
+3. Threshold: **2% of national voters** (approximately 1.88 million signatures based on 94 million voters in 2025, scaling with population).
+4. Upon verification, the proposed law is added to the next scheduled 5‑year referendum.
+5. If the Assembly fails to propose a law by the deadline, the threshold drops to **0.5%** automatically.
+
+**Restrictions**:
+- Cannot propose laws that violate the 15% corporate GDP cap (Section 4.1, Trade & Corporate).
+- Cannot propose laws that eliminate the 65% co‑op GDP target (Section 1.2).
+- Cannot propose laws that abolish the 2‑for‑1 repeal rule (Section 3.2.3) without a 75% supermajority in a separate referendum.
+
+**Funding**: $500 million/year from SWF for petition verification, public forums, and explanatory materials.
+
+---
+
+### 3.2.3 The 2‑for‑1 Repeal Rule
+
+When activated, this rule requires that for every new law passed by national referendum, two existing laws must be repealed, consolidated, sunsetted, or merged into a simplified statute.
+
+**Activation Triggers** (any one):
+- **Citizen petition**: 2% of national voters sign a “legal cleanup” petition.
+- **Law count threshold**: The national legal code exceeds 2,000 active statutes (counted annually by Legal & Judiciary sector).
+- **Decennial cycle**: Automatically activates for one 5‑year term every 10 years (first automatic cycle: 2035–2040).
+
+**How it works once activated**:
+1. The Assembly must publish a **Repeal Docket** listing the two laws targeted for removal, with justification and impact analysis.
+2. The new law and the repeal docket are bundled into a single referendum question:
+   - **“YES”** = pass the new law + repeal the two old laws
+   - **“NO”** = reject the new law + keep the old laws
+3. If multiple new laws are proposed in the same cycle, each must be bundled with its own two repeals.
+4. Emergency laws may be exempted by a 6/11 Central Council vote + confirmation by 11/20 Regional Boards.
+
+**Enforcement**: The Special Arbiter Panel (SAP, Section 3.4) resolves disputes over what counts as a “repeal” (e.g., consolidation qualifies; renaming without substantive change does not).
+
+---
+
+### 3.2.4 Updated Functions Table (Insert in Section 2.2 or as reference)
+
+| Function | Previous (Draft 4.16) | Amended (with addendum) |
+|----------|----------------------|--------------------------|
+| Law proposal | Permissive (6/10 vote) | **Mandatory every 5 years** (6/10 vote) |
+| Citizen lawmaking | Not present | **Citizen‑initiated laws** (2% petition threshold) |
+| Repeal requirement | Not present | **2‑for‑1 rule** (triggered by petition, law count, or decennial cycle) |
+| Emergency exemption | Not applicable | **Council + Boards** can exempt emergency laws |
+
+---
+
+### Transition and Operational Cycle (Update to Section 6)
+
+- **2030**: First mandatory Assembly‑proposed law + first citizen‑initiated laws (if any) appear on the national ballot. 2‑for‑1 rule not yet active unless triggered by petition or law count.
+- **2035**: First automatic decennial 2‑for‑1 cycle begins (if not triggered earlier).
+- **2075 onward**: Full system operational with all three mechanisms.
+
+---
+
 ### 3.3 National Emergency Council (NEC)
 
 - **Composition**: 3 directors, appointed by Central Council (6/11 vote, 3-year term).
