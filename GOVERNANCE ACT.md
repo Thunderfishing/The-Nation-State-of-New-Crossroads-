@@ -480,48 +480,52 @@ CWD locks non-voters from credit union services for 2 weeks following an electio
 
 ## Appendix B: Auto-Incorporation vs Business Registration Flowchart
 
+```
 ┌─────────────────────────────────────────────────────────────────────────────┐
 │                    AUTO-INCORPORATION vs BUSINESS REGISTRATION              │
 ├─────────────────────────────────────────────────────────────────────────────┤
 │                                                                             │
-│  AT AGE 20 (AUTO-INCORPORATION)                                             │
-│  ┌─────────────────────────────────────────────────────────────────────┐    │
-│  │  Every citizen receives:                                            │    │
-│  │  • Blockchain ID                                                     │    │
-│  │  • $50 BWC wallet                                                    │    │
-│  │  • 1 base share ($1/BWC)                                             │    │
-│  │  • Right to work (any lawful activity)                               │    │
-│  │  • Informal sector access (cash, no surveillance)                    │    │
-│  └─────────────────────────────────────────────────────────────────────┘    │
-│         │                                                                   │
-│         ▼                                                                   │
-│  ┌─────────────────────────────────────────────────────────────────────┐    │
-│  │  This is NOT a business license.                                     │    │
-│  │  You are a NATURAL PERSON (citizen), not a LEGAL PERSON (entity).    │    │
-│  └─────────────────────────────────────────────────────────────────────┘    │
-│         │                                                                   │
-│         ├─────────────────────────────┬─────────────────────────────┐       │
-│         ▼                             ▼                             ▼       │
+│  AT AGE 20 (AUTO-INCORPORATION)                                            │
+│  ┌─────────────────────────────────────────────────────────────────────┐   │
+│  │  Every citizen receives:                                            │   │
+│  │  • Blockchain ID                                                     │   │
+│  │  • $50 BWC wallet                                                    │   │
+│  │  • 1 base share ($1/BWC)                                             │   │
+│  │  • Right to work (any lawful activity)                               │   │
+│  │  • Informal sector access (cash, no surveillance)                    │   │
+│  └─────────────────────────────────────────────────────────────────────┘   │
+│         │                                                                  │
+│         ▼                                                                  │
+│  ┌─────────────────────────────────────────────────────────────────────┐   │
+│  │  This is NOT a business license.                                     │   │
+│  │  You are a NATURAL PERSON (citizen), not a LEGAL PERSON (entity).    │   │
+│  └─────────────────────────────────────────────────────────────────────┘   │
+│         │                                                                  │
+│         ├─────────────────────────────┬─────────────────────────────┐      │
+│         ▼                             ▼                             ▼      │
 │  ┌──────────────┐              ┌──────────────┐              ┌──────────────┐
 │  │ INFORMAL     │              │ REGISTER     │              │ REGISTER     │
-│  │ (no license) │              │ AS CO-OP     │              │ AS CORP      │
+│  │ (no license) │              │ AS CO-OP     │              │ AS CORPORATION│
 │  └──────┬───────┘              └──────┬───────┘              └──────┬───────┘
-│         ▼                             ▼                             ▼       │
+│         │                             │                             │
+│         ▼                             ▼                             ▼
 │  ┌──────────────┐              ┌──────────────┐              ┌──────────────┐
 │  │ • Cash only  │              │ • FCL status │              │ • Corporate  │
 │  │ • No hiring  │              │ • Can hire   │              │   status     │
 │  │ • No limited │              │ • Limited    │              │ • Can hire   │
 │  │   liability  │              │   liability  │              │ • Limited    │
 │  │ • No taxes   │              │ • 5% profit  │              │   liability  │
-│  │   (< $100k)  │              │   tax        │              │ • 15-20% tax │
-│  │ • Sec 1A Prot│              │ • 65% GDP Tar│              │ • 15% GDP Cap│
+│  │   (under     │              │   tax (>$100k│              │ • 15-20%     │
+│  │   $100k)     │              │   profit)    │              │   profit tax │
+│  │ • Protected  │              │ • 65% GDP    │              │ • 15% GDP    │
+│  │   by Sec 1A  │              │   target     │              │   cap        │
 │  └──────────────┘              └──────────────┘              └──────────────┘
 │                                                                             │
 │  TRANSITION: Informal → Co-op (no penalty, free Cash→BWC swap)              │
 │  TRANSITION: Co-op → Corporation (discouraged, higher taxes)                │
 │                                                                             │
 └─────────────────────────────────────────────────────────────────────────────┘
-
+```
 
 ---
 
@@ -586,5 +590,3 @@ That is the Government Act.
 
 **End of Draft 5.0**
 ```
-
----
