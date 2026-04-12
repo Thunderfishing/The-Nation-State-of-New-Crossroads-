@@ -1,4 +1,4 @@
-# New Crossroads Housing Act of 2025: Draft 2.1 (Harmonized)
+# New Crossroads Housing Act of 2025: Draft 2.1
 
 **Posted to r/Bulwarkomics**
 **Draft**: 2.1 | **Date**: April 12, 2026
