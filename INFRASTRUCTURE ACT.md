@@ -1,7 +1,7 @@
-# New Crossroads Infrastructure Act of 2025: Draft 2.0
+# New Crossroads Infrastructure Act of 2025: Draft 2.1
 
 **Posted to r/Bulwarkomics**
-**Draft**: 2.0 | **Date**: April 11, 2026
+**Draft**: 2.1 | **Date**: April 12, 2026
 **Author**: Thunderfish2
 
 > **Cross-reference**: This act is companion legislation to the *Crossroads Monetary Reform & Economic Stabilization Act of 2025 (Draft 8.0)*, *Crossroads Credit Union Act of 2025 (Draft 4.0)*, *Crossroads Federated Cooperatives Limited (FCL) Structure Act of 2025 (Draft 3.0)*, *Crossroads Energy Act of 2025 (Draft 4.0)*, *Crossroads Utilities Act of 2025 (Draft 1.0)*, and *Crossroads Communications and Media Infrastructure Act of 2025 (Draft 4.0)*. The asset/operator separation model follows the same pattern as the Utilities Act (state owns infrastructure, co-ops/corporations compete on operations).
@@ -10,9 +10,9 @@
 
 ## Purpose
 
-The **New Crossroads Infrastructure Act of 2025 (Draft 2.0)** establishes New Crossroads' transportation and logistics framework, post-2025 revolution, serving 112 million citizens (94M Corporate Citizens) with a $14.5T GDP (65% co-ops/$9.425T, 15% corporate/$2.175T, 20% informal/$2.9T).
+The **New Crossroads Infrastructure Act of 2025 (Draft 2.1)** establishes New Crossroads' transportation and logistics framework, post-2025 revolution, serving 112 million citizens (94M Corporate Citizens) with a $14.5T GDP (65% co-ops/$9.425T, 15% corporate/$2.175T, 20% informal/$2.9T).
 
-It delivers a **cooperative rail system** (75,000 km, 750M tons/year by 2075), **elevated inter-regional freeway system** (15,000 km, with insect-friendly elevated sections), **merchant marine fleet** (2,000 vessels, 200M tons/year), **ports** (150M tons/year), **barges** (75M tons/year), and **CO2 pipelines** (4,000 km, 8M tons/year), centered on **Crossroads City** (Region 1) as the rail and road hub on the Corridon River.
+It delivers a **cooperative rail system** (75,000 km, 750M tons/year by 2075), **elevated inter-regional freeway system** (15,000 km, with insect-friendly elevated sections and dark corridor adjacency lighting standards), **merchant marine fleet** (2,000 vessels, 200M tons/year), **ports** (150M tons/year), **barges** (75M tons/year), and **CO2 pipelines** (4,000 km, 8M tons/year), centered on **Crossroads City** (Region 1) as the rail and road hub on the Corridon River.
 
 **Following the asset/operator separation model from the Utilities Act**:
 - **State owns**: Rail tracks, freeway pavement and bridges, ports, barge channels, CO2 pipelines
@@ -44,7 +44,7 @@ New Crossroads' transportation sector operates on the same principle as its rail
 |--------|-------------|----------|------------|
 | Rail | State (70%) + Co-op (30%) | Train companies (co-ops/corps) | Track access charge ($/ton-km) |
 | Freeways | State (100%) | Any vehicle | Toll ($0.10/km, 155% recovery) |
-| **Elevated Freeway Sections** | **State (100%)** | **Any vehicle** | **Toll (same rate, but construction cost higher)** |
+| **Elevated Freeway Sections** | **State (100%)** | **Any vehicle** | **Toll ($0.12/km on elevated segments)** |
 | Ports | Co-op (70%) + State (30%) | Port operators | Berth fees ($/ton) |
 | Barges | Co-op (70%) + State (30%) | Barge operators | Waterway access fee ($/ton-km) |
 | CO2 Pipelines | State (100%) | Industrial users | Pipeline access fee ($/ton CO2) |
@@ -138,6 +138,129 @@ Where feasible, long stretches of rural interstate-style freeways with few on/of
 - Moisture management (direct stormwater to planted swales)
 - Annual monitoring (insect counts, pollinator diversity)
 
+---
+
+### 2.4.1 Dark Corridor Adjacency Lighting Standard (DCALS)
+
+**Purpose**: To permit minimal, ecologically safe illumination for compounds, structures, and access points located adjacent to designated Dark Corridor Freeway Sections, without compromising the ecological integrity of insect corridors or dark-sky compliance.
+
+#### 2.4.1.1 Definitions
+
+- **Adjacency Zone**: Any compound, facility, or structure located within 500 meters of an elevated Dark Corridor Freeway Section.
+- **Indirect Light System (ILS)** : A lighting system that uses reflectors, mirrors, light tubes, or fiber optics to redirect light from a single recessed source to specific structural markers.
+- **Red-Spectrum Source**: A fully shielded LED emitter operating between 630–660 nm with zero blue or UV leakage.
+- **Marker Illumination**: Low-intensity, directional light used solely to outline doorways, steps, gates, or structural edges.
+
+#### 2.4.1.2 General Requirements
+
+All external illumination within Adjacency Zones shall comply with the following:
+
+- No direct exterior luminaires are permitted.
+- No skyward or horizon-visible emission is permitted.
+- No continuous illumination is permitted.
+- No illumination of open yard areas is permitted.
+
+Only marker illumination delivered through an Indirect Light System is allowed.
+
+#### 2.4.1.3 Indirect Light System (ILS) Standards
+
+A compliant ILS shall meet all of the following:
+
+**A. Single Light Source**
+- Only one red-spectrum LED source may be used per compound or facility.
+- The source must be recessed, shielded, and not visible from outside the structure.
+
+**B. Light Transmission Methods**
+Permitted transmission methods include:
+- Angled reflectors (1–3 bounces maximum)
+- Retroreflective panels for directional return
+- Rigid light tubes (polished interior)
+- Fiber optic bundles for multi-point distribution
+
+**C. Output Limits**
+- Maximum output at any endpoint: 5 lumens
+- Illumination must be directional, marking only:
+  - Door frames
+  - Gateposts
+  - Steps or thresholds
+  - Hazard edges (e.g., low walls)
+
+**D. Motion Activation**
+- The primary light source must be motion-activated.
+- Activation duration: 15–45 seconds.
+- No "dim standby mode" is permitted.
+
+#### 2.4.1.4 Retroreflective Marker Integration
+
+To further reduce the need for powered illumination:
+
+- All doorways, gates, and structural edges shall incorporate retroreflective strips or panels.
+- Retroreflectors must be visible only when illuminated by:
+  - Vehicle headlights, or
+  - The compound's internal red-spectrum source.
+
+This ensures visibility without emitting light into the environment.
+
+#### 2.4.1.5 Seasonal Restrictions
+
+During peak pollinator migration periods (spring and autumn):
+
+- Motion-activated systems must be set to minimum duration (15 seconds).
+- Maintenance or construction lighting requires Regional Board approval.
+
+#### 2.4.1.6 Enforcement
+
+Violations within Adjacency Zones are subject to:
+
+- $500,000 per endpoint for visible direct lighting.
+- $1M per incident for skyward or horizon-visible emission.
+- Mandatory retrofit of non-compliant systems at owner expense.
+
+---
+
+### 2.4.2 Dark Corridor Lighting Compliance Tax Incentive (DCLTI)
+
+**(a) Eligibility**  
+Commercial and industrial properties located within 1 km of a designated Dark Corridor Freeway Section are eligible for a **Property Tax Ecological Compliance Reduction (PTECR)** if they meet all requirements of Section 2.4.1 (Indirect Light Systems, red-spectrum motion lighting, and retroreflective marking).
+
+**(b) Incentive**  
+The standard commercial/industrial property tax rate of **0.75%** (per Monetary Act Section 4) shall be reduced to **0.70%** for any property certified as compliant.
+
+**(c) Certification**  
+Certification is issued by the Regional Infrastructure Board upon:
+- Inspection of lighting systems
+- Verification of a single-source red-spectrum emitter
+- Confirmation of no horizon-visible light
+- Confirmation of full retroreflective marking
+
+Certification is valid for **three years**, subject to random audits.
+
+**(d) Revocation**  
+Any violation of Section 2.4.1 results in:
+- Immediate revocation of the reduced rate
+- Retroactive taxation at the full 0.75% rate for the current fiscal year
+- Applicable fines under Section 5.2
+
+**(e) Funding**  
+Lost revenue from the 0.05% reduction is offset by:
+- Dark Corridor Fund allocations (Section 4.2)
+- Increased agricultural yield from pollinator recovery (estimated $6.8B/year by 2075, per Appendix B)
+- Reduced enforcement costs due to voluntary compliance
+
+---
+
+### 2.4.3 DCALS/DCLTI Reporting
+
+The National Infrastructure Board (NInfraB) shall publish an annual **Dark Corridor Lighting Compliance Report** including:
+- Number of certified properties per region
+- Estimated insect mortality reduction (aggregate model)
+- Tax revenue impact (actual vs. projected)
+- Compliance rate (voluntary vs. enforced)
+
+Reports are publicly available via CWD, with individual property data anonymized per the Informal Economy Guarantee.
+
+---
+
 ### 2.5 Cost and Funding
 
 | Component | Length | Cost per km | Total cost | Funded by |
@@ -155,9 +278,9 @@ Where feasible, long stretches of rural interstate-style freeways with few on/of
 **Total toll revenue (2075)**:
 - Standard sections (12,000 km): $0.10/km × 12B vehicle-km = $1.2B/year
 - Elevated sections (3,000 km): $0.12/km × 3B vehicle-km = $360M/year
-- **Total toll revenue**: **$1.56B/year** (revised from $1.5B/year)
+- **Total toll revenue**: **$1.56B/year**
 
-### 2.6 Insect Deflector Pilot (Retained from Draft 1.0)
+### 2.6 Insect Deflector Pilot
 
 | Component | 2025 | 2035 | 2075 | Cost |
 |-----------|------|------|------|------|
@@ -187,12 +310,12 @@ Insect deflectors remain mandatory on all government vehicles by 2035, recommend
 
 - **Scale**: 10,000 km (2025) → 15,000 km (2075), including 3,000 km elevated sections
 - **Vehicle-km**: 10B/year (2025) → 15B/year (2075)
-- **Toll revenue**: $1.0B/year (2025) → $1.56B/year (2075, revised)
+- **Toll revenue**: $1.0B/year (2025) → $1.56B/year (2075)
 - **Cost recovery**: 155% of construction cost ($210B × 1.55 = $325.5B recovered over 20–30 years)
 - **Solar medians**: 1 GW solar on 5,000 km medians ($100M), saving $50M/year
 - **Insect deflectors**: 1,000 vehicles (2025 pilot) → 500,000 vehicles (2075)
 
-**Dark Corridor Compliance**: Elevated sections have **no lighting**. Enforcement by Regional Boards (fines up to $10M/km for light spill).
+**Dark Corridor Compliance**: Elevated sections have **no lighting**. Enforcement by Regional Boards (fines up to $10M/km for light spill). Adjacent compounds must comply with DCALS (Section 2.4.1).
 
 ### 3.3 Cooperative Shipbuilding and Merchant Marine Fleet
 
@@ -244,23 +367,27 @@ Insect deflectors remain mandatory on all government vehicles by 2035, recommend
 | Pipeline access | $200/ton CO2 | $1.0B | $1.6B | 100% maintenance + SWF contribution |
 | **Total** | | **$74.6B** | **$111.835B** | |
 
-*(Note: Slight difference from Draft 1.0's $75.1B due to updated toll math; rail revenue unchanged.)*
-
 ### 4.2 Revenue Allocation
 
 | Allocation | 2025 ($B) | 2075 ($B) | Notes |
 |------------|-----------|-----------|-------|
 | Infrastructure maintenance | 37.3 | 55.9 | 50% of revenue |
 | SWF (per Monetary Act 8.0) | 22.4 | 33.6 | 30% of revenue |
-| Insect corridor fund (habitat restoration) | 7.5 | 11.2 | 10% of revenue |
+| **Dark Corridor Fund** | **7.5** | **11.2** | **10% of revenue (expanded)** |
 | Rural infrastructure subsidy | 7.5 | 11.2 | 10% of revenue |
 | **Total** | **74.6** | **111.8** | |
 
-**Insect corridor fund** finances:
-- Habitat restoration under elevated sections ($50M/year)
-- Pollinator monitoring programs ($10M/year)
-- Insect deflector research and deployment ($20M/year)
-- Dark corridor enforcement ($5M/year)
+**Dark Corridor Fund** (expanded from "Insect corridor fund") finances:
+
+| Category | Annual allocation (2075) | Source |
+|----------|------------------------|--------|
+| Habitat restoration under elevated sections | $50M | Dark Corridor Fund |
+| Pollinator monitoring programs | $10M | Dark Corridor Fund |
+| Insect deflector research and deployment | $20M | Dark Corridor Fund |
+| Dark corridor enforcement (fines offset) | $5M | Dark Corridor Fund |
+| **DCALS certification assistance** (grants for retrofits) | **$100M** | **Dark Corridor Fund** |
+| **DCLTI tax incentive offset** (reimbursement to regions) | **$500M** | **Dark Corridor Fund** |
+| Public education (dark sky + pollinator awareness) | $15M | Dark Corridor Fund |
 
 ---
 
@@ -271,7 +398,7 @@ Insect deflectors remain mandatory on all government vehicles by 2035, recommend
 The **National Infrastructure Board (NInfraB)** , an 11-member body, manages rail, freeways (including elevated insect corridors), shipbuilding, ports, barges, CO2 pipelines, and access fees.
 
 - **Composition**: 6 representatives from 20 Regional Infrastructure Districts, 4 experts, 1 chairman, appointed by Central Council (6/11 vote, 11/20 Boards confirm)
-- **Voting**: 6/11 for operational decisions (e.g., toll rates, track access charges), 8/11 for regulations (e.g., dark corridor compliance, insect deflector mandates)
+- **Voting**: 6/11 for operational decisions (e.g., toll rates, track access charges), 8/11 for regulations (e.g., dark corridor compliance, insect deflector mandates, DCALS amendments)
 - **Functions**: Regulate 75,000 km rail, 15,000 km freeways (3,000 km elevated), 2,000-vessel fleet, 150M-ton ports, 75M-ton barges, 4,000 km CO2 pipelines, $111.8B revenue (2075)
 
 ### 5.2 Dark Corridor Enforcement
@@ -282,6 +409,8 @@ The **National Infrastructure Board (NInfraB)** , an 11-member body, manages rai
 | Light spill from adjacent development | $1M + mandatory shielding | Regional Board |
 | Reflective signage that concentrates light | $500k per sign | NInfraB |
 | Habitat disturbance under elevated section | $100k + restoration cost | Regional Board |
+| **DCALS violation (visible direct lighting in Adjacency Zone)** | **$500k per endpoint** | **Regional Board** |
+| **DCALS violation (horizon-visible emission)** | **$1M per incident** | **Regional Board** |
 
 **Citizen reporting**: Anonymous reports via CWD (no surveillance, per Informal Economy Guarantee). Citizens may submit photos of light violations without providing personal information.
 
@@ -294,7 +423,8 @@ The Crossroads Loan Service (CLS) manages infrastructure loans:
 | Rail operator startup | 5,000 (250/region) | 48 hours | 1.0% |
 | Trucking co-op | 3,000 (150/region) | 48 hours | 1.0% |
 | Barge operator | 2,000 (100/region) | 48 hours | 1.0% |
-| Insect deflector retrofit | 2,000 (100/region) | 24 hours | 0.5% (service-sector) |
+| Insect deflector retrofit | 2,000 (100/region) | 24 hours | 0.5% |
+| **DCALS retrofit (indirect lighting systems)** | **2,000 (100/region)** | **24 hours** | **0.5%** |
 
 ### 5.4 Asymmetric Scrutiny (Per Monetary Act)
 
@@ -319,12 +449,13 @@ The Crossroads Loan Service (CLS) manages infrastructure loans:
 | Build 50,000 km cooperative rail | 2025–2035 | $50B | NInfraB + co-ops |
 | Build 5,000 km freeway (standard) | 2025–2035 | $50B | NInfraB |
 | **Pilot elevated insect corridor (100 km, Region 5)** | **2030–2035** | **$3B** | **NInfraB + Regional Board 5** |
+| **Pilot DCALS certification (50 compounds)** | **2030–2035** | **$10M (grants)** | **Regional Boards** |
 | Build 5 shipyards, 500 vessels | 2025–2035 | $10B | Co-ops |
 | Dredge Corridon/Westflow | Ongoing | $500M/year | NInfraB |
 | Build 3,200 km CO2 pipelines | 2025–2035 | $1.6B | NInfraB |
 | Insect deflector pilot (1,000 vehicles) | 2025 | $10M | NInfraB |
 
-**Revenue by 2035**: $74.6B/year (as above)
+**Revenue by 2035**: $74.6B/year
 
 ### Phase 2: Expansion (2035–2050)
 
@@ -333,6 +464,7 @@ The Crossroads Loan Service (CLS) manages infrastructure loans:
 | Expand rail to 60,000 km | 2035–2050 | $45B | NInfraB + co-ops |
 | Expand freeway to 10,000 km (including 1,000 km elevated) | 2035–2050 | $100B | NInfraB |
 | **Complete elevated corridors: Regions 5, 8, 11 (1,550 km total)** | **2035–2050** | **$46.5B** | **NInfraB** |
+| **Scale DCALS certification to 500 compounds** | **2035–2050** | **$100M (grants)** | **Regional Boards** |
 | Scale fleet to 1,000 vessels | 2035–2050 | $10B | Co-ops |
 | Expand ports to 120M tons | 2035–2050 | Included in port revenue | Co-ops |
 | Expand CO2 pipelines to 3,600 km | 2035–2050 | $1.8B | NInfraB |
@@ -347,6 +479,7 @@ The Crossroads Loan Service (CLS) manages infrastructure loans:
 | Expand rail to 75,000 km | 2050–2075 | $56.25B | NInfraB + co-ops |
 | Expand freeway to 15,000 km (including 3,000 km elevated) | 2050–2075 | $150B | NInfraB |
 | **Complete all elevated corridors (3,000 km total)** | **2050–2075** | **$90B** | **NInfraB** |
+| **Scale DCALS certification to 5,000+ compounds** | **2050–2075** | **$1B (grants)** | **Regional Boards** |
 | Scale fleet to 2,000 vessels | 2050–2075 | $20B | Co-ops |
 | Expand ports to 150M tons | 2050–2075 | Included in port revenue | Co-ops |
 | Expand CO2 pipelines to 4,000 km | 2050–2075 | $2B | NInfraB |
@@ -375,7 +508,9 @@ The Crossroads Loan Service (CLS) manages infrastructure loans:
 | CO2 transported | 5.5M tons/year | 8M tons/year |
 | Total infrastructure revenue | $74.6B/year | $111.8B/year |
 | SWF contribution (30% of revenue) | $22.4B/year | $33.6B/year |
-| Insect corridor fund | $7.5B/year | $11.2B/year |
+| **Dark Corridor Fund** | **$7.5B/year** | **$11.2B/year** |
+| **DCALS-certified compounds** | **0** | **5,000+** |
+| **DCLTI tax reduction (0.75% → 0.70%)** | **N/A** | **Available to certified properties** |
 | Vehicles with insect deflectors | 1,000 | 500,000 |
 | Estimated insects saved/year | 500B | 250T |
 | Dark corridor compliance | 100% (by design) | 100% (enforced) |
@@ -391,7 +526,7 @@ The Crossroads Loan Service (CLS) manages infrastructure loans:
 | Operator | Utilities (co-ops/corps) | Train companies, trucking, shipping lines |
 | Access fee | $/MWh transmission fee | Track access, tolls, berth fees |
 | Co-op preference | 65% generation licenses | 65% operating licenses |
-| Revenue allocation | 50% maintenance, 30% SWF, 20% credits | 50% maintenance, 30% SWF, 10% insect fund, 10% rural |
+| Revenue allocation | 50% maintenance, 30% SWF, 20% credits | 50% maintenance, 30% SWF, 10% Dark Corridor Fund, 10% rural |
 
 ---
 
@@ -410,32 +545,34 @@ The Crossroads Loan Service (CLS) manages infrastructure loans:
 
 ---
 
-## Summary of Changes (Draft 1.0 → 2.0)
+## Appendix C: DCALS Technical Specifications (Informative)
+
+| Component | Specification |
+|-----------|---------------|
+| Red-spectrum wavelength | 630–660 nm (strict, no blue/UV leakage) |
+| Maximum lumens per endpoint | 5 lumens |
+| Motion activation duration | 15–45 seconds (15 sec during migration seasons) |
+| Fiber optic bundle diameter | 3–5 mm (polished ends) |
+| Reflector bounces | Maximum 3 (to maintain intensity) |
+| Retroreflector type | Corner cube or encapsulated lens |
+| Horizon-visible emission | Zero (verified by downward-angled shielding) |
+| Standby mode | Not permitted (off when not motion-activated) |
+
+---
+
+## Summary of Changes (Draft 2.0 → 2.1)
 
 | Section | Change | Rationale |
 |---------|--------|-----------|
-| **Cross-reference header** | Added references to Monetary Act 8.0, Utilities Act 1.0, FCL Act 3.0, Energy Act 4.0 | Legislative consistency |
-| **Purpose** | Added elevated freeway insect corridors; asset/operator separation language | Ecological intervention + pattern consistency |
-| **Section 0** | Updated interdependencies to reference Utilities Act and Monetary Act 8.0 | Reflects new framework |
-| **Section 1** | New: Core Principles (asset/operator separation table) | Follows Utilities Act pattern |
-| **Section 1.2** | Added elevated freeway sections to state-owned assets (3,000 km by 2075) | Insect corridor infrastructure |
-| **Section 2** | **New section: Insect-Friendly Elevated Freeway System** | Addresses pollinator decline, windshield insect mortality |
-| **Section 2.2** | Elevated structure design (piers, 3–5m clearance, no lighting) | Creates continuous insect corridors |
-| **Section 2.3** | Priority locations table (10 regions, 3,000 km total) | Targets highest ecological value areas |
-| **Section 2.4** | Dark corridor requirements (no lighting, no light spill) | Prevents insect attraction to roads |
-| **Section 2.5** | Cost and funding ($30M/km elevated vs $10M/km standard; +$0.02/km toll surcharge) | Users pay incremental cost |
-| **Section 2.6** | Insect deflector pilot (retained from Draft 1.0) | Complementary intervention |
-| **Section 3.2** | Updated freeway toll revenue to $1.56B/year (2075) | Reflects elevated section surcharge |
-| **Section 4.1** | Updated fee structure (added elevated tolls) | Accuracy |
-| **Section 4.2** | Added insect corridor fund (10% of revenue) | Dedicated funding for habitat restoration |
-| **Section 5.2** | New: Dark Corridor Enforcement (fines up to $10M/km) | Ensures compliance |
-| **Section 5.4** | Added cash toll payments (Informal Economy Guarantee) | Per Monetary Act Section 1A |
-| **Section 6** | Updated implementation plan with elevated corridor phases (pilot 100 km in Phase 1, 1,550 km in Phase 2, 3,000 km in Phase 3) | Realistic rollout |
-| **Section 7** | Updated key stats (elevated freeway km, toll revenue, insect corridor fund, insects saved) | Reflects all changes |
-| **Appendix A** | New: Comparison to Utilities Act | Shows pattern consistency |
-| **Appendix B** | New: Insect Corridor Ecological Impact (projected 2075) | Quantifies benefits ($6.8B/year agricultural yield) |
-| **Throughout** | Removed all references to co-op SWF recharge | Eliminated per Monetary Act 8.0 |
-| **Throughout** | Updated all loan references to include DAI floors (1.0% standard, 0.5% for insect deflectors as service-sector) | Per Monetary Act 8.0 |
+| **2.4.1** | **New: DCALS (Dark Corridor Adjacency Lighting Standard)** | Regulates lighting on compounds within 500m of dark corridors; indirect red-spectrum motion lighting only |
+| **2.4.2** | **New: DCLTI (Dark Corridor Lighting Compliance Tax Incentive)** | Property tax reduction (0.75% → 0.70%) for certified compounds; voluntary compliance carrot |
+| **2.4.3** | **New: DCALS/DCLTI Reporting** | Annual compliance report via NInfraB; anonymized per Informal Economy Guarantee |
+| **4.2** | Expanded Dark Corridor Fund (renamed from Insect corridor fund) | Added DCALS certification assistance ($100M) + DCLTI tax offset ($500M) |
+| **5.2** | Added DCALS violations to enforcement table | $500k per endpoint, $1M for horizon-visible emission |
+| **5.3** | Added DCALS retrofit loans | 24hr processing, 0.5% DAI floor |
+| **6 (all phases)** | Added DCALS certification milestones | Pilot (50), scale to 500, then 5,000+ compounds |
+| **7** | Added DCALS-certified compounds + DCLTI availability to key stats | Track compliance progress |
+| **Appendix C** | **New: DCALS Technical Specifications** | Engineering reference for implementers |
 
 ---
 
@@ -452,6 +589,19 @@ The Infrastructure Act provides the **hardware** — the tracks, roads, ports, b
 - The cost premium ($30M/km vs $10M/km) is recovered through a $0.02/km toll surcharge
 - The agricultural benefit ($6.8B/year by 2075) exceeds the construction cost over 20 years
 
+**Why DCALS (Dark Corridor Adjacency Lighting Standard)?**
+- Compounds adjacent to dark corridors (rest stops, maintenance yards, park facilities) need to function at night
+- Standard lighting would create ecological traps — insects attracted from kilometers away
+- Indirect red-spectrum motion lighting (5 lumens max, 15–45 sec duration) provides human safety without insect attraction
+- Fiber optics and reflectors deliver light exactly where needed (door frames, steps, gateposts) with zero spill
+- Retroreflectors (passive, no emission) mark edges without any powered light
+
+**Why DCLTI (tax incentive)?**
+- Voluntary compliance is faster and cheaper than enforcement
+- A 0.05% property tax reduction (0.75% → 0.70%) is large enough to motivate action, small enough not to crater revenue
+- Lost revenue is offset by the Dark Corridor Fund ($11.2B/year by 2075)
+- Agricultural benefit from pollinator recovery ($6.8B/year) is 13× larger than the tax incentive cost
+
 **Why asset/operator separation?**
 - The state is good at building long-lived infrastructure (roads, tracks, ports)
 - The state is bad at running trains, trucks, and ships efficiently
@@ -464,7 +614,7 @@ The Infrastructure Act provides the **hardware** — the tracks, roads, ports, b
 - Insects are attracted to light, leading to vehicle strikes and death
 - Rural freeways do not need lighting — vehicles have headlights
 - Dark corridors also benefit astronomy, wildlife, and human mental health
-- Enforcement is strict: $10M/km fine for lighting violations
+- Enforcement is strict: $10M/km fine for lighting violations; $500k per endpoint for DCALS violations
 
 **Why insect deflectors?**
 - A simple, low-cost intervention (aerodynamic deflectors on vehicles)
@@ -472,12 +622,12 @@ The Infrastructure Act provides the **hardware** — the tracks, roads, ports, b
 - Complements elevated freeways (which reduce strikes by raising the road)
 - Mandatory on government vehicles by 2035, recommended for commercial fleet
 
-The Infrastructure Act is not just about moving goods. It is about moving goods **without destroying the ecosystems that make agriculture possible**. The elevated freeway with dark corridor is not a luxury — it is an investment in pollinator survival, crop yields, and the beauty of the night sky.
+The Infrastructure Act is not just about moving goods. It is about moving goods **without destroying the ecosystems that make agriculture possible**. The elevated freeway with dark corridor is not a luxury — it is an investment in pollinator survival, crop yields, and the beauty of the night sky. And the DCALS standard ensures that the buildings next to those dark corridors do not become islands of light in a sea of darkness.
 
-And when the next generation drives across the Heartland Plains on a dark, elevated road, with insects flying safely underneath and the stars visible overhead, they will know that New Crossroads built infrastructure that respected the living world.
+When the next generation drives across the Heartland Plains on a dark, elevated road, with insects flying safely underneath and the stars visible overhead, and when they pull into a rest stop whose only light is a brief red glow as they open the door — they will know that New Crossroads built infrastructure that respected the living world.
 
 That is the Infrastructure Act.
 
 ---
 
-**End of Draft 2.0**
+**End of Draft 2.1**
