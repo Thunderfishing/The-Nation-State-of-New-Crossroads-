@@ -1,227 +1,313 @@
-New Crossroads Education and Workforce Act.
+# Crossroads Co-operative Healthcare & Mental Wellness Act of 2025: Draft 6.3 (Harmonized)
 
-# Crossroads Education and Workforce Act of 2025: Draft 1.6
-**Posted to r/Bulwarkomics**  
-**Draft**: 1.6 Detailed | **Date**: April 29, 2025  
+**Posted to r/Bulwarkomics**
+**Draft**: 6.3 | **Date**: April 12, 2026
+**Author**: Thunderfish2
+
+> **Cross-reference**: This act is companion legislation to the *Crossroads Federated Cooperatives Limited (FCL) Structure Act of 2025 (Draft 3.0)*, *Crossroads Monetary Reform & Economic Stabilization Act of 2025 (Draft 8.0)*, *Crossroads Credit Union Act of 2025 (Draft 4.0)*, *Crossroads Government Act of 2025 (Draft 4.16)*, and *Crossroads Education Act of 2025 (Draft 2.0)*.
 
 ---
 
 ## Overview
-This act establishes a debt-free education and workforce system for 18 million students (ages 5–20) and 13 million journeymen within a $14.5 trillion GDP (65% co-ops/$9.425 trillion, 15% corporate/$2.175 trillion, 20% informal/$2.9 trillion), scaling to $38.94 trillion GDP (65% co-ops/$25.311 trillion) by 2075. It delivers education via 65% co-op schools, funds students via $5,000/year vouchers, supports high-potential student ventures, mandates 24-month service for 1 million annually, and credentials journeymen at age 20. A $94.35 billion Sovereign Wealth Fund (SWF) (part of $550 billion SWF, to $3.082 trillion) supports operations, managed by the National Learning Council (NLC) with 5,000 Credit Unions, 27,100 Federated Cooperatives Limited (FCLs), and $601.58 billion revenue. Post-educational programs enhance skills, and the Crossroads Workforce Database (CWD) ensures transparent tracking.
+
+This act establishes co-op-led healthcare and mental wellness services for 70 million citizens (65 million healthcare, 40 million mental health, 35 million dual) within a $14.5 trillion GDP (65% co-ops/$9.425T, 15% corporate/$2.175T, 20% informal/$2.9T), scaling to $38.94T GDP (65% co-ops/$25.311T) by 2075.
+
+Services are delivered through **10,000 co-op clinics** (structured as Co-op/Corporate Joint Ventures per FCL Act Section 3.7), **200 hospitals**, and the **Crossroads Mental Health Institution Network (CMHIN)** , funded by a **$180 billion Healthcare SWF** ($145B healthcare, $35B mental health, part of the total $1.5–2.0T SWF capped at 12% of GDP per Monetary Act 8.0).
+
+**Professional FCLs** (per FCL Act Section 2.3) — 100% worker-owned cooperatives of physicians and lawyers — provide specialized services within clinics under CCJV agreements, operating under cost-share or profit-share models with retainer client shares available to patients.
+
+The National Healthcare Board (NHB) manages operations, supported by 5,000 Credit Unions, **195,100 core FCLs** (plus 27,600 co-op clubs), and DAI-adjusted loans (0.5% floor for service-sector healthcare).
 
 ---
 
-## Section 1: Objectives
-- Deliver debt-free education for 18 million students (ages 5–20), targeting $75,000 journeyman earnings by age 20.
-- Fund education with $5,000/year vouchers, enabling co-op or corporate school choice.
-- Support high-potential student ventures with loans and educational flexibility, fostering entrepreneurship.
-- Mandate 24-month service (ages 19–20) with stipends ($12,000/year vocational, $15,000/year professional), credentialing 1 million journeymen annually.
-- Support 13 million journeymen, 2 million masters, 100,000 grandmasters, and 15 million immigrants, driving $25.311 trillion co-op GDP by 2075.
-- Establish apprenticeship pathways to master/grandmaster status with bonus shares for project oversight.
-- Align with healthcare workforce needs (1.8 million students, 100,000 service graduates).
-- Enhance skills via CLS Academy, Governance Training Program, Credit Union Academy, Alliance Network, and Media and Mentorship Program, tracked by CWD.
+## Section 0: Interdependencies (Harmonized)
+
+| Act | Integration Point |
+|-----|-------------------|
+| **FCL Act 3.0** | Professional FCLs (Section 2.3) replace "PCs"; clinic ownership structured as CCJV (Section 3.7); cost-share model; retainer client shares |
+| **Monetary Act 8.0** | DAI-adjusted loans (0.5% floor for healthcare); informal economy guarantee; asymmetric scrutiny; SWF capped at 12% GDP; co-op profit tax 5% (no SWF recharge) |
+| **Credit Union Act 4.0** | Micro-loans for informal healthcare access ($500, 4% nominal/~1.4% effective, self-attested income, 24hr approval) |
+| **Government Act 4.16** | Regional Boards (20 regions, 11 members each); Central Council oversight; master/grandmaster mentorship |
+| **Education Act 2.0** | Trains 160,000 healthcare workers and 95,000 volunteers |
 
 ---
 
-## Section 2: Funding
-- **SWF**: $94.35 billion (part of $550 billion SWF, to $252.99 billion by 2075), funded by $601.58 billion revenue ($325.4 billion taxes/fees, $276.18 billion resources).
-- **Vouchers**: $5,000/year per student ($90 billion for 18 million, $4.5 billion/region, adjusted biennially for 3% GDP growth, $13,500/year by 2075), funded by $94.35 billion SWF. Paid via $94 billion credit union checking, subject to 1% BWC Transaction Fee (~$900 million/year, 1% on $90 billion) and 1% Checking Account Fee (~$900 million/year, 1% on $90 billion checking subset), covered by SWF to avoid school/student burden.
-- **Loans**: $452.5 billion (65% co-op/$294.125 billion, 15% corporate/$67.875 billion, 20% informal/$90.5 billion) for co-op schools, corporate academies, apprenticeships, and informal ventures (e.g., retail, agriculture, services), funded by $217.5 billion SWF, $235 billion banking, $50 billion non-SWF. Loans subject to 1% BWC Transaction Fee and 0.5% Liquidity Fee, covered by SWF.
-- **Stipends**: $12,000/year vocational, $15,000/year professional ($30 billion for 1 million, $1.5 billion/region, adjusted biennially, $32,400–$40,500/year by 2075), paid monthly ($1,000–$1,250/month) with $500 end-of-service bonus ($500 million/year). Single-parent exemptions receive $2,500 credit ($6.25 million/region, $2 billion tax credits), funded by $94.35 billion SWF. Stipends subject to 1% BWC Transaction Fee (~$300 million/year, 1% on $30 billion), covered by SWF.
-- **Student Ventures**: $2 million/year ($100,000/region) for $500 venture loans, $16 million/year ($800,000/region) for supplemental loans ($10 million for $5,000 successful venture loans, $5 million for $50,000 wildly successful venture loans, $1 million audits), funded by $94.35 billion SWF. Loans subject to 1% BWC Transaction Fee and 0.5% Liquidity Fee (~$180,000/year), covered by SWF.
-- **Revenue**: $141.15 billion/year taxes/fees, $290 billion co-op recharge, $276.18 billion resources support operations, with credit unions contributing $96.6185 billion/year (*Credit Union Act Draft 2.6*).
-- **Contingency Reserve**: $3 billion/year ($2 billion enrollment, $1 billion vouchers) from $10.1 billion Charity SWF, reviewed biennially via CWD, offsets transaction/checking fees (~$2.1 billion/year).
-- **Audits**: 50 auditors, $1 billion blockchain/AI, $2.5 billion fraud cap, tracked via CWD.
-- **CWD**: $150 million/year ($7.5 million/region) for database operations, funded by $94.35 billion SWF and $504 billion reserve.
+## Section 1: Core Principles (New - Harmonized)
+
+### 1.1 Asymmetric Scrutiny for Healthcare (Per Monetary Act 8.0)
+
+| Level | Transaction Type | CWD Tracking | Reporting |
+|-------|------------------|--------------|-----------|
+| **Informal** | Cash healthcare payments (clinic fees, medication) below DLB threshold | Never collected | None. Constitutionally protected. |
+| **Citizen** | BWC healthcare payments under $10,000/year | No tracking | None |
+| **Middle** | BWC healthcare payments $10k–$100k/year | Aggregate totals only | Annual summary |
+| **Elite** | Corporate healthcare transactions above $100k | Full tracking | Quarterly audits |
+| **Institutional** | NHB operations, major healthcare loans | Full transparency | Public annual reports |
+
+**Cash healthcare payments** are accepted at all credit union kiosks with no fee and no surveillance, per Monetary Act Section 1A (Informal Economy Guarantee).
+
+### 1.2 DAI-Adjusted Loans for Healthcare (Per Monetary Act 1.6)
+
+All loans for healthcare facilities (clinics, hospitals, CMHIN) receive DAI adjustment with **0.5% floor** (service-sector healthcare).
+
+| Loan Type | Nominal Rate | DAI-Adjusted Effective (2025, BAR=2.6%) | Floor |
+|-----------|--------------|------------------------------------------|-------|
+| Clinic construction (CCJV) | 4% | 1.4% | 0.5% |
+| Hospital equipment | 4% | 1.4% | 0.5% |
+| CMHIN facility | 4% | 1.4% | 0.5% |
+| Telehealth infrastructure | 4% | 1.4% | 0.5% |
+
+### 1.3 Informal Sector Healthcare Access (Per Credit Union Act 4.0)
+
+Informal workers and cash-based citizens have automatic access to:
+- **Micro-loans** ($500, 4% nominal/~1.4% effective) for healthcare expenses: Self-attested income, no documentation, 24hr approval via CLS
+- **Basic Wallet** (BWC Layer 2 access without formal income history)
+- Credit unions may not require disclosure of cash transaction history for healthcare loans under $500,000
+
+### 1.4 Tax Framework for Healthcare (Per Monetary Act 8.0)
+
+| Entity Type | Tax Rate |
+|-------------|----------|
+| Patient co-op (CCJV member) | **5%** profit tax over $100k (no SWF contribution) |
+| Professional FCL (clinic partner) | **5%** profit tax over $100k (no SWF contribution) |
+| Corporate healthcare (non-co-op) | 0% under $100k; 15% $100k–$1M; 20% over $1M |
+
+**No co-op SWF recharge** — eliminated per Monetary Act 8.0.
 
 ---
 
-## Section 3: Education Framework
-### 3.1 Curriculum
-- **Ages 5–11 (Elementary)**: Reading, writing, mathematics, history, physical education, art, music, classical education (grammar, logic, critical thinking, problem-solving), fostering amor amoris (love of learning).
-- **Ages 12–15 (Middle)**: Advanced reading, writing, mathematics, history, financial literacy, digital literacy (AI, blockchain, cybersecurity), classical education (logic, rhetoric, amor amoris), talent identification via project-based learning. Interdisciplinary modules (e.g., AI applications, sustainability) added every 5 years by NLC (8/11 vote) with Regional Learning Assembly (RLA) input ($150 million/year, SWF-funded). Region-specific modules (e.g., oil/gas in Region 3, tech in Region 6) proposed by RLAs (6/11 vote, $10 million/region/year). $100 million/year equity fund prioritizes rural regions (e.g., Frostpeak, Ember Range, 8/11 NLC vote).
-- **Ages 16–18 (Secondary)**: Career-path specialization:
-  - *Vocational*: Mechanics, oil/gas, construction, plumbing, electrical work at vocational schools.
-  - *Professional*: Medicine (nursing: 50%, 900,000 students; psychiatry: 30%, 540,000; medical law: 20%, 360,000; 1.8 million total, 90,000/region), law, engineering, advanced technology (AI programming, drone tech, electronic warfare) at professional academies.
-  - *Military*: Cybersecurity, drone operations, military intelligence at specialized institutes.
-  - Includes 3 weeks/year apprenticeships in chosen fields (e.g., nursing at clinics, construction at FCLs), tracked via CWD ($10 million/year, SWF-funded).
-- **Ages 19–20 (Mandatory Service)**: Full-time apprenticeship (24 months) in chosen field, mentored by masters at co-op institutions (e.g., clinics, FCLs, tech firms). Men undergo 3-month combat boot camp (weapons, fitness, survival), retaining rifle ($500) and pistol ($200); women focus on non-combat roles (e.g., healthcare, tech), with optional boot camp. 100,000/year (5,000/region) assigned to healthcare (50,000 clinics, 50,000 CMHIN).
+## Section 2: Professional FCLs in Healthcare (Per FCL Act 2.3 & 3.7)
 
-### 3.2 Delivery
-- **Infrastructure**: 65% co-op schools (11.7 million students, 585,000/region), 35% corporate academies (6.3 million students), managed by 20 Regional Boards (220 members, 11/region: 9 masters, 1 wildcard, 1 chairman). Staffed by 50,000 educators (2,500/region, $100,000–$150,000/year), trained via $94.35 billion SWF.
-- **Vouchers**: $5,000/year per student ($90 billion, $4.5 billion/region) for co-op or corporate schools, paid via $94 billion credit union checking, subject to 1% BWC Transaction Fee (~$900 million/year) and 1% Checking Account Fee (~$900 million/year), covered by $94.35 billion SWF. Tracked via CWD. Blockchain-based school performance data ($10 million/year, SWF-funded) published on CWD (e.g., graduation rates, journeyman earnings). Annual voucher audits (20% of schools, $10 million/year) cap $50 million/year fraud, with fraudulent schools facing 1-year funding suspension (6/11 NLC vote).
-- **Dropout Support**: $6 billion/year apprenticeships for 900,000–2 million dropouts (45,000–100,000/region) in sectors (e.g., healthcare, construction), with voting rights for wildcards/FCL boards at 20. 50,000 dropout volunteers/year (2,500/region) support education (e.g., teaching aides), trained via $6 billion/year apprenticeship program; 25,000/year transition to journeyman apprenticeships after 2 years via $750 million/year reintegration ($500 million apprenticeships, $200 million transition, $50 million retention bonus, SWF-funded).
-- **Junior Integration**: $500 venture loans (0%, 5-year repayment, $2 million/year, $100,000/region) for ages 12–15, issued by CLS agents based on lenient business plan criteria (e.g., basic revenue projections, market feasibility), subject to 1% BWC Transaction Fee and 0.5% Liquidity Fee (~$20,000/year), covered by SWF. Students receive loan advice and debt management, with operational mentorship from masters or FCL board members. CLS agents may mentor successful ventures ($10,000+ revenue or altering educational paths) on repayment strategies and funding scalability, tracked via CWD, funded by $94.35 billion SWF.
+### 2.1 Professional FCL Structure
 
-### 3.2.1 Support for High-Potential Student Ventures
-Students with successful ventures ($10,000+ annual revenue) or wildly successful ventures (altering educational paths, e.g., scalable innovation, regional economic impact) receive tailored support. The NLC, via 6/11 vote with RLA input, may authorize:
-- **Supplemental Loans**: $5,000 (0%, 5-year repayment, $10 million/year, $500,000/region) for successful ventures, or $50,000 ($5 million/year, $250,000/region) for wildly successful ventures, issued by CLS agents with loan advice, subject to 1% BWC Transaction Fee and 0.5% Liquidity Fee (~$150,000/year), covered by SWF.
-- **Educational Flexibility**: Part-time schooling (50% curriculum), independent study, or accelerated journeyman credentialing (age 18+ with master endorsement), approved by Regional Boards (6/11 vote).
-- **Mentorship**: CLS agents provide loan-related mentorship (e.g., funding scalability, repayment plans). Masters or grandmasters offer operational mentorship, funded by $6 billion/year apprenticeship program.
-- **Oversight**: Annual audits ($1 million/year, $50,000/region) via blockchain-based registry, with metrics (revenue, jobs) on CWD. NLC reviews biennially (8/11 vote) to support $25.311 trillion co-op GDP by 2075.
-- **Example**: A 14-year-old’s $12,000 tech FCL secures a $5,000 loan and part-time schooling. A 16-year-old’s $150,000 drone venture gets a $50,000 loan, accelerated credentialing, and CLS mentorship, tracked via CWD.
+Professional FCLs (replacing "PCs" from Draft 6.2) are **100% worker-owned cooperatives** of physicians, lawyers, and other licensed healthcare professionals, governed by FCL Act Section 2.3.
 
----
+**Key Features:**
+- **Ownership**: 100% worker-owned (no investor equity)
+- **Governance**: Each licensed professional holds equal shares (e.g., 10% per physician)
+- **Voting**: One member, one vote (no investor voting)
+- **Tax**: 5% profit tax over $100k (no SWF contribution)
 
-## Section 4: Mandatory Service Program
-- **Participants**: 1 million/year (50,000/region, 500,000 men, 500,000 women, ages 19–20), auto-incorporated at 20 with $50 BWC wallet, $1,000 shares. Full-time apprenticeship in chosen field (e.g., healthcare, construction, tech), mentored by masters, with 100,000/year (5,000/region) assigned to healthcare (50,000 clinics, 50,000 CMHIN).
-- **Structure**:
-  - *Men*: 3-month combat boot camp (weapons, fitness, survival), 21 months vocational/professional apprenticeship (e.g., mechanics, medicine); retain rifle ($500), pistol ($200).
-  - *Women*: 24 months non-combat apprenticeship (e.g., healthcare, cybersecurity), optional 3-month boot camp (retain weapons if proficient).
-  - *Financial Literacy*: $50 million/year module (SWF-funded) delivered by masters, teaching budgeting and investment (e.g., BWC Reserve ETF), tracked via CWD.
-- **Stipends**: $12,000/year vocational, $15,000/year professional ($30 billion, $1.5 billion/region), paid monthly ($1,000–$1,250/month) with $500 end-of-service bonus ($500 million/year, SWF-funded), subject to 1% BWC Transaction Fee (~$300 million/year), covered by $94.35 billion SWF. Single-parent exemptions receive $2,500 credit ($6.25 million/region, $2 billion tax credits).
-- **Refreshers**: Every 5 years, 3-month combat refreshers for men (70% uptake, 17,500/region, $5,000 each, $87.5 million/region, $50 million ops), paid via $94 billion checking.
-- **Infrastructure**: 200 service camps (10/region), $50 billion SWF ($2.5 billion/region), powered by 1,633 TWh grid.
+### 2.2 Operational Models for Professional FCLs
 
----
+| Model | Description | Profit Distribution | Best For |
+|-------|-------------|---------------------|----------|
+| **Cost-Share** | Each member keeps their own revenue, shares clinic expenses | No firm-level profit; each member pays tax individually | Small clinics, general practice |
+| **Profit-Share** | Pooled revenue, shared expenses, distributed profit | Firm-level profit taxed at 5%, distributed to members | Large clinics, specialized practices |
 
-## Section 5: Workforce Development
-### 5.1 Composition
-- **Journeymen**: 13 million (650,000/region), credentialed at age 20 with $75,000 earnings, accessing $2,600 wallet ($8,449 by 2075). Credentialed via education (ages 16–18) and service (ages 19–20) in vocational or professional fields.
-- **Masters**: 2 million (100,000/region), 5+ years post-service or 3+ years with exceptional project impact, 5+ apprentices, $150,000 revenue, oversee complex projects (e.g., high-rise construction, open-heart surgery). Receive 2% per-share bonus ($20/BWC/year for $1,000/BWC, $40 million/year, paid via $94 billion savings).
-- **Grandmasters**: 100,000 (5,000/region), 10+ apprentices, 80% retention, $1.5 million impact, oversee critical infrastructure (e.g., highway interchanges, advanced surgeries). Receive 4% per-share bonus ($40/BWC/year for $1,000/BWC, $4 million/year, paid via $94 billion savings).
-- **Apprentices**: 20 million cumulative (1 million/region), mentored by masters during service and journeyman phase.
-- **Immigrants**: 15 million (750,000/region, 300,000/year), integrated via $5 billion/region apprenticeships, $600 million/year language/co-op training and credential assessment (6-month timeline, $50 million/year, Credit Union-funded, 25% prioritized for healthcare: 37,500/year, $12.5 million/year), points-based system.
-- **High Earners**: 100,000 (5,000/region, $100,000–$150,000/year).
+### 2.3 Retainer Client Shares (Per FCL Act 2.3)
 
-### 5.2 Apprenticeship Progression
-- **Journeyman Credentialing**: At age 20, students graduate as journeymen after 4 years of education (ages 16–18 curriculum, 3 weeks/year apprenticeships) and 2 years of service (full-time apprenticeship). Earnings: $45,000 from vouchers ($5,000/year x 9 years, ages 12–20), $24,000 (vocational) or $30,000 (professional) from stipends, totaling $69,000–$75,000, paid via $94 billion checking/savings. Safety training ($50 million/year, SWF-funded) ensures compliance for small projects.
-- **Journeyman Oversight**: Journeymen manage small-scale projects (e.g., house construction, simple surgeries), mentored by masters at FCLs or institutions.
-- **Master Status**: Achieved after 5+ years or 3+ years with 80% project success, 5+ apprentices, $150,000 revenue. Masters oversee complex projects, receiving 2% per-share bonus. $200 million/year mentorship program (SWF-funded) trains 100,000 additional masters by 2035, prioritizing healthcare and construction.
-- **Grandmaster Status**: Achieved after 10+ apprentices, 80% retention, $1.5 million impact, overseeing critical infrastructure, receiving 4% per-share bonus.
-- **Progression Pathway**: Journeymen apprentice under masters for 5–10 years. Boards (5–7 members, $25,000–$75,000/year) certify master/grandmaster status via CWD ($15 million/year), standardized with regional flexibility (6/11 RLA vote).
+Professional FCLs may issue **non-voting retainer shares** to patients/clients:
+
+| Feature | Specification |
+|---------|---------------|
+| Price | $1,000–$25,000 per share |
+| Governance rights | None (non-voting) |
+| Returns | 2–8% patronage returns on fees paid |
+| Redemption | Refundable upon retainer termination |
+| Cap | Total client share capital ≤ 20% of firm equity |
+| Voting control | Remains 100% with worker-owners |
+
+### 2.4 Clinic Structure as Co-op/Corporate Joint Venture (Per FCL Act 3.7)
+
+The 70% patient / 30% Professional FCL ownership model is structured as a **Co-op Led CCJV**:
+
+| Provision | Specification |
+|-----------|---------------|
+| CCJV Type | Co-op Led (per FCL Act 3.7.2) |
+| Patient Co-op ownership | 51–99% |
+| Professional FCL ownership | 1–49% |
+| Max term | 20 years (renewable) |
+| Approval body | Regional Board |
+| Corporate partner voting rights in FCL internal affairs | None |
+| JV board seats | Proportional to ownership; co-op must hold at least one seat |
+| Deadlock resolution | Co-op Department arbitration |
+
+**Governance Protections (per FCL Act 3.7.3):**
+- Professional FCL has **no voting rights** in patient co-op internal affairs
+- Patient co-op worker-members retain full base share rights
+- JV board seats proportional to ownership; patient co-op holds at least one seat
 
 ---
 
-## Section 6: Post-Educational Training Programs
-### 6.1 CLS Academy
-- **Purpose**: Trains 60,000 CLS agents (3,000/region) to manage $452.5 billion loans ($294.125 billion co-op, $67.875 billion corporate, $90.5 billion informal), issue student venture loans, support bankruptcy recovery, and ensure 65% co-op GDP ($9.425 trillion).
-- **Structure**: In Crossroads City with a cyber-focused campus in New Tech City, offering 1-year training ($1.5375 billion). Agents (44,000 at $75,000/year, 3,666 seniors at $120,000/year, 18 regional at $200,000/year) manage loans for 27,100 FCLs, students, and informal ventures, with 6-week updates every 3 years. $50 million/year rural training hubs ensure 50% rural participation (1,500 agents/region).
-- **Curriculum**: Loan management ($452.5 billion), debt management, client portfolio development, bankruptcy recovery plans ($94 billion savings), student venture loan issuance (lenient criteria, e.g., basic revenue projections), mentorship for successful ventures ($10,000+ revenue or altering educational paths).
-- **Integration**: CLS cadets (journeymen, masters) spend 2-year national service at the Academy (males post-boot camp, females directly), mentoring up to 3 trainees/year. Agents issue $500 venture loans, provide loan advice, and support bankruptcy recovery, tracked via CWD.
-- **Cost**: $1.5375 billion/year ($76.875 million/region), funded by $1.2 billion credit union revenue and $337.5 million SWF.
-- **Oversight**: CWD tracks agent performance, citations (5–10% salary bumps for 10/50/100 loans), disciplinary actions (5–15% fines, suspensions, expulsion).
+## Section 3: Services (Restructured)
 
-### 6.2 Governance Training Program
-- **Purpose**: Trains members and staff of government and regional boards (NEB, REAs, NLC, RLAs, Regional Boards), Central Council staff (510), auditors (50), and administrative workers (16,000, 800/district) for governance roles supporting education, workforce, and economic development.
-- **Structure**: $2.5 billion/year ($125 million/region, $100 million/year curriculum, including $5 billion voter training), offering 1-year in-person/online training, with 6-week updates every 3 years. $50 million/year rural hubs ensure 50% rural participation.
-- **Curriculum**: Governance (board operations, elections), financial oversight ($94.35 billion SWF, $452.5 billion loans), compliance ($2.5 billion fraud cap), administrative tasks (e.g., NEB approvals, RLA forums), voter education (Citizen Flow Program).
-- **Integration**: Supports NLC (11 members), RLAs (150 members/district), Regional Boards (220 members), NEB, REAs, and staff (10,000 NLC, 510 Central Council), funded by $94.35 billion SWF and $10.1 billion Charity SWF.
-- **Cost**: $2.5 billion/year ($125 million/region), funded by $94.35 billion SWF and $10.1 billion Charity SWF.
-- **Oversight**: CWD tracks performance, audited by $1 billion blockchain/AI.
+### 3.1 Co-op Clinics (as CCJV)
 
-### 6.3 Credit Union Academy
-- **Purpose**: Trains 25,000–35,000 Credit Union board members (5–7 per 5,000 Credit Unions) to oversee $452.5 billion loans, $208 billion banking suite, $15.04 billion Wallets, $94 billion shares.
-- **Structure**: $500 million/year ($25 million/region), offering 1-year in-person/online training, with 6-week updates every 3 years. Board members ($75,000/year) elected every 3 years. $50 million/year rural hubs ensure 50% rural participation.
-- **Curriculum**: Financial management ($94 billion checking/savings, 4–8% dividends), loan oversight ($452.5 billion), compliance ($2.5 billion fraud cap), governance (board elections, co-op bylaws).
-- **Integration**: Supports junior venture loans ($2 million/year), immigrant integration ($600 million/year), journeymen/masters post-service, funded by $96.6185 billion credit union revenue.
-- **Cost**: $500 million/year ($25 million/region), funded by $96.6185 billion credit union revenue.
-- **Oversight**: CWD tracks board performance, audited by $1 billion blockchain/AI.
+- **Structure**: 10,000 co-op clinics (500/district), structured as **Co-op Led CCJVs** (51–99% patient co-op / 1–49% Professional FCL)
+- **Professional FCL role**: Provides specialized services (diagnostics, legal advocacy) under CCJV agreement
+- **Operations**: General practice, pediatrics, geriatrics, minor surgeries
+- **Workforce**: 50,000 workers (2,500/district), including physicians from Professional FCLs
+- **Funding**: $75B buildout, $10B SWF subsidy, $29.6425B DAI-adjusted loans (0.5% floor)
+- **Operations budget**: $10B/year, funded by $145B Healthcare SWF
 
-### 6.4 Alliance Network
-- **Purpose**: Oversees $2.395 trillion Capital Investment Fund (CCIF, $1.96 trillion FCLs, $435 billion corporates) for co-op startups and SWF projects, supporting $9.425 trillion co-op GDP.
-- **Structure**: 1,832 members (1,755 FCL-elected, 65/region; 77 Regional Board appointees, 4/region), 65% FCL-led, approving CCIF investments (7.5% returns, 0.5% fee) via 65% FCL vote and 11/20 Regional Board confirmation. 6-month training ($100 million/year, SWF-funded) for journeymen/masters in co-op investment, governance, project management. $50 million/year rural hubs ensure 50% rural participation.
-- **Integration**: Mentors 1,000 journeymen/year (50/region) for CCIF-funded FCLs, supports PC startups (*Healthcare Act 5.9*), aligns with dropout reintegration, funded by $96.6185 billion credit union revenue and $94.35 billion SWF.
-- **Cost**: $100 million/year ($5 million/region), funded by $96.6185 billion credit union revenue and $94.35 billion SWF.
-- **Oversight**: CWD tracks performance, audited by $1 billion blockchain/AI.
+### 3.2 Hospitals
 
-### 6.5 Media and Mentorship Program
-- **Purpose**: Trains 50,000 media apprentices, 10,000 mentors, 95,000 volunteers (4,750/district) to support education, workforce, and community engagement.
-- **Structure**: $500 million/year ($25 million/region), offering 1-year in-person/online training, with 6-week updates every 3 years. $50 million/year rural hubs ensure 50% rural participation. Includes $750 million/year for dropout reintegration (50,000 volunteers, 25,000 to journeyman roles, $50 million retention bonus).
-- **Curriculum**: Media production (e.g., AM radio/TV ads), mentorship (journeymen, students, immigrants), volunteer coordination (e.g., teaching aides), community engagement.
-- **Integration**: Supports dropout volunteers (*Section 3.2*), journeymen/masters post-service, awareness campaigns (*Section 10*), funded by $94.35 billion SWF and $10.1 billion Charity SWF.
-- **Cost**: $500 million/year ($25 million/region), funded by $94.35 billion SWF and $10.1 billion Charity SWF.
-- **Oversight**: CWD tracks performance, audited by $1 billion blockchain/AI.
+- **Structure**: 200 hospitals (10/district), co-op-owned (standard FCL, not CCJV)
+- **Operations**: Complex procedures, inpatient care
+- **Workforce**: 50,000 workers (2,500/district)
+- **Funding**: $40B buildout, $5B/year operations, $4.41375B DAI-adjusted loans (0.5% floor)
+
+### 3.3 Crossroads Mental Health Institution Network (CMHIN)
+
+- **Structure**: 200 Secure Long-Term Institutions (SLIs), 1,000 Transitional Rehabilitation Centers (TRCs), 2,000 Community Support Hubs (CSHs)
+- **Workforce**: 60,000 workers (3,000/district)
+- **Funding**: $45B buildout, $5B/year operations, $4.58625B DAI-adjusted loans (0.5% floor)
+- **Partnerships**: Churches, charities, advocacy groups, veterans' groups ($1.21B/year contributions)
+
+### 3.4 Cost-Cutting Mechanisms (Updated)
+
+| Mechanism | Clinics/Hospitals ($B) | CMHIN ($B) | Total ($B) |
+|-----------|-----------------------|------------|-------------|
+| Co-op Efficiency (CCJV structure) | 2.5 | 1.0 | 3.5 |
+| Professional FCL Synergy | 2.75 | 1.75 | 4.5 |
+| Public-Private Hybrid | 4.3 | 1.25 | 5.55 |
+| AI/Telehealth | 3.5 | 1.25 | 4.75 |
+| Stabilization Fund | 0.5 | 0.2 | 0.7 |
+| Volunteers/Education | 0.1 | 0.6 | 0.7 |
+| Less Overlap | (6.5) | (2.5) | (9.0) |
+| **Total** | **6.65** | **3.85** | **10.5** |
 
 ---
 
-## Section 7: Cost-Cutting Mechanisms
-- **Co-op Efficiency**: Co-op schools reduce overhead by 25% ($27 billion/year vs. $36 billion private), using digital curricula ($100 million/year), reinvesting 10–20% profits ($1 million/school). Pilot in 10 regions (2025–2027, $100 million/region/year, adding 5 regions annually to 2030), reviewed every 5 years (8/11 NLC vote, $5 million/year, SWF-funded).
-- **Voucher System**: $5,000/year vouchers ($90 billion) enable school choice, saving $5 billion/year vs. fixed funding.
-- **Service Integration**: 24-month service reduces training costs by 15% ($3.6 billion/year for 1 million).
-- **Education Synergies**: 50,000 educators train 1.8 million students, 90,000 volunteers, saving $1 billion/year.
-- **Post-Educational Programs**: CLS Academy, Governance Training, Credit Union Academy, Alliance Network, Media and Mentorship Program train 100,000 agents, 66,000 workers/volunteers, 1,000 journeymen, saving $500 million/year.
-- **Stabilization Fund**: $10 billion/year saves 1,000 schools, reducing bailout costs by $500 million/year.
-- **CWD Efficiency**: Single database saves $50 million/year vs. multiple dashboards, reinvested into $10 billion Co-op Stabilization Fund.
-- **Total Savings**: $37.65 billion/year (26% of $144.5 billion/year operations), scaling to $100 billion/year by 2075.
+## Section 4: Membership and Costs (Unchanged but DAI-aligned)
 
-| Mechanism                  | Savings ($B) |
-|----------------------------|-------------|
-| Co-op Efficiency           | 27.0        |
-| Voucher System             | 5.0         |
-| Service Integration        | 3.6         |
-| Education Synergies        | 1.0         |
-| Post-Educational Programs  | 0.5         |
-| Stabilization Fund         | 0.5         |
-| CWD Efficiency             | 0.05        |
-| **Total**                  | **37.65**   |
+- **Membership**: Citizens join patient co-op with 50 BWC buy-in
+- **Premiums**:
+  - Bottom 20%: $150/month ($200 credit via tax credits)
+  - Middle 60%: $350/month
+  - Top 20%: $600/month
+- **Deductibles**: $1,000–$2,000, income-tiered
+- **DAI adjustment**: Premiums and deductibles denominated in BWC, subject to annual BAR recalculation
 
 ---
 
-## Section 8: Governance
-### 8.1 NLC Structure
-- **Composition**: 11 members (6 regional representatives elected by 20 Regional Learning Districts, 4 technical experts, 1 chairman), appointed by Central Council (6/11 vote, 11/20 Boards confirm).
-- **Voting**:
-  - Routine (e.g., budgets): 6/11 vote, 7 days.
-  - Strategic (e.g., curriculum changes, venture support): 8/11 vote, 14 days with RLA feedback.
-  - Emergency (e.g., pandemics, enrollment spikes): 5/11 vote, 72 hours with 3/20 EGA trigger.
-- **Operations**: 10,000 staff (500/district), $100 million/year, funded by $94.35 billion SWF. Public minutes on CWD, $1 million/district RLA forums, annual town halls ($10 million/year, SWF-funded). District structure reviewed every 10 years (8/11 vote, $5 million/year).
+## Section 5: Funding (Updated)
 
-### 8.2 RLA Nomination and Election
-- **Structure**: 20 RLAs (150 members/district, 50% school leaders, 30% educators, 10% citizens, 10% partner reps: 5 education, 5 co-op, 5 community), elected biennially via 51% citizen/FCL-weighted vote, 15% cross-sector master voting cap ($50 million/year blockchain).
-- **Nomination**: District residents (5+ years, 5+ years education expertise) endorsed by 10% RLA (15/150). Six clusters (3–4 districts) select 2 finalists via 51% vote. Profiles on CWD 30 days.
-- **Election**: Cluster citizens (16.8–22.4 million) elect 1 representative biennially via 51% vote, blockchain-secured. Terms: 4 years, 2-term limit, staggered (3 reps every 2 years).
+| Source | Amount | Notes |
+|--------|--------|-------|
+| Healthcare SWF | $145B | Part of total SWF (capped at 12% GDP per Monetary 8.0) |
+| Mental Health SWF | $35B | Part of total SWF |
+| DAI-adjusted loans | $47.125B | 0.5% floor (service-sector healthcare) |
+| Partner contributions | $1.21B/year | Donations, charitable grants |
+| Clinic/hospital/CMHIN profits | $35B/year → $92B by 2075 | Reinvested |
 
-### 8.3 Management
-- **NLC**: Oversees $94.35 billion SWF, $452.5 billion loans, 20 Regional Learning Districts (585,000 students, 2,500 educators/district).
-- **Districts**: Manage 11.7 million co-op students, 6.3 million corporate students, 50,000 educators, supported by $10 billion Co-op Stabilization Fund.
-- **Workforce**: 50,000 educators trained via $94.35 billion SWF; masters mentor journeymen, volunteers, immigrants.
+**No co-op SWF recharge** — eliminated per Monetary Act 8.0.
 
 ---
 
-## Section 9: Oversight
-- **20 Regional Boards**: 220 delegates (11/region) oversee schools, $452.5 billion loans, $208 billion banking, $15.04 billion wallets, $10 billion Co-op Stabilization Fund, via biennial elections with 15% cross-sector voting.
-- **Central Council**: 11 members, 510 staff track jobs (1% drop triggers $1 billion BWC/region from $504 billion reserve), supported by 50 auditors, $1 billion blockchain/AI, CWD ($150 million/year).
-- **Crossroads Workforce Database (CWD)**: Stores individual/FCL/corporate merit, voucher audits, school performance, workforce analytics, community engagement. Users log in via BWC wallet-enabled devices ($15.04 billion) or 5,000 Credit Union kiosks ($50 million/year), accessing role-specific data (e.g., CLS agents manage loans, employers verify credentials) with biometric security. Hosted on $1 billion blockchain/AI infrastructure, supports job tracking, fraud prevention ($2.5 billion cap), transparency, funded by $94.35 billion SWF and $504 billion reserve.
-- **Fraud Prevention**: Quarterly audits (25% of schools/year, $10 million/year) save $100 million/year, funded by $96.6185 billion credit union revenue.
+## Section 6: Governance (Harmonized with FCL Act 3.0 & Government 4.16)
+
+### 6.1 National Healthcare Board (NHB)
+
+- **Composition**: 11 members (6 regional representatives, 4 experts, 1 chairman)
+- **Appointment**: Central Council (6/11 vote, 11/20 Regional Boards confirm)
+- **Voting**: 6/11 routine, 8/11 strategic, 5/11 emergency
+- **Operations**: $100M/year, funded by Healthcare SWF
+
+### 6.2 Regional Health Assemblies (RHAs)
+
+- **Structure**: 20 RHAs (150 members/district)
+- **Composition**: 50% healthcare professionals (masters with $100k+ FCL revenue), 30% workers, 20% citizens
+- **Election**: Biennial, 51% citizen/FCL-weighted vote
+- **Term**: 4 years, 2-term limit
+
+### 6.3 Clinic CCJV Governance (Per FCL Act 3.7.3)
+
+- **JV Board**: Seats proportional to ownership (patient co-op holds at least one seat)
+- **Professional FCL role**: No voting rights in patient co-op internal affairs
+- **Dispute resolution**: Co-op Department arbitration
+- **Approval**: Regional Board for CCJV formation and renewal
+
+### 6.4 Professional FCL Governance (Per FCL Act 2.3)
+
+- **Board**: 5–7 members, elected by worker-owners (one member, one vote)
+- **No investor voting** (unless Heavy Industry Clause, not applicable to healthcare)
+- **Retainer client shares**: Non-voting, 2–8% patronage returns
 
 ---
 
-## Section 10: Community Engagement
-- **Awareness Campaign**: $75 million/year ($50 million AM radio/TV ads via 5,000 stations, $25 million student/parent outreach for 18 million students), funded by $10.1 billion Charity SWF, promotes voucher benefits and co-op education. Metrics (80% forum attendance, 90% voucher awareness) on CWD ($5 million/year, SWF-funded).
-- **Forums**: 20 regional forums (2025, $20 million) gather feedback from 50,000 educators, 1,500 PC members, 95,000 volunteers, 18 million students, managed by RLAs. NLC implements 50% of feedback (e.g., curriculum priorities) via 8/11 vote ($5 million/year, SWF-funded), reported via CWD.
-- **Education Integration**: 5,000 educators train volunteers, funded by $94.35 billion SWF. Quarterly RLA reports ($5 million/year, blockchain-secured) on CWD enhance transparency.
+## Section 7: Oversight (Updated)
+
+- **20 Regional Boards**: 220 delegates (11/region) oversee clinics, CMHIN, DAI-adjusted loans
+- **Central Council**: 11 members, 510 staff, track healthcare metrics
+- **CWD**: $150M/year tracks performance, fraud, compliance
+- **Healthcare Compliance System**: $100M/year, integrated with CWD
+- **Auditors**: 50–75 auditors, $1B blockchain/AI, cap $2.5B fraud
+- **Asymmetric scrutiny**: Patient financial data under $10k private; institutional data fully transparent
 
 ---
 
-## Section 11: Implementation Timeline
-- **2025–2030**: Enroll 18 million students, credential 5 million journeymen, train 50,000 educators, 100,000 service graduates, 90,000 volunteers; deploy CWD in 10 regions; save $9.4 billion/year.
-- **2030–2045**: Maintain 18 million students, credential 15 million journeymen, scale CWD to 20 regions, profits to $67 billion/year.
-- **2045–2075**: Support 18 million students, 13 million journeymen, 25 million service graduates; scale SWF to $252.99 billion, savings to $100 billion/year.
+## Section 8: Key Stats (2025–2075) - Harmonized
+
+| Metric | 2025 | 2075 | Change / Source |
+|--------|------|------|-----------------|
+| Population | 112M | 130M | — |
+| GDP | $14.5T (65/15/20) | $38.94T (65/15/20) | Per Monetary 8.0 |
+| Total SWF | $550B | **$1.5–2.0T** (capped at 12% GDP) | Per Monetary 8.0 |
+| Healthcare SWF | $145B | Scales with total SWF | Part of cap |
+| Mental Health SWF | $35B | Scales with total SWF | Part of cap |
+| Co-op SWF recharge | **$0** (eliminated) | **$0** | Per Monetary 8.0 |
+| Co-op profit tax | **5%** (over $100k) | **5%** (over $100k) | Per Monetary 8.0 |
+| DAI floor (healthcare loans) | 0.5% | 0.5% | Service-sector rate |
+| Clinics (as CCJVs) | 10,000 | 10,000 | — |
+| Hospitals | 200 | 200 | — |
+| CMHIN facilities | 3,200 | 3,200 | — |
+| Professional FCLs in healthcare | 1,500 | 2,000+ | Per FCL Act 2.3 |
+| Healthcare workers | 160,000 | 200,000 | — |
+| Volunteers | 95,000 | 120,000 | — |
+| Coverage | 70M citizens | 85M citizens | — |
+| Informal healthcare access | Protected below DLB | Protected below DLB | Per Monetary 1A |
 
 ---
 
-## Appendix: Glossary
-- **NLC**: National Learning Council, 11-member body managing education and workforce.
-- **RLA**: Regional Learning Assembly, 150-member body per district overseeing operations.
-- **FCLs**: Federated Cooperatives Limited, worker/customer-owned co-ops.
-- **PCs**: Professional Cooperatives, 100% worker-owned FCLs for professionals.
-- **SWF**: Sovereign Wealth Fund, $550 billion (2025), scaling to $3.082 trillion (2075).
-- **BWC**: Bulwark Coin, blockchain-based currency backed by 0.025 oz precious metals.
-- **CWD**: Crossroads Workforce Database, $150 million/year, tracking merit, vouchers, workforce, engagement.
-- **CLS Academy**: $1.5375 billion program training 60,000 agents for loan management.
-- **Governance Training Program**: $2.5 billion program training board members and staff.
-- **Credit Union Academy**: $500 million program training 25,000–35,000 Credit Union board members.
-- **Alliance Network**: 1,832-member body overseeing $2.395 trillion CCIF.
-- **Media and Mentorship Program**: $500 million program training media apprentices, mentors, volunteers.
+## Summary of Changes (Draft 6.2 → 6.3)
+
+| Section | Change | Rationale |
+|---------|--------|-----------|
+| **Header** | Updated cross-references to FCL Act 3.0, Monetary 8.0, Credit Union 4.0, Government 4.16 | Legislative consistency |
+| **Overview** | Replaced "PCs" with "Professional FCLs"; added CCJV structure; updated SWF cap reference | Per FCL Act 2.3 & 3.7, Monetary 8.0 |
+| **Section 0** | New interdependencies table | Reflects harmonization |
+| **Section 1** | **New: Core Principles** (asymmetric scrutiny, DAI floors, informal access, tax framework) | Per Monetary 8.0 + Credit Union 4.0 |
+| **Section 2** | **New: Professional FCLs in Healthcare** (cost-share/profit-share models, retainer client shares, CCJV structure) | Per FCL Act 2.3 & 3.7 |
+| **Section 3.1** | Updated clinic structure to CCJV (51–99% patient co-op / 1–49% Professional FCL) | Per FCL Act 3.7 |
+| **Section 3.4** | Updated cost-cutting mechanisms (Professional FCL synergy replaces PC synergy) | Terminology update |
+| **Section 5** | Removed co-op recharge ($200M); updated SWF references; added DAI floor | Per Monetary 8.0 |
+| **Section 6** | Added CCJV governance and Professional FCL governance subsections | Per FCL Act 2.3 & 3.7 |
+| **Section 7** | Added asymmetric scrutiny for patient data | Per Monetary 8.0 |
+| **Section 8** | Updated key stats: removed co-op recharge, added DAI floor, updated SWF cap | Reflects all changes |
+| **Throughout** | Updated FCL count from 27,100 to 195,100 (+27,600 clubs) | Per FCL Act 3.0 |
 
 ---
 
-## Key Stats (2025–2075)
-- **Students**: 18 million (900,000/region), 11.7 million co-op, 6.3 million corporate.
-- **Workforce**: 13 million journeymen (650,000/region), 2 million masters, 100,000 grandmasters, 15 million immigrants.
-- **Funding**: $94.35 billion SWF, $452.5 billion loans, $90 billion vouchers, $30 billion stipends, $18 million student ventures.
-- **Savings**: $37.65 billion/year (26% of $144.5 billion/year operations), scaling to $100 billion/year by 2075.
-- **Economy**: Supports $38.94 trillion GDP (65% co-ops/$25.311 trillion, 15% corporate/$5.841 trillion, 20% informal/$7.788 trillion).
+## Design Philosophy (Informative)
+
+The Healthcare Act is the **compassionate core** of New Crossroads. Where the FCL Act provides the cooperative business structure, the Healthcare Act applies that structure to medicine — and in doing so, creates something rare: a healthcare system that is member-owned, professionally staffed, and financially sustainable.
+
+**Why Professional FCLs instead of "PCs"?**
+- The FCL Act already defines Professional FCLs (Section 2.3). Reusing that definition creates legislative consistency.
+- Professional FCLs offer two operational models: cost-share (each physician keeps their own revenue) or profit-share (pooled revenue). This flexibility allows clinics to choose what works for their practice.
+- Retainer client shares give patients a path to patronage returns without voting rights — preserving professional control while sharing financial benefits.
+
+**Why CCJV for clinics?**
+- A 70% patient / 30% Professional FCL split is not a standard FCL (which would be 100% worker-owned). It is a joint venture between a patient co-op and a Professional FCL.
+- The FCL Act's CCJV provisions (Section 3.7) provide exactly this structure, with clear rules for governance, profit allocation, and dispute resolution.
+- The CCJV structure ensures patients retain control (51% minimum ownership) while professionals provide specialized services.
+
+**Why the 0.5% DAI floor for healthcare loans?**
+- Healthcare is a service-sector industry. The people who provide it receive substantial non-monetary compensation through the Education Act's mandatory service programs.
+- A lower DAI floor keeps borrowing affordable for clinics, hospitals, and mental health facilities.
+
+**Why informal protection for healthcare payments?**
+- A family paying a clinic fee in cash should not need a BWC wallet or a CWD profile. The transaction is below the DLB threshold. It is protected.
+- Micro-loans for healthcare expenses (self-attested income, 24hr approval) ensure informal workers are not excluded from care.
+
+The Healthcare Act is not about maximizing profit. It is about delivering care — efficiently, humanely, and without surveilling the patients who pay in cash. The Professional FCLs provide the expertise. The patient co-ops provide the ownership. The CCJV structure provides the partnership. And the DAI ensures deflation does not make healthcare unaffordable.
+
+When a patient pays a clinic fee in cash, or a physician joins a Professional FCL under the cost-share model, or a retainer client receives patronage returns on their fees — they will know that New Crossroads built a healthcare system that respected both the healer and the healed.
+
+That is the Healthcare Act.
 
 ---
+
+**End of Draft 6.3**
