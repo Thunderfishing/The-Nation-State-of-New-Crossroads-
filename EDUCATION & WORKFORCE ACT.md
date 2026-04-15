@@ -204,6 +204,39 @@ Per FCL Act Section 2.2, schools shall host or sponsor **co-op clubs** for extra
 - **Mentorship**: CLS agents provide loan-related mentorship (e.g., funding scalability, repayment plans). Masters or grandmasters offer operational mentorship.
 - **Oversight**: Annual audits ($1 million/year, $50,000/region) via blockchain-based registry, with metrics (revenue, jobs) on CWD. NLC reviews biennially (8/11 vote).
 
+- ### 3.7 Police Service Vocational Pathway
+
+Policing shall be organized as a standard blue-collar vocational trade under the journeyman–master–grandmaster ladder identical to all skilled trades (cross-reference: Government Act §2.1.2). No college degree or external professional certification may be required or weighted in hiring, promotion, credentialing, or funding decisions at any level.
+
+#### 3.7.1 Secondary Vocational Track (Ages 16–18)
+Municipal police departments shall partner with local Tier 2 and Tier 3 School FCLs to offer an optional **police vocational module** as part of the career-path specialization curriculum (see §3.1).  
+- 3 weeks per year of hands-on apprenticeship hours.  
+- Curriculum: patrol procedures, de-escalation and community mediation, basic forensics, informal-economy protection (Monetary Act §1A), public safety co-op club leadership, and neighborhood problem-solving.  
+- Students earn journeyman-eligible credit hours tracked via CWD.  
+- Municipal departments sponsor **Public Safety Co-op Clubs** (parallel to §3.4 Co-op Clubs) for ages 12–18. These Tier 1 or Tier 2 FCLs (dues $25–$50/year) give youth direct exposure and elect a representative to the Local School Board (parallel to the Sports/Activities seat).
+
+#### 3.7.2 Mandatory 24-Month Service Apprenticeship (Ages 19–20)
+Police Service counts as a full vocational apprenticeship option within the Mandatory Service Program (§4).  
+- Participants (those who selected the police track) complete their 24 months in their **home municipality**.  
+- Structure: 3-month boot-camp phase (weapons, fitness, survival — identical to the male service track) followed by 21 months of street apprenticeship under a Master Sergeant.  
+- Stipend paid at the vocational rate ($12,000/year) via credit-union checking.  
+- Successful completion grants automatic **Journeyman Patrol Officer** credential at age 20, with full powers, $50 BWC wallet, and 1 base share.
+
+#### 3.7.3 Journeyman → Master → Grandmaster Progression
+Progression follows the identical merit-based ladder used by teachers (§5.2) and all other trades (§5.3), with metrics tracked via CWD.
+
+| Rank                  | Minimum Time | Requirements (CWD-tracked)                                      | Promotion Method                          | Pay Bump (relative to journeyman rate) |
+|-----------------------|--------------|-----------------------------------------------------------------|-------------------------------------------|----------------------------------------|
+| Journeyman Patrol Officer | Age 20      | Completion of 24-month service apprenticeship                   | Automatic                                | Base (matches journeyman electrician/plumber) |
+| Master Sergeant       | 5 years     | 5+ apprentices mentored + community metrics (repeat calls ↓, resident satisfaction ↑) | 51 % peer vote of officers in the department | +25 %                                 |
+| Chief of Police (municipal) | 10 years   | Master status + 80 % apprentice retention + demonstrated leadership | Municipal council + local wildcard representative | +40 %                                 |
+
+- **Residency Rule**: Every officer must live within 10 km of their assigned patrol zone (waiver only by 6/11 Regional Board vote for proven hardship).  
+- **Community Integration**: 20 % of sworn officer time must be non-enforcement (neighborhood walks, co-op security workshops, youth mentorship). Measured and tied to regional funding bonuses via CWD.  
+- **Oversight**: Regional Boards retain funding and standards authority (Government Act §2.1); municipal governments handle day-to-day operations. Biannual CWD audits enforce the blue-collar apprenticeship model and prevent credential creep.
+
+This pathway ensures police officers are recruited, trained, and promoted from the same local working-class communities they serve, preserving the worker-centric meritocracy of the entire education and workforce system.
+
 ---
 
 ## Section 4: Mandatory Service Program
@@ -303,6 +336,48 @@ Teachers are licensed professionals with a distinct pathway within the Education
 - **Integration**: Supports dropout volunteers, journeymen/masters post-service, awareness campaigns, funded by $94.35 billion SWF and $10.1 billion Charity SWF.
 - **Cost**: $500 million/year ($25 million/region), funded by $94.35 billion SWF and $10.1 billion Charity SWF.
 - **Oversight**: CWD tracks performance, audited by $1 billion blockchain/AI.
+
+### 6.6 Regional Police Academy
+
+**Purpose**: Provides specialized, apprenticeship-based training for journeyman officers selected for regional police coordination roles under Regional Boards (cross-reference: Government Act §2.1 “regional police forces” for inter-municipal coordination, major incident response, highway patrol, and oversight support). The Academy reinforces the blue-collar vocational model: no college degree or external credential is permitted or weighted at any stage. All instructors must be active or recently retired Master Sergeants/Chiefs with 10+ years street experience.
+
+**Structure**:
+- One Regional Police Academy per region (20 total), with shared central curriculum developed by the Co-op Department and approved by the National Learning Council (8/11 vote).
+- 6-month full-time program for selected Journeyman Patrol Officers (must have completed mandatory service + minimum 2 years street patrol).
+- $750 million/year total funding ($37.5 million/region), sourced from Regional Board discretionary funds + $200 million SWF allocation. Scales to $2 billion/year by 2075.
+- Capacity: 5,000 officers annually nationwide (250/region), with 50 % rural participation guaranteed via satellite training hubs ($50 million/year).
+- 6-week refresher modules every 3 years for graduates serving in regional units.
+
+**Curriculum** (80 % hands-on, 20 % classroom):
+- Advanced de-escalation, crisis negotiation, and community mediation.
+- Inter-municipal coordination, major incident command, and multi-agency response.
+- Forensics, evidence handling, and informal-economy protection protocols (Monetary Act §1A).
+- Regional sustainability and public safety co-op club integration.
+- Leadership and mentorship training (prepares officers to take apprentices in municipal departments).
+- All modules delivered by Master Sergeants; no outside consultants or academic lecturers permitted.
+
+**Eligibility and Progression** (CWD-tracked):
+| Level | Entry Requirement | Outcome on Graduation | Promotion Path |
+|-------|-------------------|-----------------------|----------------|
+| **Journeyman Patrol Officer** | Mandatory service + 2 years street time | Certified for regional coordination duty | Eligible for Master Sergeant track |
+| **Master Sergeant (Regional)** | 5+ years + Academy graduation + 5 apprentices | Leads regional units or trains municipal departments | +25 % pay bump; peer-vote promotion |
+| **Chief / Regional Commander** | Master status + 80 % apprentice retention | Oversees regional operations | +40 % pay bump; selected by Regional Board (6/11 vote) |
+
+**Integration with Municipal Forces**:
+- Academy graduates may rotate back to municipal departments or serve in regional support units.
+- Municipalities retain day-to-day operational control; Regional Boards provide funding and standards only.
+- Residency rule remains in force (officers live within 10 km of primary patrol or coordination zone).
+
+**Oversight**:
+- Regional Boards audit academy performance biannually via CWD (metrics: community satisfaction, repeat-call reduction, apprentice success rate).
+- National Learning Council reviews curriculum every 5 years (8/11 vote, $5 million/year SWF).
+- Fraud / credential creep capped at $2.5 billion system-wide; any attempt to introduce college-style requirements triggers immediate Regional Board revocation of charter (6/11 vote).
+
+**Community Focus**:
+- 20 % of training time dedicated to non-enforcement activities (youth Public Safety Co-op Clubs, neighborhood workshops).
+- Academy sponsors regional Public Safety Co-op Clubs (parallel to §3.4) that feed directly into the secondary vocational track (§3.7.1).
+
+This Academy ensures the regional police coordination function remains worker-led, merit-based, and community-rooted while giving Regional Boards the trained personnel they need to fulfill their oversight role under the Government Act.
 
 ---
 
