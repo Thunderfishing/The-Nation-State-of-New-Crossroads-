@@ -204,7 +204,7 @@ Per FCL Act Section 2.2, schools shall host or sponsor **co-op clubs** for extra
 - **Mentorship**: CLS agents provide loan-related mentorship (e.g., funding scalability, repayment plans). Masters or grandmasters offer operational mentorship.
 - **Oversight**: Annual audits ($1 million/year, $50,000/region) via blockchain-based registry, with metrics (revenue, jobs) on CWD. NLC reviews biennially (8/11 vote).
 
-- ### 3.7 Police Service Vocational Pathway
+### 3.7 Police Service Vocational Pathway
 
 - Policing shall be organized as a standard blue-collar vocational trade under the journeyman–master–grandmaster ladder identical to all skilled trades (cross-reference: Government Act §2.1.2). No college degree or external professional certification may be required or weighted in hiring, promotion, credentialing, or funding decisions at any level.
 
