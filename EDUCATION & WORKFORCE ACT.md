@@ -206,7 +206,7 @@ Per FCL Act Section 2.2, schools shall host or sponsor **co-op clubs** for extra
 
 - ### 3.7 Police Service Vocational Pathway
 
-Policing shall be organized as a standard blue-collar vocational trade under the journeyman–master–grandmaster ladder identical to all skilled trades (cross-reference: Government Act §2.1.2). No college degree or external professional certification may be required or weighted in hiring, promotion, credentialing, or funding decisions at any level.
+- Policing shall be organized as a standard blue-collar vocational trade under the journeyman–master–grandmaster ladder identical to all skilled trades (cross-reference: Government Act §2.1.2). No college degree or external professional certification may be required or weighted in hiring, promotion, credentialing, or funding decisions at any level.
 
 #### 3.7.1 Secondary Vocational Track (Ages 16–18)
 - Municipal police departments shall partner with local Tier 2 and Tier 3 School FCLs to offer an optional **police vocational module** as part of the career-path specialization curriculum (see §3.1).  
