@@ -209,21 +209,21 @@ Per FCL Act Section 2.2, schools shall host or sponsor **co-op clubs** for extra
 Policing shall be organized as a standard blue-collar vocational trade under the journeyman–master–grandmaster ladder identical to all skilled trades (cross-reference: Government Act §2.1.2). No college degree or external professional certification may be required or weighted in hiring, promotion, credentialing, or funding decisions at any level.
 
 #### 3.7.1 Secondary Vocational Track (Ages 16–18)
-Municipal police departments shall partner with local Tier 2 and Tier 3 School FCLs to offer an optional **police vocational module** as part of the career-path specialization curriculum (see §3.1).  
+- Municipal police departments shall partner with local Tier 2 and Tier 3 School FCLs to offer an optional **police vocational module** as part of the career-path specialization curriculum (see §3.1).  
 - 3 weeks per year of hands-on apprenticeship hours.  
 - Curriculum: patrol procedures, de-escalation and community mediation, basic forensics, informal-economy protection (Monetary Act §1A), public safety co-op club leadership, and neighborhood problem-solving.  
 - Students earn journeyman-eligible credit hours tracked via CWD.  
 - Municipal departments sponsor **Public Safety Co-op Clubs** (parallel to §3.4 Co-op Clubs) for ages 12–18. These Tier 1 or Tier 2 FCLs (dues $25–$50/year) give youth direct exposure and elect a representative to the Local School Board (parallel to the Sports/Activities seat).
 
 #### 3.7.2 Mandatory 24-Month Service Apprenticeship (Ages 19–20)
-Police Service counts as a full vocational apprenticeship option within the Mandatory Service Program (§4).  
+- Police Service counts as a full vocational apprenticeship option within the Mandatory Service Program (§4).  
 - Participants (those who selected the police track) complete their 24 months in their **home municipality**.  
 - Structure: 3-month boot-camp phase (weapons, fitness, survival — identical to the male service track) followed by 21 months of street apprenticeship under a Master Sergeant.  
 - Stipend paid at the vocational rate ($12,000/year) via credit-union checking.  
 - Successful completion grants automatic **Journeyman Patrol Officer** credential at age 20, with full powers, $50 BWC wallet, and 1 base share.
 
 #### 3.7.3 Journeyman → Master → Grandmaster Progression
-Progression follows the identical merit-based ladder used by teachers (§5.2) and all other trades (§5.3), with metrics tracked via CWD.
+- Progression follows the identical merit-based ladder used by teachers (§5.2) and all other trades (§5.3), with metrics tracked via CWD.
 
 | Rank                  | Minimum Time | Requirements (CWD-tracked)                                      | Promotion Method                          | Pay Bump (relative to journeyman rate) |
 |-----------------------|--------------|-----------------------------------------------------------------|-------------------------------------------|----------------------------------------|
@@ -235,7 +235,7 @@ Progression follows the identical merit-based ladder used by teachers (§5.2) an
 - **Community Integration**: 20 % of sworn officer time must be non-enforcement (neighborhood walks, co-op security workshops, youth mentorship). Measured and tied to regional funding bonuses via CWD.  
 - **Oversight**: Regional Boards retain funding and standards authority (Government Act §2.1); municipal governments handle day-to-day operations. Biannual CWD audits enforce the blue-collar apprenticeship model and prevent credential creep.
 
-This pathway ensures police officers are recruited, trained, and promoted from the same local working-class communities they serve, preserving the worker-centric meritocracy of the entire education and workforce system.
+- This pathway ensures police officers are recruited, trained, and promoted from the same local working-class communities they serve, preserving the worker-centric meritocracy of the entire education and workforce system.
 
 ---
 
@@ -339,7 +339,7 @@ Teachers are licensed professionals with a distinct pathway within the Education
 
 ### 6.6 Regional Police Academy
 
-**Purpose**: Provides specialized, apprenticeship-based training for journeyman officers selected for regional police coordination roles under Regional Boards (cross-reference: Government Act §2.1 “regional police forces” for inter-municipal coordination, major incident response, highway patrol, and oversight support). The Academy reinforces the blue-collar vocational model: no college degree or external credential is permitted or weighted at any stage. All instructors must be active or recently retired Master Sergeants/Chiefs with 10+ years street experience.
+- **Purpose**: Provides specialized, apprenticeship-based training for journeyman officers selected for regional police coordination roles under Regional Boards (cross-reference: Government Act §2.1 “regional police forces” for inter-municipal coordination, major incident response, highway patrol, and oversight support). The Academy reinforces the blue-collar vocational model: no college degree or external credential is permitted or weighted at any stage. All instructors must be active or recently retired Master Sergeants/Chiefs with 10+ years street experience.
 
 **Structure**:
 - One Regional Police Academy per region (20 total), with shared central curriculum developed by the Co-op Department and approved by the National Learning Council (8/11 vote).
@@ -363,7 +363,7 @@ Teachers are licensed professionals with a distinct pathway within the Education
 | **Master Sergeant (Regional)** | 5+ years + Academy graduation + 5 apprentices | Leads regional units or trains municipal departments | +25 % pay bump; peer-vote promotion |
 | **Chief / Regional Commander** | Master status + 80 % apprentice retention | Oversees regional operations | +40 % pay bump; selected by Regional Board (6/11 vote) |
 
-**Integration with Municipal Forces**:
+- **Integration with Municipal Forces**:
 - Academy graduates may rotate back to municipal departments or serve in regional support units.
 - Municipalities retain day-to-day operational control; Regional Boards provide funding and standards only.
 - Residency rule remains in force (officers live within 10 km of primary patrol or coordination zone).
