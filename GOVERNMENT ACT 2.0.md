@@ -213,14 +213,14 @@ Each of 20 regions (e.g., Region 1: Crossroads City/Corridon, 6.5 million voters
 ### 3.1 Central Council
 
 - **Composition**: 11 members (10 masters: 1/sector, 1 wildcard).
-- **Election**: 200 regional masters of the Regional Boards elect 10 masters (101/200 vote). **Elected members must be confirmed by the National Assembly (6/10 vote) before taking office.** 94 million elect wildcard annually ($1.5 billion voter mobilization, $850 million/year BWC credits). 5-year terms, one-term limit. By 2075, 109 million voters.
+- **Election**: 220 regional masters of the Regional Boards elect 10 masters (121/220 vote). **Elected members must be confirmed by the National Assembly (6/10 vote) before taking office.** 94 million elect wildcard annually ($1.5 billion voter mobilization, $850 million/year BWC credits). 5-year terms, one-term limit. By 2075, 109 million voters.
 - **Chairman**: Elected by 6/11 vote (2-year term, masters only).
 
 - **Functions**:
   - Oversee $601.58 billion revenue ($129.775 billion personal, $70 billion co-op, $9.25 billion corporate, $15 billion excise, $18.75 billion property, $49 billion tariffs, $15.65 billion fees; $276.18 billion minerals, $27.618 billion solar), with $96.6185 billion from credit unions, seeding $550 billion SWF, scaling to $1.6127 trillion revenue and $3.082 trillion SWF by 2075.
   - Manage $550 billion SWF, funding sectoral, community ($10.1 billion Charity SWF), emergency ($50 billion), and mining SWFs, with $217.5 billion for loans.
   - Manage $452.5 billion loans, $627.2 billion assets ($362.5 billion cash, $15.04 billion wallets, $94 billion shares, $208 billion accounts, $125–$175 billion reserve), scaling to $1.2084 trillion loans.
-  - Appoint 510 department staff, 200 judges, 3 SAP arbiters, 3 NEC directors, NEB experts/chairman (6/11 vote, 11/20 Boards confirm).
+  - Appoint 510 department staff, 3 SAP arbiters, 3 NEC directors, NEB experts/chairman (6/11 vote, 11/20 Boards confirm).
   - Approve NEB strategic plans (e.g., $751.7 billion energy investments).
   - Allocate $50 billion infrastructure, $30 billion R&D, $20 billion agro camps, $20 billion housing, $64.25 billion reserve, $500 million space launches.
   - Manage sustainability: $50 million/year parkweb, $500 million/year CO2 pipelines, $1 billion greenhouses.
@@ -285,7 +285,7 @@ In addition to its existing functions, the National Assembly **must** propose at
 
 ---
 
-### 3.2.2 Citizen‑Initiated Laws (Insert after 3.2.1)
+### 3.2.2 Citizen‑Initiated Laws
 
 Citizens may force a law, amendment, or repeal onto the 5‑year national ballot without Assembly approval.
 
