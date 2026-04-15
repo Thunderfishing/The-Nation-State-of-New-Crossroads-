@@ -378,7 +378,7 @@ Ten departments (51 staff/sector, 510 total) oversee $45.25–$90.5 billion loan
 - **Agriculture**: Secures food via $20 billion agro camps, $45.375 billion revenue.
 - **Trade & Corporate**: Caps 15% corporate GDP ($2.175 trillion), oversees $49 billion tariffs.
 - **Media & Communications**: Educates via $15 billion SWF, including parkweb tourism.
-- **Legal & Judiciary**: Appoints 200 judges, audits $2.5 billion fraud cap. Administrates Supreme Court operations.
+- **Legal & Judiciary**: Audits $2.5 billion fraud cap. Administrates Supreme Court operations.
 - **Defense/Aerospace & Tech**: Funds 100,000 active, 1 million reserves ($61 billion peacetime).
 - **Co-op**: Drives 65% GDP ($9.425 trillion), oversees $2.395 trillion CCIF, $10 billion Stabilization Fund.
 - **Treasury**: Oversees $601.58 billion revenue, $550 billion SWF, 5,000 credit unions ($96.6185 billion/year), manages CWD ($150 million/year).
@@ -388,7 +388,7 @@ Ten departments (51 staff/sector, 510 total) oversee $45.25–$90.5 billion loan
 - **National Energy Board (NEB)**: 11 members, regulates 400 TWh grid, $751.7 billion investments, $197 billion district loans.
 - **National Healthcare Board (NHB)**: 11 members, oversees $200 billion healthcare, $145 billion healthcare SWF, $35 billion mental health SWF. Coordinates with Regional Boards on regional healthcare implementation.
 - **Supreme Court**: 7 justices, nominated by Regional Boards (11/20 vote), confirmed by National Assembly (6/10 vote). 15-year terms, mandatory retirement at 75. Original jurisdiction over constitutional questions and disputes between regions. Appellate jurisdiction over cases involving the $2.5 billion fraud cap, conflicts between national bodies, and impeachments of high officials.
-- **Auditors**: 50–75, audit credit unions, FCLs, SWF, loans, sustainability projects, capping $2.5 billion fraud via CWD. **Appointed by Central Council (6/11 vote), confirmed by Regional Boards (11/20 vote).** Auditors serve 5-year terms and may be removed only by joint action of Central Council and the Regional Board of the region they serve.
+- **Special Auditors**: 50–75, audit credit unions, FCLs, SWF, loans, sustainability projects, capping $2.5 billion fraud via CWD. **Appointed by Central Council (6/11 vote), confirmed by Regional Boards (11/20 vote).** Auditors serve 5-year terms and may be removed only by joint action of Central Council and the Regional Board of the region they serve.
 
 ---
 
