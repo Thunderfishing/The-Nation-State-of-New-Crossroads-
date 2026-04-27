@@ -1,14 +1,18 @@
-# Crossroads Monetary Reform & Economic Stabilization Act of 2025: Draft 8.0
+# Crossroads Monetary Reform & Economic Stabilization Act of 2025: Draft 9.0
 
 **Posted to r/Bulwarkomics**
-**Draft**: 8.0 | **Date**: April 10, 2026
+**Draft**: 9.0 | **Date**: April 12, 2026
 **Author**: Thunderfish2
 
-The Crossroads Monetary Reform & Economic Stabilization Act of 2025 (Draft 8.0) establishes New Crossroads' monetary system following the 2025 $13 trillion debt reset. It drives a $14.5 trillion GDP (65% co-ops/$9.425 trillion, 15% corporate/$2.175 trillion, 20% informal/$2.9 trillion) for 112 million citizens, targeting $38.94 trillion GDP and $1.5–2.0 trillion Sovereign Wealth Fund (SWF) by 2075, with automatic caps to prevent excessive growth.
+> **Cross-reference**: This act is companion legislation to the *Crossroads Credit Union Act of 2025 (Draft 5.0)*. All operational details of credit unions, Regional Liquidity Pools (RLPs), Deposit Insurance Pool (DIP), and voting-linked deposit insurance are governed by that act. This act establishes the monetary framework, the BWC backing regime, the Informal Economy Guarantee, the SWF, and the DAI.
+
+The Crossroads Monetary Reform & Economic Stabilization Act of 2025 (Draft 9.0) establishes New Crossroads' monetary system following the 2025 $13 trillion debt reset. It drives a $14.5 trillion GDP (65% co-ops/$9.425 trillion, 15% corporate/$2.175 trillion, 20% informal/$2.9 trillion) for 112 million citizens, targeting $38.94 trillion GDP and $1.5–2.0 trillion Sovereign Wealth Fund (SWF) by 2075, with automatic caps to prevent excessive growth.
 
 The system supports 67 million middle-class citizens through a dual currency (physical cash + Bulwark Coin/BWC), 5,000 credit unions, the Crossroads Loan Service (CLS, 60,000 officers), and deep integration with Federated Cooperatives Limited (FCLs). The system is built on **asymmetric scrutiny**: extreme transparency for large co-ops, corporations, and elites; and for ordinary citizens, daily life that is friction-free, private, and completely their own.
 
 The informal economy — all citizen-to-citizen commerce conducted in physical cash below the Daily Living Basket threshold — is not merely tolerated but **actively protected as a constitutional economic right**. The state has no interest in tracking it, no mechanism for doing so, and is affirmatively prohibited from building one.
+
+**Amendment Note – Draft 9.0**: This draft introduces a variable metal backing ratio for BWC (25–50%, down from 100%+ over-backed) to enable lending growth while preserving hard backing and transparency. It also adds cross-references to the Credit Union Act 5.0's Regional Liquidity Pools (RLPs) and Deposit Insurance Pool (DIP), which serve as lender-of-last-resort and solvency backstops without creating a central bank.
 
 ---
 
@@ -16,6 +20,7 @@ The informal economy — all citizen-to-citizen commerce conducted in physical c
 
 This act creates:
 - Dual currency (physical cash + blockchain-based BWC) with asymmetric oversight and an **Informal Economy Guarantee**
+- **Variable metal backing** for BWC (25–50% range) with daily public ratio, balancing sound money with lending capacity
 - **Deflation Adjustment Index (DAI)** on all co-op, credit union, and eligible corporate loans, ensuring BWC appreciation does not penalize borrowers, with a reduced 0.5% floor for service-sector loans
 - **Two-Layer Velocity Architecture**: cash handles high-frequency daily commerce; BWC serves as the store-of-value and formal economy medium
 - $550 billion SWF scaling to $1.5–2.0 trillion (capped at 12% of GDP)
@@ -23,6 +28,7 @@ This act creates:
 - 94 million Corporate Citizens equipped with $50 BWC wallets (scaling to $326), 1,000 credit union shares (4–8% dividends), and $208 billion banking suite
 - Physical cash designed as the most beautiful currency in the world, with embedded gold/silver flecks for psychological trust and counterfeiting resistance
 - **Automatic SWF stabilizers** that reduce or suspend contributions if the SWF exceeds 12% of GDP
+- **Regional Liquidity Pools (RLPs)** and a **Deposit Insurance Pool (DIP)** – mutual backstops housed in the Credit Union Act, providing lender-of-last-resort functions without a central bank
 
 Credit unions and CLS maintain the 65/15/20 GDP split, funded by $497.5 billion annual revenue (adjusted from original $601.58 billion after eliminating co-op SWF recharge).
 
@@ -60,12 +66,19 @@ These layers are complementary, not competing. Together they capture the full ra
 
 #### Bulwark Coin (BWC) — Layer 2
 
-**Rationale**: BWC is the store of value and formal economy medium. It is fully backed by the reserve, deflationary by design (appreciating ~2.6%/year from $50/BWC to ~$300/BWC by 2075), and transparent for large transactions. Because BWC appreciates in real terms, borrowing in BWC carries an implicit real cost above the nominal interest rate. The **Deflation Adjustment Index (DAI)** (see Section 1.6) corrects for this on all qualifying loans, ensuring the deflationary design does not choke investment or punish co-ops.
+**Rationale**: BWC is the store of value and formal economy medium. It is backed by a hybrid of physical metal and the collective capital of the credit union network, making it deflationary by design but not over-backed to the point of preventing lending. Because BWC appreciates in real terms (target ~2.6%/year from $50/BWC to ~$300/BWC by 2075), borrowing in BWC carries an implicit real cost above the nominal interest rate. The **Deflation Adjustment Index (DAI)** (see Section 1.6) corrects for this on all qualifying loans, ensuring the deflationary design does not choke investment or punish co-ops.
+
+The backing ratio is **variable** – a deliberate departure from 100%+ over-backing. This is not fiat. The remaining 50–75% is backed by the mutual capital of 5,000 credit unions, the Deposit Insurance Pool, and the SWF guarantee. The ratio is published daily on every citizen's wallet.
 
 - **Type**: Blockchain-based digital currency
 - **Reserve**: $125–$175 billion (30% gold, 30% palladium, 15% platinum, 10% iridium, 10% rhodium, 5% ruthenium), scaling to $407–$504 billion by 2075
-- **Backing Ratio**: 100%+ (over-backed, deflationary by design)
-- **Appreciation Rate**: ~2.6%/year average (0.025 oz → ~0.0875 oz backing per BWC by 2075); published annually as the **BWC Appreciation Rate (BAR)** by Treasury
+- **Backing Ratio (Variable)**:
+  - **Normal target**: 50% metal backing (0.0125 oz per BWC at $50/BWC)
+  - **Minimum permitted**: 25% metal backing (0.00625 oz per BWC)
+  - **Crisis floor (Central Council 6/11 vote)**: 25% for up to 12 months, extendable once
+  - The remainder (50–75%) is backed by the collective capital of the credit union network, the Deposit Insurance Pool (see Credit Union Act Section 6.5), and the SWF guarantee
+- **Published Backing Ratio**: Treasury publishes the **system-wide metal backing ratio** daily at 9:00 AM. Each citizen's wallet displays the current ratio. If the ratio falls below 40% for 90 consecutive days, Central Council must convene and publish a remediation plan within 30 days.
+- **Appreciation Rate**: ~2.6%/year average target (0.025 oz → ~0.0875 oz backing per BWC by 2075 under a 100% regime; under variable backing, metal content per BWC may rise more slowly as lending expands); published annually as the **BWC Appreciation Rate (BAR)** by Treasury, calculated as the trailing 3-year average appreciation of BWC's *effective purchasing power* (combination of metal backing + credit union capital growth)
 - **Transaction Fees**:
   - 0% for transactions under $100 BWC
   - 1% for transactions $100–$10,000 BWC
@@ -75,13 +88,22 @@ These layers are complementary, not competing. Together they capture the full ra
 - **Features**: Real-time reserve ratio visible on wallets, no burns, CME-proof via 400 TWh nuclear grid and 10 vaults ($100 million)
 - **Purpose**: Facilitates FCL payments (~$112,000/year per participant), large co-op and corporate transactions, and international trade via CGCI
 
+**Why variable backing?** A 100%+ over-backed BWC is philosophically pure but economically rigid – every BWC lent must first exist as metal. The 25–50% range preserves hard backing (never falling to fiat's 0%) while allowing credit unions to create money through lending against future repayment. The daily public ratio ensures trust through transparency, not blind faith.
+
 ---
 
 ### 1.2 Co-op Credit Union Network
 
 **Rationale**: Credit unions are the backbone of the system — member-owned, locally governed, and subject to Regional Board audit. Large loans face extreme scrutiny; micro-loans are issued with minimal friction. The credit union network is the **formal handshake with the informal sector**: it offers credit to citizens whose income is real but conducted in cash, without requiring them to prove or disclose that income beyond self-attestation for micro-loans.
 
-- **Structure**: 5,000 credit unions (250 per region) issue BWC (0.025 oz reserve backing).
+Credit unions operate under the *Credit Union Act of 2025 (Draft 5.0)*, which establishes:
+- **Regional Liquidity Pools (RLPs)** – mutual lender-of-last-resort for short-term liquidity
+- **Deposit Insurance Pool (DIP)** – solvency backstop paying depositors up to $250,000 BWC (voting members) or $50,000 BWC (non-voting)
+- **Voting-linked deposit insurance** – standard coverage requires voting in at least 1 of last 3 board elections
+
+These mechanisms are referenced here; full operational details are in the Credit Union Act.
+
+- **Structure**: 5,000 credit unions (250 per region) issue BWC with variable metal backing (see Section 1.1).
 - **Assets Managed** (2025 → 2075):
   - Loans: $452.5 billion → $1.2084 trillion
   - Banking suite: $208 billion
@@ -118,7 +140,7 @@ These layers are complementary, not competing. Together they capture the full ra
   - Base: $94 billion ($1/BWC, max 1,000 per citizen, 4–8% dividends)
   - Special: $5,000–$25,000 (5–6% dividends, Gold/Silver status with 0.5 advisory vote on non-SWF loans)
 
-- **Revenue Breakdown** ($96.6185 billion/year total):
+- **Revenue Breakdown** ($107.6185 billion/year total):
 
 | Source | Amount ($ billion/year) | Notes |
 |--------|--------------------------|-------|
@@ -138,7 +160,7 @@ These layers are complementary, not competing. Together they capture the full ra
 - **Crossroads Loan Service (CLS)**
   - Officers: 60,000 (3,000/region)
   - Structure: 48,000 agents ($75,000/year + $12,000 stipend + 3% shares), 11,800 seniors ($120,000/year), 200 regional ($200,000/year)
-  - Academy: $1.5375 billion/year (Crossroads City + New Tech City campus); trains in loan management, student ventures, bankruptcy recovery, **and informal sector engagement**
+  - Academy: $1.5375 billion/year (Crossroads City + New Tech City campus); trains in loan management, student ventures, bankruptcy recovery, **informal sector engagement, and backing ratio literacy** (so agents can explain variable backing to members)
   - Functions: Manage $452.5 billion loans, issue $500 student venture loans (ages 12–15, lenient criteria, mentorship for successful ventures), support bankruptcy recovery, ensure 65/15/20 GDP split
   - **Informal Sector Mandate**: CLS agents are trained and incentivized to serve informal sector participants. Micro-loans ($500) are issued on self-attested income with no cash income verification. CLS agents may not require disclosure of cash transaction history as a condition of any loan under $500,000.
   - **Asymmetric Scrutiny**: CLS agents have discretion for loans under $500,000. Loans above $1 million require senior CLS approval and CWD logging. Loans above $10 million require regional CLS director approval and public disclosure.
@@ -157,6 +179,8 @@ These layers are complementary, not competing. Together they capture the full ra
 - **Wartime Fee**: 10% on BWC transactions above $10,000 only ($500–725 billion/year, 5-year cap, 7/11 renewal); cash and cash-to-BWC swaps exempt entirely
 - **Liquidity Pool**: 0.5% fee ($500 million/year), 1% if cash tight; supports rural families/projects
 - **Vaults**: 10 vaults ($100 million) store BWC snapshots for CME reboot
+
+**Relationship to Regional Liquidity Pools (RLPs)**: The national Liquidity Pool (above) is distinct from the Regional Liquidity Pools established in Credit Union Act Section 6.4. The national pool handles emergency cash distribution and CME reboot scenarios; RLPs handle credit union liquidity on a regional, mutual basis. The two are complementary – RLPs are the first line of defense; the national pool is for systemic shocks.
 
 ---
 
@@ -184,11 +208,11 @@ If co-op GDP dips below 60%, Treasury triggers fee hikes (1–2% on BWC transact
 
 ### 1.6 Deflation Adjustment Index (DAI) — Loan Rate Correction
 
-**Rationale**: BWC is designed to appreciate approximately 2.6%/year in real terms over the 50-year horizon ($50/BWC → ~$300/BWC by 2075). This is a feature for savers and a potential problem for borrowers: a co-op borrowing 1,000 BWC at 5% nominal faces an effective real borrowing cost of ~7.6% once BWC appreciation is accounted for. Without correction, deflation would systematically discourage investment — exactly the wrong outcome for a growing co-op economy. The DAI corrects for this by adjusting the **nominal interest rate** on qualifying loans downward by the published BWC Appreciation Rate (BAR), so that real borrowing costs remain stable and predictable.
+**Rationale**: BWC is designed to appreciate approximately 2.6%/year in real terms over the 50-year horizon ($50/BWC → ~$300/BWC by 2075 under a 100% backing regime; under variable backing, appreciation may be slightly moderated by lending growth, but the DAI remains necessary). This is a feature for savers and a potential problem for borrowers: a co-op borrowing 1,000 BWC at 5% nominal faces an effective real borrowing cost of ~7.6% once BWC appreciation is accounted for. Without correction, deflation would systematically discourage investment — exactly the wrong outcome for a growing co-op economy. The DAI corrects for this by adjusting the **nominal interest rate** on qualifying loans downward by the published BWC Appreciation Rate (BAR), so that real borrowing costs remain stable and predictable.
 
 #### How the DAI Works
 
-- **BWC Appreciation Rate (BAR)**: Published annually by Treasury in January. Calculated as the trailing 3-year average annual appreciation of BWC's reserve backing (oz per BWC). Smoothed to prevent single-year volatility from distorting loan rates.
+- **BWC Appreciation Rate (BAR)**: Published annually by Treasury in January. Calculated as the trailing 3-year average annual appreciation of BWC's *effective purchasing power* (combination of metal backing growth + credit union capital growth + reserve ETF returns). Smoothed to prevent single-year volatility from distorting loan rates.
 - **DAI-Adjusted Rate**: `Nominal Rate − BAR = DAI-Adjusted Effective Rate`
   - Example (2025): Nominal rate 5%, BAR 2.6% → DAI-adjusted rate 2.4%
   - The borrower repays in BWC at the nominal rate, but the real burden is calibrated to 2.4%
@@ -313,6 +337,8 @@ No surveillance-based method may be substituted for statistical sampling. The in
 | Housing | 150/year | Co-op leases ($75,000 withdrawals), private housing grants | $75k automatic; $150k+ review |
 | Special Mining (SMSWF) | 25 by 2045 | Funds 25 mining FCLs → 250 by 2125 ($5B profit/year) | Full CWD tracking |
 
+**SWF as ultimate backstop for RLPs**: The SWF serves as the ultimate lender-of-last-resort for Regional Liquidity Pools (Credit Union Act Section 6.4). If a regional DIP falls below 2% of insured deposits, the SWF may provide reinsurance. If an RLP is exhausted, a credit union may petition the SWF, but only after 5 Regional Boards jointly certify an emergency (5/20 vote). This preserves the anti-bailout ethos while adding systemic resilience.
+
 ### 2.2 Debt Jubilee & Additional Funding
 
 **Rationale**: The 2025 debt reset and 25-year co-op debt jubilees prevent the debt accumulation that destroyed the previous system. Freedom shares issued by Regional Board vote ensure democratic control.
@@ -371,6 +397,7 @@ At maturity, the SWF acts solely as a **buffer** — growing in bad years (when 
   - Pilot: 5 FCLs ($100 million)
   - Streams: 60% gold, 20% silver, 10% palladium, 10% platinum
   - **Metal Allocation for Cash**: 40% of streamed gold/silver allocated to physical cash minting (gold/silver flecks for polymer notes)
+  - **Metal Allocation for BWC Backing**: 60% of streamed metals go to the national reserve, supporting the 25–50% variable backing ratio
 
 - **Forced Savings & Housing**:
   - Savings: 94 million citizens save 10% ($705 billion/year, 4% return). Informal earners under $100,000 opt out tax-free; $1,000 share bonus for opt-in. Yields $117.5 billion by 2030, $47 billion reserves for loans.
@@ -433,7 +460,7 @@ At maturity, the SWF acts solely as a **buffer** — growing in bad years (when 
   - **Middle Level ($10,000–$100,000/year BWC)**: CWD tracks aggregate totals only. No transaction-level detail. Annual summary reporting.
   - **Elite Level (Above $100,000/year or $1M assets)**: Full CWD transaction tracking. Quarterly audits. Public disclosure of holdings above $10M. Subject to SAP review if irregularities found.
   - **Institutional Level (FCLs, corporations, credit unions above $10M revenue)**: Full transparency. Public annual reports. Quarterly audits. Regional Board oversight. Central Council review for major decisions.
-- **Treasury**: Oversees BWC, $550 billion SWF, $125–$175 billion reserve ETF ($1.25 billion/year). Publishes BAR and DAI rate table annually each January.
+- **Treasury**: Oversees BWC, $550 billion SWF, $125–$175 billion reserve ETF ($1.25 billion/year). Publishes BAR, DAI rate table, and **daily system-wide BWC metal backing ratio** each morning at 9:00 AM.
 - **CWD**: $150 million/year tracks CLS performance, student venture loans, FCL metrics, citizen investments ($2,600 wallet, $500,000 loan). **Citizen-level data is anonymized and aggregated; individual transaction data for amounts under $10,000 is permanently deleted after 30 days. Cash transaction data is never collected.** Audited by 50–75 auditors + $1 billion blockchain/AI, capping $2.5 billion fraud; appeals to judiciary.
 
 ---
@@ -460,6 +487,8 @@ At maturity, the SWF acts solely as a **buffer** — growing in bad years (when 
 | Informal GDP (floor) | $2.9 trillion (20%) | $7.8 trillion (20% floor) |
 | SWF | $550 billion | **$1.5–2.0 trillion** (capped at 12% of GDP) |
 | Reserve | $125–$175 billion | $407–$504 billion |
+| **BWC Metal Backing Ratio (normal)** | **50%** | **50%** |
+| **BWC Metal Backing Ratio (min/crisis)** | **25%** | **25%** |
 | Loans | $452.5 billion | $1.2084 trillion |
 | DAI-Adjusted Loan Rate (standard) | Nominal −2.6% (min 1.0%) | Nominal −BAR (min 1.0%) |
 | DAI-Adjusted Rate (service-sector) | Nominal −2.6% (min 0.5%) | Nominal −BAR (min 0.5%) |
@@ -473,28 +502,25 @@ At maturity, the SWF acts solely as a **buffer** — growing in bad years (when 
 | DLB Threshold (base) | $100 BWC (2025) | Adjusted annually |
 | BWC Appreciation Rate (BAR) | ~2.6%/year (target) | Published annually January |
 | SWF/GDP Cap | — | **12%** (automatic dividends above) |
+| **Deposit Insurance (voting members)** | **$250,000 BWC** | **Inflation-adjusted via DLB** |
+| **Deposit Insurance (non-voting)** | **$50,000 BWC** | **Inflation-adjusted via DLB** |
 
 ---
 
-## Summary of Changes (Draft 7.0 → 8.0)
+## Summary of Changes (Draft 8.0 → 9.0)
 
 | Section | Change | Rationale |
 |---------|--------|-----------|
-| **Overview** | SWF target reduced from $3.08T to $1.5–2.0T; added automatic stabilizers | Prevents SWF ballooning beyond 12% of GDP; addresses long-term projection showing problematic growth |
-| **Section 1.6 DAI** | Added service-sector floor of 0.5% (healthcare, education, infrastructure); added circuit breaker for rapid BWC appreciation (>3% for 3 years) | Recognizes labor subsidy from Education Act; prevents deflation from choking investment during rapid appreciation |
-| **Section 1.6 DAI** | New subsection: Circuit Breaker | Automatic relief when BWC appreciates too quickly |
-| **Section 2.1** | Eliminated co-op SWF recharge ($290B/year); replaced with FTT + corporate SWF contribution + resource surcharge | Co-ops no longer pay into SWF; corporations share the burden |
-| **Section 2.1** | Added SWF cap at 12% of GDP with automatic citizen dividends | Prevents excessive concentration of wealth |
-| **Section 2.3** | New section: Automatic SWF Stabilizers (tiered contribution cuts) | Self-correcting mechanism; no legislative action needed |
-| **Section 2.4** | New section: Contribution Phase-Out (2025–2100) | SWF weans itself off contributions over time |
-| **Section 3** | FCL count corrected: **195,100** (not 27,100) | 27,100 was far too low for 112–130M population; corrected to ~575–670 citizens per FCL |
-| **Section 4** | Co-op profit tax reduced from 12.5% to 5%; added $100k exemption | Ensures co-ops pay lower effective rate than corporations |
-| **Section 4** | Informal wages explicitly 0% tax (strengthened from previous exemption) | Preserves Informal Economy Guarantee |
-| **Section 4** | Corporate tax simplified to 15%/20% tiers | Simpler, more progressive |
-| **Section 4** | Total revenue adjusted to $497.5B (from $601.58B) | Reflects eliminated co-op SWF recharge |
-| **Section 5** | No changes | Asymmetric oversight architecture remains intact |
-| **Throughout** | Removed all "a€" symbol artifacts | Clean text |
-| **Key Stats** | Updated SWF target, DAI floors, FCL count, revenue | Reflects all changes |
+| **Cross-reference header** | Added reference to Credit Union Act 5.0; updated to Draft 9.0 | Reflects companion legislation |
+| **Overview** | Added variable backing and RLP/DIP to summary | Highlights major changes |
+| **Section 1.1 BWC** | Changed from 100%+ over-backed to **variable 25–50% metal backing** with daily published ratio; added 40% trigger for Central Council review; updated BAR calculation to reflect effective purchasing power | Enables lending growth while preserving hard backing and transparency. The anti-fiat position is preserved – this is mutualized sound money, not fiat. |
+| **Section 1.2** | Added cross-reference to Credit Union Act 5.0 (RLPs, DIP, voting-linked insurance); added "backing ratio literacy" to CLS Academy curriculum | Integration with companion act; ensures agents can explain variable backing |
+| **Section 1.3** | Added note distinguishing national Liquidity Pool from Regional Liquidity Pools | Clarifies two-tier liquidity architecture |
+| **Section 2.1** | Added paragraph on SWF as ultimate backstop for RLPs (requires 5-region vote) | Preserves anti-bailout ethos while adding systemic resilience |
+| **Section 2.5 SMSWF** | Added metal allocation split: 40% to cash minting, 60% to national reserve for BWC backing | Supports variable backing regime |
+| **Section 5** | Treasury now publishes **daily BWC metal backing ratio** at 9:00 AM | Transparency for variable backing |
+| **Key Stats** | Added rows for BWC metal backing ratio (50% normal, 25% min) and deposit insurance limits | Complete metrics |
+| **Throughout** | Updated all references from Draft 8.0 to 9.0 | Version tracking |
 
 ---
 
@@ -512,14 +538,16 @@ New Crossroads leaves it alone. Not passively — actively and legislatively. Th
 
 - **Elites, large co-ops, and corporations** face extreme transparency. Every large transaction is logged. Every major loan is audited. Every FCL profit is disclosed. This prevents the concentration of wealth and power that destroyed the previous system.
 
-- **The DAI ensures deflation is a feature, not a trap.** BWC appreciates because it is backed by real metals. That appreciation benefits savers. The DAI ensures it does not punish co-op borrowers by making the real cost of productive investment invisible and punishing. The new 0.5% floor for service sectors recognizes that healthcare, education, and infrastructure workers receive substantial non-monetary compensation through the Education Act's labor subsidy.
+- **The DAI ensures deflation is a feature, not a trap.** BWC appreciates because it is backed by real metals and mutual capital. That appreciation benefits savers. The DAI ensures it does not punish co-op borrowers by making the real cost of productive investment invisible and punishing. The new 0.5% floor for service sectors recognizes that healthcare, education, and infrastructure workers receive substantial non-monetary compensation through the Education Act's labor subsidy.
+
+- **Variable backing (25–50%) is not a compromise with fiat.** It is an honest acknowledgment that all money systems involve trust. The gold standard pretended that 100% backing eliminated trust – but it only hid the trust in the banking system's leverage. New Crossroads puts the trust in plain sight: 50% metal, 50% mutual capital. You see the ratio every day. That is more honest than a system that pretends leverage doesn't exist.
 
 - **The SWF is designed to be self-limiting.** It will never grow beyond 12% of GDP. Automatic stabilizers reduce contributions when it approaches the cap. Citizen dividends return excess wealth directly to the people who own it — in cash, untracked, constitutionally protected. By 2100, the SWF lives entirely off returns, with contributions phased to zero.
 
 - **The state itself** is bound by the same rules. The Central Council cannot print money without reserve backing. The Regional Boards cannot approve loans without public disclosure. The CWD cannot retain citizen data beyond 30 days. And no agency — ever — may build a system to track what citizens spend their cash on.
 
-Cash is beautiful. BWC is honest. The system is legible. The informal economy is free. The SWF is capped. And the elite have nowhere to hide.
+Cash is beautiful. BWC is honest. The backing ratio is transparent. The system is legible. The informal economy is free. The SWF is capped. And the elite have nowhere to hide.
 
 ---
 
-**End of Draft 8.0**
+**End of Draft 9.0**
