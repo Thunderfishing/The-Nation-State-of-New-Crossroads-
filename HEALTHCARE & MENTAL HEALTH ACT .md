@@ -1,22 +1,25 @@
-# Crossroads Co-operative Healthcare & Mental Wellness Act of 2025: Draft 6.3 (Harmonized)
+# Crossroads Co-operative Healthcare & Mental Wellness Act of 2025: Draft 6.4 (Harmonized)
 
 **Posted to r/Bulwarkomics**
-**Draft**: 6.3 | **Date**: April 12, 2026
+**Draft**: 6.4 | **Date**: April 12, 2026
 **Author**: Thunderfish2
 
-> **Cross-reference**: This act is companion legislation to the *Crossroads Federated Cooperatives Limited (FCL) Structure Act of 2025 (Draft 3.0)*, *Crossroads Monetary Reform & Economic Stabilization Act of 2025 (Draft 8.0)*, *Crossroads Credit Union Act of 2025 (Draft 4.0)*, *Crossroads Government Act of 2025 (Draft 4.16)*, and *Crossroads Education Act of 2025 (Draft 2.0)*.
+> **Cross-reference**: This act is companion legislation to the *Crossroads Federated Cooperatives Limited (FCL) Structure Act of 2025 (Draft 3.0)*, *Crossroads Monetary Reform & Economic Stabilization Act of 2025 (Draft 9.1)*, *Crossroads Credit Union Act of 2025 (Draft 5.1)*, *Crossroads Government Act of 2025 (Draft 4.17)*, and *Crossroads Education Act of 2025 (Draft 2.0)*.
+>
 
 ---
 
 ## Overview
 
-This act establishes co-op-led healthcare and mental wellness services for 70 million citizens (65 million healthcare, 40 million mental health, 35 million dual) within a $14.5 trillion GDP (65% co-ops/$9.425T, 15% corporate/$2.175T, 20% informal/$2.9T), scaling to $38.94T GDP (65% co-ops/$25.311T) by 2075.
+This act establishes co-op-led healthcare and mental wellness services for 70 million citizens (65 million healthcare, 40 million mental health, 35 million dual) within a $14.5 trillion GDP (2025 baseline: 65% co-ops/$9.425T, 15% corporate/$2.175T, 20% informal/$2.9T), scaling to $38.94T GDP by 2075. The system is designed to foster a **co-op dominant healthcare sector through incentives**, while supporting professional FCLs and protecting universal access regardless of payment method.
 
-Services are delivered through **10,000 co-op clinics** (structured as Co-op/Corporate Joint Ventures per FCL Act Section 3.7), **200 hospitals**, and the **Crossroads Mental Health Institution Network (CMHIN)** , funded by a **$180 billion Healthcare SWF** ($145B healthcare, $35B mental health, part of the total $1.5–2.0T SWF capped at 12% of GDP per Monetary Act 8.0).
+Services are delivered through **10,000 co-op clinics** (structured as Co-op/Corporate Joint Ventures per FCL Act Section 3.7), **200 hospitals**, and the **Crossroads Mental Health Institution Network (CMHIN)** , funded by a **$180 billion Healthcare SWF** ($145B healthcare, $35B mental health, part of the total $1.5–2.0T SWF capped at 12% of GDP per Monetary Act 9.1).
 
-**Professional FCLs** (per FCL Act Section 2.3) — 100% worker-owned cooperatives of physicians and lawyers — provide specialized services within clinics under CCJV agreements, operating under cost-share or profit-share models with retainer client shares available to patients.
+**Professional FCLs** (per FCL Act Section 2.3) — 100% worker-owned cooperatives of physicians and healthcare professionals — provide specialized services within clinics under CCJV agreements, operating under cost-share or profit-share models with retainer client shares available to patients.
 
 The National Healthcare Board (NHB) manages operations, supported by 5,000 Credit Unions, **195,100 core FCLs** (plus 27,600 co-op clubs), and DAI-adjusted loans (0.5% floor for service-sector healthcare).
+
+No binding sector quotas apply. The 65/15/20 figures in 2025 are **descriptive baselines**, not enforcement targets. Healthcare receives the 0.5% DAI floor regardless of co-op share.
 
 ---
 
@@ -25,16 +28,16 @@ The National Healthcare Board (NHB) manages operations, supported by 5,000 Credi
 | Act | Integration Point |
 |-----|-------------------|
 | **FCL Act 3.0** | Professional FCLs (Section 2.3) replace "PCs"; clinic ownership structured as CCJV (Section 3.7); cost-share model; retainer client shares |
-| **Monetary Act 8.0** | DAI-adjusted loans (0.5% floor for healthcare); informal economy guarantee; asymmetric scrutiny; SWF capped at 12% GDP; co-op profit tax 5% (no SWF recharge) |
-| **Credit Union Act 4.0** | Micro-loans for informal healthcare access ($500, 4% nominal/~1.4% effective, self-attested income, 24hr approval) |
-| **Government Act 4.16** | Regional Boards (20 regions, 11 members each); Central Council oversight; master/grandmaster mentorship |
+| **Monetary Act 9.1** | DAI-adjusted loans (0.5% floor for healthcare); informal economy guarantee; asymmetric scrutiny; SWF capped at 12% GDP; co-op profit tax 5% (no SWF recharge); no binding sector quotas |
+| **Credit Union Act 5.1** | Micro-loans for informal healthcare access ($500, 4% nominal/~1.4% effective, self-attested income, 24hr approval) |
+| **Government Act 4.17** | Regional Boards (20 regions, 11 members each); Central Council oversight; master/grandmaster mentorship |
 | **Education Act 2.0** | Trains 160,000 healthcare workers and 95,000 volunteers |
 
 ---
 
 ## Section 1: Core Principles (New - Harmonized)
 
-### 1.1 Asymmetric Scrutiny for Healthcare (Per Monetary Act 8.0)
+### 1.1 Asymmetric Scrutiny for Healthcare (Per Monetary Act 9.1)
 
 | Level | Transaction Type | CWD Tracking | Reporting |
 |-------|------------------|--------------|-----------|
@@ -57,14 +60,14 @@ All loans for healthcare facilities (clinics, hospitals, CMHIN) receive DAI adju
 | CMHIN facility | 4% | 1.4% | 0.5% |
 | Telehealth infrastructure | 4% | 1.4% | 0.5% |
 
-### 1.3 Informal Sector Healthcare Access (Per Credit Union Act 4.0)
+### 1.3 Informal Sector Healthcare Access (Per Credit Union Act 5.1)
 
 Informal workers and cash-based citizens have automatic access to:
 - **Micro-loans** ($500, 4% nominal/~1.4% effective) for healthcare expenses: Self-attested income, no documentation, 24hr approval via CLS
 - **Basic Wallet** (BWC Layer 2 access without formal income history)
 - Credit unions may not require disclosure of cash transaction history for healthcare loans under $500,000
 
-### 1.4 Tax Framework for Healthcare (Per Monetary Act 8.0)
+### 1.4 Tax Framework for Healthcare (Per Monetary Act 9.1)
 
 | Entity Type | Tax Rate |
 |-------------|----------|
@@ -72,7 +75,11 @@ Informal workers and cash-based citizens have automatic access to:
 | Professional FCL (clinic partner) | **5%** profit tax over $100k (no SWF contribution) |
 | Corporate healthcare (non-co-op) | 0% under $100k; 15% $100k–$1M; 20% over $1M |
 
-**No co-op SWF recharge** — eliminated per Monetary Act 8.0.
+**No co-op SWF recharge** — eliminated per Monetary Act 9.1.
+
+### 1.5 Co-op Healthcare Preference
+
+Healthcare facility licenses, CCJV approvals, and SWF funding allocations are issued preferentially to co-ops and Professional FCLs. If a co-op or Professional FCL applies and meets all requirements, the license or approval shall be granted before any corporate application is considered. This is a structural preference (first right of refusal), not a binding quota.
 
 ---
 
@@ -80,7 +87,7 @@ Informal workers and cash-based citizens have automatic access to:
 
 ### 2.1 Professional FCL Structure
 
-Professional FCLs (replacing "PCs" from Draft 6.2) are **100% worker-owned cooperatives** of physicians, lawyers, and other licensed healthcare professionals, governed by FCL Act Section 2.3.
+Professional FCLs (replacing "PCs" from Draft 6.2) are **100% worker-owned cooperatives** of physicians, healthcare professionals, and other licensed practitioners, governed by FCL Act Section 2.3.
 
 **Key Features:**
 - **Ownership**: 100% worker-owned (no investor equity)
@@ -186,7 +193,7 @@ The 70% patient / 30% Professional FCL ownership model is structured as a **Co-o
 
 | Source | Amount | Notes |
 |--------|--------|-------|
-| Healthcare SWF | $145B | Part of total SWF (capped at 12% GDP per Monetary 8.0) |
+| Healthcare SWF | $145B | Part of total SWF (capped at 12% GDP per Monetary 9.1) |
 | Mental Health SWF | $35B | Part of total SWF |
 | DAI-adjusted loans | $47.125B | 0.5% floor (service-sector healthcare) |
 | Partner contributions | $1.21B/year | Donations, charitable grants |
@@ -194,7 +201,7 @@ The 70% patient / 30% Professional FCL ownership model is structured as a **Co-o
 
 ---
 
-## Section 6: Governance (Harmonized with FCL Act 3.0 & Government 4.16)
+## Section 6: Governance (Harmonized with FCL Act 3.0 & Government 4.17)
 
 ### 6.1 National Healthcare Board (NHB)
 
@@ -241,12 +248,12 @@ The 70% patient / 30% Professional FCL ownership model is structured as a **Co-o
 | Metric | 2025 | 2075 | Change / Source |
 |--------|------|------|-----------------|
 | Population | 112M | 130M | — |
-| GDP | $14.5T (65/15/20) | $38.94T (65/15/20) | Per Monetary 8.0 |
-| Total SWF | $550B | **$1.5–2.0T** (capped at 12% GDP) | Per Monetary 8.0 |
+| GDP | $14.5T (baseline: 65/15/20) | $38.94T (co-op dominant by design) | Per Monetary 9.1 |
+| Total SWF | $550B | **$1.5–2.0T** (capped at 12% GDP) | Per Monetary 9.1 |
 | Healthcare SWF | $145B | Scales with total SWF | Part of cap |
 | Mental Health SWF | $35B | Scales with total SWF | Part of cap |
-| Co-op SWF recharge | **$0** (eliminated) | **$0** | Per Monetary 8.0 |
-| Co-op profit tax | **5%** (over $100k) | **5%** (over $100k) | Per Monetary 8.0 |
+| Co-op SWF recharge | **$0** (eliminated) | **$0** | Per Monetary 9.1 |
+| Co-op profit tax | **5%** (over $100k) | **5%** (over $100k) | Per Monetary 9.1 |
 | DAI floor (healthcare loans) | 0.5% | 0.5% | Service-sector rate |
 | Clinics (as CCJVs) | 10,000 | 10,000 | — |
 | Hospitals | 200 | 200 | — |
@@ -256,25 +263,20 @@ The 70% patient / 30% Professional FCL ownership model is structured as a **Co-o
 | Volunteers | 95,000 | 120,000 | — |
 | Coverage | 70M citizens | 85M citizens | — |
 | Informal healthcare access | Protected below DLB | Protected below DLB | Per Monetary 1A |
+| Co-op healthcare preference | First right of refusal | First right of refusal | Structural preference |
 
 ---
 
-## Summary of Changes (Draft 6.2 → 6.3)
+## Summary of Changes (Draft 6.3 → 6.4)
 
 | Section | Change | Rationale |
 |---------|--------|-----------|
-| **Header** | Updated cross-references to FCL Act 3.0, Monetary 8.0, Credit Union 4.0, Government 4.16 | Legislative consistency |
-| **Overview** | Replaced "PCs" with "Professional FCLs"; added CCJV structure; updated SWF cap reference | Per FCL Act 2.3 & 3.7, Monetary 8.0 |
-| **Section 0** | New interdependencies table | Reflects harmonization |
-| **Section 1** | **New: Core Principles** (asymmetric scrutiny, DAI floors, informal access, tax framework) | Per Monetary 8.0 + Credit Union 4.0 |
-| **Section 2** | **New: Professional FCLs in Healthcare** (cost-share/profit-share models, retainer client shares, CCJV structure) | Per FCL Act 2.3 & 3.7 |
-| **Section 3.1** | Updated clinic structure to CCJV (51–99% patient co-op / 1–49% Professional FCL) | Per FCL Act 3.7 |
-| **Section 3.4** | Updated cost-cutting mechanisms (Professional FCL synergy replaces PC synergy) | Terminology update |
-| **Section 5** | Removed co-op recharge ($200M); updated SWF references; added DAI floor | Per Monetary 8.0 |
-| **Section 6** | Added CCJV governance and Professional FCL governance subsections | Per FCL Act 2.3 & 3.7 |
-| **Section 7** | Added asymmetric scrutiny for patient data | Per Monetary 8.0 |
-| **Section 8** | Updated key stats: removed co-op recharge, added DAI floor, updated SWF cap | Reflects all changes |
-| **Throughout** | Updated FCL count from 27,100 to 195,100 (+27,600 clubs) | Per FCL Act 3.0 |
+| **Header** | Updated cross-references: Monetary 8.0→9.1, Credit Union 4.0→5.1, Government 4.16→4.17; added amendment note | Aligns with updated acts |
+| **Overview** | Removed binding 65/15/20 GDP language; added "descriptive baseline" and "co-op dominant through incentives" | Per Monetary Act 9.1 |
+| **Section 0** | Updated Monetary to 9.1, Credit Union to 5.1, Government to 4.17; added "no binding sector quotas" | Cross-reference consistency |
+| **Section 1.5** | **New: Co-op Healthcare Preference** (first right of refusal, not binding quota) | Clarifies incentive-based approach |
+| **Section 5** | Updated SWF reference to Monetary 9.1 | Version consistency |
+| **Section 8** | Changed GDP row from fixed 65/15/20 to "baseline" and "co-op dominant by design"; added co-op healthcare preference row | Honest about framework |
 
 ---
 
@@ -288,13 +290,20 @@ The Healthcare Act is the **compassionate core** of New Crossroads. Where the FC
 - Retainer client shares give patients a path to patronage returns without voting rights — preserving professional control while sharing financial benefits.
 
 **Why CCJV for clinics?**
-- A 70% patient / 30% Professional FCL split is not a standard FCL (which would be 100% worker-owned). It is a joint venture between a patient co-op and a Professional FCL.
+- A patient co-op / Professional FCL split is not a standard FCL (which would be 100% worker-owned). It is a joint venture between a patient co-op and a Professional FCL.
 - The FCL Act's CCJV provisions (Section 3.7) provide exactly this structure, with clear rules for governance, profit allocation, and dispute resolution.
 - The CCJV structure ensures patients retain control (51% minimum ownership) while professionals provide specialized services.
 
 **Why the 0.5% DAI floor for healthcare loans?**
 - Healthcare is a service-sector industry. The people who provide it receive substantial non-monetary compensation through the Education Act's mandatory service programs.
 - A lower DAI floor keeps borrowing affordable for clinics, hospitals, and mental health facilities.
+- This floor applies regardless of co-op GDP share — healthcare is a priority sector.
+
+**Why co-op healthcare preference (not quotas)?**
+- Co-ops and Professional FCLs receive first right of refusal for healthcare facility licenses, CCJV approvals, and SWF funding.
+- If no qualified co-op applies, a corporation may take the license.
+- No binding quota means no enforcement action if co-op share fluctuates.
+- The 65% figure from 2025 is a descriptive baseline, not a target.
 
 **Why informal protection for healthcare payments?**
 - A family paying a clinic fee in cash should not need a BWC wallet or a CWD profile. The transaction is below the DLB threshold. It is protected.
@@ -308,4 +317,4 @@ That is the Healthcare Act.
 
 ---
 
-**End of Draft 6.3**
+**End of Draft 6.4**
