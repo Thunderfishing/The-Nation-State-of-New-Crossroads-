@@ -1,26 +1,29 @@
-# Crossroads Federated Cooperatives Limited (FCL) Structure Act of 2025: Draft 3.0
+# Crossroads Federated Cooperatives Limited (FCL) Structure Act of 2025: Draft 3.1
 
 **Posted to r/Bulwarkomics**
-**Draft**: 3.0 | **Date**: April 10, 2026
+**Draft**: 3.1 | **Date**: April 12, 2026
 **Author**: Thunderfish2
 
-> **Cross-reference**: This act is companion legislation to the *Crossroads Monetary Reform & Economic Stabilization Act of 2025 (Draft 8.0)* and the *Crossroads Credit Union Act of 2025 (Draft 4.0)*. All references to the Deflation Adjustment Index (DAI), BWC Appreciation Rate (BAR), Informal Economy Guarantee, and tax rates are governed by those acts. FCL profit tax is 5% on profit over $100,000 per Monetary Act Section 4. FCLs make no direct contribution to the Sovereign Wealth Fund (SWF).
+> **Cross-reference**: This act is companion legislation to the *Crossroads Monetary Reform & Economic Stabilization Act of 2025 (Draft 9.1)* and the *Crossroads Credit Union Act of 2025 (Draft 5.1)*. All references to the Deflation Adjustment Index (DAI), BWC Appreciation Rate (BAR), Informal Economy Guarantee, and tax rates are governed by those acts. FCL profit tax is 5% on profit over $100,000 per Monetary Act Section 4. FCLs make no direct contribution to the Sovereign Wealth Fund (SWF).
+>
 
 ---
 
 ## Purpose
 
-Establishes the structure, governance, and financial operations of **195,100 Federated Cooperatives Limited (FCLs)** across 20 regions in New Crossroads, plus **27,600 recreation-focused co-op clubs**, for a total of **222,700 cooperative entities**. FCLs drive 65% of the **$14.5 trillion GDP** ($9.425 trillion co-op sector) in 2025, scaling to **$25.311 trillion** by 2075, using Bulwark Coin (BWC). FCLs produce goods and services in retail, manufacturing, agriculture, energy, technology, professional services, and recreation — distinct from credit unions, which manage financial services.
+Establishes the structure, governance, and financial operations of **195,100 Federated Cooperatives Limited (FCLs)** across 20 regions in New Crossroads, plus **27,600 recreation-focused co-op clubs**, for a total of **222,700 cooperative entities**. FCLs drive the co-op sector of the **$14.5 trillion GDP** (2025 baseline: co-op sector $9.425 trillion, approximately 65% of GDP) using Bulwark Coin (BWC). The system is designed to foster a **co-op dominant productive economy through incentives** — lower taxes (5% profit tax over $100k vs. 15–20% for corporations), voluntary CCIF access, and structural preferences — not through binding quotas.
+
+FCLs produce goods and services in retail, manufacturing, agriculture, energy, technology, professional services, and recreation — distinct from credit unions, which manage financial services.
 
 ---
 
 ## Section 1: Purpose and Scope
 
-- **Objective**: Establish 195,100 worker/customer-owned FCLs (9,755 per region) plus 27,600 co-op clubs (1,380 per region) to drive 65% of $14.5 trillion GDP ($9.425 trillion co-op sector) in 2025, scaling to $25.311 trillion (65% of $38.94 trillion) by 2075, contributing $2.036 trillion exports and utilizing $274 billion resources ($112.5 billion minerals, $45.375 billion agriculture, $26.625 billion fuels, $9 billion forestry/water, $31.18 billion parks, $49.32 billion other).
+- **Objective**: Establish 195,100 worker/customer-owned FCLs (9,755 per region) plus 27,600 co-op clubs (1,380 per region) to serve as the primary vehicle for cooperative enterprise. Co-op GDP in 2025 was approximately $9.425 trillion (65% of $14.5T GDP) — a **descriptive baseline**, not a binding target. By 2075, co-op GDP scales with the overall economy.
 - **Role**: Produce goods and services in retail (e.g., grocery stores), manufacturing (e.g., steel mills), agriculture, energy, technology, professional services (e.g., law firms), and recreation (e.g., co-op clubs), empowering workers, customers, and investors via cooperative ownership, patronage returns, and profit-sharing.
 - **Distinction**:
   - FCLs produce goods and services, unlike credit unions managing financial services.
-  - Unlike corporations (15% of GDP, $2.175 trillion), FCLs prioritize member ownership with investor participation.
+  - Unlike corporations (which are permitted and subject to corporate governance requirements per Monetary Act 9.1 Section 4.1), FCLs prioritize member ownership with investor participation and receive favorable tax treatment (5% profit tax over $100k vs. 15–20% for corporations).
   - FCLs pay a **5% profit tax on profit over $100,000** (per Monetary Act Section 4) and **no SWF contribution**.
 - **Regional Alignment**: Supports regional roles (e.g., Region 1: retail, $150 billion; Region 2: nuclear, $6.6 trillion; Region 3: mining, $470 million profit).
 - **Amendments**: Require 75% Central Council vote.
@@ -32,7 +35,7 @@ Establishes the structure, governance, and financial operations of **195,100 Fed
 ### 2.1 FCL Network
 
 - **Structure**: 195,100 core FCLs, plus 27,600 recreation-focused co-op clubs. All are worker/customer-owned and produce goods and services across retail, manufacturing, agriculture, energy, technology, professional services, and recreation. **FCLs operate under three maturity tiers (see Section 2.4), with only Tier 3 requiring the full governance structure described in this Act.**
-- **Revenue**: $9.425 trillion (65% GDP), funded by $294.125 billion loans (per Credit Union Act), capital investments, and profits.
+- **Revenue**: Co-op sector revenue (2025 baseline approximately $9.425 trillion), funded by $294.125 billion loans (per Credit Union Act), capital investments, and profits.
 
 ### 2.2 Membership
 
@@ -67,7 +70,7 @@ Establishes the structure, governance, and financial operations of **195,100 Fed
 - **Investor Ownership:** Permitted (small stakes). Founders scaling from informal sector retain control.
 - **Patronage:** Voluntary, not required. May be offered at founder's discretion.
 - **CCIF:** Fully exempt (no contributions, no participation required).
-- **DAI Application:** Mandatory for all loans. Floor: 0.5% (service-sector/micro rate per Monetary Act 8.0).
+- **DAI Application:** Mandatory for all loans. Floor: 0.5% (service-sector/micro rate per Monetary Act 9.1).
 - **Exit & Funding:** See Sections 2.5, 2.6, and 3.6.
 - **Transition:** Must upgrade to Tier 2 upon exceeding any threshold (employees, revenue, OR loans).
 
@@ -245,16 +248,16 @@ Member redemption under this section is **senior** to investor exits under Secti
   - Business Loans: $50,000–$5 million, 5–6% nominal (DAI-adjusted to ~2.4–3.4% effective with 1.0% floor).
   - Energy FCLs: $12.65 billion/district.
 - **Capital Investments**: $50,000–$5 million (standard FCLs), non-equity loans ($100,000–$1 million, professional FCLs), 10–20% profit reinvestment.
-- **Revenue Context**: Total government revenue per Monetary Act 8.0 is $497.5 billion (excluding co-op SWF recharge). FCLs contribute via the 5% co-op profit tax.
+- **Revenue Context**: Total government revenue per Monetary Act 9.1 is $497.5 billion (excluding co-op SWF recharge). FCLs contribute via the 5% co-op profit tax.
 
 ### 3.4 Corporate Structure
 
-- **Role**: Corporations drive 15% GDP ($2.175 trillion), scaling to $5.841 trillion by 2075, in technology, manufacturing, energy.
+- **Role**: Corporations are permitted and subject to corporate governance requirements per Monetary Act 9.1 Section 4.1 (short-term trade tax, quarterly guidance ban, worker board representation, long-term voting multiplier, buyback limits). No GDP cap applies.
 - **Structure**:
   - Shareholder-owned, equity shares via Crossroads Global Co-op Index ($329 billion/year, $1 trillion cap).
   - Corporate boards appoint CEOs, overseen by Trade & Corporate Department.
   - Dividends: 3–5%.
-  - **Taxes per Monetary Act 8.0**: Solo corporations: 0% under $100,000 profit, 5% $100k–$500k, 15% over $500k. Non-solo corporations: 0% under $100,000 profit, 15% $100k–$1M, 20% over $1M. Total corporate tax revenue: ~$25 billion/year.
+  - **Taxes per Monetary Act 9.1**: Solo corporations: 0% under $100,000 profit, 5% $100k–$500k, 15% over $500k. Non-solo corporations: 0% under $100,000 profit, 15% $100k–$1M, 20% over $1M. Total corporate tax revenue: ~$25 billion/year.
 - **Loans**: $67.875 billion ($3.39375 billion/region) from credit unions.
 
 ### 3.5 Master/Grandmaster Bonuses
@@ -386,7 +389,7 @@ Project selection follows the SWF framework under the Monetary Act, with CCIF re
 
 ## Section 5: Sustainability and Regional Integration
 
-- **Sustainability**: FCLs implement $50 billion/year SWF projects, funded by SWF (per Monetary Act 8.0) and **voluntary CCIF deposits**:
+- **Sustainability**: FCLs implement $50 billion/year SWF projects, funded by SWF (per Monetary Act 9.1) and **voluntary CCIF deposits**:
   - Greenhouses: $1 billion/year (non-park, e.g., Region 4), distinct from Parks Act's 30,000 ha (Region 5).
   - Recycling Hubs: $500 million/year (Region 4).
   - CO2 Pipelines: $500 million/year (non-park, e.g., Region 6), distinct from Parks Act's 750 km (Region 3).
@@ -409,8 +412,8 @@ Project selection follows the SWF framework under the Monetary Act, with CCIF re
 | Core FCLs | 195,100 (9,755/region) | Scales with population |
 | Co-op Clubs (recreation) | 27,600 (1,380/region) | Scales with population |
 | **Total Cooperative Entities** | **222,700** | — |
-| Co-op GDP | $9.425 trillion (65% of $14.5T) | $25.311 trillion (65% of $38.94T) |
-| Co-op Profit Tax Rate | **5% on profit over $100,000** | Same (per Monetary Act 8.0) |
+| Co-op GDP (baseline) | $9.425 trillion (approx. 65% of $14.5T) | Scales with economy (co-op dominant by design) |
+| Co-op Profit Tax Rate | **5% on profit over $100,000** | Same (per Monetary Act 9.1) |
 | SWF Contribution | **0%** (eliminated) | Same |
 | FCL Loans (from credit unions) | $294.125 billion | Scales with loan growth |
 | CCIF (voluntary, projected) | $2.395 trillion | Scales with participation |
@@ -434,27 +437,20 @@ Project selection follows the SWF framework under the Monetary Act, with CCIF re
 
 ---
 
-## Summary of Changes (Draft 2.9 → 3.0)
+## Summary of Changes (Draft 3.0 → 3.1)
 
 | Section | Change | Rationale |
 |---------|--------|-----------|
-| **Cross-reference header** | Added reference to Monetary Act 8.0 and Credit Union Act 4.0 | Legislative consistency |
-| **Purpose** | Updated tax language: "5% on profit over $100,000" and "no SWF contribution" | Harmonized with Monetary Act 8.0 |
-| **Section 1** | Added tax clarification; updated GDP figures | Reflects new tax structure |
-| **Section 2.3** | Added DAI reference to loan interest | Harmonized with Monetary Act 8.0 DAI rules |
-| **Section 2.4** | Added DAI floor column to all tiers (0.5% for Tier 1, 1.0% for Tiers 2–3) | Service-sector rate for micro-co-ops |
-| **Section 2.4** | Updated tier distribution estimates to sum to 195,100 core FCLs | Corrected from previous undercount |
-| **Section 2.4** | Added co-op clubs (27,600) as separate category | Reflects total cooperative entities (222,700) |
-| **Section 3.2** | Updated profit-sharing process: added "Pay 5% co-op profit tax on profit over $100,000" | Tax paid before profit allocation |
-| **Section 3.3** | Added DAI adjustment note to loan rates | Harmonized with Monetary Act 8.0 |
-| **Section 3.4** | Updated corporate tax rates to match Monetary Act 8.0 (15%/20% tiers) | Consistency across acts |
-| **Section 3.6** | Added DAI floor references to all loan access tiers | Clear guidance for CLS agents |
-| **Section 3.7.4** | Updated JV tax language to reflect 5% co-op rate | Harmonized |
-| **Section 5** | Updated SWF reference to "per Monetary Act 8.0" | Reflects new SWF structure |
-| **Appendix A** | Added DAI floor rows; updated tax rate to 5%; added SWF contribution (0%) | Complete harmonization |
-| **Appendix B** | New appendix showing tier distribution with DAI floors | Operational clarity |
-| **Throughout** | Updated FCL count to 195,100 core + 27,600 clubs = 222,700 total | Corrected from previous undercount |
-| **Throughout** | Removed all "a€" and "â†'" artifacts | Clean text |
+| **Cross-reference header** | Added amendment note; updated Monetary Act to 9.1, Credit Union Act to 5.1 | Aligns with updated acts |
+| **Purpose** | Removed "drive 65% of GDP" binding language; added "descriptive baseline" and "co-op dominant through incentives" | Per Monetary Act 9.1 |
+| **Section 1** | Changed "Co-op GDP $9.425 trillion (65% of $14.5T)" to "approximately 65% — descriptive baseline" | No binding target |
+| **Section 1** | Updated corporate distinction to reference Monetary Act 9.1 Section 4.1 corporate governance requirements | Reflects new corporate framework |
+| **Section 2.1** | Changed "Revenue: $9.425 trillion (65% GDP)" to "Co-op sector revenue (2025 baseline approximately $9.425 trillion)" | Descriptive |
+| **Section 2.4** | Updated DAI floor references to Monetary Act 9.1 | Version consistency |
+| **Section 3.3** | Updated Monetary Act reference to 9.1 | Version consistency |
+| **Section 3.4** | Updated corporate tax language: removed "15% of GDP"; added reference to Monetary Act 9.1 Section 4.1 corporate governance requirements; added "No GDP cap applies" | Reflects new corporate framework |
+| **Section 5** | Updated SWF reference to Monetary Act 9.1 | Version consistency |
+| **Appendix A** | Changed Co-op GDP row from fixed "65% of $14.5T" to "approx. 65% — descriptive baseline" and 2075 to "scales with economy (co-op dominant by design)" | Honest about framework |
 
 ---
 
@@ -466,7 +462,7 @@ The FCL Structure Act is the productive engine of the New Crossroads economy. Wh
 
 - **Voluntary CCIF, not mandatory extraction.** Unlike the old system where co-ops paid 2% of GDP into the SWF, the CCIF is a voluntary liquidity pool. FCLs deposit when it suits them, withdraw when they need capital, and earn market returns. This is cooperation, not taxation.
 
-- **The 5% profit tax (over $100k) keeps co-ops advantaged.** Corporations pay 15–20%. Co-ops pay 5%. That gap is intentional. It rewards cooperative ownership and keeps wealth distributed.
+- **The 5% profit tax (over $100k) keeps co-ops advantaged.** Corporations pay 15–20% plus additional behavioral constraints (short-term trade tax, quarterly guidance ban, worker board representation, long-term voting multiplier, buyback limits). That gap is intentional. It rewards cooperative ownership and keeps wealth distributed.
 
 - **The 0.5% DAI floor for Tier 1 micro-co-ops recognizes their service-sector role.** Many micro-co-ops emerge from the informal economy. They face higher volatility and thinner margins. A lower DAI floor (matching healthcare, education, and infrastructure) keeps credit affordable for the smallest enterprises.
 
@@ -480,4 +476,4 @@ That is the FCL Act.
 
 ---
 
-**End of Draft 3.0**
+**End of Draft 3.1**
