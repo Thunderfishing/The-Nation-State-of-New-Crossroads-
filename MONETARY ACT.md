@@ -1,12 +1,16 @@
-# Crossroads Monetary Reform & Economic Stabilization Act of 2025: Draft 9.0
+# Crossroads Monetary Reform & Economic Stabilization Act of 2025: Draft 9.1
 
 **Posted to r/Bulwarkomics**
-**Draft**: 9.0 | **Date**: April 12, 2026
+**Draft**: 9.1 | **Date**: April 12, 2026
 **Author**: Thunderfish2
 
 > **Cross-reference**: This act is companion legislation to the *Crossroads Credit Union Act of 2025 (Draft 5.0)*. All operational details of credit unions, Regional Liquidity Pools (RLPs), Deposit Insurance Pool (DIP), and voting-linked deposit insurance are governed by that act. This act establishes the monetary framework, the BWC backing regime, the Informal Economy Guarantee, the SWF, and the DAI.
+>
+> **Amendment Note – Draft 9.1**: This draft removes all hard GDP sector targets (65/15/20) and replaces them with aspirational language, a soft trigger for co-op sector health, per-capita cash adequacy targets, and five structural corporate limitations (short-term trade tax, quarterly guidance ban, worker board representation, long-term voting multiplier, buyback limits). The corporate GDP cap is eliminated.
 
-The Crossroads Monetary Reform & Economic Stabilization Act of 2025 (Draft 9.0) establishes New Crossroads' monetary system following the 2025 $13 trillion debt reset. It drives a $14.5 trillion GDP (65% co-ops/$9.425 trillion, 15% corporate/$2.175 trillion, 20% informal/$2.9 trillion) for 112 million citizens, targeting $38.94 trillion GDP and $1.5–2.0 trillion Sovereign Wealth Fund (SWF) by 2075, with automatic caps to prevent excessive growth.
+The Crossroads Monetary Reform & Economic Stabilization Act of 2025 (Draft 9.1) establishes New Crossroads' monetary system following the 2025 $13 trillion debt reset. The system is designed to foster a **co-op dominant productive economy through incentives**, while supporting a dynamic corporate sector and protecting universal informal cash commerce. No automatic penalty, loan restriction, or enforcement action shall be triggered by deviation from any specific co-op/corporate/informal GDP share.
+
+The system serves 112 million citizens, targeting $38.94 trillion GDP and $1.5–2.0 trillion Sovereign Wealth Fund (SWF) by 2075, with automatic caps to prevent excessive growth.
 
 The system supports 67 million middle-class citizens through a dual currency (physical cash + Bulwark Coin/BWC), 5,000 credit unions, the Crossroads Loan Service (CLS, 60,000 officers), and deep integration with Federated Cooperatives Limited (FCLs). The system is built on **asymmetric scrutiny**: extreme transparency for large co-ops, corporations, and elites; and for ordinary citizens, daily life that is friction-free, private, and completely their own.
 
@@ -29,8 +33,9 @@ This act creates:
 - Physical cash designed as the most beautiful currency in the world, with embedded gold/silver flecks for psychological trust and counterfeiting resistance
 - **Automatic SWF stabilizers** that reduce or suspend contributions if the SWF exceeds 12% of GDP
 - **Regional Liquidity Pools (RLPs)** and a **Deposit Insurance Pool (DIP)** – mutual backstops housed in the Credit Union Act, providing lender-of-last-resort functions without a central bank
+- **Corporate governance limitations** replacing the previous 15% GDP cap: short-term trade tax, quarterly guidance ban, worker board representation, long-term voting multiplier, and buyback limits
 
-Credit unions and CLS maintain the 65/15/20 GDP split, funded by $497.5 billion annual revenue (adjusted from original $601.58 billion after eliminating co-op SWF recharge).
+Credit unions and CLS manage loan allocation with reference to economic health indicators, not binding sector quotas.
 
 ---
 
@@ -51,7 +56,10 @@ These layers are complementary, not competing. Together they capture the full ra
 
 **Rationale**: Cash is the velocity engine of the New Crossroads economy. It exists to be spent, passed hand to hand, and spent again. The state's goal is not to track it but to ensure there is always enough of it, that it is trusted and beautiful, and that no citizen is ever penalized for using it. The informal sector — all commerce conducted in cash below the Daily Living Basket threshold — is a protected constitutional economic zone.
 
-- **Volume (2025)**: $1.45 trillion (10% of $14.5T GDP), scaling to $4.67 trillion (12% of $38.94T GDP) by 2075
+- **Volume (2025)**: Sufficient physical cash to support robust daily informal commerce, indexed to the Daily Living Basket (DLB) and population. Target: per-capita cash adequacy.
+- **Target per-capita cash balance**: 50 BWC (inflation-adjusted via DAI) for every citizen aged 12+.
+- **Automatic floor**: If average per-capita cash falls below 40 BWC (inflation-adjusted) for two consecutive quarters, the Treasury shall automatically issue a cash distribution of 10 BWC to every citizen wallet, funded by the SWF.
+- **Indexing**: Cash issuance reviewed annually by Treasury, indexed to the number of informal-sector estimated workers (from PMI dashboard sampling) and the DLB.
 - **Composition**: Polymer substrate with embedded gold and silver flecks (approx. 5–10% of face value by metal content, varying by denomination)
 - **Design**: Holographic security features, regional artistic motifs (e.g., Corridon barges, Frostpeak mountains, Ember Range geothermal fields), ranked among the world's most beautiful currencies
 - **Backing**: Embedded metal flecks provide psychological trust and intrinsic value floor. Full backing via convertibility to BWC and state acceptance for taxes and fees.
@@ -110,10 +118,7 @@ These mechanisms are referenced here; full operational details are in the Credit
   - Wallets: $15.04 billion
   - Shares: $94 billion
 
-- **Loan Allocation** ($452.5 billion total, $22.625 billion/region):
-  - 65% co-op: $294.125 billion
-  - 15% corporate: $67.875 billion
-  - 20% informal: $90.5 billion
+- **Loan Allocation**: Credit unions lend based on creditworthiness and productive use. Loan data is reported by sector for economic monitoring. No binding sector quotas apply. The historical baseline (2025) was approximately 65% co-op, 15% corporate, 20% informal, but this is descriptive, not prescriptive.
   - Non-SWF loans: $50 billion ($10 million/region, 50% to co-ops <$5 million, 5–6% interest, DAI-adjusted)
   - Micro-loans: $10 billion ($500 each, 4% interest, self-attested income, no verification required)
 
@@ -161,7 +166,7 @@ These mechanisms are referenced here; full operational details are in the Credit
   - Officers: 60,000 (3,000/region)
   - Structure: 48,000 agents ($75,000/year + $12,000 stipend + 3% shares), 11,800 seniors ($120,000/year), 200 regional ($200,000/year)
   - Academy: $1.5375 billion/year (Crossroads City + New Tech City campus); trains in loan management, student ventures, bankruptcy recovery, **informal sector engagement, and backing ratio literacy** (so agents can explain variable backing to members)
-  - Functions: Manage $452.5 billion loans, issue $500 student venture loans (ages 12–15, lenient criteria, mentorship for successful ventures), support bankruptcy recovery, ensure 65/15/20 GDP split
+  - Functions: Manage $452.5 billion loans, issue $500 student venture loans (ages 12–15, lenient criteria, mentorship for successful ventures), support bankruptcy recovery, monitor economic health indicators
   - **Informal Sector Mandate**: CLS agents are trained and incentivized to serve informal sector participants. Micro-loans ($500) are issued on self-attested income with no cash income verification. CLS agents may not require disclosure of cash transaction history as a condition of any loan under $500,000.
   - **Asymmetric Scrutiny**: CLS agents have discretion for loans under $500,000. Loans above $1 million require senior CLS approval and CWD logging. Loans above $10 million require regional CLS director approval and public disclosure.
   - Cost: $1.875 billion/year ($93.75 million/region)
@@ -184,13 +189,23 @@ These mechanisms are referenced here; full operational details are in the Credit
 
 ---
 
-### 1.4 Personal Market Index (PMI)
+### 1.4 Personal Market Index (PMI) — Economic Health Dashboard
 
-**Rationale**: The PMI provides real-time tracking of the 65/15/20 GDP balance, allowing early intervention before co-op GDP dips below 60%. Critically, the informal sector component of the PMI is estimated via statistical sampling — **not** transaction surveillance. Adjustments are automatic and transparent, visible on every citizen's wallet.
+**Rationale**: The PMI provides real-time tracking of economic health, allowing early intervention if the co-op sector shows sustained weakness — not as a binding target but as an early warning system. The informal sector component of the PMI is estimated via statistical sampling — **not** transaction surveillance. Adjustments are automatic and transparent, visible on every citizen's wallet.
 
-Tracks 65/15/20 GDP balance, informal sector growth (estimated via quarterly household sampling surveys, not CWD tracking), rent/gas prices, jobs, and digital shifts via real-time BWC ratio tied to $125–$175 billion reserve.
+**Dashboard Metrics**:
+- Co-op GDP share (annual tax/loan data) — **informational only, not a trigger**
+- Corporate GDP share (annual tax data)
+- Informal GDP share (estimated via quarterly household sampling surveys, not CWD tracking)
+- BWC velocity (credit union transaction data)
+- New FCL formation rate (Tier 1)
+- Tier 1 → Tier 3 transition success (5-year cohorts)
+- Informal → Tier 1 transition rate (micro-loan originations)
+- Rent/gas prices, jobs, digital shifts via real-time BWC ratio tied to $125–$175 billion reserve
 
-If co-op GDP dips below 60%, Treasury triggers fee hikes (1–2% on BWC transactions above $1,000 only) or cash shifts to pensions/emergencies. Adjustments visible on wallets; logged on CWD. **The informal sector's 20% GDP share is a floor, not a cap** — growth beyond 20% is welcome and requires no policy response.
+**Soft Trigger**: If co-op GDP falls below 45% for three consecutive years, the Central Council shall commission a **Co-op Sector Review** by the Co-op Department, with findings delivered within 180 days. The Review may recommend to the National Assembly temporary incentives including but not limited to: micro-loan subsidies, formation grants, or CLS expansion. The Assembly may adopt, modify, or reject recommendations by simple majority.
+
+**No automatic fee hikes or policy responses** are triggered by GDP shares alone. Adjustments visible on wallets; logged on CWD. **The informal sector has no GDP cap** — growth beyond any baseline is welcome and requires no policy response.
 
 ---
 
@@ -296,7 +311,7 @@ The state shall measure the informal sector's contribution to GDP exclusively th
 - Statistical extrapolation from DLB price tracking
 - Aggregate cash minting and circulation data (no individual tracking)
 
-No surveillance-based method may be substituted for statistical sampling. The informal sector GDP figure (20% floor) is an estimate, and the legislation accepts this uncertainty as the appropriate price of privacy.
+No surveillance-based method may be substituted for statistical sampling. The informal sector GDP figure is an estimate, and the legislation accepts this uncertainty as the appropriate price of privacy.
 
 ---
 
@@ -407,9 +422,9 @@ At maturity, the SWF acts solely as a **buffer** — growing in bad years (when 
 
 ## Section 3: Co-op Ecosystem Integration
 
-**Rationale**: FCLs are the engine of the 65% co-op economy. Their profits are transparently split. Large FCLs face full CWD tracking; small FCLs operate with minimal overhead. All FCL loans are DAI-adjusted, ensuring the deflationary BWC does not systematically advantage lenders over co-op borrowers.
+**Rationale**: FCLs are the engine of the co-op economy. Their profits are transparently split. Large FCLs face full CWD tracking; small FCLs operate with minimal overhead. All FCL loans are DAI-adjusted, ensuring the deflationary BWC does not systematically advantage lenders over co-op borrowers.
 
-- **FCL Role**: **195,100 FCLs** (9,755/region) drive $9.425 trillion (65% GDP), scaling to $25.311 trillion by 2075. *(Correction: Original 27,100 was insufficient for 112–130M population; 195,100 FCLs represents approximately 575–670 citizens per FCL, consistent with cooperative density benchmarks.)*
+- **FCL Role**: **195,100 FCLs** (9,755/region) drive co-op GDP, scaling over time. *(Correction: Original 27,100 was insufficient for 112–130M population; 195,100 FCLs represents approximately 575–670 citizens per FCL, consistent with cooperative density benchmarks.)*
 - **Contribute**: $2.036 trillion exports, $274 billion resources.
 - **Profit Split**: 10% healthcare, 10% education, 10% charity, 30–40% member/employees, 30–40% investors/founders; adjustable via 75% vote.
 - **Capital Investment Fund (CCIF)**: $2.395 trillion ($1.96 trillion FCLs, $435 billion corporates), 7.5% returns, 0.5% fee. Funds co-op startups, SWF projects.
@@ -449,6 +464,36 @@ At maturity, the SWF acts solely as a **buffer** — growing in bad years (when 
 
 ---
 
+### Section 4.1: Corporate Governance Requirements (New)
+
+**Rationale**: In place of a GDP cap, corporations registered in New Crossroads are subject to structural limitations designed to align corporate behavior with long-term stakeholder value. These requirements replace all prior numerical targeting of corporate GDP share.
+
+**a) Short-Term Trade Tax:** A transaction tax of 0.5% applies to any sale of corporate shares held for less than 365 days. The tax is collected at the point of sale, regardless of trader location or citizenship. Proceeds fund the Co-op Stabilization Fund.
+
+**b) Quarterly Guidance Ban:** No corporation shall issue quarterly earnings guidance, profit forecasts, or any comparable metric on a sub-annual basis. Annual guidance only. Violations: $1 million fine (first), $10 million fine (second), trading suspension (third).
+
+**c) Worker Board Representation:** Any corporation with more than 50 employees in New Crossroads shall reserve board seats for worker-elected representatives according to the following schedule:
+- 50–500 employees: 1 seat
+- 501–2,000 employees: 2 seats
+- 2,001–10,000 employees: 3 seats (or 30% of board, whichever is larger)
+- 10,000+ employees: 4 seats (or 33% of board)
+
+Worker representatives are elected by all employees (one worker, one vote) for 3-year terms and have full voting rights on all matters including executive compensation, buybacks, and capital allocation.
+
+**d) Long-Term Voting Multiplier:** Shares held continuously for 5+ years receive 2 votes per share. Shares held for 10+ years receive 3 votes per share (cap). Shares sold within 90 days of a shareholder vote forfeit voting rights entirely for that meeting. No separate share classes are permitted.
+
+**e) Stock Buyback Limits:** Buybacks are permitted only if:
+- (i) the corporation meets or exceeds its prior-year disclosed capital expenditure target
+- (ii) post-buyback equity remains at least 150% of long-term debt
+- (iii) annual buyback value does not exceed 50% of net income
+- (iv) worker board members approve by majority vote
+
+**Enforcement:** The Trade & Corporate Department shall maintain a Corporate Governance Enforcement Unit (CGEU) with 50 staff, funded at $150 million/year. CGEU conducts random audits, investigates complaints, and may levy fines up to 5% of corporate revenue for willful violations. Appeals go to the Special Arbiter Panel (SAP).
+
+**No GDP cap applies to the corporate sector.** These governance requirements replace any prior numerical targeting.
+
+---
+
 ## Section 5: Governance & Oversight
 
 **Rationale**: Oversight is layered and redundant. Large transactions and elite actors face full transparency; ordinary citizens face next to none. The CWD tracks only what is necessary to prevent fraud and capital flight. The informal economy is measured by statistical inference, never by surveillance.
@@ -469,7 +514,7 @@ At maturity, the SWF acts solely as a **buffer** — growing in bad years (when 
 
 **Rationale**: Foreign capital is welcome but strictly non-voting. All foreign investment is tracked at the highest scrutiny level. Foreign nationals must use BWC or CGCI units — they may not hold physical cash, which cannot legally leave the country in any case.
 
-- **Purpose**: Channels foreign capital into 65% co-op economy ($9.425 trillion 2025 → $25.311 trillion 2075).
+- **Purpose**: Channels foreign capital into co-op economy.
 - **Structure**: Treasury-managed, $50 billion SWF seed. **195,100 FCLs** pool 10% profits → $329 billion/year (2025) → $879 billion/year (2075).
 - **Units**: Non-voting, 5% return ($16.45–$43.95 billion/year). 90% profits: 70% CCIF, 20% Rainy-Day Fund, 10% SWF.
 - **Timeshares**: 10,000 resort condos/cottages ($725 million/year), foreign ownership cap, supports tourism (Corridon, Ember Range).
@@ -484,7 +529,8 @@ At maturity, the SWF acts solely as a **buffer** — growing in bad years (when 
 |--------|------------|-----------------|
 | Population | 112 million | 130 million |
 | GDP | $14.5 trillion | $38.94 trillion |
-| Informal GDP (floor) | $2.9 trillion (20%) | $7.8 trillion (20% floor) |
+| Co-op GDP | Co-op dominant by design (descriptive, not prescriptive) | Co-op dominant by design |
+| Informal GDP | No cap; measured via sampling | No cap; measured via sampling |
 | SWF | $550 billion | **$1.5–2.0 trillion** (capped at 12% of GDP) |
 | Reserve | $125–$175 billion | $407–$504 billion |
 | **BWC Metal Backing Ratio (normal)** | **50%** | **50%** |
@@ -497,30 +543,28 @@ At maturity, the SWF acts solely as a **buffer** — growing in bad years (when 
 | FCLs | **195,100** (9,755/region) | — |
 | CGCI | $1 trillion cap, $329B/year | $2.5 trillion cap, $879B/year |
 | Revenue (total government) | $497.5 billion | $1.35 trillion (scaled) |
-| Physical Cash in Circulation | $1.45 trillion (10% of GDP) | $4.67 trillion (12% of GDP) |
+| Physical Cash Target | Per-capita adequacy (50 BWC target, 40 BWC floor) | Per-capita adequacy, indexed to DLB |
 | Cash Metal Content (approx.) | $72.5–$145 billion (5–10%) | $233–$467 billion (5–10%) |
 | DLB Threshold (base) | $100 BWC (2025) | Adjusted annually |
 | BWC Appreciation Rate (BAR) | ~2.6%/year (target) | Published annually January |
 | SWF/GDP Cap | — | **12%** (automatic dividends above) |
 | **Deposit Insurance (voting members)** | **$250,000 BWC** | **Inflation-adjusted via DLB** |
 | **Deposit Insurance (non-voting)** | **$50,000 BWC** | **Inflation-adjusted via DLB** |
+| **Corporate GDP Cap** | **None** (replaced by Section 4.1 governance requirements) | **None** |
 
 ---
 
-## Summary of Changes (Draft 8.0 → 9.0)
+## Summary of Changes (Draft 9.0 → 9.1)
 
 | Section | Change | Rationale |
 |---------|--------|-----------|
-| **Cross-reference header** | Added reference to Credit Union Act 5.0; updated to Draft 9.0 | Reflects companion legislation |
-| **Overview** | Added variable backing and RLP/DIP to summary | Highlights major changes |
-| **Section 1.1 BWC** | Changed from 100%+ over-backed to **variable 25–50% metal backing** with daily published ratio; added 40% trigger for Central Council review; updated BAR calculation to reflect effective purchasing power | Enables lending growth while preserving hard backing and transparency. The anti-fiat position is preserved – this is mutualized sound money, not fiat. |
-| **Section 1.2** | Added cross-reference to Credit Union Act 5.0 (RLPs, DIP, voting-linked insurance); added "backing ratio literacy" to CLS Academy curriculum | Integration with companion act; ensures agents can explain variable backing |
-| **Section 1.3** | Added note distinguishing national Liquidity Pool from Regional Liquidity Pools | Clarifies two-tier liquidity architecture |
-| **Section 2.1** | Added paragraph on SWF as ultimate backstop for RLPs (requires 5-region vote) | Preserves anti-bailout ethos while adding systemic resilience |
-| **Section 2.5 SMSWF** | Added metal allocation split: 40% to cash minting, 60% to national reserve for BWC backing | Supports variable backing regime |
-| **Section 5** | Treasury now publishes **daily BWC metal backing ratio** at 9:00 AM | Transparency for variable backing |
-| **Key Stats** | Added rows for BWC metal backing ratio (50% normal, 25% min) and deposit insurance limits | Complete metrics |
-| **Throughout** | Updated all references from Draft 8.0 to 9.0 | Version tracking |
+| **Overview** | Removed 65/15/20 GDP split; added aspirational language and soft trigger | Eliminates command economy framing |
+| **Section 1.1 Cash** | Changed from fixed % of GDP to per-capita adequacy (50 BWC target, 40 BWC floor with auto-distribution) | Cash supply tied to usage, not GDP targets |
+| **Section 1.2** | Removed fixed 65/15/20 loan allocation percentages; replaced with descriptive baseline language | Credit unions lend based on creditworthiness, not quotas |
+| **Section 1.4 PMI** | Repurposed as Economic Health Dashboard; added soft trigger (45% co-op floor for 3+ years → automatic review) | Monitoring, not enforcement |
+| **Section 4** | Removed corporate GDP cap entirely | Replaced with structural limitations |
+| **Section 4.1** | **New section** — Corporate Governance Requirements: short-term trade tax (0.5% on <365 day holds), quarterly guidance ban, worker board representation (1–4 seats based on size), long-term voting multiplier (2x at 5 years, 3x at 10 years), buyback limits (capex-first, debt cap, 50% income cap, worker veto) | Replaces numerical GDP cap with behavioral constraints |
+| **Key Stats** | Removed 65/15/20 rows; added corporate governance row; updated cash target row | Reflects new framework |
 
 ---
 
@@ -546,8 +590,10 @@ New Crossroads leaves it alone. Not passively — actively and legislatively. Th
 
 - **The state itself** is bound by the same rules. The Central Council cannot print money without reserve backing. The Regional Boards cannot approve loans without public disclosure. The CWD cannot retain citizen data beyond 30 days. And no agency — ever — may build a system to track what citizens spend their cash on.
 
-Cash is beautiful. BWC is honest. The backing ratio is transparent. The system is legible. The informal economy is free. The SWF is capped. And the elite have nowhere to hide.
+- **Corporations are not capped — they are disciplined.** The old 15% GDP cap is gone. In its place are five structural requirements: a short-term trade tax that punishes speculation, a ban on quarterly guidance that forces long-term thinking, worker board seats that give labor a voice, a voting multiplier that rewards patient ownership, and buyback limits that prevent capital misallocation. A corporation can be as large as the market allows — but it will act more like a co-op along the way.
+
+Cash is beautiful. BWC is honest. The backing ratio is transparent. The system is legible. The informal economy is free. The SWF is capped. Corporations are disciplined. And the elite have nowhere to hide.
 
 ---
 
-**End of Draft 9.0**
+**End of Draft 9.1**
