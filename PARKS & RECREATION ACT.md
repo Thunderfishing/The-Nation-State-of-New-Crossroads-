@@ -1,19 +1,23 @@
-# Crossroads Corridon River and Parks Act of 2025: Lifeblood of a Nation (Harmonized Draft 3.0)
+# Crossroads Corridon River and Parks Act of 2025: Lifeblood of a Nation (Harmonized Draft 3.1)
 
 **Posted to r/Bulwarkomics**  
-**Draft**: 3.0 | **Date**: April 12, 2026  
+**Draft**: 3.1 | **Date**: April 12, 2026  
 **Author**: Thunderfish2  
-**Cross-references**: Monetary Act 8.0, Credit Union Act 4.0, Infrastructure Act 2.0, FCL Act 3.0
+**Cross-references**: Monetary Act 9.1, Credit Union Act 5.1, Infrastructure Act 2.2, FCL Act 3.0
+
+> 
 
 ---
 
 ## Abstract
 
-The **Crossroads Corridon River and Parks Act of 2025 (Draft 3.0)** establishes the **1,200 km Corridon River Basin** (24,000 km² national park) as New Crossroads' lifeline, anchoring a **540,000 km² parkweb** (20% of 2.7 million km²). By 2075, it supports **130 million citizens** and a **$38.94 trillion GDP** (65% co-ops/$25.311T, 15% corporate/$5.841T, 20% informal/$7.788T), preserving **95% of wildlife** with **60,000 km corridors** and **900 land bridges**.
+The **Crossroads Corridon River and Parks Act of 2025 (Draft 3.1)** establishes the **1,200 km Corridon River Basin** (24,000 km² national park) as New Crossroads' lifeline, anchoring a **540,000 km² parkweb** (20% of 2.7 million km²). By 2075, it supports **130 million citizens** and a **$38.94 trillion GDP** (2025 baseline: 65% co-ops/$9.425T, 15% corporate/$2.175T, 20% informal/$2.9T), preserving **95% of wildlife** with **60,000 km corridors** and **900 land bridges**. The system is designed to foster a **co-op dominant park management model through incentives**, while protecting universal access regardless of payment method.
 
 The act integrates with the **Infrastructure Act's elevated freeway insect corridors** (3,000 km, dark corridors with no lighting) and **DCALS/DCLTI** (indirect red-spectrum lighting for adjacent compounds). Floods nourish **100,000 km² wetlands**, levees protect cities, and timber is capped at **10 million m³/year** (525 million m³ reserves by 2075). A **750 km CO2 pipeline** absorbs 3.115 million tons/year by 2075, and **2,000 km pipelines** deliver CO2 to **30,000 ha greenhouses** (1 million tons/year absorption). A **moisture feedback loop** grows **Frostpeak glaciers** (50,000 km², 10 km³/year).
 
-**Funding**: Parks receive allocations from the **$1.5–2.0 trillion SWF** (capped at 12% of GDP, per Monetary Act 8.0), **$10 billion/year Parks Index**, and **DAI-adjusted loans** (0.5% floor for service-sector park infrastructure). **30,000 co-op clubs** (recreation-focused FCLs) generate **$40 billion/year** by 2075.
+**Funding**: Parks receive allocations from the **$1.5–2.0 trillion SWF** (capped at 12% of GDP, per Monetary Act 9.1), **$10 billion/year Parks Index**, and **DAI-adjusted loans** (0.5% floor for service-sector park infrastructure). **30,000 co-op clubs** (recreation-focused FCLs) generate **$40 billion/year** by 2075.
+
+No binding sector quotas apply. The 65/15/20 figures in 2025 are **descriptive baselines**, not enforcement targets. Co-op park management receives preference (first right of refusal).
 
 ---
 
@@ -21,9 +25,9 @@ The act integrates with the **Infrastructure Act's elevated freeway insect corri
 
 | Act | Integration Point |
 |-----|-------------------|
-| **Monetary Act 8.0** | SWF capped at 12% of GDP; automatic citizen dividends; DAI-adjusted loans (0.5% floor for park infrastructure); informal economy guarantee (cash park fees = protected) |
-| **Credit Union Act 4.0** | Micro-loans for park-adjacent informal businesses ($500, 4% nominal / ~1.4% effective, self-attested income, 24hr approval) |
-| **Infrastructure Act 2.0** | Elevated freeway insect corridors (3,000 km) intersect parkweb; DCALS/DCLTI for adjacent compounds; dark corridor fund (10% of toll revenue = $11.2B/year by 2075) |
+| **Monetary Act 9.1** | SWF capped at 12% of GDP; automatic citizen dividends; DAI-adjusted loans (0.5% floor for park infrastructure); informal economy guarantee (cash park fees = protected); no binding sector quotas |
+| **Credit Union Act 5.1** | Micro-loans for park-adjacent informal businesses ($500, 4% nominal / ~1.4% effective, self-attested income, 24hr approval) |
+| **Infrastructure Act 2.2** | Elevated freeway insect corridors (3,000 km) intersect parkweb; DCALS/DCLTI for adjacent compounds; retroreflective building paint program; dark corridor fund (10% of toll revenue = $11.2B/year by 2075) |
 | **Energy Act 4.0** | 400 TWh grid (13 GW nuclear, 27 GW geothermal) powers park infrastructure |
 | **FCL Act 3.0** | 30,000 co-op clubs with profit split (33% healthcare, 5% education, 22% charity, 40% members) |
 
@@ -31,7 +35,7 @@ The act integrates with the **Infrastructure Act's elevated freeway insect corri
 
 ## Section 1: Core Principles (New)
 
-### 1.1 Asymmetric Scrutiny for Parks (Per Monetary Act)
+### 1.1 Asymmetric Scrutiny for Parks (Per Monetary Act 9.1)
 
 | Level | Transaction Type | CWD Tracking | Reporting |
 |-------|------------------|--------------|-----------|
@@ -53,6 +57,10 @@ Per Monetary Act Section 1.6, all loans for park infrastructure (trails, campsit
 | Greenhouse expansion | 4% | 1.4% | 0.5% |
 | CO2 pipeline maintenance | 4% | 1.4% | 0.5% |
 | Club lodge construction | 5% | 2.4% | 1.0% |
+
+### 1.3 Co-op Park Management Preference
+
+Park management contracts for regional and municipal parks are issued preferentially to co-ops. If a co-op applies and meets all requirements, the contract shall be granted before any corporate application is considered. This is a structural preference (first right of refusal), not a binding quota. The 65% co-op share of park management in 2025 is a **descriptive baseline**, not an enforcement target.
 
 ---
 
@@ -76,7 +84,7 @@ Per Monetary Act Section 1.6, all loans for park infrastructure (trails, campsit
 | Greenhouse area | 30,000 ha | 30,000 ha | — | — |
 | CO2 absorption (greenhouses) | 0.8M tons/yr | 1.0M tons/yr | — | — |
 
-**Funding source**: SWF (per Monetary Act 8.0, no co-op recharge). Parks receive third priority after Energy and Urban.
+**Funding source**: SWF (per Monetary Act 9.1, no co-op recharge). Parks receive third priority after Energy and Urban.
 
 ### 2.3 Integration with Infrastructure Act Insect Corridors (New)
 
@@ -85,7 +93,7 @@ Where elevated freeway insect corridors (Infrastructure Act Section 2) cross the
 - Elevated sections maintain **3–5m clearance** for insect flight
 - **Dark corridor requirements** (no lighting) apply within 1 km of park wetlands
 - Adjacent park structures (ranger stations, maintenance yards) must comply with **DCALS** (Infrastructure Act 2.4.1): indirect red-spectrum motion lighting, retroreflectors, no horizon-visible emission
-- Eligible structures may claim the **DCLTI** property tax reduction (0.75% → 0.70%, per Infrastructure Act 2.4.2)
+- Eligible structures may claim the **DCLTI** property tax reduction (0.75% → 0.70%, or 0.68% for full retroreflective compliance, per Infrastructure Act 2.4.2)
 
 ---
 
@@ -98,13 +106,15 @@ Where elevated freeway insect corridors (Infrastructure Act Section 2) cross the
 
 ### 3.2 Regional Parks (240,000 km²)
 
-- 12,000 km²/region, 65% co-op-managed
+- 12,000 km²/region
+- **Co-op preference**: Management contracts issued preferentially to co-ops (first right of refusal)
 - **DCLTI assistance**: Regional parks within 1 km of elevated freeway sections receive priority certification assistance (funded by Dark Corridor Fund)
 
 ### 3.3 Municipal Parks (200,000 km²)
 
-- 10,000 km²/region, 65% co-op-managed
-- **Retroreflective trails**: Municipal parks may use passive retroreflectors (no powered lighting) for night trails, per DCALS standards.
+- 10,000 km²/region
+- **Co-op preference**: Management contracts issued preferentially to co-ops (first right of refusal)
+- **Retroreflective trails**: Municipal parks may use passive retroreflectors (no powered lighting) for night trails, per DCALS standards and Infrastructure Act retroreflective building paint program.
 
 ---
 
@@ -148,9 +158,9 @@ Where elevated freeway insect corridors (Infrastructure Act Section 2) cross the
 
 ### 5.2 SWF Allocation (Major Update)
 
-| Item | Draft 2.1 | Draft 3.0 (Harmonized) |
+| Item | Draft 2.1 | Draft 3.1 (Harmonized) |
 |------|-----------|------------------------|
-| Co-op recharge | $290B/year → SWF | **Eliminated** (per Monetary 8.0) |
+| Co-op recharge | $290B/year → SWF | **Eliminated** (per Monetary 9.1) |
 | SWF target | $550B → $3.08T | **$1.5–2.0T** (capped at 12% GDP) |
 | SWF funding | Co-op recharge + taxes | FTT (0.3% on BWC >$10k) + corporate SWF contribution (5% profit >$1M) + resource surcharge (3%) |
 | Parks SWF allocation | $20B upfront | $20B upfront (from $362.5B/year SWF contributions) |
@@ -178,12 +188,13 @@ Where elevated freeway insect corridors (Infrastructure Act Section 2) cross the
 
 Club lodges, campsites, and trailheads within 500m of elevated freeway insect corridors must comply with **DCALS** (Infrastructure Act 2.4.1):
 
-- Indirect red-spectrum motion lighting only
+- Indirect red-spectrum motion lighting only (scaled by square footage per Infrastructure Act 2.4.1.3)
 - Retroreflective trail markers (no powered lighting on trails)
+- Retroreflective building paint as alternative compliance pathway
 - No horizon-visible emission
 
 **Incentives**: DCALS-certified clubs receive:
-- DCLTI property tax reduction (0.75% → 0.70%)
+- DCLTI property tax reduction (0.75% → 0.70%, or 0.68% for full retroreflective compliance)
 - Expedited CLS loans (24-hour processing, 0.5% DAI floor)
 
 ---
@@ -207,13 +218,13 @@ Club lodges, campsites, and trailheads within 500m of elevated freeway insect co
 | Metric | 2025 | 2075 | Change |
 |--------|------|------|--------|
 | Population | 112M | 130M | — |
-| GDP | $14.5T | $38.94T | — |
+| GDP | $14.5T (baseline) | $38.94T | Co-op dominant by design |
 | SWF (total) | $550B | $1.5–2.0T | Cap at 12% GDP |
 | Parks SWF allocation | $20B | $20B | Fixed |
 | Parks Index | $10B/yr | $10B/yr | — |
 | CCIF to parks | $2.5B/yr | $2.5B/yr | Third priority |
-| DAI floor (park infrastructure) | N/A | **0.5%** | New (service-sector) |
-| Elevated insect corridors intersecting parkweb | 0 km | **3,000 km** | Per Infrastructure 2.0 |
+| DAI floor (park infrastructure) | N/A | **0.5%** | Service-sector |
+| Elevated insect corridors intersecting parkweb | 0 km | **3,000 km** | Per Infrastructure 2.2 |
 | DCALS-certified park structures | 0 | 5,000+ by 2075 | Voluntary + tax incentive |
 | Dark Corridor Fund to parks | N/A | $11.2B/yr (10% of tolls) | Per Infrastructure 4.2 |
 | Pollinator agricultural benefit | N/A | $6.8B/yr | Per Infrastructure App. B |
@@ -224,9 +235,10 @@ Club lodges, campsites, and trailheads within 500m of elevated freeway insect co
 | Net CO2 | -4.32M tons/yr | -21.735M tons/yr | — |
 | Timber | 10M m³/yr | 10M m³/yr (525M m³ reserves) | — |
 | Loans | $452.5B | $1.2084T | — |
-| FCLs | 27,100 | 30,000 | — |
+| FCLs | 195,100 | 222,700 | — |
 | Clubs | 27,600 | 30,000 | — |
 | Recreation revenue | $20B/yr | $40B/yr | — |
+| Co-op park management preference | First right of refusal | First right of refusal | Structural preference |
 
 ---
 
@@ -243,22 +255,21 @@ Club lodges, campsites, and trailheads within 500m of elevated freeway insect co
 
 ## Notes for r/Bulwarkomics
 
-**Draft 3.0** harmonizes the Parks Act with:
-- **Monetary Act 8.0**: Eliminated co-op SWF recharge; SWF capped at 12% GDP; DAI 0.5% floor for service-sector park infrastructure; informal economy guarantee (cash park fees protected)
-- **Credit Union Act 4.0**: Micro-loans for park-adjacent informal businesses (24hr, self-attested income)
-- **Infrastructure Act 2.0**: 3,000 km elevated insect corridors intersecting parkweb; DCALS (indirect red-spectrum motion lighting); DCLTI (0.75% → 0.70% property tax reduction); Dark Corridor Fund (10% of toll revenue = $11.2B/yr by 2075)
+**Draft 3.1** harmonizes the Parks Act with:
+- **Monetary Act 9.1**: Eliminated co-op SWF recharge; SWF capped at 12% GDP; DAI 0.5% floor for service-sector park infrastructure; informal economy guarantee (cash park fees protected); no binding sector quotas
+- **Credit Union Act 5.1**: Micro-loans for park-adjacent informal businesses (24hr, self-attested income)
+- **Infrastructure Act 2.2**: 3,000 km elevated insect corridors intersecting parkweb; DCALS (indirect red-spectrum motion lighting, scaled by square footage); retroreflective building paint program; DCLTI (0.75% → 0.70% or 0.68% property tax reduction); Dark Corridor Fund (10% of toll revenue = $11.2B/yr by 2075)
 
-**Key changes from Draft 2.1**:
-1. Removed all references to co-op SWF recharge ($290B/yr)
-2. Updated SWF target to $1.5–2.0T (capped at 12% GDP)
-3. Added DAI 0.5% floor for park infrastructure loans
-4. Added informal economy guarantee for cash park fees
-5. Added insect corridor integration (cross-reference to Infrastructure Act 2.0)
-6. Added DCALS/DCLTI requirements for park structures within 500m of dark corridors
-7. Added Dark Corridor Fund as park funding source ($11.2B/yr by 2075)
-8. Condensed implementation plan from 5 phases to 4
-9. Added pollinator agricultural benefit ($6.8B/yr by 2075)
+**Key changes from Draft 3.0**:
+1. Updated Monetary Act reference from 8.0 to 9.1
+2. Updated Credit Union Act reference from 4.0 to 5.1
+3. Updated Infrastructure Act reference from 2.0 to 2.2
+4. Removed binding 65/15/20 GDP split from Abstract and Section 8
+5. Changed "65% co-op-managed" to "co-op preference (first right of refusal)" in Sections 3.2, 3.3
+6. Added co-op park management preference section (1.3)
+7. Updated GDP row in Key Stats to "baseline" and "co-op dominant by design"
+8. Added retroreflective paint compliance pathway to Section 6.2
 
 ---
 
-**End of Draft 3.0**
+**End of Draft 3.1**
