@@ -1,21 +1,25 @@
-# Crossroads Government Act of 2025: Draft 4.16
+# Crossroads Government Act of 2025: Draft 4.17
 
 **Posted to r/Bulwarkomics**  
-**Draft**: 4.16 Detailed | **Date**: April 4, 2026  
+**Draft**: 4.17 | **Date**: April 12, 2026  
 
-The **Crossroads Government Act of 2025 (Draft 4.16)** establishes a decentralized, worker-led government for **New Crossroads**, post a 2025 revolution. It serves 112 million citizens (94 million Corporate Citizens) with a $14.5 trillion GDP (65% co-ops/$9.425 trillion, 15% corporate/$2.175 trillion, 20% informal/$2.9 trillion), targeting a $38.94 trillion GDP by 2075. Governed by **20 Regional Boards** (220 members), a **10-member National Assembly**, and an **11-member Central Council**, it operates without a central leader, supported by 10 economic sectors and 5,000 credit unions acting as a decentralized central bank. The act manages $601.58 billion revenue, $550 billion Sovereign Wealth Fund (SWF), $452.5 billion loans, and $15.04 billion reserve-backed Wallets, integrating geographic hubs (e.g., Corridon, Frostpeak), sustainability (parkweb, greenhouses), and co-op empowerment.
+> **Cross-reference**: This act is companion legislation to the *Crossroads Monetary Reform & Economic Stabilization Act of 2025 (Draft 9.1)* and the *Crossroads Credit Union Act of 2025 (Draft 5.1)*. 
+
+The **Crossroads Government Act of 2025 (Draft 4.17)** establishes a decentralized, worker-led government for **New Crossroads**, post a 2025 revolution. The system is designed to foster a **co-op dominant productive economy through incentives**, while supporting a dynamic corporate sector and protecting universal informal cash commerce. 
+
+It serves 112 million citizens (94 million Corporate Citizens) with a $14.5 trillion GDP (2025 baseline: 65% co-ops/$9.425 trillion, 15% corporate/$2.175 trillion, 20% informal/$2.9 trillion), targeting $38.94 trillion GDP by 2075. Governed by **20 Regional Boards** (220 members), a **10-member National Assembly**, and an **11-member Central Council**, it operates without a central leader, supported by 10 economic sectors and 5,000 credit unions acting as a decentralized central bank. The act manages $601.58 billion revenue, $550 billion Sovereign Wealth Fund (SWF), $452.5 billion loans, and $15.04 billion reserve-backed Wallets, integrating geographic hubs (e.g., Corridon, Frostpeak), sustainability (parkweb, greenhouses), and co-op empowerment.
 
 ---
 
 ## Section 1: Local Level—Sectors, Credit Unions, and Incorporation  
 
 ### 1.1 Economic Sectors  
-Ten sectors anchor New Crossroads' economy and governance: **Industry & Infrastructure**, **Health**, **Education**, **Agriculture**, **Trade & Corporate**, **Media & Communications**, **Legal & Judiciary**, **Defense/Aerospace & Tech**, **Co-op**, **Treasury**, mapped to hubs (e.g., Corridon River for Industry & Infrastructure, Heartland Plains for Agriculture, Crossroads City for Co-op). Treasury oversees 5,000 credit unions, issuing Bulwark Coin (BWC, 0.025 oz precious metal backing) and managing $452.5 billion loans.
+Ten sectors anchor New Crossroads' economy and governance: **Industry & Infrastructure**, **Health**, **Education**, **Agriculture**, **Trade & Corporate**, **Media & Communications**, **Legal & Judiciary**, **Defense/Aerospace & Tech**, **Co-op**, **Treasury**, mapped to hubs (e.g., Corridon River for Industry & Infrastructure, Heartland Plains for Agriculture, Crossroads City for Co-op). Treasury oversees 5,000 credit unions, issuing Bulwark Coin (BWC, variable 25–50% metal backing per Monetary Act 9.1) and managing $452.5 billion loans.
 
 - **Membership**: At age 20 **Citizens** are auto-incorporated, assigned to 1 sector based on diploma/service. Sector switch every 5 years via credit unions (250/region). Juniors (12–19, $10,000+ revenue or $500 loans) pre-incorporate. Dropouts (900,000–1.8 million) assigned via apprenticeships. By 2075, 109 million citizens (130 million population).
 
 - **Functions**:
-  - *Regional*: Masters coordinate $22.625 billion loans/region (65% co-op/$14.70625 billion, 15% corporate/$3.39375 billion, 20% informal/$4.525 billion). Sector councils (50 masters/sector/region, elected by 10,000 masters) draft proposals (3-month review, CWD-tracked). 51% master vote (100,000/200,000) submits to Regional Boards (e.g., Education funding Frostpeak schools).
+  - *Regional*: Masters coordinate $22.625 billion loans/region. Loan allocation is determined by creditworthiness and productive use, not sector quotas. The historical baseline (2025) was approximately 65% co-op, 15% corporate, 20% informal — descriptive, not prescriptive. Sector councils (50 masters/sector/region, elected by 10,000 masters) draft proposals (3-month review, CWD-tracked). 51% master vote (100,000/200,000) submits to Regional Boards (e.g., Education funding Frostpeak schools).
   - *Federal*: Grandmasters propose laws for 94 million voters every 5 years (6/10 vote, 12-month vetting).
 
 - **Master/Grandmaster Criteria**:
@@ -41,18 +45,18 @@ Ten sectors anchor New Crossroads' economy and governance: **Industry & Infrastr
 
 ### 1.2 Credit Unions
 
-5,000 credit unions (250/region) issue BWC (0.025 oz reserve), managing $452.5 billion loans ($217.5 billion SWF, $235 billion banking, $50 billion non-SWF), $208 billion banking suite, $15.04 billion wallets, $94 billion shares for $14.5 trillion GDP (65% co-ops/$9.425 trillion, 15% corporate/$2.175 trillion, 20% informal/$2.9 trillion), scaling to $1.2084 trillion loans by 2075. Details in *
+5,000 credit unions (250/region) issue BWC (variable 25–50% metal backing per Monetary Act 9.1), managing $452.5 billion loans ($217.5 billion SWF, $235 billion banking, $50 billion non-SWF), $208 billion banking suite, $15.04 billion wallets, $94 billion shares. Credit unions lend based on creditworthiness and productive use. Loan data is reported for economic monitoring per the Monetary Act's Economic Health Dashboard. Details in Credit Union Act 5.1.
 
-- **Board Elections**: Members (1–1,000 shares) elect 5–7 board members ($75,000/year, $525 million/year) every 3 years, trained via Credit Union Academy ($500 million/year). Boards oversee loans, banking suite, and shares, ensuring 65/15/20 GDP split.
+- **Board Elections**: Members (1–1,000 shares) elect 5–7 board members ($75,000/year, $525 million/year) every 3 years, trained via Credit Union Academy ($500 million/year). Boards oversee loans, banking suite, and shares. No binding sector quotas apply.
 
 - **Functions**:
-  - *Loans*: $452.5 billion (65% co-op/$294.125 billion, 15% corporate/$67.875 billion, 20% informal/$90.5 billion), including $50 billion non-SWF for small co-ops/informal businesses.
+  - *Loans*: $452.5 billion. Loan allocation is determined by creditworthiness. The 2025 historical baseline (co-op ~$294B, corporate ~$68B, informal ~$90.5B) is descriptive, not prescriptive.
   - *Banking Suite*: $208 billion ($94 billion checking, $94 billion savings, mutual funds, GICs, bonds, crypto, retirement).
   - *Wallets*: $15.04 billion ($50/citizen, to $326 by 2075).
   - *Shares*: $94 billion base ($1/BWC, max 1,000/citizen, 4–8% dividends).
   - *Revenue*: $96.6185 billion/year, including $22.87 billion from fees (BWC Transaction: $15 billion, Cash Swap: $362.5 million, Checking: $940 million, ETF: $705 million, Liquidity: $2.2625 billion, Micro-Loan: $200 million, Micro-Loan Interest: $400 million, Non-SWF Interest: $2.5 billion, Insurance: $500 million), $2.48 billion SMSWF profits, $71.2685 billion reserve interest/investments.
 
-- **CLS**: 60,000 officers manage loans, issue $500 student venture loans (ages 12–15, lenient criteria, loan advice, mentorship for $10,000+ revenue or path-altering ventures), support bankruptcy recovery, ensure 65/15/20 split. CLS Academy ($1.5375 billion/year) trains officers. Cost: $1.875 billion/year, funded by $1.5375 billion credit union revenue and $337.5 million SWF.
+- **CLS**: 60,000 officers manage loans, issue $500 student venture loans (ages 12–15, lenient criteria, loan advice, mentorship for $10,000+ revenue or path-altering ventures), support bankruptcy recovery, **monitor economic health indicators per the Monetary Act's Economic Health Dashboard**. CLS Academy ($1.5375 billion/year) trains officers. Cost: $1.875 billion/year, funded by $1.5375 billion credit union revenue and $337.5 million SWF.
 
 - **Oversight**: CWD ($150 million/year) tracks loans, boards, CLS metrics, audited by 50–75 auditors, $1 billion blockchain/AI, capping $2.5 billion fraud.
 
@@ -61,7 +65,7 @@ Ten sectors anchor New Crossroads' economy and governance: **Industry & Infrastr
 At age 20, citizens receive:
 - Blockchain ID, auto-incorporation for co-op/informal access.
 - 1 vote, 1 base share ($1/BWC, up to 1,000, 4–8% dividends).
-- $50 BWC wallet (0.025 oz backing, to $326 by 2075) for $500 micro-loans.
+- $50 BWC wallet (variable metal backing, to $326 by 2075) for $500 micro-loans.
 - Untaxed informal income under $100,000.
 
 - **Juniors**: Ages 12–19 with $10,000+ revenue or $500 loans open accounts (blockchain ID, 1 share, $50 wallet, no voting until 20, $2 million/year).
@@ -91,8 +95,8 @@ At age 20, every citizen receives:
 - The right to issue shares or take investors
 
 **To operate as a business** (hire employees, take investors, access limited liability, issue shares), a citizen must register as:
-- A **co-op (FCL)** — preferred (65% GDP target, lower taxes)
-- A **corporation** — permitted (15% corporate GDP cap)
+- A **co-op (FCL)** — preferred (lower taxes, lighter governance, voluntary CCIF access)
+- A **corporation** — permitted (subject to corporate governance requirements per Monetary Act 9.1 Section 4.1)
 
 This distinction preserves the informal economy (where citizens work for themselves, cash-only, no registration required) while providing a clear ladder to formal business status.
 
@@ -176,7 +180,7 @@ Each of 20 regions (e.g., Region 1: Crossroads City/Corridon, 6.5 million voters
 
 **State Legislature Functions**:
 
-- **Regional Governance**: Manage $22.625 billion loans/region (65% co-op, 15% corporate, 20% informal), audited via CWD. Oversee $10.4 billion banking accounts/region, $752 million wallets/region.
+- **Regional Governance**: Manage $22.625 billion loans/region, audited via CWD. Loan allocation is determined by creditworthiness. Sector data is reported for economic monitoring (per Monetary Act Economic Health Dashboard). Oversee $10.4 billion banking accounts/region, $752 million wallets/region.
 
 - **Law Enforcement**: Fund and oversee regional police forces, ensuring public safety coordination across municipalities. Allocate resources from regional discretionary funds to support police training, equipment, and community safety programs.
 
@@ -184,7 +188,7 @@ Each of 20 regions (e.g., Region 1: Crossroads City/Corridon, 6.5 million voters
 
 - **Healthcare Oversight**: Manage regional healthcare infrastructure, including clinic loans ($47.125 billion nationally, distributed regionally), coordinate with the National Healthcare Board on regional health priorities, and oversee distribution of healthcare SWF allocations within the region.
 
-- **Auditing Powers**: Conduct regular audits of the 250 credit unions within the region, examining loan allocations, banking suite performance, and compliance with the 65/15/20 GDP split. Audits occur biannually with reports submitted to the Central Council and made publicly available via CWD.
+- **Auditing Powers**: Conduct regular audits of the 250 credit unions within the region, examining loan allocations, banking suite performance, and compliance with credit union governance requirements (per Credit Union Act 5.1). Audits occur biannually with reports submitted to the Central Council and made publicly available via CWD.
 
 - **Infrastructure Coordination**: Fund and coordinate regional infrastructure projects, including Corridon barges ($15.75 billion), 50,000 km rail ($37.5 billion), 97 million tons ports ($19.35 billion), with oversight from relevant sector departments.
 
@@ -213,14 +217,14 @@ Each of 20 regions (e.g., Region 1: Crossroads City/Corridon, 6.5 million voters
 ### 3.1 Central Council
 
 - **Composition**: 11 members (10 masters: 1/sector, 1 wildcard).
-- **Election**: 220 regional masters of the Regional Boards elect 10 masters (121/220 vote). **Elected members must be confirmed by the National Assembly (6/10 vote) before taking office.** 94 million elect wildcard annually ($1.5 billion voter mobilization, $850 million/year BWC credits). 5-year terms, one-term limit. By 2075, 109 million voters.
+- **Election**: 200 regional masters of the Regional Boards elect 10 masters (101/200 vote). **Elected members must be confirmed by the National Assembly (6/10 vote) before taking office.** 94 million elect wildcard annually ($1.5 billion voter mobilization, $850 million/year BWC credits). 5-year terms, one-term limit. By 2075, 109 million voters.
 - **Chairman**: Elected by 6/11 vote (2-year term, masters only).
 
 - **Functions**:
   - Oversee $601.58 billion revenue ($129.775 billion personal, $70 billion co-op, $9.25 billion corporate, $15 billion excise, $18.75 billion property, $49 billion tariffs, $15.65 billion fees; $276.18 billion minerals, $27.618 billion solar), with $96.6185 billion from credit unions, seeding $550 billion SWF, scaling to $1.6127 trillion revenue and $3.082 trillion SWF by 2075.
   - Manage $550 billion SWF, funding sectoral, community ($10.1 billion Charity SWF), emergency ($50 billion), and mining SWFs, with $217.5 billion for loans.
   - Manage $452.5 billion loans, $627.2 billion assets ($362.5 billion cash, $15.04 billion wallets, $94 billion shares, $208 billion accounts, $125–$175 billion reserve), scaling to $1.2084 trillion loans.
-  - Appoint 510 department staff, 3 SAP arbiters, 3 NEC directors, NEB experts/chairman (6/11 vote, 11/20 Boards confirm).
+  - Appoint 510 department staff, 200 judges, 3 SAP arbiters, 3 NEC directors, NEB experts/chairman (6/11 vote, 11/20 Boards confirm).
   - Approve NEB strategic plans (e.g., $751.7 billion energy investments).
   - Allocate $50 billion infrastructure, $30 billion R&D, $20 billion agro camps, $20 billion housing, $64.25 billion reserve, $500 million space launches.
   - Manage sustainability: $50 million/year parkweb, $500 million/year CO2 pipelines, $1 billion greenhouses.
@@ -285,7 +289,7 @@ In addition to its existing functions, the National Assembly **must** propose at
 
 ---
 
-### 3.2.2 Citizen‑Initiated Laws
+### 3.2.2 Citizen‑Initiated Laws (Insert after 3.2.1)
 
 Citizens may force a law, amendment, or repeal onto the 5‑year national ballot without Assembly approval.
 
@@ -297,9 +301,9 @@ Citizens may force a law, amendment, or repeal onto the 5‑year national ballot
 5. If the Assembly fails to propose a law by the deadline, the threshold drops to **0.5%** automatically.
 
 **Restrictions**:
-- Cannot propose laws that violate the 15% corporate GDP cap (Section 4.1, Trade & Corporate).
-- Cannot propose laws that eliminate the 65% co‑op GDP target (Section 1.2).
-- Cannot propose laws that abolish the 2‑for‑1 repeal rule (Section 3.2.3) without a 75% supermajority in a separate referendum.
+- Cannot propose laws that would eliminate the corporate governance requirements established in Monetary Act 9.1 Section 4.1 (short-term trade tax, quarterly guidance ban, worker board representation, long-term voting multiplier, buyback limits).
+- Cannot propose laws that would eliminate the 2‑for‑1 repeal rule (Section 3.2.3) without a 75% supermajority in a separate referendum.
+- Cannot propose laws that would eliminate the Informal Economy Guarantee (Monetary Act Section 1A).
 
 **Funding**: $500 million/year from SWF for petition verification, public forums, and explanatory materials.
 
@@ -376,11 +380,11 @@ Ten departments (51 staff/sector, 510 total) oversee $45.25–$90.5 billion loan
 - **Health**: Oversees $180 billion SWF, $47.125 billion clinic loans, NHB (11 members, $100 million/year). Coordinates with Regional Boards on regional healthcare oversight.
 - **Education**: Runs $94.35 billion vouchers, $5 billion dropout apprenticeships, $1.5375 billion CLS Academy, $2.5 billion Governance Training Program for student venture loans, voter education. Coordinates with Regional Boards on regional education oversight.
 - **Agriculture**: Secures food via $20 billion agro camps, $45.375 billion revenue.
-- **Trade & Corporate**: Caps 15% corporate GDP ($2.175 trillion), oversees $49 billion tariffs.
+- **Trade & Corporate**: **Oversees corporate governance requirements per Monetary Act 9.1 Section 4.1 (short-term trade tax, quarterly guidance ban, worker board representation, long-term voting multiplier, buyback limits). No GDP cap applies.** Administers $49 billion tariffs.
 - **Media & Communications**: Educates via $15 billion SWF, including parkweb tourism.
-- **Legal & Judiciary**: Audits $2.5 billion fraud cap. Administrates Supreme Court operations.
+- **Legal & Judiciary**: Appoints 200 judges, audits $2.5 billion fraud cap. Administrates Supreme Court operations.
 - **Defense/Aerospace & Tech**: Funds 100,000 active, 1 million reserves ($61 billion peacetime).
-- **Co-op**: Drives 65% GDP ($9.425 trillion), oversees $2.395 trillion CCIF, $10 billion Stabilization Fund.
+- **Co-op**: Fosters a co-op dominant productive economy through incentives. Oversees $2.395 trillion CCIF, $10 billion Stabilization Fund.
 - **Treasury**: Oversees $601.58 billion revenue, $550 billion SWF, 5,000 credit unions ($96.6185 billion/year), manages CWD ($150 million/year).
 
 ### 4.2 Special Bodies
@@ -388,7 +392,7 @@ Ten departments (51 staff/sector, 510 total) oversee $45.25–$90.5 billion loan
 - **National Energy Board (NEB)**: 11 members, regulates 400 TWh grid, $751.7 billion investments, $197 billion district loans.
 - **National Healthcare Board (NHB)**: 11 members, oversees $200 billion healthcare, $145 billion healthcare SWF, $35 billion mental health SWF. Coordinates with Regional Boards on regional healthcare implementation.
 - **Supreme Court**: 7 justices, nominated by Regional Boards (11/20 vote), confirmed by National Assembly (6/10 vote). 15-year terms, mandatory retirement at 75. Original jurisdiction over constitutional questions and disputes between regions. Appellate jurisdiction over cases involving the $2.5 billion fraud cap, conflicts between national bodies, and impeachments of high officials.
-- **Special Auditors**: 50–75, audit credit unions, FCLs, SWF, loans, sustainability projects, capping $2.5 billion fraud via CWD. **Appointed by Central Council (6/11 vote), confirmed by Regional Boards (11/20 vote).** Auditors serve 5-year terms and may be removed only by joint action of Central Council and the Regional Board of the region they serve.
+- **Auditors**: 50–75, audit credit unions, FCLs, SWF, loans, sustainability projects, capping $2.5 billion fraud via CWD. **Appointed by Central Council (6/11 vote), confirmed by Regional Boards (11/20 vote).** Auditors serve 5-year terms and may be removed only by joint action of Central Council and the Regional Board of the region they serve.
 
 ---
 
@@ -412,7 +416,7 @@ Ten departments (51 staff/sector, 510 total) oversee $45.25–$90.5 billion loan
 
 ## Section 6: Operational Cycle
 
-- **2025**: ~4.7 million voters/region elect 2 million masters, 20 wildcards, 10 Assembly grandmasters, 11 Council members (subject to Assembly confirmation). Regional Boards nominate and Assembly confirms 7 Supreme Court justices. Credit union boards oversee $452.5 billion loans. CLS mentors FCLs, issues student venture loans. Council approves NEB's $751.7 billion energy investments.
+- **2025**: ~4.7 million voters/region elect 2 million masters, 20 wildcards, 10 Assembly grandmasters, 11 Council members (subject to Assembly confirmation). Regional Boards nominate and Assembly confirms 7 Supreme Court justices. Credit union boards oversee $452.5 billion loans. CLS mentors FCLs, issues student venture loans, monitors economic health indicators. Council approves NEB's $751.7 billion energy investments.
 
 - **2026–2029**: Boards manage $22.625 billion loans/region, **exercise state legislature functions (police, education, healthcare oversight, credit union audits)** , wildcards propose resolutions. Council oversees $601.58 billion revenue, $550 billion SWF. **Assembly proposes laws, conducts oversight hearings, confirms appointments, receives annual State of the Nation address.** NEC/SAP handle crises/deadlocks.
 
@@ -425,7 +429,7 @@ Ten departments (51 staff/sector, 510 total) oversee $45.25–$90.5 billion loan
 ## Key Stats (2025–2075)
 
 - **Population**: 112 million (94 million Corporate Citizens, 67 million middle class) to 130 million (109 million Corporate Citizens).
-- **GDP**: $14.5 trillion (65% co-ops/$9.425 trillion) to $38.94 trillion (65% co-ops/$25.311 trillion).
+- **GDP**: $14.5 trillion (2025 baseline: 65% co-ops/$9.425 trillion) to $38.94 trillion (co-op dominant by design, no binding target).
 - **SWF**: $550 billion to $3.082 trillion.
 - **Loans**: $452.5 billion to $1.2084 trillion.
 - **Revenue**: $601.58 billion to $1.6127 trillion.
@@ -437,9 +441,31 @@ Ten departments (51 staff/sector, 510 total) oversee $45.25–$90.5 billion loan
 
 ## Glossary
 
-- **BWC**: Bulwark Coin, backed by 0.025 oz precious metals.
-- **CCIF**: Capital Investment Fund, $2.395 trillion co-op pool.
+- **BWC**: Bulwark Coin, backed by variable 25–50% metal reserves (per Monetary Act 9.1).
+- **CCIF**: Capital Investment Fund, $2.395 trillion voluntary co-op pool.
 - **FCL**: Federated Cooperative Limited, worker/customer-owned co-op.
 - **SWF**: Sovereign Wealth Fund, $550 billion to $3.082 trillion.
 - **CWD**: Crossroads Workforce Database, $150 million/year, tracking metrics.
-- **CLS**: Crossroads Loan Service, manages $452.5 billion loans, mentors FCLs.
+- **CLS**: Crossroads Loan Service, manages $452.5 billion loans, mentors FCLs, monitors economic health.
+
+---
+
+## Summary of Changes (Draft 4.16 → 4.17)
+
+| Section | Change | Rationale |
+|---------|--------|-----------|
+| **Cross-reference header** | Added reference to Monetary Act 9.1 and Credit Union Act 5.1; added disclaimer that 65/15/20 is descriptive baseline, not binding | Aligns with new incentive-based framework |
+| **Overview** | Changed from "targeting 65% co-ops" to "co-op dominant through incentives" | Removes command language |
+| **Section 1.1** | Removed fixed loan allocation percentages; replaced with "determined by creditworthiness" | Credit unions lend based on productive use, not quotas |
+| **Section 1.2** | Removed "ensuring 65/15/20 split" from board functions and CLS mandate; replaced CLS function with "monitor economic health indicators" | No binding sector targets |
+| **Section 1.4** | Updated business registration: removed "65% GDP target" and "15% corporate GDP cap"; replaced with "lower taxes, lighter governance" for co-ops and reference to Monetary Act 9.1 corporate governance requirements | Incentives, not mandates |
+| **Section 2.1** | Removed "compliance with 65/15/20 split" from auditing powers; changed to "compliance with credit union governance requirements" | Audits check governance, not GDP shares |
+| **Section 3.2.2** | Updated citizen-initiated law restrictions: removed references to 15% corporate cap and 65% co-op target; replaced with protections for corporate governance requirements and Informal Economy Guarantee | Protects structural reforms, not numerical targets |
+| **Section 4.1 Trade & Corporate** | Removed "Caps 15% corporate GDP"; added reference to Monetary Act 9.1 corporate governance requirements | Corporate governance replaces GDP cap |
+| **Section 4.1 Co-op** | Changed "Drives 65% GDP" to "Fosters a co-op dominant productive economy through incentives" | Aspirational, not command |
+| **Key Stats** | Changed GDP row from fixed 65% to "co-op dominant by design, no binding target" | Honest about framework |
+| **Glossary** | Updated BWC definition to variable 25–50% backing | Reflects Monetary Act 9.1 |
+
+---
+
+**End of Draft 4.17**
