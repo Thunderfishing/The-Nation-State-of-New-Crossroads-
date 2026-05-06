@@ -6,8 +6,6 @@
 
 > **Cross-reference**: This act is companion legislation to the *Crossroads Credit Union Act of 2025 (Draft 5.0)*. All operational details of credit unions, Regional Liquidity Pools (RLPs), Deposit Insurance Pool (DIP), and voting-linked deposit insurance are governed by that act. This act establishes the monetary framework, the BWC backing regime, the Informal Economy Guarantee, the SWF, and the DAI.
 >
-> **Amendment Note – Draft 9.1**: This draft removes all hard GDP sector targets (65/15/20) and replaces them with aspirational language, a soft trigger for co-op sector health, per-capita cash adequacy targets, and five structural corporate limitations (short-term trade tax, quarterly guidance ban, worker board representation, long-term voting multiplier, buyback limits). The corporate GDP cap is eliminated.
-
 The Crossroads Monetary Reform & Economic Stabilization Act of 2025 (Draft 9.1) establishes New Crossroads' monetary system following the 2025 $13 trillion debt reset. The system is designed to foster a **co-op dominant productive economy through incentives**, while supporting a dynamic corporate sector and protecting universal informal cash commerce. No automatic penalty, loan restriction, or enforcement action shall be triggered by deviation from any specific co-op/corporate/informal GDP share.
 
 The system serves 112 million citizens, targeting $38.94 trillion GDP and $1.5–2.0 trillion Sovereign Wealth Fund (SWF) by 2075, with automatic caps to prevent excessive growth.
