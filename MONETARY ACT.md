@@ -6,15 +6,13 @@
 
 > **Cross-reference**: This act is companion legislation to the *Crossroads Credit Union Act of 2025 (Draft 5.0)*. All operational details of credit unions, Regional Liquidity Pools (RLPs), Deposit Insurance Pool (DIP), and voting-linked deposit insurance are governed by that act. This act establishes the monetary framework, the BWC backing regime, the Informal Economy Guarantee, the SWF, and the DAI.
 >
-The Crossroads Monetary Reform & Economic Stabilization Act of 2025 (Draft 9.1) establishes New Crossroads' monetary system following the 2025 $13 trillion debt reset. The system is designed to foster a **co-op dominant productive economy through incentives**, while supporting a dynamic corporate sector and protecting universal informal cash commerce. No automatic penalty, loan restriction, or enforcement action shall be triggered by deviation from any specific co-op/corporate/informal GDP share.
+The Crossroads Monetary Reform & Economic Stabilization Act of 2025 (Draft 9.1) establishes New Crossroads' monetary system following the 2025 $13 trillion debt reset. The system is designed to foster a **co-op dominant productive economy through incentives**, while supporting a dynamic corporate sector and protecting universal informal cash commerce. 
 
-The system serves 112 million citizens, targeting $38.94 trillion GDP and $1.5–2.0 trillion Sovereign Wealth Fund (SWF) by 2075, with automatic caps to prevent excessive growth.
+The system serves 112 million citizens, targeting $38.94 trillion GDP and $2.0 trillion Sovereign Wealth Fund (SWF) by 2075, with automatic caps to prevent excessive growth.
 
 The system supports 67 million middle-class citizens through a dual currency (physical cash + Bulwark Coin/BWC), 5,000 credit unions, the Crossroads Loan Service (CLS, 60,000 officers), and deep integration with Federated Cooperatives Limited (FCLs). The system is built on **asymmetric scrutiny**: extreme transparency for large co-ops, corporations, and elites; and for ordinary citizens, daily life that is friction-free, private, and completely their own.
 
 The informal economy — all citizen-to-citizen commerce conducted in physical cash below the Daily Living Basket threshold — is not merely tolerated but **actively protected as a constitutional economic right**. The state has no interest in tracking it, no mechanism for doing so, and is affirmatively prohibited from building one.
-
-**Amendment Note – Draft 9.0**: This draft introduces a variable metal backing ratio for BWC (25–50%, down from 100%+ over-backed) to enable lending growth while preserving hard backing and transparency. It also adds cross-references to the Credit Union Act 5.0's Regional Liquidity Pools (RLPs) and Deposit Insurance Pool (DIP), which serve as lender-of-last-resort and solvency backstops without creating a central bank.
 
 ---
 
@@ -25,9 +23,9 @@ This act creates:
 - **Variable metal backing** for BWC (25–50% range) with daily public ratio, balancing sound money with lending capacity
 - **Deflation Adjustment Index (DAI)** on all co-op, credit union, and eligible corporate loans, ensuring BWC appreciation does not penalize borrowers, with a reduced 0.5% floor for service-sector loans
 - **Two-Layer Velocity Architecture**: cash handles high-frequency daily commerce; BWC serves as the store-of-value and formal economy medium
-- $550 billion SWF scaling to $1.5–2.0 trillion (capped at 12% of GDP)
-- $125–$175 billion reserve scaling to $407–$504 billion
-- 94 million Corporate Citizens equipped with $50 BWC wallets (scaling to $326), 1,000 credit union shares (4–8% dividends), and $208 billion banking suite
+- $550 billion SWF scaling to $2.0 trillion (capped at 12% of GDP)
+- $175 billion reserve scaling to $504 billion
+- 94 million Incorporated Citizens equipped with $50 BWC wallets (scaling to $326), 1,000 credit union shares (4–8% dividends), and $208 billion banking suite
 - Physical cash designed as the most beautiful currency in the world, with embedded gold/silver flecks for psychological trust and counterfeiting resistance
 - **Automatic SWF stabilizers** that reduce or suspend contributions if the SWF exceeds 12% of GDP
 - **Regional Liquidity Pools (RLPs)** and a **Deposit Insurance Pool (DIP)** – mutual backstops housed in the Credit Union Act, providing lender-of-last-resort functions without a central bank
@@ -488,8 +486,6 @@ Worker representatives are elected by all employees (one worker, one vote) for 3
 
 **Enforcement:** The Trade & Corporate Department shall maintain a Corporate Governance Enforcement Unit (CGEU) with 50 staff, funded at $150 million/year. CGEU conducts random audits, investigates complaints, and may levy fines up to 5% of corporate revenue for willful violations. Appeals go to the Special Arbiter Panel (SAP).
 
-**No GDP cap applies to the corporate sector.** These governance requirements replace any prior numerical targeting.
-
 ---
 
 ## Section 5: Governance & Oversight
@@ -552,20 +548,6 @@ Worker representatives are elected by all employees (one worker, one vote) for 3
 
 ---
 
-## Summary of Changes (Draft 9.0 → 9.1)
-
-| Section | Change | Rationale |
-|---------|--------|-----------|
-| **Overview** | Removed 65/15/20 GDP split; added aspirational language and soft trigger | Eliminates command economy framing |
-| **Section 1.1 Cash** | Changed from fixed % of GDP to per-capita adequacy (50 BWC target, 40 BWC floor with auto-distribution) | Cash supply tied to usage, not GDP targets |
-| **Section 1.2** | Removed fixed 65/15/20 loan allocation percentages; replaced with descriptive baseline language | Credit unions lend based on creditworthiness, not quotas |
-| **Section 1.4 PMI** | Repurposed as Economic Health Dashboard; added soft trigger (45% co-op floor for 3+ years → automatic review) | Monitoring, not enforcement |
-| **Section 4** | Removed corporate GDP cap entirely | Replaced with structural limitations |
-| **Section 4.1** | **New section** — Corporate Governance Requirements: short-term trade tax (0.5% on <365 day holds), quarterly guidance ban, worker board representation (1–4 seats based on size), long-term voting multiplier (2x at 5 years, 3x at 10 years), buyback limits (capex-first, debt cap, 50% income cap, worker veto) | Replaces numerical GDP cap with behavioral constraints |
-| **Key Stats** | Removed 65/15/20 rows; added corporate governance row; updated cash target row | Reflects new framework |
-
----
-
 ## Design Philosophy (Informative)
 
 The Crossroads monetary system is built on a single principle: **trust through asymmetry**.
@@ -588,7 +570,7 @@ New Crossroads leaves it alone. Not passively — actively and legislatively. Th
 
 - **The state itself** is bound by the same rules. The Central Council cannot print money without reserve backing. The Regional Boards cannot approve loans without public disclosure. The CWD cannot retain citizen data beyond 30 days. And no agency — ever — may build a system to track what citizens spend their cash on.
 
-- **Corporations are not capped — they are disciplined.** The old 15% GDP cap is gone. In its place are five structural requirements: a short-term trade tax that punishes speculation, a ban on quarterly guidance that forces long-term thinking, worker board seats that give labor a voice, a voting multiplier that rewards patient ownership, and buyback limits that prevent capital misallocation. A corporation can be as large as the market allows — but it will act more like a co-op along the way.
+- **Corporations are they are disciplined.** Through five structural requirements: a short-term trade tax that punishes speculation, a ban on quarterly guidance that forces long-term thinking, worker board seats that give labor a voice, a voting multiplier that rewards patient ownership, and buyback limits that prevent capital misallocation. A corporation can be as large as the market allows — but it will act more like a co-op along the way.
 
 Cash is beautiful. BWC is honest. The backing ratio is transparent. The system is legible. The informal economy is free. The SWF is capped. Corporations are disciplined. And the elite have nowhere to hide.
 
