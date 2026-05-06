@@ -1,13 +1,17 @@
-New Crossroads Military Intelligence & Defense Act.
+# Crossroads Military Intelligence and Defense Act of 2025: Draft 1.6
 
-# Crossroads Military Intelligence and Defense Act of 2025: Draft 1.5
 **Posted to r/Bulwarkomics**  
-**Draft**: 1.5 Detailed | **Date**: April 29, 2025  
+**Draft**: 1.6 Detailed | **Date**: April 12, 2026  
+
+> **Cross-reference**: This act is companion legislation to the *Crossroads Monetary Reform & Economic Stabilization Act of 2025 (Draft 9.1)*, *Crossroads Government Act of 2025 (Draft 4.17)*, *Crossroads Energy Act of 2025 (Draft 4.1)*, *Crossroads Education and Workforce Act of 2025 (Draft 2.1)*, *Crossroads Co-operative Healthcare & Mental Wellness Act of 2025 (Draft 6.4)*, *Crossroads Communications and Media Infrastructure Act of 2025 (Draft 4.1)*, and *Crossroads Credit Union Act of 2025 (Draft 5.1)*.
+>
 
 ---
 
 ## Abstract
-This act establishes New Crossroads’ defense and intelligence framework, prioritizing unilateral sovereignty, border security, and rapid humanitarian aid within a $14.5T GDP economy (65% co-ops/$9.425T, 15% corporate/$2.175T, 20% informal/$2.9T), scaling to $38.94T GDP (65% co-ops/$25.311T) by 2075. It supports a 100K all-male active military, 1M mixed reserves, 9.1M armed male militia, 10K elite infantry, and 10K airborne division, integrated with the Crossroads Military Intelligence Service (CMIS) as a 25K-person branch (20K core, 5K cyber warfare), scaling to 50K by 2075. Equipment includes 100 hypersonic cruise missiles (5–100 kt), 200 tactical nuclear shells (5–100 kt), 100 anti-satellite missiles, 8 nuclear submarines (112 hypersonic ICBMs, 15–30 megatons), 20 cutters, 2 frigates, 40 SAR helicopters, 300 aircraft (100 fighters, 80 stealth, 60 anti-ship, 20 ground-attack, 40 transports), 5K drones, 10 flying drone carriers, 80 multi-role helicopters, 2K APCs, 50 tanks, 200 howitzers, 60 SAM batteries, and 400 EW units. Naval assets are split between Eastport, Westport, Rivergate City, and Desert Port, with SAR helicopters distributed across these locations. The air force comprises 20 squadrons, with 1 at New Tech City, 1 at Rivergate City, and 18 at Durant B. Cooper Air Force Base, housing the airborne division. Elite infantry and helicopters are split across Eastport, Westport, Mountain Valley, and Desert Port, with regular forces at 10 national bases. The Crossroads Space Initiative (CSI) manages 25 satellites and 10–20 launches/year, targeting asteroid mining by 2100. Equipment is designed in-house, sourcing components from existing supply chains. Funded by a $77.56B SWF chunk, it aligns with *Monetary Act 6.3*, *Government Act 4.13*, *Energy Act 3.0*, *Education Act 1.4*, *Healthcare Act 6.1*, *Communications Act 3.7*, *Workforce Act 4.3*, and *Credit Union Act 2.3*.
+This act establishes New Crossroads’ defense and intelligence framework, prioritizing unilateral sovereignty, border security, and rapid humanitarian aid within a $14.5T GDP economy (2025 baseline: 65% co-ops/$9.425T, 15% corporate/$2.175T, 20% informal/$2.9T), scaling to $38.94T GDP by 2075. It supports a 100K all-male active military, 1M mixed reserves, 9.1M armed male militia, 10K elite infantry, and 10K airborne division, integrated with the Crossroads Military Intelligence Service (CMIS) as a 25K-person branch (20K core, 5K cyber warfare), scaling to 50K by 2075. Equipment includes 100 hypersonic cruise missiles (5–100 kt), 200 tactical nuclear shells (5–100 kt), 100 anti-satellite missiles, 8 nuclear submarines (112 hypersonic ICBMs, 15–30 megatons), 20 cutters, 2 frigates, 40 SAR helicopters, 300 aircraft (100 fighters, 80 stealth, 60 anti-ship, 20 ground-attack, 40 transports), 5K drones, 10 flying drone carriers, 80 multi-role helicopters, 2K APCs, 50 tanks, 200 howitzers, 60 SAM batteries, and 400 EW units. Naval assets are split between Eastport, Westport, Rivergate City, and Desert Port, with SAR helicopters distributed across these locations. The air force comprises 20 squadrons, with 1 at New Tech City, 1 at Rivergate City, and 18 at Durant B. Cooper Air Force Base, housing the airborne division. Elite infantry and helicopters are split across Eastport, Westport, Mountain Valley, and Desert Port, with regular forces at 10 national bases. The Crossroads Space Initiative (CSI) manages 25 satellites and 10–20 launches/year, targeting asteroid mining by 2100. Equipment is designed in-house, sourcing components from existing supply chains. Funded by a $77.56B SWF allocation, it aligns with *Monetary Act 9.1*, *Government Act 4.17*, *Energy Act 4.1*, *Education Act 2.1*, *Healthcare Act 6.4*, *Communications Act 4.1*, and *Credit Union Act 5.1*.
+
+No binding sector quotas apply. The 65/15/20 figures in 2025 are **descriptive baselines**, not enforcement targets.
 
 ---
 
@@ -18,7 +22,7 @@ This act establishes New Crossroads’ defense and intelligence framework, prior
 - Organize naval assets and SAR helicopters across Eastport, Westport, Rivergate City, and Desert Port, air force squadrons at New Tech City, Rivergate City, and Durant B. Cooper Air Force Base (with airborne division), elite infantry and helicopters across Eastport, Westport, Mountain Valley, and Desert Port, and regular forces at 10 national bases.
 - Manage the CSI with 25 satellites (10 weather, 5 broadband, 10 military) and 10–20 launches/year, targeting asteroid mining by 2100.
 - Design military equipment in-house, sourcing components from existing supply chains for cost efficiency and maintenance ease.
-- Fund operations with a $77.56B SWF chunk ($3.878B/region), supported by $60B/year internal revenue ($3B/region) and $920B Defense Fund, ensuring no foreign financial reliance.
+- Fund operations with a $77.56B SWF allocation ($3.878B/region), supported by $60B/year internal revenue ($3B/region) and $920B Defense Fund, ensuring no foreign financial reliance.
 
 ---
 
@@ -27,7 +31,7 @@ This act establishes New Crossroads’ defense and intelligence framework, prior
 ### 2.1 Military Structure
 - **Active Forces**: 100K all-male personnel (2025), comprising 60K regular troops, 10K elite infantry (special forces), 10K airborne division, and 20K support (logistics, maintenance). Scales to 125K by 2075 (including 25K CMIS as a standalone branch). $1B/year bonuses ($10K each, via $94B checking), tracked for individual performance via Merit Dashboard.
 - **Reserves**: 1M mixed (500K men, 500K women), trained via 3-month refreshers every 5 years (70% uptake, $5K each, $3.5B/year, via $94B checking).
-- **Militia**: 9.1M armed males, equipped via mandatory service boot camp (1M/year, 500K men, 500K women, retaining rifle ($500) and pistol ($200), *Education Act 1.4*, *Section 4*).
+- **Militia**: 9.1M armed males, equipped via mandatory service boot camp (1M/year, 500K men, 500K women, retaining rifle ($500) and pistol ($200), *Education Act 2.1*, *Section 4*).
 - **CMIS**: 25K personnel (20K core: 7K analysts, 5K field ops, 3K cyber, 5K support; 5K cyber warfare division), detailed in *Section 3*.
 - **Assets**:
   - **Naval**: 20 cutters (5 Eastport, 5 Westport, 5 Rivergate City, 5 Desert Port), 2 frigates (1 Westport, 1 Desert Port), 8 nuclear submarines (4 Eastport, 4 Westport, each with 14 hypersonic ICBMs, 15–30 megaton yields, 112 total), 40 SAR helicopters (10 Eastport, 10 Westport, 10 Rivergate City, 10 Desert Port).
@@ -55,10 +59,10 @@ This act establishes New Crossroads’ defense and intelligence framework, prior
   - **Naval Academy**: Andrew Reed Westport Naval Academy ($500M, SWF-funded) trains 2K crew/year (100/region) for cutters, frigates, submarines, and SAR helicopters, ensuring 100% readiness, tracked via Defense Compliance System ($50M/year).
 
 ### 2.2 Training and Recruitment
-- **Source**: 1M service graduates/year (500K men, 500K women, *Education Act 1.4*, *Section 4*), with 25K (20K CMIS, 5K core military) recruited annually, trained via $2B Governance Training Program (*Government Act 4.13*, *Section 4.1*) and Military Training Academy ($100M/year, SWF-funded).
-- **Boot Camp**: 3-month combat training for men (weapons, fitness, survival), optional for women, during 24-month service (*Education Act 1.4*, *Section 4*). Elite infantry and airborne division receive 6-month specialized training ($100M/year, SWF-funded). CMIS personnel receive 6-month training in analytics, field ops, and cyber warfare ($100M/year, SWF-funded).
-- **Mentorship**: 2M masters (100K/region, *Education Act 1.4*, *Section 5.1*) mentor recruits, coordinated by RHAs and Department of Defense.
-- **Pilot Training**: $30M/year program (SWF-funded) trains 1K pilots/year (50/region) via *Education Act 1.4*’s military curriculum (*Section 3.1*) at Military Training Academy, ensuring 100% readiness, tracked via Defense Compliance System.
+- **Source**: 1M service graduates/year (500K men, 500K women, *Education Act 2.1*, *Section 4*), with 25K (20K CMIS, 5K core military) recruited annually, trained via $2B Governance Training Program (*Government Act 4.17*, *Section 4.1*) and Military Training Academy ($100M/year, SWF-funded).
+- **Boot Camp**: 3-month combat training for men (weapons, fitness, survival), optional for women, during 24-month service (*Education Act 2.1*, *Section 4*). Elite infantry and airborne division receive 6-month specialized training ($100M/year, SWF-funded). CMIS personnel receive 6-month training in analytics, field ops, and cyber warfare ($100M/year, SWF-funded).
+- **Mentorship**: 2M masters (100K/region, *Education Act 2.1*, *Section 5.1*) mentor recruits, coordinated by RHAs and Department of Defense.
+- **Pilot Training**: $30M/year program (SWF-funded) trains 1K pilots/year (50/region) via *Education Act 2.1*’s military curriculum (*Section 3.1*) at Military Training Academy, ensuring 100% readiness, tracked via Defense Compliance System.
 - **Naval Training**: $30M/year program (SWF-funded) at Andrew Reed Westport Naval Academy trains 2K crew/year (100/region) for cutters, frigates, submarines, and SAR helicopters, ensuring 100% readiness, tracked via Defense Compliance System.
 - **Cyber Warfare**: 5K-person division within CMIS, trained via Military Training Academy ($30M/year, SWF-funded). Recruits 1K journeymen/year (50/region) from tech curriculum, ensuring 90% retention by 2035, tracked via Defense Compliance System.
 
@@ -67,7 +71,7 @@ This act establishes New Crossroads’ defense and intelligence framework, prior
 - **Supply Chain**: Sources components (e.g., aircraft knobs/gauges, APC axles, artillery electronics, helicopter parts from commercial lines) from commercial supply chains to leverage mass production, reduce costs, and simplify maintenance. Mechanics use standard tools.
 - **Implementation**: $5B/year procurement program (SWF-funded) contracts 1K co-op FCLs (50/region) for component production, mentored by Department of Defense. $1.56B/year maintenance fund (SWF-funded) supports all assets, ensuring 95% readiness, audited biennially (6/11 Central Council vote, $10M/year) via blockchain/AI audits ($1B/year).
 - **Benefits**: Reduces procurement costs by 20% ($1B/year savings) and maintenance downtime by 30% (90% availability), tracked via Defense Compliance System.
-- **R&D**: $5B/year (SWF-funded) for self-guiding/fiber optic drone development, tied to *Education Act 1.4*’s tech curricula (*Section 3.1*) and *Communications Act 3.7*’s networks, tracked via Defense Compliance System.
+- **R&D**: $5B/year (SWF-funded) for self-guiding/fiber optic drone development, tied to *Education Act 2.1*’s tech curricula (*Section 3.1*) and *Communications Act 4.1*’s networks, tracked via Defense Compliance System.
 
 ---
 
@@ -77,7 +81,7 @@ This act establishes New Crossroads’ defense and intelligence framework, prior
 - **Personnel**: 25K (2025): 7K analysts (data, geopolitics), 5K field ops (border patrols, aid escorts), 8K cyber (3K core, 5K cyber warfare for network defense, satellite comms, anti-satellite missile ops), 5K support (logistics, training). Scales to 50K by 2075 (20K analysts, 15K ops, 10K cyber, 5K support, standalone branch).
 - **Mission**: Monitor external threats (e.g., Northera, Eastmarch), secure 2.7M km² borders, support $2B/year aid ops with 80 multi-role helicopters, 10K airborne division, 10 flying drone carriers, manage 100 anti-satellite missiles, prioritize Northspire/Corridon, limited external scope, no deep espionage.
 - **Assets**: 10 military satellites (part of CSI, scaling to 20 by 2075), 5K drones, 10 flying drone carriers, 100 anti-satellite missiles, 400 EW units, $1B blockchain/AI audits ($100M/year upgrades).
-- **Training**: 25K personnel from 1M service graduates (*Education Act 1.4*, *Section 4*), trained via Military Training Academy and $2B Governance Training Program. 6-month specialized training ($100M/year, SWF-funded).
+- **Training**: 25K personnel from 1M service graduates (*Education Act 2.1*, *Section 4*), trained via Military Training Academy and $2B Governance Training Program. 6-month specialized training ($100M/year, SWF-funded).
 - **Retention**: $50M/year bonus for 5K cyber and analyst personnel ($10K/year, SWF-funded), ensuring 85% retention, tracked via Merit Dashboard for individual performance.
 - **Threat Intelligence**: $20M/year program (SWF-funded) analyzes external cyber threats (e.g., Northera tactics) via Military Training Academy, achieving 95% threat detection, tracked via Defense Compliance System.
 - **Funding**: $5.5B SWF ($275M/region, $5B base + $500M for helicopters/airborne/anti-satellite/drone carrier integration), via $47B banking reserves.
@@ -95,7 +99,7 @@ This act establishes New Crossroads’ defense and intelligence framework, prior
 - **Structure**: Co-op/private hybrid:
   - **Civilian**: 10 weather satellites (0.5/region, $500M), 5 broadband satellites (0.25/region, $500M, $1B/year revenue, $50M/region, via $94B savings).
   - **Military**: 10 comms/spy/ops satellites (0.5/region, $1B, 1-meter imaging, GPS, missile warning), integrated with CMIS and 100 anti-satellite missiles.
-- **Launches**: 10–20 launches/year, reusable rockets ($250M/year, $50M/year load balancing, tied to 1,633 TWh nuclear grid, *Energy Act 3.0*).
+- **Launches**: 10–20 launches/year, reusable rockets ($250M/year, $50M/year load balancing, tied to 1,633 TWh nuclear grid, *Energy Act 4.1*).
 - **Goal**: Asteroid mining by 2100 ($10B potential).
 - **Operations**: Managed by 3K CMIS cyber personnel, supported by $120M/year redundancy and cybersecurity program (SWF-funded), deploying 2 backup satellites by 2030, maintaining 5 ground stations ($20M/region), ensuring 99.9% uptime. $75M/year infrastructure program (SWF-funded) develops launch facilities in Desert Port (2035, 25 satellites) and Frostpeak (2050, 30 satellites). $10M/year engagement program (SWF-funded) promotes mining benefits via AM radio and forums, targeting 90% awareness, tracked via Defense Compliance System.
 - **Funding**: $2.25B SWF ($112.5M/region, $250M rocket savings), via $47B banking reserves, with $120M/year upgrades.
@@ -148,22 +152,22 @@ This act establishes New Crossroads’ defense and intelligence framework, prior
 ---
 
 ## Section 7: Funding Mechanisms
-- **SWF Chunk**: $77.56B (2025, part of $550B, scales to $3.082T by 2075, $3.878B/region):
+- **SWF Allocation**: $77.56B (2025, part of $550B, capped at 12% of GDP per Monetary Act 9.1, $3.878B/region):
   - $5B: Border forts and bases ($250M/region).
   - $5.5B: CMIS ($275M/region, $5B base + $500M for helicopters/airborne/anti-satellite/drone carrier integration).
   - $62.1275B: Aircraft ($15B), missiles ($2.2B: $200M shells, $2B anti-satellite), drones ($50B), drone carriers ($5B), helicopters ($2.4B: $1.6B multi-role, $800M SAR), APCs ($600M), tanks ($127.5M), howitzers ($600M), SAMs ($1.2B), EW units ($5B).
   - $2.25B: CSI ($112.5M/region, $250M rocket savings).
   - $1.56B: Procurement and maintenance ($78M/region).
   - $1.1225B: Training, retention, resilience, deployment, upgrades, engagement ($56.125M/region).
-- **Revenue**: $60B/year internal ($3B/region), including $149.46M death tax ($47M credits), $10B Co-op Stabilization Fund, $27.618B solar investments (*Government Act 4.13*, *Section 4.2*).
+- **Revenue**: $60B/year internal ($3B/region), including $149.46M death tax ($47M credits), $10B Co-op Stabilization Fund, $27.618B solar investments (*Government Act 4.17*, *Section 4.2*).
 - **Defense Fund**: $920B by 2125 ($46B/region), funded by $4.14B/year donations/bequests ($207M/region), $45B/year co-op recharge excess ($2.25B/region), $149.46M death tax ($47M credits). Locked until total war (6/10 Assembly + 7/11 Central Council vote), supporting emergency gear ($46B/year to co-ops, via $94B checking). $100M/year co-op investment program (SWF-funded) allocates 5% of fund returns to FCLs, boosting growth to $1T by 2100, tracked via Defense Compliance System.
-- **Financial Integration**: $627.2B assets ($362.5B cash, $15.04B wallets, $94B shares, $208B banking, $125–$175B reserve), $504B reserve (*Monetary Act 6.3*, *Section 1*), gold-flecked notes for aid trades.
+- **Financial Integration**: $627.2B assets ($362.5B cash, $15.04B wallets, $94B shares, $208B banking, $125–$175B reserve), $504B reserve (*Monetary Act 9.1*, *Section 1*), gold-flecked notes for aid trades.
 - **Contingency Reserve**: $1B/year (SWF-funded) for operational spikes, reviewed biennially by Central Council (6/11 vote), tracked via Defense Compliance System.
 
 ---
 
 ## Section 8: Governance and Oversight
-- **Regional Boards**: 20 Boards (220 members, 11/region: 9 masters, 1 wildcard, 1 chairman), 65% co-op focus, manage $3.878B/region defense operations, vote on deployments (75%), oversee $452.5B loans, $208B banking, $15.04B wallets, $10B Co-op Stabilization Fund. Wildcards propose 1 resolution/meeting, chair physical forums ($20M/year). Biennial elections with 15% cross-sector master voting cap (~705K/region/sector, $50M/year blockchain).
+- **Regional Boards**: 20 Boards (220 members, 11/region: 9 masters, 1 wildcard, 1 chairman), with **co-op preference** (licenses and contracts issued preferentially to co-ops, first right of refusal), manage $3.878B/region defense operations, vote on deployments (75%), oversee $452.5B loans, $208B banking, $15.04B wallets, $10B Co-op Stabilization Fund. Wildcards propose 1 resolution/meeting, chair physical forums ($20M/year). Biennial elections with 15% cross-sector master voting cap (~705K/region/sector, $50M/year blockchain).
 - **Central Council**: 11 members, 510 staff approve defense actions (6/11 vote), track threats (no trade triggers $1B BWC from $504B reserve), trained via $2B Governance Training Program. Hypersonic missile, nuclear missile, and anti-satellite missile deployment requires 8/11 vote (72-hour deliberation), with 3/20 EGA trigger for emergency use, tracked via Defense Compliance System ($50M/year).
 - **Audits**: 50 auditors (2–3/region), $2.5B fraud cap, $1B blockchain/AI with Defense Compliance System ($50M/year upgrades).
 - **EGA**: 3/20 regions trigger ($50M/year blockchain verification), redirecting 10K troops for aid or defense.
@@ -179,17 +183,16 @@ This act establishes New Crossroads’ defense and intelligence framework, prior
 - **Special Forces**: 10K elite infantry and 80 multi-role helicopters across Eastport, Westport, Mountain Valley, Desert Port, supporting rapid response.
 - **Ground Forces**: 2K APCs, 50 tanks, 200 howitzers, 60 SAM batteries, 400 EW units across 10 national bases, supporting border security.
 - **Space**: 25 satellites (10 weather, 5 broadband, 10 military), 100 anti-satellite missiles, $1B/year revenue, asteroid mining primed.
-- **Economy**: $60B/year internal revenue ($3B/region), $25.311T co-op GDP, powered by $27.618B solar investments.
+- **Economy**: $60B/year internal revenue ($3B/region), co-op GDP scales with overall economy (co-op dominant by design), powered by $27.618B solar investments.
 
 ---
 
 ## Appendix: Glossary
-- **NLC**: National Learning Council, managing education and workforce (*Education Act 1.4*).
-- **RLA**: Regional Learning Assembly, overseeing education operations (*Education Act 1.4*).
+- **NLC**: National Learning Council, managing education and workforce (*Education Act 2.1*).
+- **RLA**: Regional Learning Assembly, overseeing education operations (*Education Act 2.1*).
 - **FCLs**: Federated Cooperatives Limited, worker/customer-owned co-ops.
-- **PCs**: Professional Cooperatives, 100% worker-owned FCLs for professionals.
-- **SWF**: Sovereign Wealth Fund, $550B (2025), scaling to $3.082T (2075).
-- **BWC**: Bulwark Coin, blockchain-based currency backed by 0.025 oz precious metals.
+- **SWF**: Sovereign Wealth Fund, $550B (2025), scaling to $1.5–2.0T (capped at 12% GDP per Monetary Act 9.1).
+- **BWC**: Bulwark Coin, blockchain-based currency backed by variable 25–50% metal reserves.
 - **Defense Compliance System**: $50M/year system tracking military readiness, cyber warfare, and equipment upgrades, using blockchain/AI audits.
 - **Governance Training Program**: $2B program training educators, administrative workers, government staff.
 - **Military Training Academy**: $100M/year program training defense personnel in cyber warfare, pilot, and naval skills.
@@ -203,7 +206,9 @@ This act establishes New Crossroads’ defense and intelligence framework, prior
 - **Military**: 100K active (60K regular, 10K elite infantry, 10K airborne, 20K support), 1M reserves, 9.1M militia, 25K CMIS (2025), scaling to 125K active, 50K CMIS (2075).
 - **Equipment**: 100 hypersonic cruise missiles (5–100 kt), 200 tactical nuclear shells (5–100 kt), 100 anti-satellite missiles, 8 submarines (112 ICBMs, 15–30 megatons), 20 cutters, 2 frigates, 40 SAR helicopters, 300 aircraft, 5K drones, 10 flying drone carriers, 80 multi-role helicopters, 2K APCs, 50 tanks, 200 howitzers, 60 SAM batteries, 400 EW units.
 - **Space**: 25 satellites (10 weather, 5 broadband, 10 military), 10–20 launches/year, $1B/year revenue.
-- **Funding**: $77.56B SWF chunk ($3.878B/region), $60B/year revenue ($3B/region), $920B Defense Fund.
-- **Economy**: $38.94T GDP (65% co-ops/$25.311T, 15% corporate/$5.841T, 20% informal/$7.788T) by 2075.
+- **Funding**: $77.56B SWF allocation ($3.878B/region), $60B/year revenue ($3B/region), $920B Defense Fund.
+- **Economy**: $38.94T GDP by 2075 (co-op dominant by design, no binding targets).
 
 ---
+
+**End of Draft 1.6**
