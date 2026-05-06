@@ -1,12 +1,12 @@
-# Crossroads Credit Union Act of 2025: Draft 5.0
+# Crossroads Credit Union Act of 2025: Draft 5.1
 
 **Posted to r/Bulwarkomics**
-**Draft**: 5.0 | **Date**: April 12, 2026
+**Draft**: 5.1 | **Date**: April 12, 2026
 **Author**: Thunderfish2
 
-> **Cross-reference**: This act is companion legislation to the *Crossroads Monetary Reform & Economic Stabilization Act of 2025 (Draft 9.0)*. All references to the Daily Living Basket (DLB), Deflation Adjustment Index (DAI), BWC Appreciation Rate (BAR), Informal Economy Guarantee, and Two-Layer Velocity Architecture are governed by that act. Where this act specifies loan rates, they are nominal rates; DAI adjustment is automatic and mandatory per Monetary Act Section 1.6.
+> **Cross-reference**: This act is companion legislation to the *Crossroads Monetary Reform & Economic Stabilization Act of 2025 (Draft 9.1)*. All references to the Daily Living Basket (DLB), Deflation Adjustment Index (DAI), BWC Appreciation Rate (BAR), Informal Economy Guarantee, and Two-Layer Velocity Architecture are governed by that act. Where this act specifies loan rates, they are nominal rates; DAI adjustment is automatic and mandatory per Monetary Act Section 1.6.
 >
-> **Amendment Note – Draft 5.0**: This draft introduces three major structural changes to enable lending growth while preserving sound money principles: (1) variable metal backing of BWC (25–50% range) with daily public ratio, (2) deposit insurance tied to credit union board voting participation, and (3) Regional Liquidity Pools (RLPs) and a Deposit Insurance Pool (DIP) as lender-of-last-resort and solvency backstops.
+> **Amendment Note – Draft 5.0** (prior): This draft introduced three major structural changes to enable lending growth while preserving sound money principles: (1) variable metal backing of BWC (25–50% range) with daily public ratio, (2) deposit insurance tied to credit union board voting participation, and (3) Regional Liquidity Pools (RLPs) and a Deposit Insurance Pool (DIP) as lender-of-last-resort and solvency backstops.
 
 ---
 
@@ -14,7 +14,9 @@
 
 Establishes a network of **5,000 member-owned credit unions** (250 per region across 20 regions) that act as New Crossroads' decentralized financial backbone. Credit unions issue and manage Bulwark Coin (BWC), deliver reserve-backed Wallets that grow the national metals reserve, provide DAI-adjusted loans ($452.5 billion in 2025 → $1.2084 trillion by 2075), banking suites ($208 billion), and shares ($94 billion), while allowing every citizen-member to build personal wealth through low-barrier entry, tiered incentives, and ETF-driven reserve growth.
 
-They self-recapitalize via fees, interest, SWF/SMSWF profits, and **the issuance of special shares (1–2 series per year, $12.5 billion per series)**, support the 65% co-op / 15% corporate / 20% informal GDP split, and ensure broad economic inclusion.
+They self-recapitalize via fees, interest, SWF/SMSWF profits, and **the issuance of special shares (1–2 series per year, $12.5 billion per series)** and ensure broad economic inclusion.
+
+**Sector loan allocation** is determined by creditworthiness and productive use, not binding quotas. The historical baseline (2025) was approximately 65% co-op, 15% corporate, 20% informal — but this is **descriptive, not prescriptive**. Loan data is reported for economic monitoring per the Monetary Act's Economic Health Dashboard. No automatic penalty or loan restriction applies to deviation from any specific split.
 
 The system is designed for **asymmetric scrutiny**: extreme transparency for large transactions and elite actors, complete privacy for ordinary daily transactions. Credit unions are the **formal economy's open door to the informal sector** — they exist to serve cash-based citizens on those citizens' terms, not to pull them into surveillance.
 
@@ -148,7 +150,7 @@ Violations of the Informal Sector Mandate are subject to Regional Board sanction
 - **Cost per series**: $1,000–$25,000/BWC per citizen (tiered)
 - **Dividends**: 6% for first 3 years, 5–6% thereafter (board-adjusted if inflation exceeds 3%)
 - **Withdrawals**: $500/BWC/year (1-year cooldown for $1,000/BWC withdrawal)
-- **Insurance**: Backed by the Deposit Insurance Pool (see Section 6.6)
+- **Insurance**: Backed by the Deposit Insurance Pool (see Section 6.5)
 
 **Voting Rights**: Non-voting except Gold tier's 0.5 advisory vote on $50 billion non-SWF loans.
 
@@ -206,25 +208,29 @@ Violations of the Informal Sector Mandate are subject to Regional Board sanction
 
 **All loan rates stated below are nominal rates. The DAI adjustment (Monetary Act Section 1.6) is applied automatically at origination. The DAI-adjusted effective rate = Nominal Rate − BAR (published each January by Treasury).**
 
-**DAI Floors (per Monetary Act 9.0)**:
+**DAI Floors (per Monetary Act 9.1)**:
 - Standard loans (co-op, corporate, non-SWF): 1.0% minimum effective rate
 - Service-sector loans (healthcare, education, infrastructure): **0.5% minimum effective rate**
 - Micro-loans and informal sector loans: **0.5% minimum effective rate**
 
+**Loan Allocation**: Credit unions lend based on creditworthiness and productive use. Loan data is reported by sector for economic monitoring via the Monetary Act's Economic Health Dashboard. No binding sector quotas apply.
+
+**Historical baseline (2025, descriptive only)**:
+- Co-op loans: ~$294.125 billion
+- Corporate loans: ~$67.875 billion
+- Informal sector loans: ~$90.5 billion
+
+These figures are **not binding targets**. The system is designed to foster a co-op dominant productive economy through incentives (per Monetary Act 9.1), not through mandatory loan allocation.
+
 | Loan Type | Nominal Rate | DAI-Adjusted Effective (approx. 2025) | Floor | Notes |
 |-----------|--------------|---------------------------------------|-------|-------|
-| Co-op loans (65%) | 5–6% | ~2.4–3.4% | 1.0% | $294.125 billion |
-| Corporate loans (15%) | 5–6% (if DAI elected) | ~2.4–3.4% | 1.0% | $67.875 billion; DAI optional for corporates |
-| Informal sector loans (20%) | 5–6% | ~2.4–3.4% | 0.5% | $90.5 billion; DAI mandatory |
+| Co-op loans | 5–6% | ~2.4–3.4% | 1.0% | DAI mandatory |
+| Corporate loans | 5–6% (if DAI elected) | ~2.4–3.4% | 1.0% | DAI optional for corporates |
+| Informal sector loans | 5–6% | ~2.4–3.4% | 0.5% | DAI mandatory |
 | Non-SWF loans | 5–6% | ~2.4–3.4% | 1.0% | $50 billion; small co-ops/informal |
 | Micro-loans | 4% | ~1.4% | 0.5% | $10 billion; $500 each; self-attested income |
 | Student venture loans | 5% | ~2.4% | 0.5% | $500; ages 12–15; lenient criteria |
 | **Service-sector loans** (healthcare, education, infrastructure) | 4–5% | ~1.4–2.4% | **0.5%** | Recognizes labor subsidy |
-
-**Total Loan Allocation**:
-- 65% co-op: $294.125 billion
-- 15% corporate: $67.875 billion
-- 20% informal: $90.5 billion
 
 **Asymmetric Scrutiny for Loans**:
 - Loans below $500,000: Streamlined approval, minimal documentation, issued by CLS agents within 48 hours
@@ -246,7 +252,12 @@ Violations of the Informal Sector Mandate are subject to Regional Board sanction
 - **Officers**: 60,000 (3,000/region)
 - **Structure**: 48,000 agents ($75,000/year + $12,000 stipend + 3% shares), 11,800 seniors ($120,000/year), 200 regional ($200,000/year)
 - **Academy**: $1.5375 billion/year training at Crossroads City + New Tech City campus. Curriculum includes: loan management, student venture mentorship, bankruptcy recovery, **informal sector engagement, DAI rate application (including 0.5% service-sector floor), DLB threshold tracking, backing ratio education, and Informal Economy Guarantee compliance.**
-- **Functions**: Manage $452.5 billion DAI-adjusted loans, issue $500 student venture loans (ages 12–15, lenient criteria, mentorship for successful ventures), support bankruptcy recovery, ensure 65/15/20 GDP split, serve as the primary point of contact between the formal credit system and informal sector participants.
+- **Functions**: Manage $452.5 billion DAI-adjusted loans, issue $500 student venture loans (ages 12–15, lenient criteria, mentorship for successful ventures), support bankruptcy recovery, **monitor economic health indicators per the Monetary Act's Economic Health Dashboard**, serve as the primary point of contact between the formal credit system and informal sector participants.
+
+**Sector Health Monitoring**:
+- CLS compiles and reports aggregate loan data by sector for the Economic Health Dashboard (per Monetary Act Section 1.4).
+- If co-op GDP falls below 45% for three consecutive years, the Monetary Act's soft trigger initiates a Co-op Sector Review. CLS provides data to that review but takes no independent action.
+- No loan approval or denial is conditioned on sector GDP shares.
 
 **Informal Sector Engagement**:
 - CLS agents are trained and performance-evaluated on informal sector access metrics: micro-loan processing time (target: 24 hours), micro-loan approval rate for self-attested applicants, and member satisfaction among Base tier members.
@@ -274,11 +285,11 @@ Violations of the Informal Sector Mandate are subject to Regional Board sanction
 
 ### 6.2 Special Shares Oversight
 
-- Each special shares series requires Regional Board approval (6/11 vote) to ensure compliance with the 65/15/20 GDP split and prevent market saturation or manipulation.
+- Each special shares series requires Regional Board approval (6/11 vote) to prevent market saturation or manipulation.
 - Series are tracked via CWD at the aggregate level. Individual purchases are private below $10,000 BWC.
 - The CUSM (Section 3.3) is reported to Regional Boards quarterly in aggregate volume terms only.
 
-### 6.3 Deposit Insurance & Voting Requirement (New)
+### 6.3 Deposit Insurance & Voting Requirement
 
 **Rationale**: Deposit insurance is a mutual benefit of the credit union system. To receive it, members must participate in governance. This ties rights to responsibilities without excluding anyone from basic banking.
 
@@ -308,7 +319,7 @@ Violations of the Informal Sector Mandate are subject to Regional Board sanction
 - Credit unions check voting records automatically via CWD aggregate data (no individual vote disclosure – only a binary "qualified/not qualified" flag).
 - Members may appeal a coverage determination to the Regional Board.
 
-### 6.4 Regional Liquidity Pools (RLPs) — Lender of Last Resort (New)
+### 6.4 Regional Liquidity Pools (RLPs) — Lender of Last Resort
 
 **Rationale**: Credit unions need a lender of last resort, but not a central bank. RLPs are mutual liquidity backstops owned collectively by the credit unions in each region.
 
@@ -342,7 +353,7 @@ A credit union may draw from its regional RLP if:
 - SWF activation requires **5 Regional Boards jointly certifying an emergency** (5/20 vote).
 - SWF loans carry interest at BAR + 2% and require Central Council approval (6/11).
 
-### 6.5 Deposit Insurance Pool (DIP) — Solvency Backstop (New)
+### 6.5 Deposit Insurance Pool (DIP) — Solvency Backstop
 
 **Rationale**: The RLP handles *liquidity* (short-term cash flow). The DIP handles *solvency* (pays depositors if a credit union fails entirely).
 
@@ -376,7 +387,7 @@ A credit union may draw from its regional RLP if:
 | **Institutional** | Credit unions above $10M revenue | Full transparency | Public annual reports; Regional Board audit |
 
 - **Treasury**: Oversees BWC reserve, $550 billion SWF, $125–$175 billion reserve ETF. Publishes BAR, DAI rate table, and **daily system-wide BWC backing ratio** each morning (including the 0.5% service-sector floor). Provides DLB threshold update to all credit unions by January 15 each year.
-- **CWD**: Tracks CLS performance, FCL metrics, aggregate loan data, RLP/DIP aggregate health, and CUSM volume. **Cash transaction data is never collected. Citizen-level BWC data under $10,000 is permanently deleted after 30 days.** Audited by 50–75 auditors + $1 billion blockchain/AI system; fraud cap $2.5 billion; appeals to judiciary.
+- **CWD**: Tracks CLS performance, FCL metrics, aggregate loan data (including sector shares for the Economic Health Dashboard), RLP/DIP aggregate health, and CUSM volume. **Cash transaction data is never collected. Citizen-level BWC data under $10,000 is permanently deleted after 30 days.** Audited by 50–75 auditors + $1 billion blockchain/AI system; fraud cap $2.5 billion; appeals to judiciary.
 - **Regional Boards**: 20 boards (11 members each) approve special shares series, major loans, FCL opt-ins, and RLP/DIP operations. Investigate Informal Sector Mandate violations. Annual public reporting on informal sector access metrics and RLP/DIP solvency ratios across all credit unions in their region.
 - **Auditors**: 50–75 system auditors. Audit scope explicitly excludes individual cash transaction data — auditors may not request, subpoena, or receive cash transaction records from credit unions or members.
 
@@ -410,9 +421,8 @@ A credit union may draw from its regional RLP if:
 | DLB Threshold (base) | $100 BWC (2025) | Adjusted annually each January |
 | CLS Officers | 60,000 | — |
 | Micro-loans | $10 billion ($500 each) | — |
-| Informal Sector Loan Allocation | $90.5 billion (20%) | Scales with loan growth |
 | Revenue (credit union network) | $107.6185 billion/year | — |
-| FCLs (for reference, per Monetary Act 9.0) | **195,100** | — |
+| FCLs (for reference, per Monetary Act 9.1) | **195,100** | — |
 | **Deposit Insurance Coverage (voting members)** | **$250,000 BWC** | **Inflation-adjusted via DLB** |
 | **Deposit Insurance Coverage (non-voting)** | **$50,000 BWC** | **Inflation-adjusted via DLB** |
 | **Regional Liquidity Pool target** | **5–10% of regional deposits** | **5–10% of regional deposits** |
@@ -474,21 +484,16 @@ CLS agents must apply the DAI-adjusted rate at origination. All loan contracts r
 
 ---
 
-## Summary of Changes (Draft 4.0 → 5.0)
+## Summary of Changes (Draft 5.0 → 5.1)
 
 | Section | Change | Rationale |
 |---------|--------|-----------|
-| **Cross-reference header** | Updated to Monetary Act 9.0 (new backing ratio) | Reflects variable backing regime |
-| **1.1 BWC** | Changed from 100%+ over-backed to **variable 25–50% metal backing** with daily public ratio; added 40% trigger for Central Council review | Enables lending growth while preserving hard backing and transparency |
-| **3.2 Special Shares** | Removed fixed $50M insurance pool reference; replaced with DIP backing | Integrates new solvency backstop |
-| **6.3 (new)** | **Deposit Insurance & Voting Requirement**: $250k coverage if voted in 1 of last 3 elections; $50k if not; exemptions for illness, deployment, absence | Ties rights to participation without exclusion |
-| **6.4 (new)** | **Regional Liquidity Pools (RLPs)**: 2% of deposits annually + 20% of patronage (half to RLP); borrowing at BAR+1%; SWF as ultimate backstop (5-region vote) | Lender of last resort without central bank |
-| **6.5 (new)** | **Deposit Insurance Pool (DIP)**: Nested inside RLP; funded by 10% of patronage + 0.1% on BWC txs >$10k; pays up to $250k/$50k on insolvency; SWF reinsurance if DIP <2% of insured deposits | Solvency backstop distinct from liquidity |
-| **6.6 (Oversight)** | Added RLP/DIP aggregate health to CWD tracking; added daily backing ratio publication by Treasury | Transparency for new mechanisms |
-| **Appendix A** | Added rows for backing ratio (50% normal, 25% min), deposit insurance limits, RLP target | Complete stats |
-| **Appendix C (new)** | RLP & DIP Quick Reference table | Operational clarity for agents and managers |
-| **Appendix D (formerly C)** | DAI Quick Reference – renumbered | — |
-| **Throughout** | Changed all references from Draft 4.0 to 5.0 | Version tracking |
+| **Cross-reference header** | Updated to Monetary Act 9.1 | Reflects removal of GDP targets |
+| **Purpose** | Removed "support the 65/15/20 GDP split"; added descriptive baseline language; removed binding quotas | Aligns with Monetary Act 9.1's shift from command to incentives |
+| **Section 4.2** | Removed fixed percentage allocation (65/15/20) from loan table; replaced with descriptive baseline and "not binding targets" | Credit unions lend based on creditworthiness, not quotas |
+| **Section 5** | Changed CLS function from "ensure 65/15/20 GDP split" to "monitor economic health indicators per the Economic Health Dashboard" | CLS reports data; soft trigger governed by Monetary Act |
+| **Appendix A** | Removed fixed percentage rows | Clean stats |
+| **Throughout** | Updated all references from Draft 5.0 to 5.1 | Version tracking |
 
 ---
 
@@ -496,20 +501,22 @@ CLS agents must apply the DAI-adjusted rate at origination. All loan contracts r
 
 The Credit Union Act is the operational heart of the Informal Economy Guarantee. Where the Monetary Act declares privacy, the Credit Union Act delivers it.
 
-**Draft 5.0 adds three new pillars** without breaking any existing ones:
+**Draft 5.1 aligns with Monetary Act 9.1's core shift**: from command targets to incentive-based cooperative dominance. The 65/15/20 split is no longer a mandate. It is a historical baseline — useful for monitoring, not enforcement. Credit unions lend to productive enterprises regardless of sector. The co-op advantage comes from tax policy (5% profit tax vs. 15–20% for corporations), governance (worker boards, long-term voting multipliers), and cultural normalization — not from loan rationing.
 
-1. **Variable backing (25–50% metal)** – This is not fiat. It is *transparent, mutualized sound money*. The remaining 50–75% is backed not by government decree but by the collective capital of 5,000 credit unions, the Deposit Insurance Pool, and the SWF. And you can see the ratio every morning on your wallet. That is more honest than a gold standard that pretends leverage doesn't exist.
+**The three structural pillars from Draft 5.0 remain**:
+
+1. **Variable backing (25–50% metal)** – This is not fiat. It is *transparent, mutualized sound money*. The remaining 50–75% is backed not by government decree but by the collective capital of 5,000 credit unions, the Deposit Insurance Pool, and the SWF. And you can see the ratio every morning on your wallet.
 
 2. **Voting-linked deposit insurance** – Insurance is a mutual benefit. Mutual benefits require mutual participation. If you want the full $250k backstop, vote. If you cannot vote (illness, deployment), no penalty. If you choose not to vote, you are still protected up to $50k – enough for any informal saver, but a gentle nudge toward civic engagement.
 
-3. **Regional Liquidity Pools + Deposit Insurance Pool** – The anti-fiat position correctly rejects central banks. But rejecting lender-of-last-resort entirely means accepting that a single bad harvest or a single co-op failure could freeze lending in an entire region. RLPs are *mutual*, not state. They are funded by the credit unions themselves, not by taxes. The SWF is a backstop to the backstop – accessible only when five regions agree, which will almost never happen. That preserves the anti-debt, anti-bailout ethos while adding resilience.
+3. **Regional Liquidity Pools + Deposit Insurance Pool** – RLPs are *mutual*, not state. They are funded by the credit unions themselves, not by taxes. The SWF is a backstop to the backstop – accessible only when five regions agree, which will almost never happen. That preserves the anti-debt, anti-bailout ethos while adding resilience.
 
 **The informal sector remains untouched.** No RLP contribution is asked of cash-only citizens. No voting requirement applies to those who hold only cash. The micro-loan takes 24 hours. The swap is free. The state still never asks what you spent your cash on.
 
-**The door is open. The system is resilient. And the elite still have nowhere to hide.**
+**The door is open. The system is resilient. Co-ops lead by incentive, not mandate. And the elite still have nowhere to hide.**
 
-That is the Credit Union Act – Draft 5.0.
+That is the Credit Union Act – Draft 5.1.
 
 ---
 
-**End of Draft 5.0**
+**End of Draft 5.1**
