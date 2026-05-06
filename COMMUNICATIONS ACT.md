@@ -1,10 +1,11 @@
-# Crossroads Communications and Media Infrastructure Act of 2025: Draft 4.0
+# Crossroads Communications and Media Infrastructure Act of 2025: Draft 4.1
 
 **Posted to r/Bulwarkomics**
-**Draft**: 4.0 | **Date**: April 11, 2026
+**Draft**: 4.1 | **Date**: April 12, 2026
 **Author**: Thunderfish2
 
-> **Cross-reference**: This act is companion legislation to the *Crossroads Monetary Reform & Economic Stabilization Act of 2025 (Draft 8.0)*, *Crossroads Credit Union Act of 2025 (Draft 4.0)*, *Crossroads Federated Cooperatives Limited (FCL) Structure Act of 2025 (Draft 3.0)*, *Crossroads Energy Act of 2025 (Draft 3.0)*, *Crossroads Utilities Act of 2025 (Draft 1.0)*, and *Crossroads Infrastructure Act of 2025 (Draft 1.0)*. The asset/operator separation model follows the same pattern as the Infrastructure Act's cooperative rail system (state owns tracks, co-ops/corps run trains) and the Utilities Act (state owns power lines, utilities generate/sell power).
+> **Cross-reference**: This act is companion legislation to the *Crossroads Monetary Reform & Economic Stabilization Act of 2025 (Draft 9.1)*, *Crossroads Credit Union Act of 2025 (Draft 5.1)*, *Crossroads Federated Cooperatives Limited (FCL) Structure Act of 2025 (Draft 3.0)*, *Crossroads Energy Act of 2025 (Draft 3.0)*, *Crossroads Utilities Act of 2025 (Draft 1.0)*, and *Crossroads Infrastructure Act of 2025 (Draft 1.0)*. The asset/operator separation model follows the same pattern as the Infrastructure Act's cooperative rail system (state owns tracks, co-ops/corps run trains) and the Utilities Act (state owns power lines, utilities generate/sell power).
+>
 
 ---
 
@@ -16,7 +17,7 @@ The state owns and maintains the physical communications infrastructure (buried 
 
 This model prevents natural monopoly capture, ensures CME hardening is centralized and effective, generates steady revenue for the Sovereign Wealth Fund (SWF), and allows co-ops to enter the communications market without billions in capital investment.
 
-The act also establishes **co-op media ownership** (65% of radio and TV stations), **local content mandates** (55% local), **AM radio resilience** (EMP-hardened, in all vehicles by 2035), and **net-neutral mesh network** with open access for all providers.
+The act also establishes **co-op media preferences** (licenses issued preferentially to co-ops), **local content mandates** (55% local), **AM radio resilience** (EMP-hardened, in all vehicles by 2035), and **net-neutral mesh network** with open access for all providers. The system is designed to foster a co-op dominant media landscape through incentives, not binding quotas.
 
 ---
 
@@ -27,8 +28,8 @@ The **Communications Act** integrates with the **Energy Act**, **Infrastructure 
 - **Energy Act**: Provides the 400 TWh grid (scaling to 1,633 TWh by 2075) and CME hardening (buried lines, EMP-shielded substations) that power communications infrastructure. Antifragile energy hubs (36 GW SMRs) ensure 99.9% uptime for broadcast and mesh nodes.
 - **Utilities Act**: The asset/operator separation model (state owns power lines, utilities generate/sell power) is directly replicated (state owns fiber and towers, ISPs and media companies compete).
 - **Infrastructure Act**: Buried fiber follows the same specifications as buried transmission lines (CME-proof). Rail, ports, and airports distribute communications equipment.
-- **Monetary Act**: Infrastructure access fees are paid in BWC, flow to SWF, and are subject to standard BWC transaction fees. Co-op media companies pay the 5% co-op profit tax on profits over $100,000.
-- **Credit Union Act**: Media co-ops access loans ($50,000–$5M, 5–6% nominal, DAI-adjusted with 1.0% floor) for studio equipment, transmitters, and mesh node deployment. Micro-loans ($500, 0.5% DAI floor) for community radio startups.
+- **Monetary Act 9.1**: Infrastructure access fees are paid in BWC, flow to SWF, and are subject to standard BWC transaction fees. Co-op media companies pay the 5% co-op profit tax on profits over $100,000. No binding sector quotas apply.
+- **Credit Union Act 5.1**: Media co-ops access loans ($50,000–$5M, 5–6% nominal, DAI-adjusted with 1.0% floor) for studio equipment, transmitters, and mesh node deployment. Micro-loans ($500, 0.5% DAI floor) for community radio startups.
 - **FCL Act**: Media co-ops operate as Tier 2 or Tier 3 FCLs. Co-op clubs (27,600) support local content creation. CCIF (voluntary) may fund media co-op expansion.
 
 ---
@@ -66,12 +67,12 @@ These assets are funded by the SWF ($15 billion allocation) and maintained by th
 
 | Asset | Owner | License required | Notes |
 |-------|-------|------------------|-------|
-| Radio and TV stations (content creation) | Co-op or Corporate | Yes (Regional Board) | 65% co-op ownership target |
+| Radio and TV stations (content creation) | Co-op or Corporate | Yes (Regional Board) | Licenses issued with preference for co-ops |
 | ISP customer equipment and billing | Co-op or Corporate | Yes (Regional Board) | Competitive market |
 | Local mesh node extensions | Co-op or Corporate | Yes (Regional Board) | Must connect to state backbone |
 | Content (news, entertainment, local programming) | Co-op or Corporate | No (protected speech) | 55% local content mandate |
 
-**Co-op Preference**: Broadcast licenses are issued preferentially to co-ops (65% of stations reserved for co-ops). Corporations may apply for the remaining 35%. This maintains the 65% co-op GDP target from the Monetary Act.
+**Co-op Preference**: Broadcast licenses are issued preferentially to co-ops. If a co-op applies for a license and meets all requirements, the license shall be granted before any corporate application for the same market is considered. This preference is structural (co-ops get first right of refusal), not a binding quota. The 65% co-op share of broadcast stations in 2025 (3,250 of 5,000 radio, 1,300 of 2,000 TV) is a **descriptive baseline**, not an enforcement target.
 
 ---
 
@@ -103,7 +104,7 @@ Service providers pay the NEB or Regional Boards for access to state-owned commu
 | Allocation | 2025 ($M) | 2075 ($M) | Notes |
 |------------|-----------|-----------|-------|
 | Infrastructure maintenance and hardening | 55 | 110 | 50% of revenue |
-| SWF (per Monetary Act 8.0) | 33 | 66 | 30% of revenue |
+| SWF (per Monetary Act 9.1) | 33 | 66 | 30% of revenue |
 | Rural communications fund (subsidizes remote areas) | 22 | 44 | 20% of revenue |
 | **Total** | **110** | **220** | |
 
@@ -148,12 +149,14 @@ The rural communications fund ensures 95% rural reach (26.6 million of 28 millio
 
 ## Section 4: Co-operative Media Ownership
 
-### 4.1 Ownership Targets
+### 4.1 Ownership Preferences
 
-| Medium | Total stations | Co-op target (65%) | Corporate (35%) | Cap per entity |
-|--------|----------------|--------------------|-----------------|----------------|
-| Radio | 5,000 | 3,250 | 1,750 | 50 stations |
-| TV | 2,000 | 1,300 | 700 | 75 stations |
+| Medium | Total stations | Co-op share (2025 baseline) | Notes |
+|--------|----------------|----------------------------|-------|
+| Radio | 5,000 | ~3,250 (65% descriptive baseline) | Licenses issued with co-op preference |
+| TV | 2,000 | ~1,300 (65% descriptive baseline) | Licenses issued with co-op preference |
+
+**Co-op Preference Rule**: When multiple applicants seek a broadcast license in a market, co-op applicants receive priority if they meet all technical and content requirements. If no qualified co-op applies, the license may be issued to a corporate applicant. There is no binding quota — the 65% figure is a historical baseline, not an enforcement target.
 
 ### 4.2 Investment Caps (2025 prices)
 
@@ -234,7 +237,7 @@ All loans are DAI-adjusted per Monetary Act Section 1.6. Co-op media loans quali
 |------------|----------------------|---------------------------|
 | Tower lease fee | 80% of corporate rate | 100% of rate |
 | Mesh node access fee | 80% of corporate rate | 100% of rate |
-| Broadcast license reservation | 65% of stations | 35% of stations |
+| Broadcast license priority | First right of refusal | Apply only if no co-op qualified |
 | Rural credit access | 0% interest | 5–6% interest |
 | CCIF access | Full (voluntary) | Limited (Co-op Department approval) |
 | CME emergency broadcast priority | Tier 1 (after state alerts) | Tier 2 |
@@ -257,13 +260,13 @@ A Tier 2 FCL in Region 3 (Frostpeak Mountains) wants to start a community radio 
 | Step | Action | Cost | Financing |
 |------|--------|------|-----------|
 | 1 | Form media co-op (under FCL Act) | $1,000 | Member base shares |
-| 2 | Obtain broadcast license from Regional Board | $5,000/year | Operating budget |
+| 2 | Obtain broadcast license from Regional Board (co-op priority) | $5,000/year | Operating budget |
 | 3 | Lease state-owned tower | $8,000/year (80% of $10,000) | Operating budget |
 | 4 | Build studio and transmitter | $500,000 | Rural credit (0% interest, 20 years) |
 | 5 | Produce local content (55% mandate) | $200,000/year | Advertising + patronage |
 | 6 | Connect to mesh backbone for simulcast | $100/node/year (80% of $125) | Operating budget |
 
-The co-op pays 20% less for tower and mesh access, qualifies for 0% rural credit, and has priority for emergency broadcast during CMEs.
+The co-op pays 20% less for tower and mesh access, qualifies for 0% rural credit, has license priority, and has priority for emergency broadcast during CMEs.
 
 ---
 
@@ -311,7 +314,7 @@ Per Energy Act Section 2, the NEB (11 members) now also:
 ### 8.2 Regional Boards — Media and ISP Oversight
 
 Per Government Act, 20 Regional Boards (11 members each):
-- Issue broadcast and ISP licenses in their region
+- Issue broadcast and ISP licenses in their region (with co-op preference)
 - Enforce local content mandate (55%)
 - Manage rural communications fund (20% of access fees)
 - Investigate complaints (including anonymous informal sector complaints)
@@ -331,7 +334,7 @@ The Crossroads Loan Service (CLS) manages communications loans:
 
 CLS agents receive specialized training at CLS Academy (Regions 1, 6) in media finance, broadcast licensing, and CME emergency procedures.
 
-### 8.4 Asymmetric Scrutiny (per Monetary Act)
+### 8.4 Asymmetric Scrutiny (per Monetary Act 9.1)
 
 | Level | Transaction type | CWD tracking | Reporting |
 |-------|-----------------|--------------|-----------|
@@ -355,7 +358,7 @@ CLS agents receive specialized training at CLS Academy (Regions 1, 6) in media f
 | Harden 50,000 km buried fiber (per Energy Act) | 2025–2035 | $5B (shared) | NEB |
 | Mandate AM radio in all vehicles | 2025–2035 | $5B | Manufacturers |
 | Deploy 50,000 mesh nodes | 2025–2035 | $1B | NEB + co-ops |
-| Issue first broadcast licenses (65% co-op) | 2026 | $1M | Regional Boards |
+| Issue first broadcast licenses (co-op preference) | 2026 | $1M | Regional Boards |
 | Achieve 90% rural reach | 2035 | Included above | Regional Boards |
 
 **Revenue by 2035**: $150M/year (access fees)
@@ -393,9 +396,9 @@ CLS agents receive specialized training at CLS Academy (Regions 1, 6) in media f
 | Rural reach | 90% (25.2M) | 95% (26.6M) |
 | Digital users | 59% (66M) | 55% (66M) |
 | Radio stations (total) | 5,000 | 5,000 |
-| Co-op radio stations (65%) | 3,250 | 3,250 |
+| Co-op radio stations (2025 baseline) | ~3,250 (65% descriptive) | No binding target |
 | TV stations (total) | 2,000 | 2,000 |
-| Co-op TV stations (65%) | 1,300 | 1,300 |
+| Co-op TV stations (2025 baseline) | ~1,300 (65% descriptive) | No binding target |
 | Core FCLs (per FCL Act) | 195,100 | Scales with population |
 | Co-op clubs (recreation) | 27,600 | 30,000 |
 | Local content value | $19.25B | $50B |
@@ -404,7 +407,7 @@ CLS agents receive specialized training at CLS Academy (Regions 1, 6) in media f
 | Mesh network nodes | 50,000 | 100,000 |
 | AM emergency transmitters | 2,000 | 2,000 |
 | Infrastructure access fee revenue | $110M/year | $220M/year |
-| Co-op share of broadcast licenses | 65% | 65% |
+| Co-op preference for broadcast licenses | First right of refusal | First right of refusal |
 | Local content mandate | 55% | 55% |
 
 ---
@@ -418,7 +421,7 @@ CLS agents receive specialized training at CLS Academy (Regions 1, 6) in media f
 | Operator | Train companies | ISPs, broadcasters, media co-ops |
 | Access fee | No tolls (cooperative maintains) | $/Mbps, $/tower/year, $/node/year |
 | Fee recovery target | 100% of maintenance | 155% of hardening + maintenance |
-| Co-op preference | 30% track ownership | 65% broadcast licenses, 20% fee discount |
+| Co-op preference | 30% track ownership | License priority, 20% fee discount |
 | CME hardening | Not applicable | Buried fiber, EMP-shielded transmitters |
 | Rural reach | 100% (rail connects all regions) | 95% (mesh + AM radio) |
 
@@ -432,7 +435,7 @@ CLS agents receive specialized training at CLS Academy (Regions 1, 6) in media f
 | Asset type | Transmission lines, substations | Fiber backbone, towers, mesh nodes |
 | Access fee | $/MWh | $/Mbps, $/tower, $/node |
 | Co-op discount | 20% on transmission fee | 20% on tower and node fees |
-| Co-op license reservation | 65% of generation capacity | 65% of broadcast licenses |
+| Co-op license preference | 65% of generation capacity (descriptive) | License priority (first right of refusal) |
 | CME hardening | Buried lines, EMP shields | Buried fiber, EMP-shielded transmitters |
 | Consumer protection | Price caps, no disconnection | Net neutrality, local content mandate |
 
@@ -465,34 +468,22 @@ CLS agents receive specialized training at CLS Academy (Regions 1, 6) in media f
 
 ---
 
-## Summary of Changes (Draft 3.9 → 4.0)
+## Summary of Changes (Draft 4.0 → 4.1)
 
 | Section | Change | Rationale |
 |---------|--------|-----------|
-| **Cross-reference header** | Updated to reference Monetary Act 8.0, FCL Act 3.0, Utilities Act 1.0 | Legislative consistency |
-| **Purpose** | Added asset/operator separation language; removed $290B co-op recharge reference | Harmonized with Monetary Act 8.0 |
-| **Section 1.1** | New: Asset/Operator Separation (table comparing rail, utilities, communications) | Follows same pattern as Infrastructure and Utilities Acts |
-| **Section 1.2** | Updated state-owned assets to match FCL count (195,100 core + 27,600 clubs) | Corrected from 27,100 FCLs |
-| **Section 1.3** | Added co-op preference (65% broadcast licenses) | Matches Monetary Act 65% co-op GDP target |
-| **Section 2.1** | Added infrastructure access fees (like rail and utilities) | Generates revenue for SWF and rural fund |
-| **Section 2.2** | Added co-op discount (20%) | Consistent with Utilities Act |
-| **Section 2.3** | Added rural communications fund (20% of fees) | Ensures 95% rural reach |
-| **Section 3** | AM radio resilience (unchanged) | Already well-designed |
-| **Section 4** | Updated co-op media ownership to 65% (from 3,250/5,000 stations) | Clarified percentage |
-| **Section 4.5** | Added DAI floor (1.0% for media loans) | Harmonized with Monetary Act 8.0 |
-| **Section 5** | Rewrote mesh network as asset/operator separation (state backbone + co-op nodes + ISP competition) | Follows rail/utilities pattern |
-| **Section 5.2** | Added net neutrality requirements | Essential for open access |
-| **Section 6** | New: Co-op Advantages in Communications (fees, licenses, rural credits) | Consistent with Utilities Act |
-| **Section 6.3** | Added rural radio co-op example | Practical illustration |
-| **Section 7** | CME resilience (updated to reference Energy Act) | Harmonized |
-| **Section 8.4** | Added cash payments for media services (Informal Economy Guarantee) | Per Monetary Act Section 1A |
-| **Section 10** | Updated key stats (FCL count, revenue, etc.) | Reflects all changes |
-| **Appendix A** | New: Comparison to Rail Model | Shows pattern consistency |
-| **Appendix B** | New: Comparison to Utilities Act | Shows pattern consistency |
-| **Appendix C** | New: Sample Media Co-op Financials | Practical illustration |
-| **Throughout** | Removed all "$290B co-op recharge" references | Eliminated per Monetary Act 8.0 |
-| **Throughout** | Updated FCL count to 195,100 core + 27,600 clubs = 222,700 total | Corrected from 27,100 |
-| **Throughout** | Removed all "a€" and formatting artifacts | Clean text |
+| **Cross-reference header** | Added amendment note; updated Monetary Act to 9.1 | Reflects new incentive-based framework |
+| **Purpose** | Removed "65% co-op GDP target"; changed to "co-op preferences" and "incentives, not quotas" | Aligns with Monetary Act 9.1 |
+| **Section 0** | Updated Monetary Act to 9.1, Credit Union Act to 5.1; removed "65% co-op GDP target" | Cross-reference consistency |
+| **Section 1.3** | Changed "65% co-op ownership target" to "descriptive baseline" and "license priority (first right of refusal)" | No binding quota |
+| **Section 2.3** | Updated SWF reference to Monetary Act 9.1 | Version consistency |
+| **Section 4.1** | Changed "Co-op target (65%)" to "Co-op share (2025 baseline)" with explanatory note | Descriptive, not prescriptive |
+| **Section 4.1** | Added Co-op Preference Rule (first right of refusal, no binding quota) | Structural preference without command |
+| **Section 6.1** | Changed "Broadcast license reservation (65%)" to "Broadcast license priority (first right of refusal)" | Aligns with new approach |
+| **Section 8.4** | Updated Monetary Act reference to 9.1 | Version consistency |
+| **Section 10** | Changed co-op station rows from "3,250 (65%)" to "~3,250 (65% descriptive)" and "No binding target" | Honest about framework |
+| **Appendix B** | Changed "65% of generation capacity" to "descriptive" | Consistency across acts |
+| **Design Philosophy** | Removed "65% co-op GDP target" and "not a subsidy" language; replaced with "preferences, not quotas" | Aligns with Monetary Act 9.1 |
 
 ---
 
@@ -518,11 +509,12 @@ The Communications Act completes the asset/operator separation pattern that bega
 - 155% cost recovery matches the freeway and transmission models
 - Co-op discount (20%) gives co-ops a structural advantage without a subsidy
 
-**Why 65% co-op media ownership?**
-- Matches Monetary Act 65% co-op GDP target
-- Prevents corporate consolidation of news and culture
-- Co-ops are more likely to produce local content (55% mandate)
-- Not a subsidy — co-ops compete on equal terms but get first right of refusal
+**Why co-op media preferences (not quotas)?**
+- The 65% figure from 2025 is a descriptive baseline, not a binding target
+- Co-ops receive first right of refusal for broadcast licenses
+- If no co-op applies, a corporation may take the license
+- This preserves competition while tilting the field toward cooperation
+- No automatic penalty if co-op share falls — just monitoring per Monetary Act's soft trigger
 
 **Why net neutrality and open access?**
 - The state owns the pipes; it cannot favor certain content
@@ -538,10 +530,10 @@ The Communications Act completes the asset/operator separation pattern that bega
 
 The Communications Act is not privatization. It is not nationalization. It is **asset-state, operations-market** — the same pattern that makes New Crossroads' rail system the envy of the continent and its grid the most resilient on Earth.
 
-The state owns the fiber and towers. Co-ops and corporations compete to inform and connect citizens. And everyone, everywhere, has access — in cash, in BWC, in CMEs, and in daily life.
+The state owns the fiber and towers. Co-ops and corporations compete to inform and connect citizens. Co-ops get first right of refusal and fee discounts. And everyone, everywhere, has access — in cash, in BWC, in CMEs, and in daily life.
 
 That is the Communications Act.
 
 ---
 
-**End of Draft 4.0**
+**End of Draft 4.1**
