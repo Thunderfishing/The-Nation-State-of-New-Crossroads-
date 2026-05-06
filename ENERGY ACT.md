@@ -1,16 +1,19 @@
-# New Crossroads Energy Act of 2025: Draft 4.0
+# New Crossroads Energy Act of 2025: Draft 4.1
 
 **Posted to r/Bulwarkomics**
-**Draft**: 4.0 | **Date**: April 11, 2026
+**Draft**: 4.1 | **Date**: April 12, 2026
 **Author**: Thunderfish2
 
-> **Cross-reference**: This act is companion legislation to the *Crossroads Monetary Reform & Economic Stabilization Act of 2025 (Draft 8.0)*, *Crossroads Credit Union Act of 2025 (Draft 4.0)*, *Crossroads Federated Cooperatives Limited (FCL) Structure Act of 2025 (Draft 3.0)*, *Crossroads Utilities Act of 2025 (Draft 1.0)*, *Crossroads Infrastructure Act of 2025 (Draft 1.0)*, and *Crossroads Communications and Media Infrastructure Act of 2025 (Draft 4.0)*. The asset/operator separation model follows the same pattern as the Utilities Act (state owns transmission/distribution, co-ops/corporations compete on generation).
+> **Cross-reference**: This act is companion legislation to the *Crossroads Monetary Reform & Economic Stabilization Act of 2025 (Draft 9.1)*, *Crossroads Credit Union Act of 2025 (Draft 5.1)*, *Crossroads Federated Cooperatives Limited (FCL) Structure Act of 2025 (Draft 3.0)*, *Crossroads Utilities Act of 2025 (Draft 1.0)*, *Crossroads Infrastructure Act of 2025 (Draft 2.2)*, and *Crossroads Communications and Media Infrastructure Act of 2025 (Draft 4.1)*. The asset/operator separation model follows the same pattern as the Utilities Act (state owns transmission/distribution, co-ops/corporations compete on generation).
+>
 
 ---
 
 ## Purpose
 
-The **New Crossroads Energy Act of 2025 (Draft 4.0)** establishes New Crossroads' energy framework, post-2025 revolution, serving 112 million citizens (94M Corporate Citizens) with a $14.5T GDP (65% co-ops/$9.425T, 15% corporate/$2.175T, 20% informal/$2.9T). It delivers a **CME-proof 400 TWh grid** (65% nuclear, 20% coal-geothermal, 10% hydro, 5% renewables), hardened with **30,000 km buried transmission lines**, **150,000 km buried distribution lines**, **750 EMP-shielded substations**, and a **5,000-transformer reserve** by 2075.
+The **New Crossroads Energy Act of 2025 (Draft 4.1)** establishes New Crossroads' energy framework, post-2025 revolution, serving 112 million citizens (94M Corporate Citizens) with a $14.5T GDP (2025 baseline: 65% co-ops/$9.425T, 15% corporate/$2.175T, 20% informal/$2.9T). The system is designed to foster a **co-op dominant energy sector through incentives**, while supporting a dynamic corporate generation market.
+
+It delivers a **CME-proof 400 TWh grid** (65% nuclear, 20% coal-geothermal, 10% hydro, 5% renewables), hardened with **30,000 km buried transmission lines**, **150,000 km buried distribution lines**, **750 EMP-shielded substations**, and a **5,000-transformer reserve** by 2075.
 
 The grid powers **antifragile energy hubs** at international and regional airports, integrating SMRs, hospitals, and sewer treatment/purification plants, with cargo airports in Crossroads City (Region 1) and Rivergate City (Region 2) supporting multimodal logistics.
 
@@ -19,7 +22,9 @@ The grid powers **antifragile energy hubs** at international and regional airpor
 - **Co-ops and corporations compete on**: Generation (new SMRs, geothermal, solar, wind, hydro, WTE) and retail electricity sales
 - **Access fees**: Utilities pay $/MWh transmission access fees for use of state-owned grid (155% cost recovery, 30% to SWF)
 
-The act scales to **1,633 TWh** by 2075, supporting 130M citizens and a $38.94T GDP, with infrastructure funded by the SWF (per Monetary Act 8.0) and generation funded by private investment (co-ops and corporations). Managed by the **National Energy Board (NEB)** under Central Council oversight.
+The act scales to **1,633 TWh** by 2075, supporting 130M citizens and a $38.94T GDP, with infrastructure funded by the SWF (per Monetary Act 9.1) and generation funded by private investment (co-ops and corporations). Managed by the **National Energy Board (NEB)** under Central Council oversight.
+
+No binding sector quotas apply. Co-op generation receives license priority (first right of refusal) and transmission fee discounts. The 65% co-op share of generation in 2025 is a **descriptive baseline**, not an enforcement target.
 
 ---
 
@@ -29,9 +34,9 @@ The **Energy Act** integrates with the **Utilities Act**, **Industry Act**, **In
 
 - **Utilities Act**: Defines the asset/operator separation (state owns transmission/distribution, co-ops/corps compete on generation). Transmission access fees ($/MWh) fund grid maintenance and SWF.
 - **Industry Act**: The 1,633 TWh grid powers 30,000 ha hemp cultivation, 45,000 ha greenhouses, transformer production (10,000/year, $10B), heavy equipment ($15B), steel ($30B), and foreign factories ($60B).
-- **Infrastructure Act**: Buried transmission and distribution lines connect to 75,000 km rail, 150M-ton ports, and cargo airports for energy equipment distribution.
-- **Monetary Act**: Transmission access fees are paid in BWC, flow to SWF (30%), and are subject to standard BWC transaction fees. Co-op generators pay 5% co-op profit tax on profits over $100,000 (no SWF contribution).
-- **Credit Union Act**: Generation co-ops access loans ($50,000–$5M, 5–6% nominal, DAI-adjusted with 1.0% floor) for solar, wind, geothermal, and small hydro projects.
+- **Infrastructure Act 2.2**: Buried transmission and distribution lines connect to 75,000 km rail, 150M-ton ports, and cargo airports for energy equipment distribution. Dark corridor standards apply to energy infrastructure adjacent to elevated freeways.
+- **Monetary Act 9.1**: Transmission access fees are paid in BWC, flow to SWF (30%), and are subject to standard BWC transaction fees. Co-op generators pay 5% co-op profit tax on profits over $100,000 (no SWF contribution). No binding sector quotas.
+- **Credit Union Act 5.1**: Generation co-ops access loans ($50,000–$5M, 5–6% nominal, DAI-adjusted with 1.0% floor) for solar, wind, geothermal, and small hydro projects.
 - **FCL Act**: Generation utilities operate as Tier 2 or Tier 3 FCLs. Heavy Industry Clause applies to nuclear SMRs and large geothermal plants (51% member ownership minimum).
 
 ---
@@ -49,21 +54,21 @@ The **Energy Act** integrates with the **Utilities Act**, **Industry Act**, **In
 | Antifragile energy hub SMRs | 18 GW | 36 GW | State (operated by NEB) | NEB |
 | Hydro dams (Westflow River, others) | 5 GW | 75 GW | State | NEB |
 
-These assets are funded by the SWF per Monetary Act 8.0 (grid hardening: $141B; energy hubs: $200B) and maintained by the NEB.
+These assets are funded by the SWF per Monetary Act 9.1 (grid hardening: $141B; energy hubs: $200B) and maintained by the NEB.
 
 ### 1.2 Competitive Generation Market (Co-ops and Corporations)
 
-| Generator Type | 2075 Capacity | Typical Owner | Co-op target | License required |
-|---------------|---------------|---------------|--------------|------------------|
-| Nuclear SMRs (new, non-hub) | 114 GW (150 GW total minus 36 GW hub) | Co-op or Corporate | 70% | Yes (NEB) |
-| Geothermal standalone | 50 GW | Co-op | 90% | Yes (NEB) |
-| Geo-coal hybrid | 50 GW | Corporate | 30% | Yes (NEB) |
-| Geo-WTE hybrid | 50 GW | Co-op or Corporate | 50% | Yes (NEB) |
+| Generator Type | 2075 Capacity | Typical Owner | Co-op preference | License required |
+|---------------|---------------|---------------|------------------|------------------|
+| Nuclear SMRs (new, non-hub) | 114 GW (150 GW total minus 36 GW hub) | Co-op or Corporate | First right of refusal | Yes (NEB) |
+| Geothermal standalone | 50 GW | Co-op | First right of refusal | Yes (NEB) |
+| Geo-coal hybrid | 50 GW | Corporate | Not applicable (corporate only) | Yes (NEB) |
+| Geo-WTE hybrid | 50 GW | Co-op or Corporate | First right of refusal | Yes (NEB) |
 | Hydro (new, run-of-river) | 0 GW (all state-owned) | State | N/A | N/A |
-| Renewables (solar, wind) | 50 GW | Co-op | 80% | Yes (NEB) |
-| WTE standalone | 15 GW | Corporate | 20% | Yes (NEB) |
+| Renewables (solar, wind) | 50 GW | Co-op | First right of refusal | Yes (NEB) |
+| WTE standalone | 15 GW | Corporate | Not applicable (corporate only) | Yes (NEB) |
 
-**Co-op Preference**: Generation licenses are issued preferentially to co-ops (65% of new capacity reserved for co-ops). Corporations may apply for the remaining 35%.
+**Co-op Preference**: Generation licenses are issued preferentially to co-ops. If a co-op applies for a license and meets all requirements, the license shall be granted before any corporate application for the same capacity is considered. This is a structural preference (first right of refusal), not a binding quota. The 65% co-op share of generation capacity in 2025 is a **descriptive baseline**, not an enforcement target.
 
 ### 1.3 Retail Market (Competitive)
 
@@ -100,7 +105,7 @@ Utilities pay the NEB for access to state-owned transmission and distribution li
 | Allocation | 2025 ($B) | 2075 ($B) | Notes |
 |------------|-----------|-----------|-------|
 | Grid maintenance and hardening | 7.5 | 24.5 | 50% of revenue |
-| SWF (per Monetary Act 8.0) | 4.5 | 14.7 | 30% of revenue |
+| SWF (per Monetary Act 9.1) | 4.5 | 14.7 | 30% of revenue |
 | Residential electricity bill credit | 3.0 | 9.8 | 20% of revenue |
 | **Total** | **15.0** | **49.0** | |
 
@@ -127,7 +132,7 @@ Utilities pay the NEB for access to state-owned transmission and distribution li
 | Geo-coal hybrid | 163 | 50 | 10% | Geothermal preheating, 20% emissions reduction |
 | Geo-WTE hybrid | 163 | 50 | 10% | Geothermal preheating, 20% emissions reduction |
 | Hydro | 196 | 75 | 12% | State-owned (Westflow and new run-of-river) |
-| Renewables (solar, wind) | 163 | 50 | 10% | Co-op preferred (80% co-op target) |
+| Renewables (solar, wind) | 163 | 50 | 10% | Co-op preferred |
 | WTE standalone | 49 | 15 | 3% | Waste-to-energy, corporate mostly |
 | **Total** | **1,633** | **440** | **100%** | |
 
@@ -172,7 +177,7 @@ Utilities pay the NEB for access to state-owned transmission and distribution li
 | EMP-shielded substations (750) | $1.5B | SWF |
 | Transformer reserve (5,000+) | $5B | SWF |
 | AI-driven grid sensors | $500M | SWF (Tech Innovation Hub) |
-| **Total grid hardening** | **$217B** | **SWF (per Monetary Act 8.0)** |
+| **Total grid hardening** | **$217B** | **SWF (per Monetary Act 9.1)** |
 
 ---
 
@@ -207,18 +212,18 @@ Utilities pay the NEB for access to state-owned transmission and distribution li
 | Hospitals | $20B | SWF + Healthcare Act |
 | Sewer plants | $10B | SWF + Infrastructure Act |
 | Buried lines and land | $80B | SWF |
-| **Total hubs** | **$300B** | **SWF (per Monetary Act 8.0)** |
+| **Total hubs** | **$300B** | **SWF (per Monetary Act 9.1)** |
 
 ---
 
 ## Section 6: Co-op Advantages in Energy
 
-### 6.1 Explicit Preferences (Per Utilities Act)
+### 6.1 Explicit Preferences
 
 | Preference | Co-op generator | Corporate generator |
 |------------|-----------------|---------------------|
 | Transmission access fee | 80% of corporate rate | 100% of rate |
-| Generation license reservation | 65% of new capacity | 35% of new capacity |
+| Generation license priority | First right of refusal | Apply only if no co-op qualified |
 | Grid access priority during CME | Tier 2 (after hubs) | Tier 3 |
 | CCIF access | Full (voluntary) | Limited (Co-op Department approval) |
 | CME recovery loans | 0% interest (first 30 days) | 5% interest |
@@ -242,7 +247,7 @@ A Tier 2 FCL in Region 5 (Heartland Plains) wants to build a 10 MW solar farm.
 | Step | Action | Cost | Financing |
 |------|--------|------|-----------|
 | 1 | Form generation co-op (under FCL Act) | $1,000 | Member base shares |
-| 2 | Obtain generation license from NEB | $10,000/year | Operating budget |
+| 2 | Obtain generation license from NEB (co-op priority) | $10,000/year | Operating budget |
 | 3 | Connect to state-owned distribution lines | $0 (state owns lines) | Pay transmission access fee ($8/MWh with co-op discount) |
 | 4 | Build 10 MW solar farm | $10M | CCIF loan (4%, 20 years, DAI-adjusted) |
 | 5 | Sell power to retail utilities or directly | Market rates | Competitive |
@@ -257,7 +262,7 @@ The co-op pays 80% of the standard transmission access fee ($8/MWh instead of $1
 
 The **National Energy Board (NEB)** , an 11-member body, manages the grid, grid hardening, antifragile energy hubs, transmission access fees, and generation licensing, reporting to the Central Council.
 
-- **Composition**: 6 representatives from 20 Regional Energy Districts, 4 experts, 1 chairman, appointed by Central Council (6/11 vote, 11/20 Boards confirm)
+- **Composition**: 6 representatives from 20 Regional Energy Districts, 4 experts, 1 chairman, appointed by Central Council (6/11 vote, 11/20 Regional Boards confirm)
 - **Voting**: 6/11 for operational decisions (e.g., transmission fee rates, generation licenses), 8/11 for regulations (e.g., CME hardening standards). Strategic shifts require Central Council approval (6/11)
 - **Functions**: Regulate generation market (150 GW nuclear, 50 GW geothermal, 50 GW geo-coal, 50 GW geo-WTE, 75 GW hydro, 50 GW renewables, 15 GW WTE), grid hardening, antifragile energy hubs (36 GW SMRs), transmission access fees ($49B/year by 2075)
 
@@ -272,7 +277,7 @@ The Crossroads Loan Service (CLS) manages energy loans:
 | Community solar micro-loan | 10,000 (500/region) | 24 hours | 0.5% |
 | CME recovery loan | 2,000 (100/region) | 48 hours (emergency) | 0.5% |
 
-### 7.3 Asymmetric Scrutiny (Per Monetary Act)
+### 7.3 Asymmetric Scrutiny (Per Monetary Act 9.1)
 
 | Level | Transaction type | CWD tracking | Reporting |
 |-------|-----------------|--------------|-----------|
@@ -296,7 +301,7 @@ The Crossroads Loan Service (CLS) manages energy loans:
 | Complete 20,000 km buried transmission, 100,000 km distribution | 2025–2035 | $140B | NEB |
 | Build 2 international hubs (10 GW SMRs) and 4 regional hubs (4 GW) | 2025–2035 | $120B | NEB |
 | Establish transmission access fee structure | 2025 | $5M | NEB |
-| Issue first generation licenses (65% co-op) | 2026 | $1M | NEB |
+| Issue first generation licenses (co-op priority) | 2026 | $1M | NEB |
 | Expand nuclear to 100 GW, geothermal to 10 GW | 2025–2035 | $15B | NEB + co-ops |
 
 **Revenue by 2035**: $20B/year (transmission fees)
@@ -308,7 +313,7 @@ The Crossroads Loan Service (CLS) manages energy loans:
 | Expand buried lines to 25,000 km transmission, 125,000 km distribution | 2035–2050 | $100B | NEB |
 | Complete remaining 4 regional hubs (+4 GW SMRs) | 2035–2050 | $80B | NEB |
 | Scale nuclear to 150 GW, geothermal to 20 GW | 2035–2050 | $50B | NEB + co-ops |
-| Achieve 65% co-op generation target | 2048 | $100B (private) | Co-ops + CCIF |
+| Co-op generation expands through license priority | 2048 | $100B (private) | Co-ops + CCIF |
 
 **Revenue by 2050**: $35B/year (transmission fees)
 
@@ -330,7 +335,7 @@ The Crossroads Loan Service (CLS) manages energy loans:
 | Metric | 2025 Value | 2075 Projection |
 |--------|------------|-----------------|
 | Population | 112M | 130M |
-| GDP | $14.5T | $38.94T |
+| GDP | $14.5T (baseline: 65/15/20) | $38.94T (co-op dominant by design) |
 | Total generation capacity | 110 GW | 440 GW |
 | Total electricity generation | 400 TWh | 1,633 TWh |
 | Nuclear share | 65% (260 TWh) | 45% (735 TWh) |
@@ -344,7 +349,7 @@ The Crossroads Loan Service (CLS) manages energy loans:
 | Strategic transformer reserve | 1,000 | 5,000+ |
 | Antifragile energy hub SMRs | 18 GW | 36 GW |
 | Transmission access fee revenue | $15B/year | $49B/year |
-| Co-op share of generation | 50% (target) | 65% (target) |
+| Co-op preference for generation | First right of refusal | First right of refusal |
 | Grid uptime (normal operations) | 99.9% | 99.99% |
 | CME recovery time | 72 hours | 48 hours |
 | Carbon capture (CO2/year) | 2M tons | 5M tons |
@@ -360,7 +365,7 @@ The Crossroads Loan Service (CLS) manages energy loans:
 | Generation | Competitive (co-ops/corps) | Competitive (co-ops/corps) |
 | Transmission access fee | $/MWh (155% recovery) | $/MWh (same) |
 | Co-op discount | 20% on transmission fee | 20% (same) |
-| Co-op license reservation | 65% of new generation | 65% (same) |
+| Co-op license preference | First right of refusal | First right of refusal |
 | CME hardening | State-managed (buried lines, EMP shields) | State-managed (same) |
 
 The Energy Act provides the **physical assets and hardening**; the Utilities Act provides the **market structure and access fees**. They are two sides of the same coin.
@@ -376,34 +381,23 @@ The Energy Act provides the **physical assets and hardening**; the Utilities Act
 | Operator | Train companies | Utilities (co-ops/corps) |
 | Access fee | No tolls (cooperative maintains) | $/MWh transmission fee |
 | Fee recovery target | 100% of maintenance | 155% of hardening + maintenance |
-| Co-op preference | 30% track ownership | 65% generation licenses, 20% fee discount |
+| Co-op preference | 30% track ownership | License priority, 20% fee discount |
 | CME hardening | Not applicable | Buried lines, EMP shields, transformer reserve |
 
 ---
 
-## Summary of Changes (Draft 3.0 → 4.0)
+## Summary of Changes (Draft 4.0 → 4.1)
 
 | Section | Change | Rationale |
 |---------|--------|-----------|
-| **Cross-reference header** | Added references to Monetary Act 8.0, Utilities Act 1.0, FCL Act 3.0, Communications Act 4.0 | Legislative consistency |
-| **Purpose** | Added asset/operator separation language; referenced Utilities Act | Harmonized with newer acts |
-| **Section 0** | Rewrote interdependencies to reference Utilities Act and Monetary Act 8.0 | Reflects new framework |
-| **Section 1** | New: Asset/Operator Separation (state-owned grid, competitive generation) | Follows Utilities Act pattern |
-| **Section 1.2** | Added co-op preference (65% of generation licenses) | Matches Monetary Act 65% co-op GDP target |
-| **Section 2** | New: Transmission Access Fees (per Utilities Act) | Generates revenue for SWF and grid maintenance |
-| **Section 2.2** | Added co-op discount (20%) | Consistent with Utilities Act |
-| **Section 2.3** | Added revenue allocation (50% maintenance, 30% SWF, 20% residential credit) | Per Utilities Act |
-| **Section 3** | Updated energy mix tables (added GW columns, clarified ownership) | Transparency |
-| **Section 4** | Updated grid hardening to 2075 targets (30,000 km transmission, 150,000 km distribution, 750 substations, 5,000+ transformers) | Per Energy Act original targets |
-| **Section 5** | Updated hub SMRs to 36 GW by 2075 | Per Energy Act original targets |
-| **Section 6** | New: Co-op Advantages in Energy (explicit preferences, financing, example) | Consistent with Utilities Act |
-| **Section 7.3** | Added cash payments for electricity (Informal Economy Guarantee) | Per Monetary Act Section 1A |
-| **Section 8** | Updated implementation plan with transmission fee revenue | Reflects new revenue streams |
-| **Section 9** | Updated key stats (added transmission fee revenue, co-op share, CME recovery time) | Complete harmonization |
-| **Appendix A** | New: Comparison to Utilities Act | Shows relationship between two acts |
-| **Appendix B** | New: Comparison to Rail Model | Shows pattern consistency |
-| **Throughout** | Removed all references to co-op SWF recharge ($290B/year) | Eliminated per Monetary Act 8.0 |
-| **Throughout** | Updated all loan references to include DAI floors (1.0% standard, 0.5% micro) | Per Monetary Act 8.0 |
+| **Cross-reference header** | Added amendment note; updated Monetary Act to 9.1, Credit Union Act to 5.1, Communications Act to 4.1, Infrastructure Act to 2.2 | Aligns with updated acts |
+| **Purpose** | Removed binding 65/15/20 GDP language; added "co-op dominant through incentives" and "descriptive baseline" for 65% co-op share | Per Monetary Act 9.1 |
+| **Section 0** | Updated Monetary to 9.1, Credit Union to 5.1, Infrastructure to 2.2; added "no binding sector quotas" | Cross-reference consistency |
+| **Section 1.2** | Changed "65% of new capacity reserved for co-ops" to "first right of refusal" and added "descriptive baseline" note | No binding quota |
+| **Section 6.1** | Changed "65% of new capacity" to "first right of refusal" | Consistency |
+| **Section 8** | Changed "Achieve 65% co-op generation target" to "Co-op generation expands through license priority" | No target |
+| **Section 9** | Changed "Co-op share of generation 65% (target)" to "Co-op preference: first right of refusal"; changed GDP row to "descriptive baseline" | Honest about framework |
+| **Appendix A** | Changed "65% generation licenses" to "first right of refusal" | Consistency |
 
 ---
 
@@ -437,11 +431,11 @@ Together, they complete the asset/operator separation pattern that began with ra
 - 155% cost recovery matches the freeway model
 - Co-op discount (20%) gives co-ops a structural advantage without a subsidy
 
-**Why 65% co-op generation?**
-- Matches Monetary Act 65% co-op GDP target
-- Prevents corporate consolidation of energy production
-- Co-ops are more likely to invest in local renewables and community benefits
-- Not a subsidy — co-ops compete on equal terms but get first right of refusal
+**Why co-op generation preference (not quotas)?**
+- Co-ops receive first right of refusal for generation licenses
+- If no qualified co-op applies, a corporation may take the license
+- No binding quota means no enforcement action if co-op share fluctuates
+- The 65% figure from 2025 is a descriptive baseline, not a target
 
 **Why CME resilience?**
 - A Carrington-level CME would destroy unprotected grids for months or years
@@ -457,4 +451,4 @@ That is the Energy Act.
 
 ---
 
-**End of Draft 4.0**
+**End of Draft 4.1**
