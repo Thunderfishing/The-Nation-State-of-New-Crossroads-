@@ -38,7 +38,7 @@ Credit unions operate across both layers of the Two-Layer Velocity Architecture 
 - **Swap Fee (BWC → Cash)**: 1% ($14.5 billion/year in 2025, scaling to $46.7 billion/year by 2075). Friction is on exit from formal, not entry.
 - **Privacy**: Cash transactions leave no record. Credit unions may not log, retain, or report cash transaction data. Complete anonymity.
 
-**Layer 2 — Bulwark Coin (BWC) (Store-of-Value / Formal Layer)**
+**Layer 2 — Bulwark Coin (BWC) (Store-of-Value / Formal Layer/Online Purchases)**
 
 - **Type**: Blockchain-based digital currency
 - **Reserve**: $125–$175 billion (30% gold, 30% palladium, 15% platinum, 10% iridium, 10% rhodium, 5% ruthenium), scaling to $407–$504 billion by 2075
@@ -279,7 +279,7 @@ These figures are **not binding targets**. The system is designed to foster a co
 
 ### 6.1 Credit Union Boards
 
-- **Structure**: 5–7 members per credit union, elected every 3 years by member vote (1 member, 1 vote)
+- **Structure**: 5–7 members per credit union, elected every 3 years by member vote (1 member, 1 vote, regionally staggered)
 - **Informal Sector Seat**: Each credit union board must include at least one member whose primary income is cash-based or informal sector derived, elected by Base tier members. This seat may not be eliminated by board vote.
 - **Responsibilities**: Approve loan policies, oversee CLS agents, set local dividend rates within system-wide bands, and ensure compliance with the Informal Sector Mandate (Section 1.3).
 
@@ -500,8 +500,6 @@ CLS agents must apply the DAI-adjusted rate at origination. All loan contracts r
 ## Design Philosophy (Informative)
 
 The Credit Union Act is the operational heart of the Informal Economy Guarantee. Where the Monetary Act declares privacy, the Credit Union Act delivers it.
-
-**Draft 5.1 aligns with Monetary Act 9.1's core shift**: from command targets to incentive-based cooperative dominance. The 65/15/20 split is no longer a mandate. It is a historical baseline — useful for monitoring, not enforcement. Credit unions lend to productive enterprises regardless of sector. The co-op advantage comes from tax policy (5% profit tax vs. 15–20% for corporations), governance (worker boards, long-term voting multipliers), and cultural normalization — not from loan rationing.
 
 **The three structural pillars from Draft 5.0 remain**:
 
