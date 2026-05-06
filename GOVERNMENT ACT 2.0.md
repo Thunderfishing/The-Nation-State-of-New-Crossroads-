@@ -450,22 +450,4 @@ Ten departments (51 staff/sector, 510 total) oversee $45.25–$90.5 billion loan
 
 ---
 
-## Summary of Changes (Draft 4.16 → 4.17)
-
-| Section | Change | Rationale |
-|---------|--------|-----------|
-| **Cross-reference header** | Added reference to Monetary Act 9.1 and Credit Union Act 5.1; added disclaimer that 65/15/20 is descriptive baseline, not binding | Aligns with new incentive-based framework |
-| **Overview** | Changed from "targeting 65% co-ops" to "co-op dominant through incentives" | Removes command language |
-| **Section 1.1** | Removed fixed loan allocation percentages; replaced with "determined by creditworthiness" | Credit unions lend based on productive use, not quotas |
-| **Section 1.2** | Removed "ensuring 65/15/20 split" from board functions and CLS mandate; replaced CLS function with "monitor economic health indicators" | No binding sector targets |
-| **Section 1.4** | Updated business registration: removed "65% GDP target" and "15% corporate GDP cap"; replaced with "lower taxes, lighter governance" for co-ops and reference to Monetary Act 9.1 corporate governance requirements | Incentives, not mandates |
-| **Section 2.1** | Removed "compliance with 65/15/20 split" from auditing powers; changed to "compliance with credit union governance requirements" | Audits check governance, not GDP shares |
-| **Section 3.2.2** | Updated citizen-initiated law restrictions: removed references to 15% corporate cap and 65% co-op target; replaced with protections for corporate governance requirements and Informal Economy Guarantee | Protects structural reforms, not numerical targets |
-| **Section 4.1 Trade & Corporate** | Removed "Caps 15% corporate GDP"; added reference to Monetary Act 9.1 corporate governance requirements | Corporate governance replaces GDP cap |
-| **Section 4.1 Co-op** | Changed "Drives 65% GDP" to "Fosters a co-op dominant productive economy through incentives" | Aspirational, not command |
-| **Key Stats** | Changed GDP row from fixed 65% to "co-op dominant by design, no binding target" | Honest about framework |
-| **Glossary** | Updated BWC definition to variable 25–50% backing | Reflects Monetary Act 9.1 |
-
----
-
 **End of Draft 4.17**
