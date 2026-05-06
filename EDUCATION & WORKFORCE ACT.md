@@ -1,20 +1,23 @@
-# Crossroads Education and Workforce Act of 2025: Draft 2.0
+# Crossroads Education and Workforce Act of 2025: Draft 2.1
 
 **Posted to r/Bulwarkomics**  
-**Draft**: 2.0 Detailed | **Date**: April 13, 2026  
+**Draft**: 2.1 Detailed | **Date**: April 12, 2026  
 **Author**: Thunderfish2  
 
-> **Cross-reference**: This act is companion legislation to the *Crossroads Federated Cooperatives Limited (FCL) Structure Act of 2025 (Draft 3.0)*, the *Crossroads Monetary Reform & Economic Stabilization Act of 2025 (Draft 8.0)*, and the *Crossroads Credit Union Act of 2025 (Draft 4.0)*. School governance follows the asset/operator separation model from the *Crossroads Utilities Act of 2025 (Draft 1.0)*: Local School Boards own facilities and long-term assets; Teacher Professional FCLs operate instructional delivery.
+> **Cross-reference**: This act is companion legislation to the *Crossroads Federated Cooperatives Limited (FCL) Structure Act of 2025 (Draft 3.0)*, the *Crossroads Monetary Reform & Economic Stabilization Act of 2025 (Draft 9.1)*, and the *Crossroads Credit Union Act of 2025 (Draft 5.1)*. School governance follows the asset/operator separation model from the *Crossroads Utilities Act of 2025 (Draft 1.0)*: Local School Boards own facilities and long-term assets; Teacher Professional FCLs operate instructional delivery.
+>
 
 ---
 
 ## Overview
 
-This act establishes a debt-free education and workforce system for 18 million students (ages 5–20) and 13 million journeymen within a $14.5 trillion GDP (65% co-ops/$9.425 trillion, 15% corporate/$2.175 trillion, 20% informal/$2.9 trillion), scaling to $38.94 trillion GDP (65% co-ops/$25.311 trillion) by 2075.
+This act establishes a debt-free education and workforce system for 18 million students (ages 5–20) and 13 million journeymen within a $14.5 trillion GDP (2025 baseline: 65% co-ops/$9.425 trillion, 15% corporate/$2.175 trillion, 20% informal/$2.9 trillion), scaling to $38.94 trillion GDP by 2075. The system is designed to foster a **co-op dominant education sector through incentives**, while supporting Teacher Professional FCLs and protecting school choice.
 
 **Governance Innovation:** Each public school is organized as a hybrid FCL — 70% owned by a Local School Board (parents, PTA, military liaison, sports representative) and 30% owned by a Teacher Professional FCL (all licensed teachers at the school).
 
-The act preserves the **voucher system** ($5,000/year per student, following the student to any licensed school), the **mandatory 24-month service program** (ages 19–20, integrated as work experience and placement networking). A $94.35 billion Sovereign Wealth Fund (SWF) (part of $550 billion SWF, to $3.082 trillion) supports operations, managed by the National Learning Council (NLC) with 5,000 Credit Unions, 27,100 FCLs, and $601.58 billion revenue.
+The act preserves the **voucher system** ($5,000/year per student, following the student to any licensed school), the **mandatory 24-month service program** (ages 19–20, integrated as work experience and placement networking). A $94.35 billion Sovereign Wealth Fund (SWF) (part of $550 billion SWF, to $3.082 trillion) supports operations, managed by the National Learning Council (NLC) with 5,000 Credit Unions, 195,100 FCLs (plus 27,600 co-op clubs), and $601.58 billion revenue.
+
+No binding sector quotas apply. The 65/15/20 figures in 2025 are **descriptive baselines**, not enforcement targets. Co-op schools receive charter preference (first right of refusal), but no binding enrollment quota applies.
 
 ---
 
@@ -38,10 +41,10 @@ The act preserves the **voucher system** ($5,000/year per student, following the
 
 - **SWF**: $94.35 billion (part of $550 billion SWF, to $252.99 billion by 2075), funded by $601.58 billion revenue ($325.4 billion taxes/fees, $276.18 billion resources).
 - **Vouchers**: $5,000/year per student ($90 billion for 18 million, $4.5 billion/region, adjusted biennially for 3% GDP growth, $13,500/year by 2075), funded by $94.35 billion SWF. Paid via $94 billion credit union checking, subject to 1% BWC Transaction Fee (~$900 million/year) and 1% Checking Account Fee (~$900 million/year), covered by SWF.
-- **Loans**: $452.5 billion (65% co-op/$294.125 billion, 15% corporate/$67.875 billion, 20% informal/$90.5 billion) for co-op schools, corporate academies, apprenticeships, and informal ventures, funded by $217.5 billion SWF, $235 billion banking, $50 billion non-SWF. Loans subject to 1% BWC Transaction Fee and 0.5% Liquidity Fee, covered by SWF.
+- **Loans**: $452.5 billion for co-op schools, corporate academies, apprenticeships, and informal ventures, funded by $217.5 billion SWF, $235 billion banking, $50 billion non-SWF. Loans subject to 1% BWC Transaction Fee and 0.5% Liquidity Fee, covered by SWF.
 - **Stipends**: $12,000/year vocational, $15,000/year professional ($30 billion for 1 million, $1.5 billion/region, adjusted biennially, $32,400–$40,500/year by 2075), paid monthly ($1,000–$1,250/month) with $500 end-of-service bonus ($500 million/year). Single-parent exemptions receive $2,500 credit ($6.25 million/region, $2 billion tax credits), funded by $94.35 billion SWF. Stipends subject to 1% BWC Transaction Fee (~$300 million/year), covered by SWF.
 - **Student Ventures**: $2 million/year ($100,000/region) for $500 venture loans, $16 million/year ($800,000/region) for supplemental loans ($10 million for $5,000 successful venture loans, $5 million for $50,000 wildly successful venture loans, $1 million audits), funded by $94.35 billion SWF. Loans subject to 1% BWC Transaction Fee and 0.5% Liquidity Fee (~$180,000/year), covered by SWF.
-- **Revenue**: $141.15 billion/year taxes/fees, $290 billion co-op recharge, $276.18 billion resources support operations, with credit unions contributing $96.6185 billion/year.
+- **Revenue**: $141.15 billion/year taxes/fees, $276.18 billion resources support operations, with credit unions contributing $96.6185 billion/year. (Co-op SWF recharge eliminated per Monetary Act 9.1)
 - **Contingency Reserve**: $3 billion/year ($2 billion enrollment, $1 billion vouchers) from $10.1 billion Charity SWF, reviewed biennially via CWD, offsets transaction/checking fees (~$2.1 billion/year).
 - **Audits**: 50 auditors, $1 billion blockchain/AI, $2.5 billion fraud cap, tracked via CWD.
 - **CWD**: $150 million/year ($7.5 million/region) for database operations, funded by $94.35 billion SWF and $504 billion reserve.
@@ -71,7 +74,7 @@ Each public school separates asset ownership from instructional operation:
 |------|--------|-----------|------------------|
 | **Asset Owner** | Local School Board | 70% of school FCL | Facilities, maintenance, budget, long-term planning, principal hiring (joint) |
 | **Instructional Operator** | Teacher Professional FCL | 30% of school FCL | Pedagogy, curriculum delivery, teacher hiring/firing, schedule, instructional spending |
-| **Chartering & Oversight** | Regional Board | External | License schools, audit compliance, enforce 65% co-op target, dispute resolution |
+| **Chartering & Oversight** | Regional Board | External | License schools, audit compliance, dispute resolution |
 
 #### 3.2.2 Local School Board (70% Owner)
 
@@ -158,7 +161,7 @@ Schools are organized under the FCL Act's tier system:
 Per the Government Act, 20 Regional Boards (11 members each) are responsible for:
 
 - Issuing **10-year renewable charters** to School FCLs
-- Enforcing the **65% co-op enrollment target** (65% of students in co-op schools, which School FCLs count as)
+- **Co-op preference**: Charters are issued preferentially to co-op schools. If a co-op applies and meets all requirements, the charter shall be granted before any corporate application is considered. This is a structural preference (first right of refusal), not a binding quota.
 - Auditing compliance with governance rules (biannually for Tier 3, annually for Heavy Industry)
 - Approving **tier upgrades/downgrades** (simple majority)
 - Appointing the **military liaison** to each Local School Board (from a list of qualified veterans/JROTC instructors)
@@ -295,9 +298,9 @@ Teachers are licensed professionals with a distinct pathway within the Education
 
 ### 6.1 CLS Academy
 
-- **Purpose**: Trains 60,000 CLS agents (3,000/region) to manage $452.5 billion loans ($294.125 billion co-op, $67.875 billion corporate, $90.5 billion informal), issue student venture loans, support bankruptcy recovery, and ensure 65% co-op GDP ($9.425 trillion).
-- **Structure**: In Crossroads City with a cyber-focused campus in New Tech City, offering 1-year training ($1.5375 billion). Agents (44,000 at $75,000/year, 3,666 seniors at $120,000/year, 18 regional at $200,000/year) manage loans for 27,100 FCLs, students, and informal ventures, with 6-week updates every 3 years. $50 million/year rural training hubs ensure 50% rural participation (1,500 agents/region).
-- **Curriculum**: Loan management ($452.5 billion), debt management, client portfolio development, bankruptcy recovery plans ($94 billion savings), student venture loan issuance (lenient criteria, e.g., basic revenue projections), mentorship for successful ventures ($10,000+ revenue or altering educational paths).
+- **Purpose**: Trains 60,000 CLS agents (3,000/region) to manage $452.5 billion loans, issue student venture loans, support bankruptcy recovery, and **monitor economic health indicators per the Monetary Act's Economic Health Dashboard**.
+- **Structure**: In Crossroads City with a cyber-focused campus in New Tech City, offering 1-year training ($1.5375 billion). Agents (44,000 at $75,000/year, 3,666 seniors at $120,000/year, 18 regional at $200,000/year) manage loans for FCLs, students, and informal ventures, with 6-week updates every 3 years. $50 million/year rural training hubs ensure 50% rural participation (1,500 agents/region).
+- **Curriculum**: Loan management ($452.5 billion), debt management, client portfolio development, bankruptcy recovery plans ($94 billion savings), student venture loan issuance (lenient criteria, e.g., basic revenue projections), mentorship for successful ventures ($10,000+ revenue or altering educational paths), **economic health indicator tracking**.
 - **Integration**: CLS cadets (journeymen, masters) spend 2-year national service at the Academy (males post-boot camp, females directly), mentoring up to 3 trainees/year. Agents issue $500 venture loans, provide loan advice, and support bankruptcy recovery, tracked via CWD.
 - **Cost**: $1.5375 billion/year ($76.875 million/region), funded by $1.2 billion credit union revenue and $337.5 million SWF.
 - **Oversight**: CWD tracks agent performance, citations (5–10% salary bumps for 10/50/100 loans), disciplinary actions (5–15% fines, suspensions, expulsion).
@@ -322,7 +325,7 @@ Teachers are licensed professionals with a distinct pathway within the Education
 
 ### 6.4 Alliance Network
 
-- **Purpose**: Oversees $2.395 trillion Capital Investment Fund (CCIF, $1.96 trillion FCLs, $435 billion corporates) for co-op startups and SWF projects, supporting $9.425 trillion co-op GDP.
+- **Purpose**: Oversees $2.395 trillion Capital Investment Fund (CCIF, $1.96 trillion FCLs, $435 billion corporates) for co-op startups and SWF projects, supporting co-op GDP growth.
 - **Structure**: 1,832 members (1,755 FCL-elected, 65/region; 77 Regional Board appointees, 4/region), 65% FCL-led, approving CCIF investments (7.5% returns, 0.5% fee) via 65% FCL vote and 11/20 Regional Board confirmation. 6-month training ($100 million/year, SWF-funded) for journeymen/masters in co-op investment, governance, project management. $50 million/year rural hubs ensure 50% rural participation.
 - **Integration**: Mentors 1,000 journeymen/year (50/region) for CCIF-funded FCLs, supports PC startups, aligns with dropout reintegration, funded by $96.6185 billion credit union revenue and $94.35 billion SWF.
 - **Cost**: $100 million/year ($5 million/region), funded by $96.6185 billion credit union revenue and $94.35 billion SWF.
@@ -339,7 +342,7 @@ Teachers are licensed professionals with a distinct pathway within the Education
 
 ### 6.6 Regional Police Academy
 
-- **Purpose**: Provides specialized, apprenticeship-based training for journeyman officers selected for regional police coordination roles under Regional Boards (cross-reference: Government Act §2.1 “regional police forces” for inter-municipal coordination, major incident response, highway patrol, and oversight support). The Academy reinforces the blue-collar vocational model: no college degree or external credential is permitted or weighted at any stage. All instructors must be active or recently retired Master Sergeants/Chiefs with 10+ years street experience.
+- **Purpose**: Provides specialized, apprenticeship-based training for journeyman officers selected for regional police coordination roles under Regional Boards (cross-reference: Government Act §2.1 "regional police forces" for inter-municipal coordination, major incident response, highway patrol, and oversight support). The Academy reinforces the blue-collar vocational model: no college degree or external credential is permitted or weighted at any stage. All instructors must be active or recently retired Master Sergeants/Chiefs with 10+ years street experience.
 
 **Structure**:
 - One Regional Police Academy per region (20 total), with shared central curriculum developed by the Co-op Department and approved by the National Learning Council (8/11 vote).
@@ -422,7 +425,7 @@ This Academy ensures the regional police coordination function remains worker-le
 Per the Government Act, 20 Regional Boards (11 members each) have the following education-specific responsibilities:
 
 - Issue **10-year renewable charters** to School FCLs
-- Enforce the **65% co-op enrollment target** (65% of students in co-op schools)
+- **Co-op preference**: Charters issued preferentially to co-op schools (first right of refusal)
 - Audit compliance with governance rules (biannually for Tier 3, annually for Heavy Industry)
 - Approve **tier upgrades/downgrades** (simple majority)
 - Appoint the **military liaison** to each Local School Board (from a list of qualified veterans/JROTC instructors)
@@ -462,24 +465,22 @@ Per the Government Act, 20 Regional Boards (11 members each) have the following 
 ## Section 11: Implementation Timeline
 
 - **2025–2026**: Transition to Local School Boards. Charter first 5,000 School FCLs. Train 50,000 teachers on Professional FCL model.
-- **2027–2030**: All 18 million students in School FCLs (65% co-op, 35% corporate). Credential 5 million journeymen. Deploy CWD to all regions.
+- **2027–2030**: All 18 million students in School FCLs. Credential 5 million journeymen. Deploy CWD to all regions.
 - **2030–2045**: Maintain 18 million students, credential 15 million journeymen. Scale SWF to $252.99 billion.
 - **2045–2075**: Support 18 million students, 13 million journeymen, 25 million service graduates. Savings reach $100 billion/year.
 
 ---
 
-## Appendix A: Summary of Changes from Draft 1.6
+## Appendix A: Summary of Changes from Draft 2.0
 
-| Feature | Draft 1.6 | Draft 2.0 |
+| Feature | Draft 2.0 | Draft 2.1 |
 |---------|-----------|-----------|
-| School governance | 150-member RLAs (distant, administrative) | **Local School Boards (7 members) + Teacher Professional FCL (30% ownership)** |
-| Teacher status | Employees | **30% owners (Professional FCL), cost-share model** |
-| Parent/PTA voice | None (10% citizen seats in RLA) | **4 parent seats + 1 PTA seat on every Local Board** |
-| Military integration | Mentioned (boot camp), no governance role | **Dedicated military liaison seat on every Local Board** |
-| Sports/arts/recreation | Not mentioned | **Co-op clubs (27,600) with elected board representative** |
-| Master/Grandmaster teachers | Not defined | **Defined pathway (journeyman → master → grandmaster teacher)** |
-| Asset/operator separation | No | **Yes (Local Board owns facilities; Teacher Co-op operates instruction)** |
-| Tier system for schools | No | **Yes (Tiers 1–3 + Heavy Industry Clause)** |
+| GDP references | 65/15/20 as binding targets | **Descriptive baselines** |
+| Monetary Act reference | Draft 8.0 | **Draft 9.1** |
+| Credit Union Act reference | Draft 4.0 | **Draft 5.1** |
+| Co-op enrollment target | "65% co-op enrollment target" | **First right of refusal (no binding quota)** |
+| CLS mandate | "Ensure 65% co-op GDP" | **Monitor economic health indicators** |
+| Co-op SWF recharge | Implicitly present | **Explicitly eliminated** |
 
 ---
 
@@ -493,7 +494,7 @@ Per the Government Act, 20 Regional Boards (11 members each) have the following 
 - **Co-op Club**: Recreation-focused FCL (sports, arts, etc.) with $25–$50/year dues.
 - **FCLs**: Federated Cooperatives Limited, worker/customer-owned co-ops.
 - **SWF**: Sovereign Wealth Fund, $550 billion (2025), scaling to $3.082 trillion (2075).
-- **BWC**: Bulwark Coin, blockchain-based currency backed by 0.025 oz precious metals.
+- **BWC**: Bulwark Coin, blockchain-based currency backed by variable 25–50% metal reserves.
 - **CWD**: Crossroads Workforce Database, $150 million/year, tracking merit, vouchers, workforce, engagement.
 - **DAI**: Deflation Adjustment Index (from Monetary Act), with floor of 0.5% for Tier 1 schools, 1.0% for Tiers 2–3.
 - **CCIF**: Co-operative Capital Investment Fund, $2.395 trillion voluntary liquidity pool.
@@ -514,8 +515,8 @@ Per the Government Act, 20 Regional Boards (11 members each) have the following 
 | Funding (SWF) | $94.35 billion | $252.99 billion |
 | Vouchers | $5,000/year | $13,500/year (adjusted) |
 | Savings | $37.65 billion/year | $100 billion/year |
-| Economy | $14.5 trillion GDP | $38.94 trillion GDP |
+| Economy | $14.5 trillion GDP (baseline) | $38.94 trillion GDP |
 
 ---
 
-**End of Draft 2.0**
+**End of Draft 2.1**
