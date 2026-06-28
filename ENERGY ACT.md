@@ -1,4 +1,4 @@
-#New Crossroads Energy Act of 2025: Draft 4.2
+New Crossroads Energy Act of 2025: Draft 4.2
 
 Posted to r/Bulwarkomics
 Draft: 4.2 | Date: June 27, 2026
