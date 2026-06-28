@@ -1,320 +1,303 @@
-# Crossroads Co-operative Healthcare & Mental Wellness Act of 2025: Draft 6.4 (Harmonized)
+---
+title: "Crossroads Co-operative Healthcare & Mental Wellness Act of 2025"
+draft: "6.5"
+date: "2026-06-27"
+author: "Thunderfish2"
+repository: "crossroads-monetary-act"
+description: "Companion legislation to the Monetary Act 9.5, Credit Union Act 5.4, FCL Structure Act, and Education Act 2.2. A premium-funded, co-op-led universal health and mental-wellness system delivered through a three-tier facility structure (clinics → super hospitals → mega hospitals at SMR nuclear hubs), with a permitted private corporate tier, hybrid CCJV facilities, and integrated mental health."
+supersedes: "Draft 6.4 — premium-funded conversion (Healthcare SWF and Mental Health SWF operating lines removed; mandatory universal premiums + FCL contribution + bottom-tier subsidy); three-tier facility structure (10,000 clinics with minor surgery → 200 super hospitals scaling to 2,000 → 20 mega hospitals at SMR hubs); corporate health tier added (pay-to-play, loan-eligible); coverage extended to the whole population; mental health folded into premiums and mapped onto the tier logic; DAI/BAR removed (DLB-indexed); CWD replaced by PPK/CED; references updated to Monetary 9.5 / Credit Union 5.4 / Education 2.2."
+---
+
+# Crossroads Co-operative Healthcare & Mental Wellness Act of 2025: Draft 6.5
 
 **Posted to r/Bulwarkomics**
-**Draft**: 6.4 | **Date**: April 12, 2026
-**Author**: Thunderfish2
+**Draft:** 6.5 | **Date:** June 27, 2026
+**Author:** Thunderfish2
 
-> **Cross-reference**: This act is companion legislation to the *Crossroads Federated Cooperatives Limited (FCL) Structure Act of 2025 (Draft 3.0)*, *Crossroads Monetary Reform & Economic Stabilization Act of 2025 (Draft 9.1)*, *Crossroads Credit Union Act of 2025 (Draft 5.1)*, *Crossroads Government Act of 2025 (Draft 4.17)*, and *Crossroads Education Act of 2025 (Draft 2.0)*.
->
+> **Cross-reference.** Companion to the **FCL Structure Act**, **Monetary Act 9.5**, **Credit Union Act 5.4**, **Government Act**, and **Education Act 2.2**. Loans are DLB-indexed (no DAI/BAR). Data uses the **PPK/CED** architecture (Monetary §5), operational from inception — there is no CWD. The currency is fiat.
+
+> **Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values. Facility counts and corporate-sector share are descriptive projections, not quotas.
+
+> **Amendment Note — Draft 6.5.** Healthcare converts from SWF-and-debt funding to **premium funding**. The Healthcare SWF ($145B) and Mental Health SWF ($35B) operating lines are **removed**; the system is funded by mandatory universal premiums, the FCL healthcare contribution, and a targeted bottom-tier subsidy. A **three-tier facility structure** replaces the flat "200 hospitals" model, and a **private corporate tier** is explicitly permitted. Mental health is folded into the premium package and mapped onto the facility tiers. All sector-share quotas remain removed (descriptive baselines only).
 
 ---
 
 ## Overview
 
-This act establishes co-op-led healthcare and mental wellness services for 70 million citizens (65 million healthcare, 40 million mental health, 35 million dual) within a $14.5 trillion GDP (2025 baseline: 65% co-ops/$9.425T, 15% corporate/$2.175T, 20% informal/$2.9T), scaling to $38.94T GDP by 2075. The system is designed to foster a **co-op dominant healthcare sector through incentives**, while supporting professional FCLs and protecting universal access regardless of payment method.
+This act establishes **co-op-led, premium-funded universal healthcare and mental wellness for the whole population (112M, scaling to 130M)** within a co-op-dominant economy scaling toward ~$38.94T GDP by 2075. Coverage is universal regardless of payment method; the informal economy retains protected cash access.
 
-Services are delivered through **10,000 co-op clinics** (structured as Co-op/Corporate Joint Ventures per FCL Act Section 3.7), **200 hospitals**, and the **Crossroads Mental Health Institution Network (CMHIN)** , funded by a **$180 billion Healthcare SWF** ($145B healthcare, $35B mental health, part of the total $1.5–2.0T SWF capped at 12% of GDP per Monetary Act 9.1).
+Services are delivered through a **three-tier co-op facility structure** — **10,000 clinics** (primary care + minor surgery), **super hospitals** (200 at start, scaling to ~2,000), and **20 mega hospitals** co-located at the SMR nuclear hubs (Energy Act) — plus an integrated mental-health network (CMHIN) and a permitted **private corporate tier**. Professional FCLs (100% worker-owned cooperatives of physicians and healthcare professionals) provide specialized services within clinics under CCJV agreements, with cost-share or profit-share models and retainer client shares for patients.
 
-**Professional FCLs** (per FCL Act Section 2.3) — 100% worker-owned cooperatives of physicians and healthcare professionals — provide specialized services within clinics under CCJV agreements, operating under cost-share or profit-share models with retainer client shares available to patients.
-
-The National Healthcare Board (NHB) manages operations, supported by 5,000 Credit Unions, **195,100 core FCLs** (plus 27,600 co-op clubs), and DAI-adjusted loans (0.5% floor for service-sector healthcare).
-
-No binding sector quotas apply. The 65/15/20 figures in 2025 are **descriptive baselines**, not enforcement targets. Healthcare receives the 0.5% DAI floor regardless of co-op share.
+The **National Healthcare Board (NHB)** manages operations, supported by the 5,000 credit unions, the core FCLs, and DLB-indexed service-sector loans. No binding sector quotas apply; 2025 figures are descriptive baselines.
 
 ---
 
 ## Section 0: Interdependencies (Harmonized)
 
 | Act | Integration Point |
-|-----|-------------------|
-| **FCL Act 3.0** | Professional FCLs (Section 2.3) replace "PCs"; clinic ownership structured as CCJV (Section 3.7); cost-share model; retainer client shares |
-| **Monetary Act 9.1** | DAI-adjusted loans (0.5% floor for healthcare); informal economy guarantee; asymmetric scrutiny; SWF capped at 12% GDP; co-op profit tax 5% (no SWF recharge); no binding sector quotas |
-| **Credit Union Act 5.1** | Micro-loans for informal healthcare access ($500, 4% nominal/~1.4% effective, self-attested income, 24hr approval) |
-| **Government Act 4.17** | Regional Boards (20 regions, 11 members each); Central Council oversight; master/grandmaster mentorship |
-| **Education Act 2.0** | Trains 160,000 healthcare workers and 95,000 volunteers |
+| :--- | :--- |
+| **FCL Structure Act** | Professional FCLs (worker-owned); clinic ownership as Co-op-Led CCJV (hybrid co-op/corporate); cost-share model; retainer client shares; healthcare contribution via the progressive profit-sharing waterfall |
+| **Monetary Act 9.5** | DLB-indexed service-sector loans; Informal Economy Guarantee; asymmetric scrutiny; SWF capped at 12% GDP; co-op profit tax 5% (no SWF recharge); PPK/CED; no binding sector quotas |
+| **Credit Union Act 5.4** | Micro-loans for informal healthcare access ($500, 4% nominal, self-attested, 24-hour); low-interest service-sector health loans (co-op and corporate eligible); CLS |
+| **Energy Act** | 20 SMR nuclear hubs host the mega hospitals, co-located with water/sewer treatment and passenger/cargo airports |
+| **Government Act** | Regional Boards (20 regions, 11 members each); Central Council oversight; master/grandmaster mentorship |
+| **Education Act 2.2** | Supplies ~90,000 healthcare-proper + ~45,000 mental-health graduates/year; ~100,000/year via mandatory service (50k clinics, 50k CMHIN) |
 
 ---
 
-## Section 1: Core Principles (New - Harmonized)
+## Section 1: Core Principles
 
-### 1.1 Asymmetric Scrutiny for Healthcare (Per Monetary Act 9.1)
+### 1.1 Asymmetric Scrutiny for Healthcare (per Monetary Act §5)
 
-| Level | Transaction Type | CWD Tracking | Reporting |
-|-------|------------------|--------------|-----------|
-| **Informal** | Cash healthcare payments (clinic fees, medication) below DLB threshold | Never collected | None. Constitutionally protected. |
-| **Citizen** | BWC healthcare payments under $10,000/year | No tracking | None |
-| **Middle** | BWC healthcare payments $10k–$100k/year | Aggregate totals only | Annual summary |
-| **Elite** | Corporate healthcare transactions above $100k | Full tracking | Quarterly audits |
-| **Institutional** | NHB operations, major healthcare loans | Full transparency | Public annual reports |
+- Cash healthcare payments (clinic fees, medication) below the DLB threshold are private and never recorded — the Informal Economy Guarantee applies to healthcare.
+- Patient financial data under $10,000/year: private (pseudonymized in the CED, no detail).
+- Institutional data (clinics, hospitals, FCLs >$10M revenue): fully transparent.
+- Medical records (diagnoses, prescriptions) live in the **PPK** as identity-layer data — never in the CED. The CED sees only pseudonymized value flows (e.g., "premium paid," "procedure value," no patient identity).
 
-**Cash healthcare payments** are accepted at all credit union kiosks with no fee and no surveillance, per Monetary Act Section 1A (Informal Economy Guarantee).
+### 1.2 DLB-Indexed Loans for Healthcare (per Monetary Act §1, Credit Union Act §4.2)
 
-### 1.2 DAI-Adjusted Loans for Healthcare (Per Monetary Act 1.6)
+All loans for healthcare facilities (clinics, super hospitals, mega hospitals, CMHIN) receive the **low service-sector rate (4–5% nominal, DLB-indexed)**, recognizing healthcare's labor and social value. **There is no DAI adjustment or BAR** — those mechanisms were removed in the fiat conversion.
 
-All loans for healthcare facilities (clinics, hospitals, CMHIN) receive DAI adjustment with **0.5% floor** (service-sector healthcare).
+| Facility loan | Service-sector rate |
+| :--- | :--- |
+| Clinic construction (CCJV) | 4–5% |
+| Super-hospital equipment & build | 4–5% |
+| Mega-hospital build (at SMR hub) | 4–5% |
+| CMHIN facility | 4–5% |
+| Telehealth infrastructure | 4–5% |
 
-| Loan Type | Nominal Rate | DAI-Adjusted Effective (2025, BAR=2.6%) | Floor |
-|-----------|--------------|------------------------------------------|-------|
-| Clinic construction (CCJV) | 4% | 1.4% | 0.5% |
-| Hospital equipment | 4% | 1.4% | 0.5% |
-| CMHIN facility | 4% | 1.4% | 0.5% |
-| Telehealth infrastructure | 4% | 1.4% | 0.5% |
+**Corporate facilities are eligible for the same low service-sector rate** (Section 4). *Rationale: the state subsidizes health **capacity** regardless of who builds it — every facility adds beds and treats citizens. Corporate facilities repay the subsidy through full corporate taxation (heavier than co-ops), and refusing them cheap capital would only raise their prices and make them more exclusive, not less.*
 
-### 1.3 Informal Sector Healthcare Access (Per Credit Union Act 5.1)
+### 1.3 Informal Sector Healthcare Access (per Credit Union Act §1.3)
 
-Informal workers and cash-based citizens have automatic access to:
-- **Micro-loans** ($500, 4% nominal/~1.4% effective) for healthcare expenses: Self-attested income, no documentation, 24hr approval via CLS
-- **Basic Wallet** (BWC Layer 2 access without formal income history)
-- Credit unions may not require disclosure of cash transaction history for healthcare loans under $500,000
+- Cash payment accepted at all co-op facilities for care below the DLB threshold; no PPK presentation required, no income disclosure.
+- Micro-loans ($500, 4% nominal, self-attested, 24-hour) cover informal-sector medical needs.
+- No citizen may be denied care for declining to disclose cash income or for lacking BWC transaction history.
 
-### 1.4 Tax Framework for Healthcare (Per Monetary Act 9.1)
+### 1.4 Tax Framework for Healthcare (per Monetary Act §4)
 
-| Entity Type | Tax Rate |
-|-------------|----------|
-| Patient co-op (CCJV member) | **5%** profit tax over $100k (no SWF contribution) |
-| Professional FCL (clinic partner) | **5%** profit tax over $100k (no SWF contribution) |
-| Corporate healthcare (non-co-op) | 0% under $100k; 15% $100k–$1M; 20% over $1M |
-
-**No co-op SWF recharge** — eliminated per Monetary Act 9.1.
+| Entity | Treatment |
+| :--- | :--- |
+| Professional FCL (clinic partner) | 5% profit tax over $100k; no SWF contribution; contributes to commons via the FCL waterfall |
+| Co-op hospital/clinic FCL | 5% profit tax; FCL healthcare contribution (waterfall) |
+| Corporate hospital/clinic | Corporate tiered tax (up to 25%) + corporate SWF contribution — heavier than co-ops |
 
 ### 1.5 Co-op Healthcare Preference
 
-Healthcare facility licenses, CCJV approvals, and SWF funding allocations are issued preferentially to co-ops and Professional FCLs. If a co-op or Professional FCL applies and meets all requirements, the license or approval shall be granted before any corporate application is considered. This is a structural preference (first right of refusal), not a binding quota.
+Co-ops hold first right of refusal on **public charters and contracts** for the universal backbone. This preference governs the public system only; privately-funded corporate facilities do not compete for public charters and may build independently under licensing (Section 4).
 
 ---
 
-## Section 2: Professional FCLs in Healthcare (Per FCL Act 2.3 & 3.7)
+## Section 2: Professional FCLs in Healthcare
 
 ### 2.1 Professional FCL Structure
 
-Professional FCLs (replacing "PCs" from Draft 6.2) are **100% worker-owned cooperatives** of physicians, healthcare professionals, and other licensed practitioners, governed by FCL Act Section 2.3.
+100% worker-owned cooperatives of physicians, healthcare professionals, and licensed practitioners.
 
-**Key Features:**
-- **Ownership**: 100% worker-owned (no investor equity)
-- **Governance**: Each licensed professional holds equal shares (e.g., 10% per physician)
-- **Voting**: One member, one vote (no investor voting)
-- **Tax**: 5% profit tax over $100k (no SWF contribution)
+- **Ownership:** 100% worker-owned (no investor equity).
+- **Governance:** each licensed professional holds equal shares; one member, one vote.
+- **Tax:** 5% profit tax over $100k (no SWF contribution).
 
-### 2.2 Operational Models for Professional FCLs
+### 2.2 Operational Models
 
 | Model | Description | Profit Distribution | Best For |
-|-------|-------------|---------------------|----------|
-| **Cost-Share** | Each member keeps their own revenue, shares clinic expenses | No firm-level profit; each member pays tax individually | Small clinics, general practice |
+| :--- | :--- | :--- | :--- |
+| **Cost-Share** | Each member keeps their own revenue, shares clinic expenses | No firm-level profit; each member taxed individually | Small clinics, general practice |
 | **Profit-Share** | Pooled revenue, shared expenses, distributed profit | Firm-level profit taxed at 5%, distributed to members | Large clinics, specialized practices |
 
-### 2.3 Retainer Client Shares (Per FCL Act 2.3)
+### 2.3 Retainer Client Shares
 
-Professional FCLs may issue **non-voting retainer shares** to patients/clients:
+Professional FCLs may issue non-voting retainer shares to patients/clients:
 
 | Feature | Specification |
-|---------|---------------|
+| :--- | :--- |
 | Price | $1,000–$25,000 per share |
 | Governance rights | None (non-voting) |
-| Returns | 2–8% patronage returns on fees paid |
-| Redemption | Refundable upon retainer termination |
-| Cap | Total client share capital ≤ 20% of firm equity |
+| Returns | 2–8% patronage on fees paid |
+| Redemption | Refundable on retainer termination |
+| Cap | ≤20% of firm equity |
 | Voting control | Remains 100% with worker-owners |
 
-### 2.4 Clinic Structure as Co-op/Corporate Joint Venture (Per FCL Act 3.7)
+### 2.4 Clinic Structure as Co-op/Corporate Joint Venture (CCJV) — the hybrid model
 
-The 70% patient / 30% Professional FCL ownership model is structured as a **Co-op Led CCJV**:
+The co-op clinic backbone is structured as **Co-op-Led CCJVs** — hybrid co-op/corporate ventures. Because the CCJV form is available across the tiers, **hybrid clinics and hybrid (super) hospitals** naturally exist alongside pure co-op and pure corporate facilities.
 
 | Provision | Specification |
-|-----------|---------------|
+| :--- | :--- |
 | CCJV Type | Co-op Led (per FCL Act 3.7.2) |
 | Patient Co-op ownership | 51–99% |
-| Professional FCL ownership | 1–49% |
+| Professional FCL / corporate partner | 1–49% |
 | Max term | 20 years (renewable) |
 | Approval body | Regional Board |
-| Corporate partner voting rights in FCL internal affairs | None |
-| JV board seats | Proportional to ownership; co-op must hold at least one seat |
+| Corporate partner voting in co-op internal affairs | None |
+| JV board seats | Proportional to ownership; co-op holds ≥1 seat |
 | Deadlock resolution | Co-op Department arbitration |
 
-**Governance Protections (per FCL Act 3.7.3):**
-- Professional FCL has **no voting rights** in patient co-op internal affairs
-- Patient co-op worker-members retain full base share rights
-- JV board seats proportional to ownership; patient co-op holds at least one seat
+---
+
+## Section 3: Services — Three-Tier Facility Structure
+
+The co-op system is a **hub-and-spoke hierarchy**: everything radiates outward from the 20 SMR nuclear hubs. The mega hospital at each hub is the regional apex; super hospitals are the sub-regional layer; clinics are local. Referrals flow up the tiers; the dense clinic layer offloads routine and minor-surgical care so the higher tiers stay focused on complex cases.
+
+### 3.1 Tier 1 — Co-op Clinics (10,000)
+
+- **Structure:** 10,000 clinics (~500/region), as Co-op-Led CCJVs (51–99% patient co-op / 1–49% Professional FCL).
+- **Role:** primary care, pediatrics, geriatrics, **and minor surgery** — larger clinics perform a wider range of minor surgical procedures, taking pressure off the hospital tiers.
+- **Access ratio:** ~1 clinic per ~13,000 people — excellent local coverage.
+- **Workforce:** ~50,000 workers (~2,500/region), including physicians from Professional FCLs.
+- **Funding:** premium revenue (operations) + DLB-indexed service-sector loans (build); FCL healthcare contribution.
+
+### 3.2 Tier 2 — Super Hospitals (200 → ~2,000)
+
+- **Structure:** **200 at start, scaling to ~2,000** (target ~100/region at full scale), co-op-owned (standard FCL or CCJV hybrid).
+- **Scaling rule:** count scales with population at roughly **1 per 65,000 people**, so the network auto-scales past 2,000 if population grows beyond ~130M.
+- **Role:** complex procedures, inpatient care, specialized departments, emergency departments.
+- **Adequacy:** at ~65,000 people per super hospital (full scale), the ratio is comparable to peer nations — and adequate *because* the dense minor-surgery-capable clinic layer offloads routine load.
+- **Workforce:** scales from ~50,000 toward ~250,000+ as the network grows.
+- **Funding:** premium revenue + DLB-indexed loans; FCL contribution.
+
+### 3.3 Tier 3 — Mega Hospitals (20, at SMR Nuclear Hubs)
+
+- **Structure:** **20 mega hospitals — one per region — co-located at the SMR nuclear hubs** (Energy Act), alongside water/sewer treatment plants and passenger/cargo airports.
+- **Role:** apex/quaternary care — the most advanced surgery, major trauma, transplants, specialized treatment, and the most acute psychiatric care. The regional referral center from which the rest of the system radiates.
+- **Why the SMR hubs:** the hubs already concentrate the nation's most reliable power, water, and fastest transport (air ambulance, cargo for supplies/organs), so the most advanced and power-intensive care belongs there.
+- **Phase-in:** mega hospitals come online **as the SMR hubs are built** (per the Energy Act timeline) — not all day-one; they phase in with the nuclear hubs.
+- **Funding:** premium revenue + DLB-indexed loans; FCL contribution.
+
+### 3.4 Mental Health — CMHIN, Integrated onto the Tier Logic
+
+Mental health is **folded into the premium package** (no separate mental-health premium) and its facilities map onto the same tier logic:
+
+- **Community Support Hubs (CSHs), ~2,000** — the clinic-tier equivalent: local, accessible mental-health and counseling access.
+- **Transitional Rehabilitation Centers (TRCs), ~1,000** — the super-hospital-tier equivalent: intermediate residential and rehabilitative care.
+- **Secure Long-Term Institutions (SLIs), ~200** — specialized secure facilities for long-term and involuntary care (genuinely separate by necessity).
+- **Acute psychiatric care** — housed within the mega hospitals (Tier 3) for the most acute crises.
+- **Workforce:** ~60,000 (fed by ~45,000 mental-health graduates/year, Education Act §5.4).
+- **Partnerships:** churches, charities, advocacy and veterans' groups (~$1.21B/year contributions).
+
+### 3.5 Corporate Health Tier (Permitted, Private, Pay-to-Play)
+
+Corporate hospitals and clinics are **permitted** and emerge organically — there is no quota. They are projected at perhaps **~5–15% of facilities over time** (a guess, not a target), catering mainly to those seeking premium amenities or shorter waits, **but open to anyone who chooses to pay.**
+
+- **Funding model — pay-to-play:** the mandatory premium funds the **co-op backbone only.** Corporate facilities are **fully self-funded** — patients pay the full cost (out of pocket or via private insurance). The premium a citizen pays still funds their co-op coverage; corporate care is a pure add-on. Corporate use therefore does not drain the universal premium pool.
+- **Loan eligibility:** corporate facilities are **eligible for the same low-interest service-sector health loans as co-ops** (Section 1.2). The state subsidizes health *capacity* regardless of builder; corporates repay it through full corporate taxation.
+- **Taxation:** taxed as corporations (tiered up to 25% + SWF contribution) — heavier per dollar than co-ops.
+- **Governance:** bound by the corporate-governance rules (worker board seats, transparency, buyback limits — Monetary §4.1).
+- **Hybrid facilities:** because the CCJV form exists (Section 2.4), hybrid co-op/corporate clinics and hospitals also occur — a middle path between pure co-op and pure corporate.
+
+### 3.6 Emergency Proximity Override
+
+In an emergency, **EMS/ambulance crews transport the patient to the nearest appropriate facility — co-op or corporate.** If the nearest facility is corporate, the patient is treated and the **corporate facility bills the public health system at cost** (and the health system covers it at cost) for that emergency episode. No patient is driven past a closer corporate facility to a farther co-op one in a time-critical emergency, and no one is bankrupted for being taken to the nearest door. Elective corporate care remains pay-to-play; only emergency/stabilizing care triggers the at-cost public coverage.
+
+### 3.7 Cost-Cutting Mechanisms
+
+Bulk procurement, shared diagnostics, telehealth, preventive-care incentives, and generic-first formularies — applied across clinics, hospitals, and CMHIN — with overlap savings netted out. (Figures carried from prior drafts; to be re-derived under premium funding in the consolidated fiscal pass.)
 
 ---
 
-## Section 3: Services (Restructured)
+## Section 4: Membership and Premiums (Premium-Funded)
 
-### 3.1 Co-op Clinics (as CCJV)
+Healthcare is funded by **mandatory universal premiums**, not state SWF operating allocations.
 
-- **Structure**: 10,000 co-op clinics (500/district), structured as **Co-op Led CCJVs** (51–99% patient co-op / 1–49% Professional FCL)
-- **Professional FCL role**: Provides specialized services (diagnostics, legal advocacy) under CCJV agreement
-- **Operations**: General practice, pediatrics, geriatrics, minor surgeries
-- **Workforce**: 50,000 workers (2,500/district), including physicians from Professional FCLs
-- **Funding**: $75B buildout, $10B SWF subsidy, $29.6425B DAI-adjusted loans (0.5% floor)
-- **Operations budget**: $10B/year, funded by $145B Healthcare SWF
+- **Membership:** every citizen is covered; adults join the patient co-op (nominal 50 BWC buy-in). Coverage is universal — the whole population (112M), not a subset.
+- **Mandatory premiums (per adult, ~94M adults), DLB-indexed:**
+  - **Bottom 20%:** ~$200/month — **subsidized** by the state (the bottom-tier subsidy, ~$45B/year, is the state's main healthcare cost).
+  - **Middle 60%:** ~$350/month.
+  - **Top 20%:** ~$600/month.
+  - **Children:** ~$50/child/month.
+  - **Mental health is included** in the premium — no separate charge.
+- **Deductibles:** income-tiered (up to ~$2,000), DLB-indexed.
+- **Premiums and deductibles are denominated in BWC and indexed to the DLB** (no BAR recalculation — that mechanism is removed).
 
-### 3.2 Hospitals
-
-- **Structure**: 200 hospitals (10/district), co-op-owned (standard FCL, not CCJV)
-- **Operations**: Complex procedures, inpatient care
-- **Workforce**: 50,000 workers (2,500/district)
-- **Funding**: $40B buildout, $5B/year operations, $4.41375B DAI-adjusted loans (0.5% floor)
-
-### 3.3 Crossroads Mental Health Institution Network (CMHIN)
-
-- **Structure**: 200 Secure Long-Term Institutions (SLIs), 1,000 Transitional Rehabilitation Centers (TRCs), 2,000 Community Support Hubs (CSHs)
-- **Workforce**: 60,000 workers (3,000/district)
-- **Funding**: $45B buildout, $5B/year operations, $4.58625B DAI-adjusted loans (0.5% floor)
-- **Partnerships**: Churches, charities, advocacy groups, veterans' groups ($1.21B/year contributions)
-
-### 3.4 Cost-Cutting Mechanisms (Updated)
-
-| Mechanism | Clinics/Hospitals ($B) | CMHIN ($B) | Total ($B) |
-|-----------|-----------------------|------------|-------------|
-| Co-op Efficiency (CCJV structure) | 2.5 | 1.0 | 3.5 |
-| Professional FCL Synergy | 2.75 | 1.75 | 4.5 |
-| Public-Private Hybrid | 4.3 | 1.25 | 5.55 |
-| AI/Telehealth | 3.5 | 1.25 | 4.75 |
-| Stabilization Fund | 0.5 | 0.2 | 0.7 |
-| Volunteers/Education | 0.1 | 0.6 | 0.7 |
-| Less Overlap | (6.5) | (2.5) | (9.0) |
-| **Total** | **6.65** | **3.85** | **10.5** |
+**Net premium revenue:** ~$372B/year (adult premiums net of the bottom-tier subsidy) + ~$11B (children) ≈ **~$383B/year**, the primary funding source.
 
 ---
 
-## Section 4: Membership and Costs (Unchanged but DAI-aligned)
-
-- **Membership**: Citizens join patient co-op with 50 BWC buy-in
-- **Premiums**:
-  - Bottom 20%: $150/month ($200 credit via tax credits)
-  - Middle 60%: $350/month
-  - Top 20%: $600/month
-- **Deductibles**: $1,000–$2,000, income-tiered
-- **DAI adjustment**: Premiums and deductibles denominated in BWC, subject to annual BAR recalculation
-
----
-
-## Section 5: Funding (Updated)
+## Section 5: Funding (Premium-Funded)
 
 | Source | Amount | Notes |
-|--------|--------|-------|
-| Healthcare SWF | $145B | Part of total SWF (capped at 12% GDP per Monetary 9.1) |
-| Mental Health SWF | $35B | Part of total SWF |
-| DAI-adjusted loans | $47.125B | 0.5% floor (service-sector healthcare) |
-| Partner contributions | $1.21B/year | Donations, charitable grants |
-| Clinic/hospital/CMHIN profits | $35B/year → $92B by 2075 | Reinvested |
+| :--- | :--- | :--- |
+| **Mandatory premiums (net of subsidy)** | **~$383B/year** | Primary funding; whole adult population + children; mental health included |
+| **FCL healthcare contribution** | **~$50B/year** | Progressive profit-sharing waterfall (FCL Act); ~10% of the remaining co-op profit pool |
+| State bottom-tier subsidy | ~$45B/year | The state's main healthcare cost; subsidizes the bottom-20% premiums |
+| DLB-indexed service-sector loans | as needed | Facility build/equipment (co-op and corporate eligible); 4–5% |
+| Partner contributions | ~$1.21B/year | Donations, charitable grants (CMHIN) |
+| Facility profits | reinvested | Co-op clinic/hospital/CMHIN surpluses reinvested |
+
+**Removed:** the Healthcare SWF ($145B) and Mental Health SWF ($35B) operating lines — healthcare no longer draws SWF operating funding. The system is self-funding via premiums + FCL contribution, with the state's role reduced to the targeted bottom-tier subsidy.
+
+*Net state healthcare cost ≈ the ~$45B subsidy (vs. ~$180B of SWF operating funding under Draft 6.4) — a ~$135B reduction in state burden, shifted to a self-funding premium model with universal coverage.*
 
 ---
 
-## Section 6: Governance (Harmonized with FCL Act 3.0 & Government 4.17)
+## Section 6: Governance (Harmonized with FCL Act & Government Act)
 
 ### 6.1 National Healthcare Board (NHB)
-
-- **Composition**: 11 members (6 regional representatives, 4 experts, 1 chairman)
-- **Appointment**: Central Council (6/11 vote, 11/20 Regional Boards confirm)
-- **Voting**: 6/11 routine, 8/11 strategic, 5/11 emergency
-- **Operations**: $100M/year, funded by Healthcare SWF
+- 11 members (6 regional representatives, 4 experts, 1 chairman); appointed by Central Council (6/11), confirmed by Regional Boards (11/20).
+- Voting: 6/11 routine, 8/11 strategic, 5/11 emergency.
+- Operations: ~$100M/year (funded from premium administration, not SWF).
 
 ### 6.2 Regional Health Assemblies (RHAs)
+- 20 RHAs (~150 members/region); 50% healthcare professionals (masters), 30% workers, 20% citizens; biennial election, 4-year terms (2-term limit).
 
-- **Structure**: 20 RHAs (150 members/district)
-- **Composition**: 50% healthcare professionals (masters with $100k+ FCL revenue), 30% workers, 20% citizens
-- **Election**: Biennial, 51% citizen/FCL-weighted vote
-- **Term**: 4 years, 2-term limit
+### 6.3 Clinic CCJV Governance (per FCL Act 3.7.3)
+- JV board seats proportional to ownership (patient co-op holds ≥1 seat); Professional FCL/corporate partner has no voting rights in patient co-op internal affairs; Co-op Department arbitration; Regional Board approval for formation/renewal.
 
-### 6.3 Clinic CCJV Governance (Per FCL Act 3.7.3)
+### 6.4 Professional FCL Governance (per FCL Act 2.3)
+- Board of 5–7 worker-owners (one member, one vote); no investor voting; retainer client shares non-voting (2–8% patronage).
 
-- **JV Board**: Seats proportional to ownership (patient co-op holds at least one seat)
-- **Professional FCL role**: No voting rights in patient co-op internal affairs
-- **Dispute resolution**: Co-op Department arbitration
-- **Approval**: Regional Board for CCJV formation and renewal
-
-### 6.4 Professional FCL Governance (Per FCL Act 2.3)
-
-- **Board**: 5–7 members, elected by worker-owners (one member, one vote)
-- **No investor voting** (unless Heavy Industry Clause, not applicable to healthcare)
-- **Retainer client shares**: Non-voting, 2–8% patronage returns
+### 6.5 Corporate Facility Governance
+- Corporate hospitals/clinics follow corporate-governance rules (Monetary §4.1): worker board seats by headcount, transparency above $10M revenue, buyback limits. Licensed (not chartered) by the Regional Board; subject to medical-standards and (near dark corridors) DCALS compliance.
 
 ---
 
-## Section 7: Oversight (Updated)
+## Section 7: Oversight
 
-- **20 Regional Boards**: 220 delegates (11/region) oversee clinics, CMHIN, DAI-adjusted loans
-- **Central Council**: 11 members, 510 staff, track healthcare metrics
-- **CWD**: $150M/year tracks performance, fraud, compliance
-- **Healthcare Compliance System**: $100M/year, integrated with CWD
-- **Auditors**: 50–75 auditors, $1B blockchain/AI, cap $2.5B fraud
-- **Asymmetric scrutiny**: Patient financial data under $10k private; institutional data fully transparent
-
----
-
-## Section 8: Key Stats (2025–2075) - Harmonized
-
-| Metric | 2025 | 2075 | Change / Source |
-|--------|------|------|-----------------|
-| Population | 112M | 130M | — |
-| GDP | $14.5T (baseline: 65/15/20) | $38.94T (co-op dominant by design) | Per Monetary 9.1 |
-| Total SWF | $550B | **$1.5–2.0T** (capped at 12% GDP) | Per Monetary 9.1 |
-| Healthcare SWF | $145B | Scales with total SWF | Part of cap |
-| Mental Health SWF | $35B | Scales with total SWF | Part of cap |
-| Co-op SWF recharge | **$0** (eliminated) | **$0** | Per Monetary 9.1 |
-| Co-op profit tax | **5%** (over $100k) | **5%** (over $100k) | Per Monetary 9.1 |
-| DAI floor (healthcare loans) | 0.5% | 0.5% | Service-sector rate |
-| Clinics (as CCJVs) | 10,000 | 10,000 | — |
-| Hospitals | 200 | 200 | — |
-| CMHIN facilities | 3,200 | 3,200 | — |
-| Professional FCLs in healthcare | 1,500 | 2,000+ | Per FCL Act 2.3 |
-| Healthcare workers | 160,000 | 200,000 | — |
-| Volunteers | 95,000 | 120,000 | — |
-| Coverage | 70M citizens | 85M citizens | — |
-| Informal healthcare access | Protected below DLB | Protected below DLB | Per Monetary 1A |
-| Co-op healthcare preference | First right of refusal | First right of refusal | Structural preference |
+- **20 Regional Boards** (220 delegates) oversee clinics, hospitals, mega hospitals, CMHIN, and service-sector loans.
+- **Central Council** tracks healthcare metrics (aggregate).
+- **PPK/CED:** performance, fraud, and compliance tracked via the **CED** (pseudonymized; ~$ low hundreds of millions/year as part of the system-wide CED/PPK cost, not a separate CWD). Medical records live in the **PPK**. **There is no CWD.**
+- **Auditors:** 50–75 auditors + AI; fraud cap ~$2.5B.
+- **Asymmetric scrutiny:** patient financial data under $10k private; institutional data fully transparent.
 
 ---
 
-## Summary of Changes (Draft 6.3 → 6.4)
+## Section 8: Key Stats (2025–2075)
 
-| Section | Change | Rationale |
-|---------|--------|-----------|
-| **Header** | Updated cross-references: Monetary 8.0→9.1, Credit Union 4.0→5.1, Government 4.16→4.17; added amendment note | Aligns with updated acts |
-| **Overview** | Removed binding 65/15/20 GDP language; added "descriptive baseline" and "co-op dominant through incentives" | Per Monetary Act 9.1 |
-| **Section 0** | Updated Monetary to 9.1, Credit Union to 5.1, Government to 4.17; added "no binding sector quotas" | Cross-reference consistency |
-| **Section 1.5** | **New: Co-op Healthcare Preference** (first right of refusal, not binding quota) | Clarifies incentive-based approach |
-| **Section 5** | Updated SWF reference to Monetary 9.1 | Version consistency |
-| **Section 8** | Changed GDP row from fixed 65/15/20 to "baseline" and "co-op dominant by design"; added co-op healthcare preference row | Honest about framework |
+| Metric | 2025 | 2075 |
+| :--- | :--- | :--- |
+| Population covered | 112M (universal) | 130M (universal) |
+| Clinics (primary + minor surgery) | 10,000 | 10,000+ |
+| Super hospitals | 200 | ~2,000 (~1 per 65,000) |
+| Mega hospitals (at SMR hubs) | phasing in | 20 |
+| CMHIN (CSH / TRC / SLI) | 2,000 / 1,000 / 200 | scaled |
+| Corporate facilities (organic, est.) | emerging | ~5–15% (projection, not quota) |
+| Funding model | **Premium-funded** | Premium-funded |
+| Net premium revenue | ~$383B/year | scaled |
+| FCL healthcare contribution | ~$50B/year | scaled |
+| State bottom-tier subsidy | ~$45B/year | scaled |
+| Healthcare SWF / Mental Health SWF | **Removed** | — |
+| Healthcare loans | DLB-indexed 4–5% (co-op + corporate) | same |
+| Data architecture | PPK + CED (no CWD) | PPK + CED |
+| DAI / BAR | **Removed (fiat)** | — |
 
 ---
 
 ## Design Philosophy (Informative)
 
-The Healthcare Act is the **compassionate core** of New Crossroads. Where the FCL Act provides the cooperative business structure, the Healthcare Act applies that structure to medicine — and in doing so, creates something rare: a healthcare system that is member-owned, professionally staffed, and financially sustainable.
+Healthcare in New Crossroads is **universal, premium-funded, and co-op-led** — the state owns less and guarantees more.
 
-**Why Professional FCLs instead of "PCs"?**
-- The FCL Act already defines Professional FCLs (Section 2.3). Reusing that definition creates legislative consistency.
-- Professional FCLs offer two operational models: cost-share (each physician keeps their own revenue) or profit-share (pooled revenue). This flexibility allows clinics to choose what works for their practice.
-- Retainer client shares give patients a path to patronage returns without voting rights — preserving professional control while sharing financial benefits.
+- **Capacity radiates from the hubs.** Care is organized as a hierarchy that flows outward from the 20 nuclear hubs: the mega hospital where the power, water, and runways are; the super hospitals across the region; and the dense clinic layer in every community, doing real minor surgery so the hospitals can focus on the hard cases.
 
-**Why CCJV for clinics?**
-- A patient co-op / Professional FCL split is not a standard FCL (which would be 100% worker-owned). It is a joint venture between a patient co-op and a Professional FCL.
-- The FCL Act's CCJV provisions (Section 3.7) provide exactly this structure, with clear rules for governance, profit allocation, and dispute resolution.
-- The CCJV structure ensures patients retain control (51% minimum ownership) while professionals provide specialized services.
+- **The premium funds the commons; the market funds the extras.** Everyone pays into a system that covers everyone — physical and mental health alike, in one package. Those who want boutique care can buy it privately, pay-to-play, without draining the pool that covers their neighbor. And because the state subsidizes *capacity* — lending cheaply to co-op and corporate builders alike — even the private tier adds beds the whole nation benefits from, while paying full corporate tax for the privilege.
 
-**Why the 0.5% DAI floor for healthcare loans?**
-- Healthcare is a service-sector industry. The people who provide it receive substantial non-monetary compensation through the Education Act's mandatory service programs.
-- A lower DAI floor keeps borrowing affordable for clinics, hospitals, and mental health facilities.
-- This floor applies regardless of co-op GDP share — healthcare is a priority sector.
+- **No one dies at the nearest door.** In an emergency the ambulance goes to the closest facility, co-op or corporate, and the public system pays at cost — proximity saves lives, and no one is bankrupted for being taken to the nearest help.
 
-**Why co-op healthcare preference (not quotas)?**
-- Co-ops and Professional FCLs receive first right of refusal for healthcare facility licenses, CCJV approvals, and SWF funding.
-- If no qualified co-op applies, a corporation may take the license.
-- No binding quota means no enforcement action if co-op share fluctuates.
-- The 65% figure from 2025 is a descriptive baseline, not a target.
+- **The state's burden shrinks, coverage grows.** By shifting from ~$180B of SWF operating funding to a self-funding premium model, the state's healthcare cost falls to a ~$45B subsidy for those who need it — while coverage extends to the entire population. Lean state, universal care.
 
-**Why informal protection for healthcare payments?**
-- A family paying a clinic fee in cash should not need a BWC wallet or a CWD profile. The transaction is below the DLB threshold. It is protected.
-- Micro-loans for healthcare expenses (self-attested income, 24hr approval) ensure informal workers are not excluded from care.
+- **Identity and care are separate.** Medical records live with the citizen in the PPK; the economic ledger sees only pseudonymized value. The system knows what care cost; it does not surveil who received it.
 
-The Healthcare Act is not about maximizing profit. It is about delivering care — efficiently, humanely, and without surveilling the patients who pay in cash. The Professional FCLs provide the expertise. The patient co-ops provide the ownership. The CCJV structure provides the partnership. And the DAI ensures deflation does not make healthcare unaffordable.
-
-When a patient pays a clinic fee in cash, or a physician joins a Professional FCL under the cost-share model, or a retainer client receives patronage returns on their fees — they will know that New Crossroads built a healthcare system that respected both the healer and the healed.
-
-That is the Healthcare Act.
+Universal coverage, a lean state, capacity radiating from the hubs, a private tier that adds rather than subtracts, and care kept separate from surveillance.
 
 ---
 
-**End of Draft 6.4**
+**End of Draft 6.5**
