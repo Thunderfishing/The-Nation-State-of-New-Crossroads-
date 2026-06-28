@@ -94,7 +94,7 @@ Each public school separates asset ownership from instructional operation:
 | Operator | Teacher Professional FCL | 30% of school FCL | Pedagogy, curriculum delivery, teacher hiring/firing, schedule, instructional spending |
 
 - **Local School Board:** parents, PTA, military liaison, sports/recreation representative; approves the annual budget (subject to Teacher Co-op veto on instructional spending); participates in joint hiring/firing of the principal (60% board / 40% teacher co-op vote).
-- **Teacher Professional FCL:** all licensed teachers are members (1 teacher, 1 vote internally; 30% voting power on the joint committee). Cost-share model: each teacher's compensation = (their student load Ã· total school load) Ã— instructional voucher revenue + base stipend. Teachers elect a Teacher Council (3â€“7 members) to the joint committee. Parents may hold non-voting retainer shares (2â€“8% patronage, capped at 20% of Teacher Co-op equity).
+- **Teacher Professional FCL:** all licensed teachers are members (1 teacher, 1 vote internally; 30% voting power on the joint committee). Cost-share model: each teacher's compensation = (their student load Ã· total school load) Ã— instructional voucher revenue + base stipend. Teachers elect a Teacher Council (3-7 members) to the joint committee. Parents may hold non-voting retainer shares (2â€“8% patronage, capped at 20% of Teacher Co-op equity).
 - **Joint Management Committee:** decisions requiring both parties run through a committee sized to the school (e.g., 5-member: 3 board + 2 teacher; up to a 7-member board + Teacher Council for large schools), with defined Teacher Co-op veto rights over instructional spending.
 
 ### 3.3 Voucher System
