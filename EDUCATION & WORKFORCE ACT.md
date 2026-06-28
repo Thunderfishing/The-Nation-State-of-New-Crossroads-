@@ -82,7 +82,7 @@ No binding sector quotas apply. Sector splits are descriptive baselines, not enf
 
 - **School start time:** for **ages 16-18, the classroom portion begins at 10 AM**, reflecting adolescent sleep needs. **The apprenticeship portion is excluded** â€” apprenticeships run on the host workplace's hours. The 19-20 full-time apprenticeship runs entirely on workforce hours.
 
-**The training timeline this produces (example â€” a doctor):** part of age 16 (exploration into medicine) + ages 17, 18 (school-primary credentialing) + ages 19, 20 (full-time clinical apprenticeship) â‰ˆ **4+ solid years of training by age 20.** A journeyman doctor arriving at a hospital at 20 therefore needs only **~2 more years under master/grandmaster supervision** to reach full credential â€” front-loaded training means short on-the-job supervision. The same front-loading applies across all trades.
+**The training timeline this produces (example: doctor):** part of age 16 (exploration into medicine) + ages 17, 18 (school-primary credentialing) + ages 19, 20 (full-time clinical apprenticeship) â‰ˆ **4+ solid years of training by age 20.** A journeyman doctor arriving at a hospital at 20 therefore needs only **~2 more years under master/grandmaster supervision** to reach full credential â€” front-loaded training means short on-the-job supervision. The same front-loading applies across all trades.
 
 ### 3.2 School Governance: Hybrid FCL Model
 
@@ -177,7 +177,7 @@ Co-op clubs (sports, arts, recreation) integrate into school governance with boa
 
 ### 5.4 Graduate Allocation Pipeline (Descriptive Projection)
 
-The system credentials **~1,000,000 journeymen/year**, distributed across sectors by student choice and economic demand. **These are descriptive projections, not binding quotas** â€” no loan, voucher, or credential decision is conditioned on hitting them.
+The system credentials **~1,000,000 journeymen/year**, distributed across sectors by student choice and economic demand. **These are descriptive projections, not binding quotas** - no loan, voucher, or credential decision is conditioned on hitting them.
 
 | Sector | ~Graduates/year |
 | :--- | ---: |
