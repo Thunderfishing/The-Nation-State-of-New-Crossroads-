@@ -5,7 +5,7 @@ date: "2026-06-27"
 author: "Thunderfish2"
 repository: "crossroads-monetary-act"
 description: "Companion legislation to the Monetary Act 9.5, Credit Union Act 5.4, and FCL Structure Act. A debt-free, front-loaded education and workforce system for 18M students: hybrid co-op schools, a $10,000 voucher, an age-16 career-exploration year, a school-then-apprenticeship flip across secondary and mandatory service, lifelong free re-entry for dropouts, and a full graduate-allocation pipeline feeding every sector including both health systems."
-supersedes: "Draft 2.1 â€” voucher raised to $10,000; the $75,000 journeyman-earnings target removed; age-16 exploration year with aptitude testing, observation rotation, and up to 3 track-switches added; secondary/service flip clarified (16-18 school-primary, 19-20 apprenticeship-primary); 10 AM school start for 16â€“18; dropout and lifelong re-entry mechanism clarified; full graduate-allocation pipeline added (both health systems numbered); CWD replaced by PPK/CED; references updated to Monetary 9.5 / Credit Union 5.4; DAI/BAR and metal-reserve references removed."
+supersedes: voucher raised to $10,000; the $75,000 journeyman-earnings target removed; age-16 exploration year with aptitude testing, observation rotation, and up to 3 track-switches added; secondary/service flip clarified (16-18 school-primary, 19-20 apprenticeship-primary); 10 AM school start for 16-18; dropout and lifelong re-entry mechanism clarified; full graduate-allocation pipeline added (both health systems numbered); CWD replaced by PPK/CED; references updated to Monetary 9.5 / Credit Union 5.4; DAI/BAR and metal-reserve references removed."
 ---
 
 # Crossroads Education and Workforce Act of 2025: Draft 2.2
@@ -24,7 +24,7 @@ supersedes: "Draft 2.1 â€” voucher raised to $10,000; the $75,000 journeyma
 
 This act establishes a **debt-free, front-loaded education and workforce system** for **18 million students (ages 5-20)** and ~13 million journeymen, within a co-op-dominant economy scaling toward ~$38.94T GDP by 2075. It fosters a co-op education sector through incentives while supporting Teacher Professional FCLs and protecting school choice.
 
-**Governance innovation:** each public school is a hybrid FCL â€” **70% Local School Board** (parents, PTA, military liaison, sports representative) and **30% Teacher Professional FCL** (all licensed teachers at the school).
+**Governance innovation:** each public school is a hybrid FCL **70% Local School Board** (parents, PTA, military liaison, sports representative) and **30% Teacher Professional FCL** (all licensed teachers at the school).
 
 The act provides a **$10,000/year voucher** (following the student to any licensed school), a **front-loaded training structure** that flips from school-primary (16-18) to apprenticeship-primary (19-20 mandatory service), and **lifelong free re-entry** for anyone who never used their voucher. A **~$175B net Education SWF allocation** (per the Consolidated Fiscal Model; gross ~$200B less ~$25B FCL education contribution) supports operations, managed by the National Learning Council (NLC) with the credit unions and FCLs.
 
