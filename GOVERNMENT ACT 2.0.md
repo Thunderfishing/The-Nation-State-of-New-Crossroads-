@@ -1,453 +1,319 @@
-# Crossroads Government Act of 2025: Draft 4.17
+---
+title: "Crossroads Government and Constitutional Structure Act of 2025"
+draft: "4.18"
+date: "2026-06-27"
+author: "Thunderfish2"
+repository: "crossroads-monetary-act"
+description: "The constitutional backbone of New Crossroads: a USA-modeled federal structure with a territorial chamber (Regional Boards) and a sectoral chamber (National Assembly), an executive Central Council, an independent Supreme Court, independent regulatory boards, independent special-prosecutor auditors, and citizen lawmaking. Companion to all sector acts."
+supersedes: "Draft 4.17 — added the USA-modeled structure overview (territorial + sectoral chambers); special auditors rebuilt as independent special prosecutors; consolidated Governing Bodies & Domains reference (NEB, NHB, NLC, new National Communications Board) with staff and funding; dual-sector grandmaster roles highlighted (one sits on the SAP); CWD replaced by PPK/CED; BWC fiat (metal backing removed); references updated to Monetary 9.5 / Credit Union 5.4 and aligned to Healthcare 6.5 / Education 2.2 / Military 1.7 figures."
+---
 
-**Posted to r/Bulwarkomics**  
-**Draft**: 4.17 | **Date**: April 12, 2026  
+# Crossroads Government and Constitutional Structure Act of 2025: Draft 4.18
 
-> **Cross-reference**: This act is companion legislation to the *Crossroads Monetary Reform & Economic Stabilization Act of 2025 (Draft 9.1)* and the *Crossroads Credit Union Act of 2025 (Draft 5.1)*. 
+**Posted to r/Bulwarkomics**
+**Draft:** 4.18 | **Date:** June 27, 2026
+**Author:** Thunderfish2
 
-The **Crossroads Government Act of 2025 (Draft 4.17)** establishes a decentralized, worker-led government for **New Crossroads**, post a 2025 revolution. The system is designed to foster a **co-op dominant productive economy through incentives**, while supporting a dynamic corporate sector and protecting universal informal cash commerce. 
+> **Cross-reference.** Companion to the **Monetary Act 9.5**, **Credit Union Act 5.4**, and all sector acts (Healthcare 6.5, Education 2.2, FCL 3.2, Parks 3.2, Communications 4.2, Infrastructure 2.3, Military 1.7, Energy, Utilities, Industry, Housing). The currency is fiat (BWC, no metal backing). Identity and voting use the citizen-held **PPK**; pseudonymized economic data uses the **CED**; the two join only via the warranted Judicial Link Box (Monetary §5). There is no CWD.
 
-It serves 112 million citizens (94 million Corporate Citizens) with a $14.5 trillion GDP (2025 baseline: 65% co-ops/$9.425 trillion, 15% corporate/$2.175 trillion, 20% informal/$2.9 trillion), targeting $38.94 trillion GDP by 2075. Governed by **20 Regional Boards** (220 members), a **10-member National Assembly**, and an **11-member Central Council**, it operates without a central leader, supported by 10 economic sectors and 5,000 credit unions acting as a decentralized central bank. The act manages $601.58 billion revenue, $550 billion Sovereign Wealth Fund (SWF), $452.5 billion loans, and $15.04 billion reserve-backed Wallets, integrating geographic hubs (e.g., Corridon, Frostpeak), sustainability (parkweb, greenhouses), and co-op empowerment.
+> **Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios. Economic magnitudes that live in other acts are referenced, not re-derived; where this act previously carried stale or internally inconsistent figures, they are aligned to the Consolidated Fiscal Model.
 
 ---
 
-## Section 1: Local Level—Sectors, Credit Unions, and Incorporation  
+## Government Structure Overview (USA-Modeled)
 
-### 1.1 Economic Sectors  
-Ten sectors anchor New Crossroads' economy and governance: **Industry & Infrastructure**, **Health**, **Education**, **Agriculture**, **Trade & Corporate**, **Media & Communications**, **Legal & Judiciary**, **Defense/Aerospace & Tech**, **Co-op**, **Treasury**, mapped to hubs (e.g., Corridon River for Industry & Infrastructure, Heartland Plains for Agriculture, Crossroads City for Co-op). Treasury oversees 5,000 credit unions, issuing Bulwark Coin (BWC, variable 25–50% metal backing per Monetary Act 9.1) and managing $452.5 billion loans.
+New Crossroads is a federal republic modeled on the United States, with one structural innovation: **its legislature is split between a territorial chamber and a sectoral chamber.**
 
-- **Membership**: At age 20 **Citizens** are auto-incorporated, assigned to 1 sector based on diploma/service. Sector switch every 5 years via credit unions (250/region). Juniors (12–19, $10,000+ revenue or $500 loans) pre-incorporate. Dropouts (900,000–1.8 million) assigned via apprenticeships. By 2075, 109 million citizens (130 million population).
+| Branch | Body | Basis of Representation | US Analogue |
+| :--- | :--- | :--- | :--- |
+| **Legislature — territorial chamber** | **20 Regional Boards** (220 members) | By **place** — each region elects masters | The Senate (+ state legislatures) |
+| **Legislature — sectoral chamber** | **National Assembly** (10 grandmasters) | By **trade** — one grandmaster per economic sector | The House (by interest, not district) |
+| **Executive** | **Central Council** (11 members) | Elected by Regional Boards, confirmed by Assembly | The President + Cabinet |
+| **Judiciary** | **Supreme Court** (7 justices) + 200 regional judges | Nominated by Regional Boards, confirmed by Assembly | The federal courts |
+| **Independent regulators** | NEB, NHB, NLC, NCB (paired with departments) | Appointed by Council, confirmed by Boards | Independent agencies (Fed, FCC, etc.) |
+| **Independent prosecutors** | Special Auditors | Self-initiating; removable only by joint Council + Board action | Special/independent prosecutors |
 
-- **Functions**:
-  - *Regional*: Masters coordinate $22.625 billion loans/region. Loan allocation is determined by creditworthiness and productive use, not sector quotas. The historical baseline (2025) was approximately 65% co-op, 15% corporate, 20% informal — descriptive, not prescriptive. Sector councils (50 masters/sector/region, elected by 10,000 masters) draft proposals (3-month review, CWD-tracked). 51% master vote (100,000/200,000) submits to Regional Boards (e.g., Education funding Frostpeak schools).
-  - *Federal*: Grandmasters propose laws for 94 million voters every 5 years (6/10 vote, 12-month vetting).
+**The dual-chamber logic:** the **Regional Boards** represent the nation as *places* (a region's interests, like a US state's), while the **National Assembly** represents the nation as *trades* (a sector's interests). A law touching, say, energy must satisfy both the regions it affects and the sector that runs it. The **Central Council** executes; the **Supreme Court** judges; **independent boards** regulate; **independent special-prosecutor auditors** police the books of anyone — including the officials above them.
 
-- **Master/Grandmaster Criteria**:
-  - *Masters*: 3+ years post-service, 5+ apprentices ($10,000+ co-op revenue), $100,000 revenue. Elected by 13 million journeymen (2 million total, 200,000/sector).
-  - *Grandmasters*: 10+ apprentices, 80% retention, $1.5 million impact. Elected by 2,000 masters/sector.
-  - *Cross-Sector Masters*: 1 million (50,000/region), vote in 2 sectors (15% cap, ~705,000/4.7 million voters/region/sector).
+Regional Boards double as both their region's **state legislature** (police, education, healthcare oversight, credit-union audits within the region) and the nation's **territorial upper body** (electing the Central Council, confirming national appointments, nominating the Supreme Court, overriding vetoes).
 
-- **Voting**: ~4.7 million voters/region (94 million total, adjusted: 6.5 million Corridon, 3 million Frostpeak/Ember) vote for 10 masters/sector every 5 years (biennial cycles, ~235,000 co-op votes: 1 vote/1,000 employees, 5% cap). Dropouts vote for wildcards, credit union/FCL boards. Juniors vote for FCL boards if members. $10 BWC credits incentivize turnout (~90 million voters, $850 million/year). By 2075, 109 million voters.
+---
+
+## Section 1: Local Level — Sectors, Credit Unions, and Incorporation
+
+### 1.1 Economic Sectors
+
+Ten sectors anchor the economy and governance: Industry & Infrastructure, Health, Education, Agriculture, Trade & Corporate, Media & Communications, Legal & Judiciary, Defense/Aerospace & Tech, Co-op, Treasury — mapped to hubs (e.g., Corridon River for Industry & Infrastructure, Heartland Plains for Agriculture, Crossroads City for Co-op). Treasury oversees 5,000 credit unions issuing **Bulwark Coin (BWC, the national fiat currency — not metal-backed; value held by the Monetary Act §1.5 issuance anchor)** and managing ~$452.5B in loans.
+
+- **Regional:** masters coordinate ~$22.625B loans/region. Loan allocation is by creditworthiness and productive use, not sector quotas. The 2025 baseline (~65% co-op, 15% corporate, 20% informal) is descriptive, not prescriptive. Sector councils (50 masters/sector/region, elected by 10,000 masters) draft proposals (3-month review, recorded via the **CED** for economic matters and the **PPK** for member identity). A 51% master vote (100,000/200,000) submits to Regional Boards.
+- **Federal:** grandmasters propose laws for 94M voters every 5 years (6/10 vote, 12-month vetting).
+- **Cross-Sector Masters:** 1 million (50,000/region), vote in 2 sectors (15% cap, ~705,000/4.7M voters/region/sector).
+
+**Voting:** ~4.7M voters/region (94M total; adjusted 6.5M Corridon, 3M Frostpeak/Ember) vote for 10 masters/sector every 5 years (biennial cycles; ~235,000 co-op votes: 1 vote/1,000 employees, 5% cap). Dropouts vote for wildcards and credit-union/FCL boards. Juniors vote for FCL boards if members. By 2075, 109M voters.
 
 #### 1.1.1 Master Nominations and Elections
 
-- **Elections**:
-  - *Masters*: 13 million journeymen nominate 10 candidates/sector/region (10% endorsement), elect 10,000/sector/region via 51% vote (~4.7 million voters/region, blockchain-secured). 30-day campaigns, $1 billion SWF for co-op forums. $10 BWC credits ($850 million/year).
-  - *Grandmasters*: 2,000 masters/sector nominate 3 candidates, elect 1 via 51% vote.
-
-- **Board Nominations**:
-  - *Sectoral Nominating Panels (SNPs)*: 9 sectors (180 panels, 9/region), 15 masters/SNP, opt-in lottery. Treasury lottery (51 staff/region). Nominate 2 candidates via 51% vote (FCL revenue $100,000+). 3-month deliberation, 15-day runoffs, Legal & Judiciary disputes.
-  - *Regional Energy Assemblies (REAs)*: Industry & Infrastructure, 100–200 members/district, nominate 2 candidates.
-  - *Regional Health Assemblies (RHAs)*: Health, 100–200 members/district, nominate 2 candidates.
-  - *Transparency*: Credit unions publish profiles (30 days, $1 million/region).
-
-- **Funding**: $500 million/year (councils, elections), $463 million/year (SNPs/REAs/RHAs), $150 million/year (blockchain), $850 million/year (BWC credits), from $550 billion SWF.
+- **Masters:** 13M journeymen nominate 10 candidates/sector/region (10% endorsement), elect 10,000/sector/region via 51% vote (~4.7M voters/region, blockchain-secured, eligibility verified by PPK zero-knowledge proof). 30-day campaigns, 10 BWC credits (~$850M/year).
+- **Grandmasters:** 2,000 masters/sector nominate 3 candidates, elect 1 via 51% vote.
+- **Sectoral Nominating Panels (SNPs):** 9 sectors (180 panels, 9/region), 15 masters/SNP, opt-in lottery (Treasury lottery, 51 staff/region). Nominate 2 candidates via 51% vote (FCL revenue $100,000+). 3-month deliberation, 15-day runoffs, Legal & Judiciary disputes.
+- **Funding:** ~$500M/year (councils, elections), ~$463M/year (SNPs/REAs/RHAs), ~$150M/year (blockchain/PPK-CED systems), ~$850M/year (BWC credits), from the SWF.
 
 ### 1.2 Credit Unions
 
-5,000 credit unions (250/region) issue BWC (variable 25–50% metal backing per Monetary Act 9.1), managing $452.5 billion loans ($217.5 billion SWF, $235 billion banking, $50 billion non-SWF), $208 billion banking suite, $15.04 billion wallets, $94 billion shares. Credit unions lend based on creditworthiness and productive use. Loan data is reported for economic monitoring per the Monetary Act's Economic Health Dashboard. Details in Credit Union Act 5.1.
+5,000 credit unions (250/region) issue fiat BWC, managing ~$217.5B SWF + $50B non-SWF, ~$15.04B wallets, ~$94B shares. Credit unions lend on creditworthiness and productive use; loan data is reported (pseudonymized, via the CED) for economic monitoring per the Monetary Act's Economic Health Dashboard. Detail in Credit Union Act 5.4.
 
-- **Board Elections**: Members (1–1,000 shares) elect 5–7 board members ($75,000/year, $525 million/year) every 3 years, trained via Credit Union Academy ($500 million/year). Boards oversee loans, banking suite, and shares. No binding sector quotas apply.
-
-- **Functions**:
-  - *Loans*: $452.5 billion. Loan allocation is determined by creditworthiness. The 2025 historical baseline (co-op ~$294B, corporate ~$68B, informal ~$90.5B) is descriptive, not prescriptive.
-  - *Banking Suite*: $208 billion ($94 billion checking, $94 billion savings, mutual funds, GICs, bonds, crypto, retirement).
-  - *Wallets*: $15.04 billion ($50/citizen, to $326 by 2075).
-  - *Shares*: $94 billion base ($1/BWC, max 1,000/citizen, 4–8% dividends).
-  - *Revenue*: $96.6185 billion/year, including $22.87 billion from fees (BWC Transaction: $15 billion, Cash Swap: $362.5 million, Checking: $940 million, ETF: $705 million, Liquidity: $2.2625 billion, Micro-Loan: $200 million, Micro-Loan Interest: $400 million, Non-SWF Interest: $2.5 billion, Insurance: $500 million), $2.48 billion SMSWF profits, $71.2685 billion reserve interest/investments.
-
-- **CLS**: 60,000 officers manage loans, issue $500 student venture loans (ages 12–15, lenient criteria, loan advice, mentorship for $10,000+ revenue or path-altering ventures), support bankruptcy recovery, **monitor economic health indicators per the Monetary Act's Economic Health Dashboard**. CLS Academy ($1.5375 billion/year) trains officers. Cost: $1.875 billion/year, funded by $1.5375 billion credit union revenue and $337.5 million SWF.
-
-- **Oversight**: CWD ($150 million/year) tracks loans, boards, CLS metrics, audited by 50–75 auditors, $1 billion blockchain/AI, capping $2.5 billion fraud.
+- **Board Elections:** members (1–1,000 shares) elect 5–7 board members (~$75,000/year, ~$525M/year) every 3 years, trained via the Credit Union Academy (~$500M/year). Boards oversee loans, banking suite, and shares. No binding sector quotas.
+- **Oversight:** the **CED** (part of the ~$450M/year PPK+CED system) tracks loans, boards, and CLS metrics (pseudonymized), audited by the Special Auditors (§4.3) with blockchain/AI support, capping fraud at ~$2.5B.
 
 ### 1.3 Citizen Incorporation
 
-At age 20, citizens receive:
-- Blockchain ID, auto-incorporation for co-op/informal access.
 - 1 vote, 1 base share ($1/BWC, up to 1,000, 4–8% dividends).
-- $50 BWC wallet (variable metal backing, to $326 by 2075) for $500 micro-loans.
-- Untaxed informal income under $100,000.
-
-- **Juniors**: Ages 12–19 with $10,000+ revenue or $500 loans open accounts (blockchain ID, 1 share, $50 wallet, no voting until 20, $2 million/year).
-
-- **Dropouts**: Access $5 billion/year apprenticeships, vote for wildcards, credit union/FCL boards.
-
-- **Citizen Flow Program**: $15 billion SWF-funded campaign educates 112 million on elections, governance, fraud prevention, sustainability via AM radio, TV, internet, managed by Governance Training Program, tracked via CWD.
-
----
+- **Dropouts:** access apprenticeship re-entry (free if voucher unused, to age 65 — Education Act 2.2); vote for wildcards and credit-union/FCL boards.
+- **Citizen Flow Program:** ~$15B SWF-funded campaign educates the population on elections, governance, fraud prevention, and sustainability via AM radio, TV, and internet; managed by the Governance Training Program; program metrics tracked via the CED (pseudonymized).
 
 ### 1.4 Auto-Incorporation at Age 20 (Clarified)
 
 At age 20, every citizen receives:
 
 | Component | What it is | What it is NOT |
-|-----------|------------|----------------|
-| Blockchain ID | Digital identity for voting, banking, CWD | Not a business license |
-| $50 BWC wallet | Digital currency account (scales to $326 by 2075) | Not a corporate bank account |
-| 1 base share ($1/BWC) | Credit union membership share (4–8% dividends) | Not equity in a co-op |
-| Right to work | May engage in any lawful economic activity | Not a license to practice regulated trades |
-| Informal sector access | May conduct cash commerce below DLB threshold | Not tax-exempt (but informal wages under $100k untaxed) |
+| :--- | :--- | :--- |
+| **PPK (Blockchain ID)** | Citizen-held digital identity for voting, credentials, and banking authentication | Not a business license |
+| **$50 BWC wallet** | Digital fiat-currency account | Not a corporate bank account |
+| **1 base share ($1/BWC)** | Credit-union membership share (4–8% dividends) | Not equity in a co-op |
+| **Right to work** | May engage in any lawful economic activity | Not a license to practice regulated trades |
+| **Informal sector access** | May conduct cash commerce below the DLB threshold | Not tax-exempt (but informal wages under $100k untaxed) |
 
-**What auto-incorporation does NOT grant**:
-- Automatic business license (sole proprietorship, partnership, co-op, or corporation)
-- Limited liability protection
-- The right to hire employees as a business entity
-- The right to issue shares or take investors
+*(The wallet holds fiat BWC; the prior "scales to $326 by 2075" per-coin metal-backing figure is removed.)*
 
-**To operate as a business** (hire employees, take investors, access limited liability, issue shares), a citizen must register as:
-- A **co-op (FCL)** — preferred (lower taxes, lighter governance, voluntary CCIF access)
-- A **corporation** — permitted (subject to corporate governance requirements per Monetary Act 9.1 Section 4.1)
+**Auto-incorporation does NOT grant:** an automatic business license; limited liability; the right to hire employees as a business entity; the right to issue shares or take investors.
 
-This distinction preserves the informal economy (where citizens work for themselves, cash-only, no registration required) while providing a clear ladder to formal business status.
+To operate as a business, a citizen must register as **a co-op (FCL)** — preferred (lower taxes, lighter governance, voluntary CCIF access) — or **a corporation** — permitted (subject to corporate-governance requirements per Monetary Act 9.5 §4.1). This preserves the informal economy (cash-only, no registration) while providing a clear ladder to formal business status.
 
 ### 1.5 Right to Work (Without License)
 
-**Any citizen may engage in any lawful economic activity without a business license**, except where:
-- Public safety requires licensure (medical doctor, electrician, lawyer, engineer, aircraft pilot)
-- Environmental protection requires permits (mining, logging, large-scale agriculture)
-- The activity involves regulated substances (pharmaceuticals, nuclear materials, weapons)
+Any citizen may engage in any lawful economic activity without a business license, except where public safety requires licensure (doctor, electrician, lawyer, engineer, pilot), environmental protection requires permits (mining, logging, large-scale agriculture), or regulated substances are involved (pharmaceuticals, nuclear materials, weapons).
 
-**Licensed trades** require credentials from the Education Act (journeyman, master, grandmaster status). A citizen with journeyman credentials may practice their trade as an independent worker without forming a co-op or corporation.
-
-**Example**: A journeyman electrician (age 20, just completed mandatory service) may:
-- Fix wiring in neighbors' homes for cash (informal, no license needed — already credentialed)
-- Keep all earnings (informal wages under $100k untaxed)
-- Deposit cash to BWC for free at any credit union
-- Choose to form a co-op later if they want to hire other electricians
-
-This is not a gap. It is the intentional design of the informal economy guarantee (Monetary Act Section 1A).
+Licensed trades require Education Act credentials (journeyman/master/grandmaster). A journeyman may practice independently without forming a co-op or corporation. *Example:* a journeyman electrician (age 20) may fix neighbors' wiring for cash (informal, already credentialed), keep all earnings (informal wages under $100k untaxed), deposit cash to BWC free at any credit union, and form a co-op later to hire others. This is the intentional design of the Informal Economy Guarantee (Monetary §1A).
 
 ---
 
-### Overview: Two Votes per Citizen
+## Section 2: Voting System
 
-Every citizen aged 20+ receives **two votes**:
+### 2.1 Overview — Two Votes per Citizen
 
-| Vote Type | What it elects | Weight | Notes |
-|-----------|----------------|--------|-------|
-| **Sector Vote** | Masters (10 per sector per region) | 1 citizen = 1 vote | Vote follows your sector of employment |
-| **Wildcard Vote** | Wildcard representatives (1 per region) | 1 citizen = 1 vote | At-large, no sector restriction |
+Every citizen aged 20+ receives **two votes**: a **Sector Vote** (1 citizen = 1 vote, following your sector of employment) and a **Wildcard Vote** (1 citizen = 1 vote, for at-large wildcard representatives). Cross-sector masters vote in both their sectors (2 sector votes + 1 wildcard = 3 total); grandmasters vote in all sectors where they hold grandmaster status.
 
-**Cross-sector masters** (citizens with master status in two sectors) may vote in **both sectors** (2 sector votes + 1 wildcard vote = 3 total votes). Grandmasters similarly may vote in all sectors where they hold grandmaster status.
+### 2.2 Who Votes for What
 
-### 2.2 Who Votes for What (Complete Chart)
+| Election | Electorate | Votes per voter |
+| :--- | :--- | :--- |
+| Sector masters (Regional Board) | ~4.7M voters/region | 1 (sector vote) |
+| Wildcards (Regional Board, Central Council) | 94M voters | 1 (wildcard vote) |
+| Regional Board members (internal elevation) | Masters only | 1 (internal) |
+| Central Council members | Regional Board masters (200) | 1 (internal) |
+| National Assembly grandmasters | 2,000 masters/sector | 1 (internal) |
+| Credit union / FCL boards | Members | 1 member, 1 vote |
 
-| Position | Elected by | Number of positions | Term | Votes per voter |
-|----------|------------|---------------------|------|-----------------|
-| **Masters** (sector representatives) | Journeymen and masters in that sector (13M total) | 10 per sector per region (2,000 total per region) | 5 years | 1 (sector vote) |
-| **Wildcards** (at-large regional reps) | All citizens in region (~4.7M) | 1 per region (20 total) | 1 year | 1 (wildcard vote) |
-| **Regional Board members** (masters only) | Masters in region (2,000) | 10 masters + 1 wildcard (11 per region) | 5 years (masters), 1 year (wildcard) | Masters: 1 vote (internal) |
-| **Central Council members** (masters only) | Regional Board masters (200 total) | 10 masters + 1 wildcard (11 total) | 5 years | 1 vote (internal) |
-| **National Assembly grandmasters** | Masters in sector (2,000 per sector nationally) | 1 per sector (10 total) | 5 years | 1 vote (internal) |
-| **Credit Union Board members** | Credit union members (1–1,000 shares) | 5–7 per credit union (25,000–35,000 total) | 3 years | 1 member, 1 vote |
+**Co-op additional votes:** a co-op casts 1 additional vote per 1,000 employees, capped at 5% of total votes in any election, exercised by an elected member representative. *Rationale:* co-ops are member-owned; this recognizes economic weight without letting large co-ops dominate (a 5,000-employee co-op gets 5 votes — 0.0001% of a regional electorate).
 
-### Co-op Voting Power
+**BWC credit per vote:** ~10 BWC, targeting ~90% turnout.
 
-Co-ops (FCLs) receive **additional voting power** proportional to employment:
-
-| Co-op size (employees) | Additional votes | Cap |
-|------------------------|------------------|-----|
-| 1–1,000 | 1 vote | 5% of total votes in any election |
-| 1,001–2,000 | 2 votes | 5% cap |
-| 2,001–3,000 | 3 votes | 5% cap |
-| ... | ... | ... |
-| 10,000+ | 10 votes | 5% cap (cannot exceed 5% of total) |
-
-**Rationale**: Co-ops are member-owned. Their "vote" is exercised by a designated member representative (elected by the co-op's workers). This prevents large co-ops from dominating elections while still recognizing their economic weight.
-
-**Example**: A co-op with 5,000 employees gets 5 additional votes. In a regional election with 4.7 million voters, 5 votes is 0.0001% — negligible. The cap ensures no co-op can exceed 5% of total votes, even in small local elections.
-
-### Voting Incentives
-
-| Incentive | Amount | Funded by | Notes |
-|-----------|--------|-----------|-------|
-| BWC credit per vote | $10 BWC | SWF ($850M/year) | Paid automatically to wallet after voting |
-| Turnout target | 90% of eligible voters | SWF | Additional $5 BWC if region exceeds 90% |
-
-**Asymmetric scrutiny**: Voting records are private. CWD tracks only whether a citizen voted (not how they voted). Cash voting credits are untaxed and untracked.
-
-## Section 2: Regional Level
-
-### 2.1 Regional Boards
-
-Each of 20 regions (e.g., Region 1: Crossroads City/Corridon, 6.5 million voters; Region 3: North Valley City/Frostpeak, 3.5 million voters) has an 11-member Board (220 total). **Regional Boards function as the primary state legislatures for their regions**, exercising legislative, oversight, and budgetary authority over regional affairs.
-
-- **Composition**: 10 masters (1/sector), 1 wildcard.
-- **Nomination**: SNPs, REAs, RHAs nominate 2 candidates/sector/region.
-- **Election**: ~4.7 million voters/region elect 10 masters every 5 years, 94 million elect 20 wildcards annually ($1.5 billion voter mobilization, $850 million/year BWC credits). 5-year terms (masters), 1-year terms (wildcards). By 2075, 109 million voters.
-- **Wildcard Powers**: Propose 1 resolution/meeting (e.g., $500 million informal co-ops), requiring 6/11 approval. Resolve tied votes, chair quarterly forums ($20 million/year).
-- **Chairman**: Elected annually by 6/11 vote (masters only).
-
-**State Legislature Functions**:
-
-- **Regional Governance**: Manage $22.625 billion loans/region, audited via CWD. Loan allocation is determined by creditworthiness. Sector data is reported for economic monitoring (per Monetary Act Economic Health Dashboard). Oversee $10.4 billion banking accounts/region, $752 million wallets/region.
-
-- **Law Enforcement**: Fund and oversee regional police forces, ensuring public safety coordination across municipalities. Allocate resources from regional discretionary funds to support police training, equipment, and community safety programs.
-
-- **Education Oversight**: Administer education funding within the region, including $94.35 billion national voucher system implementation, oversight of regional schools, and coordination with the national Education department on curriculum standards and dropout apprenticeship programs.
-
-- **Healthcare Oversight**: Manage regional healthcare infrastructure, including clinic loans ($47.125 billion nationally, distributed regionally), coordinate with the National Healthcare Board on regional health priorities, and oversee distribution of healthcare SWF allocations within the region.
-
-- **Auditing Powers**: Conduct regular audits of the 250 credit unions within the region, examining loan allocations, banking suite performance, and compliance with credit union governance requirements (per Credit Union Act 5.1). Audits occur biannually with reports submitted to the Central Council and made publicly available via CWD.
-
-- **Infrastructure Coordination**: Fund and coordinate regional infrastructure projects, including Corridon barges ($15.75 billion), 50,000 km rail ($37.5 billion), 97 million tons ports ($19.35 billion), with oversight from relevant sector departments.
-
-- **Sustainability**: Support regional sustainability initiatives: $50 million/region for greenhouses, $25 million/region for Heartland Valley Eco-Zone.
-
-- **National Appointments**: Approve Central Council appointments (11/20 vote). **Nominate candidates for Supreme Court justices (7 seats)** for confirmation by the National Assembly.
-
-- **Emergency Review**: Review vetoes and emergency powers (15/20 vote to overturn).
-
-- **Discretionary Funds**: Manage $4.9625 billion/region in discretionary funds, scaling to $13.255 billion by 2075.
-
-- **Co-op Stabilization**: Administer $500 million/region Co-op Stabilization Fund ($10 billion/year nationally).
-
-- **Operations**: Monthly meetings, biannual audits. Budgets: $27.5 million/region ($550 million total), from $601.58 billion revenue.
-
-### 2.2 Judiciary
-
-**Regional Judges**: 200 judges (10/region) appointed by Regional Boards (6/11 vote), 10-year terms. Legal & Judiciary sector oversees $208 billion banking audits, $15.04 billion wallets, $94 billion shares, $2.5 billion fraud cap, disputes (e.g., parkweb violations).
-
-**Supreme Court**: 7 justices nominated by Regional Boards (11/20 vote) and confirmed by the National Assembly (6/10 vote). Justices serve 15-year terms with a mandatory retirement age of 75. The Supreme Court hears appeals on constitutional questions, disputes between regions, conflicts between national bodies (Central Council, National Assembly, Regional Boards), and final appeals on cases involving the $2.5 billion fraud cap. Decisions require a 5/7 majority.
+**Asymmetric scrutiny:** voting records are private and held in the **PPK**. The system records (by zero-knowledge proof) only *whether* a citizen voted — never *how*. Cash voting credits are untaxed and untracked. No voting data ever enters the CED.
 
 ---
 
-## Section 3: National Level
+## Section 3: Regional and National Levels
 
-### 3.1 Central Council
+### 3.1 Regional Boards (The Territorial Chamber)
 
-- **Composition**: 11 members (10 masters: 1/sector, 1 wildcard).
-- **Election**: 200 regional masters of the Regional Boards elect 10 masters (101/200 vote). **Elected members must be confirmed by the National Assembly (6/10 vote) before taking office.** 94 million elect wildcard annually ($1.5 billion voter mobilization, $850 million/year BWC credits). 5-year terms, one-term limit. By 2075, 109 million voters.
-- **Chairman**: Elected by 6/11 vote (2-year term, masters only).
+Each of 20 regions (e.g., Region 1: Crossroads City/Corridon, 6.5M voters; Region 3: North Valley City/Frostpeak, 3.5M voters) has an **11-member Board (220 total)**. Regional Boards are the **primary state legislatures** for their regions *and* the nation's **territorial upper body**.
 
-- **Functions**:
-  - Oversee $601.58 billion revenue ($129.775 billion personal, $70 billion co-op, $9.25 billion corporate, $15 billion excise, $18.75 billion property, $49 billion tariffs, $15.65 billion fees; $276.18 billion minerals, $27.618 billion solar), with $96.6185 billion from credit unions, seeding $550 billion SWF, scaling to $1.6127 trillion revenue and $3.082 trillion SWF by 2075.
-  - Manage $550 billion SWF, funding sectoral, community ($10.1 billion Charity SWF), emergency ($50 billion), and mining SWFs, with $217.5 billion for loans.
-  - Manage $452.5 billion loans, $627.2 billion assets ($362.5 billion cash, $15.04 billion wallets, $94 billion shares, $208 billion accounts, $125–$175 billion reserve), scaling to $1.2084 trillion loans.
-  - Appoint 510 department staff, 200 judges, 3 SAP arbiters, 3 NEC directors, NEB experts/chairman (6/11 vote, 11/20 Boards confirm).
-  - Approve NEB strategic plans (e.g., $751.7 billion energy investments).
-  - Allocate $50 billion infrastructure, $30 billion R&D, $20 billion agro camps, $20 billion housing, $64.25 billion reserve, $500 million space launches.
-  - Manage sustainability: $50 million/year parkweb, $500 million/year CO2 pipelines, $1 billion greenhouses.
-  - Administer $10 billion/year Co-op Stabilization Fund.
+- **Election:** ~4.7M voters/region elect 10 masters every 5 years; 94M elect 20 wildcards annually (~$1.5B mobilization, ~$850M/year BWC credits). 5-year terms (masters), 1-year (wildcards).
+- **Wildcard Powers:** propose 1 resolution/meeting (e.g., $500M informal co-ops), requiring 6/11 approval; resolve tied votes; chair quarterly forums (~$20M/year).
+- **Chairman:** elected annually by 6/11 vote (masters only).
+- **Regional (state-legislature) Governance:** manage ~$22.625B loans/region (audited via the CED); oversee regional **police, education, and healthcare**; conduct **biannual credit-union audits** of the 250 credit unions per region (per Credit Union Act 5.4), reports to the Central Council and published publicly.
+- **National (territorial-chamber) Powers:** approve Central Council appointments (11/20); nominate Supreme Court justices (7 seats) for Assembly confirmation; **override vetoes and emergency powers (15/20 vote)**.
 
-- **Veto Power**: Block Assembly/Board decisions with 6/11 vote (7 days). Appeals via 15/20 Boards or SAP.
+### 3.2 Judiciary
 
-- **Emergency Powers**: NEC activation (6/11 vote, 90 days) or chairman action (30 days, >10% GDP crises), reviewed by 15/20 Boards.
+- **Regional Judges:** 200 (10/region), appointed by Regional Boards (6/11), confirmed by the National Assembly (6/10), 10-year terms. Legal & Judiciary sector oversees wallets, the ~$2.5B fraud cap, and disputes.
+- **Supreme Court:** 7 justices, nominated by Regional Boards (11/20) and confirmed by the National Assembly (6/10; 7/10 for chief justice). 15-year terms, mandatory retirement at 75. Hears constitutional questions, inter-regional disputes, conflicts between national bodies, and final fraud-cap appeals. Decisions require 5/7.
 
-- **Operations**: 9/11 quorum, $500 million ops, audited by 50–75 auditors, CWD.
+### 3.3 Central Council (The Executive)
 
-### 3.2 National Assembly
+- **Election:** the 200 regional masters of the Regional Boards elect 10 masters (101/200); elected members must be confirmed by the National Assembly (6/10) before taking office. 94M elect 1 wildcard annually. 5-year terms, one-term limit.
+- **Chairman:** elected by 6/11 (2-year term, masters only).
+- **Appointment Power:** appoint 510 department staff, 200 judges, 3 SAP arbiters, 3 NEC directors, and the experts/chairs of the independent boards (6/11 vote, 11/20 Boards confirm).
+- **Veto Power:** block Assembly/Board decisions with a 6/11 vote (7 days). **Subject to override by 15/20 Regional Boards** (or SAP appeal). *(This is the standard veto-override procedure referenced by other acts, e.g., the Military Act's arms/aerospace export veto.)*
+- **Emergency Powers:** NEC activation (6/11, 90 days) or chairman action (30 days, >10% GDP crises), reviewed by 15/20 Boards.
+- **Operations:** 9/11 quorum, ~$500M ops, audited by the Special Auditors via the CED.
 
-- **Composition**: 10 grandmasters (1/sector).
-- **Election**: 2,000 masters/sector elect 1 grandmaster (51% vote). 5-year terms, one-term limit. **Grandmasters may not be recalled**; the 5-year term with one-term limit serves as the primary accountability mechanism.
-- **Chairman**: Elected by 6/10 vote (3-year term). The chairman sets the Assembly agenda, presides over hearings, and represents the Assembly in the Emergency General Assembly.
+### 3.4 National Assembly (The Sectoral Chamber)
 
-**Functions**:
+- **Composition:** 10 grandmasters (1/sector).
+- **Election:** 2,000 masters/sector elect 1 grandmaster (51%). 5-year terms, one-term limit. Not recallable (the term limit is the accountability mechanism).
+- **Chairman:** elected by 6/10 (3-year term); sets the agenda, presides over hearings, represents the Assembly in the EGA.
 
-- **Law Proposal**: Propose laws for 94 million voters every 5 years (6/10 vote). Proposed laws undergo 12-month vetting before national referendum, with explanatory materials prepared by the Assembly and made publicly available via CWD. Referenda require a simple majority of voters to pass.
+**Functions:**
+- **Law Proposal:** propose laws for 94M voters every 5 years (6/10), 12-month vetting, explanatory materials published publicly; referenda pass by simple majority.
+- **Confirmation Powers:** confirm Central Council masters (6/10; rejected candidates replaced by Boards within 60 days); confirm regional judges (6/10); confirm Supreme Court justices (6/10, 7/10 for chief justice, with public hearings).
+- **Advisory Role:** advise on tariffs, infrastructure, SWF allocations via formal resolutions (6/10).
+- **Oversight Hearings:** by 6/10 vote, summon any Central Council member, NEC directors, the commissioners of the independent boards, any department head, SAP arbiters, national/regional CLS directors, and Supreme Court justices (for conduct/impeachment). The Assembly may compel testimony under oath, compel documents, issue public reports, and censure officials. Refusal to appear → referral to the SAP for a binding resolution; continued refusal → grounds for removal by the appointing authority. Hearings may not interfere with judicial proceedings, certified national-security matters, or individual credit-union disputes.
+- **Annual State of the Nation:** the Central Council Chairman reports annually to the Assembly on the SWF, revenue, the loan portfolio, and major projects (public via media).
+- **Impeachment:** impeach Supreme Court justices, regional judges, Central Council members, and high officials for treason, bribery, corruption, or gross neglect (7/10 vote), tried before the Supreme Court (executive/legislative officials) or a special panel of regional judges (Supreme Court justices).
+- **Operations:** yearly meetings + sessions as needed; ~$500M budget (separate, Assembly-administered), audited via the CED.
 
-- **Confirmation Powers**:
-  - **Central Council**: Confirm the 10 masters elected by Regional Boards (6/10 vote). Confirmation hearings shall assess qualifications, potential conflicts of interest, and alignment with the nation's co-op values. Rejected candidates shall be replaced by the Regional Boards within 60 days.
-  - **Regional Judges**: Confirm the 200 judges appointed by Regional Boards (6/10 vote, applied collectively or individually at Assembly discretion).
-  - **Supreme Court Justices**: Confirm the 7 justices nominated by Regional Boards (6/10 vote). Confirmation requires public hearings and a two-thirds majority (7/10) for chief justice.
+#### 3.4.1 Mandatory 5-Year National Law Cycle
+The Assembly **must** propose at least one law, amendment, or repeal package for national referendum every 5 years (cycle begins 2030; 12-month vetting). If it fails, the citizen-initiated process (§3.4.2) triggers automatically at a reduced threshold (0.5% instead of 2%). Multiple laws allowed, each complying with the 2-for-1 rule if active.
 
-- **Advisory Role**: Advise on tariffs, infrastructure, SWF allocations, and other matters of national importance through formal resolutions (6/10 vote).
+#### 3.4.2 Citizen-Initiated Laws
+Citizens may force a law, amendment, or repeal onto the 5-year ballot without Assembly approval. **Process:** petition filed with the Treasury (signatures verified by **PPK** zero-knowledge proof — eligibility confirmed without exposing identity — collected electronically or on paper via credit unions); **threshold 2% of national voters** (~1.88M in 2025, scaling); upon verification, added to the next referendum; threshold drops to 0.5% if the Assembly misses its deadline. **Restrictions:** cannot eliminate the corporate-governance requirements (Monetary 9.5 §4.1), the 2-for-1 repeal rule (without a 75% supermajority referendum), or the Informal Economy Guarantee (Monetary §1A). **Funding:** ~$500M/year from SWF.
 
-- **Oversight Hearings**: Conduct public hearings on matters of national importance. By a vote of 6/10 grandmasters, the Assembly may summon:
-  - Any member of the Central Council
-  - The directors of the National Emergency Council
-  - The commissioners of the National Energy Board and National Healthcare Board
-  - The head of any national department
-  - The arbiters of the Special Arbiter Panel (for matters within their jurisdiction)
-  - The national or regional directors of the Crossroads Loan Service (for systemic issues)
-  - Justices of the Supreme Court (for matters of judicial conduct or impeachment proceedings)
-  
-  In conducting hearings, the Assembly may:
-  - Compel testimony under oath, with perjury penalties as established by the judiciary
-  - Compel the production of documents, records, financial statements, and other materials
-  - Issue public reports detailing findings and recommendations
-  - Formally censure any official whose conduct is found to be negligent, corrupt, or contrary to the public interest
-  
-  If an official refuses to appear, refuses to testify, or refuses to produce documents, the Assembly may refer the matter to the Special Arbiter Panel, which shall issue a binding resolution. Continued refusal constitutes grounds for removal by the official's appointing authority.
-  
-  Hearings shall not interfere with ongoing judicial proceedings, national security matters as certified by the Central Council (6/11 vote), or individual credit union disputes better resolved at the regional level.
+#### 3.4.3 The 2-for-1 Repeal Rule
+When activated, every new law passed by referendum requires two existing laws to be repealed, consolidated, sunsetted, or merged. **Triggers (any):** a 2% citizen "legal cleanup" petition; the code exceeding 2,000 active statutes; or the automatic decennial cycle (first 2035–2040). **Mechanism:** the Assembly publishes a Repeal Docket (two laws + justification + impact analysis), bundled with the new law into one referendum question (YES = new law + repeal two; NO = reject + keep). Multiple new laws each bundle their own two repeals. **Emergency exemption:** 6/11 Central Council + 11/20 Regional Boards. **Enforcement:** the SAP resolves disputes over what counts as a repeal (consolidation qualifies; renaming does not).
 
-- **Annual State of the Nation**: The Chairman of the Central Council shall appear before the Assembly annually to report on the state of the Sovereign Wealth Fund, the national revenue, the loan portfolio, and major infrastructure and sustainability projects. The hearing shall be made available to the public via CWD and regional media.
+#### 3.4.4 Updated Functions Summary
 
-- **Impeachment Power**: The Assembly may impeach Supreme Court justices, regional judges, Central Council members, and other high officials for treason, bribery, corruption, or gross neglect of duty. Impeachment requires a 7/10 vote and is tried before the Supreme Court (for executive/legislative officials) or a special panel of regional judges (for Supreme Court justices).
+| Function | Previous | Amended |
+| :--- | :--- | :--- |
+| Law proposal | Permissive (6/10) | Mandatory every 5 years (6/10) |
+| Citizen lawmaking | Not present | Citizen-initiated (2% petition) |
+| Repeal requirement | Not present | 2-for-1 (petition / law count / decennial) |
+| Emergency exemption | Not applicable | Council + Boards can exempt emergency laws |
 
-- **Operations**: Yearly meetings (with additional sessions as needed for hearings, confirmations, or emergencies), $500 million operations budget (separate from Central Council and Regional Board budgets, administered by the Assembly), audited via CWD.
+#### 3.4.5 Dual-Sector Grandmasters (Highlighted)
 
----
+A **dual-sector grandmaster** holds grandmaster status in two economic sectors. Their constitutional role is to **bridge two sectoral constituencies** — they vote in both their sectors and speak in the Assembly to cross-domain matters that a single-sector grandmaster cannot (e.g., a Health + Defense/Tech grandmaster on medical AI or biosecurity; a Co-op + Treasury grandmaster on the FCL waterfall's fiscal effect). They are the legislature's cross-cutting integrators, preventing the sectoral chamber from siloing.
 
-### 3.2.1 Mandatory 5‑Year National Law Cycle (Insert after “Functions”)
+**A dual-sector grandmaster sits on the Special Arbiter Panel (§3.6)** — the cross-domain perspective is precisely what deadlock-resolution requires, ensuring the SAP is never captured by a single sector's view.
 
-In addition to its existing functions, the National Assembly **must** propose at least one law, amendment, or repeal package for national referendum every 5 years. The 5‑year cycle begins in 2030 (first scheduled vote). Proposed laws undergo 12‑month vetting as described in Section 3.2.
+### 3.5 National Emergency Council (NEC)
+3 directors, appointed by Central Council (6/11, 3-year term). 90-day emergency powers (e.g., Corridon flooding), 30-day action for >10% GDP crises, with authority to redirect SWF and loan resources. Funding: SWF-backed contingency, ~$5B/year plans, tracked via the CED. Reviewed by 15/20 Boards.
 
-- If the Assembly fails to propose a law by the deadline, the citizen‑initiated process (Section 3.2.2) automatically triggers with a reduced signature threshold (0.5% of national voters instead of 2%).
-- The Assembly may propose multiple laws in a single cycle, but each must comply with the 2‑for‑1 repeal rule (Section 3.2.3) if that rule is active.
+### 3.6 Special Arbiter Panel (SAP)
+3 arbiters, appointed by the CJC (6/10, 5-year term), **including at least one cross-sector (dual-sector) master or grandmaster** (§3.4.5). Resolves deadlocks (e.g., agro tariffs), advises the EGA, reviews vetoes/emergencies, enforces Assembly hearing compliance, and rules on 2-for-1 repeal disputes. Funding ~$3M/year, tracked via the CED.
 
----
-
-### 3.2.2 Citizen‑Initiated Laws (Insert after 3.2.1)
-
-Citizens may force a law, amendment, or repeal onto the 5‑year national ballot without Assembly approval.
-
-**Process**:
-1. A petition is filed with the Treasury via CWD.
-2. Signatures are collected electronically (blockchain‑verified) or on paper via credit unions.
-3. Threshold: **2% of national voters** (approximately 1.88 million signatures based on 94 million voters in 2025, scaling with population).
-4. Upon verification, the proposed law is added to the next scheduled 5‑year referendum.
-5. If the Assembly fails to propose a law by the deadline, the threshold drops to **0.5%** automatically.
-
-**Restrictions**:
-- Cannot propose laws that would eliminate the corporate governance requirements established in Monetary Act 9.1 Section 4.1 (short-term trade tax, quarterly guidance ban, worker board representation, long-term voting multiplier, buyback limits).
-- Cannot propose laws that would eliminate the 2‑for‑1 repeal rule (Section 3.2.3) without a 75% supermajority in a separate referendum.
-- Cannot propose laws that would eliminate the Informal Economy Guarantee (Monetary Act Section 1A).
-
-**Funding**: $500 million/year from SWF for petition verification, public forums, and explanatory materials.
+### 3.7 Emergency General Assembly (EGA)
+21 chairmen (1 Central Council, 20 Regional Boards, 1 National Assembly). **Trigger:** 3/20 regions report co-op collapse (>20% GDP drop) or crisis. **Functions:** issue 90-day resolutions (e.g., redirect loan resources), mediated by SAP. **Safeguards:** 7/10 CJC or 15/20 Boards overturn; tracked via the CED.
 
 ---
 
-### 3.2.3 The 2‑for‑1 Repeal Rule
+## Section 4: Departments, Independent Boards, and Special Prosecutors
 
-When activated, this rule requires that for every new law passed by national referendum, two existing laws must be repealed, consolidated, sunsetted, or merged into a simplified statute.
+### 4.1 Departments (Executive Arms of the Central Council)
 
-**Activation Triggers** (any one):
-- **Citizen petition**: 2% of national voters sign a “legal cleanup” petition.
-- **Law count threshold**: The national legal code exceeds 2,000 active statutes (counted annually by Legal & Judiciary sector).
-- **Decennial cycle**: Automatically activates for one 5‑year term every 10 years (first automatic cycle: 2035–2040).
+Ten departments (51 staff/sector, 510 total) administer and implement, funded by the SWF, appointed by Central Council (6/11, 11/20 Boards confirm). Departments **spend and implement**; the independent boards (§4.2) **set standards and regulate** — the two consult but neither controls the other.
 
-**How it works once activated**:
-1. The Assembly must publish a **Repeal Docket** listing the two laws targeted for removal, with justification and impact analysis.
-2. The new law and the repeal docket are bundled into a single referendum question:
-   - **“YES”** = pass the new law + repeal the two old laws
-   - **“NO”** = reject the new law + keep the old laws
-3. If multiple new laws are proposed in the same cycle, each must be bundled with its own two repeals.
-4. Emergency laws may be exempted by a 6/11 Central Council vote + confirmation by 11/20 Regional Boards.
+- **Industry & Infrastructure:** manages energy and transport investment, including Corridon barges.
+- **Health:** administers clinic loans and the bottom-tier premium subsidy (~$45B); coordinates with Regional Boards on regional healthcare. *(Healthcare is premium-funded per Healthcare Act 6.5 — the prior $145B healthcare SWF and $35B mental-health SWF operating lines are removed.)*
+- **Education:** runs the **$10,000 voucher** (~$175B net of the FCL education contribution), apprenticeship re-entry, the CLS Academy, and the Governance Training Program; coordinates with Regional Boards. *(Voucher per Education Act 2.2; the $75,000 journeyman-earnings target is removed.)*
+- **Agriculture:** secures food via agro programs and revenue.
+- **Trade & Corporate:** oversees corporate-governance requirements per Monetary 9.5 §4.1; administers ~$49B tariffs; no GDP cap.
+- **Media & Communications:** administers public-information programs.
+- **Legal & Judiciary:** supports the 200 judges and the fraud-cap regime; administers Supreme Court operations.
+- **Defense/Aerospace & Tech:** funds the military (~$40B/year recurring operating, declining; per Military Act 1.7 — the Defense Fund bequest endowment is separate).
+- **Co-op:** fosters the co-op economy; oversees the CCIF (~$2.395T voluntary) and the Stabilization Fund.
+- **Treasury:** oversees national revenue (~$725–750B per the Consolidated Fiscal Model), the SWF (~$550B → ~$1.5–2.0T, capped 12% GDP), 5,000 credit unions, and administers the **CED** (~$200M/year; with the PPK mesh ~$250M/year ≈ $450M/year combined).
 
-**Enforcement**: The Special Arbiter Panel (SAP, Section 3.4) resolves disputes over what counts as a “repeal” (e.g., consolidation qualifies; renaming without substantive change does not).
+### 4.2 Independent Regulatory Boards (Paired with Departments, In Consultation, Not Subordinate)
 
----
+Each board is an **independent regulator**, appointed by the Central Council but **confirmed by Regional Boards (11/20)** for independence, working **in formal consultation with — but not subordinate to — its paired department.** Disputes between a board and its department go to the SAP.
 
-### 3.2.4 Updated Functions Table (Insert in Section 2.2 or as reference)
+| Board | Members | Paired Department | Role | Est. Staff | Est. Funding |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **National Energy Board (NEB)** | 11 | Industry & Infrastructure | Sets grid access fees/rates, approves major energy investments, regulates the 400 TWh → 1,633 TWh grid | ~300 (engineers, rate analysts, grid inspectors, regional liaisons) | ~$150M/year |
+| **National Healthcare Board (NHB)** | 11 | Health | Sets clinical and facility standards, oversees the three-tier facility system and CMHIN, regulates premium structure | ~250 (medical standards officers, facility auditors, actuarial staff) | ~$100M/year |
+| **National Learning Council (NLC)** | 11 | Education | Sets curriculum standards, accredits schools, governs the voucher and credentialing system | ~200 (curriculum specialists, accreditation auditors, assessment staff) | ~$100M/year |
+| **National Communications Board (NCB)** *(new — distinct from NEB)* | 11 | Media & Communications | Regulates spectrum, broadcast licensing, net neutrality, the mesh backbone, and AM emergency broadcast; enforces the 55% local-content mandate | ~200 (spectrum engineers, licensing officers, net-neutrality auditors, CME-broadcast coordinators) | ~$120M/year |
 
-| Function | Previous (Draft 4.16) | Amended (with addendum) |
-|----------|----------------------|--------------------------|
-| Law proposal | Permissive (6/10 vote) | **Mandatory every 5 years** (6/10 vote) |
-| Citizen lawmaking | Not present | **Citizen‑initiated laws** (2% petition threshold) |
-| Repeal requirement | Not present | **2‑for‑1 rule** (triggered by petition, law count, or decennial cycle) |
-| Emergency exemption | Not applicable | **Council + Boards** can exempt emergency laws |
+*(Staff and funding are best-guess projections scaled to each board's regulatory scope; refine in the consolidated fiscal pass. The NCB is newly distinct — communications-infrastructure regulation previously sat with the NEB; the Communications Act should be updated to reference the NCB as its regulator.)*
 
----
+**Regional advisory/nominating layer** (feeds the boards and Regional Boards): Sector Councils, Regional Health Assemblies (RHAs), Regional Media Assemblies (RMAs), and Regional Education Assemblies (REAs) — ~100–200 members/region each, nominating candidates for board and Regional Board seats.
 
-### Transition and Operational Cycle (Update to Section 6)
+### 4.3 Special Auditors (Independent Special Prosecutors)
 
-- **2030**: First mandatory Assembly‑proposed law + first citizen‑initiated laws (if any) appear on the national ballot. 2‑for‑1 rule not yet active unless triggered by petition or law count.
-- **2035**: First automatic decennial 2‑for‑1 cycle begins (if not triggered earlier).
-- **2075 onward**: Full system operational with all three mechanisms.
+The Special Auditors are rebuilt as **fully independent special prosecutors** — the constitution's self-policing mechanism, modeled on US independent/special prosecutors.
 
----
-
-### 3.3 National Emergency Council (NEC)
-
-- **Composition**: 3 directors, appointed by Central Council (6/11 vote, 3-year term).
-- **Functions**: 90-day emergency powers for crises (e.g., Corridon flooding), 30-day action for >10% GDP crises, redirecting $601.58 billion revenue, $550 billion SWF, $452.5 billion loans.
-- **Funding**: $50 billion SWF, $5 billion/year plans, tracked via CWD.
-
-### 3.4 Special Arbiter Panel (SAP)
-
-- **Composition**: 3 arbiters, appointed by CJC (6/10 vote, 5-year term), 1+ cross-sector master.
-- **Functions**: Resolve deadlocks (e.g., $7.5 billion agro tariffs), advise EGA, review vetoes/emergencies, **enforce Assembly hearing compliance**.
-- **Funding**: $3 million/year, tracked via CWD.
-
-### 3.5 Emergency General Assembly (EGA)
-
-- **Composition**: 21 chairmen (1 Central Council, 20 Regional Boards, 1 National Assembly).
-- **Trigger**: 3/20 regions report co-op collapse (>20% GDP drop) or crises.
-- **Functions**: Issue 90-day resolutions (e.g., redirect $452.5 billion loans), mediated by SAP.
-- **Safeguards**: 7/10 CJC or 15/20 Boards overturn, tracked via CWD.
-
----
-
-## Section 4: Departments and Special Bodies
-
-### 4.1 Departments
-
-Ten departments (51 staff/sector, 510 total) oversee $45.25–$90.5 billion loans/sector, funded by $601.58 billion revenue and $550 billion SWF. Appointed by Central Council (6/11 vote, 11/20 Boards confirm).
-
-- **Industry & Infrastructure**: Manages $50 billion infrastructure, $2.5 trillion energy, including Corridon barges ($15.75 billion), 50,000 km rail ($37.5 billion).
-- **Health**: Oversees $180 billion SWF, $47.125 billion clinic loans, NHB (11 members, $100 million/year). Coordinates with Regional Boards on regional healthcare oversight.
-- **Education**: Runs $94.35 billion vouchers, $5 billion dropout apprenticeships, $1.5375 billion CLS Academy, $2.5 billion Governance Training Program for student venture loans, voter education. Coordinates with Regional Boards on regional education oversight.
-- **Agriculture**: Secures food via $20 billion agro camps, $45.375 billion revenue.
-- **Trade & Corporate**: **Oversees corporate governance requirements per Monetary Act 9.1 Section 4.1 (short-term trade tax, quarterly guidance ban, worker board representation, long-term voting multiplier, buyback limits). No GDP cap applies.** Administers $49 billion tariffs.
-- **Media & Communications**: Educates via $15 billion SWF, including parkweb tourism.
-- **Legal & Judiciary**: Appoints 200 judges, audits $2.5 billion fraud cap. Administrates Supreme Court operations.
-- **Defense/Aerospace & Tech**: Funds 100,000 active, 1 million reserves ($61 billion peacetime).
-- **Co-op**: Fosters a co-op dominant productive economy through incentives. Oversees $2.395 trillion CCIF, $10 billion Stabilization Fund.
-- **Treasury**: Oversees $601.58 billion revenue, $550 billion SWF, 5,000 credit unions ($96.6185 billion/year), manages CWD ($150 million/year).
-
-### 4.2 Special Bodies
-
-- **National Energy Board (NEB)**: 11 members, regulates 400 TWh grid, $751.7 billion investments, $197 billion district loans.
-- **National Healthcare Board (NHB)**: 11 members, oversees $200 billion healthcare, $145 billion healthcare SWF, $35 billion mental health SWF. Coordinates with Regional Boards on regional healthcare implementation.
-- **Supreme Court**: 7 justices, nominated by Regional Boards (11/20 vote), confirmed by National Assembly (6/10 vote). 15-year terms, mandatory retirement at 75. Original jurisdiction over constitutional questions and disputes between regions. Appellate jurisdiction over cases involving the $2.5 billion fraud cap, conflicts between national bodies, and impeachments of high officials.
-- **Auditors**: 50–75, audit credit unions, FCLs, SWF, loans, sustainability projects, capping $2.5 billion fraud via CWD. **Appointed by Central Council (6/11 vote), confirmed by Regional Boards (11/20 vote).** Auditors serve 5-year terms and may be removed only by joint action of Central Council and the Regional Board of the region they serve.
+- **Composition:** 50–75 auditors, appointed by Central Council (6/11), confirmed by Regional Boards (11/20), **5-year terms.**
+- **Independence:** removable **only by joint action of the Central Council and the Regional Board of the region they serve** — no single official, department, or body can fire, defund, or quash an auditor investigating it. Their budget is constitutionally protected and cannot be cut mid-term in retaliation.
+- **Self-initiating jurisdiction:** an auditor may **open an investigation into any entity's books — any co-op, corporation, credit union, department, board, official, or national body — on their own initiative, without authorization from anyone.** This is the core power: they can investigate the very officials who appoint everyone else.
+- **Prosecutorial powers:**
+  - **Subpoena** documents, records, financial statements, and testimony.
+  - **Bring charges** before the regular judiciary (regional courts → Supreme Court on appeal).
+  - **Temporarily freeze assets** pending investigation — but any freeze **must be ratified by a regional judge within 14 days** or it lapses automatically (the judicial check that legitimizes the power and prevents abuse).
+- **Support:** blockchain/AI forensic systems (~$1B), operating through the CED (pseudonymized economic data; identity reached only via the warranted Judicial Link Box). Fraud cap enforcement ~$2.5B.
+- **Limits:** auditors may not access cash transaction records below the DLB threshold (Informal Economy Guarantee), may not compel *how* a citizen voted (PPK-protected), and their charges are tried in the independent judiciary, not by the auditors themselves. An official who is the subject of an investigation may not participate in any decision affecting that auditor.
 
 ---
 
 ## Section 5: Checks and Balances
 
-- **Recalls**: 51% masters for Regional Boards, 101/200 regional masters for Council, 51% of 94 million voters for wildcards. **Grandmasters are not subject to recall**; the 5-year term with one-term limit serves as the accountability mechanism for the Assembly.
-
-- **Confirmation Chain**:
-  - Regional Boards elect Central Council masters → **National Assembly confirms (6/10 vote)**
-  - Regional Boards appoint regional judges → **National Assembly confirms (6/10 vote)**
-  - Regional Boards nominate Supreme Court justices → **National Assembly confirms (6/10 vote, 7/10 for chief justice)**
-  - Central Council appoints department staff, SAP arbiters, NEC directors, NEB commissioners → **Regional Boards confirm (11/20 vote)**
-
-- **Impeachment**: National Assembly may impeach (7/10 vote). Supreme Court tries impeachments of executive/legislative officials. Special panel of regional judges tries impeachments of Supreme Court justices.
-
-- **Voting**: ~4.7 million voters/region elect 2 million masters every 5 years ($850 million/year BWC credits). Co-ops add 1 vote/1,000 employees (5% cap). CWD locks non-voters for 2 weeks.
-
-- **Oversight**: $1 billion blockchain/AI and CWD track SWF, loans, banking, sustainability, fraud ($2.5 billion cap).
+- **Recalls:** 51% masters for Regional Boards; 101/200 regional masters for the Council; 51% of 94M voters for wildcards. Grandmasters not recallable (term-limited).
+- **Confirmation Chain:** Regional Boards elect Central Council masters → Assembly confirms (6/10); Regional Boards appoint regional judges → Assembly confirms (6/10); Regional Boards nominate Supreme Court justices → Assembly confirms (6/10, 7/10 chief); Central Council appoints department staff, SAP arbiters, NEC directors, and board commissioners → Regional Boards confirm (11/20).
+- **Impeachment:** Assembly impeaches (7/10); Supreme Court tries executive/legislative officials; a special panel of regional judges tries Supreme Court justices.
+- **Veto/Override:** Central Council vetoes (6/11) are overridden by 15/20 Regional Boards — the standard procedure other acts reference.
+- **Independent policing:** the Special Auditors (§4.3) can investigate and charge anyone, including the officials above, checked only by the judiciary.
+- **Voting integrity:** eligibility and turnout verified by PPK (zero-knowledge); non-voters' full deposit-insurance coverage lapses per the Credit Union Act voting requirement; no vote content is ever recorded.
+- **Oversight:** blockchain/AI + CED track SWF, loans, banking, sustainability, and fraud (~$2.5B cap), all pseudonymized.
 
 ---
 
 ## Section 6: Operational Cycle
 
-- **2025**: ~4.7 million voters/region elect 2 million masters, 20 wildcards, 10 Assembly grandmasters, 11 Council members (subject to Assembly confirmation). Regional Boards nominate and Assembly confirms 7 Supreme Court justices. Credit union boards oversee $452.5 billion loans. CLS mentors FCLs, issues student venture loans, monitors economic health indicators. Council approves NEB's $751.7 billion energy investments.
-
-- **2026–2029**: Boards manage $22.625 billion loans/region, **exercise state legislature functions (police, education, healthcare oversight, credit union audits)** , wildcards propose resolutions. Council oversees $601.58 billion revenue, $550 billion SWF. **Assembly proposes laws, conducts oversight hearings, confirms appointments, receives annual State of the Nation address.** NEC/SAP handle crises/deadlocks.
-
-- **2030**: 94 million vote on laws, new masters; cycle repeats.
-
-- **2075–2080**: 109 million voters, loans scale to $1.2084 trillion ($60.42 billion/region), SWF to $3.082 trillion.
+- **2025:** ~4.7M voters/region elect 2M masters, 20 wildcards, 10 Assembly grandmasters, 11 Council members (Assembly-confirmed); Regional Boards nominate and Assembly confirms 7 Supreme Court justices; credit-union boards oversee loans; CLS mentors FCLs and monitors economic-health indicators; Council approves NEB energy investments.
+- **2026–2029:** Boards manage regional loans and exercise state-legislature functions (police, education, healthcare oversight, credit-union audits); wildcards propose resolutions; Council oversees revenue and the SWF; Assembly proposes laws, conducts oversight hearings, confirms appointments, and receives the State of the Nation; NEC/SAP handle crises/deadlocks.
+- **2030:** first mandatory Assembly law + first citizen-initiated laws on the national ballot; 2-for-1 rule not yet active unless triggered; 94M vote on laws and new masters; cycle repeats.
+- **2035:** first automatic decennial 2-for-1 cycle.
+- **2075 onward:** full system operational; 109M voters; SWF at its 12%-of-GDP cap.
 
 ---
 
 ## Key Stats (2025–2075)
 
-- **Population**: 112 million (94 million Corporate Citizens, 67 million middle class) to 130 million (109 million Corporate Citizens).
-- **GDP**: $14.5 trillion (2025 baseline: 65% co-ops/$9.425 trillion) to $38.94 trillion (co-op dominant by design, no binding target).
-- **SWF**: $550 billion to $3.082 trillion.
-- **Loans**: $452.5 billion to $1.2084 trillion.
-- **Revenue**: $601.58 billion to $1.6127 trillion.
-- **Credit Unions**: 5,000, $96.6185 billion/year revenue, $452.5 billion loans, $208 billion accounts, $15.04 billion wallets, $94 billion shares.
-- **Regions**: 20 (e.g., Region 1: Crossroads City/Corridon, Region 3: Frostpeak).
-- **Governance**: 20 Regional Boards (220 members), 10 National Assembly grandmasters, 11 Central Council members, 200 regional judges, 7 Supreme Court justices, 510 department staff.
+- **Population:** 112M → 130M.
+- **GDP:** ~$14.5T (2025 baseline ~65% co-op/$9.425T) → ~$38.94T (co-op dominant by design, no binding target).
+- **SWF:** ~$550B → ~$1.5–2.0T (capped at 12% of GDP). *(The prior $3.082T uncapped figure is superseded.)*
+- **Revenue:** ~$725–750B (Consolidated Fiscal Model). *(Supersedes the prior internally inconsistent $601.58B / $1.6127T figures.)*
+- **Loans:** ~$452.5B → ~$1.2084T.
+- **Credit Unions:** 5,000.
+- **Governance:** 20 Regional Boards (220 members), 10 National Assembly grandmasters, 11 Central Council members, 200 regional judges, 7 Supreme Court justices, 510 department staff, 4 independent boards (NEB/NHB/NLC/NCB), 50–75 independent Special Auditors.
+- **Currency:** fiat BWC (no metal backing); data architecture PPK + CED (no CWD).
 
 ---
 
 ## Glossary
 
-- **BWC**: Bulwark Coin, backed by variable 25–50% metal reserves (per Monetary Act 9.1).
-- **CCIF**: Capital Investment Fund, $2.395 trillion voluntary co-op pool.
-- **FCL**: Federated Cooperative Limited, worker/customer-owned co-op.
-- **SWF**: Sovereign Wealth Fund, $550 billion to $3.082 trillion.
-- **CWD**: Crossroads Workforce Database, $150 million/year, tracking metrics.
-- **CLS**: Crossroads Loan Service, manages $452.5 billion loans, mentors FCLs, monitors economic health.
+- **BWC:** Bulwark Coin — the national **fiat** currency (not metal-backed; value held by the Monetary Act §1.5 issuance anchor).
+- **PPK:** Professional Passport Key — citizen-held identity, credentials, and voting (zero-knowledge verification).
+- **CED:** Centralized Economic Database — pseudonymized economic data (no identity); joined to the PPK only via the warranted Judicial Link Box.
+- **Regional Boards:** the territorial chamber (Senate analogue) + each region's state legislature.
+- **National Assembly:** the sectoral chamber (10 grandmasters, one per sector).
+- **Central Council:** the executive.
+- **Special Auditors:** independent special prosecutors with self-initiating, subpoena, charging, and temporary-asset-freeze powers.
+- **Dual-Sector Grandmaster:** a grandmaster in two sectors; cross-domain integrator; one sits on the SAP.
+- **CCIF:** Capital Investment Fund — ~$2.395T voluntary co-op pool.
+- **FCL:** Federated Cooperative Limited.
+- **SWF:** Sovereign Wealth Fund — capped at 12% of GDP.
+- **CLS:** Crossroads Loan Service — embedded, demand-distributed credit-union loan officers.
 
 ---
 
-**End of Draft 4.17**
+## Design Philosophy (Informative)
+
+New Crossroads takes the American architecture — separated powers, two legislative chambers, an independent judiciary, independent prosecutors — and re-cuts one piece: the legislature is split not into two territorial houses, but into a chamber of **places** and a chamber of **trades.**
+
+- **Place and trade both get a voice.** The Regional Boards speak for where you live; the National Assembly speaks for what you do. A law must satisfy both — the region it touches and the sector that runs it.
+
+- **The regulators are kept at arm's length.** The boards that set the rules are not the departments that spend the money. They consult; they do not command each other. The body that sets energy rates is not the body that spends the energy budget.
+
+- **Someone can investigate everyone.** The Special Auditors answer to no department and no official — they can open the books of anyone, including those who appoint them, subpoena, charge, and briefly freeze assets, checked only by a judge. Power that polices itself is power that can be trusted.
+
+- **The citizen is sovereign over identity and silent in the vote.** What you are is yours, in the PPK; how you voted is known to no one. The state sees the economy, never the citizen.
+
+- **Cross-cutting minds resolve deadlocks.** The dual-sector grandmasters — those who have mastered two trades — bridge the silos and sit where disputes are settled.
+
+Place and trade, executive and court, regulator and prosecutor — separated, balanced, and watched. That is the government of New Crossroads.
+
+---
+
+**End of Draft 4.18**
