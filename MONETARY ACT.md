@@ -5,7 +5,7 @@ date: "2026-06-27"
 author: "Thunderfish2"
 repository: "crossroads-monetary-act"
 description: "A monetary framework for New Crossroads: a fiat dual-currency system with an explicit issuance anchor, an asset-owner sovereign wealth fund, the PPK/CED identity-economy split, informal economy protections, and structural corporate governance."
-supersedes: "Draft 9.4 — restored the Personal Market Index (Economic Health Dashboard) section dropped in the 9.3→9.4 pass; expanded the Debt Jubilee with a full Freedom Shares explanation and the surgical CLS-administered mechanism; added a Crossroads Loan Service (CLS) explanation. (9.4 itself: fiat conversion, issuance anchor, Citizens' Metals ETF, PPK/CED foundational, BAR/DAI/backing-ratio removed.)"
+supersedes: "Draft 9.4 — restored the Personal Market Index (Economic Health Dashboard) section dropped in the 9.3→9.4 pass; expanded the Debt Jubilee with a full Freedom Shares explanation and the surgical CLS-administered mechanism; added a Crossroads Loan Service (CLS) explanation. (9.4 itself: fiat conversion, issuance anchor, Citizens' Metals ETF, PPK/CED foundational, BAR/DAI/backing-ratio removed.) Minor (9.5): national resource line re-split — royalties are now regional own-source revenue per the Municipal & Regional Funding Act; this act retains only the national cut (surcharge + profit tax)."
 ---
 
 # Crossroads Monetary Reform & Economic Stabilization Act of 2025: Draft 9.5
@@ -356,7 +356,7 @@ The **Defense Fund** is a distinct sovereign endowment, **not part of the SWF an
 | Excise | 3% on fuel/goods | ~$15B | Point of sale; no individual tracking |
 | Property | 0.75% on commercial/industrial | ~$19B | Public record |
 | Tariffs | ~9.8% avg on imports | ~$49B | Collected at port |
-| Resources | minerals, agriculture, fuels | ~$274B | Full CED tracking for extractive industries |
+| Resources (national cut) | 3% surcharge + profit tax on resource firms | ~$80–100B | Royalties/stumpage are **regional** own-source revenue (Municipal & Regional Funding Act §2.5); this line is the national portion only. Full CED tracking for extractive industries |
 
 - **Asymmetric Scrutiny:** government allocations above $1M publicly disclosed and Regional-Board audited; below $1M administered automatically with sampling audits.
 
