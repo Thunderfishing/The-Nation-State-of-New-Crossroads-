@@ -1,366 +1,278 @@
-# New Crossroads Industry Act of 2025: Draft 4.2 (Harmonized)
+---
+title: "New Crossroads Industry Act of 2025"
+draft: "4.3"
+date: "2026-06-27"
+author: "Thunderfish2"
+repository: "crossroads-monetary-act"
+description: "Companion legislation to the Monetary Act 9.5, Credit Union Act 5.4, Government Act 4.18, Energy Act 4.2, Housing Act 2.3, Infrastructure Act 2.4, and the Municipal & Regional Funding Act. A co-op-dominant, free-market industrial framework: full-spectrum hemp, non-arable greenhouses clustered on the Industrial Corridors, mining heavy-machinery, value-added forestry, gas-to-fertilizer/petrochemicals, and the export sectors."
+supersedes: "Draft 4.2 — full fiat/GitHub rewrite. DAI/BAR removed (loans DLB-indexed); CWD→PPK/CED; references updated to Monetary 9.5 / Credit Union 5.4 / Government 4.18 / Energy 4.2 / Housing 2.3 / Infrastructure 2.4 / Communications 4.2. NEW: greenhouses explicitly sited on non-arable land and clustered on the Industrial Corridors; hemp restricted to marginal land (max 25% of any farmer's arable holding) and made full-spectrum (hempcrete, 2x4s, insulation, cordage); forestry redirected to value-added wood products supporting housing stock; heavy-equipment sector focused on mining machinery; gas reserves routed to fertilizer and petrochemicals, not transport. GitHub-safe formatting."
+---
+
+# New Crossroads Industry Act of 2025: Draft 4.3
 
 **Posted to r/Bulwarkomics**
-**Draft**: 4.2 | **Date**: April 12, 2026
-**Author**: Thunderfish2
+**Draft:** 4.3 | **Date:** June 27, 2026
+**Author:** Thunderfish2
 
-> **Cross-reference**: This act is companion legislation to the *Crossroads Monetary Reform & Economic Stabilization Act of 2025 (Draft 9.1)*, *Crossroads Credit Union Act of 2025 (Draft 5.1)*, *Crossroads Government Act of 2025 (Draft 4.17)*, *Crossroads Energy Act of 2025 (Draft 4.0)*, *Crossroads Housing Act of 2025 (Draft 2.0)*, and *Crossroads Infrastructure Act of 2025 (Draft 2.2)*.
->
+> **Cross-reference.** Companion to the **Monetary Act 9.5**, **Credit Union Act 5.4**, **Government Act 4.18**, **Energy Act 4.2**, **Housing Act 2.3**, **Infrastructure Act 2.4** (Industrial Corridors §3.7), and the **Municipal & Regional Funding Act**. Loans are DLB-indexed (no DAI/BAR). Data uses PPK/CED (no CWD). The currency is fiat.
+
+> **Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values.
+
+> **Amendment Note — Draft 4.3.** Full fiat/GitHub rewrite. Beyond the standard cleanup, this draft adds the land-use and corridor logic: **greenhouses are sited on non-arable land** and **cluster on the Industrial Corridors** (Infrastructure §3.7) for warm-water irrigation and CO₂ enrichment; **hemp avoids prime arable land** (max 25% of any farmer's arable holding, grown where conventional crops struggle) and is **full-spectrum** (hempcrete, 2x4s, insulation, cordage); **forestry** is redirected to **value-added wood products** supporting domestic housing stock and export; the heavy-equipment sector is focused on **mining machinery** (serving the nation's large mineral operations); and the nation's **modest gas reserves are routed to fertilizer and petrochemical feedstock, not transport** (transport is electrified).
 
 ---
 
 ## Purpose
 
-The **New Crossroads Industry Act of 2025 (Draft 4.2)** establishes New Crossroads' industrial framework, post-2025 revolution, serving 112 million citizens (94M Corporate Citizens) with a $14.5T GDP (2025 baseline: 65% co-ops/$9.425T, 15% corporate/$2.175T, 20% informal/$2.9T). The system is designed to foster a **co-op dominant productive economy through incentives**, while supporting a dynamic corporate sector and protecting universal informal cash commerce.
+The Industry Act establishes New Crossroads' industrial framework: a **co-op-dominant productive economy** built through incentives, alongside a dynamic corporate sector and a protected universal informal cash economy. It serves 112M citizens (2025), scaling to 130M by 2075, and drives resources, manufacturing, and the export economy.
 
-It drives **$213.28B revenue** (2025) through **hemp** ($3.75B), **wood products** ($950M), **heavy equipment** ($8B), **jewelry** ($10B), **foreign factories** ($20B), **minerals** ($112.5B), **agriculture** ($45.375B), **fuels** ($26.625B), **steel** ($15B), **aerospace** ($8B), **military/missile** ($12B), **nuclear** ($7.5B), **aviation** ($1B), **CO2 industry** ($275M), and **shipbuilding** ($10B).
+Industries are fostered via **DLB-indexed service-sector loans** (the low service-sector rate for hemp, greenhouses, CO₂ capture, and artisan trades), **cheap baseload power** (SMRs, Energy Act 4.2), **75,000 km cooperative rail**, and **dredged Corridon/Westflow barges**, maintaining a free-market approach. Revenue scales to ~\$397.2B by 2075. SWF funding is drawn from the ~\$1.5–2.0T Sovereign Wealth Fund (capped at 12% of GDP). All 30,000 ha of greenhouses are non-arable, lease-to-own with buyback options, and hempcrete for Durahomes is CO₂-cured.
 
-Industries are fostered via **$155B DAI-adjusted loans** (0.5% floor for service-sector industries), **cheap baseload power** (SMRs, *Energy Act Draft 4.0*), **50,000 km rail**, and **dredged Corridon/Westflow barges**, maintaining a free-market approach. The act scales to **$397.2B revenue** by 2075, supporting 130M citizens and a $38.94T GDP, with **$365B investments** and SWF funding drawn from the **$1.5–2.0T Sovereign Wealth Fund** (capped at 12% of GDP per Monetary Act 9.1). All **30,000 ha greenhouses** are **lease-to-own** with **buyback options** for co-op bankruptcy/sale, and **hempcrete** for Durahomes is **CO2-cured**.
-
-Managed by the **National Industry Board (NIB)** under Central Council oversight, it leverages **5,000 credit unions/CLS**, synced with Monetary Act 9.1 (DAI, Informal Economy Guarantee, asymmetric scrutiny) and Credit Union Act 5.1 (micro-loans, informal sector mandate).
-
-No binding sector quotas apply. The 65/15/20 figures in 2025 are **descriptive baselines**, not enforcement targets. Co-ops receive license priority and fee discounts; the system relies on incentives, not mandates.
+Managed by the **National Industry Board (NIB)** under Central Council oversight, leveraging 5,000 credit unions / CLS. **No binding sector quotas** — the 65/15/20 figures are descriptive baselines; co-ops receive license priority and fee discounts.
 
 ---
 
-## Section 0: Interdependencies (Harmonized)
-
-The **Industry Act** integrates with the **Energy Act**, **Housing Act**, **Infrastructure Act**, **Monetary Act**, and **Credit Union Act** to support New Crossroads' $2.036T export economy:
+## Section 0: Interdependencies
 
 | Act | Integration Point |
-|-----|-------------------|
-| **Monetary Act 9.1** | DAI-adjusted loans (0.5% floor for service-sector industries); informal economy guarantee (cash industrial transactions protected); asymmetric scrutiny (private under $10k, tracked above $100k); SWF capped at 12% GDP; co-op profit tax 5% (no SWF recharge); no binding sector quotas |
-| **Credit Union Act 5.1** | Micro-loans for informal industrial workers (artisans, small farmers): $500, 4% nominal / ~1.4% effective, self-attested income, 24hr approval; CLS officers trained in informal sector engagement |
-| **Energy Act 4.0** | 400 TWh grid (65% nuclear, 18 GW SMRs) provides cheap baseload power ($50/MWh) for all industrial sectors. Antifragile hubs (Regions 1, 2, 7, 8, 11, 12, 15, 18, 19, 20) ensure CME-proof operations. |
-| **Housing Act** | 500,000 Durahomes/year by 2075 use CO2-cured hempcrete (450,000 tons/year), low-carbon concrete (10M tons/year), hemp 2x4s, and hemp insulation |
-| **Infrastructure Act 2.2** | 75,000 km cooperative rail, 15,000 km freeways (3,000 km elevated insect corridors), 2,000-vessel fleet, 150M-ton ports, 75M-ton barges, and 4,000 km CO2 pipelines distribute industrial goods. Dark corridor lighting standards (DCALS) apply to industrial compounds adjacent to elevated freeways. Retroreflective Building Paint Program available for industrial buildings nationwide. |
+| :--- | :--- |
+| **Monetary Act 9.5** | DLB-indexed service-sector loans; Informal Economy Guarantee (cash industrial transactions protected); asymmetric scrutiny (private under \$100k); SWF capped at 12% GDP; co-op profit tax 5% (no SWF recharge); no binding quotas |
+| **Credit Union Act 5.4** | Micro-loans for informal industrial workers (\$500, 4% nominal, self-attested, 24hr); embedded CLS officers (demand-distributed) |
+| **Government Act 4.18** | NIB reports to Central Council; Regional Industry Districts coordinate with Regional Boards; the NEB regulates the corridors' energy side |
+| **Energy Act 4.2** | 1,633 TWh grid (nuclear + SMRs) provides cheap baseload power; the 20 antifragile SMR hubs ensure CME-proof operations; nuclear/coal/WTE feed the Industrial Corridors |
+| **Housing Act 2.3** | 500,000 Durahomes/year use CO₂-cured hempcrete, low-carbon concrete, hemp 2x4s, and hemp insulation — all supplied by this act's hemp and forestry sectors |
+| **Infrastructure Act 2.4** | Rail, freeways, ports, barges, and CO₂ pipelines distribute goods; the **Industrial Corridors (§3.7)** carry warm-water + CO₂ to greenhouses, hemp processing, and hempcrete plants; DCALS applies to industrial compounds |
+| **Municipal & Regional Funding Act** | Corridor plants/greenhouses receive the DCALS-contingent land-tax holiday (construction-cost recovery); resources are regionally owned (royalties regional) |
 
 ---
 
-## Section 1: Core Principles (New - Harmonized)
+## Section 1: Core Principles
 
-### 1.1 Asymmetric Scrutiny for Industry (Per Monetary Act 9.1)
+### 1.1 Asymmetric Scrutiny for Industry (per Monetary Act §5)
 
-| Level | Transaction Type | CWD Tracking | Reporting |
-|-------|------------------|--------------|-----------|
-| **Informal** | Cash industrial transactions (farmers markets, artisan jewelry, local hemp products) below DLB threshold | Never collected | None. Constitutionally protected. |
-| **Citizen** | BWC industrial purchases under $10,000/year | No tracking | None |
-| **Middle** | BWC industrial purchases $10k–$100k/year | Aggregate totals only | Annual summary |
-| **Elite** | Corporate industrial transactions above $100k | Full tracking | Quarterly audits |
-| **Institutional** | NIB operations, major industrial loans | Full transparency | Public annual reports |
+| Level | Transaction type | CED treatment (pseudonymized) | Reporting |
+| :--- | :--- | :--- | :--- |
+| Informal | Cash industrial transactions (farmers markets, artisan jewelry, local hemp products) below DLB threshold | Never collected | None. Constitutionally protected. |
+| Citizen | BWC industrial payments under \$10,000/year | No detail | None |
+| Middle | BWC industrial payments \$10k–\$100k/year | Aggregate totals only | Annual summary |
+| Elite | Corporate industrial transactions above \$100k | Full pseudonymized detail | Quarterly audits |
+| Institutional | NIB operations, district loans | Full transparency | Public annual reports |
 
-**Cash industrial payments** are accepted at all credit union kiosks with no fee and no surveillance, per Monetary Act Section 1A (Informal Economy Guarantee).
+### 1.2 DLB-Indexed Loans for Industry
 
-### 1.2 DAI-Adjusted Loans for Industry (Per Monetary Act 1.6)
+All industrial loans are DLB-indexed nominal rates (**no DAI/BAR**). **Service-sector industries** — greenhouses, CO₂ capture, hemp processing, artisan trades, food production — receive the **low service-sector rate**; capital-intensive manufacturing (steel, heavy equipment, shipbuilding) uses the standard nominal rate.
 
-All loans for industrial sectors (hemp, greenhouses, jewelry, shipbuilding, CO2 industry, heavy equipment, steel, aerospace, etc.) receive DAI adjustment. Service-sector industries (greenhouses, CO2 capture, hemp processing, artisan training) receive the **0.5% floor**.
+| Loan type | Rate (DLB-indexed) |
+| :--- | :--- |
+| Greenhouse construction (non-arable) | Service-sector (low) |
+| CO₂ pipeline-connected facility | Service-sector (low) |
+| Hemp processing plant | Service-sector (low) |
+| Hempcrete plant | Service-sector (low) |
+| Heavy equipment / mining machinery | Standard |
+| Steel / shipbuilding | Standard |
 
-| Loan Type | Nominal Rate | DAI-Adjusted Effective (2025, BAR=2.6%) | Floor |
-|-----------|--------------|------------------------------------------|-------|
-| Greenhouse construction | 4% | 1.4% | 0.5% |
-| CO2 pipeline-connected facility | 4% | 1.4% | 0.5% |
-| Hemp processing plant | 4% | 1.4% | 0.5% |
-| Jewelry workshop (artisan co-op) | 4% | 1.4% | 0.5% |
-| Heavy equipment manufacturing | 5% | 2.4% | 1.0% |
-| Steel plant | 5% | 2.4% | 1.0% |
-| Shipyard | 5% | 2.4% | 1.0% |
+### 1.3 Informal Sector Industrial Access (per Credit Union Act 5.4)
 
-### 1.3 Informal Sector Industrial Access (Per Credit Union Act 5.1)
-
-Artisans, small farmers, and informal industrial workers have automatic access to:
-- **Micro-loans** ($500, 4% nominal / ~1.4% effective): Self-attested income, no documentation, 24hr approval via CLS
-- **Base shares** (1 free share on first micro-loan repayment)
-- **Basic Wallet** (BWC Layer 2 access without formal income history)
-
-Credit unions may not require disclosure of cash transaction history for loans under $500,000.
+Informal industrial workers (artisans, small farmers, local processors) access micro-loans (\$500, 4% nominal, self-attested income, 24hr CLS approval). Credit unions may not require disclosure of cash transaction history for loans under \$500,000.
 
 ### 1.4 Co-op Industrial Preference
 
-Industrial licenses, land leases, and greenhouse allocations are issued preferentially to co-ops. If a co-op applies and meets all requirements, the license or lease shall be granted before any corporate application is considered. This is a structural preference (first right of refusal), not a binding quota. The 65% co-op share of industrial output in 2025 is a **descriptive baseline**, not an enforcement target.
+Industrial licenses, land leases, and greenhouse allocations are issued preferentially to co-ops (first right of refusal). A structural preference, not a binding quota; the 65% 2025 figure is descriptive.
 
 ---
 
-## Section 2: Core Industries (Tax and DAI Updates Only - Structure Preserved)
+## Section 2: Core Industries
 
-New Crossroads' industries generate **$213.28B revenue** in 2025, scaling to **$397.2B** by 2075. All loans below are **DAI-adjusted** with applicable floors.
+### 2.1 Hemp Industry (Full-Spectrum)
 
-### Tax Framework (Updated per Monetary Act 9.1)
+New Crossroads runs a **full-spectrum hemp industry** — one crop feeding construction, shipping, and textiles:
+- **Construction (→ Housing Act 2.3):** CO₂-cured **hempcrete**, **hemp 2x4s**, hemp **insulation**, and hemp fiberboard for Durahomes.
+- **Shipping (→ Shipbuilding §2.12):** hemp **cordage and rope** for the merchant marine.
+- **Textiles, paper, bioplastics, and seed/oil** for food and industry.
 
-| Tax Type | Rate / Threshold | Applicable Industries |
-|----------|------------------|----------------------|
-| Co-op profit tax | **5%** on profit over $100,000; 0% under $100k; **no SWF contribution** | Hemp co-ops, jewelry co-ops, shipbuilding co-ops, agricultural co-ops |
-| Corporate profit tax | 0% under $100k; 15% $100k–$1M; 20% over $1M | Foreign factories, steel corporations, aerospace corporations |
-| Informal business tax | 0% under $100k profit; 15% $100k–$1M; 20% over $1M (self-attested, no surveillance) | Artisan jewelers, small farmers, local hemp processors |
+- **Scale:** 25,000 ha (2035) → 30,000 ha (2075). Revenue ~\$4.5B.
+- **Land-use rule (new):** hemp **avoids prime arable land.** It is grown on **marginal land where conventional food crops struggle but hemp thrives**, and **no more than 25% of any farmer's arable holding** may be devoted to hemp — protecting food production. Hemp cultivation and processing qualify for the **0.5% service-sector loans** offered to food/agriculture and other service-sector industries.
+- **Corridor siting (new):** hemp-processing and hempcrete plants **cluster on the Industrial Corridors** (Infrastructure §3.7) — beside the **CO₂ pipelines** (hempcrete is CO₂-cured, so the plant consumes the captured CO₂) and warm-water lines. Every hemp-heavy region receives a corridor pipeline.
+- **Tax:** co-op hemp processors pay 5% profit tax over \$100k (no SWF recharge).
+- **Facilitation:** ~\$9B/year DLB-indexed SWF loans.
 
-### 2.1 Hemp Industry (Tax Updated, DAI Added)
+### 2.2 Forestry & Value-Added Wood Products
 
-- **Scale**: 25,000 ha by 2035 → 30,000 ha by 2075
-- **Revenue**: $3.75B → $4.5B
-- **DAI floor**: 0.5% (service-sector)
-- **Greenhouse leasing**: All 30,000 ha greenhouses leased to co-ops/corporates (lease-to-own, 10-year terms, government buyback at 120% market value for bankruptcy/sale, capped at 10%/year). Co-ops receive lease priority.
-- **Tax**: Co-op hemp processors pay **5%** profit tax over $100k (no SWF recharge)
-- **Facilitation**: $9B/year DAI-adjusted SWF loans
+Forestry is oriented to **value-added wood products** — not raw log export — for **domestic housing stock and export.**
+- **Scale:** 100,000 → 200,000 tons/year of finished products; revenue scaling with value-add.
+- **Products:** engineered lumber, cross-laminated timber, finished framing, millwork, and furniture — supplying Durahome construction (alongside hemp 2x4s) and the export market.
+- **Sustainability:** harvest within the Parks Act timber cap (10M m³/year); co-op forestry preference.
+- **Tax:** co-op wood processors pay 5% profit tax over \$100k.
+- **Facilitation:** ~\$1B DLB-indexed SWF loans (standard rate).
 
-### 2.2 Wood Products (DAI Added)
+### 2.3 Mining Heavy Machinery
 
-- **Scale**: 100,000 tons/year → 200,000 tons/year
-- **Revenue**: $950M → $2B
-- **DAI floor**: 1.0% (standard)
-- **Tax**: Co-op wood processors pay **5%** profit tax over $100k
-- **Facilitation**: $1B DAI-adjusted SWF loans
+Because New Crossroads holds **massive mineral deposits and operations** (§3.1), the act deliberately fosters a **domestic mining-heavy-machinery industry** — excavators, haul trucks, drills, crushers, draglines, and processing equipment — for **import substitution** (the large mining sector buys domestic) and **export** (machinery + mining expertise).
+- **Scale:** ~\$15B → growing with mineral output.
+- **Tax:** corporate manufacturers pay 15–20% profit tax; co-op manufacturers 5% over \$100k.
+- **Facilitation:** ~\$2B DLB-indexed SWF loans (standard rate).
 
-### 2.3 Heavy Equipment (DAI Added)
+### 2.4 Jewelry Industry (Informal Sector Protected)
 
-- **Scale**: $8B → $15B
-- **DAI floor**: 1.0% (standard)
-- **Tax**: Corporate manufacturers pay 15–20% profit tax
-- **Facilitation**: $2B DAI-adjusted SWF loans
+- **Scale:** \$10B → \$20B (~\$4B exports).
+- **Rate:** service-sector (low) for artisan co-ops; standard for corporate.
+- **Informal protection:** cash sales at farmers markets and craft fairs below the DLB threshold are protected.
+- **Artisan training:** 10,000 artisans (~\$100M/year SWF) via the CLS Academy.
+- **Tax:** artisan co-ops 5% over \$100k; corporate jewelers 15–20%.
+- **Facilitation:** ~\$1B/year DLB-indexed SWF loans.
 
-### 2.4 Jewelry Industry (DAI Added, Informal Sector Protected)
+### 2.5 Foreign Investment
 
-- **Scale**: $10B → $20B ($4B exports)
-- **DAI floor**: 0.5% for artisan co-ops; 1.0% for corporate
-- **Informal protection**: Cash sales at farmers markets, craft fairs below DLB threshold are protected, no surveillance
-- **Artisan training**: 10,000 artisans ($100M/year, SWF-funded) via CLS Academy
-- **Tax**: Artisan co-ops pay **5%** profit tax over $100k; corporate jewelers pay 15–20%
-- **Facilitation**: $1B/year DAI-adjusted SWF loans
+- **Scale:** \$20B → \$60B.
+- **Co-op integration:** mandatory worker co-op model (20% year 1 → 40% by year 10) for foreign-owned factories.
+- **Tax:** foreign corporations pay 15–20% profit tax (no special rate).
+- **Tariffs:** 25% on imported autos/equipment; 0% for local factories.
+- **Land leases:** 50-year (up to 200 ha/firm), renewable; co-op lease priority.
+- **Facilitation:** ~\$50B DLB-indexed SWF loans + ~\$25B non-SWF loans.
 
-### 2.5 Foreign Investment (Tax Updated, Co-op Integration)
+### 2.6 Steel Industry
+- **Scale:** \$15B → \$30B (~\$5B exports). Standard rate. Corporate 15–20% tax. ~\$1B/year SWF loans.
 
-- **Scale**: $20B → $60B
-- **Co-op integration**: Mandatory 40% worker co-op model (20% year 1, 40% by year 10) for foreign-owned factories
-- **Tax**: Foreign corporations pay 15–20% profit tax (no special rate)
-- **Tariffs**: 25% on imported autos/equipment, 0% for local factories
-- **Land leases**: 50-year leases (up to 200 ha/firm), renewable. Co-ops receive lease priority.
-- **Facilitation**: $50B DAI-adjusted SWF loans, $25B non-SWF loans
+### 2.7 Aerospace Industry
+- **Scale:** \$8B → \$20B (~\$4B exports). Standard rate. Corporate 15–20% tax. ~\$500M/year SWF loans. *(Arms/aerospace exports subject to the national-security veto, Military Act §8.2.)*
 
-### 2.6 Steel Industry (DAI Added)
+### 2.8 Military / Missile Technology
+- **Scale:** \$12B → \$25B (~\$5B exports). Standard rate. Corporate 15–20% tax. ~\$1B/year SWF loans. *(Subject to the Military Act §8.2 export veto.)*
 
-- **Scale**: $15B → $30B ($5B exports)
-- **DAI floor**: 1.0% (standard)
-- **Tax**: Corporate steel plants pay 15–20% profit tax
-- **Facilitation**: $1B/year DAI-adjusted SWF loans
+### 2.9 Nuclear Technology
+- **Scale:** \$7.5B → \$15B (~\$3B exports). Standard rate. Co-op component manufacturers 5% over \$100k. ~\$1B/year SWF loans. Supplies the SMR fleet (Energy Act 4.2).
 
-### 2.7 Aerospace Industry (DAI Added)
+### 2.10 Aviation Industry
+- **Scale:** ~\$5B (~\$1B exports). Standard rate. Corporate 15–20% tax. ~\$500M/year SWF loans.
 
-- **Scale**: $8B → $20B ($4B exports)
-- **DAI floor**: 1.0% (standard)
-- **Tax**: Corporate aerospace pays 15–20% profit tax
-- **Facilitation**: $500M/year DAI-adjusted SWF loans
+### 2.11 CO₂ Industry (Service-Sector)
 
-### 2.8 Military/Missile Technology (DAI Added)
+- **Scale:** ~\$1B (~\$500M exports).
+- **Rate:** service-sector (low) — CO₂ capture benefits climate.
+- **Products:** carbonate aggregates (500,000 tons/year), CO₂-to-fuels (50,000 tons/year).
+- **Corridor siting (new):** CO₂ processing sits on the Industrial Corridors beside the CO₂ pipelines (sourced from coal/WTE capture, Energy Act 4.2), feeding greenhouses and hempcrete curing.
+- **Tax:** co-op CO₂ processors 5% over \$100k.
+- **Facilitation:** ~\$1.35B DLB-indexed SWF loans.
 
-- **Scale**: $12B → $25B ($5B exports)
-- **DAI floor**: 1.0% (standard)
-- **Tax**: Corporate military contractors pay 15–20% profit tax
-- **Facilitation**: $1B/year DAI-adjusted SWF loans
+### 2.12 Shipbuilding Industry (Co-op Model)
 
-### 2.9 Nuclear Technology (DAI Added)
-
-- **Scale**: $7.5B → $15B ($3B exports)
-- **DAI floor**: 1.0% (standard)
-- **Tax**: Co-op nuclear component manufacturers pay **5%** profit tax over $100k
-- **Facilitation**: $1B/year DAI-adjusted SWF loans
-
-### 2.10 Aviation Industry (DAI Added)
-
-- **Scale**: $1B → $5B ($1B exports)
-- **DAI floor**: 1.0% (standard)
-- **Tax**: Corporate aviation pays 15–20% profit tax
-- **Facilitation**: $500M/year DAI-adjusted SWF loans
-
-### 2.11 CO2 Industry (DAI Added, Service-Sector Floor)
-
-- **Scale**: $275M → $1B ($500M exports)
-- **DAI floor**: **0.5%** (service-sector - CO2 capture benefits climate)
-- **Products**: Carbonate aggregates (500,000 tons/year), CO2-to-fuels (50,000 tons/year)
-- **Tax**: Co-op CO2 processors pay **5%** profit tax over $100k
-- **Facilitation**: $1.35B DAI-adjusted SWF loans
-
-### 2.12 Shipbuilding Industry (DAI Added, Co-op Model)
-
-- **Scale**: 1,000 vessels ($10B) → 2,000 vessels ($20B, $2B exports)
-- **Cooperative model**: 70% co-op-owned, 30% government-owned
-- **DAI floor**: 1.0% (standard)
-- **Innovation**: Zero-emission ships (battery, hydrogen, ammonia propulsion, $500M R&D)
-- **Tax**: Shipbuilding co-ops pay **5%** profit tax over $100k (no SWF recharge)
-- **Facilitation**: $15B DAI-adjusted SWF loans, $5B non-SWF loans
+- **Scale:** 1,000 vessels (\$10B) → 2,000 vessels (\$20B, ~\$2B exports).
+- **Model:** 70% co-op-owned, 30% government-owned.
+- **Innovation:** zero-emission propulsion (battery, hydrogen, ammonia; ~\$500M R&D). Hemp cordage supplied domestically (§2.1).
+- **Tax:** shipbuilding co-ops 5% over \$100k (no SWF recharge).
+- **Facilitation:** ~\$5B non-SWF loans.
 
 ---
 
-## Section 3: Resource Management (Tax Updated, Informal Protected)
+## Section 3: Resource Management
 
-Resources generate **$213.28B/year** in 2025, scaling to **$397.2B** by 2075.
+Resources generate ~\$213.28B/year (2025), scaling to ~\$397.2B by 2075. **Resources are regionally owned** — regions levy royalties/stumpage as own-source revenue; the national government takes the 3% surcharge + profit tax (Municipal & Regional Funding Act §2.5).
 
-### 3.1 Minerals ($112.5B → $200B)
+### 3.1 Minerals
+- **Scale:** ~\$200B — the nation's largest resource sector, anchored by **massive mineral deposits and operations** (the reason the mining-machinery industry §2.3 is fostered).
+- **Mining expertise exports:** ~\$1B/year.
+- **Tax:** mining co-ops 5% over \$100k; corporations 15–20%.
+- **Informal protection:** small-scale artisanal mining cash transactions protected below the DLB threshold.
 
-- **Mining expertise exports**: $500M/year → $1B/year
-- **Tax**: Mining co-ops pay **5%** profit tax over $100k; corporations pay 15–20%
-- **Informal protection**: Small-scale artisanal mining cash transactions protected below DLB threshold
-- **DAI floor**: 1.0% (standard)
+### 3.2 Agriculture & Non-Arable Greenhouses
 
-### 3.2 Agriculture ($45.375B → $80B)
+- **Scale:** ~\$45.375B → ~\$80B.
+- **Greenhouses — non-arable siting (new):** all **30,000 ha of high-tech greenhouses are sited on non-arable land** — rocky, marginal, brownfield, or otherwise unsuitable for field crops — so they **do not displace farmland.** They **cluster on the Industrial Corridors** (Infrastructure §3.7) for **warm-water irrigation** (nuclear secondary-loop outflow, piped to eliminate evaporation) and **CO₂ enrichment** (from the CO₂ pipelines). Lease-to-own, 10-year terms, government buyback at 120% market value (capped 10%/year); co-op lease priority.
+- **Field agriculture:** the Heartland Plains prairie grows field crops, irrigated by the corridor **warm-water pipeline (no CO₂ there)** — pragmatic for open-field cropping.
+- **Rate:** service-sector (low) — food production.
+- **Tax:** agricultural co-ops 5% over \$100k (no SWF recharge).
+- **Informal protection:** cash produce sales at farmers markets protected.
 
-- **Greenhouse leasing**: All 30,000 ha greenhouses lease-to-own with buyback (120% market value). Co-ops receive lease priority.
-- **DAI floor**: **0.5%** (service-sector - food production)
-- **Tax**: Agricultural co-ops pay **5%** profit tax over $100k (no SWF recharge)
-- **Informal protection**: Cash produce sales at farmers markets protected (no surveillance)
+### 3.3 Fuels — Gas to Fertilizer & Petrochemicals (not Transport)
 
-### 3.3 Fuels ($26.625B → $50B)
+- **Scale:** ~\$50B.
+- **Gas-use rule (new):** New Crossroads' **modest natural-gas reserves are routed to fertilizer (ammonia/urea) and petrochemical feedstock — not transport fuel.** Transport is electrified by the nuclear grid (Energy Act 4.2), so gas is too valuable to burn for mobility; it feeds agriculture (domestic fertilizer security) and the chemical industry instead.
+- **Tax:** corporate fuel/chemical refiners pay 15–20% profit tax.
 
-- **DAI floor**: 1.0% (standard)
-- **Tax**: Corporate fuel refiners pay 15–20% profit tax
+### 3.4 Forestry / Water
+- **Scale:** ~\$9B. Feeds the value-added wood-products sector (§2.2). Co-op forestry 5% over \$100k.
 
-### 3.4 Forestry/Water ($9B)
-
-- **DAI floor**: 1.0% (standard)
-- **Tax**: Co-op forestry pays **5%** profit tax over $100k
-
-### 3.5 Rare Earths ($1B → $2B)
-
-- **DAI floor**: 1.0% (standard)
-- **Tax**: Mining co-ops pay **5%** profit tax over $100k
+### 3.5 Rare Earths
+- **Scale:** ~\$2B. Standard rate. Mining co-ops 5% over \$100k.
 
 ---
 
-## Section 4: Innovation Hubs (Unchanged, but DAI applies to hub loans)
+## Section 4: Innovation Hubs
 
-All innovation hub loans are DAI-adjusted (0.5% floor for climate-related research, 1.0% for standard).
-
-Hubs drive $360B AI/tech, $15B jewelry, $20B heavy equipment, $20B steel, $12B aerospace, $18B military/missile, $10B nuclear, $3B aviation, $10B petrochemicals, $3.75B hemp, $5B transformers, $275M CO2, and $10B shipbuilding, funded by **$30B/year R&D** from SWF (per Monetary Act 9.1, no co-op recharge).
+Hubs drive ~\$360B AI/tech, ~\$15B jewelry, ~\$20B heavy equipment (mining machinery), ~\$20B steel, ~\$12B aerospace, ~\$18B military/missile, ~\$10B nuclear, ~\$3B aviation, ~\$10B petrochemicals, ~\$3.75B hemp, ~\$5B transformers, ~\$275M CO₂, and ~\$10B shipbuilding — funded by **~\$30B/year R&D** from the SWF (no co-op recharge). Hub loans are DLB-indexed (service-sector rate for climate-related research, standard otherwise).
 
 ---
 
-## Section 5: Governance (Harmonized with Government Act 4.17)
+## Section 5: Governance
 
 ### 5.1 NIB Structure
-
-The **National Industry Board (NIB)** , an 11-member body, manages all industrial sectors, $155B DAI-adjusted district loans, and $213.28B revenue, reporting to the Central Council (per Government Act 4.17).
-
-- **Composition**: 6 representatives from 20 Regional Industry Districts, 4 experts, 1 chairman, appointed by Central Council (6/11 vote, 11/20 Regional Boards confirm)
-- **Voting**: 6/11 for operational decisions, 8/11 for regulations
-- **Asymmetric scrutiny**: NIB operations fully transparent (institutional level)
+The **National Industry Board (NIB)** — 11 members — manages all industrial sectors, district loans, and revenue, reporting to the Central Council (Government Act 4.18).
+- **Composition:** 6 representatives from 20 Regional Industry Districts, 4 experts, 1 chairman, appointed by Central Council (6/11), confirmed by Regional Boards (11/20).
+- **Voting:** 6/11 operational, 8/11 regulations.
+- **Scrutiny:** NIB operations fully transparent (institutional level, CED).
 
 ### 5.2 Regional Industry Districts
+20 Regional Industry Districts (e.g., Region 5: Heartland Plains) manage local industrial development, greenhouse buybacks, and corridor siting, reporting via Regional Boards. District transactions below \$10k are private; above \$100k tracked via the pseudonymized CED.
 
-20 Regional Industry Districts (e.g., Region 5: Heartland Plains) manage local industrial development, greenhouse buybacks, and report via Regional Boards. District-level transactions below $10k are private; above $100k tracked via CWD.
-
-### 5.3 Dark Corridor Compliance for Industrial Compounds (Per Infrastructure Act 2.2)
-
-Industrial compounds located within 500m of elevated freeway insect corridors must comply with **DCALS**:
-- Indirect red-spectrum motion lighting only, scaled by square footage
-- Retroreflective markers (no powered lighting for edges)
-- Retroreflective building paint as alternative compliance pathway
-- No horizon-visible emission
-
-**DCLTI tax incentive**: Certified compounds receive property tax reduction (0.75% → 0.70% for DCALS compliance, 0.68% for full retroreflective compliance).
+### 5.3 Dark Corridor Compliance for Industrial Compounds (per Infrastructure Act 2.4)
+Industrial compounds within 500m of elevated freeway insect corridors must comply with DCALS: indirect red-spectrum motion lighting (scaled by floor area), retroreflective markers (no powered edge lighting), retroreflective paint as an alternative pathway, no horizon-visible emission. **DCLTI incentive:** certified compounds receive the property-tax reduction (0.75% → 0.70%, or 0.68% for full retroreflective). **Corridor land-tax holiday:** plants and greenhouses built on the Industrial Corridors pay no commercial land tax until construction (or lease-to-own purchase) cost is recovered, contingent on DCALS compliance (Infrastructure §3.7; Municipal & Regional Funding Act corridor carve-out).
 
 ---
 
-## Section 6: CLS Functions for Industry (Harmonized with Credit Union Act 5.1)
+## Section 6: CLS Functions for Industry
 
-The **Crossroads Loan Service (CLS)** manages **$155B DAI-adjusted industry loans** ($105B SWF, $50B non-SWF, from $1.2084T total by 2075).
-
-### 6.1 Industry-Specific Functions
-
-- Issues $500 student venture loans (ages 12–15, DAI-adjusted, 0.5% floor) for industrial startups (hempcrete plants, gem workshops, shipyards) with lenient criteria
-- Advises on $50B non-SWF loans ($50,000–$5M, 5–6% nominal, DAI-adjusted)
-- Supports bankruptcy recovery for industry co-ops, including greenhouse buybacks (10%/year, $500M)
-
-### 6.2 Informal Sector Mandate for Industrial Workers
-
-CLS officers must:
-- Accept self-attested cash income for micro-loans to artisans, small farmers, and informal industrial workers
-- Process micro-loan applications within **24 hours**
-- Not require disclosure of cash transaction history for loans under $500,000
-
-### 6.3 Structure
-
-- **Officers**: 22,000 industry-focused (1,100/region)
-- **CLS Academy**: $562.5M/year trains officers in DAI application, informal sector engagement, and industry-specific lending
-- **Cost**: $687.5M/year, funded by credit union revenue ($562.5M) and SWF ($125M)
+The Crossroads Loan Service manages DLB-indexed industry loans (~\$105B SWF + ~\$50B non-SWF).
+- **Student venture loans:** \$500 (ages 12–15, service-sector rate) for industrial startups (hempcrete plants, gem workshops, shipyards), lenient criteria.
+- **Co-op industry loans:** \$50,000–\$5M, 5–6% nominal (DLB-indexed).
+- **Bankruptcy recovery:** including greenhouse buybacks (10%/year).
+- **Informal mandate:** accept self-attested cash income; 24-hour processing; no cash-history disclosure for loans under \$500,000.
+- **Structure:** ~22,000 industry-focused officers (demand-distributed per Credit Union Act §5.1); CLS Academy trains officers in industry-specific lending and informal-sector engagement.
 
 ---
 
-## Section 7: 50-Year Implementation Plan (Condensed, DAI-Updated)
+## Section 7: 50-Year Implementation Plan
 
-| Phase | Years | Key Milestones | DAI Floor | Funding |
-|-------|-------|----------------|-----------|---------|
-| **1: Foundation** | 2025–2035 | 25,000 ha hemp, 30,000 ha greenhouses, 5 shipyards, $213.28B revenue | 0.5% (hemp, greenhouses, CO2); 1.0% (other) | $155B loans, $205B SWF |
-| **2: Expansion** | 2035–2050 | 27,500 ha hemp, 37,500 ha greenhouses, 1,000 vessels, $260B revenue | Same | $205B loans, $750B SWF |
-| **3: Optimization** | 2050–2075 | 30,000 ha hemp, 45,000 ha greenhouses, 2,000 vessels, $397.2B revenue | Same | $405B loans, $1.5–2.0T SWF |
-
----
-
-## Section 8: Key Stats (2025–2075) - Harmonized
-
-| Metric | 2025 | 2075 | Change / Source |
-|--------|------|------|-----------------|
-| Population | 112M | 130M | — |
-| GDP | $14.5T (baseline: 65/15/20) | $38.94T (co-op dominant by design) | No binding targets per Monetary 9.1 |
-| SWF (total) | $550B | **$1.5–2.0T** (capped at 12% GDP) | Per Monetary 9.1 |
-| Co-op SWF recharge | **$0** (eliminated) | **$0** | Per Monetary 9.1 |
-| Co-op profit tax | **5%** (over $100k) | **5%** (over $100k) | Per Monetary 9.1 |
-| DAI floor (service-sector) | 0.5% | 0.5% | Greenhouses, hemp, CO2, artisan jewelry |
-| DAI floor (standard) | 1.0% | 1.0% | Heavy equipment, steel, shipbuilding |
-| Hemp revenue | $3.75B | $4.5B | — |
-| Jewelry revenue | $10B | $20B ($4B exports) | — |
-| Shipbuilding revenue | $10B (1,000 vessels) | $20B (2,000 vessels) | — |
-| CO2 industry revenue | $275M | $1B | — |
-| Greenhouses (lease-to-own) | 30,000 ha | 45,000 ha | Buyback at 120% market value |
-| Total industry revenue | $213.28B | $397.2B | — |
-| DCALS-certified industrial compounds | 0 | 5,000+ | Per Infrastructure 2.2 |
-| Retroreflective-certified industrial buildings | 0 | 10,000+ | Per Infrastructure 2.2 |
-| Informal industrial transactions | Protected below DLB | Protected below DLB | Per Monetary 1A |
+| Phase | Years | Key Milestones | Funding |
+| :--- | :--- | :--- | :--- |
+| 1: Foundation | 2025–2035 | 25,000 ha hemp (marginal land), 30,000 ha non-arable greenhouses on corridors, 5 shipyards, ~\$213.28B revenue | ~\$155B loans, ~\$205B SWF |
+| 2: Expansion | 2035–2050 | 27,500 ha hemp, 37,500 ha greenhouses, 1,000 vessels, mining-machinery scale-up | ~\$205B loans, ~\$750B SWF |
+| 3: Optimization | 2050–2075 | 30,000 ha hemp, 45,000 ha greenhouses, 2,000 vessels, ~\$397.2B revenue | ~\$405B loans, ~\$1.5–2.0T SWF |
 
 ---
 
-## Summary of Changes (Draft 4.1 → 4.2)
+## Section 8: Key Stats (2025–2075)
 
-| Section | Change | Rationale |
-|---------|--------|-----------|
-| **Header** | Updated cross-references: Monetary 8.0→9.1, Credit Union 4.0→5.1, Government 4.16→4.17, Infrastructure 2.1→2.2; added amendment note | Aligns with updated acts |
-| **Purpose** | Removed binding 65/15/20 language; added "co-op dominant through incentives" and "descriptive baselines" | Per Monetary 9.1 |
-| **Section 0** | Updated Monetary to 9.1, Credit Union to 5.1, Infrastructure to 2.2; added retroreflective paint mention | Cross-reference consistency |
-| **Section 1.4** | **New: Co-op Industrial Preference** (first right of refusal, not binding quota) | Clarifies incentive-based approach |
-| **Section 2.1, 2.5, 3.2** | Added "co-ops receive lease priority" to greenhouse leasing, land leases | Structural preference without quotas |
-| **Section 5.3** | Updated DCALS reference to Infrastructure 2.2; added retroreflective compliance pathway | Reflects Infrastructure Act updates |
-| **Section 8** | Changed GDP row from fixed 65/15/20 to "baseline" and "co-op dominant by design"; added retroreflective-certified buildings | Honest about framework |
+| Metric | 2025 | 2075 |
+| :--- | :--- | :--- |
+| Population | 112M | 130M |
+| GDP | ~\$14.5T | ~\$38.94T (co-op dominant by design) |
+| SWF (total) | ~\$550B | ~\$1.5–2.0T (capped 12% GDP) |
+| Industrial revenue | ~\$213.28B | ~\$397.2B |
+| Minerals | ~\$200B | scaling |
+| Hemp | 25,000 ha (marginal land) | 30,000 ha |
+| Greenhouses | 30,000 ha (non-arable, on corridors) | 45,000 ha |
+| Hemp land cap | ≤25% of any farmer's arable holding | same |
+| Gas use | Fertilizer + petrochemicals (not transport) | same |
+| Shipbuilding | 1,000 vessels | 2,000 vessels |
+| Loan rates | DLB-indexed (no DAI) | same |
+| Data architecture | PPK + CED (no CWD) | PPK + CED |
 
 ---
 
 ## Design Philosophy (Informative)
 
-The Industry Act is the **productive engine** of New Crossroads — hemp, steel, ships, jewelry, and the CO2 industry that turns waste into building materials. But an engine without a governor destroys itself.
+New Crossroads industrializes the way it does everything else — by turning constraints into closed loops and steering with incentives rather than mandates.
 
-**Why DAI floors for industry?**
-- Greenhouses, hemp processing, and CO2 capture are service-sector industries. They provide food, building materials, and climate remediation. The people who run them receive substantial non-monetary compensation through the Education Act's mandatory service programs. Their loans get the 0.5% floor.
-- Heavy equipment, steel, and shipbuilding are capital-intensive manufacturing. They get the 1.0% floor. This is still favorable (nominal 5% becomes ~2.4% effective), but acknowledges they are not service-sector.
+- **One plant, one corridor, every waste stream reused.** Greenhouses sit on land too poor to farm, drink warm water that would otherwise be thermal pollution, and breathe CO₂ captured from coal and waste-to-energy. Hempcrete plants cure their blocks with that same CO₂. The corridor is an industrial ecosystem, not just a pipeline.
 
-**Why no co-op SWF recharge?**
-- Co-ops already pay 5% profit tax over $100k. They do not pay an additional 2% of GDP into the SWF. That burden shifted to financial transactions, corporate profits, and resource extraction (per Monetary Act 9.1). This keeps co-op capital available for reinvestment.
+- **Hemp without hunger.** Hemp is a miracle crop — house frames, insulation, rope, cloth, all from one plant — but it never comes at the cost of food. It grows where wheat won't, on no more than a quarter of any farm, on the marginal ground. The nation builds its houses without starving for it.
 
-**Why co-op industrial preference (not quotas)?**
-- Co-ops receive first right of refusal for industrial licenses, land leases, and greenhouse allocations.
-- If no qualified co-op applies, a corporation may take the license or lease.
-- No binding quota means no enforcement action if co-op share fluctuates.
-- The 65% figure from 2025 is a descriptive baseline, not a target.
+- **Food independence from the ground up.** The gas stays home as fertilizer, not tailpipe exhaust; the forests become finished lumber for Durahomes, not raw logs on a freighter; the mines that anchor the economy are served by machinery built at home. Value is added inside the borders.
 
-**Why informal protection for industrial cash sales?**
-- An artisan selling a silver necklace at a farmers market should not need a BWC wallet, a CWD profile, or a tax filing. The transaction is below the DLB threshold. It is protected. The state has no interest in tracking it.
-- A small farmer selling tomatoes for cash is not a tax evader. They are a participant in the informal economy — which is a constitutionally protected zone.
+- **The informal artisan is never crowded out.** The jeweler at the craft fair, the small farmer, the local hemp processor — all trade in cash, unwatched, beneath the threshold, while the corporate steel mill files its quarterly audit. Scrutiny rises with scale.
 
-**Why DCALS and retroreflective paint for industrial compounds?**
-- Industrial yards, warehouses, and processing plants adjacent to elevated freeway insect corridors cannot use standard lighting. The red-spectrum, motion-activated, indirect systems described in DCALS (Infrastructure Act 2.2) keep workers safe without creating insect traps.
-- Retroreflective building paint provides a passive alternative — zero energy, zero light emission, visible only when vehicle headlights hit it.
-- The DCLTI tax incentive (0.75% → 0.70% for DCALS, 0.68% for full retroreflective) makes compliance profitable.
-
-The Industry Act is not about picking winners and losers. It is about creating the conditions where co-ops, corporations, and informal artisans can all thrive — without surveilling the small transactions that make daily life possible, without crushing co-ops under SWF contributions, and without lighting up the night sky for the convenience of a few.
-
-When the next generation buys a hemp shirt at a market stall with cash, or drives past a dark industrial yard where building edges glow only in the return of their own headlights — they will know that New Crossroads built an industrial economy that respected both people and the planet.
-
-That is the Industry Act.
+A nation that grows its houses, feeds its own soil, builds its own machines, and reuses its own waste heat and carbon — steering industry into shared corridors without ever forcing it there — is an industrial economy designed as a system, not a scramble.
 
 ---
 
-**End of Draft 4.2**
+**End of Draft 4.3**
