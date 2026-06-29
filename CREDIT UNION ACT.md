@@ -1,51 +1,44 @@
 ---
 title: "Crossroads Credit Union Act of 2025"
-draft: "5.5"
-date: "2026-06-28"
+draft: "5.6"
+date: "2026-06-29"
 author: "Thunderfish2"
 repository: "crossroads-monetary-act"
-description: "Companion legislation to the Monetary Act 9.5. Fiat credit-union network, preserving all structural detail: a member-owned credit union network (~5,000, chartered by population/deposits with ≥3-catchment coverage rather than a flat 250/region), BWC money creation under a 10% reserve requirement, the Citizens' Metals ETF as citizen investment, embedded demand-distributed CLS loan officers as a money-creation brake, a monthly BWC Purchasing Power Index, reference-rate-anchored loan and deposit rates, uninsured special shares on a 7/6/5-then-premium schedule, professionalized credit-union boards with field-of-economy expertise and deposit-scaled compensation, field-of-membership residency locks against arbitrage, mutual liquidity/solvency backstops with automatic crisis stabilizers, and a surgical CLS-administered debt jubilee."
-supersedes: "Draft 5.4 (the complete fiat version) and all prior drafts. 5.5 adds the reference-rate anchor wiring, automatic crisis stabilizers, uninsured Canadian-style special shares, board expertise + compensation, variable per-region credit-union counts with field-of-membership coverage, and residency-locked investment."
+description: "Companion legislation to the Monetary Act 9.6. Fiat credit-union network, preserving all structural detail: a member-owned credit union network (~5,000, chartered by population/deposits with ≥3-catchment coverage), BWC money creation under a 10% reserve requirement, the Citizens' Metals ETF as citizen investment, demand-distributed CLS loan officers as a money-creation brake, a monthly BWC Purchasing Power Index, reference-rate-anchored loan and deposit rates, uninsured special shares (equity) on a 7/6/5-then-standardized-premium schedule with a 3-year lock-up and a national secondary market, local-priority primary issuance, professionalized boards with field-of-economy expertise and deposit-scaled compensation, residency-locked control (base shares and voting), mutual liquidity/solvency backstops with automatic crisis stabilizers, and a surgical CLS-administered debt jubilee."
+supersedes: "Draft 5.5. 5.6 reworks the special-share market: the secondary market goes national (was local), primary issuance gains a 30-day local-priority window then a national remainder, a 3-year sale lock-up is added (redemption valve stays open), the steady-state premium is standardized to reference + 2%, the equity/balance-sheet treatment is stated explicitly (transfer vs redemption — the two doors), and outside ownership is governed by disclosure rather than a floor. Residency (§1.5) is re-scoped to govern base shares and voting only."
 ---
 
-# Crossroads Credit Union Act of 2025: Draft 5.5
+# Crossroads Credit Union Act of 2025: Draft 5.6
 
 Posted to r/Bulwarkomics
-Draft: 5.5 | Date: June 28, 2026
+Draft: 5.6 | Date: June 29, 2026
 Author: Thunderfish2
 
-**Cross-reference.** Companion to the Monetary Act 9.5. The DLB, the base-money issuance anchor (§1.5), the **Reference Rate Anchor (§1.5A)**, the **Crisis-Management & Automatic-Stabilizer section (§1.8)**, the Informal Economy Guarantee, the Two-Layer Velocity Architecture, and the PPK/CED data architecture are governed by that act. Loan and deposit rates here are **plain nominal rates set within system bands around the reference rate** defined in Monetary Act §1.5A — they are reset when the reference rate is republished. There is no BAR or DAI; those were removed in the fiat conversion. (§1.5A and §1.8 are the companion additions being made to the Monetary Act in the same pass; this act forward-references them.)
+**Cross-reference.** Companion to the Monetary Act 9.6. The DLB, the base-money issuance anchor (§1.5), the Reference Rate Anchor (§1.5A), the Crisis-Management & Automatic-Stabilizer section (§1.8), the Informal Economy Guarantee, the Two-Layer Velocity Architecture, and the PPK/CED data architecture are governed by that act. Loan and deposit rates here are plain nominal rates set within system bands around the reference rate defined in Monetary Act §1.5A — reset when the reference rate is republished. There is no BAR or DAI; those were removed in the fiat conversion.
 
 **Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values.
 
 ---
 
-## Amendment note — Draft 5.5
+## Amendment note — Draft 5.6
 
-Draft 5.5 keeps every structural element of 5.4 and changes only what the following items require. Explicit changelog (so nothing is silently dropped):
+Draft 5.6 keeps every structural element of 5.5 and changes only the special-share market and the residency rule it depended on. Explicit changelog (so nothing is silently dropped):
 
-**Rates.**
-- Loan and deposit rates are no longer described as "DLB-indexed" in the abstract; they are **anchored to the reference rate** (Monetary Act §1.5A), a flat-and-slow, rule-based rate. Because deposit *and* loan rates now hang off one published anchor, they move together — closing the prior risk of savings rates drifting above loan yields.
-- The undefined "reference rate + 1% / + 2%" backstop pricing (§6.4) is now wired to that defined reference rate.
+**Special-share market (the focus of this revision — §3.2, §3.3).**
+- **Secondary market goes national.** Existing special shares (past lock-up) trade nationwide; any citizen may buy or sell. The 5.5 "local CUSM" is retired — a small-town buyer pool was the binding constraint, and a national pool dissolves it.
+- **Primary issuance becomes a waterfall.** On a new series, the issuing credit union's field of membership gets a **30-day local-priority window at par**; whatever the community does not subscribe then lists on the **national market, also at par**. Priority, not exclusion — the window is a minimum a board may not shorten, with advance notice and in-branch/in-wallet posting so residents get the full window.
+- **Three-year sale lock-up.** A share may not be sold on the secondary market for its first 3 years — exactly its 7/6/5 step-down period (locked as long as it pays above the steady rate). The **redemption valve** (the $500/BWC/yr withdrawal cap) stays open throughout as the hardship exit.
+- **Standardized premium.** The steady-state dividend is fixed at **reference + 2%** (replacing 5.5's "reference + ~1.5–2%, board-set" band). Because it floats and resets uniformly, every post-lock-up share pays one identical coupon, so the market prices only **credit risk**, not yield.
+- **Two doors, made explicit.** A **transfer** (sale to another holder) leaves the credit union's balance sheet untouched — only the share register changes. A **redemption** (sale back to the credit union) reduces capital and is the capped door.
+- **Equity treatment, stated on its face.** Special shares are equity (capital), subordinate to all depositors, loss-absorbing; dividends are payable only from available earnings and skipping one is **not a default**; capital is distinct from the 10% liquidity reserve. Member-held and investor-held shares are shown as separate balance-sheet sub-lines.
+- **Disclosure, not a floor.** Each credit union publishes its local-vs-national special-share equity split; there is **no cap** on outside ownership.
 
-**Special shares (§3.2, §6.3).**
-- Special shares are now **uninsured** — the DIP backing and the former special-shares insurance pool are removed. Deposit insurance covers deposits and wallets only.
-- New dividend schedule: **7% year 1, 6% year 2, 5% year 3, then reference rate + ~1.5–2%** thereafter (the premium compensating for the absence of deposit insurance).
-- New **carry constraint**: the steady-state premium may not exceed the lending spread the capital is deployed into.
+**Residency re-scoped (§1.5).**
+- The residency lock now governs **base shares and voting only**. Special shares are **local-priority on issue, then freely held and traded nationally** — the 5.5 hard lock on special-share investment is replaced. The relocation/grandfather rule now applies to base shares only.
 
-**Boards (§6.1).**
-- Stated cleanly: **one member, one vote**; the full membership elects all seats; special shares are non-voting.
-- New **expertise requirement**: credentialed seats must come from relevant economic fields (published list); the Regional Board verifies eligibility as a yes/no candidacy gate.
-- The **Informal Sector Seat** is retained and is credential-exempt — it qualifies by lived experience.
-- New **compensation** rule: $60k floor per credentialed seat, scaled by the credit union's total deposits up to a cap (~$150–180k); the informal/lived-experience seat sits on a stipend. Board size scales with credit-union size (small = 5 seats, large = 7).
+**Companion/version.** Companion updated to Monetary Act 9.6.
 
-**Structure & anti-arbitrage (new §1.5, §3.3, Appendix A/B).**
-- The flat **250 credit unions/region** is replaced by a rule: credit unions are chartered by population/deposits, with catchments drawn so **every residence falls within the field of membership of at least 3 credit unions** (contestability). ~5,000 nationally is now a *derived* illustrative headline.
-- New **field-of-membership residency lock**: a member must reside within a credit union's field of membership to hold its base or special shares. Deposits, withdrawals, cash transactions, and the national Citizens' Metals ETF remain fully portable nationwide.
-- The CUSM (§3.3) becomes a **local** secondary market as a consequence.
-
-**Crisis management (new §6.8, Appendix C).**
-- The RLP→SWF liquidity line opens **automatically** on an objective systemic-freeze trigger (Monetary Act §1.8), with the certification gates pre-cleared by the trigger and penalty pricing held stable while quantity flows (Bagehot-style). Triggers are read from institutional plumbing only — no citizen surveillance.
+**Cleanup.** Re-cleaned currency artifacts and reconstructed tables flattened in the source round-trip; all figures preserved.
 
 ---
 
@@ -74,7 +67,7 @@ BWC is fiat. Not redeemable for metal, not backed by a metal reserve. Its value 
 
 **CLS credit judgment (qualitative brake).** Because lending creates money, the professional credit judgment of embedded CLS loan officers is itself a brake on money creation (Section 5). Reserve = the ceiling; CLS = the judgment beneath it.
 
-- Features: real-time wallet status; the monthly BWC Purchasing Power Index (Section 1.4) on every wallet; CME-resilient via hardened grid and EMP-proof vaults.
+- **Features:** real-time wallet status; the monthly BWC Purchasing Power Index (Section 1.4) on every wallet; CME-resilient via hardened grid and EMP-proof vaults.
 
 *Rationale:* a fiat BWC disciplined by an explicit issuance anchor (Monetary Act §1.5), a 10% reserve, and CLS credit judgment can fund a growing co-op economy without the credit scarcity a metal standard imposes. Trust comes from a transparent purchasing-power index and sound institutions, not from a redemption promise the system could not universally honor.
 
@@ -82,7 +75,7 @@ BWC is fiat. Not redeemable for metal, not backed by a metal reserve. Its value 
 
 Credit unions self-recapitalize through:
 
-- **Special Shares (primary mechanism):** 1–2 series per year, each raising ~$12.5B system-wide (illustrative), scaled per region by population/deposits rather than a flat $2.5B × 250 (see §1.5, §3.2). Tiered pricing ($1,000–$25,000/BWC per citizen). Uninsured equity (§3.2). This is the engine of loan growth toward ~$1.2084T by 2075.
+- **Special Shares (primary mechanism):** 1–2 series per year, each raising ~$12.5B system-wide (illustrative), scaled per region by population/deposits rather than a flat $2.5B × 250 (see §1.5, §3.2). Tiered pricing ($1,000–$25,000/BWC per citizen). Uninsured equity, raised locally-first then nationally (§3.2). This is the engine of loan growth toward ~$1.2084T by 2075.
 - **Fees:** transaction, swap (BWC→Cash only), checking, liquidity, and micro-loan fees. (No special-shares insurance fee — special shares are uninsured.)
 - **Loan interest:** anchored to the reference rate (Monetary Act §1.5A); micro and service-sector rates set deliberately below it (§4.2).
 - **SMSWF profits:** ~$1.736B/year to credit unions.
@@ -102,7 +95,7 @@ Credit unions and CLS **must**:
 
 - Accept self-attested cash income as sufficient for micro-loan approval ($500, 4% nominal). No documentation, no income verification, no cash-history review.
 - Process micro-loan applications within 24 hours.
-- Post the current DLB threshold, the monthly BWC Purchasing Power Index, the reference rate, and the loan rate table in all branches (physical and digital), updated as published.
+- Post the current DLB threshold, the monthly BWC Purchasing Power Index, the reference rate, the loan rate table, and any open special-share series and its local-priority window (§3.2) in all branches (physical and digital), updated as published.
 
 Credit unions and CLS **may not**:
 
@@ -123,23 +116,23 @@ Violations: Regional Board sanction, CED audit, and fines up to $5M per incident
 
 ### 1.5 Field of Membership, Catchment Coverage & Residency
 
-*Rationale:* with no nationwide investment market and no central rate-setter, local competition is the discipline that keeps any single credit union honest on rates and service. This section replaces the artificial "250 per region" count with a coverage rule, and locks share investment to residence so that competition stays local and equity arbitrage cannot run across the country.
+*Rationale:* discipline comes from two places, and they govern two different things. **Local competition** keeps each credit union honest on service and rates — through community membership, the ≥3-catchment overlap, and the local-priority share window. The **national special-share market** prices each credit union's credit risk. Residency therefore governs **control** (votes and membership), not the holding of non-voting capital: locking *who governs* a credit union to the community it serves, while letting *who funds* it extend nationally.
 
-**Field of membership (the local common bond).** Each credit union serves a defined *field of membership* — the municipality and surrounding area assigned to it. This is the cooperative common bond at community level and is **distinct from the 20-region governance tier** (which retains the word "region" throughout this act and the Monetary Act). "Field of membership" is the operative term for the local catchment.
+**Field of membership (the local common bond).** Each credit union serves a defined field of membership — the municipality and surrounding area assigned to it. This is the cooperative common bond at community level and is distinct from the 20-region governance tier (which retains the word "region" throughout this act and the Monetary Act). "Field of membership" is the operative term for the local catchment.
 
-**Chartering by rule, not fixed count.** Credit unions are chartered roughly one per *N* residents (or per deposit base), so a highly populated area may host many (e.g., ~1,000) and a sparsely populated one only a few (e.g., ~200). The flat 250/region is retired. ~5,000 nationally is a *derived* illustrative headline, not a target.
+**Chartering by rule, not fixed count.** Credit unions are chartered roughly one per N residents (or per deposit base), so a highly populated area may host many (e.g., ~1,000) and a sparsely populated one only a few (e.g., ~200). The flat 250/region is retired. ~5,000 nationally is a derived illustrative headline, not a target.
 
-**Coverage guarantee (≥3 catchments).** Catchments are deliberately drawn to overlap so that **every residence falls within the field of membership of no fewer than 3 credit unions**, guaranteeing every citizen at least three to choose among for membership, shares, and loans. Dense areas naturally exceed this; the rule fixes the *minimum*. To meet the floor where density is low, **rural catchments may be geographically larger** so remote districts are still reached by at least three credit unions (whose catchments may extend from neighboring towns).
+**Coverage guarantee (≥3 catchments).** Catchments are deliberately drawn to overlap so that every residence falls within the field of membership of no fewer than 3 credit unions, guaranteeing every citizen at least three to choose among for membership, shares, and loans. Dense areas naturally exceed this; the rule fixes the minimum. To meet the floor where density is low, rural catchments may be geographically larger so remote districts are still reached by at least three credit unions (whose catchments may extend from neighboring towns).
 
-**Residency-locked investment (anti-arbitrage).** To hold **base or special shares** in a credit union, a member must **reside within that credit union's field of membership**. This prevents members from chasing the best share terms across catchments and across the country.
+**Residency-locked control (base shares and voting).** To hold **base shares** and to **vote**, a member must reside within that credit union's field of membership. Base shares carry membership and the vote; locking them keeps each credit union governed by the community it serves. **Special shares are non-voting capital and are *not* residency-locked to hold** — they are local-priority on issue (the 30-day window, §3.2) and freely held and traded nationally thereafter (§3.3). Widening who holds non-voting capital never touches who controls the credit union.
 
-**Portable deposits and ETF.** Deposits, withdrawals, cash transactions, checking, savings, GICs, retirement, loans, and the **national Citizens' Metals ETF** remain fully portable nationwide. A traveler or visitor may deposit, withdraw cash, and transact at any credit union. **Only share investment is residency-locked.**
+**Portable deposits, ETF, and special-share holding.** Deposits, withdrawals, cash transactions, checking, savings, GICs, retirement, loans, the national Citizens' Metals ETF, and **special-share holding** are all portable/national. A traveler or visitor may deposit, withdraw cash, and transact at any credit union. Only **base shares and the vote** are residency-bound.
 
-**Overlap eligibility.** Where two or more catchments cover a residence, the resident is eligible to join and invest in **any** of them. The mild local rate-shopping this permits is the intended competition, not a defect; the flat-and-slow reference band keeps the spread to chase small.
+**Overlap eligibility.** Where two or more catchments cover a residence, the resident is eligible to join (take base shares and vote) in any of them. The mild local rate-shopping this permits is the intended competition, not a defect; the flat-and-slow reference band keeps the spread to chase small.
 
-**Residency via PPK.** Field-of-membership residence is an identity-layer attribute, **self-attested through the PPK** as a qualified/not-qualified check. It is never established by transaction tracking and never merged with CED economic data outside the warranted Judicial Link Box.
+**Residency via PPK.** Field-of-membership residence is an identity-layer attribute, self-attested through the PPK as a qualified/not-qualified check. It is never established by transaction tracking and never merged with CED economic data outside the warranted Judicial Link Box.
 
-**Relocation / grandfather rule.** On moving out of a credit union's field of membership, a member **keeps existing share holdings** (grandfathered) but may not add to them in the former field. The member may begin investing in the new field of membership, or transfer holdings via the CUSM within a 12-month grace window. No member is force-sold out of shares at the withdrawal cap because they moved.
+**Relocation / grandfather rule (base shares).** On moving out of a credit union's field of membership, a member **keeps existing base shares** (grandfathered, estate-transferrable) but may not acquire new base shares there or vote there; they establish membership in the new field. **Special shares are unaffected** — they are nationally holdable regardless of residence, so relocation never threatens them.
 
 ---
 
@@ -150,6 +143,7 @@ Violations: Regional Board sanction, CED audit, and fines up to $5M per incident
 - **Citizen-members:** full membership, 1+ base shares, wallet, banking suite, ETF access, loans, voting rights.
 - **Ages 12–19:** voluntary student/minor account (1 base share), checking/savings/ETF/$500 venture loans, parental oversight for full features.
 - **Non-voting members:** basic banking with reduced deposit-insurance coverage (Section 6.3).
+- **Non-member capital holders:** any citizen may hold special shares in a credit union outside their field of membership (§3.2, §3.3). They are non-voting, receive dividends, and have no membership or tier benefits.
 
 ### 2.2 Membership Tiers
 
@@ -159,7 +153,7 @@ Violations: Regional Board sanction, CED audit, and fines up to $5M per incident
 | **Silver** | + special shares | ~$15,000/BWC | +$50/BWC bonus, 80% patronage, +5% activity bonus, silver card |
 | **Gold** | $25,000/BWC special shares + 1,000 base | ~$20,000/BWC | +$200/BWC bonus, 0% savings fees, 0.5 advisory vote on non-SWF loans, 85% patronage, gold card |
 
-*(The ETF cap is an investment ceiling per tier — member protection — not a backing figure.)*
+*(Tier benefits require membership — a residency-locked base share in that credit union. ETF cap is an investment ceiling per tier — member protection — not a backing figure.)*
 
 - **Patronage Bonuses:** +5% for on-time line-of-credit payments, +10% for 12-month consistency (max $50/BWC/year).
 - **System-wide:** ~$862.5M/year activity bonuses + ~$4.7B/year payment bonuses.
@@ -175,40 +169,64 @@ Violations: Regional Board sanction, CED audit, and fines up to $5M per incident
 - **Acquisition:** buy ~$100 BWC/year, earn 75% patronage to shares / 25% cash, reinvest 4–8% dividends.
 - **Informal Sector Welcome Share:** 1 free base share granted automatically on successful repayment of first micro-loan. No purchase required. Grants full membership and voting rights.
 - **Minor incentives (12–19):** 1 share for voting in board elections, 1 for town-hall attendance.
-- **Residency:** base shares are held only in a credit union within the member's field of membership (§1.5).
+- **Residency:** base shares are held only in a credit union within the member's field of membership (§1.5); they carry the vote and are the seat of membership. Grandfathered on relocation (§1.5).
 - **Mechanics:** lifetime, non-sellable, estate-transferrable; grants membership, banking, and voting rights.
 
-### 3.2 Special Shares (Citizen-Members Only) — Uninsured Member Capital
+### 3.2 Special Shares — Uninsured Member & Investor Capital
 
-*Rationale:* special shares are patient member capital that lets sound lending exceed the Treasury base while staying solvent. Modeled on the cooperative practice of issuing uninsured investment shares at a premium over insured deposits: because they carry no deposit insurance, they pay more — and that extra return is honest compensation for the risk, not a subsidy.
+*Rationale:* special shares are patient risk-capital that lets sound lending exceed the Treasury base while staying solvent. Modeled on the cooperative practice of issuing uninsured investment shares at a premium over insured deposits: because they carry no deposit insurance, they pay more — and that extra return is honest compensation for the risk, not a subsidy. Because they are **non-voting**, capital formation can be local-first while capital *holding* extends nationally without ever touching who controls the credit union.
 
-- **Issuance schedule:** 1–2 series/year, at board discretion with Regional Board approval (6/11).
-- **Series structure:** each raises ~$12.5B system-wide (illustrative), **scaled per region by population/deposits rather than a flat $2.5B across 250 credit unions/region** (the per-region figure is re-derived off the actual catchment distribution — see §1.5, Appendix B). Offered sequentially (not simultaneously) to avoid saturation; between series, credit unions deploy prior-series capital into reference-rate-anchored loans.
-- **Pricing:** $1,000–$25,000/BWC per citizen (tiered).
-- **Dividend schedule (Canadian-style step-down to a premium):**
-  - **Year 1: 7%**
-  - **Year 2: 6%**
-  - **Year 3: 5%**
-  - **Year 4 onward: reference rate + ~1.5–2%** (the uninsured-equity premium), board-set within that band.
-  - The 7/6/5 opening is a deliberate loss-leader to attract capital (it may run above the loan yield in the early years); the steady-state premium is the durable rate.
-- **Carry constraint (binding):** the steady-state premium a board sets may **not exceed the lending spread the capital is deployed into**. Special-share capital that funds loans must earn at least its own dividend; a board may not set a premium the loan book cannot cover.
-- **Not insured:** special shares are **uninsured equity**. They are **not** covered by deposit insurance or any special-shares insurance pool (both removed). Deposit insurance (§6.3) covers deposits and wallets only. The dividend premium exists precisely because the principal is at risk.
-- **Withdrawals:** $500/BWC/year (1-year cooldown for a $1,000/BWC withdrawal). For liquidity beyond the cap, members use the CUSM (§3.3).
-- **Residency:** special shares are held only in a credit union within the member's field of membership (§1.5); the relocation/grandfather rule applies.
-- **Voting rights:** **non-voting** (capital does not buy board control — see §6.1), except Gold tier's 0.5 advisory vote on ~$50B non-SWF loans.
-- **Recapitalization impact:** each series adds ~$25B/year of capacity; over 50 years (2025–2075), ~$1.2084T.
+**Issuance.**
+- **Schedule:** 1–2 series/year, at board discretion with Regional Board approval (6/11).
+- **Series structure:** each raises ~$12.5B system-wide (illustrative), scaled per region by population/deposits rather than a flat $2.5B across 250 credit unions/region (re-derived off the actual catchment distribution — see §1.5, Appendix B). Offered sequentially (not simultaneously) to avoid saturation; between series, credit unions deploy prior-series capital into reference-rate-anchored loans.
+- **Pricing (subscription):** $1,000–$25,000/BWC per citizen (tiered), at **par**.
+- **Primary issuance waterfall (new):**
+  - *Local-priority window* — on a new series, the issuing credit union's field of membership has **first refusal for 30 days, at par**. The series, terms, and window must be posted in advance, in-branch and in-wallet (§1.3), so residents get the full window. The window is a **minimum**; a board may not shorten it to push shares to outside investors.
+  - *National remainder* — whatever the field of membership does not subscribe within the window lists on the **national market, also at par**. This is how a small credit union that cannot self-fund a full series still capitalizes: the community buys what it can, the nation funds the rest.
 
-*(Special shares recapitalize credit-union capital that satisfies the reserve/capital requirement; they do not add metal to any reserve. This is the instrument that lets sound lending exceed the base while staying solvent — now as genuinely at-risk, premium-paying member equity.)*
+**Dividend.**
+- **Year 1: 7% · Year 2: 6% · Year 3: 5%** — the step-down, paid for committing through the lock-up.
+- **Year 4 onward: reference rate + 2%** — the **standardized national premium**, floating and reset when the reference rate is republished (Monetary §1.5A). Every post-lock-up share therefore pays one identical current coupon. The premium is a **system constant, not a board choice**: boards decide whether to issue, not what to pay.
 
-### 3.3 Credit Union Secondary Market (CUSM) — local
+**Three-year sale lock-up (new).** A share may not be sold on the secondary market for **3 years from issue** — exactly its step-down period, so a holder is locked precisely as long as the share pays above the steady rate. This is the honest quid pro quo for the 7/6/5 teaser, like a term deposit. The **redemption valve stays open** throughout the lock-up as the hardship exit (see Withdrawals).
 
-*Rationale:* the $500/BWC/year withdrawal cap keeps capital deployed in the loan pool but creates an individual liquidity problem. The CUSM resolves it without unlocking capital from the system — shares transfer between members, not out of the network.
+**Withdrawals (the redemption door).** $500/BWC/year (1-year cooldown for a $1,000/BWC withdrawal). A withdrawal is a **redemption** — selling the share back to the credit union, which pays cash and cancels it, reducing the credit union's capital and liquidity. This is the **capped** door, open during and after lock-up. For liquidity beyond the cap (after lock-up), holders use the national secondary market (§3.3), which does not de-capitalize the credit union.
 
-- **Local market:** because share investment is residency-locked (§1.5), special shares trade **only among members within the same field of membership**. The CUSM is therefore a *local* secondary market; the buyer pool for a small-catchment credit union is correspondingly thin, which the ≥3-catchment overlap partially offsets.
-- **Trading:** members transfer special shares within a 90%–110% par band.
-- **Price discovery:** market-determined within the band; trades above 105% of par require CLS notification (notification only, no approval).
-- **Alternative exits:** where a local buyer pool is insufficient, the member-buyback and co-op-index (CGCI / CCIF) paths used for Freedom Shares remain available routes to liquidity.
-- **Governance:** CED logs aggregate CUSM volume only (per quarter, system-wide); individual trades are private.
+**Two doors (new — transfer vs redemption).**
+- **Transfer (secondary sale to another holder):** the credit union pays nothing; the share stays on its books at the same value; only the **share register** changes — who the dividend is owed to. Cash moves wallet-to-wallet, off the credit union's balance sheet. National and open after lock-up (§3.3). The credit union keeps every dollar of its capital; only the dividend recipient changes.
+- **Redemption (sale back to the credit union):** capital and liquidity shrink; this is the capped door above.
+
+**Equity treatment (new — what a special share is on the books).**
+- **Equity, not a liability.** Special shares sit in the **capital** section of the balance sheet — members'/investor capital, not money the credit union owes back on demand.
+- **Subordinate and loss-absorbing.** In a wind-up, special-share holders rank **below all depositors and the DIP** (§6.5) — they absorb losses before insured depositors are touched. That subordination is what the premium pays for.
+- **Discretionary, earnings-funded dividend.** Dividends are payable only from available earnings, at board declaration. A skipped or reduced dividend in a bad year is **not a default** — which is exactly what lets this instrument absorb stress without triggering insolvency.
+- **Capital, not reserve.** Special shares count toward the credit union's **capital** (the solvency cushion); they are distinct from the **10% liquidity reserve** (base BWC/cash held against deposits, §1.1). A subscription arrives as a cash asset, is recorded as special-share equity, and is then deployed into loans.
+- **Member vs investor equity.** A share held by a resident member and one held by a non-member national holder are the same instrument at the same rank, shown as separate balance-sheet sub-lines — *member special-share equity* and *investor special-share equity* — for the §3.3 disclosure.
+
+**Holding & voting.**
+- After issue, special shares are freely held and traded **nationally** and are **not residency-locked**. A holder outside the issuing credit union's field of membership is a **non-voting, non-member capital holder** — no vote, no membership, no tier benefits. Membership still requires a residency-locked base share (§3.1).
+- **Non-voting** (capital never buys board control — §6.1), except Gold-tier members' 0.5 advisory vote on ~$50B non-SWF loans.
+
+**Carry / solvency note (reframed).** Special-share capital is leveraged ~10× into the loan book under the 10% requirement, so the capital earns the loan spread on a multiple of itself (plus fee, SMSWF, and ETF income) — a modest net interest margin covers the reference + 2% dividend comfortably. The standardized premium is set at the system level so this holds. If the network's net interest margin ever compresses to where leveraged spreads plus other income cannot cover the dividend, that is a **system-level signal** addressed through the reference-rate review (Monetary §1.5A) and the Central Council — not a per-board adjustment.
+
+**Recapitalization impact:** each series adds ~$25B/year of capacity; over 50 years (2025–2075), ~$1.2084T.
+
+*(Special shares recapitalize credit-union capital that satisfies the reserve/capital requirement; they do not add metal to any reserve. This is the instrument that lets sound lending exceed the base while staying solvent — genuinely at-risk, premium-paying equity.)*
+
+### 3.3 Credit Union Secondary Market (CUSM) — national
+
+*Rationale:* the withdrawal cap and the 3-year lock-up keep capital deployed; the CUSM gives an individual holder liquidity **without de-capitalizing the credit union** — because a secondary sale *transfers* ownership, it does not *redeem* capital. National scope solves the small-credit-union liquidity problem: a small town's buyer pool was the binding constraint, and a national pool of 130M dissolves it.
+
+- **National transfer market.** Special shares past their 3-year lock-up trade nationwide; any citizen may buy or sell, through the Regional-Board-overseen CUSM exchange.
+- **Transfer, not redemption.** A sale changes only the **share register** — the credit union's balance sheet, capital, and equity are untouched (§3.2, Two doors). The wobbly small-town credit union keeps every dollar of its capital; only the dividend recipient changes.
+- **Homogeneous coupon → risk-priced, not yield-chased.** Because the standardized premium (reference + 2%) floats and resets uniformly, every tradable share pays the same current coupon. The market therefore prices only the **credit risk** of the issuing credit union (these are uninsured) — risk discipline, not yield arbitrage. Capital does not flood the highest-paying credit union, because none pays more.
+- **Trading band:** 90%–110% of par. A sound credit union's shares hold near par; a weak or very small one's may trade at a discount within the band — the market pricing real risk. National scope guarantees a **buyer**, not par; the 90% floor caps the downside.
+- **Share register (the mechanism).** The exchange maintains the current holder of each share so dividends and ownership route correctly. A transfer is a registry update — trivial beside moving capital.
+- **Accrued-dividend rule.** On transfer, the seller's accrued portion of the current dividend period is settled in the sale price (or paid to holder-of-record on a set date), so the buyer does not collect dividends the seller earned.
+- **Trades above 105% of par** require CLS notification (notification only, no approval).
+- **Disclosure, not a floor.** Each credit union publishes its special-share equity split — **member (local) vs investor (national)** — quarterly. There is **no cap** on outside ownership; the discipline is transparency, so "how much of our capital is member-owned" stays legible without re-stranding a small credit union that needs outside capital.
+- **Liquidity waterfall.** National CUSM trading is the default venue; the co-op index (CGCI / CCIF) and member-buyback paths remain the **last-resort backstop** for genuinely thin or distressed cases, so no holder is ever stuck.
+- **Governance:** CED logs aggregate CUSM volume (quarterly, system-wide) and the per-credit-union member/investor equity split; individual trades are private.
 
 ### 3.4 Citizens' Metals ETF — citizen investment (NOT currency backing)
 
@@ -217,7 +235,7 @@ Violations: Regional Board sanction, CED audit, and fines up to $5M per incident
 - **Mechanism:** members invest part of their wallet into the BWC-administered metals ETF (gold/silver, plus SMSWF ETF). The ETF holds physical metal; returns accrue to the member's savings.
 - **What it backs:** the ETF's metal backs the ETF's shareholders — an investment position, like any commodity fund. It does not back BWC, sets no oz-per-BWC ratio, and creates no redemption claim on the currency.
 - **National benefit:** the aggregate metal strengthens the state's balance sheet and external position and stands as a sovereign reserve — but it is investment-owned, not currency-backing.
-- **National, not residency-locked:** the ETF is a national investment vehicle and is **not** subject to the field-of-membership lock (§1.5); any citizen may hold it from any wallet.
+- **National, not residency-locked:** the ETF is a national investment vehicle and is not subject to the field-of-membership lock (§1.5); any citizen may hold it from any wallet.
 - **Caps:** investment capped per tier (Section 2.2); returns flow to personal savings.
 
 ### 3.5 Privacy and Scrutiny Tiers
@@ -231,7 +249,7 @@ Violations: Regional Board sanction, CED audit, and fines up to $5M per incident
 
 ## Section 4: Banking Suite & Loans
 
-All banking-suite and loan rates below are **set within system bands around the reference rate** (Monetary Act §1.5A) and reset when the reference rate is republished. Because deposit and loan rates share one anchor, they move together; the levels shown are illustrative 2025 figures, not fixed-forever values.
+All banking-suite and loan rates below are set within system bands around the reference rate (Monetary Act §1.5A) and reset when the reference rate is republished. Because deposit and loan rates share one anchor, they move together; the levels shown are illustrative 2025 figures, not fixed-forever values.
 
 ### 4.1 Banking Suite
 
@@ -250,7 +268,7 @@ All banking-suite and loan rates below are **set within system bands around the 
 
 ### 4.2 Loans (~$1.2084 trillion) — reference-rate-anchored
 
-All loan rates are plain nominal rates **set within system bands around the reference rate** (Monetary Act §1.5A). There is no DAI adjustment and no BAR. Loans are written against creditworthiness and productive use; reported by sector for monitoring; no binding quotas.
+All loan rates are plain nominal rates set within system bands around the reference rate (Monetary Act §1.5A). There is no DAI adjustment and no BAR. Loans are written against creditworthiness and productive use; reported by sector for monitoring; no binding quotas.
 
 **Historical baseline (2025, descriptive only):**
 - Co-op loans: ~$294.125B
@@ -275,7 +293,7 @@ These are not binding targets; the system fosters a co-op-dominant productive ec
 
 - Below $500,000: streamlined, minimal documentation, CLS-issued within 48 hours.
 - $500,000–$1M: standard review, Regional Board notification.
-- Above $1M: full audit, CED logging, Regional Board approval (6/11), public disclosure.
+- $1M–$10M: full audit, CED logging, Regional Board approval (6/11), public disclosure.
 - Above $10M: Central Council review (6/11), SAP arbitration if disputed, published.
 
 **Micro-Loan Special Rules:**
@@ -336,10 +354,10 @@ The Monetary Act's 25-year debt jubilee forgives up to 50% of qualifying co-op d
 
 ### 6.1 Credit Union Boards
 
-*Rationale:* boards must be both **democratic** (members govern, not capital) and **competent** (directors who understand banking and the local economy). The design gets both by keeping one-member-one-vote elections while gating candidacy by field of expertise — and by paying the credentialed working directors enough to attract that expertise.
+*Rationale:* boards must be both democratic (members govern, not capital) and competent (directors who understand banking and the local economy). The design gets both by keeping one-member-one-vote elections while gating candidacy by field of expertise — and by paying the credentialed working directors enough to attract that expertise.
 
 **Election & equality.**
-- The **full membership elects all board seats**. **One member, one vote** — each member casts a single vote regardless of how many shares they hold. Special shares are **non-voting**; capital carries economic weight (dividends) but never board control.
+- The **full membership elects all board seats**. **One member, one vote** — each member casts a single vote regardless of how many shares they hold. Special shares are **non-voting**; capital carries economic weight (dividends) but never board control, whether held by a resident member or a national investor.
 - Elections held every 3 years, regionally staggered.
 
 **Board size scales with credit-union size.**
@@ -347,7 +365,7 @@ The Monetary Act's 25-year debt jubilee forgives up to 50% of qualifying co-op d
 
 **Expertise requirement (credentialed seats).**
 - Credentialed seats must be filled by members drawn from **relevant economic fields** — a published list including economics, finance, accounting, banking/credit-union management, law, and cooperative governance.
-- The **Regional Board verifies candidate eligibility against the published list as a yes/no candidacy gate** — it screens the *field*, it does not judge the *person*. Members then elect freely from the eligible candidates.
+- The **Regional Board verifies candidate eligibility against the published list as a yes/no candidacy gate** — it screens the field, it does not judge the person. Members then elect freely from the eligible candidates.
 
 **Informal Sector Seat (credential-exempt).**
 - Each board includes at least one seat reserved for a member whose **primary income is cash-based or informal**, qualifying by **lived experience** and **exempt from the credential bar**. Elected by the same one-member-one-vote membership. This seat may not be eliminated by board vote. Its role is to represent the informal economy, not to audit a loan book.
@@ -357,17 +375,19 @@ The Monetary Act's 25-year debt jubilee forgives up to 50% of qualifying co-op d
 - **Informal/lived-experience seat:** sits on a **stipend** (illustratively ~$25–40k), not the full professional salary, reflecting its governance-representation rather than working-director role.
 - System-wide, with ~30,000 seats and an average post-scaling seat near ~$100–110k, board compensation lands near ~$3–3.3B/year, ~3% of the network's ~$107.6B revenue.
 
-**Responsibilities:** loan policy; CLS oversight; setting **local deposit and loan rates within the reference-rate-anchored system bands** (§4); special-share series proposals; Informal Sector Mandate compliance.
+**Responsibilities:** loan policy; CLS oversight; setting **local deposit and loan rates within the reference-rate-anchored system bands** (§4); proposing special-share series and running the local-priority window (§3.2); Informal Sector Mandate compliance.
 
 ### 6.2 Special Shares Oversight
 
-- Each series requires Regional Board approval (6/11). Series tracked via CED at aggregate level; individual purchases private below $10,000. CUSM reported to Regional Boards quarterly in aggregate volume only.
+- Each series requires Regional Board approval (6/11). Series tracked via CED at aggregate level; individual purchases private below $10,000.
+- **Local-priority window** compliance (the full 30 days, advance posting) is verified by the Regional Board; a board may not shorten the window or steer the local tranche to outside investors.
+- **National secondary market** activity is reported to Regional Boards quarterly in aggregate volume, together with each credit union's **member-vs-investor special-share equity split** (the §3.3 disclosure). No cap on outside ownership; transparency is the discipline.
 
 ### 6.3 Deposit Insurance & Voting Requirement
 
-*Rationale:* deposit insurance is a mutual benefit; full coverage requires governance participation — tying rights to responsibilities without excluding anyone from basic banking. **Insurance covers deposits and wallets only — never special shares**, which are uninsured equity (§3.2).
+*Rationale:* deposit insurance is a mutual benefit; full coverage requires governance participation — tying rights to responsibilities without excluding anyone from basic banking. Insurance covers deposits and wallets only — never special shares, which are uninsured equity (§3.2).
 
-- **Scope:** deposit insurance covers deposits and wallets. **Special shares are not insured** (the former special-shares insurance pool is removed).
+- **Scope:** deposit insurance covers deposits and wallets. Special shares are not insured (the former special-shares insurance pool is removed).
 - **Standard coverage:** up to $250,000 BWC per member, per credit union.
 - **Reduced (non-voting):** up to $50,000 BWC.
 - **Qualification:** voted in at least one of the last three board elections. Missing two consecutive elections (without exemption) reverts to reduced coverage until voting resumes.
@@ -395,13 +415,13 @@ The Monetary Act's 25-year debt jubilee forgives up to 50% of qualifying co-op d
 
 - **Nesting:** each region's DIP is a sub-fund of its RLP.
 - **Funding:** half of the 20% patronage diversion (i.e., 10% of patronage) + 0.1% of BWC transactions above $10,000 (absorbed within the existing 1.5%/2% fee tiers, no net fee increase).
-- **Payout:** on insolvency (assets <80% of liabilities for 90 days), pays insured depositors up to $250,000 (or $50,000 non-voting) within 30 days, into a wallet at another credit union of their choice. Failed-CU assets are liquidated by the Regional Board, proceeds returning to the DIP. **Special-share holders are not covered** (uninsured equity).
+- **Payout:** on insolvency (assets <80% of liabilities for 90 days), pays insured depositors up to $250,000 (or $50,000 non-voting) within 30 days, into a wallet at another credit union of their choice. Failed-CU assets are liquidated by the Regional Board, proceeds returning to the DIP. **Special-share holders are not covered** (uninsured equity) — they rank below depositors and absorb losses first (§3.2).
 - **Reinsurance:** if a regional DIP falls below 2% of insured deposits, it may draw from the SWF to restore to 4% (Regional Board unanimous for that region + Central Council 6/11).
 - **Investment:** 50% BWC, 30% reference-rate-anchored short-term government instruments, 20% metal. No loans or illiquid assets.
 
 ### 6.6 System-Wide Oversight Architecture (PPK/CED)
 
-The data architecture is the PPK/CED split, operational from inception (Monetary Act §5). There is no CWD. Identity, credentials, and voting live in the citizen-held PPK; pseudonymized economic data lives in the CED; the two join only through the warranted Judicial Link Box.
+The data architecture is the PPK/CED split, operational from inception (Monetary Act §5). There is no CWD. Identity, credentials, voting, and residence live in the citizen-held PPK; pseudonymized economic data lives in the CED; the two join only through the warranted Judicial Link Box.
 
 | Level | Income / Assets | CED treatment | Reporting |
 |---|---|---|---|
@@ -411,9 +431,9 @@ The data architecture is the PPK/CED split, operational from inception (Monetary
 | Elite | Above $1M assets | Full pseudonymized detail | Quarterly audits; public above $10M |
 | Institutional | Credit unions >$10M revenue | Full transparency | Public annual reports; Regional Board audit |
 
-- **Treasury:** administers BWC issuance under the Monetary Act §1.5 anchor, the **reference rate (§1.5A)**, and the Citizens' Metals ETF. Publishes the monthly BWC Purchasing Power Index, the annual DLB (by January 15), the **reference rate**, and the loan rate table. Treasury does not publish a backing ratio, BAR, or DAI table — BWC is fiat.
-- **CED:** tracks CLS performance, FCL metrics, aggregate loan/sector data, RLP/DIP aggregate health, and CUSM volume — all pseudonymized. Cash data is never collected. Identity is reachable only via the Link Box (2-region warrant). Audited by 50–75 auditors + AI systems; fraud cap ~$2.5B; appeals to judiciary.
-- **Regional Boards:** 20 boards (11 members each) approve special-share series, major loans, FCL opt-ins, and RLP/DIP operations; verify board-candidate field eligibility (§6.1); investigate Informal Sector Mandate violations; report annually on informal-access and RLP/DIP solvency.
+- **Treasury:** administers BWC issuance under the Monetary Act §1.5 anchor, the reference rate (§1.5A), and the Citizens' Metals ETF. Publishes the monthly BWC Purchasing Power Index, the annual DLB (by January 15), the reference rate, and the loan rate table. Treasury does not publish a backing ratio, BAR, or DAI table — BWC is fiat.
+- **CED:** tracks CLS performance, FCL metrics, aggregate loan/sector data, RLP/DIP aggregate health, CUSM volume, and the member/investor special-share equity split — all pseudonymized. Cash data is never collected. Identity is reachable only via the Link Box (2-region warrant). Audited by 50–75 auditors + AI systems; fraud cap ~$2.5B; appeals to judiciary.
+- **Regional Boards:** 20 boards (11 members each) approve special-share series, verify the local-priority window, oversee the national CUSM, approve major loans and FCL opt-ins, run RLP/DIP operations; verify board-candidate field eligibility (§6.1); investigate Informal Sector Mandate violations; report annually on informal-access and RLP/DIP solvency.
 - **Auditors:** 50–75 system auditors; may not request, subpoena, or receive individual cash transaction records.
 
 ### 6.7 Sustainability
@@ -425,11 +445,11 @@ The data architecture is the PPK/CED split, operational from inception (Monetary
 
 ### 6.8 Crisis Liquidity & Automatic Stabilizers
 
-*Rationale:* a deliberate, stable system must not be a slow-*reacting* one. The defense against a GFC-speed event is to do the deliberating **in advance** — pre-committing the crisis response as automatic, threshold-triggered, sunset-bounded actions, authorized democratically in calm times — so execution is instant and still rule-bound. This subsection houses the credit-union-side mechanics; trigger definitions and the Tier-2 emergency mode live in Monetary Act §1.8.
+*Rationale:* a deliberate, stable system must not be a slow-reacting one. The defense against a GFC-speed event is to do the deliberating in advance — pre-committing the crisis response as automatic, threshold-triggered, sunset-bounded actions, authorized democratically in calm times — so execution is instant and still rule-bound. This subsection houses the credit-union-side mechanics; trigger definitions and the Tier-2 emergency mode live in Monetary Act §1.8.
 
-**Detection — institutional plumbing only.** Systemic-stress triggers are read entirely from the institutional-transparency layer, never from citizen activity: the inter-credit-union (peer-lending) rate, RLP draw velocity, reserve dispersion across credit unions, BWC→cash swap spikes, CUSM price pressure toward the 90% floor, and DIP/RLP utilization. No citizen surveillance is used or permitted to detect a crisis.
+**Detection — institutional plumbing only.** Systemic-stress triggers are read entirely from the institutional-transparency layer, never from citizen activity: the inter-credit-union (peer-lending) rate, RLP draw velocity, reserve dispersion across credit unions, BWC→cash swap spikes, **CUSM price pressure toward the 90% floor (now a deeper, more informative national signal)**, and DIP/RLP utilization. No citizen surveillance is used or permitted to detect a crisis.
 
-**Tier 1 — automatic stabilizers (no vote, hours).** On an objective systemic-freeze trigger (Monetary Act §1.8), the **RLP→SWF liquidity line opens automatically** — the 5/20 + Central Council certification gates of §6.4 are **pre-cleared by the trigger itself**. The penalty *price* stays stable (reference rate + 1% to the RLP, + 2% to the SWF — it does **not** track the spiking interbank rate), while the *quantity* of liquidity flows freely. This is Bagehot done rules-style: lend freely, against good collateral, at a stable penalty rate.
+**Tier 1 — automatic stabilizers (no vote, hours).** On an objective systemic-freeze trigger (Monetary Act §1.8), the RLP→SWF liquidity line opens automatically — the 5/20 + Central Council certification gates of §6.4 are pre-cleared by the trigger itself. The penalty price stays stable (reference rate + 1% to the RLP, + 2% to the SWF — it does not track the spiking interbank rate), while the quantity of liquidity flows freely. This is Bagehot done rules-style: lend freely, against good collateral, at a stable penalty rate.
 
 **Accelerated forbearance.** Under a declared trigger, the surgical-jubilee logic (§5.4) may be fast-tracked by CLS for solvent co-ops facing a pure rollover crunch, preventing a liquidity event from converting sound co-ops into insolvencies. Eligibility standards are unchanged; only the timeline is accelerated.
 
@@ -449,8 +469,10 @@ The data architecture is the PPK/CED split, operational from inception (Monetary
 | BWC Purchasing Power Index | 100 (base) | published monthly |
 | Banking Suite | ~$260.2B (see §4.1 note) | scaled |
 | Wallets | ~$16.25B+ | scaled |
-| Base Shares | ~$94B | — |
+| Base Shares (residency-locked; carry the vote) | ~$94B | — |
 | Special Shares (cumulative capital; uninsured equity) | ~$1.25T over 50 years | |
+| Special-share market | National secondary market; 3-yr lock-up; standardized reference + 2% premium; 90–110% band; risk-priced | same |
+| Special-share issuance | 30-day local-priority window at par → national remainder at par | same |
 | Citizens' Metals ETF (investment, not backing) | $407–504B | |
 | Physical Cash in Circulation | ~$4.67T (12% of GDP) | |
 | Cash Metal Content (~5%, security + catastrophe floor) | ~$233B | |
@@ -478,7 +500,7 @@ Loan growth from ~$452.5B to ~$1.2084T by 2075 rests on three streams:
 
 | Stream | Annual Amount | Cumulative by 2075 | Purpose |
 |---|---|---|---|
-| Special Shares (1–2 series/year; uninsured equity) | $12.5–25B/year | $625B–$1.25T | Primary capital for loan expansion |
+| Special Shares (1–2 series/year; uninsured equity; local-first then national) | $12.5–25B/year | $625B–$1.25T | Primary capital for loan expansion |
 | SMSWF profits to credit unions | ~$1.736B/year | ~$87B | Secondary capital, dividend support |
 | Citizens' Metals ETF & SWF returns | (reinvested) | (member savings + capital) | Member wealth & capital growth — not currency backing |
 
@@ -495,13 +517,30 @@ Special shares are the engine: each ~$12.5B series adds new lending capacity. At
 
 **If a credit union needs help (normal path):** (1) borrow from peer credit unions first; (2) borrow from RLP (reference rate + 1%, 12 months); (3) if RLP exhausted → SWF backstop (5 Regional Boards certify + Central Council 6/11).
 
-**If a systemic-freeze trigger is declared (crisis path, §6.8):** the SWF backstop opens **automatically** — certification pre-cleared by the trigger; penalty pricing (reference + 1% / + 2%) held stable while liquidity flows.
+**If a systemic-freeze trigger is declared (crisis path, §6.8):** the SWF backstop opens automatically — certification pre-cleared by the trigger; penalty pricing (reference + 1% / + 2%) held stable while liquidity flows.
 
-**If a credit union fails:** (1) DIP pays insured depositors within 30 days (up to $250k voting / $50k non-voting); (2) Regional Board liquidates assets; (3) proceeds return to DIP. Special-share holders are uninsured and are not paid out by the DIP.
+**If a credit union fails:** (1) DIP pays insured depositors within 30 days (up to $250k voting / $50k non-voting); (2) Regional Board liquidates assets; (3) proceeds return to DIP. **Special-share holders are uninsured equity and are not paid out by the DIP — they rank below depositors and absorb losses first.**
 
 ---
 
-## Appendix D: BWC Purchasing Power Index (PPI) Quick Reference
+## Appendix D: Special Shares Quick Reference (member & investor capital)
+
+| Item | Detail |
+|---|---|
+| What it is | Uninsured equity (capital), subordinate to all depositors; loss-absorbing |
+| Dividend (yrs 1–3) | 7% / 6% / 5% step-down (paid for committing through the lock-up) |
+| Dividend (yr 4+) | Reference rate + 2%, standardized & floating — every tradable share pays the same coupon |
+| Lock-up | No secondary sale for 3 years from issue; redemption valve stays open |
+| Primary issuance | 30-day local-priority window at par → national remainder at par |
+| Secondary market | National (§3.3); transfer = register change, CU balance sheet untouched; 90–110% band, risk-priced |
+| Redemption | Sell back to CU; $500/BWC/yr cap; reduces CU capital (the capped door) |
+| Voting | Non-voting (member or investor); membership requires a residency-locked base share |
+| Insurance | None — the premium is the compensation for being uninsured |
+| Ownership disclosure | Member vs investor equity split published quarterly; no cap on outside ownership |
+
+---
+
+## Appendix E: BWC Purchasing Power Index (PPI) Quick Reference
 
 *(Replaces the former DAI Quick Reference — DAI is retired under the fiat conversion.)*
 
@@ -516,4 +555,4 @@ Special shares are the engine: each ~$12.5B series adds new lending capacity. At
 
 ---
 
-End of Draft 5.5
+End of Draft 5.6
