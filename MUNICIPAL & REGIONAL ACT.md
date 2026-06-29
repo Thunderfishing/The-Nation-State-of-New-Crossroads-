@@ -1,22 +1,24 @@
 ---
 title: "Crossroads Municipal and Regional Funding Act of 2025"
-draft: "1.0"
+draft: "1.1"
 date: "2026-06-27"
 author: "Thunderfish2"
 repository: "crossroads-monetary-act"
 description: "Companion legislation to the Government Act 4.18, Monetary Act 9.5, Credit Union Act 5.4, Housing Act, and Infrastructure Act 2.3. Establishes how municipalities and regions fund themselves: a bounded self-funding revenue base (no residential land tax, no subnational debt), cost-of-service taxation that ends sprawl subsidies, capped development fees, and two mutual equalization funds (Municipal and Regional) with formula-driven, non-predatory conditionality."
-supersedes: "New act — fills the municipal/regional funding gap below the national fiscal model."
+supersedes: "v1.0 — added §2.6 Residential Cost-of-Service & the Anti-Exclusionary Rule (per-household service fees billed on use not ownership; explicit residential-revenue linkage; schools carve-out to the Education Act; anti-exclusionary-zoning guardrail) and made the MMF formula per-capita-aware, so welcoming housing no longer makes a municipality poorer. Resolves the residential-liability flaw created by the residential-land-tax prohibition."
 ---
 
-# Crossroads Municipal and Regional Funding Act of 2025: Draft 1.0
+# Crossroads Municipal and Regional Funding Act of 2025: Draft 1.1
 
 **Posted to r/Bulwarkomics**
-**Draft:** 1.0 | **Date:** June 27, 2026
+**Draft:** 1.1 | **Date:** June 27, 2026
 **Author:** Thunderfish2
 
 > **Cross-reference.** Companion to the **Government Act 4.18** (Regional Boards administer; Special Auditors enforce), the **Monetary Act 9.5** (fund mechanics mirror the credit-union RLP/DIP model; fiat BWC; SWF interaction), the **Credit Union Act 5.4** (mutual-fund design), the **Housing Act**, and the **Infrastructure Act 2.3** (cost-of-service and 155% recovery principles). Data uses PPK/CED (no CWD). The currency is fiat.
 
 > **Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values.
+
+> **Amendment Note — Draft 1.1.** Closes the residential-liability flaw: because homes are never taxed, a new subdivision would otherwise be a pure service liability, giving municipalities a perverse incentive to block housing and chase only commercial development. §2.6 (new) funds residential services through **per-household service fees billed on use, never on ownership**, makes the **residential-revenue linkage explicit** (residents pay via service fees + local consumption taxes), carves **schools out** to the Education Act (regional/national, voucher-funded), and **bars exclusionary zoning** for revenue-protection. The **MMF formula is now per-capita-aware**, recognizing residential population as a legitimate cost driver — so welcoming housing no longer pushes a municipality toward deficit. The home is still never taxed; services are funded by use.
 
 ---
 
@@ -63,7 +65,7 @@ This act answers a question the national fiscal model leaves open: **how do the 
 | **Speculative / undeveloped land tax (premium rate)** | Vacant and speculatively-held land taxed at a **higher** rate — discourages hoarding, pushes land into use, keeps lots affordable for homebuyers (Georgist tilt where it belongs) |
 | **Local VAT / sales tax** | On goods and services within the municipality |
 | **License & permit fees** | Business permits, trade licenses, event permits |
-| **Service fees** | Utility access surcharges, waste, recreation, parking |
+| **Service fees** | Utility access surcharges, waste, recreation, parking; **per-household residential service fees** (billed on use, never on home/land value — §2.6) |
 | **Capped development fees** | Cost-recovery only (Section 2.4) |
 | **Fines & penalties** | Bylaw enforcement |
 
@@ -104,11 +106,27 @@ Regions fund themselves through regional commercial/industrial assessment coordi
 - The **3% resource surcharge** (Monetary Act §2.1), which flows to the SWF, and
 - **Normal corporate/co-op profit tax** on resource firms' profits (Monetary Act §4).
 
-The remainder of the royalty is the region's. Two levels, two streams, one activity — no reimbursement, no dependency. This splits the ~$274B national resource line explicitly: the surcharge-plus-profit-tax portion stays national (SWF); the royalty portion becomes regional own-source revenue.
+The remainder of the royalty is the region's. Two levels, two streams, one activity — no reimbursement, no dependency. This splits the ~\$274B national resource line explicitly: the surcharge-plus-profit-tax portion stays national (SWF); the royalty portion becomes regional own-source revenue.
 
 **Resource wealth flows through the Regional Monetary Fund.** Because regions keep their own royalties, **resource-rich regions become the natural net contributors to the Regional Monetary Fund (Section 3), and resource-poor regions the natural recipients** — equalization arising organically from resource ownership, exactly as in Canada. A resource-rich region's wealth is shared through the RMF (within the donor-cap guardrail, §3.3), and a resource-poor region draws on it (within the solvency-band conditions, §3.2). The resource right and the equalization fund are two halves of one mechanism.
 
-*(Fiscal-model note: granting regions their royalties reduces the national surplus by the royalty portion of the ~$274B line. This is intended — it makes resource-rich regions genuinely wealthy and the RMF's natural donors. The national SWF take is preserved via the surcharge and profit tax. The exact split is set deliberately so the national books retain the surcharge/tax portion while regions hold the royalty; re-derive in the consolidated fiscal pass.)*
+*(Fiscal-model note: granting regions their royalties reduces the national surplus by the royalty portion of the ~\$274B line. This is intended — it makes resource-rich regions genuinely wealthy and the RMF's natural donors. The national SWF take is preserved via the surcharge and profit tax. The exact split is set deliberately so the national books retain the surcharge/tax portion while regions hold the royalty; re-derive in the consolidated fiscal pass.)*
+
+### 2.6 Residential Cost-of-Service & the Anti-Exclusionary Rule
+
+*Rationale:* the residential-land-tax prohibition (§1.2) protects the homeowner — but on its own it would make a new subdivision a **pure service liability** (police, fire, roads, water) with no offsetting tax, giving municipalities a perverse incentive to block housing and court only commercial development. That incentive points directly against the homeownership keystone, so it is closed here — **without taxing the home.** The principle: *you are never taxed for owning your home; you pay for the services you use.*
+
+- **Per-household service fees (the primary offset).** A municipality may levy **per-household service fees** that recover the cost of the services a household consumes — water, sewer, waste collection, road wear, streetlighting — billed **on consumption or as a flat service charge, never assessed on the value of the land or home.** This is the cost-of-service principle (§2.3) applied to the household *as a service recipient*, not to the home *as a taxable asset*. A retiree who owns her home outright pays modest fees for the water and waste she uses, but no tax on the home's value — she can never be assessed out of it.
+
+- **Residential development is not a net liability (the explicit linkage).** A subdivision is not "zero revenue." Its residents pay **local VAT/sales tax** on what they buy, **license and service fees**, and they are the workforce and customers that make the municipality's **commercial property** (which *is* taxed at cost-of-service) viable — a town with no residents has no shops to tax. The act states plainly: residential households pay their way through **service fees + local consumption taxes**, not through a lien on ownership. The local consumption-tax share is calibrated so residents demonstrably cover their service cost.
+
+- **Schools carve-out.** The single largest residential service cost — **education** — is **not** a municipal burden. Schooling is funded by the **\$10,000 voucher and the Education Act 2.2** (a regional/national function), so it does not sit on the municipal books and does not drive the anti-housing incentive. Municipalities provide the *site and local coordination*, not the *financing*, of schools.
+
+- **Development fees already cover the growth cost.** The capped development fee (§2.4) makes a new subdivision fund the *new* infrastructure it requires up front; §2.6 covers the *ongoing operating* cost. Together they make residential growth carry its full weight — capital and operating — with no tax on ownership.
+
+- **Anti-exclusionary-zoning guardrail.** Because the *fiscal* incentive to block housing is now removed, the act also removes the *means*: **a municipality may not use zoning, permitting, or service-fee design to exclude residential development for revenue-protection or fiscal-liability reasons.** Exclusionary zoning aimed at keeping out housing to protect a bounded budget is a Municipal Fund governance violation, investigable by the Special Auditors. (Genuine health, safety, environmental, and infrastructure-capacity zoning is unaffected — this bars *fiscal* exclusion, not legitimate land-use planning.)
+
+> **Net effect:** welcoming housing no longer makes a municipality poorer. Households fund their own services through use and consumption; schools are off the municipal books; growth costs are recovered at the door; and both the motive and the means to block housing are removed — all while the home itself is never taxed.
 
 ---
 
@@ -126,6 +144,7 @@ Two mutual funds equalize within their tiers, modeled on the credit-union RLP/DI
 - **No cross-tier raiding:** municipalities help municipalities; regions help regions. The MMF and RMF are separate pools.
 - **No national bailout:** the national SWF is the lender of last resort *only* on cross-regional emergency certification (5/20 Regional Boards + Central Council 6/11), preserving the no-bailout ethos.
 - **Contributions** are a defined percentage of each unit's own-source revenue, set so the funds stay solvent across the cycle; returns stay in the pool.
+- **Per-capita-aware formula (MMF).** The MMF's contribution-and-draw formula **accounts for residential population as a legitimate cost driver** — a municipality's net position is computed against the baseline service cost its residents impose, so a bedroom community (high residential service load, modest commercial base) is *not* pushed toward deficit or conditionality simply for housing people. Combined with §2.6, this ensures that welcoming residential growth never makes a municipality a worse fund position — housing is recognized, not penalized.
 
 ### 3.2 Drawing From the Fund — The Conditionality Ladder
 
@@ -193,6 +212,10 @@ Support escalates in conditions with the depth of the draw. *Bad luck gets help 
 | :--- | :--- |
 | Subnational debt | Prohibited |
 | Residential land tax | Prohibited (constitutional) |
+| Residential services | Funded by per-household service fees (billed on use, never on ownership) + local consumption taxes |
+| Schools | Off municipal books — voucher/Education-Act funded (regional/national) |
+| Exclusionary zoning | Barred for revenue-protection reasons (Special-Auditor enforceable) |
+| MMF formula | Per-capita-aware — residential population is a recognized cost driver |
 | Commercial/industrial tax | Permitted, cost-of-service basis |
 | Speculative/vacant land | Taxed at premium rate |
 | Below-cost tax breaks | Prohibited (no race to the bottom) |
@@ -215,6 +238,8 @@ Support escalates in conditions with the depth of the draw. *Bad luck gets help 
 This act fixes the quiet bankruptcy of the modern municipality — and it does so with principles already woven through the rest of the system.
 
 - **You cannot tax the home.** The one tax forbidden is the one that turns an owner back into a tenant. Everything the system does to capitalize a citizen by 30 would be undone by a state that could tax the home out from under them. The home is sovereign ground.
+
+- **But you pay for what you use.** Forbidding the home tax could have made cities hate housing — every new family a cost with no revenue. So the home is never taxed, but the household pays for the water, waste, and roads it actually uses, through fees on *use*, not *ownership*. Schools come off the city's books entirely, funded by the voucher. And a city may not zone out housing to protect its budget. The result: a city grows richer, not poorer, by welcoming families — and the retiree who owns her home outright still cannot be assessed out of it.
 
 - **You pay what you cost.** Sprawl is not banned; it is simply made to pay its own way. The big-box store on the edge of town that needs a mile of new road pays to serve that mile — forever — instead of handing the bill to the dense downtown that pays for itself. End the subsidy, and the market quietly chooses efficiency. No business that pays its true cost is turned away; only the ones that were never really profitable without the taxpayer's help.
 
