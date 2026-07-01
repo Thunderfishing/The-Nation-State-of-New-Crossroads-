@@ -1,24 +1,11 @@
----
-title: "Crossroads Municipal and Regional Funding Act of 2025"
-draft: "1.1"
-date: "2026-06-27"
-author: "Thunderfish2"
-repository: "crossroads-monetary-act"
-description: "Companion legislation to the Government Act 4.18, Monetary Act 9.5, Credit Union Act 5.4, Housing Act, and Infrastructure Act 2.3. Establishes how municipalities and regions fund themselves: a bounded self-funding revenue base (no residential land tax, no subnational debt), cost-of-service taxation that ends sprawl subsidies, capped development fees, and two mutual equalization funds (Municipal and Regional) with formula-driven, non-predatory conditionality."
-supersedes: "v1.0 — added §2.6 Residential Cost-of-Service & the Anti-Exclusionary Rule (per-household service fees billed on use not ownership; explicit residential-revenue linkage; schools carve-out to the Education Act; anti-exclusionary-zoning guardrail) and made the MMF formula per-capita-aware, so welcoming housing no longer makes a municipality poorer. Resolves the residential-liability flaw created by the residential-land-tax prohibition."
----
-
 # Crossroads Municipal and Regional Funding Act of 2025: Draft 1.1
 
-**Posted to r/Bulwarkomics**
 **Draft:** 1.1 | **Date:** June 27, 2026
 **Author:** Thunderfish2
 
 > **Cross-reference.** Companion to the **Government Act 4.18** (Regional Boards administer; Special Auditors enforce), the **Monetary Act 9.5** (fund mechanics mirror the credit-union RLP/DIP model; fiat BWC; SWF interaction), the **Credit Union Act 5.4** (mutual-fund design), the **Housing Act**, and the **Infrastructure Act 2.3** (cost-of-service and 155% recovery principles). Data uses PPK/CED (no CWD). The currency is fiat.
 
 > **Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values.
-
-> **Amendment Note — Draft 1.1.** Closes the residential-liability flaw: because homes are never taxed, a new subdivision would otherwise be a pure service liability, giving municipalities a perverse incentive to block housing and chase only commercial development. §2.6 (new) funds residential services through **per-household service fees billed on use, never on ownership**, makes the **residential-revenue linkage explicit** (residents pay via service fees + local consumption taxes), carves **schools out** to the Education Act (regional/national, voucher-funded), and **bars exclusionary zoning** for revenue-protection. The **MMF formula is now per-capita-aware**, recognizing residential population as a legitimate cost driver — so welcoming housing no longer pushes a municipality toward deficit. The home is still never taxed; services are funded by use.
 
 ---
 
