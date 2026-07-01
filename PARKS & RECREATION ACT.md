@@ -1,13 +1,3 @@
----
-title: "Crossroads Corridon River and Parks Act of 2025: Lifeblood of a Nation"
-draft: "3.3"
-date: "2026-06-27"
-author: "Thunderfish2"
-repository: "crossroads-monetary-act"
-description: "Companion legislation to the Monetary Act 9.5, Credit Union Act 5.4, FCL Act 3.2, Infrastructure Act 2.4, Energy Act 4.2, Healthcare Act 6.5, and Education Act 2.2. Establishes the Corridon River Basin and the 540,000 km² parkweb, the Corridon Basin Biosphere Reserve (source-to-mouth protection connected to the mountain ranges), a minimum-environmental-flow law, urban riverbank parks, and the wind-sited reservoir moisture loop — funded by recreation co-ops on the progressive waterfall plus a parks-stewardship levy, auctioned foreign cottages/timeshares, and SWF allocations."
-supersedes: "Draft 3.2 — NEW Corridon Basin Biosphere Reserve (§2.4): the whole watershed protected source-to-mouth and connected to the Frostpeak/Ember ranges as one continuous reserve, governed by biosphere zoning (protected-by-default; municipalities, riverside plants, and ports the only carve-outs); minimum environmental flow established as law (§2.5); urban riverbank parks required of municipalities along the Corridon, with the Crossroads City freshwater barge port as the explicit exception (§2.6); the moisture-feedback loop upgraded to wind-sited reservoirs that return evaporation to the glacial catchment (§4.3). All Draft 3.2 content preserved (progressive club waterfall, parks-stewardship levy, auctioned cottages/timeshares, preventive-health/education synergies). References aligned to Infrastructure 2.4 / Energy 4.2."
----
-
 # Crossroads Corridon River and Parks Act of 2025: Lifeblood of a Nation (Draft 3.3)
 
 **Posted to r/Bulwarkomics**
@@ -17,10 +7,6 @@ supersedes: "Draft 3.2 — NEW Corridon Basin Biosphere Reserve (§2.4): the who
 > **Cross-reference.** Companion to the **Monetary Act 9.5**, **Credit Union Act 5.4**, **FCL Act 3.2**, **Infrastructure Act 2.4**, **Energy Act 4.2**, **Healthcare Act 6.5**, and **Education Act 2.2**. Loans are DLB-indexed (no DAI/BAR). Data uses PPK/CED (no CWD). The currency is fiat.
 
 > **Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values.
-
-> **Amendment Note — Draft 3.3.** Establishes the **Corridon Basin Biosphere Reserve** (§2.4): the entire watershed — the Corridon, the Westflow, and their tributaries — protected source-to-mouth and **connected to the Frostpeak and Ember ranges** as one continuous reserve, on a **protected-by-default** basis (only municipalities, riverside power plants, and ports are carved out). A **minimum environmental flow is established as law** (§2.5): no withdrawal — including reactor cooling-and-irrigation draw — may take the river below its protected in-stream flow. Municipalities along the Corridon must make their **banks into inner-city parks** (§2.6), with the **Crossroads City freshwater barge port** the explicit exception. The moisture-feedback loop is upgraded to **wind-sited reservoirs** that return evaporation to the glacial catchment (§4.3). The Industrial Corridors radiate **inland** from the riverside plants (off the floodplain), carrying buried warm-water + CO₂ (Infrastructure 2.4 §3.7). All Draft 3.2 content preserved.
-
-> **Amendment Note — Draft 3.2 (retained).** Recreation co-op clubs follow the **progressive profit-sharing waterfall** (FCL Act §3.2) plus a **parks-stewardship levy** (~5% of club revenue); foreign **cottages and timeshares auction-cleared**; DAI/BAR removed; CWD→PPK/CED; preventive-health and education synergies added.
 
 ---
 
