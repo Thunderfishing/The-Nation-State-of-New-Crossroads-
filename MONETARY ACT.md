@@ -9,12 +9,6 @@ Author: Thunderfish2
 
 ---
 
-## Amendment note — Draft 9.6
-
-- **§1.8 — Crisis Management & Automatic Stabilizers (new).** Tier-1 automatic stabilizers (no vote), Tier-2 time-boxed emergency mode (Wartime-Fee pattern), institutional-only detection telemetry, accelerated jubilee forbearance. Houses the trigger definitions the Credit Union Act §6.8 references.
-
----
-
 ## Overview
 
 This act creates:
