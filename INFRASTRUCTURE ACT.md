@@ -3,10 +3,6 @@ title: "New Crossroads Infrastructure Act of 2025"
 draft: "2.5"
 date: "2026-06-27"
 author: "Thunderfish2"
-repository: "crossroads-monetary-act"
-description: "Companion legislation to the Monetary Act 9.5, Credit Union Act 5.4, FCL Act 3.2, Energy Act 4.2, Utilities Act, Communications Act 4.2, Industry Act, and the Municipal & Regional Funding Act. A CME-resilient, asset/operator-separated infrastructure framework: cooperative rail, elevated insect-friendly freeways with the DCALS/DCLTI dark-corridor standards, ports, barges, CO2 pipelines, and the new Industrial Corridors (co-located warm-water + CO2 pipelines)."
-supersedes: "Draft 2.3 — reformatted into clean GitHub markdown (headers, pipe tables, escaped dollar signs); NEW Industrial Corridors section (warm-water + CO2 pipelines radiating from Corridon nuclear plants to the Heartland and hemp regions); NEW Corridon wake-suppression program cooperating with dredging; corridor land-tax holiday (construction-cost recovery, DCALS-contingent). All Draft 2.3 content retained — the access-fee clarification, dredging specifics, DCLTI funding offsets, and the $6.8B agricultural-yield figure are intact."
----
 
 # New Crossroads Infrastructure Act of 2025: Draft 2.5
 
