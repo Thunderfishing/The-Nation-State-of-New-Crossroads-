@@ -1,13 +1,3 @@
----
-title: "Crossroads Federated Cooperatives Limited (FCL) Structure Act of 2025"
-draft: "3.2"
-date: "2026-06-27"
-author: "Thunderfish2"
-repository: "crossroads-monetary-act"
-description: "Companion legislation to the Monetary Act 9.5, Credit Union Act 5.4, Healthcare Act 6.5, and Education Act 2.2. Establishes the structure, governance, and financial operations of 195,100 FCLs plus 27,600 co-op clubs, including the progressive profit-sharing waterfall that funds the commons."
-supersedes: "Draft 3.1 — profit-sharing waterfall made PROGRESSIVE (commons share scales by profit tier: 5% / 15% / ~22%), bound by the Co-op Advantage Principle; DAI/BAR removed (DLB-indexed loans); corporate tax aligned to Monetary 9.5 (0/10/20/25%); CWD replaced by PPK/CED; references updated to Monetary 9.5 / Credit Union 5.4."
----
-
 # Crossroads Federated Cooperatives Limited (FCL) Structure Act of 2025: Draft 3.2
 
 **Posted to r/Bulwarkomics**
@@ -17,8 +7,6 @@ supersedes: "Draft 3.1 — profit-sharing waterfall made PROGRESSIVE (commons sh
 > **Cross-reference.** Companion to the **Monetary Act 9.5** and **Credit Union Act 5.4**. The Informal Economy Guarantee, asymmetric scrutiny, tax rates, and the fiat currency framework are governed by those acts. FCL profit tax is 5% on profit over $100,000 (Monetary §4). FCLs make **no direct SWF contribution** — they fund the commons through the progressive profit-sharing waterfall (§3.2). Loans are DLB-indexed (no DAI/BAR). Data uses PPK/CED (no CWD).
 
 > **Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values.
-
-> **Amendment Note — Draft 3.2.** The profit-sharing waterfall is now **progressive**: the commons share scales with co-op profit (5% / 15% / ~22% of remaining profit by tier), replacing the flat 25%, and is bound by the **Co-op Advantage Principle** (a co-op's effective burden never exceeds an identical corporation's). DAI/BAR and the DAI floors are removed (loans are DLB-indexed at low service/micro rates); corporate tax is aligned to Monetary 9.5 (0/10/20/25%); CWD is replaced by PPK/CED.
 
 ---
 
