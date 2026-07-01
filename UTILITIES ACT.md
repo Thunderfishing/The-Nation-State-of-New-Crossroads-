@@ -1,24 +1,11 @@
----
-title: "New Crossroads Utilities Act of 2025"
-draft: "1.2"
-date: "2026-06-27"
-author: "Thunderfish2"
-repository: "crossroads-monetary-act"
-description: "Companion legislation to the Energy Act 4.2, Monetary Act 9.5, Credit Union Act 5.4, FCL Act 3.2, Government Act 4.18, and Infrastructure Act 2.4. A competitive electricity market on state-owned transmission/distribution, with maintenance and upgrades contracted out under long-term performance concessions, and a ring-fenced Asset Renewal Fund that guarantees the grid is renewed, improved, and R&D-funded — never left to rot."
-supersedes: "Draft 1.1 — full fiat/GitHub rewrite. DAI/BAR removed (loans DLB-indexed); CWD→PPK/CED; references updated to Energy 4.2 / Monetary 9.5 / Credit Union 5.4 / FCL 3.2 / Government 4.18 / Infrastructure 2.4. NEW anti-rot architecture: the state owns but contracts maintenance/upgrades out under long-term performance-based concessions tied to a condition index (§1.4); a ring-fenced, un-raidable Asset Renewal Fund per asset class with a mandatory reinvestment + R&D floor, Special-Auditor enforced (§2.4). GitHub-safe formatting."
----
-
 # New Crossroads Utilities Act of 2025: Draft 1.2
 
-**Posted to r/Bulwarkomics**
 **Draft:** 1.2 | **Date:** June 27, 2026
 **Author:** Thunderfish2
 
 > **Cross-reference.** Companion to the **Energy Act 4.2**, **Monetary Act 9.5**, **Credit Union Act 5.4**, **FCL Act 3.2**, **Government Act 4.18**, and **Infrastructure Act 2.4**. Grid hardening, buried lines, EMP-shielded substations, transformer reserves, and antifragile hubs are governed by the Energy Act. The asset/operator separation model follows the Infrastructure Act's rail system. Loans are DLB-indexed (no DAI/BAR). Data uses PPK/CED (no CWD). The currency is fiat.
 
 > **Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values.
-
-> **Amendment Note — Draft 1.2.** Adds the **anti-rot architecture** — the answer to the universal failure mode where states build infrastructure and then let it decay (the "build-it-and-let-it-rot" trap). The state still *owns* the grid, but **maintenance, upkeep, and upgrades are contracted out** to co-ops under **long-term performance-based concessions** tied to a measurable condition standard (§1.4); and a **ring-fenced Asset Renewal Fund** per asset class, fed by the locked maintenance+reinvestment+R&D portion of access fees, **cannot be raided** for general spending or new construction, carries a **mandatory reinvestment + R&D floor**, and is **Special-Auditor enforced** (§2.4). Plus the standard cleanup (DAI/BAR removed, CWD→PPK/CED, versions updated, GitHub-safe).
 
 ---
 
