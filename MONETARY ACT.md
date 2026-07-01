@@ -1,16 +1,5 @@
----
-title: "Crossroads Monetary Reform & Economic Stabilization Act of 2025"
-draft: "9.6"
-date: "2026-06-28"
-author: "Thunderfish2"
-repository: "crossroads-monetary-act"
-description: "A monetary framework for New Crossroads: a fiat dual-currency system with an explicit issuance anchor, a rule-based Reference Rate Anchor, a two-tier crisis-management framework, an asset-owner sovereign wealth fund, the PPK/CED identity-economy split, informal economy protections, and structural corporate governance."
-supersedes: "Draft 9.5. 9.6 syncs to Credit Union Act 5.5: adds §1.5A (Reference Rate Anchor — the flat-and-slow rule that defines the 'reference rate' the Credit Union Act consumes), adds §1.8 (Crisis Management & Automatic Stabilizers), adds a supply-shock override to the §1.5 price condition, replaces the fixed 250-per-region credit-union count with population/deposit chartering, adds place-of-residence to the PPK, and reconciles stale CLS distribution figures. (9.5 itself: national resource line re-split — royalties became regional own-source revenue; this act retains the national cut only.)"
----
-
 # Crossroads Monetary Reform & Economic Stabilization Act of 2025: Draft 9.6
 
-Posted to r/Bulwarkomics
 Draft: 9.6 | Date: June 28, 2026
 Author: Thunderfish2
 
@@ -22,53 +11,7 @@ Author: Thunderfish2
 
 ## Amendment note — Draft 9.6
 
-Draft 9.6 keeps every element of 9.5 and changes only what the sync to Credit Union Act 5.5 requires. Explicit changelog (so nothing is silently dropped):
-
-**New sections (these resolve forward-references in Credit Union Act 5.5).**
-- **§1.5A — Reference Rate Anchor (new).** Defines the single, rule-based, flat-and-slow "reference rate" that the Credit Union Act consumes throughout (loan/deposit bands, special-share premium, RLP at reference + 1%, SWF at reference + 2%). Includes the decoupling clause: the interbank/peer-lending rate floats; the published reference rate does not track interbank stress.
 - **§1.8 — Crisis Management & Automatic Stabilizers (new).** Tier-1 automatic stabilizers (no vote), Tier-2 time-boxed emergency mode (Wartime-Fee pattern), institutional-only detection telemetry, accelerated jubilee forbearance. Houses the trigger definitions the Credit Union Act §6.8 references.
-
-**Edits to existing sections.**
-- **§1.5** — added a standing **supply-shock override** to the price condition: the brake distinguishes demand-driven DLB movement from external/transient supply movement (fuel, imports) and looks through the latter. Always-on and rule-based; §1.8 references it for the crisis-scale case.
-- **§1.2** — replaced "5,000 credit unions (250 per region)" with population/deposit chartering and field-of-membership coverage (≥3 catchments per residence; Credit Union Act §1.5); corrected the stale "CLS ~60,000 (3,000/region)" to demand-distributed; noted banking/loan rates are reference-rate-anchored and special shares are uninsured.
-- **§1.6** — credit-union share compartment noted as residency-bound (Credit Union Act §1.5).
-- **§1.7** — distinguished the low-frequency PMI dashboard from the high-frequency crisis telemetry in §1.8.
-- **§5.1** — PPK now carries **place of residence** (for field-of-membership eligibility), since the Credit Union Act relies on the PPK to attest it.
-- **§5.3** — Treasury now publishes the **reference rate**.
-- **Key Stats** — credit-union count made variable; added reference-rate and crisis-framework rows.
-- **Design Philosophy** — added one principle on rule-priced credit and pre-committed crisis response.
-
-**Cleanup (no data changed).**
-- Cleaned currency-encoding artifacts and reconstructed garbled tables (§2.3 SWF stabilizers, §3 commons split, §4 tax table, §5.2 oversight grid, Key Stats) — all legible figures preserved exactly.
-- Reconciled the §1.1 $10,000 transparency-threshold wording with the layer description and oversight tables (sub-threshold private; above-threshold pseudonymously logged, never by identity).
-- **Flagged, not invented:** the §2.1 per-line SWF contribution figures are garbled in the 9.5 source and conflict with the §2.2 seeding figure; left as a marked reconciliation item for the Consolidated Fiscal Model rather than silently re-derived.
-
----
-
-## Table of Contents
-
-1. Overview
-2. Section 1: Monetary System
-   - 1.1 Dual Currency System
-   - Physical Cash — Layer 1
-   - Bulwark Coin (BWC) — Layer 2
-   - 1.2 Co-op Credit Union Network
-   - 1.3 Transaction Fees & Liquidity Pool
-   - 1.4 Daily Living Basket (DLB)
-   - 1.5 Base Money Issuance & the BWC Anchor
-   - **1.5A Reference Rate Anchor**
-   - 1.6 Citizen Wallet Structure
-   - 1.7 Personal Market Index (PMI) — Economic Health Dashboard
-   - **1.8 Crisis Management & Automatic Stabilizers**
-3. Section 1A: Informal Economy Guarantee
-4. Section 2: Sovereign Wealth Fund (SWF)
-5. Section 3: Co-op Ecosystem Integration
-6. Section 4: Tax and Economic Reforms
-   - 4.1 Corporate Governance Requirements
-7. Section 5: Governance, Data & Oversight (PPK/CED)
-8. Section 6: Foreign Investment — CGCI
-9. Key Stats (2025–2075)
-10. Design Philosophy
 
 ---
 
