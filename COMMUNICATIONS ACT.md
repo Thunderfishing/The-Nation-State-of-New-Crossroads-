@@ -1,8 +1,9 @@
----
-title: "Crossroads Communications and Media Infrastructure Act of 2025"
-draft: "4.2"
-date: "2026-06-27"
-author: "Thunderfish2"
+
+
+# Crossroads Communications and Media Infrastructure Act of 2025: Draft 4.2
+
+**Draft:** 4.2 | **Date:** June 27, 2026
+**Author:** Thunderfish2
 
 > **Cross-reference.** Companion to the **Monetary Act 9.5**, **Credit Union Act 5.4**, **FCL Act 3.2**, **Energy Act**, **Utilities Act**, and **Infrastructure Act**. The asset/operator separation model follows the rail system (state owns tracks, co-ops/corps run trains) and utilities (state owns lines, utilities sell power). Loans are DLB-indexed (no DAI/BAR). Data uses PPK/CED (no CWD).
 
