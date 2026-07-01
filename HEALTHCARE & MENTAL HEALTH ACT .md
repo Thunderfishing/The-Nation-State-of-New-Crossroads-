@@ -1,25 +1,11 @@
----
-title: "Crossroads Co-operative Healthcare & Mental Wellness Act of 2025"
-draft: "6.5"
-date: "2026-06-27"
-author: "Thunderfish2"
-repository: "crossroads-monetary-act"
-description: "Companion legislation to the Monetary Act 9.5, Credit Union Act 5.4, FCL Structure Act, and Education Act 2.2. A premium-funded, co-op-led universal health and mental-wellness system delivered through a three-tier facility structure (clinics → super hospitals → mega hospitals at SMR nuclear hubs), with a permitted private corporate tier, hybrid CCJV facilities, and integrated mental health."
-supersedes: "Draft 6.4 — premium-funded conversion (Healthcare SWF and Mental Health SWF operating lines removed; mandatory universal premiums + FCL contribution + bottom-tier subsidy); three-tier facility structure (10,000 clinics with minor surgery → 200 super hospitals scaling to 2,000 → 20 mega hospitals at SMR hubs); corporate health tier added (pay-to-play, loan-eligible); coverage extended to the whole population; mental health folded into premiums and mapped onto the tier logic; DAI/BAR removed (DLB-indexed); CWD replaced by PPK/CED; references updated to Monetary 9.5 / Credit Union 5.4 / Education 2.2."
----
-
 # Crossroads Co-operative Healthcare & Mental Wellness Act of 2025: Draft 6.5
 
-**Posted to r/Bulwarkomics**
 **Draft:** 6.5 | **Date:** June 27, 2026
 **Author:** Thunderfish2
 
 > **Cross-reference.** Companion to the **FCL Structure Act**, **Monetary Act 9.5**, **Credit Union Act 5.4**, **Government Act**, and **Education Act 2.2**. Loans are DLB-indexed (no DAI/BAR). Data uses the **PPK/CED** architecture (Monetary §5), operational from inception — there is no CWD. The currency is fiat.
 
 > **Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values. Facility counts and corporate-sector share are descriptive projections, not quotas.
-
-> **Amendment Note — Draft 6.5.** Healthcare converts from SWF-and-debt funding to **premium funding**. The Healthcare SWF ($145B) and Mental Health SWF ($35B) operating lines are **removed**; the system is funded by mandatory universal premiums, the FCL healthcare contribution, and a targeted bottom-tier subsidy. A **three-tier facility structure** replaces the flat "200 hospitals" model, and a **private corporate tier** is explicitly permitted. Mental health is folded into the premium package and mapped onto the facility tiers. All sector-share quotas remain removed (descriptive baselines only).
-
 ---
 
 ## Overview
