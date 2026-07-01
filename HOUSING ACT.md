@@ -1,25 +1,12 @@
----
-title: "Crossroads Housing Act of 2025"
-draft: "2.3"
-date: "2026-06-27"
-author: "Thunderfish2"
-repository: "crossroads-monetary-act"
-description: "Companion legislation to the Monetary Act 9.5, Credit Union Act 5.4, FCL Act 3.2, Government Act 4.18, Infrastructure Act 2.3, Energy Act 4.2, Industry Act, and the Municipal & Regional Funding Act. Builds the homeownership keystone — Durahomes, forced savings, and DLB-indexed loans — protected by the residential-land-tax prohibition. Administered by the National Housing Authority (NHA)."
-supersedes: "Draft 2.2 — National Housing Board renamed National Housing Authority (NHA) to resolve the NHB acronym collision with the National Healthcare Board (Government Act 4.18); DCLTI clarified to apply only to taxable commercial/industrial housing facilities (owner-occupied homes are never taxed, per the Municipal & Regional Funding Act); homeownership-protection link to the residential-land-tax prohibition made explicit; DAI/BAR removed (loans DLB-indexed); CWD→PPK/CED; references updated to Monetary 9.5 / Credit Union 5.4 / FCL 3.2 / Government 4.18 / Infrastructure 2.3 / Energy 4.2; GitHub-safe formatting."
----
 
 # Crossroads Housing Act of 2025: Draft 2.3
 
-**Posted to r/Bulwarkomics**
 **Draft:** 2.3 | **Date:** June 27, 2026
 **Author:** Thunderfish2
 
 > **Cross-reference.** Companion to the **Monetary Act 9.5**, **Credit Union Act 5.4**, **FCL Act 3.2**, **Government Act 4.18**, **Infrastructure Act 2.3**, **Energy Act 4.2**, **Industry Act**, and the **Municipal & Regional Funding Act**. Loans are DLB-indexed (no DAI/BAR). Data uses PPK/CED (no CWD). The currency is fiat.
 
 > **Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values.
-
-> **Amendment Note — Draft 2.3.** The **National Housing Board (NHB) is renamed the National Housing Authority (NHA)** to resolve the acronym collision with the National Healthcare Board (NHB, Government Act 4.18); the NHA is paired, in consultation, with the Industry & Infrastructure department. The **DCLTI** property-tax reduction is clarified to apply only to **taxable commercial/industrial housing facilities** (factories, drilling sites) — **owner-occupied homes are never taxed** (Municipal & Regional Funding Act §1.2), so the incentive does not and cannot apply to them. The act now makes explicit that the **residential-land-tax prohibition is the guarantee of the homeownership keystone**. DAI/BAR removed (loans DLB-indexed); CWD→PPK/CED; references updated; dollar signs escaped for clean GitHub rendering.
-
 ---
 
 ## Abstract
