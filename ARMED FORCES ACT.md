@@ -1,24 +1,11 @@
----
-title: "Crossroads Military Intelligence and Defense Act of 2025"
-draft: "1.7"
-date: "2026-06-27"
-author: "Thunderfish2"
-repository: "crossroads-monetary-act"
-description: "Companion legislation to the Monetary Act 9.5 and allied acts. A lean, drone-focused, unilateral-sovereignty defense and intelligence framework funded by a declining SWF operating allocation and a separate citizen-bequest Defense Fund, with a military-initiated national-security veto on arms and aerospace exports."
-supersedes: "Draft 1.6 — budget reconciled (recurring operating ~$40B/year, declining; $77.56B reclassified as one-time buildout; $920B Defense Fund reframed as a separate citizen-bequest endowment outside the SWF cap; $60B 'internal revenue' removed); fiat fixes (BWC is not metal-backed; reserve reframed as the Citizens' Metals ETF); cross-references updated (Monetary 9.5, Education 2.2, Healthcare 6.5, Credit Union 5.4); NEW arms/aerospace export national-security veto added."
----
-
 # Crossroads Military Intelligence and Defense Act of 2025: Draft 1.7
 
-**Posted to r/Bulwarkomics**
 **Draft:** 1.7 | **Date:** June 27, 2026
 **Author:** Thunderfish2
 
 > **Cross-reference.** Companion to the **Monetary Act 9.5**, **Government Act**, **Energy Act**, **Education Act 2.2**, **Healthcare Act 6.5**, **Communications Act**, and **Credit Union Act 5.4**. The currency is fiat (no metal backing); funding figures follow the Consolidated Fiscal Model.
 
 > **Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values.
-
-> **Amendment Note — Draft 1.7.** This draft reconciles the budget. The recurring **operating budget is ~$40B/year, declining** as the Defense Fund matures. The **$77.56B** figure from prior drafts is reclassified as **one-time buildout** (bases + initial procurement), not a recurring cost. The **$920B Defense Fund** is reframed as a **separate citizen-bequest endowment**, outside the 12%-of-GDP SWF cap, whose returns eventually cover operating costs. The **"$60B/year internal revenue"** line is removed. Fiat fixes and updated cross-references applied throughout. A **military-initiated national-security veto on arms and aerospace exports** is added (Section 8.2).
 
 ---
 
