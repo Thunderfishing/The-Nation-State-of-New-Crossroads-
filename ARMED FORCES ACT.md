@@ -11,14 +11,14 @@
 
 ## Overview
 
-This act establishes New Crossroads' defense and intelligence framework, prioritizing **unilateral sovereignty, border security, and rapid humanitarian aid**. It is a **lean, drone-focused military** — designed to avoid expensive capital platforms that drones can cheaply destroy, with in-house design and commercial components. It aligns with the Monetary Act 9.5, Government Act, Energy Act, Education Act 2.2, Healthcare Act 6.5, Communications Act, and Credit Union Act 5.4.
+This act establishes New Crossroads' defense and intelligence framework, prioritizing **unilateral sovereignty, border security, and rapid humanitarian aid**. It is a **lean, drone-focused military** — designed to avoid expensive capital platforms that drones can cheaply destroy, with in-house design and commercial components. 
 
 ---
 
 ## Section 1: Objectives
 
-- Field a **100K all-male active military**, **1M mixed reserves**, **9.1M armed male militia**, **10K elite infantry**, and a **10K airborne division**, integrated with a **25K-person CMIS** (20K core, 5K cyber warfare), scaling to 50K CMIS by 2075 — to monitor threats, secure borders, and support **~$2B/year humanitarian aid**.
-- Equip forces with 100 hypersonic cruise missiles, 200 tactical nuclear shells, 100 anti-satellite missiles, 8 nuclear submarines (112 hypersonic ICBMs), 20 cutters, 2 frigates, 40 SAR helicopters, 300 aircraft, 5K drones, 10 flying drone carriers, 80 multi-role helicopters, 2K APCs, 50 tanks, 200 howitzers, 60 SAM batteries, and 400 EW units.
+- Field a **100K all-male combat personnel active military**, **1M mixed reserves**, **9.1M armed male militia**, **10K elite infantry**, and a **10K airborne division**, integrated with a **25K-person CMIS** (20K core, 5K cyber warfare), scaling to 50K CMIS by 2075 — to monitor threats, secure borders, and support **~$2B/year humanitarian aid**.
+- Equip forces with 500 hypersonic cruise missiles (100, 10Kt tactical nuclear armed), 200 tactical nuclear shells, 100 anti-satellite missiles, 8 nuclear submarines (112 hypersonic 15Mt, Mirv ICBMs), 50 cutters, 8 frigates, 2 Destroyers, 40 SAR helicopters, 300 combat aircraft, 106 transport aircraft, 10K drones, 20 flying drone carriers, 80 multi-role helicopters, 2K APCs, 100 tanks, 200 howitzers, 60 SAM batteries, and 400 EW units.
 - Fund operations with a **~$40B/year recurring SWF operating allocation (declining)**, backed by the **separate ~$920B Defense Fund** (citizen-bequest endowment), ensuring no foreign financial reliance.
 
 ---
@@ -26,8 +26,8 @@ This act establishes New Crossroads' defense and intelligence framework, priorit
 ## Section 2: Defense Framework
 
 ### 2.1 Military Structure
-- **Active Forces:** 100K all-male personnel (2025) — 60K regular troops, 10K elite infantry (special forces), 10K airborne, 20K support. Scales to 125K by 2075 (including 25K CMIS as a standalone branch). Performance tracked via the Merit Dashboard (personnel/identity data held in the PPK).
-- **Reserves:** 1M mixed (500K men, 500K women), trained via 3-month refreshers every 5 years (70% uptake, ~$3.5B/year).
+- **Active Forces:** 100K all-male combat personnel (2025) — 60K regular troops, 10K elite infantry (special forces), 10K airborne, 20K support. Scales to 125K by 2075 (including 25K CMIS as a standalone branch). Performance tracked via the Merit Dashboard (personnel/identity data held in the PPK).
+- **Reserves:** 1M mixed (700K men, 300K women), trained via 3-month refreshers every 5 years (70% uptake, ~$3.5B/year).
 - **Militia:** 9.1M armed males, equipped via the mandatory-service boot camp (1M/year through Education Act 2.2 §4; men retain rifle).
 
 ### 2.2 Training and Recruitment
@@ -71,13 +71,13 @@ This act establishes New Crossroads' defense and intelligence framework, priorit
 ## Section 5: Naval and Air Force Organization
 
 ### 5.1 Naval Forces
-- **Assets (2075):** 20 cutters, 2 frigates, 8 submarines (112 hypersonic ICBMs), 40 SAR helicopters.
+- **Assets (2075):** 40 cutters, 8 frigates, 2 Destroyers 8 submarines (112 hypersonic 15Mt, MIRV ICBMs), 40 SAR helicopters.
 - **Bases:** 4 naval bases (Eastport, Westport, Rivergate City, Desert Port), grid-powered.
 - **Maintenance:** ~$1.56B/year (commercial components), 95% readiness, biennial audits.
 - **Resilience:** ~$50M/year (flood barriers, backup power).
 
 ### 5.2 Air Force
-- **Assets:** 300 aircraft, 80 multi-role helicopters, 5K drones, 10 flying drone carriers.
+- **Assets:** 300 combat aircraft, 106 transport aircrst, 80 multi-role helicopters, 10K drones, 20 flying drone carriers.
 - **Bases:** central base (Durant B. Cooper) + New Tech City and Rivergate City.
 - **Maintenance:** ~$1.56B/year, 95% readiness, biennial audits.
 - **Drone Synergy:** ~$20M/year integrating drone carriers with the drone fleet (joint exercises 4/year).
@@ -89,7 +89,7 @@ This act establishes New Crossroads' defense and intelligence framework, priorit
 ---
 
 ## Section 6: Aid Operations
-- **Scope:** ~$2B/year for earthquake/hurricane relief; 10K troops + aircraft, cutters, helicopters, and drone carriers deployed within 72 hours globally, supported by ~95K volunteers.
+- **Scope:** ~$2B/year for earthquake/hurricane relief; 10K troops + aircraft, cutters, helicopters, transport aircraft and drone carriers deployed within 72 hours globally, supported by ~95K volunteers.
 - **Logistics:** rail + ports; ~$500M/year pre-positioned supplies; volunteer coordination with mental-health counseling.
 - **Policy:** aid only, no reconstruction, withdraw within 90 days, no extensions (6/11 Central Council). ~$500M/year contingency fund.
 
@@ -143,11 +143,11 @@ This act establishes New Crossroads' defense and intelligence framework, priorit
 ## Section 9: 2075 Outcomes
 - **Defense:** 125K active (100K core, 25K CMIS), 1M reserves, 9.1M militia, no foreign ties, ~$920B Defense Fund intact, operating budget nearly self-funded by Fund returns.
 - **CMIS:** 50K personnel, standalone branch, 72-hour aid response, 90-day exit.
-- **Naval:** 20 cutters, 2 frigates, 8 submarines, 40 SAR helicopters.
+- **Naval:** 40 cutters, 8 frigates, 8 submarines, 40 SAR helicopters.
 - **Air Force:** 300 aircraft in 20 squadrons; 95% rural coverage.
-- **Special Forces:** 10K elite infantry + 80 multi-role helicopters.
-- **Ground Forces:** 2K APCs, 50 tanks, 200 howitzers, 60 SAM batteries, 400 EW units.
-- **Space:** 25 satellites, 100 anti-satellite missiles, ~$1B/year revenue, asteroid mining primed.
+- **Special Forces:** 10K elite infantry + 80 multi-role helicopters, 10k Airborne + 106 transport aircraft.
+- **Ground Forces:** 2K APCs, 100 tanks, 200 howitzers, 60 SAM batteries, 400 EW units.
+- **Space:** 75 satellites, 100 anti-satellite missiles, ~$1B/year revenue, asteroid mining primed.
 
 ---
 
@@ -157,7 +157,6 @@ This act establishes New Crossroads' defense and intelligence framework, priorit
 - **SWF:** Sovereign Wealth Fund (~$1.5–2.0T, capped at 12% GDP). The **Defense Fund is separate and outside this cap.**
 - **Defense Fund:** ~$920B citizen-bequest endowment, locked until total war, returns covering operations at maturity.
 - **BWC:** Bulwark Coin — the national **fiat** currency (not metal-backed; value held by the Monetary Act §1.5 issuance anchor).
-- **Citizens' Metals ETF:** citizen investment fund ($125–504B); backs its shareholders, not the currency.
 - **Defense Compliance System / Merit Dashboard:** military readiness and personnel-performance tracking (personnel identity data held in the PPK).
 - **Military Training Academy:** ~$100M/year defense-training program.
 
@@ -165,8 +164,8 @@ This act establishes New Crossroads' defense and intelligence framework, priorit
 
 ## Key Stats (2025–2075)
 - **Military:** 100K active, 1M reserves, 9.1M militia, 25K CMIS (2025) → 125K active, 50K CMIS (2075).
-- **Equipment:** 100 hypersonic cruise missiles, 200 tactical nuclear shells, 100 anti-satellite missiles, 8 submarines, 20 cutters, 2 frigates, 40 SAR helicopters, 300 aircraft, 5K drones, 10 flying drone carriers, 80 multi-role helicopters, 2K APCs, 50 tanks, 200 howitzers, 60 SAM batteries, 400 EW units.
-- **Space:** 25 satellites, ~$1B/year revenue.
+- **Equipment:** 100 hypersonic cruise missiles, 200 tactical nuclear shells, 100 anti-satellite missiles, 8 submarines, 40 cutters, 8 frigates, 40 SAR helicopters, 300 combat aircraft, 106 transport aircraft, 10K drones, 20 flying drone carriers, 80 multi-role helicopters, 2K APCs, 100 tanks, 200 howitzers, 60 SAM batteries, 400 EW units.
+- **Space:** 75 satellites, ~$1B/year revenue.
 - **Funding:** **~$40B/year recurring operating (declining)**; **one-time buildout (former $77.56B)**; **~$920B Defense Fund (bequest endowment, separate)**.
 - **Doctrine:** lean, drone-focused, no large capital platforms, unilateral sovereignty.
 
