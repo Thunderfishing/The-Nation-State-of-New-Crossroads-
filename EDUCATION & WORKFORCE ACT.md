@@ -1,16 +1,5 @@
----
-title: "Crossroads Education and Workforce Act of 2025"
-draft: "2.2"
-date: "2026-06-27"
-author: "Thunderfish2"
-repository: "crossroads-monetary-act"
-description: "Companion legislation to the Monetary Act 9.5, Credit Union Act 5.4, and FCL Structure Act. A debt-free, front-loaded education and workforce system for 18M students: hybrid co-op schools, a $10,000 voucher, an age-16 career-exploration year, a school-then-apprenticeship flip across secondary and mandatory service, lifelong free re-entry for dropouts, and a full graduate-allocation pipeline feeding every sector including both health systems."
-supersedes: voucher raised to $10,000; the $75,000 journeyman-earnings target removed; age-16 exploration year with aptitude testing, observation rotation, and up to 3 track-switches added; secondary/service flip clarified (16-18 school-primary, 19-20 apprenticeship-primary); 10 AM school start for 16-18; dropout and lifelong re-entry mechanism clarified; full graduate-allocation pipeline added (both health systems numbered); CWD replaced by PPK/CED; references updated to Monetary 9.5 / Credit Union 5.4; DAI/BAR and metal-reserve references removed."
----
-
 # Crossroads Education and Workforce Act of 2025: Draft 2.2
 
-**Posted to r/Bulwarkomics**
 **Draft:** 2.2 | **Date:** June 27, 2026
 **Author:** Thunderfish2
 
@@ -37,7 +26,7 @@ No binding sector quotas apply. Sector splits are descriptive baselines, not enf
 - Deliver **debt-free education** for 18 million students (ages 5-20).
 - Fund education with **$10,000/year vouchers**, enabling competitive choice among co-op and corporate schools.
 - Organize every public school as a hybrid FCL (70% Local School Board / 30% Teacher Professional FCL).
-- Front-load training: school-primary secondary years (16â€“18), apprenticeship-primary mandatory service (19-20).
+- Front-load training: school-primary secondary years (16-18), apprenticeship-primary mandatory service (19-20).
 - Give every student an **age-16 career-exploration year** (aptitude testing, observation rotation, up to 3 track-switches) so paths are chosen from informed experience.
 - Mandate **24-month service (ages 19-20)** as full-time apprenticeship, with stipends, credentialing ~1 million journeymen annually.
 - Support ~13 million journeymen, ~2 million masters, ~100,000 grandmasters, and immigrant integration.
