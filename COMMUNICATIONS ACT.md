@@ -3,22 +3,10 @@ title: "Crossroads Communications and Media Infrastructure Act of 2025"
 draft: "4.2"
 date: "2026-06-27"
 author: "Thunderfish2"
-repository: "crossroads-monetary-act"
-description: "Companion legislation to the Monetary Act 9.5, Credit Union Act 5.4, FCL Act 3.2, Energy Act, Utilities Act, and Infrastructure Act. A state-owned-infrastructure / competitive-operator communications and media framework with co-op preference, AM-radio CME resilience, a net-neutral mesh network, and the PPK/CED data architecture."
-supersedes: "Draft 4.1 — fiat alignment: DAI/BAR removed (loans DLB-indexed nominal); CWD replaced by PPK/CED throughout (net-neutrality enforcement, CME audits, asymmetric scrutiny); references updated to Monetary 9.5 / Credit Union 5.4 / FCL 3.2; structure and all detail preserved."
----
-
-# Crossroads Communications and Media Infrastructure Act of 2025: Draft 4.2
-
-**Posted to r/Bulwarkomics**
-**Draft:** 4.2 | **Date:** June 27, 2026
-**Author:** Thunderfish2
 
 > **Cross-reference.** Companion to the **Monetary Act 9.5**, **Credit Union Act 5.4**, **FCL Act 3.2**, **Energy Act**, **Utilities Act**, and **Infrastructure Act**. The asset/operator separation model follows the rail system (state owns tracks, co-ops/corps run trains) and utilities (state owns lines, utilities sell power). Loans are DLB-indexed (no DAI/BAR). Data uses PPK/CED (no CWD).
 
 > **Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values.
-
-> **Amendment Note — Draft 4.2.** Fiat alignment pass. DAI/BAR and all DAI-floor loan columns are removed (loans are plain DLB-indexed nominal rates). CWD is replaced by the **PPK/CED** architecture: net-neutrality enforcement, CME audits, and the asymmetric-scrutiny ledger now run on the pseudonymized **CED**, with identity held only in the **PPK**. References updated to Monetary 9.5 / Credit Union 5.4 / FCL 3.2. No binding co-op quotas (preferences only) — unchanged.
 
 ---
 
