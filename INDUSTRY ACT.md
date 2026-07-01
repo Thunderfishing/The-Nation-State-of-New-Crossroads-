@@ -1,24 +1,11 @@
----
-title: "New Crossroads Industry Act of 2025"
-draft: "4.3"
-date: "2026-06-27"
-author: "Thunderfish2"
-repository: "crossroads-monetary-act"
-description: "Companion legislation to the Monetary Act 9.5, Credit Union Act 5.4, Government Act 4.18, Energy Act 4.2, Housing Act 2.3, Infrastructure Act 2.4, and the Municipal & Regional Funding Act. A co-op-dominant, free-market industrial framework: full-spectrum hemp, non-arable greenhouses clustered on the Industrial Corridors, mining heavy-machinery, value-added forestry, gas-to-fertilizer/petrochemicals, and the export sectors."
-supersedes: "Draft 4.2 — full fiat/GitHub rewrite. DAI/BAR removed (loans DLB-indexed); CWD→PPK/CED; references updated to Monetary 9.5 / Credit Union 5.4 / Government 4.18 / Energy 4.2 / Housing 2.3 / Infrastructure 2.4 / Communications 4.2. NEW: greenhouses explicitly sited on non-arable land and clustered on the Industrial Corridors; hemp restricted to marginal land (max 25% of any farmer's arable holding) and made full-spectrum (hempcrete, 2x4s, insulation, cordage); forestry redirected to value-added wood products supporting housing stock; heavy-equipment sector focused on mining machinery; gas reserves routed to fertilizer and petrochemicals, not transport. GitHub-safe formatting."
----
-
 # New Crossroads Industry Act of 2025: Draft 4.3
 
-**Posted to r/Bulwarkomics**
 **Draft:** 4.3 | **Date:** June 27, 2026
 **Author:** Thunderfish2
 
 > **Cross-reference.** Companion to the **Monetary Act 9.5**, **Credit Union Act 5.4**, **Government Act 4.18**, **Energy Act 4.2**, **Housing Act 2.3**, **Infrastructure Act 2.4** (Industrial Corridors §3.7), and the **Municipal & Regional Funding Act**. Loans are DLB-indexed (no DAI/BAR). Data uses PPK/CED (no CWD). The currency is fiat.
 
 > **Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values.
-
-> **Amendment Note — Draft 4.3.** Full fiat/GitHub rewrite. Beyond the standard cleanup, this draft adds the land-use and corridor logic: **greenhouses are sited on non-arable land** and **cluster on the Industrial Corridors** (Infrastructure §3.7) for warm-water irrigation and CO₂ enrichment; **hemp avoids prime arable land** (max 25% of any farmer's arable holding, grown where conventional crops struggle) and is **full-spectrum** (hempcrete, 2x4s, insulation, cordage); **forestry** is redirected to **value-added wood products** supporting domestic housing stock and export; the heavy-equipment sector is focused on **mining machinery** (serving the nation's large mineral operations); and the nation's **modest gas reserves are routed to fertilizer and petrochemical feedstock, not transport** (transport is electrified).
 
 ---
 
