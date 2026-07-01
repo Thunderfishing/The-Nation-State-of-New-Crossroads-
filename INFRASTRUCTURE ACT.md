@@ -1,6 +1,6 @@
 ---
 title: "New Crossroads Infrastructure Act of 2025"
-draft: "2.4"
+draft: "2.5"
 date: "2026-06-27"
 author: "Thunderfish2"
 repository: "crossroads-monetary-act"
@@ -8,10 +8,10 @@ description: "Companion legislation to the Monetary Act 9.5, Credit Union Act 5.
 supersedes: "Draft 2.3 — reformatted into clean GitHub markdown (headers, pipe tables, escaped dollar signs); NEW Industrial Corridors section (warm-water + CO2 pipelines radiating from Corridon nuclear plants to the Heartland and hemp regions); NEW Corridon wake-suppression program cooperating with dredging; corridor land-tax holiday (construction-cost recovery, DCALS-contingent). All Draft 2.3 content retained — the access-fee clarification, dredging specifics, DCLTI funding offsets, and the $6.8B agricultural-yield figure are intact."
 ---
 
-# New Crossroads Infrastructure Act of 2025: Draft 2.4
+# New Crossroads Infrastructure Act of 2025: Draft 2.5
 
 **Posted to r/Bulwarkomics**
-**Draft:** 2.4 | **Date:** June 27, 2026
+**Draft:** 2.5 | **Date:** June 27, 2026
 **Author:** Thunderfish2
 
 > **Cross-reference.** Companion to the **Monetary Act 9.5**, **Credit Union Act 5.4**, **FCL Act 3.2**, **Energy Act 4.2**, **Utilities Act**, **Communications Act 4.2**, **Industry Act**, and the **Municipal & Regional Funding Act**. The asset/operator separation model follows the Utilities Act (state owns infrastructure, co-ops/corporations compete on operations). Loans are DLB-indexed (no DAI/BAR). Data uses PPK/CED (no CWD). The currency is fiat.
@@ -19,6 +19,8 @@ supersedes: "Draft 2.3 — reformatted into clean GitHub markdown (headers, pipe
 > **Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values.
 
 > **Amendment Note — Draft 2.4.** Reformatted into clean GitHub markdown (this draft is structurally identical in content to 2.3 — nothing removed). Two additions: the **Industrial Corridors** (§3.7) — co-located warm-water and CO2 pipelines radiating from the Corridon nuclear plants — and a **Corridon wake-suppression program** (§3.5) operating jointly with dredging. The access-fee clarification, the Corridon/Westflow dredging specifics, the DCLTI funding offsets, and the \$6.8B/year pollinator agricultural-yield figure are all retained from 2.3. (2.3 itself: DAI/BAR removed, loans DLB-indexed; CWD→PPK/CED; references updated; access-fee model clarified at source.)
+
+> **Amendment Note — Draft 2.5.** Clarifies the **DCALS + retroreflective-paint system** as one integrated mechanism (hooded red-spectrum light reflected off retroreflective paint and reflectors to illuminate building/yard *geometry* while minimizing emitted light — §2.4.1.1A), and pins the **mandatory zones, the street-lighting rules, and the carrot/stick structure** (§2.4.1.8, §2.4.3): mandatory (with fines for commercial/industrial, **farms excluded**) along elevated freeways, wetlands, park borders, wildlife corridors, and ecologically significant areas; **rural roads carry no street lights nationwide**; **municipalities are lit but DCALS-compliant and at half the usual fixture density**; nationwide, any compliant commercial/industrial facility earns the 0.75%→0.70% property-tax reduction **plus a 5% electricity rebate**, and any compliant **farm or residence earns the 5% electricity rebate** (funded from the Dark Corridor Fund and partly self-funding via reduced lighting load). The **Industrial Corridors (§3.7)** are clarified to **radiate inland** from the riverside nuclear/WTE plants (perpendicular, off the floodplain), carrying the **buried cooling-outflow-as-irrigation** single-draw mechanism, with geothermal tying in CO2-only where it has no reactor, all honoring the **minimum environmental flow law** (Parks Act §2.5).
 ---
 ## Purpose
 
@@ -176,7 +178,16 @@ Purpose: To permit minimal, ecologically safe illumination for compounds, struct
 
 ##### 2.4.1.1 Definitions
 
-• Adjacency Zone: Any compound, facility, or structure located within 500 meters of an elevated Dark Corridor Freeway Section.
+**A. The DCALS concept — light and paint as one system.** DCALS is not "dim lighting"; it is a system for **illuminating the geometry of a building or yard while emitting as little light into the environment as possible.** A **hooded, downward/inward-pointing red-spectrum source** shines onto **retroreflective paint and reflectors**, which return light to mark the *edges and structure* of the site — so people see where things are without the site broadcasting light at the sky or horizon. **The light and the paint are designed to work together:** the paint and reflectors do most of the "seeing," so the powered light can be minimal, hooded, and motion-activated.
+
+*The goal is to reduce emitted light as far as the use allows:*
+- A **warehouse complex** or a **welding/manufacturing facility** can run **nearly dark** — hooded light bouncing off painted geometry and reflectors is enough to navigate and work.
+- A **refinery** obviously cannot go fully dark, but it **minimizes and hoods** what it must keep lit.
+- A **residence** can run a single **hooded back-porch light** that reflects off retroreflective paint to pick out the side of the house, the alley, and the garage or shed geometry — lighting the yard's *shape* without a floodlight.
+
+This is why DCALS and the Retroreflective Building Paint Program (§2.4.2) are companions, not alternatives: the paint makes the minimal lighting possible.
+
+**Definitions:**
 • General Zone: All other properties in New Crossroads (not within 500m of a dark corridor).
 • Indirect Light System (ILS) : A lighting system that uses reflectors, mirrors, light tubes, or fiber optics to redirect light from a recessed source to specific structural markers.
 • Red-Spectrum Source: A fully shielded LED emitter operating between 630–660 nm with zero blue or UV leakage.
@@ -317,6 +328,30 @@ Any
 
 
 ---
+##### 2.4.1.8 Mandatory Zones, Street Lighting & the Carrot/Stick Structure
+
+**Where DCALS is mandatory (with fines for commercial/industrial — farms excluded).** DCALS compliance is **mandatory** for any commercial or industrial facility (farms excluded) located along or within range of:
+- **Elevated freeways** (the dark corridors),
+- **Wetlands**,
+- **Park borders**,
+- **Wildlife corridors**, and
+- **Any area deemed ecologically significant** by the Regional Infrastructure Board or the park authority.
+
+In these zones, non-compliant **commercial and industrial facilities are subject to the fines** in §2.4.1.7. **Farms are never fined** (agriculture is exempt from the mandatory-zone penalty), and **residences are never fined** — both are reached by incentive only (below). The stick falls only on large actors in ecologically sensitive places; the carrot is available to everyone, everywhere.
+
+**Street lighting (nationwide):**
+- **Rural roads carry no street lights — anywhere in the nation.** The countryside stays dark by default (vehicle headlights + retroreflective road markers suffice).
+- **Municipalities are lit, like any city — but to a "lite" standard:** all municipal street lighting must be **DCALS-compliant** (hooded, red-spectrum, downward, no skyward/horizon emission), **and the number of fixtures is cut to half** the density of a conventional city. Cities remain navigable and safe; they are simply darker-skied and use half the lights.
+
+**The carrot/stick summary:**
+
+| Actor | In ecological zones | Anywhere (voluntary compliance) |
+| :--- | :--- | :--- |
+| Commercial / industrial | **Mandatory; fined if non-compliant** | 0.75% → 0.70% property tax **+ 5% electricity rebate** |
+| Farms | Exempt from fines | **5% electricity rebate** |
+| Residences | Never fined | **5% electricity rebate** |
+
+---
 #### 2.4.2 Retroreflective Building Paint Program (Nationwide)
 
 Purpose: To replace powered lighting entirely where possible, using passive retroreflective materials that return light to its source (vehicle headlights) without emitting any light into the environment.
@@ -427,6 +462,8 @@ A building that meets the Retroreflective Building Paint Standard on all road-fa
 (b) Incentive
  The standard commercial/industrial property tax rate of 0.75% (per Monetary Act Section 4) shall be reduced to 0.70% for any property certified as compliant. Residential properties receive a \$100/year tax credit.
 
+ **Electricity rebate (nationwide, all compliant actors).** In addition, **any DCALS-certified property receives a 5% rebate on its electricity bill.** This reaches the actors a property-tax break cannot: a **farm or a residence** that complies — neither of which carries a meaningful land-tax bill (residential land is never taxed, per the Municipal & Regional Funding Act §1.2) — earns the **5% electricity rebate** as its reward. So the incentive structure is: commercial/industrial get **0.70% property tax + 5% electricity rebate**; farms and residences get the **5% electricity rebate**.
+
 (c) Bonus Incentive (Full Retroreflective)
  Any property that achieves 100% retroreflective coverage on all road-facing surfaces and eliminates all powered external lighting (except legally required safety lighting) receives an additional 0.02% reduction (0.75% → 0.68%) for commercial/industrial, or \$200/year tax credit for residential.
 
@@ -454,6 +491,8 @@ Certification is valid for five years, subject to random audits.
 • Increased agricultural yield from pollinator recovery (estimated \$6.8B/year by 2075)
 • Reduced enforcement costs due to voluntary compliance
 • Energy savings from eliminated lighting (estimated \$200M/year by 2075)
+
+ The **5% electricity rebate** (§2.4.3(b)) is funded from the **Dark Corridor Fund** (Section 4.2) and is **partly self-funding**: DCALS compliance reduces lighting load nationwide, lowering system demand and cost, so a meaningful share of the rebate is offset by the energy the compliance itself saves. The rebate is a demand-side complement to the Fund's existing supply-side grants (certification assistance, the paint program).
 
 ---
 #### 2.4.4 DCALS/DCLTI/Retroreflective Reporting
@@ -610,12 +649,15 @@ Dark Corridor Compliance: Elevated sections have no lighting. Enforcement by Reg
 
 ### 3.7 Industrial Corridors (New)
 
-*Concept.* New Crossroads is an atomic nation with extensive nuclear generation along the Corridon. The **Industrial Corridors** are shared, trenched utility corridors that turn two waste streams into industrial and agricultural inputs by co-locating, where suitable, a **warm-water pipeline** and a **CO₂ pipeline** along the same right-of-way, routed to the most suitable industrial land or to industrial parks pre-sited on the corridor.
+*Concept.* New Crossroads is an atomic nation with extensive nuclear generation along the Corridon, the Westflow, and other water bodies (sited on the banks for cooling). The **Industrial Corridors radiate *inland* from these riverside plants** — perpendicular to the river, not along it — carrying, where suitable, a co-located **warm-water pipeline** and **CO₂ pipeline** out to the dry uplands where the greenhouses, hemp processing, and hempcrete plants cluster, and to the Heartland fields. A riverside nuclear or WTE plant is the *head* of a corridor; the industrial land use marches *inland* from it, **off the floodplain and outside the protected river basin** (Parks Act §2.4). The corridor turns two waste streams into inputs while keeping the heavy industry away from the water.
 
-- **Warm-water pipelines (from nuclear outflow).** Rather than discharging warm cooling-return water back into the Corridon (thermal pollution), as much of the nuclear plants' **secondary-loop warm return flow** as practicable is diverted into pipelines. The water is **not radioactive** (secondary loop) and is **warm, not hot** — ideal for agriculture (frost protection, extended growing season). Piping rather than open canals **eliminates evaporation loss** — decisive in the arid plains. This both removes thermal pollution from the river and supercharges irrigation in fields and greenhouses.
+- **Warm-water pipelines — the buried cooling-outflow-as-irrigation loop.** Any society on a river withdraws water for irrigation regardless; this design **makes the reactor's cooling draw and the irrigation draw the same single withdrawal.** The plant draws cooling water from the river once; instead of discharging the warm return-flow back (thermal pollution), the **warm water becomes the irrigation supply, piped (buried) inland** to fields and greenhouses. The water is **not radioactive** (secondary loop) and is **warm, not hot** — ideal for crops (frost protection, longer season, faster hemp processing). **Burying the line (rather than an open canal) eliminates evaporation loss**, decisive in the dry interior. Net: one withdrawal used twice, zero evaporation waste, **no heat returned to the river** — the most water-efficient and thermally-cleanest form of river irrigation available.
+- **Honoring the minimum-flow law.** The cooling-and-irrigation withdrawal is bound by the **minimum environmental flow established as law** (Parks Act §2.5): in a drought, withdrawals are curtailed before the river's protected in-stream flow is breached — the ecological minimum always wins. With the headwater glaciers recharging (wind-sited reservoirs, Parks §4.3) and the wetlands restored as natural storage, this floor should rarely bind, but it is the backstop that keeps the loop honest.
 - **CO₂ pipelines (from coal/WTE).** Captured CO₂ from coal and waste-to-energy generation (Energy Act 4.2) is piped along the corridor to greenhouses (CO₂ enrichment) and to **CO₂-cured hempcrete plants** (Housing Act / Industry Act) — the curing process consumes the captured CO₂, closing the loop.
-- **What clusters on the corridors (Industry Act):** high-tech greenhouses (the 30,000 ha cluster on CO₂ + warm water), hemp-processing plants, hempcrete plants, and CO₂-processing (carbonate aggregates, CO₂-to-fuels). Generation that *feeds* the corridors — nuclear, coal, WTE — is sited on them where feasible (Energy Act 4.2).
-- **Flexible, not rigid.** A corridor may carry **both** pipelines, **warm-water only**, or **CO₂ only**. Regions with only one still build along whatever pipeline they have. **Heartland Plains is agricultural prairie — it receives an irrigation (warm-water) pipeline only, no CO₂** (field crops, not greenhouse/processing clusters). Every hemp-heavy region receives a pipeline. Industrial policy **steers** development to the corridors through incentives; a plant or greenhouse may still be built off-corridor where genuinely needed — the corridors are a preference, not a mandate.
+- **Geothermal ties in CO₂-only.** Where geography offers it, **geothermal plants need not sit beside a reactor** — they have no warm-water cooling outflow to contribute, so they **tie a CO₂ pipeline into the corridor on their own** (CO₂-only corridor segment). So a corridor may originate at a riverside nuclear+WTE head (warm water + CO₂) or at an inland geothermal source (CO₂ only).
+- **What clusters on the corridors (Industry Act):** high-tech greenhouses (the 30,000 ha cluster on CO₂ + warm water), hemp-processing plants, hempcrete plants, and CO₂-processing (carbonate aggregates, CO₂-to-fuels). Generation that *feeds* the corridors — nuclear, coal, WTE — anchors the riverside heads; geothermal anchors inland CO₂-only segments (Energy Act 4.2).
+- **Flexible, not rigid.** A corridor may carry **both** pipelines, **warm-water only**, or **CO₂ only**. Regions with only one still build along whatever pipeline they have. **Heartland Plains is agricultural prairie — it receives a buried irrigation (warm-water) pipeline only, no CO₂** (field crops, not greenhouse/processing clusters). Every hemp-heavy region receives a pipeline. Industrial policy **steers** development to the corridors through incentives; a plant or greenhouse may still be built off-corridor where genuinely needed — the corridors are a preference, not a mandate.
+- **Basin crossings.** Where a corridor or pipeline must cross a riparian or wetland zone of the protected basin (Parks §2.4), it does so only at a **defined, buffered, DCALS-compliant crossing** (like the land bridges, §4.1) — so the inland corridors connect to the riverside plants without fragmenting the protected blue line.
 - **Corridor land-tax holiday (DCALS-contingent).** A plant built on a corridor pays **no commercial land tax until its construction cost is recovered**; a greenhouse pays none **until it recovers its construction cost or its lease-to-own purchase price.** The holiday is a **uniform national industrial-policy exemption** (available to anyone who builds on a corridor and complies) and is **contingent on DCALS compliance** (§2.4.1) — so the same incentive that steers clustering also buys dark-corridor wildlife protection. After recovery, full cost-of-service commercial land tax resumes. *(This is distinct from the below-cost poaching breaks prohibited by the Municipal & Regional Funding Act §2.3: it is a defined, uniform, time-limited national exemption, not a discretionary municipal sweetheart deal — see that act's corridor carve-out.)*
 - **Resilience note.** Concentrating generation, chemical processing, and greenhouses in shared corridors is efficient (shared trenching, waste-stream reuse, zero evaporation) but concentrates risk, which trades against the distributed-antifragility ethos of the Energy Act; corridor siting balances the two, and corridors crossing or near dark wildlife corridors carry the DCALS lighting treatment so the industrial and ecological corridors coexist.
 
@@ -1072,4 +1114,4 @@ When the next generation drives across the Heartland Plains on a dark, elevated 
 That is the Infrastructure Act.
 
 ---
-**End of Draft 2.4**
+**End of Draft 2.5**
