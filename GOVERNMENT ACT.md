@@ -1,17 +1,7 @@
----
-title: "Crossroads Government and Constitutional Structure Act of 2025"
-draft: "4.18"
-date: "2026-06-27"
-author: "Thunderfish2"
-repository: "crossroads-monetary-act"
-description: "The constitutional backbone of New Crossroads: a USA-modeled federal structure with a territorial chamber (Regional Boards) and a sectoral chamber (National Assembly), an executive Central Council, an independent Supreme Court, independent regulatory boards, independent special-prosecutor auditors, and citizen lawmaking. Companion to all sector acts."
-supersedes: "Draft 4.17 — added the USA-modeled structure overview (territorial + sectoral chambers); special auditors rebuilt as independent special prosecutors; consolidated Governing Bodies & Domains reference (NEB, NHB, NLC, new National Communications Board) with staff and funding; dual-sector grandmaster roles highlighted (one sits on the SAP); CWD replaced by PPK/CED; BWC fiat (metal backing removed); references updated to Monetary 9.5 / Credit Union 5.4 and aligned to Healthcare 6.5 / Education 2.2 / Military 1.7 figures."
----
-
-# Crossroads Government and Constitutional Structure Act of 2025: Draft 4.18
+# Crossroads Government and Constitutional Structure Act of 2025: Draft 4.20
 
 **Posted to r/Bulwarkomics**
-**Draft:** 4.18 | **Date:** June 27, 2026
+**Draft:** 4.20 | **Date:** June 30, 2026
 **Author:** Thunderfish2
 
 > **Cross-reference.** Companion to the **Monetary Act 9.5**, **Credit Union Act 5.4**, and all sector acts (Healthcare 6.5, Education 2.2, FCL 3.2, Parks 3.2, Communications 4.2, Infrastructure 2.3, Military 1.7, Energy, Utilities, Industry, Housing). The currency is fiat (BWC, no metal backing). Identity and voting use the citizen-held **PPK**; pseudonymized economic data uses the **CED**; the two join only via the warranted Judicial Link Box (Monetary §5). There is no CWD.
@@ -47,15 +37,15 @@ Ten sectors anchor the economy and governance: Industry & Infrastructure, Health
 
 - **Regional:** masters coordinate ~$22.625B loans/region. Loan allocation is by creditworthiness and productive use, not sector quotas. The 2025 baseline (~65% co-op, 15% corporate, 20% informal) is descriptive, not prescriptive. Sector councils (50 masters/sector/region, elected by 10,000 masters) draft proposals (3-month review, recorded via the **CED** for economic matters and the **PPK** for member identity). A 51% master vote (100,000/200,000) submits to Regional Boards.
 - **Federal:** grandmasters propose laws for 94M voters every 5 years (6/10 vote, 12-month vetting).
-- **Cross-Sector Masters:** 1 million (50,000/region), vote in 2 sectors (15% cap, ~705,000/4.7M voters/region/sector).
+- **Cross-Sector Masters:** 1 million (50,000/region), credentialed in more than one sector; vote in **any 2 of their credentialed sectors**, chosen per election cycle (not fixed to the first 2 earned, and not uncapped) (15% cap, ~705,000/4.7M voters/region/sector).
 
-**Voting:** ~4.7M voters/region (94M total; adjusted 6.5M Corridon, 3M Frostpeak/Ember) vote for 10 masters/sector every 5 years (biennial cycles; ~235,000 co-op votes: 1 vote/1,000 employees, 5% cap). Dropouts vote for wildcards and credit-union/FCL boards. Juniors vote for FCL boards if members. By 2075, 109M voters.
+**Voting:** ~4.7M voters/region (94M total; adjusted 6.5M Corridon, 3M Frostpeak/Ember) vote for 10 masters/sector every 5 years (biennial cycles; ~235,000 co-op votes: 1 vote/1,000 employees, 5% cap). Every citizen — dropouts included — casts the same universal Wildcard Vote (§2.1); dropouts hold no Sector Vote (they are not credentialed in a sector), but retain the Wildcard Vote and votes on credit-union/FCL boards on identical terms to any credentialed citizen. Juniors vote for FCL boards if members. By 2075, 109M voters.
 
 #### 1.1.1 Master Nominations and Elections
 
-- **Masters:** 13M journeymen nominate 10 candidates/sector/region (10% endorsement), elect 10,000/sector/region via 51% vote (~4.7M voters/region, blockchain-secured, eligibility verified by PPK zero-knowledge proof). 30-day campaigns, 10 BWC credits (~$850M/year).
-- **Grandmasters:** 2,000 masters/sector nominate 3 candidates, elect 1 via 51% vote.
-- **Sectoral Nominating Panels (SNPs):** 9 sectors (180 panels, 9/region), 15 masters/SNP, opt-in lottery (Treasury lottery, 51 staff/region). Nominate 2 candidates via 51% vote (FCL revenue $100,000+). 3-month deliberation, 15-day runoffs, Legal & Judiciary disputes.
+- **Masters:** 13M journeymen nominate candidates/sector/region in two stages — a **sequential filing period** (candidates file in order, each publicly logged before the next opens) followed by a **simultaneous filing period** (remaining slots open to all at once) — with the field ranked by final endorsement % and the **top 10 advancing** per sector/region (10% endorsement floor to qualify). Voters (~4.7M/region, blockchain-secured, eligibility verified by PPK zero-knowledge proof) then elect **10/sector/region** via 51% vote (**runoff** between the top two if no candidate reaches 51% — §2.3); this is the Regional Board's 10 sector seats (§3.1). 30-day campaigns, 10 BWC credits (~$850M/year). *(The broader 10,000 masters/sector/region who elect the 50-member Sector Councils, §1.1, are a separate, later-stage credentialed layer — not the output of this election.)*
+- **Grandmasters:** **20,000 masters/sector** nominate 3 candidates, elect 1 via 51% vote (**runoff** between top two if no majority — §2.3). Recallable by the same 20,000-master electorate via **2/3 supermajority** (§5).
+- **Sectoral Nominating Panels (SNPs):** 9 sectors (180 panels, 9/region), 15 masters/SNP, opt-in lottery (Treasury lottery, 51 staff/region). Nominate 2 candidates via 51% vote. **Eligibility (broadened):** FCL revenue $25,000+ (lowered from $100,000+), **or** 5 years documented sector tenure, **or** peer nomination by petition of 500 journeymen/masters in the sector — three independent paths onto the panel, so participation isn't gated on capital alone. 3-month deliberation, 15-day runoffs, Legal & Judiciary disputes.
 - **Funding:** ~$500M/year (councils, elections), ~$463M/year (SNPs/REAs/RHAs), ~$150M/year (blockchain/PPK-CED systems), ~$850M/year (BWC credits), from the SWF.
 
 ### 1.2 Credit Unions
@@ -68,7 +58,7 @@ Ten sectors anchor the economy and governance: Industry & Infrastructure, Health
 ### 1.3 Citizen Incorporation
 
 - 1 vote, 1 base share ($1/BWC, up to 1,000, 4–8% dividends).
-- **Dropouts:** access apprenticeship re-entry (free if voucher unused, to age 65 — Education Act 2.2); vote for wildcards and credit-union/FCL boards.
+- **Dropouts:** access apprenticeship re-entry (free if voucher unused, to age 65 — Education Act 2.2); hold no Sector Vote but retain the same universal Wildcard Vote as any citizen (§2.1), plus votes on credit-union/FCL boards.
 - **Citizen Flow Program:** ~$15B SWF-funded campaign educates the population on elections, governance, fraud prevention, and sustainability via AM radio, TV, and internet; managed by the Governance Training Program; program metrics tracked via the CED (pseudonymized).
 
 ### 1.4 Auto-Incorporation at Age 20 (Clarified)
@@ -101,7 +91,7 @@ Licensed trades require Education Act credentials (journeyman/master/grandmaster
 
 ### 2.1 Overview — Two Votes per Citizen
 
-Every citizen aged 20+ receives **two votes**: a **Sector Vote** (1 citizen = 1 vote, following your sector of employment) and a **Wildcard Vote** (1 citizen = 1 vote, for at-large wildcard representatives). Cross-sector masters vote in both their sectors (2 sector votes + 1 wildcard = 3 total); grandmasters vote in all sectors where they hold grandmaster status.
+Every citizen aged 20+ receives **two votes**: a **Sector Vote** (1 citizen = 1 vote, following your sector of employment) and a **Wildcard Vote** (1 citizen = 1 vote, for at-large wildcard representatives). The Wildcard Vote is universal and unconditional — every citizen holds it regardless of sector-credential status; a dropout, who holds no Sector Vote, casts the same Wildcard Vote as any credentialed citizen (§1.1, §1.3). Cross-sector masters vote in any 2 of their credentialed sectors, chosen per cycle (2 sector votes + 1 wildcard = 3 total — §1.1); grandmasters vote in all sectors where they hold grandmaster status.
 
 ### 2.2 Who Votes for What
 
@@ -109,9 +99,9 @@ Every citizen aged 20+ receives **two votes**: a **Sector Vote** (1 citizen = 1 
 | :--- | :--- | :--- |
 | Sector masters (Regional Board) | ~4.7M voters/region | 1 (sector vote) |
 | Wildcards (Regional Board, Central Council) | 94M voters | 1 (wildcard vote) |
-| Regional Board members (internal elevation) | Masters only | 1 (internal) |
+| Regional Board members (internal elevation) | Masters and wildcards, equally | 1 (internal) |
 | Central Council members | Regional Board masters (200) | 1 (internal) |
-| National Assembly grandmasters | 2,000 masters/sector | 1 (internal) |
+| National Assembly grandmasters | 20,000 masters/sector | 1 (internal) |
 | Credit union / FCL boards | Members | 1 member, 1 vote |
 
 **Co-op additional votes:** a co-op casts 1 additional vote per 1,000 employees, capped at 5% of total votes in any election, exercised by an elected member representative. *Rationale:* co-ops are member-owned; this recognizes economic weight without letting large co-ops dominate (a 5,000-employee co-op gets 5 votes — 0.0001% of a regional electorate).
@@ -119,6 +109,10 @@ Every citizen aged 20+ receives **two votes**: a **Sector Vote** (1 citizen = 1 
 **BWC credit per vote:** ~10 BWC, targeting ~90% turnout.
 
 **Asymmetric scrutiny:** voting records are private and held in the **PPK**. The system records (by zero-knowledge proof) only *whether* a citizen voted — never *how*. Cash voting credits are untaxed and untracked. No voting data ever enters the CED.
+
+### 2.3 System-Wide Runoff Rule
+
+Any election in this Act (or a companion act) requiring a 51% majority is subject to a single standard rule: if no candidate reaches 51% on the first ballot, the top two candidates by vote share proceed to a **runoff**, decided by simple plurality between the two. This applies uniformly — master elections, grandmaster elections, Central Council elections, chairman elections, and any other 51%-threshold vote — rather than being restated separately at each layer. Runoffs are held on the same eligibility and verification terms (PPK zero-knowledge proof) as the first ballot, within 30 days unless a companion act specifies otherwise.
 
 ---
 
@@ -128,9 +122,9 @@ Every citizen aged 20+ receives **two votes**: a **Sector Vote** (1 citizen = 1 
 
 Each of 20 regions (e.g., Region 1: Crossroads City/Corridon, 6.5M voters; Region 3: North Valley City/Frostpeak, 3.5M voters) has an **11-member Board (220 total)**. Regional Boards are the **primary state legislatures** for their regions *and* the nation's **territorial upper body**.
 
-- **Election:** ~4.7M voters/region elect 10 masters every 5 years; 94M elect 20 wildcards annually (~$1.5B mobilization, ~$850M/year BWC credits). 5-year terms (masters), 1-year (wildcards).
-- **Wildcard Powers:** propose 1 resolution/meeting (e.g., $500M informal co-ops), requiring 6/11 approval; resolve tied votes; chair quarterly forums (~$20M/year).
-- **Chairman:** elected annually by 6/11 vote (masters only).
+- **Election:** ~4.7M voters/region elect 10 masters every 5 years; 94M elect 20 wildcards every 2 years (~$1.5B mobilization, ~$850M/year BWC credits). 5-year terms (masters, **maximum 3 consecutive terms — 15 years — then term-limited**); 2-year terms (wildcards, no term limit — the short cycle is intentional: the wildcard seat is the system's designed pressure-release valve, not a bug in the term-length math).
+- **Wildcard Powers:** propose 1 resolution/meeting (e.g., $500M informal co-ops), requiring 6/11 approval; resolve tied votes; chair quarterly forums (~$20M/year); votes on all Board business on identical terms to a sector master (§2.2) — no reduced or advisory-only vote.
+- **Chairman:** elected annually by 6/11 vote of the full Board — all 11 members, including the wildcard, vote equally.
 - **Regional (state-legislature) Governance:** manage ~$22.625B loans/region (audited via the CED); oversee regional **police, education, and healthcare**; conduct **biannual credit-union audits** of the 250 credit unions per region (per Credit Union Act 5.4), reports to the Central Council and published publicly.
 - **National (territorial-chamber) Powers:** approve Central Council appointments (11/20); nominate Supreme Court justices (7 seats) for Assembly confirmation; **override vetoes and emergency powers (15/20 vote)**.
 
@@ -141,9 +135,9 @@ Each of 20 regions (e.g., Region 1: Crossroads City/Corridon, 6.5M voters; Regio
 
 ### 3.3 Central Council (The Executive)
 
-- **Election:** the 200 regional masters of the Regional Boards elect 10 masters (101/200); elected members must be confirmed by the National Assembly (6/10) before taking office. 94M elect 1 wildcard annually. 5-year terms, one-term limit.
-- **Chairman:** elected by 6/11 (2-year term, masters only).
-- **Appointment Power:** appoint 510 department staff, 200 judges, 3 SAP arbiters, 3 NEC directors, and the experts/chairs of the independent boards (6/11 vote, 11/20 Boards confirm).
+- **Election:** the 200 regional masters of the Regional Boards elect 10 masters (101/200); elected members must be confirmed by the National Assembly (6/10) before taking office. 94M elect 1 wildcard every 2 years. 5-year terms (masters, one-term limit), 2-year term (wildcard, no term limit). Runoff applies if no candidate reaches the governing threshold on the first ballot (§2.3).
+- **Chairman:** elected by 6/11 (2-year term) — all 11 Council members, including the wildcard, vote equally.
+- **Appointment Power:** appoint 510 department staff, 200 judges, 9 SAP arbiters (3 panels of 3 — §3.6), 3 NEC directors, and the experts/chairs of the independent boards (6/11 vote, 11/20 Boards confirm).
 - **Veto Power:** block Assembly/Board decisions with a 6/11 vote (7 days). **Subject to override by 15/20 Regional Boards** (or SAP appeal). *(This is the standard veto-override procedure referenced by other acts, e.g., the Military Act's arms/aerospace export veto.)*
 - **Emergency Powers:** NEC activation (6/11, 90 days) or chairman action (30 days, >10% GDP crises), reviewed by 15/20 Boards.
 - **Operations:** 9/11 quorum, ~$500M ops, audited by the Special Auditors via the CED.
@@ -151,12 +145,12 @@ Each of 20 regions (e.g., Region 1: Crossroads City/Corridon, 6.5M voters; Regio
 ### 3.4 National Assembly (The Sectoral Chamber)
 
 - **Composition:** 10 grandmasters (1/sector).
-- **Election:** 2,000 masters/sector elect 1 grandmaster (51%). 5-year terms, one-term limit. Not recallable (the term limit is the accountability mechanism).
+- **Election:** 20,000 masters/sector elect 1 grandmaster (51%; **runoff** between top two if no majority — §2.3). 5-year terms, one-term limit. **Recallable** by the same 20,000-master electorate via **2/3 supermajority** (§5) — the term limit and the recall are both accountability mechanisms, not alternatives to each other.
 - **Chairman:** elected by 6/10 (3-year term); sets the agenda, presides over hearings, represents the Assembly in the EGA.
 
 **Functions:**
 - **Law Proposal:** propose laws for 94M voters every 5 years (6/10), 12-month vetting, explanatory materials published publicly; referenda pass by simple majority.
-- **Confirmation Powers:** confirm Central Council masters (6/10; rejected candidates replaced by Boards within 60 days); confirm regional judges (6/10); confirm Supreme Court justices (6/10, 7/10 for chief justice, with public hearings).
+- **Confirmation Powers:** confirm Central Council masters (6/10; rejected candidates replaced by Boards within 60 days); confirm regional judges (6/10); confirm Supreme Court justices (6/10, 7/10 for chief justice, with public hearings). **Deadlock rule:** if a nominating body's first 3 nominees for a given seat are each rejected, the confirming body must confirm one of those 3 within 1 week of the third rejection — no seat may sit vacant indefinitely on repeated rejection (§5).
 - **Advisory Role:** advise on tariffs, infrastructure, SWF allocations via formal resolutions (6/10).
 - **Oversight Hearings:** by 6/10 vote, summon any Central Council member, NEC directors, the commissioners of the independent boards, any department head, SAP arbiters, national/regional CLS directors, and Supreme Court justices (for conduct/impeachment). The Assembly may compel testimony under oath, compel documents, issue public reports, and censure officials. Refusal to appear → referral to the SAP for a binding resolution; continued refusal → grounds for removal by the appointing authority. Hearings may not interfere with judicial proceedings, certified national-security matters, or individual credit-union disputes.
 - **Annual State of the Nation:** the Central Council Chairman reports annually to the Assembly on the SWF, revenue, the loan portfolio, and major projects (public via media).
@@ -185,13 +179,14 @@ When activated, every new law passed by referendum requires two existing laws to
 
 A **dual-sector grandmaster** holds grandmaster status in two economic sectors. Their constitutional role is to **bridge two sectoral constituencies** — they vote in both their sectors and speak in the Assembly to cross-domain matters that a single-sector grandmaster cannot (e.g., a Health + Defense/Tech grandmaster on medical AI or biosecurity; a Co-op + Treasury grandmaster on the FCL waterfall's fiscal effect). They are the legislature's cross-cutting integrators, preventing the sectoral chamber from siloing.
 
-**A dual-sector grandmaster sits on the Special Arbiter Panel (§3.6)** — the cross-domain perspective is precisely what deadlock-resolution requires, ensuring the SAP is never captured by a single sector's view.
+**A dual-sector grandmaster sits on the Special Arbiter Panel (§3.6)** — each of the SAP's 3 panels includes at least one dual-sector master or grandmaster, so the cross-domain perspective is present on whichever panel a dispute randomly draws, not just on a single panel that could itself be captured by one sector's view.
 
 ### 3.5 National Emergency Council (NEC)
 3 directors, appointed by Central Council (6/11, 3-year term). 90-day emergency powers (e.g., Corridon flooding), 30-day action for >10% GDP crises, with authority to redirect SWF and loan resources. Funding: SWF-backed contingency, ~$5B/year plans, tracked via the CED. Reviewed by 15/20 Boards.
 
 ### 3.6 Special Arbiter Panel (SAP)
-3 arbiters, appointed by the CJC (6/10, 5-year term), **including at least one cross-sector (dual-sector) master or grandmaster** (§3.4.5). Resolves deadlocks (e.g., agro tariffs), advises the EGA, reviews vetoes/emergencies, enforces Assembly hearing compliance, and rules on 2-for-1 repeal disputes. Funding ~$3M/year, tracked via the CED.
+
+**9 arbiters, organized as 3 panels of 3**, appointed by the CJC (6/10, 5-year term), **each panel including at least one cross-sector (dual-sector) master or grandmaster** (§3.4.5). A deadlock referral is **mandatory binding arbitration** — the referring parties do not opt in and cannot decline — resolved by a panel **randomly assigned per case** (preventing forum-shopping toward a favorable panel). Resolves deadlocks (e.g., agro tariffs), advises the EGA, reviews vetoes/emergencies, enforces Assembly hearing compliance, and rules on 2-for-1 repeal disputes. Funding ~$9M/year (scaled 3x for the expanded panel structure), tracked via the CED.
 
 ### 3.7 Emergency General Assembly (EGA)
 21 chairmen (1 Central Council, 20 Regional Boards, 1 National Assembly). **Trigger:** 3/20 regions report co-op collapse (>20% GDP drop) or crisis. **Functions:** issue 90-day resolutions (e.g., redirect loan resources), mediated by SAP. **Safeguards:** 7/10 CJC or 15/20 Boards overturn; tracked via the CED.
@@ -248,8 +243,8 @@ The Special Auditors are rebuilt as **fully independent special prosecutors** �
 
 ## Section 5: Checks and Balances
 
-- **Recalls:** 51% masters for Regional Boards; 101/200 regional masters for the Council; 51% of 94M voters for wildcards. Grandmasters not recallable (term-limited).
-- **Confirmation Chain:** Regional Boards elect Central Council masters → Assembly confirms (6/10); Regional Boards appoint regional judges → Assembly confirms (6/10); Regional Boards nominate Supreme Court justices → Assembly confirms (6/10, 7/10 chief); Central Council appoints department staff, SAP arbiters, NEC directors, and board commissioners → Regional Boards confirm (11/20).
+- **Recalls:** every electing/nominating body may recall the official(s) it elected, by **2/3 supermajority** of that body — masters (2/3) recall Regional Board members; regional masters (2/3 of 200, i.e. ~134/200) recall Central Council members; sector masters (2/3 of the 20,000/sector electorate) recall grandmasters (§3.4); all voters (2/3 of 94M) recall wildcards. The supermajority standard is uniform across all recall votes, replacing the prior simple-majority figures.
+- **Confirmation Chain:** Regional Boards elect Central Council masters → Assembly confirms (6/10); Regional Boards appoint regional judges → Assembly confirms (6/10); Regional Boards nominate Supreme Court justices → Assembly confirms (6/10, 7/10 chief); Central Council appoints department staff, SAP arbiters, NEC directors, and board commissioners → Regional Boards confirm (11/20). **Deadlock rule (applies to every step of this chain):** if a nominating body's first 3 nominees for a seat are each rejected, the confirming body must confirm one of those 3 within 1 week of the third rejection — no seat sits vacant on repeated rejection.
 - **Impeachment:** Assembly impeaches (7/10); Supreme Court tries executive/legislative officials; a special panel of regional judges tries Supreme Court justices.
 - **Veto/Override:** Central Council vetoes (6/11) are overridden by 15/20 Regional Boards — the standard procedure other acts reference.
 - **Independent policing:** the Special Auditors (§4.3) can investigate and charge anyone, including the officials above, checked only by the judiciary.
@@ -260,8 +255,8 @@ The Special Auditors are rebuilt as **fully independent special prosecutors** �
 
 ## Section 6: Operational Cycle
 
-- **2025:** ~4.7M voters/region elect 2M masters, 20 wildcards, 10 Assembly grandmasters, 11 Council members (Assembly-confirmed); Regional Boards nominate and Assembly confirms 7 Supreme Court justices; credit-union boards oversee loans; CLS mentors FCLs and monitors economic-health indicators; Council approves NEB energy investments.
-- **2026–2029:** Boards manage regional loans and exercise state-legislature functions (police, education, healthcare oversight, credit-union audits); wildcards propose resolutions; Council oversees revenue and the SWF; Assembly proposes laws, conducts oversight hearings, confirms appointments, and receives the State of the Nation; NEC/SAP handle crises/deadlocks.
+- **2025:** ~4.7M voters/region elect 2M masters, 20 wildcards (2-year terms), 10 Assembly grandmasters, 11 Council members (Assembly-confirmed); Regional Boards nominate and Assembly confirms 7 Supreme Court justices; credit-union boards oversee loans; CLS mentors FCLs and monitors economic-health indicators; Council approves NEB energy investments.
+- **2026–2029:** Boards manage regional loans and exercise state-legislature functions (police, education, healthcare oversight, credit-union audits); wildcards (re-elected every 2 years) propose resolutions; Council oversees revenue and the SWF; Assembly proposes laws, conducts oversight hearings, confirms appointments, and receives the State of the Nation; NEC/SAP handle crises/deadlocks.
 - **2030:** first mandatory Assembly law + first citizen-initiated laws on the national ballot; 2-for-1 rule not yet active unless triggered; 94M vote on laws and new masters; cycle repeats.
 - **2035:** first automatic decennial 2-for-1 cycle.
 - **2075 onward:** full system operational; 109M voters; SWF at its 12%-of-GDP cap.
@@ -276,7 +271,7 @@ The Special Auditors are rebuilt as **fully independent special prosecutors** �
 - **Revenue:** ~$725–750B (Consolidated Fiscal Model). *(Supersedes the prior internally inconsistent $601.58B / $1.6127T figures.)*
 - **Loans:** ~$452.5B → ~$1.2084T.
 - **Credit Unions:** 5,000.
-- **Governance:** 20 Regional Boards (220 members), 10 National Assembly grandmasters, 11 Central Council members, 200 regional judges, 7 Supreme Court justices, 510 department staff, 4 independent boards (NEB/NHB/NLC/NCB), 50–75 independent Special Auditors.
+- **Governance:** 20 Regional Boards (220 members), 10 National Assembly grandmasters, 11 Central Council members, 200 regional judges, 7 Supreme Court justices, 510 department staff, 4 independent boards (NEB/NHB/NLC/NCB), 50–75 independent Special Auditors, 9 SAP arbiters (3 panels of 3).
 - **Currency:** fiat BWC (no metal backing); data architecture PPK + CED (no CWD).
 
 ---
@@ -295,6 +290,8 @@ The Special Auditors are rebuilt as **fully independent special prosecutors** �
 - **FCL:** Federated Cooperative Limited.
 - **SWF:** Sovereign Wealth Fund — capped at 12% of GDP.
 - **CLS:** Crossroads Loan Service — embedded, demand-distributed credit-union loan officers.
+- **Runoff Rule (§2.3):** if no candidate reaches a 51% threshold on the first ballot, the top two proceed to a runoff decided by plurality; applies to every 51%-threshold election in this Act.
+- **SAP (Special Arbiter Panel, §3.6):** 9 arbiters organized as 3 randomly-assigned panels of 3; deadlock referral is mandatory binding arbitration, not opt-in; each panel includes at least one dual-sector master or grandmaster.
 
 ---
 
@@ -312,8 +309,12 @@ New Crossroads takes the American architecture — separated powers, two legisla
 
 - **Cross-cutting minds resolve deadlocks.** The dual-sector grandmasters — those who have mastered two trades — bridge the silos and sit where disputes are settled.
 
+- **Every mandate has an end and a recall.** Sector masters serve at most 15 years; every body that elects an official can also remove that official by supermajority — including, now, the grandmasters, whose term limit was once their only check. No office is accountable only to the calendar.
+
+- **Every stalemate has a deadline.** A confirming body that rejects three nominees in a row must seat one of them within a week — no seat sits vacant on repeated rejection. A legislative or regulatory deadlock does not wait for the parties to agree to resolve it; it is referred, automatically, to binding arbitration before a randomly assigned panel. Disagreement is expected; permanent paralysis is not.
+
 Place and trade, executive and court, regulator and prosecutor — separated, balanced, and watched. That is the government of New Crossroads.
 
 ---
 
-**End of Draft 4.18**
+**End of Draft 4.20**
