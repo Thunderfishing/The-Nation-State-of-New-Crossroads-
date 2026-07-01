@@ -45,16 +45,14 @@ No binding sector quotas apply. Sector splits are descriptive baselines, not enf
 - **Audits:** system auditors + AI fraud detection, fraud cap, tracked via the **CED** (pseudonymized; no identity).
 - **Data:** PPK holds student identity, credentials, and records; the CED holds only pseudonymized economic flows (voucher value, stipend value). School performance data is published in aggregate.
 
-*(The former "BWC Reserve ETF" financial-literacy reference is updated to the Citizens' Metals ETF as an investment example; there is no reserve-backing mechanism.)*
-
 ---
 
 ## Section 3: Education Framework
 
 ### 3.1 Curriculum & the Schoolâ†’Apprenticeship Flip
 
-- **Ages 5-11 (Elementary):** reading, writing, mathematics, history, physical education, art, music, classical education (grammar, logic, critical thinking), fostering love of learning.
-- **Ages 12-15 (Middle):** advanced core subjects, financial literacy, digital literacy (AI, blockchain, cybersecurity), classical education (logic, rhetoric), and talent identification via project-based learning. Region-specific and interdisciplinary modules added periodically by the NLC with Regional Board input; an equity fund prioritizes rural regions. *(A student cannot legally leave education before age 15.)*
+- **Ages 5-11 (Elementary):** reading, writing, mathematics, history, physical education + two 15 minute unsupervised recesse, art, music, classical education (grammar, logic, critical thinking), fostering love of learning.
+- **Ages 12-15 (Middle):** advanced core subjects, financial literacy, digital literacy (AI, blockchain, cybersecurity), classical education (logic, rhetoric), physical education, and talent identification via project-based learning. Region-specific and interdisciplinary modules added periodically by the NLC with Regional Board input; an equity fund prioritizes rural regions. *(A student cannot legally leave education before age 15.)*
 
 - **Age 16 (Exploration Year):** the year of choosing.
   - Begins with **aptitude tests** and a **two-week observation rotation** across multiple fields, so students pick a path from informed exposure rather than blind guesswork.
@@ -67,11 +65,12 @@ No binding sector quotas apply. Sector splits are descriptive baselines, not enf
   - **Military:** cybersecurity, drone operations, military intelligence, at specialized institutes.
   - **Police:** vocational module (Act 3.7).
 
-- **Ages 19-20 (Mandatory Service â€” Credentialing, the FLIP):** the ratio inverts. **Full-time apprenticeship all year**, mentored by masters at co-op institutions (clinics, FCLs, tech firms), with **only ~3 weeks/year back at school for testing and credentialing.** Participants run on **workforce hours** (the host site's schedule), not school hours. Men complete a 3-month combat boot camp; women may opt in (Â§4).
+- **Ages 19-20 (Mandatory Service - Credentialing, the FLIP):** the ratio inverts. **Full-time apprenticeship all year**, mentored by masters at co-op institutions (clinics, FCLs, tech firms), with **only ~3 weeks/year back at school for testing and credentialing.** Participants run on **workforce hours** (the host site's schedule), not school hours. Men complete a 3-month combat boot camp; women may opt in (Â§4).
 
-- **School start time:** for **ages 16-18, the classroom portion begins at 10 AM**, reflecting adolescent sleep needs. **The apprenticeship portion is excluded** â€” apprenticeships run on the host workplace's hours. The 19-20 full-time apprenticeship runs entirely on workforce hours.
+- **School start time:** for **ages 16-18, the classroom portion begins at 10 AM**, reflecting adolescent sleep needs. **The apprenticeship portion is excluded** - apprenticeships run on the host workplace's hours. The 19-20 full-time apprenticeship runs entirely on workforce hours.
 
-**The training timeline this produces (example: doctor):** part of age 16 (exploration into medicine) + ages 17, 18 (school-primary credentialing) + ages 19, 20 (full-time clinical apprenticeship) â‰ˆ **4+ solid years of training by age 20.** A journeyman doctor arriving at a hospital at 20 therefore needs only **~2 more years under master/grandmaster supervision** to reach full credential â€” front-loaded training means short on-the-job supervision. The same front-loading applies across all trades.
+**The training timeline this produces (example: doctor):** part of age 16 (exploration into medicine) + ages 17, 18 (school-primary credentialing) + ages 19, 20 (full-time clinical apprenticeship)
+**4+ solid years of training by age 20.** A journeyman doctor arriving at a hospital at 20 therefore needs only **~2 more years under master/grandmaster supervision** to reach full credential - front-loaded training means short on-the-job supervision. The same front-loading applies across all trades.
 
 ### 3.2 School Governance: Hybrid FCL Model
 
@@ -116,7 +115,7 @@ Co-op clubs (sports, arts, recreation) integrate into school governance with boa
 
 - Policing is a standard blue-collar vocational trade on the journeymanâ€“masterâ€“grandmaster ladder, identical to all skilled trades. **No college degree or external certification** may be required or weighted in hiring, promotion, or credentialing.
 - **Secondary module (16-18):** optional police vocational module within career-path specialization, with 3 weeks/year hands-on apprenticeship; journeyman-eligible credit hours tracked via PPK.
-- **Mandatory service (19-20):** police track counts as a full apprenticeship; completed in the participant's home municipality â€” 3-month boot camp + 21 months street apprenticeship under a Master Sergeant; **$12,000/year vocational stipend**; automatic **Journeyman Patrol Officer** credential at 20 with full powers, $50 BWC wallet, and 1 base share.
+- **Mandatory service (19-20):** police track counts as a full apprenticeship; completed in the participant's home municipality, 3-month boot camp + 21 months street apprenticeship under a Master Sergeant; **$12,000/year vocational stipend**; automatic **Journeyman Patrol Officer** credential at 20 with full powers, $50 BWC wallet, and 1 base share.
 - **Progression:** identical merit-based journeyman â†’ master â†’ grandmaster ladder, metrics tracked via PPK/CED.
 
 ---
