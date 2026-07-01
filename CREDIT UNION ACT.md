@@ -1,40 +1,11 @@
----
-title: "Crossroads Credit Union Act of 2025"
-draft: "5.6"
-date: "2026-06-29"
-author: "Thunderfish2"
-repository: "crossroads-monetary-act"
-description: "Companion legislation to the Monetary Act 9.6. Fiat credit-union network, preserving all structural detail: a member-owned credit union network (~5,000, chartered by population/deposits with ≥3-catchment coverage), BWC money creation under a 10% reserve requirement, the Citizens' Metals ETF as citizen investment, demand-distributed CLS loan officers as a money-creation brake, a monthly BWC Purchasing Power Index, reference-rate-anchored loan and deposit rates, uninsured special shares (equity) on a 7/6/5-then-standardized-premium schedule with a 3-year lock-up and a national secondary market, local-priority primary issuance, professionalized boards with field-of-economy expertise and deposit-scaled compensation, residency-locked control (base shares and voting), mutual liquidity/solvency backstops with automatic crisis stabilizers, and a surgical CLS-administered debt jubilee."
-supersedes: "Draft 5.5. 5.6 reworks the special-share market: the secondary market goes national (was local), primary issuance gains a 30-day local-priority window then a national remainder, a 3-year sale lock-up is added (redemption valve stays open), the steady-state premium is standardized to reference + 2%, the equity/balance-sheet treatment is stated explicitly (transfer vs redemption — the two doors), and outside ownership is governed by disclosure rather than a floor. Residency (§1.5) is re-scoped to govern base shares and voting only."
----
-
 # Crossroads Credit Union Act of 2025: Draft 5.6
 
-Posted to r/Bulwarkomics
 Draft: 5.6 | Date: June 29, 2026
 Author: Thunderfish2
 
 **Cross-reference.** Companion to the Monetary Act 9.6. The DLB, the base-money issuance anchor (§1.5), the Reference Rate Anchor (§1.5A), the Crisis-Management & Automatic-Stabilizer section (§1.8), the Informal Economy Guarantee, the Two-Layer Velocity Architecture, and the PPK/CED data architecture are governed by that act. Loan and deposit rates here are plain nominal rates set within system bands around the reference rate defined in Monetary Act §1.5A — reset when the reference rate is republished. There is no BAR or DAI; those were removed in the fiat conversion.
 
 **Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values.
-
----
-
-## Amendment note — Draft 5.6
-
-Draft 5.6 keeps every structural element of 5.5 and changes only the special-share market and the residency rule it depended on. Explicit changelog (so nothing is silently dropped):
-
-**Special-share market (the focus of this revision — §3.2, §3.3).**
-- **Secondary market goes national.** Existing special shares (past lock-up) trade nationwide; any citizen may buy or sell. The 5.5 "local CUSM" is retired — a small-town buyer pool was the binding constraint, and a national pool dissolves it.
-- **Primary issuance becomes a waterfall.** On a new series, the issuing credit union's field of membership gets a **30-day local-priority window at par**; whatever the community does not subscribe then lists on the **national market, also at par**. Priority, not exclusion — the window is a minimum a board may not shorten, with advance notice and in-branch/in-wallet posting so residents get the full window.
-- **Three-year sale lock-up.** A share may not be sold on the secondary market for its first 3 years — exactly its 7/6/5 step-down period (locked as long as it pays above the steady rate). The **redemption valve** (the $500/BWC/yr withdrawal cap) stays open throughout as the hardship exit.
-- **Standardized premium.** The steady-state dividend is fixed at **reference + 2%** (replacing 5.5's "reference + ~1.5–2%, board-set" band). Because it floats and resets uniformly, every post-lock-up share pays one identical coupon, so the market prices only **credit risk**, not yield.
-- **Two doors, made explicit.** A **transfer** (sale to another holder) leaves the credit union's balance sheet untouched — only the share register changes. A **redemption** (sale back to the credit union) reduces capital and is the capped door.
-- **Equity treatment, stated on its face.** Special shares are equity (capital), subordinate to all depositors, loss-absorbing; dividends are payable only from available earnings and skipping one is **not a default**; capital is distinct from the 10% liquidity reserve. Member-held and investor-held shares are shown as separate balance-sheet sub-lines.
-- **Disclosure, not a floor.** Each credit union publishes its local-vs-national special-share equity split; there is **no cap** on outside ownership.
-
-**Residency re-scoped (§1.5).**
-- The residency lock now governs **base shares and voting only**. Special shares are **local-priority on issue, then freely held and traded nationally** — the 5.5 hard lock on special-share investment is replaced. The relocation/grandfather rule now applies to base shares only.
 
 **Companion/version.** Companion updated to Monetary Act 9.6.
 
