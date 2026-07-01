@@ -7,15 +7,11 @@ Author: Thunderfish2
 
 **Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values.
 
-**Companion/version.** Companion updated to Monetary Act 9.6.
-
-**Cleanup.** Re-cleaned currency artifacts and reconstructed tables flattened in the source round-trip; all figures preserved.
-
 ---
 
 ## Abstract
 
-Establishes a network of member-owned credit unions — roughly 5,000 nationally, distributed by population and deposits rather than a fixed 250 per region — as New Crossroads' decentralized financial backbone. Credit unions issue and manage Bulwark Coin (BWC) as fiat money — created by lending under a 10% reserve requirement — deliver wallets and a citizen investment path through the Citizens' Metals ETF, provide reference-rate-anchored loans (~$1.2084T by 2075) and banking suites, and let every citizen-member build wealth through low-barrier entry and tiered incentives.
+Establishes a network of member-owned credit unions — roughly 5,000 nationally, distributed by population and deposits — as New Crossroads' decentralized financial backbone. Credit unions issue and manage Bulwark Coin (BWC) as fiat money — created by lending under a 10% reserve requirement — deliver wallets and a citizen investment path through the Citizens' Metals ETF, provide reference-rate-anchored loans (~$1.2084T by 2075) and banking suites, and let every citizen-member build wealth through low-barrier entry and tiered incentives.
 
 Sector loan allocation is by creditworthiness and productive use, not binding quotas. The 2025 baseline (~65% co-op, 15% corporate, 20% informal) is descriptive, not prescriptive. The system is built for asymmetric scrutiny: extreme transparency for large transactions and elite actors, complete privacy for ordinary daily life. Credit unions are the formal economy's open door to the informal sector — serving cash-based citizens on those citizens' terms, not pulling them into surveillance.
 
