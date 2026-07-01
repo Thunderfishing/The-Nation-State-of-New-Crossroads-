@@ -1,16 +1,5 @@
----
-title: "Crossroads Exchange Act of 2025"
-draft: "1.0"
-date: "2026-06-29"
-author: "Thunderfish2"
-repository: "crossroads-monetary-act"
-description: "Companion legislation to the Monetary Act 9.6, Credit Union Act 5.6, FCL Structure Act 3.2, and Industry Act 4.2. Establishes the Crossroads Exchange: a single national capital market with segregated boards (co-op investor shares, credit-union special shares, domestic corporate equity) under one anti-speculation rulebook — ownership trades, control does not; prices anchor to PPK/CED-audited value; minimum holds, daily caps, and public backstop bids dampen speculation; tranching, derivatives, shorting, and leverage are prohibited. Foreign firms are handled by the Industry Act §2.5 co-op-conversion ramp plus the CGCI channel, not a corporate listing. The Citizens' Metals ETF and the sovereign metals reserve are not listed."
-supersedes: "New act (Draft 1.0). No prior version."
----
-
 # Crossroads Exchange Act of 2025: Draft 1.0
 
-Posted to r/Bulwarkomics
 Draft: 1.0 | Date: June 29, 2026
 Author: Thunderfish2
 
