@@ -1,20 +1,9 @@
----
-title: "New Crossroads Energy Act of 2025"
-draft: "4.2"
-date: "2026-06-27"
-author: "Thunderfish2"
-repository: "crossroads-monetary-act"
-description: "Companion legislation to the Monetary Act 9.5, Credit Union Act 5.4, FCL Act 3.2, Utilities Act, Infrastructure Act 2.3, and Communications Act 4.2. A CME-proof state-owned grid with a competitive co-op-preferred generation market and 20 antifragile energy hubs (one per region)."
-supersedes: "Draft 4.1 — antifragile hubs scaled to 20 (one per region) to match the 20 mega hospitals (Healthcare 6.5); hub SMR capacity 36→56 GW, competitive nuclear 114→94 GW (total nuclear unchanged at 150 GW); communications synergy added; DAI/BAR removed (loans DLB-indexed); CWD→PPK/CED; references updated to Monetary 9.5 / Credit Union 5.4 / Infrastructure 2.3 / Communications 4.2."
----
-
 # New Crossroads Energy Act of 2025: Draft 4.2
 
-**Posted to r/Bulwarkomics**
 **Draft:** 4.2 | **Date:** June 27, 2026
 **Author:** Thunderfish2
 
-> **Amendment Note — Draft 4.2.** Antifragile hubs scaled to 20 (one per region, was 10) to match the 20 mega hospitals (Healthcare 6.5); hub SMR capacity 36→56 GW, competitive nuclear 114→94 GW (total nuclear unchanged at 150 GW). Communications synergy added (hubs back the AM emergency transmitters and mesh backbone per Communications 4.2). DAI/BAR removed (loans DLB-indexed); CWD→PPK/CED; references updated to Monetary 9.5 / Credit Union 5.4 / Infrastructure 2.3 / Communications 4.2. Domestically-mined coal/uranium for generation now generates regional royalties (Municipal & Regional Funding Act §2.5). All CME-hardening and grid technical detail preserved.
+> **Amendment Note — Draft 4.2.** 
 
 > **Cross-reference.** Companion legislation to the Monetary Act 9.5, Credit Union Act 5.4, FCL Act 3.2, Utilities Act (Draft 1.0), Infrastructure Act 2.3, and Communications Act 4.2. The asset/operator separation model follows the same pattern as the Utilities Act (state owns transmission/distribution, co-ops/corporations compete on generation).
 
