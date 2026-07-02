@@ -1,16 +1,5 @@
----
-title: "Crossroads Exchange Act of 2025"
-draft: "1.1"
-date: "2026-07-02"
-author: "Thunderfish2"
-repository: "crossroads-monetary-act"
-description: "Companion legislation to the Monetary Act 9.6, Credit Union Act 5.6, FCL Structure Act 3.2, and Industry Act 4.2. Establishes the Crossroads Exchange in two firewalled segments: a Domestic Core (co-op investor shares, credit-union special shares, domestic corporate equity) under one anti-speculation rulebook — ownership trades, control does not; audited-value pricing; minimum holds, daily caps, public backstop bids; tranching, derivatives, shorting, and leverage prohibited — and a Global Sound-Capital Segment through which foreign cooperatives, mutuals, and disciplined corporations may list by restructuring to the Crossroads rulebook and submitting to independent audit-to-standard, exporting the ethos without importing its risk. The Citizens' Metals ETF and the sovereign metals reserve are not listed."
-supersedes: "Draft 1.0. 1.1 adds the Global Sound-Capital Segment (Section 7) and the Global Sound-Capital Index (Section 4), reframes the Exchange as two firewalled segments (Domestic Core / Global), and adds the firewall, audit-to-standard, delisting, fee-ring-fence, foreign-policy, and phase-two-activation provisions. All Draft 1.0 domestic provisions are preserved unchanged."
----
-
 # Crossroads Exchange Act of 2025: Draft 1.1
 
-Posted to r/Bulwarkomics
 Draft: 1.1 | Date: July 2, 2026
 Author: Thunderfish2
 
