@@ -7,34 +7,7 @@ Author: Thunderfish2
 
 **Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values.
 
----
-
-## Amendment note — Draft 1.1
-
-Draft 1.1 keeps every Draft 1.0 provision unchanged and adds the international dimension. Explicit changelog:
-
-- **New Section 7 — The Global Sound-Capital Segment.** A structurally firewalled international segment through which foreign cooperatives, mutuals/credit unions, and disciplined corporations may list *if* they restructure to the Crossroads rulebook and submit to independent audit-to-standard. The mechanism exports the ethos the way the NYSE exported disclosure — foreigners adopt the standard to reach the capital — without importing foreign risk into the domestic core.
-- **Firewall (7.2).** The Exchange is now two segments — **Domestic Core** and **Global Sound-Capital** — with a hard firewall: separate clearing/settlement, no cross-collateralization, no co-mingled index funds, and — the load-bearing rule — **no domestic public backstop (RLP/SWF/DIP/CCIF) ever stands behind a global-segment instrument.** Foreign losses stay foreign. The domestic special-share board's crisis signal (§6) takes no input from global prices.
-- **Audit-to-standard and delisting teeth (7.3).** Because Crossroads cannot police a foreign issuer directly, listing requires continuing independent audit to the Crossroads standard by a Central-Council-accredited auditor, and the Exchange holds the standing power to **delist loudly and publicly** on failure. The revocation is the enforcement.
-- **Fee ring-fence (7.4).** Any global-segment fees are ring-fenced to fund the audit/enforcement function and may never accrue as profit or surplus. This forecloses the historical failure where an exchange's revenue motive lowers its own bar to attract listings.
-- **Two governing caveats (7.5).** The global segment is an instrument of statecraft (governed at Central Council level, subject to foreign-policy/national-security suspension) and is **phase-two** — it activates only on a Central Council determination that the domestic exchange has demonstrated stability, not at launch.
-- **New index (4).** The **Global Sound-Capital Index** — a transparent pass-through fund over qualifying global-segment issuers, flagged as carrying foreign risk outside the domestic backstops.
-- **Section 1 reframed** to present the two segments; Key Stats, Cross-References, and Design Philosophy extended accordingly.
-
----
-
-## Scope note — Draft 1.0 (design decisions, retained)
-
-This act consolidates capital-market provisions that previously lived as separate, disconnected venues. Explicit record of what it decides:
-
-- **One exchange, many boards, one rulebook.** A single Crossroads Exchange with segregated boards by instrument, a shared anti-speculation spine, and one clearing/registry backbone. Standalone act so no sibling act has to absorb a cross-cutting institution.
-- **Three domestic trading boards:** co-op investor shares (the former FCL Co-op Capital Index), credit-union special shares (the former CUSM), and domestic corporate equity (new). Plus the CGCI as a foreign-capital channel, not a trading board.
-- **Corporate board scoped to domestic §4.1 firms only,** with an optional 49% outside-ownership cap and the §4.1 disciplines as listing conditions. Foreign firms are not listed here — they are handled by the Industry Act §2.5 co-op-conversion ramp plus the CGCI channel. *(This governs domestic corporate listing. The distinct question of foreign issuers voluntarily adopting the Crossroads standard is answered by the Global Sound-Capital Segment, Section 7.)*
-- **Anti-speculation spine:** ownership trades, control does not; prices anchor to PPK/CED-audited value or par; minimum holds, daily caps, and trading bands dampen churn; a public backstop bid sits under every domestic board.
-- **Prohibition on synthetic structuring:** no tranching, no securitization that repackages or obscures underlying risk, no derivatives on listed instruments, no shorting, no leverage/margin. Diversification is achieved only through transparent pass-through index funds.
-- **Off the exchange:** the Citizens' Metals ETF stays a wallet-native fund; the sovereign metals reserve is never listed; there is no debt board (Crossroads issues no bonds and runs no repo — Monetary §1.5A).
-
----
+----
 
 ## Abstract
 
