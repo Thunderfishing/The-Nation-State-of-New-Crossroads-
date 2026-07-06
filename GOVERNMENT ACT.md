@@ -1,320 +1,456 @@
-# Crossroads Government and Constitutional Structure Act of 2025: Draft 4.20
+---
+title: "Crossroads Chamber and Citizen Representation Act of 2025"
+draft: "0.3"
+date: "2026-07-04"
+author: "Thunderfish2"
+repository: "crossroads-monetary-act"
+description: "Successor-in-part to the Government Act 4.20 and companion to the Sovereign Remainder Act. Establishes the legislature of New Crossroads as a federation of self-governing economic constituencies — the credit-union territorial chamber, the co-op and corporate-labor productive chambers — sitting beneath a supreme universal citizen vote that represents every human being, including the informal majority. Holds the shared entrenched-floor schedule (§11): the nation's Bill of Rights. Built on one principle: enterprises are represented as enterprises, but capital never becomes a vote, and no chamber outranks the citizen. Kept deliberately SEPARATE from the Sovereign Remainder Act."
+supersedes: "Draft 0.2. This 0.3 restores and completes the entrenched-floor schedule (§11) into a full sixteen-floor Bill of Rights — adding the healthcare and education floors, the free-expression/press floor, the right to keep and bear arms, free exercise, assembly/association, search-and-seizure via the Link Box, due process, equal protection, and the nuclear-use floor — folds in three procedural refinements from external review (the tiered citizen-initiative threshold §6.3, the multiple-nominee rule §8.1, and the consolidated election machinery §9), and remains a standalone act. It rejects the proposal to merge the two governance acts, the proposal to permit emergency suspension of the floors, and the proposed 'obscenity' carve-out from the speech floor. Until this act and the Sovereign Remainder Act are both ratified, Government Act 4.20 remains operative."
+---
 
-**Posted to r/Bulwarkomics**
-**Draft:** 4.20 | **Date:** June 30, 2026
-**Author:** Thunderfish2
+# Crossroads Chamber and Citizen Representation Act of 2025: Draft 0.3
 
-> **Cross-reference.** Companion to the **Monetary Act 9.5**, **Credit Union Act 5.4**, and all sector acts (Healthcare 6.5, Education 2.2, FCL 3.2, Parks 3.2, Communications 4.2, Infrastructure 2.3, Military 1.7, Energy, Utilities, Industry, Housing). The currency is fiat (BWC, no metal backing). Identity and voting use the citizen-held **PPK**; pseudonymized economic data uses the **CED**; the two join only via the warranted Judicial Link Box (Monetary §5). There is no CWD.
+Posted to r/Bulwarkomics
+Draft: 0.3 | Date: July 4, 2026
+Author: Thunderfish2
 
-> **Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios. Economic magnitudes that live in other acts are referenced, not re-derived; where this act previously carried stale or internally inconsistent figures, they are aligned to the Consolidated Fiscal Model.
+**Cross-reference.** Companion to the Sovereign Remainder Act (defense, the Special Auditors, the judiciary, the SWF; its §4.3 houses the Judicial Link Box this act's privacy floors rely on), the Credit Union Act 5.6 (the credit-union base layer, one-member-one-vote, residency-locked membership), the FCL Act 3.2 (the co-op tiers, the Tier-1 no-board rule, the co-op political-weight incentive), the Monetary Act 9.6 (the age-20 endowment, the two-taps rule, the PPK/CED), the Municipal & Regional Funding Act 1.1 (the no-home-tax rule, the mutual equalization funds), the Healthcare Act and Education Act (whose boards set the essential schedules the §11 social-right floors bind), and the Military & Intelligence Act 1.7 (the militia, and the arms context of Floor 10). The seven independent regulatory boards chartered under §7 are defined operationally in the Energy, Healthcare, Education, Communications, Infrastructure, Industry, and Housing Acts.
+
+**This act is deliberately separate from the Sovereign Remainder Act.** They are ratified together but are not one document. This act is the *source* — the chambers and the citizens — beneath which the remainder is the residue. §11 of this act is the shared Bill of Rights binding both.
+
+**Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values.
 
 ---
 
-## Government Structure Overview (USA-Modeled)
+## Amendment note — Draft 0.3
 
-New Crossroads is a federal republic modeled on the United States, with one structural innovation: **its legislature is split between a territorial chamber and a sectoral chamber.**
+Draft 0.3 keeps every 0.2 provision, restores and completes the rights schedule, and folds in three procedural refinements.
 
-| Branch | Body | Basis of Representation | US Analogue |
-| :--- | :--- | :--- | :--- |
-| **Legislature — territorial chamber** | **20 Regional Boards** (220 members) | By **place** — each region elects masters | The Senate (+ state legislatures) |
-| **Legislature — sectoral chamber** | **National Assembly** (10 grandmasters) | By **trade** — one grandmaster per economic sector | The House (by interest, not district) |
-| **Executive** | **Central Council** (11 members) | Elected by Regional Boards, confirmed by Assembly | The President + Cabinet |
-| **Judiciary** | **Supreme Court** (7 justices) + 200 regional judges | Nominated by Regional Boards, confirmed by Assembly | The federal courts |
-| **Independent regulators** | NEB, NHB, NLC, NCB (paired with departments) | Appointed by Council, confirmed by Boards | Independent agencies (Fed, FCC, etc.) |
-| **Independent prosecutors** | Special Auditors | Self-initiating; removable only by joint Council + Board action | Special/independent prosecutors |
+**Kept separate.** The proposal to merge this act with the Sovereign Remainder Act into one charter is **rejected**. Two acts, ratified together, never merged.
 
-**The dual-chamber logic:** the **Regional Boards** represent the nation as *places* (a region's interests, like a US state's), while the **National Assembly** represents the nation as *trades* (a sector's interests). A law touching, say, energy must satisfy both the regions it affects and the sector that runs it. The **Central Council** executes; the **Supreme Court** judges; **independent boards** regulate; **independent special-prosecutor auditors** police the books of anyone — including the officials above them.
+**The rights schedule restored and completed (§11).** The six-floor schedule is rebuilt into a full **sixteen-floor Bill of Rights** in five clusters, adding: the **healthcare** and **education** floors (rights that bind the funding, not programs the majority may revoke); **free expression and a free press**; the **right to keep and bear arms** (including concealed carry, with process-bounded exclusions and a training precondition that creates no registry); **free exercise and no establishment**; **assembly, association, and petition**; **search and seizure** wired to the Link Box; **due process**; **equal protection**; and the **nuclear-use floor**. This is the single schedule a majority cannot reach, so it must be complete.
 
-Regional Boards double as both their region's **state legislature** (police, education, healthcare oversight, credit-union audits within the region) and the nation's **territorial upper body** (electing the Central Council, confirming national appointments, nominating the Supreme Court, overriding vetoes).
+**Procedural refinements folded in (external review, accepted on the merits):**
+- **§6.3 — Tiered citizen-initiative threshold.** 1% for ordinary law, 2% for law touching a floor; the SAP decides which, with the burden on the chambers to show a measure touches a floor.
+- **§8.1 — The multiple-nominee rule.** Advisory bodies submit ≥3 nominees per vacancy; the confirming body may not seat anyone off the list. Closes the single-preferred-candidate stacking loophole.
+- **§9 — Consolidated election machinery.** The runoff, deadlock, and recall rules stated once and cited everywhere (the single-rule discipline).
 
----
-
-## Section 1: Local Level — Sectors, Credit Unions, and Incorporation
-
-### 1.1 Economic Sectors
-
-Ten sectors anchor the economy and governance: Industry & Infrastructure, Health, Education, Agriculture, Trade & Corporate, Media & Communications, Legal & Judiciary, Defense/Aerospace & Tech, Co-op, Treasury — mapped to hubs (e.g., Corridon River for Industry & Infrastructure, Heartland Plains for Agriculture, Crossroads City for Co-op). Treasury oversees 5,000 credit unions issuing **Bulwark Coin (BWC, the national fiat currency — not metal-backed; value held by the Monetary Act §1.5 issuance anchor)** and managing ~$452.5B in loans.
-
-- **Regional:** masters coordinate ~$22.625B loans/region. Loan allocation is by creditworthiness and productive use, not sector quotas. The 2025 baseline (~65% co-op, 15% corporate, 20% informal) is descriptive, not prescriptive. Sector councils (50 masters/sector/region, elected by 10,000 masters) draft proposals (3-month review, recorded via the **CED** for economic matters and the **PPK** for member identity). A 51% master vote (100,000/200,000) submits to Regional Boards.
-- **Federal:** grandmasters propose laws for 94M voters every 5 years (6/10 vote, 12-month vetting).
-- **Cross-Sector Masters:** 1 million (50,000/region), credentialed in more than one sector; vote in **any 2 of their credentialed sectors**, chosen per election cycle (not fixed to the first 2 earned, and not uncapped) (15% cap, ~705,000/4.7M voters/region/sector).
-
-**Voting:** ~4.7M voters/region (94M total; adjusted 6.5M Corridon, 3M Frostpeak/Ember) vote for 10 masters/sector every 5 years (biennial cycles; ~235,000 co-op votes: 1 vote/1,000 employees, 5% cap). Every citizen — dropouts included — casts the same universal Wildcard Vote (§2.1); dropouts hold no Sector Vote (they are not credentialed in a sector), but retain the Wildcard Vote and votes on credit-union/FCL boards on identical terms to any credentialed citizen. Juniors vote for FCL boards if members. By 2075, 109M voters.
-
-#### 1.1.1 Master Nominations and Elections
-
-- **Masters:** 13M journeymen nominate candidates/sector/region in two stages — a **sequential filing period** (candidates file in order, each publicly logged before the next opens) followed by a **simultaneous filing period** (remaining slots open to all at once) — with the field ranked by final endorsement % and the **top 10 advancing** per sector/region (10% endorsement floor to qualify). Voters (~4.7M/region, blockchain-secured, eligibility verified by PPK zero-knowledge proof) then elect **10/sector/region** via 51% vote (**runoff** between the top two if no candidate reaches 51% — §2.3); this is the Regional Board's 10 sector seats (§3.1). 30-day campaigns, 10 BWC credits (~$850M/year). *(The broader 10,000 masters/sector/region who elect the 50-member Sector Councils, §1.1, are a separate, later-stage credentialed layer — not the output of this election.)*
-- **Grandmasters:** **20,000 masters/sector** nominate 3 candidates, elect 1 via 51% vote (**runoff** between top two if no majority — §2.3). Recallable by the same 20,000-master electorate via **2/3 supermajority** (§5).
-- **Sectoral Nominating Panels (SNPs):** 9 sectors (180 panels, 9/region), 15 masters/SNP, opt-in lottery (Treasury lottery, 51 staff/region). Nominate 2 candidates via 51% vote. **Eligibility (broadened):** FCL revenue $25,000+ (lowered from $100,000+), **or** 5 years documented sector tenure, **or** peer nomination by petition of 500 journeymen/masters in the sector — three independent paths onto the panel, so participation isn't gated on capital alone. 3-month deliberation, 15-day runoffs, Legal & Judiciary disputes.
-- **Funding:** ~$500M/year (councils, elections), ~$463M/year (SNPs/REAs/RHAs), ~$150M/year (blockchain/PPK-CED systems), ~$850M/year (BWC credits), from the SWF.
-
-### 1.2 Credit Unions
-
-5,000 credit unions (250/region) issue fiat BWC, managing ~$217.5B SWF + $50B non-SWF, ~$15.04B wallets, ~$94B shares. Credit unions lend on creditworthiness and productive use; loan data is reported (pseudonymized, via the CED) for economic monitoring per the Monetary Act's Economic Health Dashboard. Detail in Credit Union Act 5.4.
-
-- **Board Elections:** members (1–1,000 shares) elect 5–7 board members (~$75,000/year, ~$525M/year) every 3 years, trained via the Credit Union Academy (~$500M/year). Boards oversee loans, banking suite, and shares. No binding sector quotas.
-- **Oversight:** the **CED** (part of the ~$450M/year PPK+CED system) tracks loans, boards, and CLS metrics (pseudonymized), audited by the Special Auditors (§4.3) with blockchain/AI support, capping fraud at ~$2.5B.
-
-### 1.3 Citizen Incorporation
-
-- 1 vote, 1 base share ($1/BWC, up to 1,000, 4–8% dividends).
-- **Dropouts:** access apprenticeship re-entry (free if voucher unused, to age 65 — Education Act 2.2); hold no Sector Vote but retain the same universal Wildcard Vote as any citizen (§2.1), plus votes on credit-union/FCL boards.
-- **Citizen Flow Program:** ~$15B SWF-funded campaign educates the population on elections, governance, fraud prevention, and sustainability via AM radio, TV, and internet; managed by the Governance Training Program; program metrics tracked via the CED (pseudonymized).
-
-### 1.4 Auto-Incorporation at Age 20 (Clarified)
-
-At age 20, every citizen receives:
-
-| Component | What it is | What it is NOT |
-| :--- | :--- | :--- |
-| **PPK (Blockchain ID)** | Citizen-held digital identity for voting, credentials, and banking authentication | Not a business license |
-| **$50 BWC wallet** | Digital fiat-currency account | Not a corporate bank account |
-| **1 base share ($1/BWC)** | Credit-union membership share (4–8% dividends) | Not equity in a co-op |
-| **Right to work** | May engage in any lawful economic activity | Not a license to practice regulated trades |
-| **Informal sector access** | May conduct cash commerce below the DLB threshold | Not tax-exempt (but informal wages under $100k untaxed) |
-
-*(The wallet holds fiat BWC; the prior "scales to $326 by 2075" per-coin metal-backing figure is removed.)*
-
-**Auto-incorporation does NOT grant:** an automatic business license; limited liability; the right to hire employees as a business entity; the right to issue shares or take investors.
-
-To operate as a business, a citizen must register as **a co-op (FCL)** — preferred (lower taxes, lighter governance, voluntary CCIF access) — or **a corporation** — permitted (subject to corporate-governance requirements per Monetary Act 9.5 §4.1). This preserves the informal economy (cash-only, no registration) while providing a clear ladder to formal business status.
-
-### 1.5 Right to Work (Without License)
-
-Any citizen may engage in any lawful economic activity without a business license, except where public safety requires licensure (doctor, electrician, lawyer, engineer, pilot), environmental protection requires permits (mining, logging, large-scale agriculture), or regulated substances are involved (pharmaceuticals, nuclear materials, weapons).
-
-Licensed trades require Education Act credentials (journeyman/master/grandmaster). A journeyman may practice independently without forming a co-op or corporation. *Example:* a journeyman electrician (age 20) may fix neighbors' wiring for cash (informal, already credentialed), keep all earnings (informal wages under $100k untaxed), deposit cash to BWC free at any credit union, and form a co-op later to hire others. This is the intentional design of the Informal Economy Guarantee (Monetary §1A).
+**Rejections (on the record):**
+- **No emergency suspension of the floors.** The proposal to permit temporary suspension of entrenched floors in a "declared existential emergency" is **rejected**. The whole constitutional promise is that no war, emergency, or treaty pierces a floor; a pre-authorized suspension door is more dangerous than the scenario it anticipates. The floors are absolute.
+- **No obscenity carve-out from the speech floor.** The proposed third exception (an "obscenity" category the Court could define away case-by-case) is **rejected** as the historically abused loophole. The speech floor keeps exactly two content exceptions — defamation and incitement to imminent violence — with a narrowly bounded clause for expression that is itself the instrument of a distinct crime (§11 Floor 9).
 
 ---
 
-## Section 2: Voting System
+## Abstract
 
-### 2.1 Overview — Two Votes per Citizen
+The Government Act 4.20 built a legislature on a credentialed caste — sector masters and grandmasters who were simultaneously the most skilled practitioners of a trade and the holders of political power. That fusion of expertise and authority was the technocracy the whole system was trying to escape. This act removes it.
 
-Every citizen aged 20+ receives **two votes**: a **Sector Vote** (1 citizen = 1 vote, following your sector of employment) and a **Wildcard Vote** (1 citizen = 1 vote, for at-large wildcard representatives). The Wildcard Vote is universal and unconditional — every citizen holds it regardless of sector-credential status; a dropout, who holds no Sector Vote, casts the same Wildcard Vote as any credentialed citizen (§1.1, §1.3). Cross-sector masters vote in any 2 of their credentialed sectors, chosen per cycle (2 sector votes + 1 wildcard = 3 total — §1.1); grandmasters vote in all sectors where they hold grandmaster status.
+In its place: a legislature built from the economy's own self-governing institutions. New Crossroads has four economic constituencies — credit unions, co-ops, corporations, and the informal economy — and each is represented in the form its nature allows. Credit unions, being residency-locked and universal in membership, become the territorial chamber (the Regional Boards): they represent where you live. Co-ops and corporations, being productive and a-territorial, become the two productive chambers: they represent what you make, and corporations are represented through their workers, not their shareholders. The informal economy cannot be organized into a chamber without ceasing to be informal — so it is represented the only way an unorganized majority can be: through the universal citizen vote that every human being holds from age twenty, unconditionally, and which sits above all three chambers.
 
-### 2.2 Who Votes for What
+The chambers draft; the citizens ratify. No chamber may pass a national law over the citizens' heads, and the citizens may force a law over the chambers' heads. Capital may flow through every chamber but may never become a vote in any of them. Expertise informs the chambers through advisory bodies but never sits in them. And beneath all the counting sits a schedule the counting cannot reach — the entrenched floors of §11, the nation's Bill of Rights.
 
-| Election | Electorate | Votes per voter |
-| :--- | :--- | :--- |
-| Sector masters (Regional Board) | ~4.7M voters/region | 1 (sector vote) |
-| Wildcards (Regional Board, Central Council) | 94M voters | 1 (wildcard vote) |
-| Regional Board members (internal elevation) | Masters and wildcards, equally | 1 (internal) |
-| Central Council members | Regional Board masters (200) | 1 (internal) |
-| National Assembly grandmasters | 20,000 masters/sector | 1 (internal) |
-| Credit union / FCL boards | Members | 1 member, 1 vote |
-
-**Co-op additional votes:** a co-op casts 1 additional vote per 1,000 employees, capped at 5% of total votes in any election, exercised by an elected member representative. *Rationale:* co-ops are member-owned; this recognizes economic weight without letting large co-ops dominate (a 5,000-employee co-op gets 5 votes — 0.0001% of a regional electorate).
-
-**BWC credit per vote:** ~10 BWC, targeting ~90% turnout.
-
-**Asymmetric scrutiny:** voting records are private and held in the **PPK**. The system records (by zero-knowledge proof) only *whether* a citizen voted — never *how*. Cash voting credits are untaxed and untracked. No voting data ever enters the CED.
-
-### 2.3 System-Wide Runoff Rule
-
-Any election in this Act (or a companion act) requiring a 51% majority is subject to a single standard rule: if no candidate reaches 51% on the first ballot, the top two candidates by vote share proceed to a **runoff**, decided by simple plurality between the two. This applies uniformly — master elections, grandmaster elections, Central Council elections, chairman elections, and any other 51%-threshold vote — rather than being restated separately at each layer. Runoffs are held on the same eligibility and verification terms (PPK zero-knowledge proof) as the first ballot, within 30 days unless a companion act specifies otherwise.
+Place and form both get a voice; the citizen gets the last word; the credentialed expert only advises; and a short list of rights stands outside the reach of every vote.
 
 ---
 
-## Section 3: Regional and National Levels
+## Section 1: The Constituent Layers
 
-### 3.1 Regional Boards (The Territorial Chamber)
+*Rationale:* the failure of the old design was a single chamber of credentialed trades that required a bureaucracy to define membership and handed political power to the skilled. The fix is to represent the economy through institutions that already govern themselves — and to recognize that the four economic forms are not four versions of the same thing. Two are place-bound and universal; one is productive and favored; one is productive and disciplined; and one, by design, cannot be organized at all.
 
-Each of 20 regions (e.g., Region 1: Crossroads City/Corridon, 6.5M voters; Region 3: North Valley City/Frostpeak, 3.5M voters) has an **11-member Board (220 total)**. Regional Boards are the **primary state legislatures** for their regions *and* the nation's **territorial upper body**.
+### 1.1 The Four Constituencies and Their Homes
 
-- **Election:** ~4.7M voters/region elect 10 masters every 5 years; 94M elect 20 wildcards every 2 years (~$1.5B mobilization, ~$850M/year BWC credits). 5-year terms (masters, **maximum 3 consecutive terms — 15 years — then term-limited**); 2-year terms (wildcards, no term limit — the short cycle is intentional: the wildcard seat is the system's designed pressure-release valve, not a bug in the term-length math).
-- **Wildcard Powers:** propose 1 resolution/meeting (e.g., $500M informal co-ops), requiring 6/11 approval; resolve tied votes; chair quarterly forums (~$20M/year); votes on all Board business on identical terms to a sector master (§2.2) — no reduced or advisory-only vote.
-- **Chairman:** elected annually by 6/11 vote of the full Board — all 11 members, including the wildcard, vote equally.
-- **Regional (state-legislature) Governance:** manage ~$22.625B loans/region (audited via the CED); oversee regional **police, education, and healthcare**; conduct **biannual credit-union audits** of the 250 credit unions per region (per Credit Union Act 5.4), reports to the Central Council and published publicly.
-- **National (territorial-chamber) Powers:** approve Central Council appointments (11/20); nominate Supreme Court justices (7 seats) for Assembly confirmation; **override vetoes and emergency powers (15/20 vote)**.
+| Constituency | Nature | Represented as |
+|---|---|---|
+| Credit unions | Residency-locked; universal membership (every citizen) | The Territorial Chamber — Regional Boards (§3) |
+| Co-ops (FCLs) | Productive; member-owned; favored | The Co-op Chamber (§4) |
+| Corporations | Productive; investor-owned; disciplined | The Corporate-Labor Chamber (§4), through workers |
+| Informal economy | Unorganized by design; protected | The Universal Citizen Vote (§2) — supreme, not a chamber |
 
-### 3.2 Judiciary
+### 1.2 The Two Axes
 
-- **Regional Judges:** 200 (10/region), appointed by Regional Boards (6/11), confirmed by the National Assembly (6/10), 10-year terms. Legal & Judiciary sector oversees wallets, the ~$2.5B fraud cap, and disputes.
-- **Supreme Court:** 7 justices, nominated by Regional Boards (11/20) and confirmed by the National Assembly (6/10; 7/10 for chief justice). 15-year terms, mandatory retirement at 75. Hears constitutional questions, inter-regional disputes, conflicts between national bodies, and final fraud-cap appeals. Decisions require 5/7.
+New Crossroads keeps the bicameral instinct — two ways of counting the nation — but re-cuts it:
 
-### 3.3 Central Council (The Executive)
+- **Place.** The credit unions, federated by region, are the territorial chamber. Because credit-union membership is residency-locked and universal, "the region's credit unions" and "the region's people" are the same body. The Regional Boards speak for where you live.
+- **Form.** The co-ops and corporations, organized by ownership type rather than by geography, are the productive chambers. They speak for what you do and how it is owned.
 
-- **Election:** the 200 regional masters of the Regional Boards elect 10 masters (101/200); elected members must be confirmed by the National Assembly (6/10) before taking office. 94M elect 1 wildcard every 2 years. 5-year terms (masters, one-term limit), 2-year term (wildcard, no term limit). Runoff applies if no candidate reaches the governing threshold on the first ballot (§2.3).
-- **Chairman:** elected by 6/11 (2-year term) — all 11 Council members, including the wildcard, vote equally.
-- **Appointment Power:** appoint 510 department staff, 200 judges, 9 SAP arbiters (3 panels of 3 — §3.6), 3 NEC directors, and the experts/chairs of the independent boards (6/11 vote, 11/20 Boards confirm).
-- **Veto Power:** block Assembly/Board decisions with a 6/11 vote (7 days). **Subject to override by 15/20 Regional Boards** (or SAP appeal). *(This is the standard veto-override procedure referenced by other acts, e.g., the Military Act's arms/aerospace export veto.)*
-- **Emergency Powers:** NEC activation (6/11, 90 days) or chairman action (30 days, >10% GDP crises), reviewed by 15/20 Boards.
-- **Operations:** 9/11 quorum, ~$500M ops, audited by the Special Auditors via the CED.
+A national law must satisfy both axes — the places it touches and the productive forms it governs — and must never override the universal vote above them (§5, §6).
 
-### 3.4 National Assembly (The Sectoral Chamber)
+### 1.3 The Supremacy Rule
 
-- **Composition:** 10 grandmasters (1/sector).
-- **Election:** 20,000 masters/sector elect 1 grandmaster (51%; **runoff** between top two if no majority — §2.3). 5-year terms, one-term limit. **Recallable** by the same 20,000-master electorate via **2/3 supermajority** (§5) — the term limit and the recall are both accountability mechanisms, not alternatives to each other.
-- **Chairman:** elected by 6/10 (3-year term); sets the agenda, presides over hearings, represents the Assembly in the EGA.
-
-**Functions:**
-- **Law Proposal:** propose laws for 94M voters every 5 years (6/10), 12-month vetting, explanatory materials published publicly; referenda pass by simple majority.
-- **Confirmation Powers:** confirm Central Council masters (6/10; rejected candidates replaced by Boards within 60 days); confirm regional judges (6/10); confirm Supreme Court justices (6/10, 7/10 for chief justice, with public hearings). **Deadlock rule:** if a nominating body's first 3 nominees for a given seat are each rejected, the confirming body must confirm one of those 3 within 1 week of the third rejection — no seat may sit vacant indefinitely on repeated rejection (§5).
-- **Advisory Role:** advise on tariffs, infrastructure, SWF allocations via formal resolutions (6/10).
-- **Oversight Hearings:** by 6/10 vote, summon any Central Council member, NEC directors, the commissioners of the independent boards, any department head, SAP arbiters, national/regional CLS directors, and Supreme Court justices (for conduct/impeachment). The Assembly may compel testimony under oath, compel documents, issue public reports, and censure officials. Refusal to appear → referral to the SAP for a binding resolution; continued refusal → grounds for removal by the appointing authority. Hearings may not interfere with judicial proceedings, certified national-security matters, or individual credit-union disputes.
-- **Annual State of the Nation:** the Central Council Chairman reports annually to the Assembly on the SWF, revenue, the loan portfolio, and major projects (public via media).
-- **Impeachment:** impeach Supreme Court justices, regional judges, Central Council members, and high officials for treason, bribery, corruption, or gross neglect (7/10 vote), tried before the Supreme Court (executive/legislative officials) or a special panel of regional judges (Supreme Court justices).
-- **Operations:** yearly meetings + sessions as needed; ~$500M budget (separate, Assembly-administered), audited via the CED.
-
-#### 3.4.1 Mandatory 5-Year National Law Cycle
-The Assembly **must** propose at least one law, amendment, or repeal package for national referendum every 5 years (cycle begins 2030; 12-month vetting). If it fails, the citizen-initiated process (§3.4.2) triggers automatically at a reduced threshold (0.5% instead of 2%). Multiple laws allowed, each complying with the 2-for-1 rule if active.
-
-#### 3.4.2 Citizen-Initiated Laws
-Citizens may force a law, amendment, or repeal onto the 5-year ballot without Assembly approval. **Process:** petition filed with the Treasury (signatures verified by **PPK** zero-knowledge proof — eligibility confirmed without exposing identity — collected electronically or on paper via credit unions); **threshold 2% of national voters** (~1.88M in 2025, scaling); upon verification, added to the next referendum; threshold drops to 0.5% if the Assembly misses its deadline. **Restrictions:** cannot eliminate the corporate-governance requirements (Monetary 9.5 §4.1), the 2-for-1 repeal rule (without a 75% supermajority referendum), or the Informal Economy Guarantee (Monetary §1A). **Funding:** ~$500M/year from SWF.
-
-#### 3.4.3 The 2-for-1 Repeal Rule
-When activated, every new law passed by referendum requires two existing laws to be repealed, consolidated, sunsetted, or merged. **Triggers (any):** a 2% citizen "legal cleanup" petition; the code exceeding 2,000 active statutes; or the automatic decennial cycle (first 2035–2040). **Mechanism:** the Assembly publishes a Repeal Docket (two laws + justification + impact analysis), bundled with the new law into one referendum question (YES = new law + repeal two; NO = reject + keep). Multiple new laws each bundle their own two repeals. **Emergency exemption:** 6/11 Central Council + 11/20 Regional Boards. **Enforcement:** the SAP resolves disputes over what counts as a repeal (consolidation qualifies; renaming does not).
-
-#### 3.4.4 Updated Functions Summary
-
-| Function | Previous | Amended |
-| :--- | :--- | :--- |
-| Law proposal | Permissive (6/10) | Mandatory every 5 years (6/10) |
-| Citizen lawmaking | Not present | Citizen-initiated (2% petition) |
-| Repeal requirement | Not present | 2-for-1 (petition / law count / decennial) |
-| Emergency exemption | Not applicable | Council + Boards can exempt emergency laws |
-
-#### 3.4.5 Dual-Sector Grandmasters (Highlighted)
-
-A **dual-sector grandmaster** holds grandmaster status in two economic sectors. Their constitutional role is to **bridge two sectoral constituencies** — they vote in both their sectors and speak in the Assembly to cross-domain matters that a single-sector grandmaster cannot (e.g., a Health + Defense/Tech grandmaster on medical AI or biosecurity; a Co-op + Treasury grandmaster on the FCL waterfall's fiscal effect). They are the legislature's cross-cutting integrators, preventing the sectoral chamber from siloing.
-
-**A dual-sector grandmaster sits on the Special Arbiter Panel (§3.6)** — each of the SAP's 3 panels includes at least one dual-sector master or grandmaster, so the cross-domain perspective is present on whichever panel a dispute randomly draws, not just on a single panel that could itself be captured by one sector's view.
-
-### 3.5 National Emergency Council (NEC)
-3 directors, appointed by Central Council (6/11, 3-year term). 90-day emergency powers (e.g., Corridon flooding), 30-day action for >10% GDP crises, with authority to redirect SWF and loan resources. Funding: SWF-backed contingency, ~$5B/year plans, tracked via the CED. Reviewed by 15/20 Boards.
-
-### 3.6 Special Arbiter Panel (SAP)
-
-**9 arbiters, organized as 3 panels of 3**, appointed by the CJC (6/10, 5-year term), **each panel including at least one cross-sector (dual-sector) master or grandmaster** (§3.4.5). A deadlock referral is **mandatory binding arbitration** — the referring parties do not opt in and cannot decline — resolved by a panel **randomly assigned per case** (preventing forum-shopping toward a favorable panel). Resolves deadlocks (e.g., agro tariffs), advises the EGA, reviews vetoes/emergencies, enforces Assembly hearing compliance, and rules on 2-for-1 repeal disputes. Funding ~$9M/year (scaled 3x for the expanded panel structure), tracked via the CED.
-
-### 3.7 Emergency General Assembly (EGA)
-21 chairmen (1 Central Council, 20 Regional Boards, 1 National Assembly). **Trigger:** 3/20 regions report co-op collapse (>20% GDP drop) or crisis. **Functions:** issue 90-day resolutions (e.g., redirect loan resources), mediated by SAP. **Safeguards:** 7/10 CJC or 15/20 Boards overturn; tracked via the CED.
+The universal citizen vote (§2) is supreme over every chamber. The chambers represent enterprises as enterprises; the citizen vote represents human beings as human beings. Where they conflict, the human beings win. This is the firewall that keeps a legislature of institutions from becoming a legislature of capital.
 
 ---
 
-## Section 4: Departments, Independent Boards, and Special Prosecutors
+## Section 2: The Universal Citizen Vote (The Supreme Individual Layer)
 
-### 4.1 Departments (Executive Arms of the Central Council)
+*Rationale:* the informal economy is the constituency the founder judged most important, and it is the one that can never send a delegate — the moment it has a membership roll and a board to choose a representative, it has stopped being informal. So its representation cannot be organizational. It must be individual: the vote every citizen holds simply for being a citizen, owing nothing to any enterprise, employer, or credential.
 
-Ten departments (51 staff/sector, 510 total) administer and implement, funded by the SWF, appointed by Central Council (6/11, 11/20 Boards confirm). Departments **spend and implement**; the independent boards (§4.2) **set standards and regulate** — the two consult but neither controls the other.
+### 2.1 The Birthright Vote
 
-- **Industry & Infrastructure:** manages energy and transport investment, including Corridon barges.
-- **Health:** administers clinic loans and the bottom-tier premium subsidy (~$45B); coordinates with Regional Boards on regional healthcare. *(Healthcare is premium-funded per Healthcare Act 6.5 — the prior $145B healthcare SWF and $35B mental-health SWF operating lines are removed.)*
-- **Education:** runs the **$10,000 voucher** (~$175B net of the FCL education contribution), apprenticeship re-entry, the CLS Academy, and the Governance Training Program; coordinates with Regional Boards. *(Voucher per Education Act 2.2; the $75,000 journeyman-earnings target is removed.)*
-- **Agriculture:** secures food via agro programs and revenue.
-- **Trade & Corporate:** oversees corporate-governance requirements per Monetary 9.5 §4.1; administers ~$49B tariffs; no GDP cap.
-- **Media & Communications:** administers public-information programs.
-- **Legal & Judiciary:** supports the 200 judges and the fraud-cap regime; administers Supreme Court operations.
-- **Defense/Aerospace & Tech:** funds the military (~$40B/year recurring operating, declining; per Military Act 1.7 — the Defense Fund bequest endowment is separate).
-- **Co-op:** fosters the co-op economy; oversees the CCIF (~$2.395T voluntary) and the Stabilization Fund.
-- **Treasury:** oversees national revenue (~$725–750B per the Consolidated Fiscal Model), the SWF (~$550B → ~$1.5–2.0T, capped 12% GDP), 5,000 credit unions, and administers the **CED** (~$200M/year; with the PPK mesh ~$250M/year ≈ $450M/year combined).
+- Every citizen receives the universal vote at age 20, unconditionally, as part of the age-20 endowment (the base share, wallet, metals position, and right to work). It is a birthright, never earned, never bought, never forfeited.
+- A dropout who holds no credential, a cash-only informal worker who appears in no chamber, and a grandmaster who sits on three boards each cast exactly one universal vote. The universal vote is the one place every citizen is precisely equal.
 
-### 4.2 Independent Regulatory Boards (Paired with Departments, In Consultation, Not Subordinate)
+### 2.2 What the Universal Vote Decides
 
-Each board is an **independent regulator**, appointed by the Central Council but **confirmed by Regional Boards (11/20)** for independence, working **in formal consultation with — but not subordinate to — its paired department.** Disputes between a board and its department go to the SAP.
+- **National referenda (§6):** every national law is ratified here. The chambers draft; the citizens ratify. No law binds the nation without passing the universal vote.
+- **Citizen initiative (§6):** citizens may force a law, amendment, or repeal onto the ballot over the chambers' heads by petition (threshold per §6.3).
+- **The wildcard seats (§2.3):** the universal vote's direct delegates into the chambers.
+- **Confirmation backstops (§10):** on the powers most dangerous to ordinary citizens — the Special Auditors, and any measure touching the entrenched floors (§11).
 
-| Board | Members | Paired Department | Role | Est. Staff | Est. Funding |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **National Energy Board (NEB)** | 11 | Industry & Infrastructure | Sets grid access fees/rates, approves major energy investments, regulates the 400 TWh → 1,633 TWh grid | ~300 (engineers, rate analysts, grid inspectors, regional liaisons) | ~$150M/year |
-| **National Healthcare Board (NHB)** | 11 | Health | Sets clinical and facility standards, oversees the three-tier facility system and CMHIN, regulates premium structure | ~250 (medical standards officers, facility auditors, actuarial staff) | ~$100M/year |
-| **National Learning Council (NLC)** | 11 | Education | Sets curriculum standards, accredits schools, governs the voucher and credentialing system | ~200 (curriculum specialists, accreditation auditors, assessment staff) | ~$100M/year |
-| **National Communications Board (NCB)** *(new — distinct from NEB)* | 11 | Media & Communications | Regulates spectrum, broadcast licensing, net neutrality, the mesh backbone, and AM emergency broadcast; enforces the 55% local-content mandate | ~200 (spectrum engineers, licensing officers, net-neutrality auditors, CME-broadcast coordinators) | ~$120M/year |
+### 2.3 Wildcard Seats — The Citizen's Voice Inside the Chambers
 
-*(Staff and funding are best-guess projections scaled to each board's regulatory scope; refine in the consolidated fiscal pass. The NCB is newly distinct — communications-infrastructure regulation previously sat with the NEB; the Communications Act should be updated to reference the NCB as its regulator.)*
+*Rationale:* the referendum makes the citizen sovereign every five years, but the chambers meet every day. The informal majority needs a standing voice at the table, not only a periodic veto.
 
-**Regional advisory/nominating layer** (feeds the boards and Regional Boards): Sector Councils, Regional Health Assemblies (RHAs), Regional Media Assemblies (RMAs), and Regional Education Assemblies (REAs) — ~100–200 members/region each, nominating candidates for board and Regional Board seats.
+- Every chamber (territorial and productive) seats a bloc of wildcard members elected directly by the universal vote, not by any enterprise.
+- Wildcards vote on all chamber business on identical terms to any enterprise delegate — no reduced or advisory-only vote.
+- Short cycle (2-year terms, no term limit): the short cycle is intentional — the wildcard seat is the system's designed pressure-release valve, re-tested often against the public mood.
 
-### 4.3 Special Auditors (Independent Special Prosecutors)
-
-The Special Auditors are rebuilt as **fully independent special prosecutors** — the constitution's self-policing mechanism, modeled on US independent/special prosecutors.
-
-- **Composition:** 50–75 auditors, appointed by Central Council (6/11), confirmed by Regional Boards (11/20), **5-year terms.**
-- **Independence:** removable **only by joint action of the Central Council and the Regional Board of the region they serve** — no single official, department, or body can fire, defund, or quash an auditor investigating it. Their budget is constitutionally protected and cannot be cut mid-term in retaliation.
-- **Self-initiating jurisdiction:** an auditor may **open an investigation into any entity's books — any co-op, corporation, credit union, department, board, official, or national body — on their own initiative, without authorization from anyone.** This is the core power: they can investigate the very officials who appoint everyone else.
-- **Prosecutorial powers:**
-  - **Subpoena** documents, records, financial statements, and testimony.
-  - **Bring charges** before the regular judiciary (regional courts → Supreme Court on appeal).
-  - **Temporarily freeze assets** pending investigation — but any freeze **must be ratified by a regional judge within 14 days** or it lapses automatically (the judicial check that legitimizes the power and prevents abuse).
-- **Support:** blockchain/AI forensic systems (~$1B), operating through the CED (pseudonymized economic data; identity reached only via the warranted Judicial Link Box). Fraud cap enforcement ~$2.5B.
-- **Limits:** auditors may not access cash transaction records below the DLB threshold (Informal Economy Guarantee), may not compel *how* a citizen voted (PPK-protected), and their charges are tried in the independent judiciary, not by the auditors themselves. An official who is the subject of an investigation may not participate in any decision affecting that auditor.
+**The Rule of Thirds.** Every chamber this act creates is one-third wildcards, uniformly. At one-third, the citizens' bloc plus a small minority of defecting enterprise delegates can block any measure — so nothing passes that a united public and a sliver of dissent oppose — but the citizens cannot pass a measure alone, so the enterprise structure still matters and drafting stays with those who know the domain. Below a quarter, the wildcards are decoration; at half, the chambers become a general-purpose parliament and the enterprise structure is theater. Where a chamber's size does not divide evenly, the wildcard fraction rounds up — toward the citizen, never away.
 
 ---
 
-## Section 5: Checks and Balances
+## Section 3: The Territorial Chamber — Regional Boards
 
-- **Recalls:** every electing/nominating body may recall the official(s) it elected, by **2/3 supermajority** of that body — masters (2/3) recall Regional Board members; regional masters (2/3 of 200, i.e. ~134/200) recall Central Council members; sector masters (2/3 of the 20,000/sector electorate) recall grandmasters (§3.4); all voters (2/3 of 94M) recall wildcards. The supermajority standard is uniform across all recall votes, replacing the prior simple-majority figures.
-- **Confirmation Chain:** Regional Boards elect Central Council masters → Assembly confirms (6/10); Regional Boards appoint regional judges → Assembly confirms (6/10); Regional Boards nominate Supreme Court justices → Assembly confirms (6/10, 7/10 chief); Central Council appoints department staff, SAP arbiters, NEC directors, and board commissioners → Regional Boards confirm (11/20). **Deadlock rule (applies to every step of this chain):** if a nominating body's first 3 nominees for a seat are each rejected, the confirming body must confirm one of those 3 within 1 week of the third rejection — no seat sits vacant on repeated rejection.
-- **Impeachment:** Assembly impeaches (7/10); Supreme Court tries executive/legislative officials; a special panel of regional judges tries Supreme Court justices.
-- **Veto/Override:** Central Council vetoes (6/11) are overridden by 15/20 Regional Boards — the standard procedure other acts reference.
-- **Independent policing:** the Special Auditors (§4.3) can investigate and charge anyone, including the officials above, checked only by the judiciary.
-- **Voting integrity:** eligibility and turnout verified by PPK (zero-knowledge); non-voters' full deposit-insurance coverage lapses per the Credit Union Act voting requirement; no vote content is ever recorded.
-- **Oversight:** blockchain/AI + CED track SWF, loans, banking, sustainability, and fraud (~$2.5B cap), all pseudonymized.
+*Rationale:* the credit union is the one economic form that is inherently a place — residency-locked, one field of membership per community, every citizen a member. So the credit unions, federated by region, are the territorial chamber, the successor to each region's state legislature.
 
----
+### 3.1 Composition and Election
 
-## Section 6: Operational Cycle
+- 20 Regional Boards, 11 members each (220 total), one per region.
+- **Split:** 7 credit-union-federated seats + 4 wildcard seats per board (36% wildcard — the Rule of Thirds rounded up toward the citizen, correct given the boards' state-legislature powers over police and the militia). Nationally: 140 federated + 80 wildcard. Eleven is odd, so no chamber-tie machinery is needed.
+- The seven federated seats are elected by the region's credit-union membership — the region's citizens — one member, one vote, through the federated credit unions. Because membership is universal, this is regional universal suffrage routed through the mutual every citizen belongs to.
+- The four wildcard seats are elected directly by the universal vote (§2.3).
 
-- **2025:** ~4.7M voters/region elect 2M masters, 20 wildcards (2-year terms), 10 Assembly grandmasters, 11 Council members (Assembly-confirmed); Regional Boards nominate and Assembly confirms 7 Supreme Court justices; credit-union boards oversee loans; CLS mentors FCLs and monitors economic-health indicators; Council approves NEB energy investments.
-- **2026–2029:** Boards manage regional loans and exercise state-legislature functions (police, education, healthcare oversight, credit-union audits); wildcards (re-elected every 2 years) propose resolutions; Council oversees revenue and the SWF; Assembly proposes laws, conducts oversight hearings, confirms appointments, and receives the State of the Nation; NEC/SAP handle crises/deadlocks.
-- **2030:** first mandatory Assembly law + first citizen-initiated laws on the national ballot; 2-for-1 rule not yet active unless triggered; 94M vote on laws and new masters; cycle repeats.
-- **2035:** first automatic decennial 2-for-1 cycle.
-- **2075 onward:** full system operational; 109M voters; SWF at its 12%-of-GDP cap.
+### 3.2 Dual Function
 
----
+The Regional Boards remain both:
+- Each region's state legislature — regional police oversight, education and healthcare oversight, credit-union audits within the region, ratification of reserve/land designations, administration of the regional equalization draws — and
+- The nation's territorial upper body — the "place" axis in national lawmaking (§6), confirmation of the independent boards (§7), and the ratification powers the Sovereign Remainder depends on (§10), including war-and-treaty ratifications.
 
-## Key Stats (2025–2075)
+### 3.3 The Command Locus for Regional Force
 
-- **Population:** 112M → 130M.
-- **GDP:** ~$14.5T (2025 baseline ~65% co-op/$9.425T) → ~$38.94T (co-op dominant by design, no binding target).
-- **SWF:** ~$550B → ~$1.5–2.0T (capped at 12% of GDP). *(The prior $3.082T uncapped figure is superseded.)*
-- **Revenue:** ~$725–750B (Consolidated Fiscal Model). *(Supersedes the prior internally inconsistent $601.58B / $1.6127T figures.)*
-- **Loans:** ~$452.5B → ~$1.2084T.
-- **Credit Unions:** 5,000.
-- **Governance:** 20 Regional Boards (220 members), 10 National Assembly grandmasters, 11 Central Council members, 200 regional judges, 7 Supreme Court justices, 510 department staff, 4 independent boards (NEB/NHB/NLC/NCB), 50–75 independent Special Auditors, 9 SAP arbiters (3 panels of 3).
-- **Currency:** fiat BWC (no metal backing); data architecture PPK + CED (no CWD).
+*Rationale:* two coercive bodies must not sit with the central executive — the 9.1M militia and the municipal police. Concentrating the mass of arms in the thin Sovereign Council would rebuild the very central power this system dissolves.
+
+- The militia answers to the territorial layer, not the Sovereign Council. The Council commands only the standing professional force (~125K + CMIS); the 9.1M militia is mustered through the Regional Boards, keeping the bulk of the nation's arms decentralized and civilian.
+- Municipal police are commanded and disciplined by the municipal councils, with Regional-Board oversight. Policing is never a Sovereign-Remainder function — the sword of the state stays local.
+- **Muster authority:** calling up 9.1M armed citizens is the domestic twin of declaring war, so it carries the 15/20 veto-override standard, time-boxed on the Wartime-Fee pattern. Defensive exception: on a declared invasion of the national territory, an invaded region's Regional Board may muster its own region's militia immediately, with national muster still requiring 15/20 within 30 days or the call-up lapses. The Sovereign Council never holds this power, even in war — that asymmetry is the entire purpose of having a militia.
+
+*(The individual complement to this decentralized militia is Floor 10 of §11 — the citizen's own right to arms. Both keep the means of force out of the central executive.)*
 
 ---
 
-## Glossary
+## Section 4: The Productive Chambers
 
-- **BWC:** Bulwark Coin — the national **fiat** currency (not metal-backed; value held by the Monetary Act §1.5 issuance anchor).
-- **PPK:** Professional Passport Key — citizen-held identity, credentials, and voting (zero-knowledge verification).
-- **CED:** Centralized Economic Database — pseudonymized economic data (no identity); joined to the PPK only via the warranted Judicial Link Box.
-- **Regional Boards:** the territorial chamber (Senate analogue) + each region's state legislature.
-- **National Assembly:** the sectoral chamber (10 grandmasters, one per sector).
-- **Central Council:** the executive.
-- **Special Auditors:** independent special prosecutors with self-initiating, subpoena, charging, and temporary-asset-freeze powers.
-- **Dual-Sector Grandmaster:** a grandmaster in two sectors; cross-domain integrator; one sits on the SAP.
-- **CCIF:** Capital Investment Fund — ~$2.395T voluntary co-op pool.
-- **FCL:** Federated Cooperative Limited.
-- **SWF:** Sovereign Wealth Fund — capped at 12% of GDP.
-- **CLS:** Crossroads Loan Service — embedded, demand-distributed credit-union loan officers.
-- **Runoff Rule (§2.3):** if no candidate reaches a 51% threshold on the first ballot, the top two proceed to a runoff decided by plurality; applies to every 51%-threshold election in this Act.
-- **SAP (Special Arbiter Panel, §3.6):** 9 arbiters organized as 3 randomly-assigned panels of 3; deadlock referral is mandatory binding arbitration, not opt-in; each panel includes at least one dual-sector master or grandmaster.
+*Rationale:* the productive economy divides by ownership form, and the system deliberately favors one form over another. So the two productive chambers are not symmetric: the co-op chamber is the larger and the favored; the corporate-labor chamber is the smaller and the disciplined.
+
+### 4.1 The Co-op Chamber
+
+- Delegates from the FCLs (co-ops), chosen by co-op boards, representing the co-op sector's collective interest.
+- **Tier gate:** only Tier 2+ co-ops — those that have formed a governing board — send delegates. A Tier 1 micro-co-op has no board and nothing to delegate from; it acquires a chamber voice automatically when it grows into Tier 2. Membership is self-enforcing by the tier ladder — no bureaucracy certifies entry, no one is gated on capital.
+- **Weight scales with size, capped at 5%:** a larger co-op carries more weight than a smaller one, capped at 5% of chamber voting power per entity (1 vote per 1,000 members/employees, 5% ceiling). A chamber ownable by a handful of giants would contradict its own constituency.
+- **The co-op political-weight incentive (named openly):** that co-ops carry more collective political weight than corporations is a deliberate incentive to choose the co-op form, not a neutral rule. The flywheel is intentional: co-ops earn voice, grow, and earn more — a loop the constitution turns on purpose for co-ops and denies to corporations (§4.2).
+
+### 4.2 The Corporate-Labor Chamber
+
+*Rationale:* corporations exist, employ citizens, and pay the heaviest tax — so denying them any voice would be taxation without representation. But the system disciplines them, and handing a corporation a delegate would hand the disciplined actor a lever to lobby its discipline away. The resolution: represent corporations through their workers, not their owners.
+
+- Delegates are chosen through the worker board seats corporate-governance rules already require (Monetary §4.1), not by shareholders. The corporate voice in the legislature is labor's voice.
+- Weight is modest — proportioned to the corporate sector's minority economic position and its disciplined status, deliberately below the co-op chamber's.
+- Corporate-labor delegates may not, alone, weaken the corporate-governance requirements, the co-op advantage, or any entrenched floor (§11); such measures require the universal vote.
+
+### 4.3 The Small-Actor and Informal Protection
+
+*Rationale:* the Tier-1 micro-co-op and the informal worker are represented as citizens (the universal vote), not as enterprises. The chambers must never legislate obligations onto those who had no voice in shaping them.
+
+- Any measure of either productive chamber that would impose an obligation on Tier-1 micro-co-ops or on informal-sector activity must also clear the universal vote (§2). Small actors are governed as citizens, never as enterprises.
+- Nothing in the productive chambers may pierce the Informal Economy Guarantee (§11).
+
+### 4.4 Size and Structure
+
+- The Co-op Chamber seats **150 members:** 100 co-op delegates + 50 wildcards (the Rule of Thirds).
+- The Corporate-Labor Chamber seats **50 members:** 33 worker-delegates + 17 wildcards (the Rule of Thirds, rounded up toward the citizen).
+- The enterprise ratio is **3:1** (100 : 33) — deliberately tighter than the economy's ~4:1 co-op:corporate split. The corporate chamber is already muzzled; shrinking it further would make the "no taxation without representation" justification dishonest. 3:1 keeps the corporate voice real but minor.
+- Together the two productive chambers seat 200 — large enough for genuine committee-level deliberation across the ~195K eligible Tier-2+ FCLs, bounded to avoid siloing.
+- The territorial chamber (220) remains the largest body, reflecting that place, routed through the universal-membership credit unions, is the broadest constituency.
+
+---
+
+## Section 5: The Relationship Between the Layers
+
+*Rationale:* three chambers of institutions sitting under one vote of individuals is only safe if the boundaries are explicit. The great danger is that incorporation buys representation. Section 5 is the firewall.
+
+### 5.1 The Plutocracy Firewall (the load-bearing rule)
+
+- The chambers represent entities' collective interests, never their members' aggregated wealth. A co-op with a thousand members speaks as one enterprise with a size-capped weight — not as a thousand stacked votes.
+- Capital may flow through every chamber but may never become a vote in any. This is the same firewall the Exchange Act enforces on the market ("cashflow trades, control does not") and the citizen endowment enforces at birth (the base share is a birthright; special shares never vote) — extended now to the legislature.
+- The universal citizen vote is co-equal-or-superior to the chambers at every point of contact, and strictly superior on any matter of individual right (§11). No quantity of incorporation can outvote humanity.
+
+### 5.2 Jurisdiction
+
+- The chambers hold enterprise and economic matters — sector policy, licensing frameworks, the terms on which enterprises operate, the drafting of national economic law.
+- The universal vote holds everything, and holds supremacy over the chambers. Matters of individual right, the entrenched floors (§11), and the ratification of all national law belong to it.
+- Disputes over which layer holds a contested matter are assigned by the Special Arbiter Panel (Sovereign Remainder §4.2), bound by a presumption toward the universal vote — doubt resolves toward the citizen, not the chamber.
+
+---
+
+## Section 6: Lawmaking
+
+*Rationale:* the chambers draft, the citizens ratify; the chambers cannot pass law over the citizens, and the citizens can force law over the chambers.
+
+### 6.1 The Ordinary Path
+
+- A national law is drafted in the chambers, must satisfy both axes — the territorial chamber (the places it touches) and the relevant productive chamber(s) (the forms it governs) — and is then ratified by the universal citizen vote at referendum (simple majority, unless it touches an entrenched floor, §11).
+- Explanatory materials are published publicly; the vetting period is 12 months for the mandatory cycle.
+
+### 6.2 The Mandatory Cycle
+
+- The chambers must put at least one law, amendment, or repeal package to national referendum every 5 years (cycle begins 2030). If they miss the deadline, the citizen-initiative threshold (§6.3) drops automatically — the citizens' lawmaking power expands precisely when the chambers fail.
+
+### 6.3 Citizen-Initiated Law (tiered threshold)
+
+- Citizens may force a law, amendment, or repeal onto the ballot without any chamber's approval: petition filed with the Treasury, signatures verified by PPK zero-knowledge proof (eligibility confirmed without exposing identity).
+- **Tiered threshold:** for ordinary law (not touching an entrenched floor), the threshold is **1%** of national voters; for law touching a floor (§11), **2%**. If the chambers missed their §6.2 cycle, each threshold drops (to 0.5% / 1%). **The Special Arbiter Panel determines whether a proposed initiative touches a floor, with the burden of proof on the chambers to show that it does** — so the higher bar cannot be used to smother ordinary initiatives by mislabeling them.
+- Restrictions: citizen initiative may not eliminate the corporate-governance requirements, the 2-for-1 repeal rule (absent a 75% supermajority), or any entrenched floor (§11).
+
+### 6.4 The 2-for-1 Repeal Rule
+
+- When active, every new law passed by referendum requires two existing laws to be repealed, consolidated, sunsetted, or merged. Triggered by a 2% "legal cleanup" petition, the code exceeding 2,000 active statutes, or the automatic decennial cycle. Enforcement and disputes over what counts as a repeal go to the Special Arbiter Panel (consolidation qualifies; renaming does not).
+
+### 6.5 Deadlock
+
+- A legislative or regulatory deadlock does not wait for the parties to agree — it is referred automatically to binding arbitration before a randomly assigned Special Arbiter Panel (Sovereign Remainder §4.2). Disagreement is expected; permanent paralysis is not.
+
+---
+
+## Section 7: The Independent Board Registry
+
+*Rationale:* seven independent regulatory boards — NEB (energy), NHB (health), NLC (learning), NCB (communications), NInfraB (infrastructure), NIB (industry), NHA (housing) — each an identical 11-member template. Seven instantiations of one pattern is proof the pattern should be defined once, here, and referenced everywhere. The Sovereign Remainder is barred from domestic regulation (Remainder §8), so board appointment is a chamber function, not a sovereign one.
+
+### 7.1 The Uniform Rule
+
+- Composition: 11 members — 6 regional representatives, 4 experts, 1 chairman.
+- The experts are drawn from the regional advisory layer (§8), so expertise enters the board through the advisory bodies, never through a chamber seat.
+- Appointment: nominated by the Territorial Chamber (Regional Boards, 11/20), confirmed by the relevant Productive Chamber(s). No sovereign-remainder involvement.
+- Removal: by the nominating and confirming bodies jointly, or on cause established by a Special-Auditor investigation. No single official or body may remove a commissioner unilaterally.
+- Independence: each board is paired in consultation with its department but subordinate to none; the board sets standards, the department spends and implements; disputes go to the SAP.
+
+### 7.2 The Open Disciplined Pattern
+
+- **Charter bar (one notch below the floor bar):** a new board may be chartered only for a genuine natural-monopoly or standards-setting domain, by supermajority of the territorial chamber and the relevant productive chamber(s), plus a simple-majority national referendum, plus a mandatory SAP finding that no existing board, rule, mutual, or chamber can hold the function (the downward presumption applied to boards). The SAP impossibility-finding is the true discipline against proliferation. The registry lists all chartered boards; the list is public; collisions (like the NHB/NHA rename) are resolved at charter.
+
+### 7.3 The NEB Special Case (the one dangerous concentration)
+
+*Rationale:* the NEB owns the grid, operates 56 GW of SMR reactors, sets access-fee rates, licenses its own competitors, and administers the un-raidable Asset Renewal Fund — rule-setter, asset-owner, operator, and fee-collector at once. A physical grid may make full separation impossible, but the concentration must be named and checked.
+
+- The NEB's four functions are separated to the maximum a single physical grid permits, with fee-setting proposed by formula and ratified by the relevant chamber (never set by the NEB alone).
+- A hard wall separates civilian power reactors (NEB) from weapons-grade material (Sovereign Remainder / Military): the board that runs the reactors has no path to the shells. *(This wall is the operational counterpart of the nuclear-use floor, §11 Floor 16.)*
+- The standing check on the NEB is the Special Auditors, who may open its books on their own initiative.
+
+---
+
+## Section 8: The Regional Advisory Layer
+
+*Rationale:* expertise advises; membership governs. A credential earns a seat where advice is given, never where power is held.
+
+### 8.1 The Two-Tier Rule
+
+- Advisory and nominating bodies — the Regional Health Assemblies, Regional Media Assemblies, Regional Education Assemblies, and Sector Councils — may weight their seats by expertise. They advise the boards and nominate candidates for board and Regional-Board seats.
+- The chambers proper — territorial and productive — are membership-based, never expertise-weighted. A credential earns you a seat on an advisory body; it never earns you a vote in a chamber.
+- **The multiple-nominee rule (new).** Advisory bodies shall submit **at least three nominees** for each vacancy on a board or Regional-Board seat. The confirming body may choose any of the nominees or request additional nominees, but **may not confirm anyone not included in the submission.** This prevents an advisory body from stacking the pool with a single preferred candidate and preserves genuine choice for the confirming body.
+
+### 8.2 The Credentialing Principle
+
+- The journeyman/master/grandmaster ladder is a labor credential, not a political one. It trains you, certifies your skill, and may seat you on an expertise-weighted advisory body — but it never seats you in a chamber and never, by itself, confers governing power.
+- An arbiter's cross-cutting standing is defined by membership across two economic forms (e.g., active in both a credit union and a Tier-2+ co-op board), not by holding two grandmaster credentials. Standing comes from where you belong, not what you have mastered.
+
+### 8.3 The School-Board Military Liaison (deliberate carve-out)
+
+- The military-liaison seat on Local School Boards is permitted as liaison and recruitment presence only. It confers no command, surveillance, or enforcement role. Named explicitly so the tendril cannot grow.
+
+---
+
+## Section 9: Universal Election Machinery
+
+*Rationale:* state the procedural rules once, and every election and confirmation in the constitutional order cites them — the single-rule discipline.
+
+### 9.1 The Runoff Rule
+
+- Any election requiring a 51% majority: if no candidate reaches 51% on the first ballot, the top two proceed to a runoff decided by simple plurality. Applies uniformly — chamber delegates, board confirmations, wildcard seats, Sovereign Council seats, and any other 51%-threshold vote.
+
+### 9.2 The Deadlock Rule for Confirmations
+
+- If a nominating body's first 3 nominees for a seat are each rejected, the confirming body must confirm one of those 3 within one week of the third rejection. No seat sits vacant on repeated rejection. Applies to every confirmation in this act and the Sovereign Remainder Act.
+
+### 9.3 The Recall Standard
+
+- Every electing body may recall the official(s) it elected, by 2/3 supermajority of that body. Uniform across all recalls — territorial-chamber members, productive-chamber delegates, wildcards, board commissioners, and the Sovereign Council. No office is accountable only to the calendar.
+
+---
+
+## Section 10: Confirmations and Ratifications the Sovereign Remainder Depends On
+
+*Rationale:* the Sovereign Remainder's powers depend on the chambers this act defines. Section 10 closes the loop.
+
+### 10.1 War
+
+- Defensive action against a declared invasion of the national territory: the Sovereign Council may act at once (the standing force only; militia call-up per §3.3).
+- Offensive war or force projection: requires Territorial-Chamber ratification at the 15/20 supermajority within 30 days, absent which forces stand down. All war authority carries the Wartime-Fee pattern.
+- The territorial chamber, not the productive chambers, holds the war-ratification power: war is a matter of the nation as places, not as trades.
+
+### 10.2 Treaties
+
+- Negotiated by the Sovereign Council; ratified by both chambers jointly. Any treaty binding domestic law additionally requires the universal citizen vote, and takes no effect until the Supreme Court rules or 180 days pass without petition (Sovereign Remainder §2.2). A treaty inconsistent with an entrenched floor is void as domestic law.
+
+### 10.3 The Special Auditors
+
+- Nominated by the Sovereign Council, confirmed by the Territorial Chamber.
+- **Citizen backstop:** auditor confirmations are subject to a universal-vote veto — a national petition (at the §6.3 threshold) can force any auditor confirmation to a ratifying referendum. The prosecutor who can charge anyone answers, ultimately, to everyone.
+
+### 10.4 The Sovereign Council
+
+- The 6 professional/executive seats are nominated by the Territorial Chamber, confirmed by the Productive Chambers jointly.
+- The 1 wildcard seat is elected directly by the universal vote — so the thin state is never wholly chosen by institutions.
+- **Size:** 7 members (6 professional + 1 universal wildcard).
+
+### 10.5 Amendment Thresholds
+
+Three tiers, from hardest to easiest:
+
+- **Highest bar** — to grow the sovereign remainder's closed list, or to weaken, remove, or narrow an entrenched floor (§11): supermajority of every chamber (territorial and both productive) plus a **75% universal referendum.** These are rights and the reach of the state; they move only on near-consensus.
+- **Middle bar** — to add a new entrenched floor (the rights ratchet, §11.3), to charter a new independent board (§7.2), or to breach the operating cap: supermajority of the relevant chambers plus a simple-majority referendum (and, for a board, an SAP impossibility-finding). It is easier to add a protection than to remove one, and easier to add a regulator than to make it a right.
+- **Ordinary bar** — to shrink the remainder, retire a board, or push any function down to a rule, mutual, or chamber: the ordinary amendment procedure. It is always easier to shrink the state than to grow it.
+- **Clarificatory floor amendments:** an amendment to a floor that does **not** weaken, narrow, or expand its scope — a clarification, technical correction, or update to reflect changed technology or terminology — requires only the middle bar. **The SAP determines whether a proposed floor amendment is clarificatory or substantive, with the burden of proof on the proponents to show it is clarificatory, subject to Supreme Court review.** Any doubt resolves toward "substantive," and therefore toward the 75% bar — the ratchet protects the floor.
+
+---
+
+## Section 11: The Entrenched Floors — The Bill of Rights of New Crossroads
+
+*Rationale:* most rules govern procedure — how we decide. These govern substance — things we have decided may never be traded away, by any majority, chamber, emergency, treaty, or official. This is the constitution's answer to its own majoritarianism. It is also the one schedule a majority cannot reach, so it is written to be **complete**: anything left off it is, by construction, reachable.
+
+### §11.0 — Nature and Binding Force
+
+- **The floors bind everyone.** Each floor binds the Sovereign Remainder, all three chambers, the universal citizen vote, every municipal council, every regulatory board, and every treaty, equally.
+- **No emergency, war, or treaty pierces them.** There is **no suspension mechanism.** The only standing emergency power in the order is the economic Tier-2 mode (Sovereign Remainder §5.3), which touches no floor. A nation facing a true existential threat will act and answer to history; the constitution holds no pre-authorized door to suspend a right, because the door is more dangerous than the threat.
+- **The breach bar is the highest in the order** (75% referendum, §10.5). The ratchet (§11.3) makes it easier to add a floor than to remove one.
+- **Standing is universal** (§11.5).
+
+### §11.1 — The Floors
+
+**Cluster A — The Economic and Commons Floors**
+
+**Floor 1 — The Informal Economy Guarantee.** Cash commerce at or below the DLB threshold is never taxed, tracked, or surveilled (Monetary §1A). The informal majority's protection is not a policy the majority may revoke.
+
+**Floor 2 — The Three-Part Home Doctrine.** The primary residence is *never taxed* (Municipal §1.2), *never arbitrarily taken* (takeable only under the bounded takings power — public infrastructure only, market-plus-10%, no private-to-private transfer, judicial ratification, Remainder §4.4), and *never surveilled* (reached only through the Judicial Link Box; who pays rent to whom is Link-Box-only, Housing §1.1). Tax, taking, and surveillance — the three ways a state reaches into a home — each walled off.
+
+**Floor 3 — Vote Privacy.** The order records only *whether* a citizen voted, never *how*; no vote content ever enters the CED. Reached, if ever, only through the Link Box.
+
+**Floor 4 — Minimum Environmental Flow.** No withdrawal may take a protected river below its ecological minimum — above reactor cooling, above irrigation, above every economic use (Parks §2.5). The one floor held not by a citizen but by the living system the nation depends on.
+
+**Floor 5 — The Plutocracy Firewall.** Capital may flow through every chamber, market, and credit union, but may never become a vote in any (§5.1; Exchange §1; the base-share rule). No quantity of incorporation can outvote humanity.
+
+**Floor 6 — The Corporate-Governance Requirements and the 2-for-1 Repeal Rule.** The §4.1 corporate disciplines and the 2-for-1 legislative-cleanup rule are removable only at the 75% bar (§6.3, §6.4).
+
+**Cluster B — The Social-Right Floors**
+
+*Rationale:* the funding machinery already exists — premiums pool, the commons waterfall tops up, the equalization funds smooth across regions. But a funding mechanism is not a rights guarantee: a mutual pays for the care of its pool; it does not, by nature, guarantee a floor to the person outside the pool, to the informal cash worker in no pool, or to the citizen of a region whose fund runs thin. These two floors convert the *system that is funded* into a *right that is owed*.
+
+**Floor 7 — The Healthcare Floor.** Every citizen is entitled, as a right and not a benefit, to a defined minimum of essential healthcare — regardless of premium, pool membership, region, employment, or wallet. The National Health Board sets the essential-care schedule; it may be raised but never lowered below the floor, and is reviewable so it cannot be hollowed out. The funding machinery — contributions/premiums, the commons waterfall, and the regional equalization funds — is constitutionally **bound to satisfy this floor before any other distribution**; where a region's contributions fall short, the equalization fund and, in extremis, the commons waterfall must close the gap, and a shortfall against the floor is a **rights violation** remediable by any citizen's petition, not a regional variation. The informal cash worker, in no formal pool, is covered as a citizen.
+
+**Floor 8 — The Education Floor.** Every citizen is entitled, as a right, to a defined minimum of schooling and to access the debt-free educational pipeline (Education Act) — regardless of region or means, from the core years through the mandatory apprenticeship. The National Learning Board sets the essential-schooling schedule on the same terms as Floor 7 (raisable, never lowerable, reviewable, funding bound to the floor first). No citizen's education is contingent on the solvency of their region or the wealth of their family.
+
+**Cluster C — The Liberty Floors**
+
+**Floor 9 — Free Expression and a Free Press.** Expression is protected **absolutely against restriction by content or viewpoint**, with two — and only two — exceptions: **defamation** (false statements of fact that damage reputation) and **incitement to imminent violence** (advocacy directed to producing imminent lawless violence, and likely to produce it). Neither exception may be expanded to reach criticism, dissent, offense, blasphemy, satire, unpopular opinion, false *opinion*, or advocacy of lawful change; speech that is merely hateful, wrong, or dangerous *as an idea* remains protected. Protected expression expressly includes **artistic and symbolic expression and the right to receive information.** There is **no obscenity exception.** The **press** — the institutional exercise of this right — is protected identically, specifically in its scrutiny of the remainder, the chambers, and the Special Auditors: no licensing, no prior restraint, no retaliation against publication, and no compelled disclosure of sources except through the Link Box on the ordinary warrant standard. A free press is the external check on the one inward-facing sovereign power (the auditors, Remainder §3). The burden of justification is always on the state.
+- *Bounded crime clause:* this floor does not immunize expression that is itself the instrument of a **distinct crime** — fraud, perjury, a true threat against a person, or material depicting the sexual abuse of children — where the wrong punished is the *crime*, not the viewpoint. This clause reaches conduct-crimes only and may never be used to reach protected speech.
+
+**Floor 10 — The Right to Keep and Bear Arms.** The individual right of the citizen to **keep and bear arms, including concealed carry**, is protected — the personal complement to the decentralized militia (§3.3): both keep the means of force out of the central executive. The right itself, and concealed carry specifically, may not be licensed, taxed, or conditioned away.
+- **Exclusions (who may be barred):** (a) a person **convicted of a violent felony**; and (b) a person **adjudicated mentally infirm.** Both require a **judicial determination** — a conviction, or an adjudication with notice, a hearing, counsel, and a **path to restoration** of the right upon rehabilitation or recovery — so that "mentally infirm" can never become an administrative label used to disarm the inconvenient. The exclusion is itself checked by a judge.
+- **Precondition to purchase:** proof of firearms competence — **completion of military/militia boot camp OR a certified safety-and-handling course.** This is a *training precondition, not a licensing or registration regime.* Eligibility is held as a **PPK qualified/not-qualified attribute** (like professional licensure or field-of-membership) and proven by zero-knowledge proof, so a citizen demonstrates "trained and eligible" **without any registry of who owns what.** **No arms registry may be constructed;** it would breach Floors 1–3. The state may verify *training*, never inventory *ownership*.
+- **Manner:** regulation of the manner of carriage and storage (safe storage; carry in genuinely sensitive places such as courtrooms and reactor sites) is permitted **only where it does not defeat the right.** A manner-rule that functions as a ban is void.
+
+**Floor 11 — Free Exercise and No Establishment.** Free exercise of religion and conscience is protected; the order establishes no religion and imposes no religious test for any office, benefit, floor, or chamber seat.
+
+**Floor 12 — Assembly, Association, and Petition.** The citizen may assemble peaceably; associate freely; form and join unions, co-ops, corporations, congregations, movements, and parties; and petition any organ of the order. The right to organize *outside* the chambers is the guarantee that the chambers never become the only permitted form of collective life.
+
+**Cluster D — The Person-and-Process Floors**
+
+**Floor 13 — Security Against Search and Seizure.** The citizen is secure in **person, home, wallet, communications, and data** against search or seizure except upon **warrant** — probable cause, an independent judge, and, for any crossing of PPK identity with CED economic data, the **Judicial Link Box alone** (two-region approval, public log, notice within 90 days, no bulk operation — Remainder §4.3). No general, bulk, or standing warrant, and no programmatic interface to the Link Box, is permitted. The auditors' asset freeze is a seizure carrying its own 14-day judicial ratification (Remainder §3.3); an unratified freeze lapses.
+
+**Floor 14 — Due Process.** No person may be punished but by conviction in an independent court; no deprivation of liberty, property, or the arms right but by judicial determination, with **notice, a hearing, the assistance of counsel, and the presumption of innocence.** No indefinite deprivation without judicial review. The Special Auditors may **charge and briefly freeze; only the judiciary may convict.** Every sovereign power that touches the person runs on a judicial clock.
+
+**Floor 15 — Equal Protection.** The remainder, the chambers, the municipalities, and the boards may not **disfavor any person** by race, sex, origin, religion, language, disability, or comparable trait — in law or in the distribution of any commons, benefit, or floor. This is distinct from, and does not disturb, the constitution's deliberate and *stated* favoring of **economic forms** (the co-op advantage, §4.1): the order may favor a *form of ownership* out loud; it may never disfavor a *human being* by trait. Favor the co-op; never disfavor the person.
+
+**Cluster E — The Ultimate-Force Floor**
+
+**Floor 16 — The Nuclear-Use Floor.** No nuclear weapon may be used except on **all three** of: (a) a **unanimous** vote of the Sovereign Council; (b) a **15/20 supermajority** of the Territorial Chamber; and (c) a **simple-majority national referendum** (maximum 72-hour voting window in a genuine emergency). The lock is designed to make nuclear use politically prohibitive. Any use not meeting all three conditions is void and constitutes **high treason by every official involved**, prosecutable by the Special Auditors. This floor is the political counterpart of the civilian-reactor/weapons-grade wall (§7.3).
+
+### §11.2 — The Link Box as the Single Warranted Door
+
+The Judicial Link Box (Remainder §4.3) is the one bridge behind every privacy floor — financial privacy (Floor 1), the home (Floor 2), vote privacy (Floor 3), media-consumption privacy (Communications §8.4), housing-payment privacy (Housing §1.1), and search of person and data (Floor 13). One hash to one identity, per warrant, per judge, on the record, notified, audited annually, **constitutionally incapable of bulk operation.** There is no other door through any privacy floor, and there may never be.
+
+### §11.3 — The Rights Ratchet
+
+The remainder is easier to shrink than to grow (Remainder §1.3); the citizen's protections are the mirror image. **Adding a floor** requires only the middle bar; **narrowing or removing a floor** requires the 75% referendum (§10.5). It is by design harder to take a protection from the citizen than to give one. The order ratchets toward more protection, never less.
+
+### §11.4 — Non-Exhaustion (The Retained-Rights Clause)
+
+The enumeration of these floors does not deny or disparage other rights retained by the citizen. A right's absence from this schedule is **not** license to violate it; it means only that the right does not yet carry the 75% entrenchment. The schedule is a floor beneath the citizen's liberties, never a ceiling over them.
+
+### §11.5 — Universal Standing and Judicial Review
+
+Any citizen may petition the Supreme Court to void any act — of the remainder, a chamber, a municipality, a regulatory board, or a treaty — that breaches any floor. Standing is deliberately universal: no showing of particular injury is required, because a breach of a floor injures every citizen. A treaty inconsistent with a floor is void as domestic law; a chamber act inconsistent with a floor is void; a citizen-initiated law inconsistent with a floor is void. In any case where a floor is at issue, the judiciary is independent and final.
+
+### §11.6 — The Floors Bind the Remainder and the Chambers Alike
+
+These floors are the shared schedule referenced in Sovereign Remainder Act §8.9, which references them as a whole so the list cannot drift between the two acts. They bind the Sovereign Remainder, the chambers, the universal vote, and every official of every layer. No war, emergency, treaty, or act of any body pierces them.
+
+---
+
+## Structure Summary
+
+| Layer | Body (seats) | Represents | Chosen by |
+|---|---|---|---|
+| Supreme individual | Universal Citizen Vote + wildcard seats | Every human; the informal majority | Birthright at 20; wildcards directly elected |
+| Territorial (place) | Regional Boards (20 × 11 = 220; 7 federated + 4 wildcard each) | Where you live; the financial commons | Credit-union membership (universal) + wildcards |
+| Productive (form) | Co-op Chamber (150; 100 delegates + 50 wildcard) | The favored member-owned economy | Co-op boards (Tier 2+), 5% weight cap |
+| Productive (form) | Corporate-Labor Chamber (50; 33 delegates + 17 wildcard) | The disciplined corporate economy, via labor | Corporate worker board seats |
+| Regulatory | 7 independent boards (registry) | The physical/standards commons | Regional Boards nominate, productive chambers confirm |
+| Advisory | RHAs / RMAs / REAs / Sector Councils | Expertise | Expertise-weighted; advise and nominate only (≥3 nominees) |
+| Executive (remainder) | Sovereign Council (7; 6 + 1 wildcard) | The thin sovereign state | Territorial nominate, productive confirm; wildcard direct |
+| Lawmaking | Chambers draft → universal vote ratifies | The nation | Two-axis satisfaction + referendum |
+| Outer limit | The Entrenched Floors (§11; 16 floors) | What no majority may touch | Highest bar to breach; no suspension |
+
+**Every chamber is one-third wildcards (the Rule of Thirds, §2.3), rounded up toward the citizen.**
+
+---
+
+## Section 12: Resolved / Rejected in 0.3
+
+**Resolved (folded in):** the tiered citizen-initiative threshold with SAP floor-classification (§6.3); the multiple-nominee rule (§8.1); the consolidated election machinery (§9); the clarificatory-vs-substantive floor-amendment tier (§10.5); and the completed sixteen-floor Bill of Rights (§11).
+
+**Rejected (on the record):** the merge of this act with the Sovereign Remainder Act (kept separate); the emergency suspension of entrenched floors (the floors are absolute; §11.0); the "obscenity" carve-out from the speech floor (Floor 9 keeps two content exceptions plus a bounded conduct-crime clause).
+
+**Founder's choices, revisable without structural consequence:** the co-op chamber at 100 delegates (over a leaner 60) for deliberative capacity; the 3:1 enterprise ratio (tighter than the economy's ~4:1) to keep the corporate voice honest.
 
 ---
 
 ## Design Philosophy (Informative)
 
-New Crossroads takes the American architecture — separated powers, two legislative chambers, an independent judiciary, independent prosecutors — and re-cuts one piece: the legislature is split not into two territorial houses, but into a chamber of **places** and a chamber of **trades.**
+The old legislature asked a strange thing of a person: to be, at once, the finest electrician in the region and one of its rulers. It fused the skill of the trade with the power of the state, and called the result representation. It was really a caste. This act dissolves the caste and asks the simpler question the economy already answers every day: who owns what, and where do they live?
 
-- **Place and trade both get a voice.** The Regional Boards speak for where you live; the National Assembly speaks for what you do. A law must satisfy both — the region it touches and the sector that runs it.
+- **The economy is the electorate.** The credit unions, being places, become the chamber of places. The co-ops and corporations, being forms of ownership, become the chambers of form. And the informal economy, which cannot be organized without being destroyed, is represented the only honest way a hidden majority can be — by the one vote every citizen carries simply for being one.
 
-- **The regulators are kept at arm's length.** The boards that set the rules are not the departments that spend the money. They consult; they do not command each other. The body that sets energy rates is not the body that spends the energy budget.
+- **The citizen outranks the enterprise.** Three chambers of institutions could easily become a parliament of capital, so the human vote is placed above all of them and made strictly supreme wherever a right is at stake. Money may move through every chamber; it becomes a vote in none.
 
-- **Someone can investigate everyone.** The Special Auditors answer to no department and no official — they can open the books of anyone, including those who appoint them, subpoena, charge, and briefly freeze assets, checked only by a judge. Power that polices itself is power that can be trusted.
+- **Expertise advises; membership governs.** A credential earns a seat where advice is given, never where power is held. The expert-weighted regional bodies are walled to advice, and the chambers stay bodies of members, not of the credentialed.
 
-- **The citizen is sovereign over identity and silent in the vote.** What you are is yours, in the PPK; how you voted is known to no one. The state sees the economy, never the citizen.
+- **The favored form is favored out loud.** Co-ops carry more political weight than corporations, and the corporation speaks only through its workers. This is not neutral, and the act does not pretend it is — because a stated preference can be defended where a hidden one only festers.
 
-- **Cross-cutting minds resolve deadlocks.** The dual-sector grandmasters — those who have mastered two trades — bridge the silos and sit where disputes are settled.
+- **Seven boards, one rule.** The regulators of the grid, the clinics, the schools, the wires, the roads, the factories, and the homes are chartered once, appointed once, and policed by prosecutors who answer to no one they investigate.
 
-- **Every mandate has an end and a recall.** Sector masters serve at most 15 years; every body that elects an official can also remove that official by supermajority — including, now, the grandmasters, whose term limit was once their only check. No office is accountable only to the calendar.
+- **Some things the majority may not do, and nothing suspends them.** Beneath all the counting sits a schedule the counting cannot reach: the cash economy of the poor, the home no state may tax or take or watch, the secret ballot, the river's own minimum, the wall between capital and the vote — and now the doctor and the school owed to every citizen, the speech the majority would silence, the press that watches the prosecutor, the arm the free citizen may bear, the person secure against search, the accused owed due process, the human being never disfavored by trait, and the weapon the majority may not loose without near-unanimity. A constitution that trusts the majority must also, in a few places, bind it — and it must not keep a key to those bindings in its pocket for emergencies, because the key is the danger.
 
-- **Every stalemate has a deadline.** A confirming body that rejects three nominees in a row must seat one of them within a week — no seat sits vacant on repeated rejection. A legislative or regulatory deadlock does not wait for the parties to agree to resolve it; it is referred, automatically, to binding arbitration before a randomly assigned panel. Disagreement is expected; permanent paralysis is not.
-
-Place and trade, executive and court, regulator and prosecutor — separated, balanced, and watched. That is the government of New Crossroads.
+The chambers draft; the citizens ratify; the expert advises; the prosecutor watches; and the home, the ballot, the river, the clinic, the school, the printing press, and the ballot-box stand outside the reach of every vote. Place and form both speak, and the person has the last word. That is the legislature of New Crossroads.
 
 ---
 
-**End of Draft 4.20**
+End of Draft 0.3
