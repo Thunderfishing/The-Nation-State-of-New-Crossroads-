@@ -1,13 +1,3 @@
----
-title: "Crossroads Chamber and Citizen Representation Act of 2025"
-draft: "0.3"
-date: "2026-07-04"
-author: "Thunderfish2"
-repository: "crossroads-monetary-act"
-description: "Successor-in-part to the Government Act 4.20 and companion to the Sovereign Remainder Act. Establishes the legislature of New Crossroads as a federation of self-governing economic constituencies — the credit-union territorial chamber, the co-op and corporate-labor productive chambers — sitting beneath a supreme universal citizen vote that represents every human being, including the informal majority. Holds the shared entrenched-floor schedule (§11): the nation's Bill of Rights. Built on one principle: enterprises are represented as enterprises, but capital never becomes a vote, and no chamber outranks the citizen. Kept deliberately SEPARATE from the Sovereign Remainder Act."
-supersedes: "Draft 0.2. This 0.3 restores and completes the entrenched-floor schedule (§11) into a full sixteen-floor Bill of Rights — adding the healthcare and education floors, the free-expression/press floor, the right to keep and bear arms, free exercise, assembly/association, search-and-seizure via the Link Box, due process, equal protection, and the nuclear-use floor — folds in three procedural refinements from external review (the tiered citizen-initiative threshold §6.3, the multiple-nominee rule §8.1, and the consolidated election machinery §9), and remains a standalone act. It rejects the proposal to merge the two governance acts, the proposal to permit emergency suspension of the floors, and the proposed 'obscenity' carve-out from the speech floor. Until this act and the Sovereign Remainder Act are both ratified, Government Act 4.20 remains operative."
----
-
 # Crossroads Chamber and Citizen Representation Act of 2025: Draft 0.3
 
 Posted to r/Bulwarkomics
@@ -19,25 +9,6 @@ Author: Thunderfish2
 **This act is deliberately separate from the Sovereign Remainder Act.** They are ratified together but are not one document. This act is the *source* — the chambers and the citizens — beneath which the remainder is the residue. §11 of this act is the shared Bill of Rights binding both.
 
 **Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values.
-
----
-
-## Amendment note — Draft 0.3
-
-Draft 0.3 keeps every 0.2 provision, restores and completes the rights schedule, and folds in three procedural refinements.
-
-**Kept separate.** The proposal to merge this act with the Sovereign Remainder Act into one charter is **rejected**. Two acts, ratified together, never merged.
-
-**The rights schedule restored and completed (§11).** The six-floor schedule is rebuilt into a full **sixteen-floor Bill of Rights** in five clusters, adding: the **healthcare** and **education** floors (rights that bind the funding, not programs the majority may revoke); **free expression and a free press**; the **right to keep and bear arms** (including concealed carry, with process-bounded exclusions and a training precondition that creates no registry); **free exercise and no establishment**; **assembly, association, and petition**; **search and seizure** wired to the Link Box; **due process**; **equal protection**; and the **nuclear-use floor**. This is the single schedule a majority cannot reach, so it must be complete.
-
-**Procedural refinements folded in (external review, accepted on the merits):**
-- **§6.3 — Tiered citizen-initiative threshold.** 1% for ordinary law, 2% for law touching a floor; the SAP decides which, with the burden on the chambers to show a measure touches a floor.
-- **§8.1 — The multiple-nominee rule.** Advisory bodies submit ≥3 nominees per vacancy; the confirming body may not seat anyone off the list. Closes the single-preferred-candidate stacking loophole.
-- **§9 — Consolidated election machinery.** The runoff, deadlock, and recall rules stated once and cited everywhere (the single-rule discipline).
-
-**Rejections (on the record):**
-- **No emergency suspension of the floors.** The proposal to permit temporary suspension of entrenched floors in a "declared existential emergency" is **rejected**. The whole constitutional promise is that no war, emergency, or treaty pierces a floor; a pre-authorized suspension door is more dangerous than the scenario it anticipates. The floors are absolute.
-- **No obscenity carve-out from the speech floor.** The proposed third exception (an "obscenity" category the Court could define away case-by-case) is **rejected** as the historically abused loophole. The speech floor keeps exactly two content exceptions — defamation and incitement to imminent violence — with a narrowly bounded clause for expression that is itself the instrument of a distinct crime (§11 Floor 9).
 
 ---
 
