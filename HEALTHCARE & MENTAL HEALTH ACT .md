@@ -1,12 +1,3 @@
----
-title: "Crossroads Co-operative Healthcare & Mental Wellness Act of 2025"
-draft: "6.6"
-date: "2026-07-12"
-author: "Thunderfish2"
-repository: "crossroads-monetary-act"
-description: "Companion legislation to the Monetary Act 9.7, Credit Union Act 5.7, the FCL Act 3.3, the Sovereign Functions Act, the Chamber Act, and the Education Act 2.3. A premium-funded, co-op-led universal health and mental-wellness system delivered through a three-tier facility structure (clinics → super hospitals → mega hospitals at SMR nuclear hubs), with a permitted private corporate tier, hybrid CCJV facilities, and integrated mental health."
----
-
 # Crossroads Co-operative Healthcare & Mental Wellness Act of 2025: Draft 6.6
 
 **Posted to r/Bulwarkomics**
@@ -16,8 +7,6 @@ description: "Companion legislation to the Monetary Act 9.7, Credit Union Act 5.
 > **Cross-reference.** Companion to the **Monetary Act 9.7**, the **Credit Union Act 5.7**, the **FCL Act 3.3**, the **Sovereign Functions Act**, the **Chamber Act**, and the **Education Act 2.3**. Loans are reference-rate-anchored (Monetary Act §1.5A). Data uses the **PPK/CED** architecture (Monetary §5), operational from inception — there is no CWD. The currency is fiat.
 
 > **Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values. Facility counts and corporate-sector share are descriptive projections, not quotas.
-
-> **Amendment Note — Draft 6.6.** Updates cross-references to align with final acts: Government Act replaced by Sovereign Functions Act and Chamber Act; Central Council → Sovereign Council; Monetary Act 9.5 → 9.7; Credit Union Act 5.4 → 5.7; Education Act 2.2 → 2.3; DAI/BAR removed (loans reference-rate-anchored, Monetary §1.5A). All substantive provisions (premium funding, three-tier facility structure, corporate tier, CCJV model, mental health integration) preserved unchanged.
 
 ---
 
