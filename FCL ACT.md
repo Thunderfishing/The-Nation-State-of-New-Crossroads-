@@ -1,10 +1,8 @@
 # Crossroads Federated Cooperatives Limited (FCL) Structure Act of 2025: Draft 3.3
 
-Draft: 3.3 | Date: July 11, 2026
-Author: Thunderfish2
-
-
-**Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values.
+**Posted to r/Bulwarkomics**  
+**Draft: 3.3 | Date: July 11, 2026**  
+**Author: Thunderfish2**
 
 ---
 
@@ -20,10 +18,12 @@ Author: Thunderfish2
 ## Section 2: FCL Structure and Ownership
 
 ### 2.1 FCL Network
-- 195,100 core FCLs + 27,600 co-op clubs = 222,700 entities.
+
+- 195,100 core FCLs (~9,755/region) + 27,600 co-op clubs (~1,380/region) = 222,700 entities.
 - Co-op sector revenue (2025 baseline ~$9.425T) — descriptive, not a binding target.
 
 ### 2.2 Membership
+
 - **Workers/customers:** buy a $1 base share ($50/year for co-op clubs); 4–8% dividends; voting and patronage rights.
 - **Ages 12–19:** join voluntarily (1 base share, parental permission); eligible for voting and patronage with oversight.
 - **Investors:** contribute capital for non-controlling equity (see 2.3), voting capped.
@@ -58,7 +58,7 @@ Three tiers by size, revenue, and loan exposure. All pay the 5% co-op profit tax
 | Labor peace agreement | No | Required for projects >1,000 workers |
 | CCIF | Optional | Optional |
 
-Approval: Regional Board (6/11) → Co-op Department → Sovereign Council (5/7); renewal every 5 years. This is the same approval chain as the Exchange's capital-intensive corporate exception (Exchange Act §3.3).
+**Approval:** Regional Board (6/11) → Co-op Chamber → Sovereign Council (5/7); renewal every 5 years. This is the same approval chain as the Exchange's capital-intensive corporate exception (Exchange Act §3.3).
 
 **Downgrade:** an FCL may downgrade if below all thresholds for two consecutive years (Regional Board simple majority), preventing yo-yo transitions.
 
@@ -68,9 +68,9 @@ Approval: Regional Board (6/11) → Co-op Department → Sovereign Council (5/7)
 
 - **2.5.1 Hierarchy of exit rights:** internal buyer → secondary eligible investor → Co-op Board on the Crossroads Exchange → CCIF backstop.
 - **2.5.2 Redemption Reserve:** Tier 2/3 FCLs allocate 5% of annual net profit until the reserve equals 10% of total member/investor equity.
-- **2.5.3 Secondary investor eligibility:** vetted by the Co-op Department; subject to voting caps.
+- **2.5.3 Secondary investor eligibility:** vetted by the Co-op Chamber; subject to voting caps.
 - **2.5.4 Valuation method:** audited book value (via PPK/CED audit).
-- **2.5.5 Co-op Board:** the **Co-op Board of the Crossroads Exchange** (Exchange Act §3.1), operated by the CCIF Alliance Network under **Co-op Chamber and Co-op Department** oversight. Lists non-voting investor shares (worker base shares cannot trade). **Pricing anchored to CED/PPK-audited book value;** daily movement capped ±10%; minimum hold 12 months. CCIF acts as liquidity backstop, authorized to purchase unlisted shares at 90% of book value if no buyer is found within 90 days. *(This is also the board into which stabilized Freedom Shares may be sold after a co-op recovers from a jubilee — Monetary §2.2, Credit Union Act §5.4; and the destination for the growing worker/co-op stake of converting foreign firms — Exchange Act §3.4.)*
+- **2.5.5 Co-op Capital Index:** the pool of non-voting FCL investor shares, listed on the **Co-op Board** of the Crossroads Exchange (Exchange Act §3.1). Operated by the CCIF Alliance Network under **Co-op Chamber and Sovereign Council** oversight. **Pricing anchored to CED/PPK-audited book value;** daily movement capped ±10%; minimum hold 12 months. CCIF acts as liquidity backstop, authorized to purchase unlisted shares at 90% of book value if no buyer is found within 90 days. *(This is also the destination into which stabilized Freedom Shares may be sold after a co-op recovers from a jubilee — Monetary §2.2, Credit Union Act §5.4; and the destination for the growing worker/co-op stake of converting foreign firms — Exchange Act §3.4.)*
 
 ### 2.6 Member Exit and Share Redemption (Workers & Customers)
 
@@ -136,13 +136,13 @@ Approval: Regional Board (6/11) → Co-op Department → Sovereign Council (5/7)
 
 - **Tier 1 (Micro):** microloans $1,000–$50,000 via the Regional Co-op Stabilization Fund (0–2%, unsecured, reference-rate-anchored at the low service/micro rate); no CCIF; informal-sector transition grants ($5,000–$25,000, match required).
 - **Tier 2 (Mid):** business loans $50,000–$2M (5–6% nominal, reference-rate-anchored) or Stabilization Fund (3–4%); CCIF optional; Redemption Reserve matching grants (up to $50,000/year).
-- **Tier 3 (Full):** full credit-union access; Co-op Board listing eligibility (Exchange Act §3.1); co-op bonds up to 200% of equity (Co-op Department approval).
+- **Tier 3 (Full):** full credit-union access; Co-op Board listing eligibility (Exchange Act §3.1); co-op bonds up to 200% of equity (Co-op Chamber approval).
 
 ### 3.7 Co-op/Corporate Joint Ventures (CCJV)
 
 - **3.7.1 Authorization:** FCLs may enter JVs with registered corporations for projects, licensing, or time-limited production; CCJVs are separate legal entities.
 - **3.7.2 Ownership tiers:** Co-op Led (51–99% co-op, 20 yrs, Regional Board 6/11); Corporate Led (30–49% co-op, 15 yrs, Co-op Chamber + Corporate Chamber jointly); Strategic Infrastructure (40% min co-op, 25 yrs, Sovereign Council 5/7 + Territorial Chamber 15/20).
-- **3.7.3 Governance protections:** corporate partners have no vote in FCL internal affairs outside the JV; FCL members keep home-FCL base-share rights; board seats proportional (co-op holds ≥1); Co-op Department arbitration, with appeal to ad-hoc arbitration (Chamber Act §6.6) and, on procedural grounds, the Supreme Court (Sovereign Functions Act §4).
+- **3.7.3 Governance protections:** corporate partners have no vote in FCL internal affairs outside the JV; FCL members keep home-FCL base-share rights; board seats proportional (co-op holds ≥1); disputes resolved through ad-hoc arbitration (Chamber Act §6.6), with procedural appeals to the Supreme Court (Sovereign Functions Act §4).
 - **3.7.4 Financial rules:** JV profits taxed at corporate rate unless co-op portion >50% (then 5% on that portion); patronage applies only to the co-op share; CCIF deposits allowed if co-op portion >50%.
 - **3.7.5 Exit/buyout:** assets distributed by ownership; co-op right of first refusal at appraised value; corporate partner may sell to another corporation only with co-op consent.
 - **3.7.6 Prohibitions:** may not circumvent investor voting caps; may not hold base shares in other FCLs; no CCJV beyond 25 years without Sovereign Council renewal (5/7).
@@ -150,11 +150,11 @@ Approval: Regional Board (6/11) → Co-op Department → Sovereign Council (5/7)
 ### 3.8 Co-operative Capital Investment Fund (CCIF)
 
 - **3.8.1 Nature:** a **voluntary** liquidity pool where FCLs and corporate participants deposit unspent capital, earn 5–7%, and fund national-scale SWF-aligned projects. Not a tax or mandatory contribution.
-- **3.8.2 Participation:** Tier 1 exempt; Tiers 2/3 optional; corporations by Co-op Department + Co-op Chamber approval.
+- **3.8.2 Participation:** Tier 1 exempt; Tiers 2/3 optional; corporations by Co-op Chamber approval.
 - **3.8.3 Projected scale:** ~$1.96T (FCLs) + ~$435B (corporate) ≈ ~$2.395T system-wide (assumes 5–7% returns; depends on voluntary participation).
 - **3.8.4 Returns:** 5–7%, paid in BWC (50/50 cash/credits default; 100% cash electable); accrues daily, paid quarterly.
 - **3.8.5 Withdrawals:** anytime with 30 days' notice (up to 20% of deposit).
-- **3.8.7 Governance:** operated by the CCIF Alliance Network (Co-op Department oversight, Co-op Chamber confirmation); annual audits via the CED; depositing FCLs elect 5 of 9 board seats (1 vote/$1M deposited, capped at 10% of voting power).
+- **3.8.7 Governance:** operated by the CCIF Alliance Network (Co-op Chamber oversight); annual audits via the CED; depositing FCLs elect 5 of 9 board seats (1 vote/$1M deposited, capped at 10% of voting power).
 - **3.8.8 Relation:** separate from the Redemption Reserve; may backstop the Co-op Board (Exchange Act §3.1).
 
 ---
@@ -162,11 +162,16 @@ Approval: Regional Board (6/11) → Co-op Department → Sovereign Council (5/7)
 ## Section 4: Governance and Oversight
 
 - **FCL Boards (Tier 3):** 5–7 members (7–11 Heavy Industry), elected by workers/customers (70% voting; 51% min Heavy Industry) and investors (30%; up to 15% per investor Heavy Industry), 3-year terms. Salaries scale with size ($10k–$75k/year). Decisions by 51% majority.
+
 - **Regional Boards** (Chamber Act §3 — 20 boards, 11 members each: 7 credit-union-federated + 4 wildcard, 220 total): approve loans, manage the ~$500M/region Co-op Stabilization Fund, oversee compliance, verify investor eligibility, approve tier changes and Heavy Industry applications, oversee CCJVs. Dual function: each region's state legislature and the nation's territorial upper body.
-- **Co-op Chamber** (Chamber Act §4.1 — 300 seats: 200 co-op delegates + 100 wildcards): the legislative voice of the cooperative sector. The 200 co-op delegates are **collectively elected** by the boards of Tier-2+ FCLs (one vote per FCL board, or weighted by membership — method set by the co-op electoral rules under Chamber oversight). The 100 wildcards are elected directly by the universal citizen vote (Chamber Act §2.3). Oversees the Co-op Board (Exchange Act §3.1), the CCIF Alliance Network, and Co-op Department operations.
-- **Co-op Department:** approves professional FCLs, arbitrates disputes (with appeal to ad-hoc arbitration — Chamber Act §6.6 — and, on procedural grounds, the Supreme Court — Sovereign Functions Act §4), enforces voting caps via CED/AI audits, oversees the CCIF Alliance Network.
+
+- **Co-op Chamber** (Chamber Act §4.1 — 300 seats: 200 co-op delegates + 100 wildcards): the legislative voice of the cooperative sector. The 200 co-op delegates are **collectively elected** by the boards of Tier-2+ FCLs (one vote per FCL board, or weighted by membership — method set by the co-op electoral rules under Chamber oversight). The 100 wildcards are elected directly by the universal citizen vote (Chamber Act §2.3). Approves professional FCL structures, major co-op sector rules, and CCIF participation by corporations. Oversees the Co-op Board (Exchange Act §3.1), the CCIF Alliance Network, and co-op sector operations. Confirms CCIF Alliance Network board appointments.
+
 - **Sovereign Council** (Sovereign Functions Act §6 — 7 members): final Heavy Industry approval (5/7), Strategic Infrastructure CCJV approval, and CCJV renewal beyond 25 years. Holds no other domestic regulatory role (Sovereign Functions Act §8).
-- **Special Auditors** (Sovereign Functions Act §3 — 50–75 independent prosecutors): audit FCLs on their own initiative; ~$2.5B fraud cap; Tier 1 exempt unless flagged. May not access sub-DLB cash records.
+
+- **Special Auditors** (Sovereign Functions Act §3 — 50–75 independent prosecutors): enforce voting caps via CED/AI audits on their own initiative; may investigate co-op governance violations, fraud, and financial misconduct; may not access sub-DLB cash records. ~$2.5B fraud cap; Tier 1 exempt unless flagged.
+
+- **Ad-hoc arbitration** (Chamber Act §6.6): resolves disputes between FCLs, between FCLs and credit unions, between FCLs and the Exchange, or under the CCJV provisions. Procedural appeals to the Supreme Court (Sovereign Functions Act §4).
 
 ---
 
@@ -196,12 +201,14 @@ Approval: Regional Board (6/11) → Co-op Department → Sovereign Council (5/7)
 | Patronage Returns | ~$862.5M/year | ~$2.3B/year |
 | Loan rates | Reference-rate-anchored (Monetary §1.5A) | same |
 | Corporate tax | 0/10/20/25% (Monetary §4) | same |
-| Co-op Board | Exchange Act §3.1 | same |
+| Co-op Board (Exchange) | Exchange Act §3.1 | same |
 | Co-op Chamber | 300 members: 200 co-op delegates (collectively elected by Tier-2+ FCL boards) + 100 wildcards (directly elected by universal citizen vote) — Chamber Act §4.1 | same |
 | Corporate Chamber | 100 members: 67 corporate delegates (elected by corporate boards) + 33 wildcards — Chamber Act §4.2 | same |
 | Data architecture | PPK + CED (no CWD) | PPK + CED |
 | Entrenched floors | 12 (Chamber Act §11); protected guarantees: 4 (Chamber Act §12); corporate governance = §12.3 | same |
 | Governance | Sovereign Council (7) + Territorial Chamber (220) + Co-op Chamber (300) + Corporate Chamber (100) + universal citizen vote | same |
+
+---
 
 ## Appendix B: Tier Distribution Detail (2025)
 
@@ -241,4 +248,4 @@ That is the FCL Act.
 
 ---
 
-End of Draft 3.3
+**End of Draft 3.3**
