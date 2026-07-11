@@ -1,17 +1,6 @@
----
-title: "Crossroads Credit Union Act of 2025"
-draft: "5.7"
-date: "2026-07-04"
-author: "Thunderfish2"
-repository: "crossroads-monetary-act"
-description: "Companion legislation to the Monetary Act 9.7. Fiat credit-union network: ~5,000 member-owned credit unions chartered by population/deposits with ≥3-catchment coverage, BWC money creation under a 10% reserve requirement, the Citizens' Metals ETF as citizen investment, demand-distributed CLS loan officers as a money-creation brake, a monthly BWC Purchasing Power Index, reference-rate-anchored loan and deposit rates, uninsured special shares (equity) on a 7/6/5-then-standardized-premium schedule with a 3-year lock-up and a national secondary market on the Crossroads Exchange, local-priority primary issuance, professionalized boards with field-of-economy expertise and deposit-scaled compensation, residency-locked control (base shares and voting), mutual liquidity/solvency backstops with automatic crisis stabilizers, and a surgical CLS-administered debt jubilee. Governance wired to the Sovereign Functions Act and Chamber Act."
----
-
 # Crossroads Credit Union Act of 2025: Draft 5.7
 
-
-
-
+---
 
 **Cross-reference.** Companion to the **Monetary Act 9.7** (the DLB, the issuance anchor §1.5, the Reference Rate Anchor §1.5A, the Crisis-Management section §1.8, the Informal Economy Guarantee §1A, the PPK/CED §5), the **Sovereign Functions Act** (the SWF §5, the Judicial Link Box §4.2, the Special Auditors §3, Treasury §6A.1), the **Chamber Act** (the Territorial Chamber / Regional Boards §3, the Co-op Chamber §4.1, the Corporate Chamber §4.2, the universal citizen vote §2, the oversight committees §6.7, the ad-hoc arbitration process §6.6, the entrenched floors §11, the protected guarantees §12), and the **Exchange Act 1.2** (the Credit-Union Capital Board §3.2, the Co-op Board §3.1). Loan and deposit rates are plain nominal rates set within system bands around the reference rate defined in Monetary Act §1.5A — reset when the reference rate is republished.
 
