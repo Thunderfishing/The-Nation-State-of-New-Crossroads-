@@ -1,27 +1,11 @@
 ---
-title: "Crossroads Federated Cooperatives Limited (FCL) Structure Act of 2025"
-draft: "3.3"
-date: "2026-07-11"
-author: "Thunderfish2"
-repository: "crossroads-monetary-act"
-description: "Companion legislation to the Monetary Act 9.7, Credit Union Act 5.7, Exchange Act 1.2, the Sovereign Functions Act, and the Chamber Act. Establishes the structure, governance, and financial operations of 195,100 FCLs plus 27,600 co-op clubs, including the progressive profit-sharing waterfall that funds the commons. FCLs are represented in the legislature through the Co-op Chamber (Chamber Act §4.1). The Co-op Board is the Co-op Board of the Crossroads Exchange (Exchange Act §3.1). Loan rates are reference-rate-anchored (Monetary §1.5A). Data uses PPK/CED."
----
-
 # Crossroads Federated Cooperatives Limited (FCL) Structure Act of 2025: Draft 3.3
 
-Posted to r/Bulwarkomics
 Draft: 3.3 | Date: July 11, 2026
 Author: Thunderfish2
 
-**Cross-reference.** Companion to the **Monetary Act 9.7** (the Reference Rate Anchor §1.5A, the issuance anchor §1.5, fiat BWC, the Informal Economy Guarantee §1A, tax rates §4, corporate governance §4.1), the **Credit Union Act 5.7** (the credit-union loan book, the CLS, the surgical jubilee §5.4), the **Exchange Act 1.2** (the Co-op Board §3.1, the Credit-Union Capital Board §3.2, the Domestic Corporate-Equity Board §3.3, the index funds §4, the shared rulebook §2), the **Sovereign Functions Act** (the Special Auditors §3, the judiciary §4, the SWF §5, the Sovereign Council §6, the four Bureaus §6A), and the **Chamber Act** (the Co-op Chamber §4.1, the Corporate Chamber §4.2, the Territorial Chamber §3, the entrenched floors §11, the protected guarantees §12 including the corporate-governance requirements as §12.3 and the Co-op Advantage Principle). FCL profit tax is 5% on profit over $100,000 (Monetary §4). FCLs make **no direct SWF contribution** — they fund the commons through the progressive profit-sharing waterfall (§3.2). Loan rates are **reference-rate-anchored** (Monetary §1.5A). Data uses PPK/CED (no CWD).
 
 **Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values.
-
----
-
-## Abstract
-
-Establishes the structure, governance, and financial operations of **195,100 Federated Cooperatives Limited (FCLs)** across 20 regions, plus **27,600 recreation-focused co-op clubs**, for **222,700 cooperative entities**. FCLs drive the co-op sector of the **$14.5T GDP** (2025 baseline: co-op sector ~$9.425T, ~65% of GDP). The system fosters a co-op-dominant productive economy through incentives — lower taxes (5% profit tax over $100k vs. up to 25% for corporations), voluntary CCIF access, and structural preferences — **not** through binding quotas. Tier-2+ FCLs participate in the collective election of delegates to the **Co-op Chamber** (Chamber Act §4.1), where weight scales with size (capped at 5% per entity) and the co-op political-weight advantage is stated openly.
 
 ---
 
@@ -37,7 +21,7 @@ Establishes the structure, governance, and financial operations of **195,100 Fed
 ## Section 2: FCL Structure and Ownership
 
 ### 2.1 FCL Network
-- 195,100 core FCLs (~9,755/region) + 27,600 co-op clubs (~1,380/region) = 222,700 entities.
+- 195,100 core FCLs + 27,600 co-op clubs = 222,700 entities.
 - Co-op sector revenue (2025 baseline ~$9.425T) — descriptive, not a binding target.
 
 ### 2.2 Membership
