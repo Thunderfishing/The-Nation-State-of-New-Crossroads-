@@ -19,7 +19,7 @@
 
 ### 2.1 FCL Network
 
-- 195,100 core FCLs (~9,755/region) + 27,600 co-op clubs (~1,380/region) = 222,700 entities.
+- 195,100 core FCLs + 27,600 co-op clubs = 222,700 entities nationally.
 - Co-op sector revenue (2025 baseline ~$9.425T) — descriptive, not a binding target.
 
 ### 2.2 Membership
@@ -91,7 +91,7 @@ Three tiers by size, revenue, and loan exposure. All pay the 5% co-op profit tax
 
 ### 3.2 Profit-Sharing — Progressive Commons Waterfall
 
-**Process:** deduct expenses → pay 5% co-op profit tax (over $100k) → allocate 5–10% patronage → 10–25% capital investment → 0–15% CCIF (voluntary) → then allocate the **remaining profit** with a commons share that **scales by the FCL's annual profit:**
+**Process:** deduct expenses → pay 5% co-op profit tax (over $100k) → allocate 5–10% patronage → 0-25% capital investment → 0–15% CCIF (voluntary) → then allocate the **remaining profit** with a commons share that **scales by the FCL's annual profit:**
 
 | Annual profit | Healthcare | Education | Charity | Commons total | Members/Investors (remainder) |
 |---|---|---|---|---|---|
