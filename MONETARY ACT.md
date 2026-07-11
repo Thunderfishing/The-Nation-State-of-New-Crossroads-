@@ -1,17 +1,6 @@
----
-title: "Crossroads Monetary Reform & Economic Stabilization Act of 2025"
-draft: "9.7"
-date: "2026-07-04"
-author: "Thunderfish2"
-repository: "crossroads-monetary-act"
-description: "A monetary framework for New Crossroads: a fiat dual-currency system with an explicit issuance anchor, a rule-based Reference Rate Anchor, a two-tier crisis-management framework, an asset-owner sovereign wealth fund, the PPK/CED identity-economy split, informal economy protections, structural corporate governance, and governance wired to the Sovereign Functions Act and the Chamber Act."
----
-
 # Crossroads Monetary Reform & Economic Stabilization Act of 2025: Draft 9.7
 
-
-
-
+---
 
 **Cross-reference.** Companion to the **Sovereign Functions Act** (the four sovereign functions — defense, the Special Auditors, the judiciary, the SWF; the four executive bureaus — Treasury, Foreign Affairs Bureau, National Lands & Commons Bureau, Transport Bureau), the **Chamber Act** (the Territorial Chamber / Regional Boards, the Co-op and Corporate Chambers, the universal citizen vote, the oversight committees §6.7, the entrenched floors §11, and the protected guarantees §12), the Credit Union Act 5.7, the Exchange Act 1.2, the FCL Act 3.3, the Municipal & Regional Funding Act, the Industry Act, and the remaining sector acts.
 
