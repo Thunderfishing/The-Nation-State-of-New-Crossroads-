@@ -1,10 +1,12 @@
-# Crossroads Corridon River and Parks Act of 2025: Lifeblood of a Nation (Draft 3.3)
 
-**Posted to r/Bulwarkomics**
-**Draft:** 3.3 | **Date:** June 27, 2026
+# Crossroads Corridon River and Parks Act of 2025: Lifeblood of a Nation (Draft 3.4)
+
+**Draft:** 3.4 | **Date:** July 12, 2026
 **Author:** Thunderfish2
 
-> **Cross-reference.** Companion to the **Monetary Act 9.5**, **Credit Union Act 5.4**, **FCL Act 3.2**, **Infrastructure Act 2.4**, **Energy Act 4.2**, **Healthcare Act 6.5**, and **Education Act 2.2**. Loans are DLB-indexed (no DAI/BAR). Data uses PPK/CED (no CWD). The currency is fiat.
+---
+
+> **Cross-reference.** Companion to the **Monetary Act 9.7**, **Credit Union Act 5.7**, **FCL Act 3.3**, **Infrastructure Act 2.5**, **Energy Act 4.3**, **Healthcare Act 6.6**, **Education Act 2.3**, the **Sovereign Functions Act**, and the **Chamber Act**. Loans are reference-rate-anchored (Monetary Act §1.5A). Data uses PPK/CED (no CWD). The currency is fiat.
 
 > **Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values.
 
@@ -16,7 +18,7 @@ This act establishes the **1,200 km Corridon River Basin (24,000 km² national p
 
 The act integrates with the Infrastructure Act's elevated freeway insect corridors (3,000 km dark corridors) and DCALS/DCLTI lighting standards. Floods nourish 100,000 km² wetlands, levees protect cities, timber is capped at 10M m³/year, a 750 km CO₂ pipeline absorbs 3.115M tons/year by 2075, and a moisture feedback loop grows the Frostpeak glaciers.
 
-**Funding:** parks receive SWF allocations (capped 12% of GDP), a **~\$10B/year Parks Index**, **DLB-indexed service-sector loans**, the **recreation co-op clubs** (progressive waterfall + the new parks-stewardship levy), and **auctioned foreign cottages/timeshares**. Co-op park management receives preference (first right of refusal). No binding sector quotas apply.
+**Funding:** parks receive SWF allocations (capped 12% of GDP), a **~$10B/year Parks Index**, **reference-rate-anchored service-sector loans**, the **recreation co-op clubs** (progressive waterfall + the new parks-stewardship levy), and **auctioned foreign cottages/timeshares**. Co-op park management receives preference (first right of refusal). No binding sector quotas apply.
 
 ---
 
@@ -24,13 +26,15 @@ The act integrates with the Infrastructure Act's elevated freeway insect corrido
 
 | Act | Integration Point |
 | :--- | :--- |
-| **Monetary Act 9.5** | SWF capped at 12% GDP; automatic citizen dividends; DLB-indexed service-sector loans; Informal Economy Guarantee (cash park fees protected); auctioned cottages/timeshares (Monetary §6); no binding quotas |
-| **Credit Union Act 5.4** | Micro-loans for park-adjacent informal businesses (\$500, 4% nominal, self-attested, 24hr) |
-| **FCL Act 3.2** | 30,000 recreation co-op clubs on the **progressive waterfall** (5%/15%/~22%, 2:1:2) + the parks-stewardship levy; CCI listing; Freedom Share eligibility |
-| **Infrastructure Act** | Elevated freeway insect corridors (3,000 km) intersect parkweb; DCALS/DCLTI; retroreflective paint program; Dark Corridor Fund (10% of toll revenue ≈ \$11.2B/yr by 2075) |
-| **Energy Act** | Grid (nuclear + geothermal) powers park infrastructure; the 20 SMR hubs anchor regional services |
-| **Healthcare Act 6.5** | Parks and clubs as **preventive-health infrastructure** — green space and recreation feed the Healthcare Act's preventive-care and mental-wellness goals |
-| **Education Act 2.2** | Parkweb and clubs as venues for recreation apprenticeships and the school sports/recreation representative; lifelong-recreation access |
+| **Monetary Act 9.7** | SWF capped at 12% GDP; automatic citizen dividends; reference-rate-anchored service-sector loans (Monetary §1.5A); Informal Economy Guarantee (cash park fees protected); auctioned cottages/timeshares (Monetary §6); no binding quotas |
+| **Credit Union Act 5.7** | Micro-loans for park-adjacent informal businesses ($500, 4% nominal, self-attested, 24hr) |
+| **FCL Act 3.3** | 30,000 recreation co-op clubs on the **progressive waterfall** (5%/15%/~22%, 2:1:2) + the parks-stewardship levy; Co-op Board listing; Freedom Share eligibility |
+| **Infrastructure Act 2.5** | Elevated freeway insect corridors (3,000 km) intersect parkweb; DCALS/DCLTI; retroreflective paint program; Dark Corridor Fund (10% of toll revenue ≈ $11.2B/yr by 2075) |
+| **Energy Act 4.3** | Grid (nuclear + geothermal) powers park infrastructure; the 20 SMR hubs anchor regional services |
+| **Healthcare Act 6.6** | Parks and clubs as **preventive-health infrastructure** — green space and recreation feed the Healthcare Act's preventive-care and mental-wellness goals |
+| **Education Act 2.3** | Parkweb and clubs as venues for recreation apprenticeships and the school sports/recreation representative; lifelong-recreation access |
+| **Sovereign Functions Act** | Special Auditors (§3) enforce biosphere reserve protections and minimum flow compliance |
+| **Chamber Act** | Regional Boards (§3) oversee regional park matters; Territorial Chamber (§3) ratifies biosphere reserve boundaries (11/20) |
 
 ---
 
@@ -41,23 +45,23 @@ The act integrates with the Infrastructure Act's elevated freeway insect corrido
 | Level | Transaction Type | CED Treatment | Reporting |
 | :--- | :--- | :--- | :--- |
 | Informal | Cash park fees (credit-union kiosks), cash to park vendors | Never collected | None. Constitutionally protected. |
-| Citizen | BWC park fees under \$10,000/year | Pseudonymized; no detail | None |
-| Middle | BWC park fees \$10k–\$100k/year | Pseudonymized aggregates | Annual summary |
-| Elite | Corporate park concessions above \$100k | Full pseudonymized detail | Quarterly audits |
+| Citizen | BWC park fees under $10,000/year | Pseudonymized; no detail | None |
+| Middle | BWC park fees $10k–$100k/year | Pseudonymized aggregates | Annual summary |
+| Elite | Corporate park concessions above $100k | Full pseudonymized detail | Quarterly audits |
 | Institutional | Parks SWF allocations, CPI leases | Full transparency | Public annual reports |
 
 Cash park fees are accepted at all entry points via credit-union kiosks with no fee and no surveillance (Monetary §1A). Park-access records, where any exist, are identity-free; identity lives only in the PPK, never the CED.
 
-### 1.2 DLB-Indexed Loans for Parks Infrastructure (per Monetary §1, Credit Union §4.2)
+### 1.2 Reference-Rate-Anchored Loans for Parks Infrastructure (per Monetary §1.5A, Credit Union §4.2)
 
-All loans for park infrastructure (trails, campsites, lodges, CO₂ pipelines, greenhouses) receive the **low service-sector nominal rate (4–5%, DLB-indexed)**. **There is no DAI adjustment or BAR.**
+All loans for park infrastructure (trails, campsites, lodges, CO₂ pipelines, greenhouses) receive the **low service-sector nominal rate**. There is no DAI or BAR mechanism.
 
 | Loan Type | Service-sector rate |
 | :--- | :--- |
-| Trail construction (co-op) | 4% |
-| Greenhouse expansion | 4% |
-| CO₂ pipeline maintenance | 4% |
-| Club lodge construction | 5% |
+| Trail construction (co-op) | Set below the reference rate |
+| Greenhouse expansion | Set below the reference rate |
+| CO₂ pipeline maintenance | Set below the reference rate |
+| Club lodge construction | Set below the reference rate |
 
 ### 1.3 Co-op Park Management Preference
 
@@ -70,8 +74,8 @@ Management contracts for regional and municipal parks are issued preferentially 
 ### 2.1 Structure
 - **Area:** 24,000 km² (1,200 km × 20 km), 100 km³/year flow.
 - **Zones:** Urban (5,000 km²), Wetlands (19,000 km²), Floodplains (10,000 km²).
-- **Dredging:** 10M m³/year (~\$500M/year).
-- **Flood Defenses:** ~\$5B for levees and pumps.
+- **Dredging:** 10M m³/year (~$500M/year).
+- **Flood Defenses:** ~$5B for levees and pumps.
 - **Power:** nuclear (Region 2) + geothermal (Regions 2, 7).
 
 ### 2.2 CO₂ Pipeline and Greenhouses
@@ -90,7 +94,7 @@ Funding: SWF (no co-op recharge). Parks receive third priority after Energy and 
 
 Where elevated freeway insect corridors cross the Corridon or adjacent wetlands: 3–5m clearance maintained; dark-corridor (no lighting) requirements apply within 1 km of park wetlands; adjacent park structures comply with DCALS (indirect red-spectrum motion lighting, retroreflectors, no horizon-visible emission) and may claim the DCLTI property-tax reduction.
 
-### 2.4 The Corridon Basin Biosphere Reserve (New)
+### 2.4 The Corridon Basin Biosphere Reserve
 
 The entire Corridon watershed — the **Corridon River, the Westflow, and their tributaries** — is established as a single continuous protected reserve, **connected source-to-mouth to the Frostpeak and Ember ranges**, so that the whole hydrological chain the nation lives on (glacial source → river → mouth) sits inside one protected system. This is watershed security expressed as land protection: intact wetlands, riparian buffers, and floodplains are the nation's cheapest, most durable water-and-flood infrastructure.
 
@@ -99,7 +103,7 @@ The entire Corridon watershed — the **Corridon River, the Westflow, and their 
 - **Riverside power plants** — nuclear and waste-to-energy plants sited on the banks for cooling (point footprints, held to strict riparian and discharge standards since they sit within the protected zone); and
 - **Ports, barge channels, water intakes, and flood works** — the river's own working infrastructure.
 
-**Industry is off the floodplain.** The Industrial Corridors do **not** run along the river. They **radiate inland** from the riverside plants (Infrastructure Act 2.4 §3.7): a nuclear or WTE plant on the bank is the *head* of a corridor that runs perpendicular into the dry uplands, carrying buried warm-water + CO₂ to the inland greenhouses, hemp processing, and hempcrete plants. The sprawling industrial land use is therefore **outside the protected basin entirely** — the riverbank carries only the plants (point sites), the ports, and the protected ecological matrix. Where a corridor or pipeline must cross a riparian zone, it does so at a defined, buffered, DCALS-compliant crossing (like the land bridges, §4.1).
+**Industry is off the floodplain.** The Industrial Corridors do **not** run along the river. They **radiate inland** from the riverside plants (Infrastructure Act 2.5 §3.7): a nuclear or WTE plant on the bank is the *head* of a corridor that runs perpendicular into the dry uplands, carrying buried warm-water + CO₂ to the inland greenhouses, hemp processing, and hempcrete plants. The sprawling industrial land use is therefore **outside the protected basin entirely** — the riverbank carries only the plants (point sites), the ports, and the protected ecological matrix. Where a corridor or pipeline must cross a riparian zone, it does so at a defined, buffered, DCALS-compliant crossing (like the land bridges, §4.1).
 
 **Biosphere zoning (three tiers):**
 
@@ -114,15 +118,15 @@ The entire Corridon watershed — the **Corridon River, the Westflow, and their 
 - **Floodplains reconnected** — the river is **allowed to flood** across designated floodplains rather than leveed into a channel; floods nourish the wetlands and recharge the system. (Levees protect the carved-out municipalities only.)
 - **Riparian reforestation** — the banks are **lined with trees**: shade (cooler water, less evaporation), bank stabilization (less erosion, less dredging — pairs with the Infrastructure wake-suppression program), habitat, and carbon/pollinator benefit.
 
-**Governance.** The reserve spans many regions, so its designation and boundaries require Regional Board (territorial chamber) ratification (11/20); the park authority administers zoning; encroachment beyond designated carve-outs is investigable and chargeable by the Special Auditors (Government Act §4.3).
+**Governance.** The reserve spans many regions, so its designation and boundaries require Regional Board (Territorial Chamber) ratification (11/20); the park authority administers zoning; encroachment beyond designated carve-outs is investigable and chargeable by the Special Auditors (Sovereign Functions Act §3).
 
 ### 2.5 Minimum Environmental Flow (Law)
 
-A **minimum protected in-stream flow** is established **as law** for the Corridon, the Westflow, and protected tributaries. **No withdrawal may take the river below this minimum flow** — including reactor cooling-and-irrigation draw (Infrastructure 2.4 §3.7), municipal supply, or any industrial use. In a drought year, when the reactor still needs cooling and the crops still need water, **the river's ecological minimum wins**: withdrawals are curtailed before the protected flow is breached, in reverse priority (export and non-essential industrial first, ecological flow never).
+A **minimum protected in-stream flow** is established **as law** for the Corridon, the Westflow, and protected tributaries. **No withdrawal may take the river below this minimum flow** — including reactor cooling-and-irrigation draw (Infrastructure 2.5 §3.7), municipal supply, or any industrial use. In a drought year, when the reactor still needs cooling and the crops still need water, **the river's ecological minimum wins**: withdrawals are curtailed before the protected flow is breached, in reverse priority (export and non-essential industrial first, ecological flow never).
 
 The minimum flow protects downstream wetlands, the river mouth, and aquatic life — guarding against the failure mode where an irrigating society quietly thins its river to nothing. With the glaciers growing (§4.3) and the wetlands restored (§2.4) as natural buffers, the floor should rarely bind — but it is the backstop that makes the whole water loop honest rather than optimistic. Breach is a chargeable violation (Special Auditors).
 
-### 2.6 Urban Riverbank Parks (New)
+### 2.6 Urban Riverbank Parks
 
 Municipalities along the Corridon must, **for the most part, make their riverbanks into inner-city parks** — public green riverfront rather than walled-off private development or industrial frontage. This extends the protected blue line *through* the cities (not just around them), gives every riverside community direct public access to the lifeblood, and reinforces the preventive-health and recreation goals (§6.2). Urban riverbank structures comply with DCALS where within range of dark corridors.
 
@@ -164,7 +168,7 @@ Municipalities along the Corridon must, **for the most part, make their riverban
 Net CO₂: −4.32M t/yr (2025) → −21.735M t/yr (2075).
 
 ### 4.3 Atmospheric Management & the Moisture Feedback Loop
-- 10 reservoirs (50 km³/yr); 100,000 km² wetlands release 10 km³/yr moisture; cloud seeding ~\$2B (\$100M/region); glacier-melt feedback loop (10 km³/yr, Region 7) feeds the Corridon.
+- 10 reservoirs (50 km³/yr); 100,000 km² wetlands release 10 km³/yr moisture; cloud seeding ~$2B ($100M/region); glacier-melt feedback loop (10 km³/yr, Region 7) feeds the Corridon.
 - **Wind-sited reservoirs (the moisture pump).** Some Corridon tributaries are dammed for **hydropower and water storage** — but dams are permitted **only on tributaries whose evaporated reservoir moisture is carried by the prevailing winds back into the mountains and onto the glacial catchment.** The reservoir's evaporation, normally a pure loss, instead **returns to the glaciers as snowfall**, recharging the nation's water bank. One dam yields three returns — power, storage, and glacial recharge — with no net evaporation loss to the system, because the water re-enters the same closed loop.
 - **Siting is a criterion, not an assumption.** A dam is approved only where the wind-and-catchment geometry is demonstrated to return the evaporation to the glacial catchment under prevailing winds. Tributaries that fail this test are not dammed (or are dammed only where the evaporation loss is acceptable). This keeps the loop physical, not magical.
 - **The closed loop, top to bottom:** growing glaciers (the bank) → wind-sited reservoir hydro (power + storage, evaporation pumped back to the glaciers) → the Corridon (flowing, flooding, wetland-buffered, tree-lined) → riverside plants draw cooling water once → buried warm-water + CO₂ corridors carry that single draw inland to crops and hemp (evaporation-free, heat to crops not river) → wetlands and riparian forest buffer, store, and slow-release → floods replenish the wetlands → moisture returns to the glaciers. The water is drawn down once, wastes nothing to evaporation, returns no heat, and recharges faster than it is spent.
@@ -174,33 +178,33 @@ Net CO₂: −4.32M t/yr (2025) → −21.735M t/yr (2075).
 ## Section 5: Foreign Investment and Parks Index
 
 ### 5.1 Parks Index (CPI)
-- **Revenue:** ~\$10B/year.
+- **Revenue:** ~$10B/year.
 - **Asymmetric scrutiny:** CPI transactions fully tracked (institutional tier).
 
 ### 5.2 Cottages & Timeshares — Auction-Cleared Pricing (Reformed)
 
-*Rationale:* the prior fixed fees (\$10,000/year cottages, \$5,000/year timeshares) badly **underpriced** the scarcity value of residence in a dark-sky parkweb reserve. Foreign access is now **auctioned**, capturing true value and funding the commons entirely from foreign capital.
+*Rationale:* the prior fixed fees ($10,000/year cottages, $5,000/year timeshares) badly **underpriced** the scarcity value of residence in a dark-sky parkweb reserve. Foreign access is now **auctioned**, capturing true value and funding the commons entirely from foreign capital.
 
-- **Cottages — fixed-cap, rising-price (auction-cleared):** a **hard cap of 10,000 cottages (500/region)** on 50-year leases. Because supply is capped, leases are **auctioned** and the clearing price rises with demand — the cap protects the parkweb while the auction captures the scarcity premium. (Replaces the flat \$10,000/year fee.)
-- **Timeshares — scaled to carrying capacity, auctioned:** timeshare units **scale with the parkweb's measured carrying capacity** (ecological load limits set by the NHB-equivalent park authority), and are **auctioned** within that limit. The 10% foreign-ownership cap is retained. (Replaces the flat \$5,000/year fee.)
+- **Cottages — fixed-cap, rising-price (auction-cleared):** a **hard cap of 10,000 cottages (500/region)** on 50-year leases. Because supply is capped, leases are **auctioned** and the clearing price rises with demand — the cap protects the parkweb while the auction captures the scarcity premium. (Replaces the flat $10,000/year fee.)
+- **Timeshares — scaled to carrying capacity, auctioned:** timeshare units **scale with the parkweb's measured carrying capacity** (ecological load limits set by the NHB-equivalent park authority), and are **auctioned** within that limit. The 10% foreign-ownership cap is retained. (Replaces the flat $5,000/year fee.)
 - **Proceeds:** flow to the Parks Index / parks funding and the SWF — foreign capital funds the commons; citizens are unaffected.
 - **Scrutiny:** all cottage/timeshare transactions are institutional-tier (full tracking).
 
 ### 5.3 SWF Allocation
 
-| Item | Draft 3.2 |
+| Item | Draft 3.4 |
 | :--- | :--- |
-| Co-op recharge | Eliminated (Monetary 9.5) |
-| SWF target | ~\$1.5–2.0T (capped 12% GDP) |
-| SWF funding | FTT (0.3% on BWC >\$10k) + resource surcharge (3%) — **carved out** of general revenue |
-| Parks SWF allocation | ~\$20B (from SWF contributions) |
-| Parks Index | ~\$10B/year |
-| CCIF to parks | ~\$2.5B/year (third priority after Energy ~\$5B, Urban ~\$3B) |
+| Co-op recharge | Eliminated (Monetary 9.7) |
+| SWF target | ~$1.5–2.0T (capped 12% GDP) |
+| SWF funding | FTT (0.3% on BWC >$10k) + resource surcharge (3%) — **carved out** of general revenue |
+| Parks SWF allocation | ~$20B (from SWF contributions) |
+| Parks Index | ~$10B/year |
+| CCIF to parks | ~$2.5B/year (third priority after Energy ~$5B, Urban ~$3B) |
 
 Automatic SWF stabilizers (Monetary §2.3): above 12% of GDP, citizen dividends are paid (50% cash, 50% BWC); park funding is protected as a fixed allocation.
 
-### 5.4 Alliance Network
-- ~\$2.395T CCIF, ~7.5% returns, ~\$2.5B/year to parks; 1,832 members, 65% FCL-led, 11/20 Regional Board confirmation.
+### 5.4 CCIF Alliance Network
+- ~$2.395T CCIF, ~7.5% returns, ~$2.5B/year to parks; 1,832 members, 65% FCL-led, Co-op Chamber oversight.
 
 ---
 
@@ -208,27 +212,27 @@ Automatic SWF stabilizers (Monetary §2.3): above 12% of GDP, citizen dividends 
 
 ### 6.1 Clubs — Progressive Waterfall + Parks-Stewardship Levy
 
-- **Network:** 30,000 clubs by 2075 (1,500/region, recreation-focused FCLs). Revenue ~\$20B/yr (2025) → ~\$40B/yr (2075).
+- **Network:** 30,000 clubs by 2075 (1,500/region, recreation-focused FCLs). Revenue ~$20B/yr (2025) → ~$40B/yr (2075).
 
 - **Profit-sharing — the progressive waterfall (FCL Act §3.2).** Clubs follow the **standard progressive commons waterfall** like every FCL, replacing the old flat 33/5/22/40 split:
 
   | Annual profit | Healthcare | Education | Charity | Commons total | Members |
   | :--- | :--- | :--- | :--- | :--- | :--- |
-  | \$100k–\$1M | 2% | 1% | 2% | 5% | ~95% |
-  | \$1M–\$10M | 6% | 3% | 6% | 15% | ~85% |
-  | > \$10M | ~9% | ~4% | ~9% | ~22% | ~78% |
+  | $100k–$1M | 2% | 1% | 2% | 5% | ~95% |
+  | $1M–$10M | 6% | 3% | 6% | 15% | ~85% |
+  | > $10M | ~9% | ~4% | ~9% | ~22% | ~78% |
 
   This binds clubs to the **Co-op Advantage Principle** — their commons burden never exceeds an identical corporation's — fixing the prior split that taxed clubs at ~60%, far above any other co-op.
 
-- **Parks-Stewardship Levy (NEW).** Because recreation co-ops **directly use and profit from the parkweb**, they additionally pay a **parks-stewardship levy of ~5% of club revenue** — a usage/stewardship contribution (not a general tax) that **subsidizes the parks they depend on.**
-  - At ~\$40B club revenue (2075), the levy yields **~\$2B/year** toward parkweb maintenance, trails, corridors, and conservation.
+- **Parks-Stewardship Levy.** Because recreation co-ops **directly use and profit from the parkweb**, they additionally pay a **parks-stewardship levy of ~5% of club revenue** — a usage/stewardship contribution (not a general tax) that **subsidizes the parks they depend on.**
+  - At ~$40B club revenue (2075), the levy yields **~$2B/year** toward parkweb maintenance, trails, corridors, and conservation.
   - The levy is a recreation-co-op-specific charge tied to park usage, **distinct from the commons waterfall** above — it funds the parks, not the general commons.
   - *Rationale:* those who monetize the parkweb help maintain it, mirroring how auctioned cottages/timeshares fund parks from those who enjoy them. The levy is modest enough to leave clubs healthy while making recreation co-ops net contributors to the natural infrastructure that sustains them.
 
-### 6.2 Preventive-Health & Education Synergies (NEW)
+### 6.2 Preventive-Health & Education Synergies
 
-- **Preventive health (Healthcare 6.5):** the parkweb and clubs are recognized as **preventive-health infrastructure** — accessible green space, recreation, and mental-wellness benefit. Clubs may partner with the co-op clinic tier on preventive-care and mental-wellness programs (the Healthcare Act's preventive-care incentives), and park access supports the population-health goals that keep premiums sustainable.
-- **Education (Education 2.2):** clubs and the parkweb serve as **venues for recreation apprenticeships** and host the school **sports/recreation representative** pathway; they provide lifelong-recreation access consistent with the education system's lifelong-learning ethos.
+- **Preventive health (Healthcare 6.6):** the parkweb and clubs are recognized as **preventive-health infrastructure** — accessible green space, recreation, and mental-wellness benefit. Clubs may partner with the co-op clinic tier on preventive-care and mental-wellness programs (the Healthcare Act's preventive-care incentives), and park access supports the population-health goals that keep premiums sustainable.
+- **Education (Education 2.3):** clubs and the parkweb serve as **venues for recreation apprenticeships** and host the school **sports/recreation representative** pathway; they provide lifelong-recreation access consistent with the education system's lifelong-learning ethos.
 
 ### 6.3 Dark Corridor Compliance for Club Facilities
 
@@ -243,7 +247,7 @@ Club lodges, campsites, and trailheads within 500m of elevated insect corridors 
 | Region 1 | Rivergate City, urban parks | Adjacent to elevated sections |
 | Region 2 | Nuclear + geothermal | Powers dark-corridor enforcement |
 | Region 3 | Mining, 750 km CO₂ pipeline | Mining compounds comply with DCALS |
-| Region 5 | Agriculture, greenhouses, wetlands | Priority elevated corridor (800 km) – protects ~\$45B agriculture |
+| Region 5 | Agriculture, greenhouses, wetlands | Priority elevated corridor (800 km) – protects ~$45B agriculture |
 | Region 7 | Timber, glaciers, Frostpeak Range | Dark corridors protect alpine pollinators |
 | Regions 9–12 | Corridon wetlands, grasslands | 3,000 km elevated sections; dark corridors across wetlands |
 | Other regions | Municipal parks | Retroreflective trail markers only |
@@ -255,17 +259,17 @@ Club lodges, campsites, and trailheads within 500m of elevated insect corridors 
 | Metric | 2025 | 2075 |
 | :--- | :--- | :--- |
 | Population | 112M | 130M |
-| SWF (total) | ~\$550B | ~\$1.5–2.0T (cap 12% GDP) |
-| Parks SWF allocation | ~\$20B | Fixed allocation |
-| Parks Index | ~\$10B/yr | ~\$10B/yr |
-| CCIF to parks | ~\$2.5B/yr | Third priority |
+| SWF (total) | ~$550B | ~$1.5–2.0T (cap 12% GDP) |
+| Parks SWF allocation | ~$20B | Fixed allocation |
+| Parks Index | ~$10B/yr | ~$10B/yr |
+| CCIF to parks | ~$2.5B/yr | Third priority |
 | **Club waterfall** | **Progressive (5/15/~22%)** | same |
-| **Parks-stewardship levy** | **~5% of club revenue** | **~\$2B/yr by 2075** |
+| **Parks-stewardship levy** | **~5% of club revenue** | **~$2B/yr by 2075** |
 | Cottages | **Auctioned, cap 10,000** | Auctioned, rising price |
 | Timeshares | **Auctioned, capacity-scaled** | Auctioned (10% foreign cap) |
-| Loan rates | DLB-indexed service rate (no DAI) | same |
-| Dark Corridor Fund to parks | — | ~\$11.2B/yr (10% of tolls) |
-| Pollinator agricultural benefit | — | ~\$6.8B/yr |
+| Loan rates | Reference-rate-anchored service rate (Monetary §1.5A) | same |
+| Dark Corridor Fund to parks | — | ~$11.2B/yr (10% of tolls) |
+| Pollinator agricultural benefit | — | ~$6.8B/yr |
 | Parkweb | 540,000 km² | 540,000 km² |
 | **Corridon Basin Biosphere Reserve** | **Established (source-to-mouth, protected-by-default)** | Connected to Frostpeak/Ember ranges |
 | **Minimum environmental flow** | **Law (withdrawals curtailed before breach)** | same |
@@ -275,7 +279,7 @@ Club lodges, campsites, and trailheads within 500m of elevated insect corridors 
 | CO₂ absorption | 25.68M t/yr | 28.265M t/yr |
 | Net CO₂ | −4.32M t/yr | −21.735M t/yr |
 | Clubs | 27,600 | 30,000 |
-| Recreation revenue | ~\$20B/yr | ~\$40B/yr |
+| Recreation revenue | ~$20B/yr | ~$40B/yr |
 | Data architecture | PPK + CED (no CWD) | PPK + CED |
 
 ---
@@ -284,10 +288,10 @@ Club lodges, campsites, and trailheads within 500m of elevated insect corridors 
 
 | Phase | Years | Parkweb (km²) | Elevated Corridors (km) | DCALS Compliance | Funding |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1: Foundation | 2025–2035 | 200,000 | pilot 100 km (Region 5) | Pilot only | ~\$10B/yr CPI |
-| 2: Expansion | 2035–2050 | 350,000 | 1,550 | 500 structures | ~\$10B/yr CPI |
-| 3: Optimization | 2050–2065 | 500,000 | 2,500 | 2,500 structures | ~\$10B/yr CPI |
-| 4: Completion | 2065–2075 | 540,000 | 3,000 | 5,000+ structures | ~\$10B/yr CPI |
+| 1: Foundation | 2025–2035 | 200,000 | pilot 100 km (Region 5) | Pilot only | ~$10B/yr CPI |
+| 2: Expansion | 2035–2050 | 350,000 | 1,550 | 500 structures | ~$10B/yr CPI |
+| 3: Optimization | 2050–2065 | 500,000 | 2,500 | 2,500 structures | ~$10B/yr CPI |
+| 4: Completion | 2065–2075 | 540,000 | 3,000 | 5,000+ structures | ~$10B/yr CPI |
 
 ---
 
@@ -311,4 +315,4 @@ A nation that auctions the privilege of its wild places to outsiders, taxes its 
 
 ---
 
-**End of Draft 3.2**
+**End of Draft 3.4**
