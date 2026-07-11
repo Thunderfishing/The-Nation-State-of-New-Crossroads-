@@ -10,33 +10,6 @@
 
 ---
 
-## Table of Contents
-
-1. Overview
-2. Section 1: Monetary System
-   - 1.1 Dual Currency System
-   - Physical Cash — Layer 1
-   - Bulwark Coin (BWC) — Layer 2
-   - 1.2 Co-op Credit Union Network
-   - 1.3 Transaction Fees & Liquidity Pool
-   - 1.4 Daily Living Basket (DLB)
-   - 1.5 Base Money Issuance & the BWC Anchor
-   - 1.5A Reference Rate Anchor
-   - 1.6 Citizen Wallet Structure
-   - 1.7 Personal Market Index (PMI) — Economic Health Dashboard
-   - 1.8 Crisis Management & Automatic Stabilizers
-3. Section 1A: Informal Economy Guarantee
-4. Section 2: Sovereign Wealth Fund (SWF)
-5. Section 3: Co-op Ecosystem Integration
-6. Section 4: Tax and Economic Reforms
-   - 4.1 Corporate Governance Requirements
-7. Section 5: Governance, Data & Oversight (PPK/CED)
-8. Section 6: Foreign Investment — CGCI
-9. Key Stats (2025–2075)
-10. Design Philosophy
-
----
-
 ## Overview
 
 This act creates:
