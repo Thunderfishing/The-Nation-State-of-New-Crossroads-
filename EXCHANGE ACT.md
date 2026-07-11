@@ -310,22 +310,6 @@ Same building, sealed rooms. Capital and ideas may pass between the segments onl
 
 ---
 
-## Cross-References & Sync Touches (for the companion acts)
-
-This act creates a small number of one-line updates owed to the siblings; none requires absorbing the Exchange:
-
-- **Credit Union Act §3.3:** special shares trade on the Exchange's Credit-Union Capital Board (the CUSM is that board).
-
-- **FCL Act §2.5.5:** the Co-op Capital Index is listed on the Exchange's Co-op Board.
-
-- **Monetary Act §6:** the CGCI is the Exchange's foreign-capital channel. The Global Sound-Capital Segment (Section 7) is a new instrument of foreign economic policy — worth a cross-reference where the Monetary Act treats external/foreign-capital matters.
-
-- **Monetary Act §4.1:** the corporate-governance requirements are the corporate-board listing conditions (domestic) and the corporate control discipline for global listings (7.3).
-
-- **Industry Act §2.5:** the inbound foreign co-op-conversion ramp feeds the Co-op Board via the registry handoff (3.4).
-
----
-
 ## Design Philosophy (Informative)
 
 New Crossroads built markets the way it built everything else — by inverting the assumption.
