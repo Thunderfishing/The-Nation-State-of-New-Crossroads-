@@ -1,9 +1,9 @@
-# New Crossroads Utilities Act of 2025: Draft 1.2
+# New Crossroads Utilities Act of 2025: Draft 1.3
 
-**Draft:** 1.2 | **Date:** June 27, 2026
+**Draft:** 1.3 | **Date:** July 12, 2026
 **Author:** Thunderfish2
 
-> **Cross-reference.** Companion to the **Energy Act 4.2**, **Monetary Act 9.5**, **Credit Union Act 5.4**, **FCL Act 3.2**, **Government Act 4.18**, and **Infrastructure Act 2.4**. Grid hardening, buried lines, EMP-shielded substations, transformer reserves, and antifragile hubs are governed by the Energy Act. The asset/operator separation model follows the Infrastructure Act's rail system. Loans are DLB-indexed (no DAI/BAR). Data uses PPK/CED (no CWD). The currency is fiat.
+> **Cross-reference.** Companion to the **Energy Act 4.2**, the **Monetary Act 9.7**, the **Credit Union Act 5.7**, the **FCL Act 3.3**, the **Sovereign Functions Act**, the **Chamber Act**, and the **Infrastructure Act 2.4**. Grid hardening, buried lines, EMP-shielded substations, transformer reserves, and antifragile hubs are governed by the Energy Act. The asset/operator separation model follows the Infrastructure Act's rail system. Loans are reference-rate-anchored (Monetary Act §1.5A). Data uses PPK/CED (no CWD). The currency is fiat.
 
 > **Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values.
 
@@ -21,10 +21,11 @@ This model prevents natural-monopoly capture, centralizes CME hardening, generat
 
 - **Energy Act 4.2:** provides the physical grid — 30,000 km buried high-voltage transmission, 150,000 km buried distribution, 750 EMP-shielded substations, a strategic transformer reserve (5,000+ by 2075) — and the 20 antifragile SMR hubs (one per region) as anchor loads and islanding points.
 - **Infrastructure Act 2.4:** the asset/operator separation model is directly replicated; transmission access fees follow the freeway-toll logic (155% recovery over asset life); DCALS applies to utility infrastructure near elevated freeways.
-- **Monetary Act 9.5:** transmission access fees paid in BWC, flow (in part) to the SWF; co-op utilities pay the 5% co-op profit tax on generation profits; no binding quotas.
-- **Credit Union Act 5.4:** co-op utilities access DLB-indexed loans and micro-loans (community solar); embedded CLS officers.
-- **FCL Act 3.2:** utility co-ops structured as FCLs; CCIF (voluntary) funds expansion.
-- **Government Act 4.18:** the NEB is an independent board (paired with Industry & Infrastructure); Regional Boards handle retail oversight; Special Auditors enforce the anti-rot guarantees.
+- **Monetary Act 9.7:** transmission access fees paid in BWC, flow (in part) to the SWF; co-op utilities pay the 5% co-op profit tax on generation profits; no binding quotas.
+- **Credit Union Act 5.7:** co-op utilities access reference-rate-anchored loans and micro-loans (community solar); embedded CLS officers.
+- **FCL Act 3.3:** utility co-ops structured as FCLs; CCIF (voluntary) funds expansion.
+- **Sovereign Functions Act:** the NEB is an independent board; Special Auditors (§3) enforce the anti-rot guarantees.
+- **Chamber Act:** Regional Boards (§3) handle retail oversight; the NEB is chartered under the independent board registry (§7).
 
 ---
 
@@ -93,7 +94,7 @@ Utilities pay the NEB for access to state-owned transmission and distribution. F
 *(Grid volume: 400 TWh in 2025 → 1,633 TWh by 2075.)*
 
 ### 2.2 Fee Adjustment Mechanism
-- Biennial NEB review (6/11) with Central Council approval (6/11).
+- Biennial NEB review (6/11) with Sovereign Council approval (5/7).
 - Annual inflation adjustment tied to the DLB.
 - CME surcharge: +\$2/MWh during CME recovery (max 90 days) to fund transformer deployment.
 - Co-op discount: co-op utilities pay 80% of the corporate rate.
@@ -103,13 +104,13 @@ Utilities pay the NEB for access to state-owned transmission and distribution. F
 | Allocation | 2025 (\$B) | 2075 (\$B) | Notes |
 | :--- | :--- | :--- | :--- |
 | **Asset Renewal Fund** (ring-fenced: maintenance + reinvestment + R&D) | 7.5 | 24.5 | 50% of revenue — locked (§2.4) |
-| SWF (per Monetary Act 9.5) | 4.5 | 14.7 | 30% of revenue |
+| SWF (per Monetary Act 9.7) | 4.5 | 14.7 | 30% of revenue |
 | Residential electricity bill credit (direct to citizens) | 3.0 | 9.8 | 20% of revenue |
 | **Total** | **15.0** | **49.0** | |
 
 The residential credit is distributed equally to all citizens (50/50 cash/BWC, no surveillance), matching SWF dividend mechanics.
 
-### 2.4 The Asset Renewal Fund & Anti-Rot Guarantees (New)
+### 2.4 The Asset Renewal Fund & Anti-Rot Guarantees
 
 *The problem this solves.* Governments everywhere build infrastructure and then let it decay — arenas, water systems, grids, roads — because **maintenance is invisible and unrewarded while new construction is a ribbon-cutting**, because **maintenance loses the annual budget fight every year until it becomes an emergency**, and because **no one's own equity is at risk** when a public asset rots. New Crossroads closes all three holes with four reinforcing mechanisms:
 
@@ -117,7 +118,7 @@ The residential credit is distributed equally to all citizens (50/50 cash/BWC, n
 
 2. **Mandatory reinvestment + R&D floor.** Each asset class has a **defined Asset Condition Index (ACI)** and a **mandatory minimum** share of its Renewal Fund that **must** be spent each cycle on renewal and improvement (a floor, not a ceiling). Underspending the floor or letting the ACI fall below target is a **violation**, not a quiet deferral.
 
-3. **Special-Auditor enforcement (deferred maintenance becomes prosecutable).** The Special Auditors (Government Act §4.3, independent prosecutors) may investigate, on their own initiative, any board, concession, or official that **underspends the reinvestment floor or allows an asset to fall below its ACI** — and may subpoena, charge, and (with judicial ratification) freeze. *This supplies the accountability the rotting arenas never had: neglect is a chargeable failure, not an invisible line item.*
+3. **Special-Auditor enforcement (deferred maintenance becomes prosecutable).** The Special Auditors (Sovereign Functions Act §3, independent prosecutors) may investigate, on their own initiative, any board, concession, or official that **underspends the reinvestment floor or allows an asset to fall below its ACI** — and may subpoena, charge, and (with judicial ratification) freeze. *This supplies the accountability the rotting arenas never had: neglect is a chargeable failure, not an invisible line item.*
 
 4. **A standing R&D / upgrade slice.** A fixed portion of each Renewal Fund is **earmarked for R&D and upgrades** — not merely like-for-like replacement — funded the same way as maintenance so it never loses the annual budget fight. The NEB publishes a rolling **upgrade roadmap**; the fund guarantees the money to execute it. The grid gets *better* over fifty years (higher capacity, lower losses, better hardening), not just patched.
 
@@ -227,23 +228,23 @@ Every citizen and business may choose their retail provider from any licensed ut
 | Grid access priority | Tier 2 (after hubs) | Tier 3 |
 | License priority | First right of refusal | Apply only if no co-op qualified |
 | Maintenance concession priority (§1.4) | First right of refusal | Apply only if no co-op qualified |
-| CCIF access | Full (voluntary) | Limited (Co-op Dept approval) |
+| CCIF access | Full (voluntary) | Limited (Co-op Chamber approval) |
 | CME recovery loans | 0% interest (first 30 days) | 5% interest |
 
 ### 6.2 Financing for Co-op Utilities
 
-| Loan type | Amount | Term | Interest (nominal, DLB-indexed) | Source |
+| Loan type | Amount | Term | Interest (reference-rate-anchored) | Source |
 | :--- | :--- | :--- | :--- | :--- |
 | Generation plant (small) | \$50k–\$2M | 10 years | 5% | Credit Union |
 | Generation plant (large) | \$2M–\$50M | 20 years | 4% | CCIF |
 | SMR (Heavy Industry) | \$50M–\$2B | 30 years | 3.5% | CCIF + SWF |
 | Community solar | \$500–\$50k | 5 years | 4% | Micro-loan (self-attested) |
 
-All loans DLB-indexed; no DAI floor. Community/service-sector projects use the lower service-sector rate.
+All loans reference-rate-anchored (Monetary Act §1.5A). Community/service-sector projects use the lower service-sector rate.
 
 ### 6.3 Example: Rural Electric Co-op Startup
 
-A Tier 2 FCL in Region 5 (Heartland Plains) builds a 10 MW solar farm serving 2,000 residential customers: forms a utility co-op (~\$1,000 member shares); obtains a generation license (co-op priority, \$10,000/year) and retail license (\$5,000/year); builds the 10 MW farm (~\$10M via CCIF loan, 4%, 20 years, DLB-indexed); connects to state distribution lines (\$0 — state owns lines — paying the \$10/MWh transmission access fee); signs up customers via credit-union kiosks (cash accepted). The co-op pays 80% of the standard transmission fee, has priority during shortages, and qualifies for the lower service-sector rate on community-solar micro-loans.
+A Tier 2 FCL in Region 5 (Heartland Plains) builds a 10 MW solar farm serving 2,000 residential customers: forms a utility co-op (~\$1,000 member shares); obtains a generation license (co-op priority, \$10,000/year) and retail license (\$5,000/year); builds the 10 MW farm (~\$10M via CCIF loan, 4%, 20 years, reference-rate-anchored); connects to state distribution lines (\$0 — state owns lines — paying the \$10/MWh transmission access fee); signs up customers via credit-union kiosks (cash accepted). The co-op pays 80% of the standard transmission fee, has priority during shortages, and qualifies for the lower service-sector rate on community-solar micro-loans.
 
 ---
 
@@ -279,7 +280,7 @@ A Tier 2 FCL in Region 5 (Heartland Plains) builds a 10 MW solar farm serving 2,
 Per the Energy Act, the NEB (11 members) sets transmission access-fee rates (6/11), issues generation/retail licenses, enforces co-op preference, **owns the grid and sets the Asset Condition Index, tenders and oversees the maintenance concessions (§1.4), and administers the Asset Renewal Fund (§2.4)**, manages CME response, and publishes an annual utility-performance and asset-condition report (transparent, CED).
 
 ### 8.2 Regional Boards — Retail Oversight
-Per Government Act 4.18, 20 Regional Boards issue retail licenses (co-op preference), enforce consumer protections, manage low-income enrollment, and investigate complaints (informal complaints anonymous).
+Per the Chamber Act §3, 20 Regional Boards issue retail licenses (co-op preference), enforce consumer protections, manage low-income enrollment, and investigate complaints (informal complaints anonymous).
 
 ### 8.3 CLS Functions for Utilities
 
@@ -290,9 +291,9 @@ Per Government Act 4.18, 20 Regional Boards issue retail licenses (co-op prefere
 | Community solar micro-loan | 10,000 (500/region) | 24 hours |
 | CME recovery loan | 2,000 (100/region) | 48 hours (emergency) |
 
-*(CLS officer counts demand-distributed per Credit Union Act §5.1. Loans DLB-indexed; no DAI floor.)*
+*(CLS officer counts demand-distributed per Credit Union Act §5.1. Loans reference-rate-anchored; no DAI floor.)*
 
-### 8.4 Asymmetric Scrutiny (per Monetary Act 9.5)
+### 8.4 Asymmetric Scrutiny (per Monetary Act 9.7)
 
 | Level | Transaction type | CED treatment (pseudonymized) | Reporting |
 | :--- | :--- | :--- | :--- |
@@ -310,7 +311,7 @@ Per Government Act 4.18, 20 Regional Boards issue retail licenses (co-op prefere
 
 | Action | Timeline | Cost | Responsible |
 | :--- | :--- | :--- | :--- |
-| Declare transmission/distribution state-owned | 2025 | \$0 | Central Council |
+| Declare transmission/distribution state-owned | 2025 | \$0 | Sovereign Council |
 | Establish transmission access-fee structure | 2025 | \$5M | NEB |
 | **Establish Asset Renewal Fund + ACI + first maintenance concessions** | 2025–2027 | \$10M | NEB |
 | Issue first generation licenses (co-op priority) | 2026 | \$1M | NEB |
@@ -361,7 +362,7 @@ Per Government Act 4.18, 20 Regional Boards issue retail licenses (co-op prefere
 | Low-income households on assistance | 22M (20%) | 26M (20%) |
 | Community solar micro-loans | 10,000/year | 100,000/year |
 | CME recovery time (target) | 72 hours | 48 hours |
-| Loan rates | DLB-indexed (no DAI) | same |
+| Loan rates | Reference-rate-anchored (Monetary §1.5A) | same |
 | Data architecture | PPK + CED (no CWD) | PPK + CED |
 
 ---
@@ -432,4 +433,4 @@ A nation that owns its grid, rents its upkeep to those who must keep it in good 
 
 ---
 
-**End of Draft 1.2**
+**End of Draft 1.3**
