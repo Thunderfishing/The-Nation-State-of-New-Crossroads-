@@ -1,11 +1,3 @@
----
-title: "Crossroads Chamber and Citizen Representation Act"
-date: "2026-07-07"
-author: "Thunderfish2"
-repository: "crossroads-monetary-act"
-description: "Establishes the legislature of New Crossroads as a federation of self-governing economic constituencies — the credit-union territorial chamber, the co-op and corporate productive chambers — sitting beneath a supreme universal citizen vote. Houses the oversight committees, the sessional model for the territorial chamber, regional prosecution and emergency coordination. Holds the entrenched floors (§11) and the protected guarantees (§12). Companion to the Sovereign Functions Act."
----
-
 # Crossroads Chamber and Citizen Representation Act
 
 **Cross-reference.** Companion to the Sovereign Functions Act (defense, the Special Auditors, the judiciary, the SWF, the four executive bureaus — Treasury, Foreign Affairs Bureau, National Lands & Commons Bureau, Transport Bureau), the Credit Union Act 5.7, the FCL Act 3.3, the Monetary Act 9.7 (the age-20 endowment, the two-taps rule, the PPK/CED), the Municipal & Regional Funding Act 1.2, the Exchange Act 1.2 (the Crossroads Exchange; Treasury's Capital Markets Bureau provides continuous market supervision), the Healthcare Act and Education Act (whose boards set the essential schedules the §12 guarantees bind), and the Military & Intelligence Act 1.7 (the militia and the arms context of Floor 7). The independent regulatory boards chartered under §7 are defined operationally in the Energy, Healthcare, Education, Communications, Infrastructure, Industry, and Housing Acts.
