@@ -1,9 +1,9 @@
-# Crossroads Military Intelligence and Defense Act of 2025: Draft 1.7
+# Crossroads Military Intelligence and Defense Act of 2025: Draft 1.8
 
-**Draft:** 1.7 | **Date:** June 27, 2026
+**Draft:** 1.8 | **Date:** July 12, 2026
 **Author:** Thunderfish2
 
-> **Cross-reference.** Companion to the **Monetary Act 9.5**, **Government Act**, **Energy Act**, **Education Act 2.2**, **Healthcare Act 6.5**, **Communications Act**, and **Credit Union Act 5.4**. The currency is fiat (no metal backing); funding figures follow the Consolidated Fiscal Model.
+> **Cross-reference.** Companion to the **Monetary Act 9.7**, **Credit Union Act 5.7**, **FCL Act 3.3**, the **Sovereign Functions Act**, the **Chamber Act**, **Energy Act 4.3**, **Education Act 2.3**, **Healthcare Act 6.6**, **Communications Act 4.3**, and **Infrastructure Act 2.5**. The currency is fiat (no metal backing); funding figures follow the Consolidated Fiscal Model.
 
 > **Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values.
 
@@ -11,180 +11,377 @@
 
 ## Overview
 
-This act establishes New Crossroads' defense and intelligence framework, prioritizing **unilateral sovereignty, border security, and rapid humanitarian aid**. It is a **lean, drone-focused military** — designed to avoid expensive capital platforms that drones can cheaply destroy, with in-house design and commercial components. 
+This act establishes New Crossroads' defense and intelligence framework, prioritizing **unilateral sovereignty, border security, and rapid humanitarian aid**. It is a **lean, drone-focused military** — designed to avoid expensive capital platforms that drones can cheaply destroy, with in-house design and commercial components — now expanded to a **Tier‑2 global power** with a robust navy, air force, intelligence service, and space command.
 
 ---
 
-## Section 1: Objectives
+## Section 1: Unified Command & Governance
 
-- Field a **100K all-male combat personnel active military**, **1M mixed reserves**, **9.1M armed male militia**, **10K elite infantry**, and a **10K airborne division**, integrated with a **25K-person CMIS** (20K core, 5K cyber warfare), scaling to 50K CMIS by 2075 — to monitor threats, secure borders, and support **~$2B/year humanitarian aid**.
-- Equip forces with 500 hypersonic cruise missiles (100, 10Kt tactical nuclear armed), 200 tactical nuclear shells, 100 anti-satellite missiles, 8 nuclear submarines (112 hypersonic 15Mt, Mirv ICBMs), 50 cutters, 8 frigates, 2 Destroyers, 40 SAR helicopters, 300 combat aircraft, 106 transport aircraft, 10K drones, 20 flying drone carriers, 80 multi-role helicopters, 2K APCs, 100 tanks, 200 howitzers, 60 SAM batteries, and 400 EW units.
-- Fund operations with a **~$40B/year recurring SWF operating allocation (declining)**, backed by the **separate ~$920B Defense Fund** (citizen-bequest endowment), ensuring no foreign financial reliance.
+### 1.1 Military High Command
+- **Composition:** The Chairman of the Joint Chiefs (civilian-military hybrid), service chiefs for each branch (Navy, Air Force, Ground Forces, CMIS, CSI), and the Chief of the Crossroads Military Intelligence Service.
+- **Role:** Advises the Sovereign Council on defense matters; directs joint operations; oversees procurement, training, and readiness.
+- **Veto power (arms/aerospace exports):** High Command + CMIS may compel the Sovereign Council to issue a national-security veto on any arms or aerospace export deemed a proliferation risk. The Sovereign Council must issue the veto; it may be overridden by the standard supermajority (Chamber Act §10.5 — supermajority of relevant chambers + simple-majority universal referendum). *Expertise informs; democracy decides.*
 
----
+### 1.2 Sovereign Council — Defense Oversight
+- **Role:** Civilian control of the military; approves major deployments (offensive war requires Territorial Chamber 15/20), declares emergencies, and holds final authority over the armed forces.
+- **Veto override:** The Sovereign Council's veto may be overridden by the standard supermajority (Chamber Act §10.5), preserving civilian supremacy.
 
-## Section 2: Defense Framework
-
-### 2.1 Military Structure
-- **Active Forces:** 100K all-male combat personnel (2025) — 60K regular troops, 10K elite infantry (special forces), 10K airborne, 20K support. Scales to 125K by 2075 (including 25K CMIS as a standalone branch). Performance tracked via the Merit Dashboard (personnel/identity data held in the PPK).
-- **Reserves:** 1M mixed (700K men, 300K women), trained via 3-month refreshers every 5 years (70% uptake, ~$3.5B/year).
-- **Militia:** 9.1M armed males, equipped via the mandatory-service boot camp (1M/year through Education Act 2.2 §4; men retain rifle).
-
-### 2.2 Training and Recruitment
-- **Source:** ~1M service graduates/year (Education Act 2.2 §4); ~25K (20K CMIS, 5K core military) recruited annually via the Military Training Academy (~$100M/year).
-- **Boot Camp:** 3-month combat training for men (optional for women) during the 24-month service. Elite infantry/airborne receive 6-month specialized training (~$100M/year).
-- **Pilot Training:** ~$30M/year, ~1K pilots/year (Military Training Academy).
-- **Naval Training:** ~$30M/year (Andrew Reed Westport Naval Academy), ~2K crew/year.
-- **Cyber Warfare:** 5K-person CMIS division; recruits ~1K journeymen/year from the tech curriculum.
-
-### 2.3 Procurement and Maintenance
-- **Design:** in-house design of jets (100 fighters, 80 stealth, 60 anti-ship, 20 ground-attack), APCs (2K), cutters (20), frigates (2), tanks (50), howitzers (200), drones (5K), flying drone carriers (10), and missiles — tailored to terrain and a drone-centric, no-large-capital-platform doctrine.
-- **Procurement:** ~$5B/year program contracting ~1K co-op FCLs for component production, mentored by the Department of Defense.
-- **Maintenance:** ~$1.56B/year (commercial components), 95% readiness, biennial audits (6/11 Central Council).
-- **R&D:** ~$5B/year for self-guiding/fiber-optic drone development, tied to Education Act 2.2 tech curricula and the Communications Act networks.
+### 1.3 Regional Boards — Militia Command
+- The 9.1M militia answers to the **Territorial Chamber** (Regional Boards), not the Sovereign Council (Chamber Act §3.3). The Sovereign Council commands only the standing professional force (~125K).
 
 ---
 
-## Section 3: Crossroads Military Intelligence Service (CMIS)
+## Section 2: Ground Forces
+
+### 2.1 Structure
+| Component | Headcount | Notes |
+|-----------|-----------|-------|
+| Active forces | 100,000 | All-male combat personnel |
+| Elite infantry (special forces) | 10,000 | Rapid deployment, specialized training |
+| Airborne division | 10,000 | Air-mobile rapid response (supported by 106 transport aircraft) |
+| Support / logistics | 20,000 | Engineering, medical, communications |
+| **Total Active** | **100,000** | |
+| Reserves (mixed) | 1,000,000 | 700K men, 300K women; 3-month refreshers every 5 years |
+| Militia (armed males) | 9,100,000 | Armed through mandatory service (Education Act 2.3 §4) |
+| **Total Ground Force** | **10.2M** | |
+
+### 2.2 Equipment (Ground Forces)
+
+| Equipment | Count | Notes |
+|-----------|-------|-------|
+| APCs | 2,000 | Armored personnel carriers |
+| Tanks | 100 | Light/medium, terrain-adapted |
+| Howitzers | 200 | Artillery support |
+| SAM batteries | 60 | Air defense |
+| EW units | 400 | Electronic warfare |
+
+### 2.3 Ground Forces Budget: **$8–10B/year**
+- Personnel: ~$3B
+- Procurement/maintenance: ~$2B
+- Training: ~$1.5B
+- Reserves/militia readiness: ~$1.5B
+- Logistics/support: ~$1B
+
+---
+
+## Section 3: Navy
 
 ### 3.1 Structure
-- **Mission:** monitor external threats, secure ~2.7M km² borders, support ~$2B/year aid ops, manage anti-satellite assets; limited external scope, no deep espionage.
-- **Assets:** 10 military satellites (scaling to 20), 5K drones, 10 flying drone carriers, 100 anti-satellite missiles, 400 EW units.
-- **Training:** 25K personnel from service graduates (Military Training Academy).
-- **Threat Intelligence:** ~$20M/year, 95% threat detection.
-- **Funding:** ~$5.5B (within the operating allocation).
 
-### 3.2 Operations
-- **Border Security:** 5K field ops patrol 20 forts, supported by drones, satellites, and EW units.
-- **Aid Escorts:** 5K field ops escort 10K aid troops with multi-role helicopters and drone carriers.
-- **Cyber Warfare:** 5K-person division defends the national banking suite and satellite comms (~$50M/year resilience program, 99% uptime).
-- **Threat Monitoring:** ~7K analysts report to Central Council (6/11); no proactive foreign engagement.
+| Ship Type | Count | Crew/Ship | Shore Support | Total Personnel |
+|-----------|-------|-----------|---------------|-----------------|
+| Destroyers | 4 | ~250 | +40% | ~1,400 |
+| Frigates | 8 | ~150 | +40% | ~1,680 |
+| Corvettes | 16 | ~70 | +40% | ~1,568 |
+| Cutters | 40 | ~25 | +30% | ~1,300 |
+| Minesweepers | 14 | ~40 | +40% | ~784 |
+| SSBNs (ICBM submarines) | 8 | ~150 | +100% (nuclear support) | ~2,400 |
+| SSNs (attack submarines) | 12 | ~80 | +80% | ~1,728 |
+| Naval bases (4) | — | — | — | ~2,000 |
+| **Total Navy** | **102 vessels** | | | **~12,800–13,500** |
 
----
+### 3.2 Naval Bases
+| Base | Region | Notes |
+|------|--------|-------|
+| Eastport Naval Base | Region 12 | Primary Atlantic fleet |
+| Westport Naval Base | Region 18 | Primary Pacific fleet |
+| Rivergate City Naval Station | Region 2 | Riverine & coastal defense |
+| Desert Port Naval Facility | Region 7 | Southern patrol & space launch support |
 
-## Section 4: Crossroads Space Initiative (CSI)
-- **Operations:** managed by ~3K CMIS cyber personnel (~$120M/year redundancy/cybersecurity); 5 ground stations; launch facilities at Desert Port (2035) and Frostpeak (2050).
-- **Funding:** ~$2.25B (within the operating allocation / buildout).
+### 3.3 Strategic Deterrence (SSBNs)
+- **8 SSBNs** carrying **112 hypersonic 15Mt MIRV ICBMs** (14 per submarine).
+- **Strategic nuclear deterrent:** independent, unilateral second-strike capability.
+- **Funding:** Included in Navy budget; nuclear warhead maintenance is a separate line item (~$1B/year).
 
----
-
-## Section 5: Naval and Air Force Organization
-
-### 5.1 Naval Forces
-- **Assets (2075):** 40 cutters, 8 frigates, 2 Destroyers 8 submarines (112 hypersonic 15Mt, MIRV ICBMs), 40 SAR helicopters.
-- **Bases:** 4 naval bases (Eastport, Westport, Rivergate City, Desert Port), grid-powered.
-- **Maintenance:** ~$1.56B/year (commercial components), 95% readiness, biennial audits.
-- **Resilience:** ~$50M/year (flood barriers, backup power).
-
-### 5.2 Air Force
-- **Assets:** 300 combat aircraft, 106 transport aircrst, 80 multi-role helicopters, 10K drones, 20 flying drone carriers.
-- **Bases:** central base (Durant B. Cooper) + New Tech City and Rivergate City.
-- **Maintenance:** ~$1.56B/year, 95% readiness, biennial audits.
-- **Drone Synergy:** ~$20M/year integrating drone carriers with the drone fleet (joint exercises 4/year).
-
-### 5.3 Special Forces (Elite Infantry)
-- 10K elite infantry + 80 multi-role helicopters, co-located with regular force bases.
-- **Rapid Deployment:** ~$30M/year (prepositioned supplies, 24-hour response).
+### 3.4 Navy Budget: **$12–15B/year**
+- Personnel: ~$4B
+- Vessel maintenance: ~$3B
+- Procurement/construction: ~$2B
+- Fuel/operations: ~$1.5B
+- Nuclear submarine support (SSBNs + SSNs): ~$1.5B
+- Base operations: ~$1B
 
 ---
 
-## Section 6: Aid Operations
-- **Scope:** ~$2B/year for earthquake/hurricane relief; 10K troops + aircraft, cutters, helicopters, transport aircraft and drone carriers deployed within 72 hours globally, supported by ~95K volunteers.
-- **Logistics:** rail + ports; ~$500M/year pre-positioned supplies; volunteer coordination with mental-health counseling.
-- **Policy:** aid only, no reconstruction, withdraw within 90 days, no extensions (6/11 Central Council). ~$500M/year contingency fund.
+## Section 4: Air Force (Expanded)
+
+### 4.1 Structure
+
+| Asset | Count | Personnel Estimate |
+|-------|-------|--------------------|
+| Combat aircraft | 300 | ~7,500 |
+| Transport aircraft | 106 | ~2,500 |
+| Multi-role helicopters | 80 | ~1,200 |
+| Combat drones | 5,000 | ~2,000 |
+| Flying drone carriers | 10 | ~1,500 |
+| Airbases (3) | — | ~2,000 |
+| Training/logistics/command | — | ~1,500 |
+| **Total Air Force** | | **~15,000–16,000** |
+
+### 4.2 Air Bases
+| Base | Location | Notes |
+|------|----------|-------|
+| Durant B. Cooper Air Base | Region 1 | Primary fighter base |
+| New Tech City Air Station | Region 6 | Drone command & R&D |
+| Rivergate City Air Base | Region 2 | Strategic airlift & joint ops |
+
+### 4.3 Air Force Budget: **$8–10B/year**
+- Personnel: ~$3B
+- Aircraft maintenance: ~$2B
+- Drone operations: ~$1.5B
+- Fuel/operations: ~$1B
+- Procurement: ~$1B
+- Base operations: ~$1B
 
 ---
 
-## Section 7: Funding Mechanisms (Reconciled)
+## Section 5: Crossroads Military Intelligence Service (CMIS)
 
-**The military runs on two distinct money flows — a recurring operating budget and a separate accumulating endowment — plus a one-time buildout.**
+### 5.1 Structure
+- **Personnel:** 25,000 (2025) → 50,000 (2075).
+- **Mission:** Monitor external threats, secure borders, support aid operations, manage anti-satellite assets, conduct cyber defense.
+- **Divisions:**
+  - **Cyber Warfare Division (5K personnel):** Defense of national banking suite, satellite communications, and infrastructure.
+  - **Threat Monitoring Division (7K analysts):** External threat intelligence, early warning.
+  - **Border Security Division (5K field ops):** Patrol 20 border forts, supported by drones and satellites.
+  - **Aid Support Division (5K field ops):** Escort 10K aid troops, manage logistics.
+  - **Counterintelligence Division (3K personnel):** Internal security, counter-espionage.
 
-### 7.1 Recurring Operating Budget — ~$40B/year (declining)
-- The SWF Defense sub-fund funds recurring operations at **~$40B/year (2025)** — lean, ~0.25–0.3% of GDP. Major line items: procurement (~$5B), R&D (~$5B), maintenance (~$3.1B naval+air), reserves training (~$3.5B), CMIS (~$5.5B), CSI (~$2.25B), personnel, aid (~$2B), and the many small readiness programs.
-- This allocation **declines toward ~$0 by ~2070** as the Defense Fund matures and its returns take over operating costs (§7.3).
+### 5.2 Equipment
+| Asset | Count |
+|-------|-------|
+| Military satellites | 10 → 75 |
+| Combat drones | 5,000 |
+| Flying drone carriers | 10 |
+| Anti-satellite missiles | 100 |
+| EW units | 400 |
 
-### 7.2 One-Time Buildout — (the former "$77.56B")
-- The **$77.56B** figure from prior drafts is **buildout, not a recurring cost**: bases (naval ~$2B, air ~$2B, regular forces ~$2B, CMIS ~$1B, border forts ~$5B ≈ ~$12–15B) plus initial equipment and procurement, amortized over the early years. It is not part of the annual operating figure.
-
-### 7.3 Defense Fund — ~$920B citizen-bequest endowment (separate, outside the SWF cap)
-- A distinct sovereign endowment, **not part of the SWF and not under the 12%-of-GDP cap**, built over ~50 years from **citizen estate bequests** plus investment returns, accumulating to **~$920B by 2075** (~$1T by 2100).
-- **Locked until total war** (release requires the supermajority unlock vote — e.g., 6/10 Assembly + 7/11 Central Council).
-- **At maturity, its ~4% returns (~$37B/year) approximately cover the ~$40B operating budget** — so the SWF Defense operating allocation declines toward zero as the Fund matures. The military becomes nearly self-funding off the endowment.
-
-### 7.4 Financial Integration & Reserves
-- Financial integration with the credit-union banking suite, wallets, and the **Citizens' Metals ETF** ($125–504B, investment — not currency backing; Monetary Act §1). Cash for aid trades uses the standard ~5%-metal-fleck notes (security + catastrophe floor, not backing).
-- **Contingency Reserve:** ~$1B/year (SWF-funded) for operational spikes, reviewed biennially (6/11 Central Council).
-- **No foreign financial reliance.**
-
----
-
-## Section 8: Governance and Oversight
-
-### 8.1 Oversight Bodies
-- **Regional Boards:** 20 boards (220 members, 11/region), with co-op preference for licenses/contracts (first right of refusal), manage regional defense operations and vote on deployments (75%).
-- **Central Council:** 11 members approve defense actions (6/11 vote) and track threats.
-- **Audits:** ~50 auditors + blockchain/AI via the Defense Compliance System.
-- **EGA:** 3/20 regions trigger emergency governance, redirecting 10K troops for aid or defense.
-- **Nuclear Security:** ~$50M/year AI-monitored vaults at the major bases, audited quarterly, 100% warhead integrity.
-
-### 8.2 Arms & Aerospace Export — National-Security Veto (NEW)
-
-*Rationale:* New Crossroads' co-ops and corporations produce advanced arms and aerospace systems. To prevent these from reaching adversaries or fueling proliferation, the military is given a check on such exports — but one that remains subordinate to civilian democratic authority.
-
-- **Trigger:** **Military High Command, in formal consultation with the Crossroads Military Intelligence Service (CMIS)**, may determine that a proposed sale or export of arms, weapons systems, military or dual-use aerospace technology, or sensitive defense components poses a national-security or proliferation risk.
-- **Effect — a forced Central Council veto:** upon such a determination (submitted as a classified national-security finding), **High Command + CMIS may compel the Central Council to issue a veto** of the sale. The Central Council must enact the veto — it cannot decline to issue it — and the veto then enters the normal process.
-- **Override (civilian supremacy preserved):** the veto is **subject to override by the same mechanism as any other Central Council veto** (per the Government Act — a supermajority of the National Assembly and/or Regional Boards). The military can force the veto; the elected bodies retain the final word. *(The exact override threshold is set by the Government Act's standard veto-override procedure.)*
-- **Scope & process:** applies to foreign sales/exports and sensitive transfers of arms and aerospace systems. High Command + CMIS file the determination; the Central Council issues the veto within a defined window; the seller and relevant bodies are notified; any override proceeds under standard procedure. Determinations are logged (redacted) for oversight.
-
-*This balances military expertise on proliferation risk against democratic control: the armed forces can stop a dangerous sale from going through automatically, but they cannot override the will of the people's elected representatives.*
+### 5.3 CMIS Budget: **$5.5B/year**
+- Personnel: ~$2B
+- Cyber defense: ~$1B
+- Border security: ~$1B
+- Threat monitoring: ~$0.5B
+- R&D/equipment: ~$1B
 
 ---
 
-## Section 9: 2075 Outcomes
-- **Defense:** 125K active (100K core, 25K CMIS), 1M reserves, 9.1M militia, no foreign ties, ~$920B Defense Fund intact, operating budget nearly self-funded by Fund returns.
-- **CMIS:** 50K personnel, standalone branch, 72-hour aid response, 90-day exit.
-- **Naval:** 40 cutters, 8 frigates, 8 submarines, 40 SAR helicopters.
-- **Air Force:** 300 aircraft in 20 squadrons; 95% rural coverage.
-- **Special Forces:** 10K elite infantry + 80 multi-role helicopters, 10k Airborne + 106 transport aircraft.
-- **Ground Forces:** 2K APCs, 100 tanks, 200 howitzers, 60 SAM batteries, 400 EW units.
-- **Space:** 75 satellites, 100 anti-satellite missiles, ~$1B/year revenue, asteroid mining primed.
+## Section 6: Crossroads Space Initiative (CSI) — Space Command
+
+### 6.1 Structure
+- **Personnel:** ~3,000 (2025) → ~6,000 (2075).
+- **Mission:** Space domain awareness, satellite operations, anti-satellite defense, space-based intelligence, and eventual asteroid mining.
+- **Divisions:**
+  - **Satellite Operations (1,000 personnel):** Manage the military satellite constellation (75 satellites by 2075).
+  - **Space Surveillance (500 personnel):** Track orbital threats and debris.
+  - **Anti-Satellite Defense (500 personnel):** Operate the 100 anti-satellite missiles.
+  - **Space Launch (500 personnel):** Launch facilities at Desert Port and Frostpeak.
+  - **R&D / Asteroid Mining (500 personnel):** Priming the resource-extraction capability.
+
+### 6.2 Assets
+| Asset | Count |
+|-------|-------|
+| Military satellites | 10 → 75 |
+| Ground stations | 5 |
+| Launch facilities | 2 (Desert Port 2035, Frostpeak 2050) |
+| Anti-satellite missiles | 100 |
+
+### 6.3 CSI Budget: **$2.25B/year**
+- Personnel: ~$0.5B
+- Satellite operations: ~$0.5B
+- Space surveillance: ~$0.3B
+- Launch facilities: ~$0.5B
+- R&D: ~$0.45B
 
 ---
 
-## Appendix: Glossary
-- **CMIS:** Crossroads Military Intelligence Service (25K→50K personnel).
-- **CSI:** Crossroads Space Initiative.
-- **SWF:** Sovereign Wealth Fund (~$1.5–2.0T, capped at 12% GDP). The **Defense Fund is separate and outside this cap.**
-- **Defense Fund:** ~$920B citizen-bequest endowment, locked until total war, returns covering operations at maturity.
-- **BWC:** Bulwark Coin — the national **fiat** currency (not metal-backed; value held by the Monetary Act §1.5 issuance anchor).
-- **Defense Compliance System / Merit Dashboard:** military readiness and personnel-performance tracking (personnel identity data held in the PPK).
-- **Military Training Academy:** ~$100M/year defense-training program.
+## Section 7: Aid Operations
+
+### 7.1 Structure
+- **Personnel:** 10,000 troops (regular, CMIS, air force) dedicated to humanitarian aid.
+- **Scope:** ~$2B/year for earthquake/hurricane relief; aircraft, cutters, helicopters, transport aircraft and drone carriers deployed within 72 hours globally, supported by ~95K volunteers.
+- **Logistics:** Rail + ports; ~$500M/year pre-positioned supplies; volunteer coordination with mental-health counseling.
+- **Policy:** Aid only, no reconstruction, withdraw within 90 days, no extensions (requires Territorial Chamber 15/20).
+
+### 7.2 Aid Budget: **$2B/year**
+
+---
+
+## Section 8: Training, Procurement, and R&D
+
+### 8.1 Training
+| Program | Annual Cost | Notes |
+|----------|-------------|-------|
+| Military Training Academy | ~$100M | Core military training, pilot, naval, and cyber recruitment |
+| Pilot training | ~$30M | ~1K pilots/year |
+| Naval training (Andrew Reed Westport Naval Academy) | ~$30M | ~2K crew/year |
+| Cyber warfare training | ~$30M | Integrated with tech curriculum (Education Act 2.3) |
+| Reserve refreshers | ~$3.5B | 3-month refreshers every 5 years, 70% uptake |
+
+### 8.2 Procurement
+- **Annual procurement:** ~$5B/year, contracting ~1K co-op FCLs for component production (with co-op preference, first right of refusal).
+- **One-time buildout (bases + initial equipment):** ~$77.56B (amortized over early years).
+
+### 8.3 R&D
+- **Annual R&D:** ~$5B/year, focused on self-guiding/fiber-optic drones, EW systems, missile technology, and space launch.
+- **Drone doctrine:** Emphasizes swarms of inexpensive, in-house drones over large capital platforms.
+
+### 8.4 Training + R&D Total Budget: **$5–6B/year**
+
+---
+
+## Section 9: Funding — Reconciled Expanded Budget
+
+**The expanded military annual budget: $55–65B/year.**
+
+| Branch | Annual Budget | Personnel |
+|--------|---------------|-----------|
+| **Ground Forces** | $8–10B | 100K active, 1M reserves, 9.1M militia |
+| **Navy (expanded)** | $12–15B | ~12,800–13,500 |
+| **Air Force (expanded)** | $8–10B | ~15,000–16,000 |
+| **CMIS (Intelligence)** | $5.5B | 25K → 50K |
+| **CSI (Space Command)** | $2.25B | 3K → 6K |
+| **Aid Operations** | $2B | 10K |
+| **Training + R&D** | $5–6B | — |
+| **Total** | **$55–65B** | **~125K active** |
+
+### 9.1 Funding Sources — Two Distinct Streams
+
+**Stream 1 — Stable SWF Operating Allocation ($40B/year):**
+- The SWF Defense sub-fund provides a **stable $40B/year allocation**.
+- **This allocation does not decrease.** It remains constant as the baseline annual contribution.
+
+**Stream 2 — Defense Fund Endowment Supplement ($15–25B/year):**
+- The **~$920B Defense Fund** (citizen-bequest endowment, outside the 12% SWF cap) provides a **supplemental draw** to cover the expanded force's additional cost.
+- At maturity, the endowment's ~4% return (~$37B/year) can fully cover the $15–25B supplemental draw, leaving the endowment intact.
+- **The endowment supplements the $40B allocation** — it does not replace it. The total budget is $40B (SWF) + $15–25B (Defense Fund) = $55–65B/year.
+
+### 9.2 Defense Fund Mechanics
+- **Source:** Citizen estate bequests (not state revenue).
+- **Total:** ~$920B by 2075 (~$1T by 2100).
+- **Locked until total war** — release requires the supermajority unlock vote (Chamber Act §10.5 middle bar).
+- **Investment returns:** ~4%/year (~$37B/year at maturity).
+- **Use:** Supplements the SWF allocation to fund the expanded military. The SWF allocation stays $40B; the endowment funds the expansion.
+
+### 9.3 One-Time Buildout
+- The **$77.56B** buildout is a **one-time capital expense** for bases (naval, air, regular forces, border forts) and initial procurement, amortized over the early years.
+
+---
+
+## Section 10: Arms & Aerospace Export — National-Security Veto
+
+### 10.1 Veto Mechanism
+- **Trigger:** Military High Command + CMIS determine that a proposed sale or export of arms, weapons systems, military or dual-use aerospace technology, or sensitive defense components poses a national-security or proliferation risk.
+- **Effect:** High Command + CMIS may **compel the Sovereign Council to issue a veto** of the sale. The Sovereign Council must issue the veto — it cannot decline.
+- **Override (civilian supremacy):** The veto is **subject to override** by the standard supermajority (Chamber Act §10.5 — supermajority of relevant chambers + simple-majority universal referendum). The military can force the veto; the elected bodies retain the final word.
+- **Scope:** Applies to foreign sales/exports and sensitive transfers of arms and aerospace systems.
+
+### 10.2 Process
+1. High Command + CMIS file a classified national-security finding.
+2. Sovereign Council issues the veto within a defined window.
+3. The seller and relevant bodies are notified.
+4. Any override proceeds under the standard procedure (Chamber Act §10.5).
+5. Determinations are logged (redacted) for oversight.
+
+---
+
+## Section 11: Global Power Rating & 2075 Outcomes
+
+### 11.1 Global Power Rating: Tier‑2 Major Power (8.6/10)
+Crossroads ranks alongside:
+- France
+- United Kingdom
+- Japan
+- South Korea
+
+**Below only:** United States, China.
+
+**Why Tier‑2?**
+- 8 SSBNs with 112 hypersonic 15Mt MIRV ICBMs → strategic deterrence equal to major nuclear powers.
+- 12 SSNs → serious underwater warfare capability.
+- 5,000+ drones → drone‑centric doctrine; cheap to lose, expensive to attack.
+- $920B Defense Fund → long-term financial independence.
+- CMIS (25K → 50K) → strong cyber, EW, satellite control.
+
+### 11.2 2075 Force Projection
+
+| Branch | 2025 | 2075 |
+|--------|------|------|
+| Active forces | 100K | 125K |
+| Navy vessels | 4 destroyers, 8 frigates, 16 corvettes, 40 cutters, 14 minesweepers, 8 SSBNs, 12 SSNs | same (with upgrades) |
+| Air Force | 300 combat aircraft, 106 transport, 80 helicopters, 5K drones, 10 drone carriers | same (with upgrades) |
+| CMIS | 25K | 50K |
+| CSI | 3K | 6K |
+| Defense Fund | building | ~$920B |
+| Annual budget | $40B | $55–65B (SWF $40B + Defense Fund supplement) |
 
 ---
 
 ## Key Stats (2025–2075)
-- **Military:** 100K active, 1M reserves, 9.1M militia, 25K CMIS (2025) → 125K active, 50K CMIS (2075).
-- **Equipment:** 100 hypersonic cruise missiles, 200 tactical nuclear shells, 100 anti-satellite missiles, 8 submarines, 40 cutters, 8 frigates, 40 SAR helicopters, 300 combat aircraft, 106 transport aircraft, 10K drones, 20 flying drone carriers, 80 multi-role helicopters, 2K APCs, 100 tanks, 200 howitzers, 60 SAM batteries, 400 EW units.
-- **Space:** 75 satellites, ~$1B/year revenue.
-- **Funding:** **~$40B/year recurring operating (declining)**; **one-time buildout (former $77.56B)**; **~$920B Defense Fund (bequest endowment, separate)**.
-- **Doctrine:** lean, drone-focused, no large capital platforms, unilateral sovereignty.
+
+| Metric | 2025 | 2075 |
+|--------|------|------|
+| Active military (total) | 100K | 125K |
+| Navy personnel | ~12,800–13,500 | ~12,800–13,500+ |
+| Air Force personnel | ~15,000–16,000 | ~15,000–16,000+ |
+| CMIS personnel | 25K | 50K |
+| CSI personnel | 3K | 6K |
+| Ground Forces | 100K active, 1M reserves, 9.1M militia | same |
+| **Total annual budget** | **$55–65B** | **$55–65B** (SWF $40B + Defense Fund supplement) |
+| SWF operating allocation | $40B | $40B (stable) |
+| Defense Fund supplement | — | $15–25B |
+| Defense Fund (endowment) | ~$100B | ~$920B |
+| One-time buildout | ~$77.56B | amortized |
+| Destroyers | 4 | 4 |
+| Frigates | 8 | 8 |
+| Corvettes | 16 | 16 |
+| Cutters | 40 | 40 |
+| Minesweepers | 14 | 14 |
+| SSBNs (ICBM submarines) | 8 | 8 |
+| SSNs (attack submarines) | 12 | 12 |
+| Combat aircraft | 300 | 300 |
+| Transport aircraft | 106 | 106 |
+| Combat drones | 5,000 | 5,000+ |
+| Flying drone carriers | 10 | 10 |
+| Military satellites | 10 | 75 |
+| Anti-satellite missiles | 100 | 100 |
+| Doctrine | Lean, drone-focused | Lean, drone-focused |
+| Global power rating | Tier‑2 | Tier‑2 (8.6/10) |
+
+---
+
+## Appendix: Glossary
+
+| Term | Definition |
+|------|------------|
+| **CMIS** | Crossroads Military Intelligence Service (25K→50K personnel) |
+| **CSI** | Crossroads Space Initiative (Space Command) |
+| **SWF** | Sovereign Wealth Fund (~$1.5–2.0T, capped at 12% GDP) |
+| **Defense Fund** | ~$920B citizen-bequest endowment, outside SWF cap; supplements the $40B SWF allocation |
+| **BWC** | Bulwark Coin — the national fiat currency (not metal-backed) |
+| **Citizens' Metals ETF** | Citizen investment fund ($125–504B); backs its shareholders, not the currency |
+| **High Command** | Military High Command — Chairman of the Joint Chiefs, service chiefs, CMIS chief |
+| **Sovereign Council** | 7-member executive (Sovereign Functions Act §6) — civilian control of military |
+| **Territorial Chamber** | 220 Regional Board members (Chamber Act §3) — militia command, war ratification |
+| **Chamber Act §10.5** | Amendment thresholds — supermajority + simple-majority universal referendum |
 
 ---
 
 ## Design Philosophy (Informative)
 
-New Crossroads builds a military that is **lean by design and self-funding by patience.**
+New Crossroads builds a military that is **lean by design and well-funded by two streams.**
 
 - **Cheap to lose, expensive to face.** The doctrine avoids the giant capital platforms a drone can sink or down for pennies. Swarms of in-house drones, fiber-optic guidance, commercial components, and a vast trained militia make the nation costly to invade and cheap to defend.
 
-- **Funded twice — by the living, then by the dead.** In the early years the lean ~$40B operating budget comes from the SWF. Over fifty years, citizens leaving bequests build a ~$920B Defense Fund whose returns gradually take over — until the military is nearly self-funding off the gifts of the departed, drawing almost nothing from the annual budget. Lean in life, endowed in death.
+- **Funded twice — a stable allocation plus a growing endowment.** The SWF provides a stable $40B/year baseline that never decreases. The citizen-bequest Defense Fund builds over fifty years to ~$920B, whose returns supplement the baseline to fund the expanded force. **The $40B allocation stays steady; the endowment pays for the expansion.**
 
-- **The military can stop a dangerous sale — but not the people's will.** High Command and intelligence can force a veto on any arms or aerospace export they judge a proliferation risk, keeping advanced weapons out of adversaries' hands. But that veto is overridable by the elected bodies, exactly like any other. Expertise informs; democracy decides.
+- **A navy and air force that matter.** 8 SSBNs with 112 hypersonic 15Mt MIRV ICBMs, 12 SSNs, 4 destroyers, 8 frigates, 16 corvettes, 40 cutters, 14 minesweepers, 5,000 drones, 300 combat aircraft, and 106 transport aircraft give New Crossroads strategic deterrence, underwater warfare capability, naval presence, and air dominance — enough to make any adversary think twice.
+
+- **The military can stop a dangerous sale — but not the people's will.** High Command and intelligence can force a veto on any arms or aerospace export they judge a proliferation risk, keeping advanced weapons out of adversaries' hands. But that veto is overridable by the elected bodies exactly like any other. Expertise informs; democracy decides.
 
 - **Aid, not empire.** Force projects outward only to save lives — 72 hours in, 90 days out, no reconstruction, no extensions.
 
-A lean military, funded by bequest, that defends the homeland, helps in disaster, guards against proliferation, and never escapes civilian control.
+A lean military, funded by a stable allocation and a growing endowment, that defends the homeland, helps in disaster, guards against proliferation, and never escapes civilian control.
 
 ---
 
-**End of Draft 1.7**
+**End of Draft 1.8**
