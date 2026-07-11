@@ -1,11 +1,11 @@
+# Crossroads Communications and Media Infrastructure Act of 2025: Draft 4.3
 
-
-# Crossroads Communications and Media Infrastructure Act of 2025: Draft 4.2
-
-**Draft:** 4.2 | **Date:** June 27, 2026
+**Draft:** 4.3 | **Date:** July 12, 2026
 **Author:** Thunderfish2
 
-> **Cross-reference.** Companion to the **Monetary Act 9.5**, **Credit Union Act 5.4**, **FCL Act 3.2**, **Energy Act**, **Utilities Act**, and **Infrastructure Act**. The asset/operator separation model follows the rail system (state owns tracks, co-ops/corps run trains) and utilities (state owns lines, utilities sell power). Loans are DLB-indexed (no DAI/BAR). Data uses PPK/CED (no CWD).
+---
+
+> **Cross-reference.** Companion to the **Monetary Act 9.7**, **Credit Union Act 5.7**, **FCL Act 3.3**, **Energy Act 4.3**, **Utilities Act 1.3**, **Infrastructure Act 2.5**, the **Sovereign Functions Act**, and the **Chamber Act**. The asset/operator separation model follows the rail system (state owns tracks, co-ops/corps run trains) and utilities (state owns lines, utilities sell power). Loans are reference-rate-anchored (Monetary Act §1.5A). Data uses PPK/CED (no CWD).
 
 > **Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values.
 
@@ -17,18 +17,20 @@ Establishes a competitive communications and media market built on **state-owned
 
 The state owns and maintains the physical infrastructure (buried fiber, broadcast towers, EMP-hardened emergency AM transmitters). Licensed service providers — primarily co-ops, but also corporations — compete to offer internet, phone, and media services, paying **infrastructure access fees** for use of state assets.
 
-This model prevents monopoly capture, centralizes CME hardening, generates steady SWF revenue, and lets co-ops enter the market without billions in capital. It also establishes co-op media preference, a 55% local-content mandate, AM-radio resilience (EMP-hardened, in all vehicles by 2035), and a net-neutral mesh network with open access — a co-op-dominant media landscape through incentives, not quotas.
+This model prevents monopoly capture, centralizes CME hardening, generates steady SWF revenue, and lets co-ops enter the market without billions in capital. It also establishes co-op media preference, a 33% local-content mandate, AM-radio resilience (EMP-hardened, in all vehicles by 2035), and a net-neutral mesh network with open access — a co-op-dominant media landscape through incentives, not quotas. The AM radio network, rather than sitting idle in peacetime, is licensed out to enterprises wanting to start radio stations — particularly talk radio, where robust political and social commentary ("shit talk") is explicitly encouraged as part of a free and lively public sphere.
 
 ---
 
 ## Section 0: Interdependencies
 
-- **Energy Act:** provides the grid (400 TWh → 1,633 TWh by 2075) and CME hardening (buried lines, EMP-shielded substations); antifragile SMR hubs ensure 99.9% uptime for broadcast and mesh nodes.
-- **Utilities Act:** the asset/operator separation model (state owns power lines, utilities sell power) is replicated (state owns fiber and towers, ISPs and media companies compete).
-- **Infrastructure Act:** buried fiber follows the same CME-proof specs as buried transmission lines; rail, ports, and airports distribute communications equipment.
-- **Monetary Act 9.5:** access fees paid in BWC, flow to SWF, subject to standard BWC transaction fees; co-op media pays the 5% co-op profit tax (over $100,000); no binding sector quotas.
-- **Credit Union Act 5.4:** media co-ops access loans ($50,000–$5M, 5–6% nominal, DLB-indexed) for studios, transmitters, and mesh nodes; micro-loans ($500, 4% nominal) for community-radio startups.
-- **FCL Act 3.2:** media co-ops operate as Tier 2/3 FCLs under the progressive waterfall; co-op clubs support local content; CCIF (voluntary) may fund expansion.
+- **Energy Act 4.3:** provides the grid (400 TWh → 1,633 TWh by 2075) and CME hardening (buried lines, EMP-shielded substations); antifragile SMR hubs ensure 99.9% uptime for broadcast and mesh nodes.
+- **Utilities Act 1.3:** the asset/operator separation model (state owns power lines, utilities sell power) is replicated (state owns fiber and towers, ISPs and media companies compete).
+- **Infrastructure Act 2.5:** buried fiber follows the same CME-proof specs as buried transmission lines; rail, ports, and airports distribute communications equipment.
+- **Monetary Act 9.7:** access fees paid in BWC, flow to SWF, subject to standard BWC transaction fees; co-op media pays the 5% co-op profit tax (over $100,000); no binding sector quotas. Loans are reference-rate-anchored (Monetary §1.5A).
+- **Credit Union Act 5.7:** media co-ops access reference-rate-anchored loans ($50,000–$5M) for studios, transmitters, and mesh nodes; micro-loans ($500, 4% nominal) for community-radio startups.
+- **FCL Act 3.3:** media co-ops operate as Tier 2/3 FCLs under the progressive waterfall; co-op clubs support local content; CCIF (voluntary) may fund expansion.
+- **Sovereign Functions Act:** the NEB and Communications boards are chartered under the independent board registry; Special Auditors (§3) enforce compliance.
+- **Chamber Act:** Regional Boards (§3) oversee regional media matters; independent board registry (§7).
 
 ---
 
@@ -66,7 +68,7 @@ Funded by the SWF (~$15B allocation) and maintained by the NEB and Regional Boar
 | Radio/TV stations (content) | Co-op or Corporate | Yes (Regional Board) | Co-op preference |
 | ISP customer equipment & billing | Co-op or Corporate | Yes | Competitive market |
 | Local mesh node extensions | Co-op or Corporate | Yes | Must connect to state backbone |
-| Content (news, entertainment) | Co-op or Corporate | No (protected speech) | 55% local-content mandate |
+| Content (news, entertainment) | Co-op or Corporate | No (protected speech) | 33% local-content mandate |
 
 **Co-op Preference:** broadcast licenses are issued preferentially to co-ops (first right of refusal if requirements are met). Structural preference, not a quota; the 65% 2025 figure (3,250 of 5,000 radio, 1,300 of 2,000 TV) is a descriptive baseline.
 
@@ -89,7 +91,7 @@ Providers pay the NEB or Regional Boards for access to state infrastructure. Fee
 *(Fees are small relative to energy transmission because communications infrastructure is less capital-intensive — the value is in content and service competition, not access fees.)*
 
 ### 2.2 Fee Adjustment
-- Biennial NEB review (6/11) with Central Council approval (6/11).
+- Biennial NEB review (6/11) with Sovereign Council approval (5/7).
 - Annual inflation adjustment tied to the DLB.
 - CME surcharge: +20% during CME recovery (max 90 days) to fund emergency broadcast.
 - Co-op discount: co-op providers pay 80% of the corporate rate.
@@ -99,10 +101,10 @@ Providers pay the NEB or Regional Boards for access to state infrastructure. Fee
 | Allocation | Share | Notes |
 | :--- | :--- | :--- |
 | Infrastructure maintenance and hardening | 50% | |
-| SWF (per Monetary 9.5, carved-out contribution) | 30% | |
+| SWF (per Monetary 9.7, carved-out contribution) | 30% | |
 | Rural communications fund | 20% | subsidizes remote areas |
 
-The rural fund ensures 95% rural reach (26.6M of 28M rural citizens) by 2075, funding last-mile connections in remote areas. *(Note: the 155%-recovery vs. 50/30/20-split relationship is the same model used in the Infrastructure and Parks Acts and is flagged there for a consolidated reconciliation.)*
+The rural fund ensures 95% rural reach (26.6M of 28M rural citizens) by 2075, funding last-mile connections in remote areas.
 
 ---
 
@@ -121,17 +123,29 @@ The rural fund ensures 95% rural reach (26.6M of 28M rural citizens) by 2075, fu
 | Buried lines to transmitters | 50,000 km | 50,000 km | ~$5B | SWF (Energy Act hardening) |
 | Backup SMR power (at hubs) | 18 GW | 36 GW | (in Energy Act) | Energy Act SWF |
 
-### 3.3 CME Emergency Protocol
+### 3.3 AM Radio Network — Licensed Out in Normal Times (New)
+
+*Rationale:* a nationwide AM transmitter network is expensive to maintain if it sits idle waiting for a CME. New Crossroads **licenses the AM radio network out to enterprises** in normal times — talk radio, music, news, local coverage — so the network is **live, maintained, and vibrant** when the emergency comes. The state retains **emergency override authority** on all frequencies (the network remains state-owned spectrum with public-safety priority).
+
+**Talk radio and "shit talk" are encouraged.** Because a free press requires room for robust, even rude, debate, the AM licensing regime explicitly encourages **talk radio of all political stripes** — including what might be called "shit talk" (heated, direct, unvarnished political and social commentary). This is protected speech under the Free Expression and Free Press floor (Chamber Act §11, Floor 6). No content-based licensing restrictions are permitted. Licenses are issued by the Regional Boards (co-op preference), with no prior restraint and no penalty for vigorous commentary.
+
+**Licensing structure:**
+- AM transmitters are **leased to licensed broadcasters** (co-op or corporate) at the standard tower-lease rate ($10,000/tower/year, with the 20% co-op discount).
+- In a CME or declared emergency, **state emergency broadcast overrides all commercial content** — the network becomes the emergency alert system within minutes (per §7.3).
+- The transmitters remain EMP-hardened and SMR-backed; the commercial licensee maintains the equipment (paid through their lease), keeping it in working order at no cost to the state.
+- **Net effect:** the emergency broadcast network is live, maintained, and ready — and in normal times, it is a lively, diverse, and opinionated public forum.
+
+### 3.4 CME Emergency Protocol
 
 | Event | Action | Timeline |
 | :--- | :--- | :--- |
-| CME detected | AM transmitters switch to SMR backup | 1 minute |
+| CME detected | AM transmitters switch to SMR backup, override commercial content | 1 minute |
 | Grid disruption | AM radio becomes primary emergency broadcast | 5 minutes |
 | Rural signal loss | Deploy mobile AM transmitters (50/region) | 4 hours |
-| Full recovery | Restore normal operations | 72 hours (Energy Act CME protocol) |
+| Full recovery | Restore normal operations, resume commercial leases | 72 hours (Energy Act CME protocol) |
 
-### 3.4 Funding
-- ~$10B SWF allocation ($500M/region) for hardening + vehicle integration; ~$5B from manufacturers (phased 2025–2035); operations ~$500M/year (SWF).
+### 3.5 Funding
+- ~$10B SWF allocation ($500M/region) for hardening + vehicle integration; ~$5B from manufacturers (phased 2025–2035); operations funded by transmitter leases in normal times, ~$500M/year from SWF for the backbone/hardening.
 
 ---
 
@@ -151,7 +165,8 @@ The rural fund ensures 95% rural reach (26.6M of 28M rural citizens) by 2075, fu
 - TV: ~$10M/station (studio, transmitter, satellite uplink).
 
 ### 4.3 Local Content Mandate
-- 55% local content by airtime (excluding syndicated). Local = produced in-region, featuring regional artists, news, or topics. Annual Regional Board audit (10% of stations/year). Value ~$19.25B (2025) → ~$50B (2075).
+- **33% local content** by airtime (excluding syndicated). Local = produced in-region, featuring regional artists, news, or topics. Annual Regional Board audit (10% of stations/year). Value ~$19.25B (2025) → ~$50B (2075).
+- *Reduced from 55% to 33% to reflect a lighter touch while still ensuring regional voices are heard.*
 
 ### 4.4 Co-op Club Integration
 - 27,600 clubs (2025) → 30,000 (2075) produce local content; priority access to state broadcast facilities (50% discount on tower lease); club members (40M by 2075) vote in co-op media governance.
@@ -160,11 +175,11 @@ The rural fund ensures 95% rural reach (26.6M of 28M rural citizens) by 2075, fu
 
 | Source | Amount | Notes |
 | :--- | :--- | :--- |
-| SWF loans | $5B ($250M/region) | 20-year terms, 5% nominal (DLB-indexed) |
+| SWF loans | $5B ($250M/region) | 20-year terms, reference-rate-anchored |
 | Rural credits | $10B ($5B radio, $5B TV) | 0% interest for co-ops in remote regions |
-| Credit union loans | Standard | 5–6% nominal (DLB-indexed) |
+| Credit union loans | Standard | Reference-rate-anchored |
 
-All loans are DLB-indexed nominal rates per the Monetary Act and Credit Union Act (no DAI). Media is not classed as healthcare/education/infrastructure, so co-op media loans use the standard nominal rate rather than the lower service-sector rate.
+All loans are reference-rate-anchored nominal rates per the Monetary Act (Monetary §1.5A). Media is not classed as healthcare/education/infrastructure, so co-op media loans use the standard nominal rate rather than the lower service-sector rate.
 
 ---
 
@@ -213,23 +228,23 @@ All loans are DLB-indexed nominal rates per the Monetary Act and Credit Union Ac
 | Mesh node access fee | 80% of rate | 100% |
 | Broadcast license priority | First right of refusal | Apply only if no co-op qualified |
 | Rural credit access | 0% interest | 5–6% interest |
-| CCIF access | Full (voluntary) | Limited (Co-op Dept approval) |
+| CCIF access | Full (voluntary) | Limited (Co-op Chamber approval) |
 | CME emergency broadcast priority | Tier 1 (after state alerts) | Tier 2 |
 
 ### 6.2 Financing for Co-op Media
 
-| Loan type | Amount | Term | Interest (nominal, DLB-indexed) | Source |
+| Loan type | Amount | Term | Interest (reference-rate-anchored) | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| Radio station startup | $500k | 10 years | 5% | Credit Union |
-| TV station startup | $5M | 15 years | 5% | Credit Union + CCIF |
-| Mesh node deployment | $100k | 5 years | 4% | Micro-loan (CLS) |
+| Radio station startup | $500k | 10 years | Standard rate | Credit Union |
+| TV station startup | $5M | 15 years | Standard rate | Credit Union + CCIF |
+| Mesh node deployment | $100k | 5 years | Standard rate | Micro-loan (CLS) |
 | Rural media co-op | $1M | 20 years | 0% (rural credit) | SWF |
 
-All loans are DLB-indexed nominal rates (no DAI). Community-radio micro-loans serving healthcare, education, or emergency-communications functions qualify for the lower service-sector rate.
+All loans are reference-rate-anchored nominal rates (Monetary §1.5A). Community-radio micro-loans serving healthcare, education, or emergency-communications functions qualify for the lower service-sector rate.
 
 ### 6.3 Example: Rural Radio Co-op Startup
 
-A Tier 2 FCL in Region 3 (Frostpeak Mountains) starts a community radio station serving 50,000 rural citizens: forms a media co-op (member base shares); obtains a license with co-op priority (~$5,000/year); leases a state tower (~$10,000, at the 80% co-op rate); builds studio/transmitter (~$500,000 via 0% rural credit, 20 years); produces 55% local content (~$200,000/year via advertising + patronage); connects to the mesh backbone for simulcast. The co-op pays 20% less for tower and mesh access, qualifies for 0% rural credit, has license and emergency-broadcast priority.
+A Tier 2 FCL in Region 3 (Frostpeak Mountains) starts a community radio station serving 50,000 rural citizens: forms a media co-op (member base shares); obtains a license with co-op priority (~$5,000/year); leases a state tower (~$10,000, at the 80% co-op rate); builds studio/transmitter (~$500,000 via 0% rural credit, 20 years); produces 33% local content (~$200,000/year via advertising + patronage); connects to the mesh backbone for simulcast. The co-op pays 20% less for tower and mesh access, qualifies for 0% rural credit, has license and emergency-broadcast priority.
 
 ---
 
@@ -251,7 +266,7 @@ A Tier 2 FCL in Region 3 (Frostpeak Mountains) starts a community radio station 
 
 | Priority | Broadcaster | Role |
 | :--- | :--- | :--- |
-| 1 | State AM emergency transmitters | Official alerts, CME status |
+| 1 | State AM emergency transmitters | Official alerts, CME status (overrides commercial content) |
 | 2 | Co-op radio (rural) | Local instructions, shelter locations |
 | 3 | Co-op TV | Visual information, maps |
 | 4 | Corporate broadcasters | General info (after state all-clear) |
@@ -264,7 +279,7 @@ A Tier 2 FCL in Region 3 (Frostpeak Mountains) starts a community radio station 
 Per the Energy Act, the NEB (11 members) also sets access-fee rates (6/11), oversees the buried fiber backbone and AM emergency transmitters, manages CME emergency broadcast response, and publishes an annual communications infrastructure report.
 
 ### 8.2 Regional Boards — Media and ISP Oversight
-20 Regional Boards (11 members each) issue broadcast/ISP licenses (co-op preference), enforce the 55% local-content mandate, manage the rural communications fund, and investigate complaints (including anonymous informal-sector complaints). **Regional Media Assemblies (RMAs):** 100–200 members/region (50% media professionals with 5+ years, 30% journeymen, 20% citizens) nominate candidates for Regional Board media seats.
+20 Regional Boards (11 members each) issue broadcast/ISP licenses (co-op preference), enforce the 33% local-content mandate, manage the rural communications fund, and investigate complaints (including anonymous informal-sector complaints). **Regional Media Assemblies (RMAs):** 100–200 members/region (50% media professionals with 5+ years, 30% journeymen, 20% citizens) nominate candidates for Regional Board media seats.
 
 ### 8.3 CLS Functions for Communications
 
@@ -287,13 +302,13 @@ CLS agents receive specialized training at the CLS Academy (Regions 1, 6) in med
 | Elite | Media corporate transactions above $100k | Full pseudonymized detail | Quarterly audits |
 | Institutional | NEB communications infrastructure operations | Full transparency | Public annual reports |
 
-Cash payments for media services (newspapers, radio subscriptions, mesh internet) are accepted at credit-union kiosks with no fee and no surveillance (Monetary §1A). No media-consumption record is ever linked to identity except via the warranted Judicial Link Box.
+Cash payments for media services (newspapers, radio subscriptions, mesh internet) are accepted at credit-union kiosks with no fee and no surveillance (Monetary §1A). No media-consumption record is ever linked to identity except via the warranted Judicial Link Box (Sovereign Functions Act §4.2).
 
 ---
 
 ## Section 9: Implementation Timeline (2025–2075)
 
-**Phase 1: Foundation (2025–2035)** — declare fiber backbone state-owned; harden 50,000 km buried fiber (~$5B shared); mandate AM radio in vehicles (~$5B); deploy 50,000 mesh nodes (~$1B); issue first broadcast licenses (co-op preference); achieve 90% rural reach. Revenue by 2035: ~$150M/year.
+**Phase 1: Foundation (2025–2035)** — declare fiber backbone state-owned; harden 50,000 km buried fiber (~$5B shared); mandate AM radio in vehicles (~$5B); deploy 50,000 mesh nodes (~$1B); issue first broadcast licenses (co-op preference); license AM transmitters to talk-radio operators; achieve 90% rural reach. Revenue by 2035: ~$150M/year.
 
 **Phase 2: Expansion (2035–2050)** — scale mesh to 75,000 nodes; 95% rural reach; AM radio in all vehicles.
 
@@ -308,14 +323,15 @@ Cash payments for media services (newspapers, radio subscriptions, mesh internet
 | Metric | 2025 | 2075 |
 | :--- | :--- | :--- |
 | Local content value | ~$19.25B | ~$50B |
+| Local content mandate | 33% | 33% |
 | SWF allocation (maintenance) | ~$15B | scaled |
 | Buried fiber backbone | 50,000 km | 150,000 km |
 | Mesh network nodes | 50,000 | 100,000 |
 | AM emergency transmitters | 2,000 | 2,000 |
+| AM transmitter commercial leases | Licensed out (talk radio encouraged) | same |
 | Access fee revenue | ~$110M/year | ~$220M/year |
 | Co-op broadcast preference | First right of refusal | First right of refusal |
-| Local content mandate | 55% | 55% |
-| Loan rates | DLB-indexed nominal (no DAI) | same |
+| Loan rates | Reference-rate-anchored (Monetary §1.5A) | same |
 | Data architecture | PPK + CED (no CWD) | PPK + CED |
 
 ---
@@ -355,7 +371,7 @@ Cash payments for media services (newspapers, radio subscriptions, mesh internet
 | Listener donations (BWC) | ~$100,000 | | Studio/transmitter maintenance | ~$100,000 |
 | Patronage returns (FCL members) | ~$50,000 | | Staff (5 @ $40,000) | ~$200,000 |
 | Rural communications fund subsidy | ~$50,000 | | Content production | ~$50,000 |
-| | | | CLS loan repayment (5% nominal, DLB-indexed) | ~$20,000 |
+| | | | CLS loan repayment (reference-rate-anchored) | ~$20,000 |
 | **Total revenue** | **~$400,000** | | **Total expenses** | **~$378,000** |
 
 ---
@@ -366,14 +382,18 @@ The Communications Act applies the nation's signature pattern — the state owns
 
 - **The state builds what must endure; co-ops run what must compete.** Buried CME-hardened fiber, EMP-shielded towers, and emergency AM transmitters are state-owned and built to survive a solar storm. The ISPs and broadcasters that ride on them compete for customers, and co-ops get the first call and the cheaper rate.
 
+- **The AM network is alive, not waiting.** Rather than sit idle until the next CME, the AM transmitter network is licensed out to talk-radio operators, community stations, and broadcasters of all stripes. The state keeps emergency override; the public gets a lively, opinionated, and resilient public forum in normal times—and a hardened emergency network when it's needed.
+
+- **"Shit talk" is a feature, not a bug.** A free press requires room for robust, even rude, political and social commentary. The AM licensing regime explicitly encourages talk radio of all political stripes, with no content-based licensing restrictions and no prior restraint. This is protected speech under the Free Expression and Free Press floor (Chamber Act §11, Floor 6).
+
 - **Resilience is a public good.** When the grid goes down, AM radio on SMR backup becomes the nation's voice, and a clear hierarchy — state alerts first, local co-ops next — keeps people informed when everything else is dark.
 
 - **The network is neutral and open.** No throttling, no paid fast lanes, open access for any licensed provider, enforced on pseudonymized operational data — never by watching what citizens read or watch.
 
 - **Privacy at the kiosk.** A citizen pays cash for a newspaper or mesh subscription and is never recorded. What a person reads, watches, or listens to is never linked to who they are except by a judge under warrant.
 
-The state owns the fiber and towers. Co-ops and corporations compete to inform and connect citizens. Co-ops get first right of refusal and fee discounts. And everyone, everywhere, has access — in cash, in BWC, in CMEs, and in daily life.
+The state owns the fiber and towers. Co-ops and corporations compete to inform and connect citizens. Co-ops get first right of refusal and fee discounts. The AM band is alive with talk, music, and debate in peacetime — and the nation's voice in a crisis. And everyone, everywhere, has access — in cash, in BWC, in CMEs, and in daily life.
 
 ---
 
-**End of Draft 4.2**
+**End of Draft 4.3**
