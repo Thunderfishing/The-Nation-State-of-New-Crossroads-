@@ -1,11 +1,24 @@
-# Crossroads Co-operative Healthcare & Mental Wellness Act of 2025: Draft 6.5
+---
+title: "Crossroads Co-operative Healthcare & Mental Wellness Act of 2025"
+draft: "6.6"
+date: "2026-07-12"
+author: "Thunderfish2"
+repository: "crossroads-monetary-act"
+description: "Companion legislation to the Monetary Act 9.7, Credit Union Act 5.7, the FCL Act 3.3, the Sovereign Functions Act, the Chamber Act, and the Education Act 2.3. A premium-funded, co-op-led universal health and mental-wellness system delivered through a three-tier facility structure (clinics → super hospitals → mega hospitals at SMR nuclear hubs), with a permitted private corporate tier, hybrid CCJV facilities, and integrated mental health."
+---
 
-**Draft:** 6.5 | **Date:** June 27, 2026
+# Crossroads Co-operative Healthcare & Mental Wellness Act of 2025: Draft 6.6
+
+**Posted to r/Bulwarkomics**
+**Draft:** 6.6 | **Date:** July 12, 2026
 **Author:** Thunderfish2
 
-> **Cross-reference.** Companion to the **FCL Structure Act**, **Monetary Act 9.5**, **Credit Union Act 5.4**, **Government Act**, and **Education Act 2.2**. Loans are DLB-indexed (no DAI/BAR). Data uses the **PPK/CED** architecture (Monetary §5), operational from inception — there is no CWD. The currency is fiat.
+> **Cross-reference.** Companion to the **Monetary Act 9.7**, the **Credit Union Act 5.7**, the **FCL Act 3.3**, the **Sovereign Functions Act**, the **Chamber Act**, and the **Education Act 2.3**. Loans are reference-rate-anchored (Monetary Act §1.5A). Data uses the **PPK/CED** architecture (Monetary §5), operational from inception — there is no CWD. The currency is fiat.
 
 > **Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values. Facility counts and corporate-sector share are descriptive projections, not quotas.
+
+> **Amendment Note — Draft 6.6.** Updates cross-references to align with final acts: Government Act replaced by Sovereign Functions Act and Chamber Act; Central Council → Sovereign Council; Monetary Act 9.5 → 9.7; Credit Union Act 5.4 → 5.7; Education Act 2.2 → 2.3; DAI/BAR removed (loans reference-rate-anchored, Monetary §1.5A). All substantive provisions (premium funding, three-tier facility structure, corporate tier, CCJV model, mental health integration) preserved unchanged.
+
 ---
 
 ## Overview
@@ -14,7 +27,7 @@ This act establishes **co-op-led, premium-funded universal healthcare and mental
 
 Services are delivered through a **three-tier co-op facility structure** — **10,000 clinics** (primary care + minor surgery), **super hospitals** (200 at start, scaling to ~2,000), and **20 mega hospitals** co-located at the SMR nuclear hubs (Energy Act) — plus an integrated mental-health network (CMHIN) and a permitted **private corporate tier**. Professional FCLs (100% worker-owned cooperatives of physicians and healthcare professionals) provide specialized services within clinics under CCJV agreements, with cost-share or profit-share models and retainer client shares for patients.
 
-The **National Healthcare Board (NHB)** manages operations, supported by the 5,000 credit unions, the core FCLs, and DLB-indexed service-sector loans. No binding sector quotas apply; 2025 figures are descriptive baselines.
+The **National Healthcare Board (NHB)** manages operations, supported by the 5,000 credit unions, the core FCLs, and reference-rate-anchored service-sector loans. No binding sector quotas apply; 2025 figures are descriptive baselines.
 
 ---
 
@@ -22,12 +35,13 @@ The **National Healthcare Board (NHB)** manages operations, supported by the 5,0
 
 | Act | Integration Point |
 | :--- | :--- |
-| **FCL Structure Act** | Professional FCLs (worker-owned); clinic ownership as Co-op-Led CCJV (hybrid co-op/corporate); cost-share model; retainer client shares; healthcare contribution via the progressive profit-sharing waterfall |
-| **Monetary Act 9.5** | DLB-indexed service-sector loans; Informal Economy Guarantee; asymmetric scrutiny; SWF capped at 12% GDP; co-op profit tax 5% (no SWF recharge); PPK/CED; no binding sector quotas |
-| **Credit Union Act 5.4** | Micro-loans for informal healthcare access ($500, 4% nominal, self-attested, 24-hour); low-interest service-sector health loans (co-op and corporate eligible); CLS |
+| **FCL Act 3.3** | Professional FCLs (worker-owned); clinic ownership as Co-op-Led CCJV (hybrid co-op/corporate); cost-share model; retainer client shares; healthcare contribution via the progressive profit-sharing waterfall |
+| **Monetary Act 9.7** | Reference-rate-anchored service-sector loans (Monetary §1.5A); Informal Economy Guarantee; asymmetric scrutiny; SWF capped at 12% GDP; co-op profit tax 5% (no SWF recharge); PPK/CED; no binding sector quotas |
+| **Credit Union Act 5.7** | Micro-loans for informal healthcare access ($500, 4% nominal, self-attested, 24-hour); low-interest service-sector health loans (co-op and corporate eligible); CLS |
 | **Energy Act** | 20 SMR nuclear hubs host the mega hospitals, co-located with water/sewer treatment and passenger/cargo airports |
-| **Government Act** | Regional Boards (20 regions, 11 members each); Central Council oversight; master/grandmaster mentorship |
-| **Education Act 2.2** | Supplies ~90,000 healthcare-proper + ~45,000 mental-health graduates/year; ~100,000/year via mandatory service (50k clinics, 50k CMHIN) |
+| **Chamber Act** | Regional Boards (§3) oversee healthcare facilities and service-sector loans; independent board registry (§7) |
+| **Sovereign Functions Act** | Special Auditors (§3) enforce compliance; judiciary (§4) hears disputes |
+| **Education Act 2.3** | Supplies ~90,000 healthcare-proper + ~45,000 mental-health graduates/year; ~100,000/year via mandatory service (50k clinics, 50k CMHIN) |
 
 ---
 
@@ -40,17 +54,17 @@ The **National Healthcare Board (NHB)** manages operations, supported by the 5,0
 - Institutional data (clinics, hospitals, FCLs >$10M revenue): fully transparent.
 - Medical records (diagnoses, prescriptions) live in the **PPK** as identity-layer data — never in the CED. The CED sees only pseudonymized value flows (e.g., "premium paid," "procedure value," no patient identity).
 
-### 1.2 DLB-Indexed Loans for Healthcare (per Monetary Act §1, Credit Union Act §4.2)
+### 1.2 Reference-Rate-Anchored Loans for Healthcare (per Monetary Act §1.5A, Credit Union Act §4.2)
 
-All loans for healthcare facilities (clinics, super hospitals, mega hospitals, CMHIN) receive the **low service-sector rate (4–5% nominal, DLB-indexed)**, recognizing healthcare's labor and social value. **There is no DAI adjustment or BAR** — those mechanisms were removed in the fiat conversion.
+All loans for healthcare facilities (clinics, super hospitals, mega hospitals, CMHIN) receive the **low service-sector rate**, recognizing healthcare's labor and social value. There is no DAI or BAR mechanism — those were removed in the fiat conversion.
 
 | Facility loan | Service-sector rate |
 | :--- | :--- |
-| Clinic construction (CCJV) | 4–5% |
-| Super-hospital equipment & build | 4–5% |
-| Mega-hospital build (at SMR hub) | 4–5% |
-| CMHIN facility | 4–5% |
-| Telehealth infrastructure | 4–5% |
+| Clinic construction (CCJV) | Set below the reference rate (Monetary §1.5A) |
+| Super-hospital equipment & build | Set below the reference rate |
+| Mega-hospital build (at SMR hub) | Set below the reference rate |
+| CMHIN facility | Set below the reference rate |
+| Telehealth infrastructure | Set below the reference rate |
 
 **Corporate facilities are eligible for the same low service-sector rate** (Section 4). *Rationale: the state subsidizes health **capacity** regardless of who builds it — every facility adds beds and treats citizens. Corporate facilities repay the subsidy through full corporate taxation (heavier than co-ops), and refusing them cheap capital would only raise their prices and make them more exclusive, not less.*
 
@@ -114,10 +128,10 @@ The co-op clinic backbone is structured as **Co-op-Led CCJVs** — hybrid co-op/
 | Patient Co-op ownership | 51–99% |
 | Professional FCL / corporate partner | 1–49% |
 | Max term | 20 years (renewable) |
-| Approval body | Regional Board |
+| Approval body | Regional Board (6/11) |
 | Corporate partner voting in co-op internal affairs | None |
 | JV board seats | Proportional to ownership; co-op holds ≥1 seat |
-| Deadlock resolution | Co-op Department arbitration |
+| Deadlock resolution | Ad-hoc arbitration (Chamber Act §6.6) |
 
 ---
 
@@ -131,7 +145,7 @@ The co-op system is a **hub-and-spoke hierarchy**: everything radiates outward f
 - **Role:** primary care, pediatrics, geriatrics, **and minor surgery** — larger clinics perform a wider range of minor surgical procedures, taking pressure off the hospital tiers.
 - **Access ratio:** ~1 clinic per ~13,000 people — excellent local coverage.
 - **Workforce:** ~50,000 workers (~2,500/region), including physicians from Professional FCLs.
-- **Funding:** premium revenue (operations) + DLB-indexed service-sector loans (build); FCL healthcare contribution.
+- **Funding:** premium revenue (operations) + reference-rate-anchored service-sector loans (build); FCL healthcare contribution.
 
 ### 3.2 Tier 2 — Super Hospitals (200 → ~2,000)
 
@@ -140,7 +154,7 @@ The co-op system is a **hub-and-spoke hierarchy**: everything radiates outward f
 - **Role:** complex procedures, inpatient care, specialized departments, emergency departments.
 - **Adequacy:** at ~65,000 people per super hospital (full scale), the ratio is comparable to peer nations — and adequate *because* the dense minor-surgery-capable clinic layer offloads routine load.
 - **Workforce:** scales from ~50,000 toward ~250,000+ as the network grows.
-- **Funding:** premium revenue + DLB-indexed loans; FCL contribution.
+- **Funding:** premium revenue + reference-rate-anchored loans; FCL contribution.
 
 ### 3.3 Tier 3 — Mega Hospitals (20, at SMR Nuclear Hubs)
 
@@ -148,7 +162,7 @@ The co-op system is a **hub-and-spoke hierarchy**: everything radiates outward f
 - **Role:** apex/quaternary care — the most advanced surgery, major trauma, transplants, specialized treatment, and the most acute psychiatric care. The regional referral center from which the rest of the system radiates.
 - **Why the SMR hubs:** the hubs already concentrate the nation's most reliable power, water, and fastest transport (air ambulance, cargo for supplies/organs), so the most advanced and power-intensive care belongs there.
 - **Phase-in:** mega hospitals come online **as the SMR hubs are built** (per the Energy Act timeline) — not all day-one; they phase in with the nuclear hubs.
-- **Funding:** premium revenue + DLB-indexed loans; FCL contribution.
+- **Funding:** premium revenue + reference-rate-anchored loans; FCL contribution.
 
 ### 3.4 Mental Health — CMHIN, Integrated onto the Tier Logic
 
@@ -168,7 +182,7 @@ Corporate hospitals and clinics are **permitted** and emerge organically — the
 - **Funding model — pay-to-play:** the mandatory premium funds the **co-op backbone only.** Corporate facilities are **fully self-funded** — patients pay the full cost (out of pocket or via private insurance). The premium a citizen pays still funds their co-op coverage; corporate care is a pure add-on. Corporate use therefore does not drain the universal premium pool.
 - **Loan eligibility:** corporate facilities are **eligible for the same low-interest service-sector health loans as co-ops** (Section 1.2). The state subsidizes health *capacity* regardless of builder; corporates repay it through full corporate taxation.
 - **Taxation:** taxed as corporations (tiered up to 25% + SWF contribution) — heavier per dollar than co-ops.
-- **Governance:** bound by the corporate-governance rules (worker board seats, transparency, buyback limits — Monetary §4.1).
+- **Governance:** bound by the corporate-governance rules (worker board seats, transparency, buyback limits — Monetary §4.1, entrenched as Chamber Act §12.3).
 - **Hybrid facilities:** because the CCJV form exists (Section 2.4), hybrid co-op/corporate clinics and hospitals also occur — a middle path between pure co-op and pure corporate.
 
 ### 3.6 Emergency Proximity Override
@@ -193,7 +207,7 @@ Healthcare is funded by **mandatory universal premiums**, not state SWF operatin
   - **Children:** ~$50/child/month.
   - **Mental health is included** in the premium — no separate charge.
 - **Deductibles:** income-tiered (up to ~$2,000), DLB-indexed.
-- **Premiums and deductibles are denominated in BWC and indexed to the DLB** (no BAR recalculation — that mechanism is removed).
+- **Premiums and deductibles are denominated in BWC and indexed to the DLB.**
 
 **Net premium revenue:** ~$372B/year (adult premiums net of the bottom-tier subsidy) + ~$11B (children) ≈ **~$383B/year**, the primary funding source.
 
@@ -206,7 +220,7 @@ Healthcare is funded by **mandatory universal premiums**, not state SWF operatin
 | **Mandatory premiums (net of subsidy)** | **~$383B/year** | Primary funding; whole adult population + children; mental health included |
 | **FCL healthcare contribution** | **~$50B/year** | Progressive profit-sharing waterfall (FCL Act); ~10% of the remaining co-op profit pool |
 | State bottom-tier subsidy | ~$45B/year | The state's main healthcare cost; subsidizes the bottom-20% premiums |
-| DLB-indexed service-sector loans | as needed | Facility build/equipment (co-op and corporate eligible); 4–5% |
+| Reference-rate-anchored service-sector loans | as needed | Facility build/equipment (co-op and corporate eligible) |
 | Partner contributions | ~$1.21B/year | Donations, charitable grants (CMHIN) |
 | Facility profits | reinvested | Co-op clinic/hospital/CMHIN surpluses reinvested |
 
@@ -216,33 +230,34 @@ Healthcare is funded by **mandatory universal premiums**, not state SWF operatin
 
 ---
 
-## Section 6: Governance (Harmonized with FCL Act & Government Act)
+## Section 6: Governance (Harmonized with FCL Act, Chamber Act & Sovereign Functions Act)
 
 ### 6.1 National Healthcare Board (NHB)
-- 11 members (6 regional representatives, 4 experts, 1 chairman); appointed by Central Council (6/11), confirmed by Regional Boards (11/20).
+- 11 members (6 regional representatives, 4 experts, 1 chairman); appointed by the Sovereign Council (5/7), confirmed by the Territorial Chamber (11/20 Regional Boards).
 - Voting: 6/11 routine, 8/11 strategic, 5/11 emergency.
 - Operations: ~$100M/year (funded from premium administration, not SWF).
+- Independence: paired with but subordinate to none; disputes resolved through ad-hoc arbitration (Chamber Act §6.6).
 
 ### 6.2 Regional Health Assemblies (RHAs)
 - 20 RHAs (~150 members/region); 50% healthcare professionals (masters), 30% workers, 20% citizens; biennial election, 4-year terms (2-term limit).
 
 ### 6.3 Clinic CCJV Governance (per FCL Act 3.7.3)
-- JV board seats proportional to ownership (patient co-op holds ≥1 seat); Professional FCL/corporate partner has no voting rights in patient co-op internal affairs; Co-op Department arbitration; Regional Board approval for formation/renewal.
+- JV board seats proportional to ownership (patient co-op holds ≥1 seat); Professional FCL/corporate partner has no voting rights in patient co-op internal affairs; disputes resolved through ad-hoc arbitration (Chamber Act §6.6); Regional Board approval for formation/renewal.
 
 ### 6.4 Professional FCL Governance (per FCL Act 2.3)
 - Board of 5–7 worker-owners (one member, one vote); no investor voting; retainer client shares non-voting (2–8% patronage).
 
 ### 6.5 Corporate Facility Governance
-- Corporate hospitals/clinics follow corporate-governance rules (Monetary §4.1): worker board seats by headcount, transparency above $10M revenue, buyback limits. Licensed (not chartered) by the Regional Board; subject to medical-standards and (near dark corridors) DCALS compliance.
+- Corporate hospitals/clinics follow corporate-governance rules (Monetary §4.1, entrenched as Chamber Act §12.3): worker board seats by headcount, transparency above $10M revenue, buyback limits. Licensed (not chartered) by the Regional Board; subject to medical-standards and (near dark corridors) DCALS compliance.
 
 ---
 
 ## Section 7: Oversight
 
-- **20 Regional Boards** (220 delegates) oversee clinics, hospitals, mega hospitals, CMHIN, and service-sector loans.
-- **Central Council** tracks healthcare metrics (aggregate).
+- **20 Regional Boards** (Chamber Act §3 — 220 delegates) oversee clinics, hospitals, mega hospitals, CMHIN, and service-sector loans.
+- **Sovereign Council** (Sovereign Functions Act §6) tracks healthcare metrics (aggregate).
 - **PPK/CED:** performance, fraud, and compliance tracked via the **CED** (pseudonymized; ~$ low hundreds of millions/year as part of the system-wide CED/PPK cost, not a separate CWD). Medical records live in the **PPK**. **There is no CWD.**
-- **Auditors:** 50–75 auditors + AI; fraud cap ~$2.5B.
+- **Special Auditors:** 50–75 independent prosecutors (Sovereign Functions Act §3) + AI; fraud cap ~$2.5B. May not access individual medical records.
 - **Asymmetric scrutiny:** patient financial data under $10k private; institutional data fully transparent.
 
 ---
@@ -262,7 +277,7 @@ Healthcare is funded by **mandatory universal premiums**, not state SWF operatin
 | FCL healthcare contribution | ~$50B/year | scaled |
 | State bottom-tier subsidy | ~$45B/year | scaled |
 | Healthcare SWF / Mental Health SWF | **Removed** | — |
-| Healthcare loans | DLB-indexed 4–5% (co-op + corporate) | same |
+| Healthcare loans | Reference-rate-anchored (co-op + corporate) | same |
 | Data architecture | PPK + CED (no CWD) | PPK + CED |
 | DAI / BAR | **Removed (fiat)** | — |
 
@@ -286,4 +301,4 @@ Universal coverage, a lean state, capacity radiating from the hubs, a private ti
 
 ---
 
-**End of Draft 6.5**
+**End of Draft 6.6**
