@@ -1,4 +1,3 @@
----
 # Crossroads Federated Cooperatives Limited (FCL) Structure Act of 2025: Draft 3.3
 
 Draft: 3.3 | Date: July 11, 2026
