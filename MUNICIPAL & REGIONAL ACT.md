@@ -1,11 +1,3 @@
----
-title: "Crossroads Municipal and Regional Funding Act"
-date: "2026-07-07"
-author: "Thunderfish2"
-repository: "crossroads-monetary-act"
-description: "Establishes how municipalities and regions fund themselves: a bounded self-funding revenue base (no residential land tax, no subnational debt), cost-of-service taxation that ends sprawl subsidies, capped development fees, per-household residential service fees billed on use (never on ownership), and two mutual equalization funds (Municipal and Regional) with formula-driven, non-predatory conditionality. Disputes resolved through ad-hoc arbitration (Chamber Act §6.6) with decisions logged for legislative review. Governance wired to the Territorial Chamber (Regional Boards) and the Special Auditors (Sovereign Functions Act §3)."
----
-
 # Crossroads Municipal and Regional Funding Act
 
 **Cross-reference.** Companion to the **Sovereign Functions Act** (Special Auditors §3 enforce independently; the judiciary §4 hears appeals and constitutional questions; the SWF §5 is lender of last resort on cross-regional emergency certification), the **Chamber Act** (Regional Boards §3 administer regional funding and oversee municipalities; the Territorial Chamber holds the regional governance function; the ad-hoc arbitration process §6.6 resolves deadlocks; the entrenched floors §11 include the home doctrine as Floor 2; the protected guarantees §12 include the healthcare guarantee §12.1 and the education guarantee §12.2), the **Monetary Act 9.7** (fund mechanics mirror the credit-union RLP/DIP model; fiat BWC; SWF interaction §2), the **Credit Union Act 5.7** (mutual-fund design), the **Housing Act** (the residential-land-tax prohibition protects the homeownership keystone), and the **Infrastructure Act** (cost-of-service and 155% cost-recovery principles).
