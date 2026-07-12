@@ -1,14 +1,15 @@
 ---
 title: "Crossroads Sovereign Functions Act"
-date: "2026-07-07"
+date: "2026-07-11"
+version: "2.0"
 author: "Thunderfish2"
 repository: "crossroads-monetary-act"
-description: "Establishes the sovereign state of New Crossroads — the thin, enumerated executive holding only the four functions no rule, mutual, chamber, council, or citizen vote can hold: defense and foreign affairs, the Special Auditors, the judiciary, and the SWF. Houses the Sovereign Council, four executive bureaus (Treasury with Capital Markets Bureau, Foreign Affairs, National Lands and Commons, Transport), and the ten prohibitions. Deadlocks are resolved through ad-hoc arbitration (Chamber Act §6.6), not a standing body. Companion to the Chamber Act."
+description: "Establishes the sovereign state of New Crossroads — the thin, enumerated executive holding only the four functions no rule, mutual, chamber, council, or citizen vote can hold: defense and foreign affairs, the Special Auditors, the judiciary, and the SWF. Houses the Sovereign Council (staggered 5-year terms), four executive bureaus (Treasury with Capital Markets Bureau, Foreign Affairs, National Lands and Commons, Transport), and the ten prohibitions. Deadlocks are resolved through ad-hoc arbitration (Chamber Act §6.6), not a standing body. Companion to the Chamber Act."
 ---
 
 # Crossroads Sovereign Functions Act
 
-**Cross-reference.** Companion to the Chamber Act (Territorial Chamber §3, Co-op Chamber §4.1, Corporate Chamber §4.2, universal citizen vote §2, oversight committees §6.7, the ad-hoc arbitration process §6.6, entrenched floors §11, protected guarantees §12), the Monetary Act 9.7, Credit Union Act 5.7, Exchange Act 1.2, Municipal and Regional Funding Act 1.2, FCL Act 3.3, Military and Intelligence Act 1.7, and the Infrastructure and Industry Acts.
+**Cross-reference.** Companion to the Chamber Act (Territorial Chamber §3, Co-op Chamber §4.1, Corporate Chamber §4.2, universal citizen vote §2, oversight committees §6.7, the committee-referral mechanism §6.7, the ad-hoc arbitration process §6.6, entrenched floors §11, protected guarantees §12, the Election Integrity Commission §9.5), the Monetary Act 9.7, Credit Union Act 5.7, Exchange Act 1.2, Municipal and Regional Funding Act 1.2, FCL Act 3.3, Military and Intelligence Act 1.7, and the Infrastructure and Industry Acts.
 
 **This act is deliberately separate from the Chamber Act.** The sovereign functions are the residue left after everything automatable was automated and everything mutualizable was mutualized; the chambers and citizens are the source of authority the sovereign answers to. They travel together and are ratified together; they are not one document.
 
@@ -32,12 +33,12 @@ Every state grows by discovering new problems only it can solve. The sovereign i
 
 1. **Defense and Foreign Affairs** (Section 2) — the military, treaties, customs and the border, and the statecraft powers of the Exchange's global segment.
 2. **The Special Auditors** (Section 3) — independent, self-initiating prosecution of any entity's books, including the sovereign's own.
-3. **The Judiciary** (Section 4) — the courts, the Supreme Court, the warranted Judicial Link Box, and the judicial ratification of the takings power (§4.3).
+3. **The Judiciary** (Section 4) — the courts (regional, appellate, and Supreme), the warranted Judicial Link Box, and the judicial ratification of the takings power (§4.3).
 4. **The Sovereign Wealth Fund** (Section 5) — the fund of last resort, its automatic stabilizers, and the Defense Fund endowment.
 
 ### 1.2 The Downward Presumption
 
-Any function not enumerated above belongs, in order of preference, to: a published rule; a mutual pool; a self-governing chamber; a municipal council; or the universal citizen vote — never to the sovereign. Where a new function arises and its home is disputed, the **judiciary** decides — a regional court ruling on the jurisdictional question, appealable to the Supreme Court, bound by the same downward presumption: the sovereign receives a function only on a showing that every lower home is structurally impossible, not merely inconvenient.
+Any function not enumerated above belongs, in order of preference, to: a published rule; a mutual pool; a self-governing chamber; a municipal council; or the universal citizen vote — never to the sovereign. Where a new function arises and its home is disputed, the **judiciary** decides — a regional court ruling on the jurisdictional question, appealable through the appellate circuits to the Supreme Court, bound by the same downward presumption: the sovereign receives a function only on a showing that every lower home is structurally impossible, not merely inconvenient.
 
 ### 1.3 The Closed List
 
@@ -81,7 +82,7 @@ Any citizen may petition the Supreme Court to review any sovereign act for consi
 
 - The Exchange Act §7 statecraft powers are housed here: accrediting auditors, approving/suspending foreign listings on foreign-policy or national-security grounds, and the phase-two activation. Administered by the Foreign Affairs Bureau (§6A.2).
 - The domestic Exchange is entirely outside the sovereign.
-- **Citizen oversight:** A 1% petition compels public justification for any suspension beyond 90 days and triggers Territorial Chamber review (15/20). The judiciary adjudicates secrecy claims (regional court, appealable to Supreme Court).
+- **Citizen oversight:** A 1% petition compels public justification for any suspension beyond 90 days and triggers Territorial Chamber review (15/20). The judiciary adjudicates secrecy claims (regional court, appealable through the appellate circuits to the Supreme Court).
 
 ---
 
@@ -107,7 +108,8 @@ The one institution that must be able to indict all others cannot be owned by an
 - Bring charges before the regular judiciary. The auditors prosecute; they never judge.
 - Temporarily freeze assets — ratified by a regional judge within 14 days or the freeze lapses.
 - Enforcement surface: Exchange violations, Municipal Act gaming, Informal Sector Mandate violations, CED fraud (~$2.5B cap), the global segment's audit-to-standard, and all institutional/financial crime.
-- **Distinct from regional prosecutors** (Chamber §3.5): auditors handle institutional/financial crime; regional prosecutors handle ordinary criminal law. Cases crossing the line may be jointly prosecuted or assigned by the **judiciary** (a regional court ruling on the jurisdictional question, appealable to the Supreme Court).
+- **Distinct from regional prosecutors** (Chamber §3.5): auditors handle institutional/financial crime; regional prosecutors handle ordinary criminal law. Cases crossing the line may be jointly prosecuted or assigned by the **judiciary** (a regional court ruling on the jurisdictional question, appealable through the appellate circuits to the Supreme Court).
+- **Committee referrals.** When an oversight committee (Chamber Act §6.7) issues a formal referral, the auditors must respond in writing within 90 days — opening an investigation, declining with published reasons, or confirming absorption into an existing investigation. The auditors' independence to decline is preserved; the obligation is to explain, not to obey. The referral mechanism, response requirements, escalation path, and the counter-referral process are defined in Chamber Act §6.7.
 
 ### 3.4 Limits (absolute)
 
@@ -126,9 +128,17 @@ Every power in this act is checked by a judge. The judiciary is the load-bearing
 
 ### 4.1 Structure
 
-- **Regional judges:** 200 (10/region), 10-year terms. Appointed by the Territorial Chamber (6/11), confirmed by the Productive Chambers.
-- **Supreme Court:** 7 justices, 15-year terms, mandatory retirement at 75, decisions by 5/7. Nominated by the Territorial Chamber, confirmed by the Productive Chambers. Hears constitutional questions (including floor/guarantee classification, function-assignment under the downward presumption, and clarificatory-vs-substantive amendment determinations), inter-regional disputes, chamber conflicts, fraud-cap appeals, takings appeals (§4.3), and floor/guarantee review (Chamber §11, §12).
-- **Deadlock rule:** If 3 nominees are each rejected, the confirmer must confirm one of those 3 within one week.
+**Regional courts.** 200 judges (10 per region), 10-year terms. Appointed by the Territorial Chamber (6/11 Regional Board vote), confirmed by both Productive Chambers jointly. First-instance jurisdiction over all civil, criminal, and constitutional questions arising in their region, including the downward-presumption determinations (§1.2), pool-classification disputes (Chamber Act §6.4), floor/guarantee threshold classifications (Chamber Act §6.3), and the pre-enactment advisory rulings on Tier-1/informal obligation (Chamber Act §4.3).
+
+**Appellate circuits.** 5 circuits of 4 regions each, 5 judges per circuit (25 total), 10-year staggered terms. Appointed by the Territorial Chamber (11/20), confirmed by both Productive Chambers jointly. Sit in panels of 3 for routine appeals; sit en banc (all 5) when a panel would overrule circuit precedent or when the question has cross-circuit implications. A circuit split — two circuits reaching opposite conclusions on the same legal question — triggers automatic Supreme Court review.
+
+**Supreme Court.** 7 justices, 15-year staggered terms, mandatory retirement at 75, decisions by 5/7 of sitting justices (but never fewer than 4 affirmative votes regardless of vacancies). Nominated by the Territorial Chamber, confirmed by both Productive Chambers jointly. Hears constitutional questions (including floor/guarantee classification, function-assignment under the downward presumption, clarificatory-vs-substantive amendment determinations, and circuit splits), inter-regional disputes, chamber conflicts, fraud-cap appeals, takings appeals (§4.3), and floor/guarantee review (Chamber Act §11, §12).
+
+**Staggering.** Supreme Court terms are staggered so that no more than 2 vacancies arise in any 5-year period. Initial seating assigns terms of 15, 13, 11, 9, 7, 5, and 3 years; thereafter all terms are 15 years. Appellate judges are staggered within each circuit on a similar pattern.
+
+**Vacancy.** A mid-term judicial vacancy is filled through the same nomination-and-confirmation path. The replacement serves the remainder of the term. A remainder of 7 years or less (Supreme Court) or 5 years or less (appellate/regional) does not bar the replacement from nomination to a subsequent full term.
+
+**Deadlock rule.** If 3 nominees for any judicial seat are each rejected by the confirming body, the confirmer must confirm one of those 3 within one week. No seat sits vacant on repeated rejection.
 
 ### 4.2 The Judicial Link Box
 
@@ -141,7 +151,7 @@ Every power in this act is checked by a judge. The judiciary is the load-bearing
 - Permitted only for genuine public infrastructure, never for economic development, never for private-to-private transfer.
 - Compensation: market value + 10%.
 - Exercise delegated: Transport Bureau (§6A.4) for national works, municipal councils for local works. The Sovereign Council holds no general takings power.
-- **Judicial ratification mandatory:** no title transfers without a judge confirming purpose and valuation. Appeals to the Supreme Court.
+- **Judicial ratification mandatory:** no title transfers without a judge confirming purpose and valuation. Appeals through the appellate circuits to the Supreme Court.
 - The home is protected by the power's constraints, completing the three-part home doctrine (Chamber §11, Floor 2).
 
 ---
@@ -180,21 +190,30 @@ The smallest body that can command the military, conduct diplomacy, nominate aud
 
 ### 6.1 Composition
 
-- 7 members, 5-year terms, one-term limit: 6 professional/executive seats + 1 universal wildcard.
+- 7 members, 5-year terms, one-term limit: 6 professional/executive seats in two classes of 3, plus 1 universal wildcard.
 - Chairman elected annually from among members; casts no extra vote.
 
-### 6.2 Selection and Recall
+### 6.2 Staggered Terms, Selection, and Recall
 
-- The 6 professional seats: nominated by the Territorial Chamber, confirmed by the Productive Chambers jointly.
-- The 1 wildcard: elected directly by the universal citizen vote.
-- Recall: 2/3 supermajority of the electing body.
-- Impeachment: for treason, bribery, corruption, or gross neglect — chambers impeach, Supreme Court tries.
+**Two classes plus the wildcard.** The six professional seats are divided into two classes of three, offset by 30 months (half a term). The wildcard seat runs on its own 5-year cycle, offset from both classes. At no point do more than three seats turn over in the same year.
+
+**Initial seating.** At inauguration, Class A (3 seats) receives full 5-year terms. Class B (3 seats) receives 30-month initial terms, then full 5-year terms thereafter. The wildcard receives a full 5-year term beginning 15 months after Class A. After the initial cycle, all seats carry standard 5-year terms on their staggered schedule. The one-term limit applies per seat: a shortened initial term in Class B counts as the member's one term.
+
+**Selection.** The 6 professional seats: nominated by the Territorial Chamber, confirmed by both Productive Chambers jointly. The 1 wildcard: elected directly by the universal citizen vote.
+
+**Vacancy.** A mid-term vacancy is filled through the same nomination-and-confirmation path (wildcard by universal vote). The replacement serves the remainder of the term only. A remainder of 30 months or less does not count as the member's one term — they may be nominated for a subsequent full term. A remainder exceeding 30 months counts as their term.
+
+**Continuity floor.** At least four of seven seats must be occupied for the Council to exercise any power. Below four, all non-emergency powers are suspended until quorum is restored.
+
+**Recall.** The 6 professional seats: 2/3 supermajority of the Territorial Chamber. The wildcard: 2/3 supermajority of the universal vote.
+
+**Impeachment.** For treason, bribery, corruption, or gross neglect — chambers impeach, Supreme Court tries.
 
 ### 6.3 Powers (closed list)
 
 - Command the military (§2.1); negotiate treaties (§2.2); direct the four bureaus (§6A); exercise the global-segment statecraft powers (§2.4).
 - Nominate Special Auditors (§3.1) and participate in judicial appointments (§4.1).
-- Turn the Tier-2 key with chamber concurrence (§5.3).
+- Turn the Tier-2 key with chamber concurrence (§5.3). The Tier-1 retaliatory authority (Chamber Act §12.4) requires the Chairman plus a majority of sitting members, but never fewer than three total authorizers. The Chairman's own vote counts toward the majority.
 - Nothing else.
 
 ---
@@ -283,10 +302,12 @@ A sovereign act inconsistent with this section is void, reviewable by the Suprem
 
 | Function | Organ | Check |
 |---|---|---|
-| Defense and foreign affairs | Sovereign Council (7) | Territorial 15/20 war ratification; Defense and Foreign Affairs Committee |
-| Independent prosecution | Special Auditors (50-75) | 14-day judicial freeze; joint removal; citizen veto; press floor; Public Accounts Committee |
-| Judgment | Judiciary (200 regional + 7 Supreme Court) | Constitutional review; floor/guarantee classification; function-assignment (downward presumption) |
-| Deadlock resolution | Ad-hoc arbitration (Chamber §6.6) | Each side picks one; two pick chair; tribunal dissolves after; Supreme Court fallback for chair; procedural appeal only |
+| Defense and foreign affairs | Sovereign Council (7, staggered) | Territorial 15/20 war ratification; Defense and Foreign Affairs Committee; continuity floor of 4 |
+| Independent prosecution | Special Auditors (50-75) | 14-day judicial freeze; joint removal; citizen veto; press floor; Public Accounts Committee; committee-referral obligation |
+| First-instance judgment | Regional courts (200: 10/region) | Appellate review; constitutional review |
+| Appellate review | 5 circuits, 5 judges each (25 total) | Circuit splits trigger Supreme Court review; en banc for precedent-overrule |
+| Constitutional judgment | Supreme Court (7 justices, 15-year staggered terms) | 5/7 decisions (min 4 affirmative); floor/guarantee classification; function-assignment (downward presumption) |
+| Deadlock resolution | Ad-hoc arbitration (Chamber Act §6.6) | Each side picks one; two pick chair; tribunal dissolves after; Supreme Court fallback for chair; procedural appeal only |
 | Takings | Transport Bureau | Public-infra only; market+10%; judicial ratification |
 | Fund of last resort | SWF + Defense Fund | 12% cap; auto stabilizers; Tier-2 sunsets; Public Accounts Committee |
 | Market supervision | Treasury Capital Markets Bureau | Financial Services Committee; Special Auditors prosecute |
@@ -294,6 +315,7 @@ A sovereign act inconsistent with this section is void, reviewable by the Suprem
 | Diplomacy administration | Foreign Affairs Bureau | Defense and Foreign Affairs Committee |
 | National commons | National Lands and Commons Bureau | Territorial Chamber |
 | Transport operations | Transport Bureau | NInfraB standards; Energy and Infrastructure Committee |
+| Election integrity | Election Integrity Commission (11; Chamber Act §9.5) | Ethics & Standards Committee; Supreme Court nominates; referrals to Special Auditors |
 | Funding | Tariffs + resource cut | Cap 4% to 2% GDP; Public Accounts Committee |
 | Domestic force | Not the sovereign | Militia to Territorial; police to municipalities; prosecutors to Regional Boards |
 | Growth | Closed list (§1.1) | Highest bar to add; ordinary bar to shrink |
@@ -309,9 +331,11 @@ Almost nothing a government does requires a government. Money does not — a rul
 
 - **Doubt resolves downward.** Every new problem belongs to a rule, a mutual, a chamber, a council, or the citizens. The sovereign must prove structural impossibility to take it. The judiciary enforces the presumption.
 
-- **The sword points outward.** The military faces the border. The auditors face inward but carry no sword — only a subpoena, a charge, and a brief freeze, each on a judicial clock, under a free press, watched by eight oversight committees.
+- **The sword points outward.** The military faces the border. The auditors face inward but carry no sword — only a subpoena, a charge, and a brief freeze, each on a judicial clock, under a free press, watched by eight oversight committees empowered to compel written explanations for any declined referral.
 
 - **Deadlocks are resolved, not institutionalized.** When two sides are stuck, an ad-hoc tribunal assembles — each side picks one arbiter, the two pick a chair, they hear the case and go home. No standing body, no scope creep, no bottleneck. Arbitration is a process, not an institution.
+
+- **Continuity by stagger, not by permanence.** The Sovereign Council's two classes and offset wildcard ensure no more than three seats turn over in any year. The judiciary is staggered from regional courts through appellate circuits to the Supreme Court. Institutional knowledge survives every transition because transitions are never total.
 
 - **Four bureaus, not ministries.** Treasury, Foreign Affairs, National Lands, and Transport administer what the Council directs and the chambers oversee. They hold no policy authority and may not grow beyond their mandates.
 
