@@ -1,6 +1,6 @@
 # Crossroads Chamber and Citizen Representation Act
 
-**Cross-reference.** Companion to the Sovereign Functions Act (defense, the Special Auditors, the judiciary, the SWF, the four executive bureaus — Treasury, Foreign Affairs Bureau, National Lands & Commons Bureau, Transport Bureau), the Credit Union Act 5.7, the FCL Act 3.3, the Monetary Act 9.7 (the age-20 endowment, the two-taps rule, the PPK/CED), the Municipal & Regional Funding Act 1.2, the Exchange Act 1.2 (the Crossroads Exchange; Treasury's Capital Markets Bureau provides continuous market supervision), the Healthcare Act and Education Act (whose boards set the essential schedules the §12 guarantees bind), and the Military & Intelligence Act 1.7 (the militia and the arms context of Floor 7). The independent regulatory boards chartered under §7 are defined operationally in the Energy, Healthcare, Education, Communications, Infrastructure, Industry, and Housing Acts.
+**Cross-reference.** Companion to the Sovereign Functions Act (defense, the Special Auditors, the judiciary — regional courts, appellate circuits, and Supreme Court — the SWF, the four executive bureaus — Treasury, Foreign Affairs Bureau, National Lands & Commons Bureau, Transport Bureau), the Credit Union Act 5.7, the FCL Act 3.3, the Monetary Act 9.7 (the age-20 endowment, the two-taps rule, the PPK/CED), the Municipal & Regional Funding Act 1.2, the Exchange Act 1.2 (the Crossroads Exchange; Treasury's Capital Markets Bureau provides continuous market supervision), the Healthcare Act and Education Act (whose boards set the essential schedules the §12 guarantees bind), and the Military & Intelligence Act 1.7 (the militia and the arms context of Floor 7). The independent regulatory boards chartered under §7 are defined operationally in the Energy, Healthcare, Education, Communications, Infrastructure, Industry, and Housing Acts. The Election Integrity Commission (§9.5) supplements the paper-ballot rotation with continuous infrastructure monitoring. The committee-referral mechanism (§6.7) creates the formal accountability link between oversight committees and the Special Auditors.
 
 **This act is deliberately separate from the Sovereign Functions Act.** They are ratified together but are not one document. This act is the source — the chambers and the citizens — beneath which the sovereign is the residue. §11 of this act holds the entrenched floors and §12 holds the protected guarantees; both bind the sovereign and the chambers alike.
 
@@ -8,7 +8,7 @@
 
 ## Abstract
 
-New Crossroads establishes its legislature as a federation of self-governing economic constituencies — the credit-union territorial chamber, the co-op and corporate productive chambers — sitting beneath a supreme universal citizen vote that represents every citizen, including those in the informal economy. The chambers draft and pass law through two-axis satisfaction; the citizens hold initiative, override, and confirmation powers, and are supreme on any matter of individual right. Capital may flow through every chamber but may never become a vote in any of them. Oversight committees chartered by the Territorial Chamber scrutinize the sovereign, the independent boards, the mutual funds, and the Exchange in public session. Beneath all the counting sit two schedules the counting cannot reach — the entrenched floors of §11 and the protected guarantees of §12.
+New Crossroads establishes its legislature as a federation of self-governing economic constituencies — the credit-union territorial chamber, the co-op and corporate productive chambers — sitting beneath a supreme universal citizen vote that represents every citizen, including those in the informal economy. The chambers draft and pass law through two-axis satisfaction; the citizens hold initiative, override, and confirmation powers, and are supreme on any matter of individual right. Capital may flow through every chamber but may never become a vote in any of them. Oversight committees chartered by the Territorial Chamber scrutinize the sovereign, the independent boards, the mutual funds, and the Exchange in public session, with a formal referral mechanism linking committee findings to the Special Auditors. Beneath all the counting sit two schedules the counting cannot reach — the entrenched floors of §11 and the protected guarantees of §12.
 
 ---
 
@@ -57,6 +57,8 @@ Every chamber seats a bloc of wildcard members elected directly by the universal
 
 **The Rule of Thirds.** Every chamber is one-third wildcards, uniformly. At one-third, the citizens' bloc plus a small minority of defecting enterprise delegates can block any measure — but the citizens cannot pass a measure alone, so the enterprise structure still matters. Where a chamber's size does not divide evenly, the wildcard fraction rounds up — toward the citizen, never away.
 
+**The one-seat rule.** No citizen may simultaneously hold more than one chamber seat — whether federated, delegate, or wildcard — across any combination of the Territorial, Co-op, and Corporate Chambers. Accepting a second seat vacates the first.
+
 ---
 
 ## Section 3: The Territorial Chamber — Regional Boards
@@ -67,6 +69,7 @@ Every chamber seats a bloc of wildcard members elected directly by the universal
 - **Split:** 7 credit-union-federated seats + 4 wildcard seats per board (36% wildcard — the Rule of Thirds rounded up). Nationally: 140 federated + 80 wildcard. Eleven is odd, so no tie machinery is needed.
 - The seven federated seats are elected by the region's credit-union membership — one member, one vote, through the federated credit unions.
 - The four wildcard seats are elected directly by the universal vote (§2.3).
+- **Unit vote.** In any national count requiring a supermajority of Regional Boards (such as 15/20), each board casts a single vote determined by internal majority (6/11). A tied board (impossible at 11) abstains.
 
 ### 3.2 Dual Function
 
@@ -98,9 +101,9 @@ The Special Auditors (Sovereign Functions Act §3) prosecute institutional and f
 
 - **Regional prosecutors** handle ordinary criminal prosecution. Appointed by the Regional Board (6/11), confirmed by the relevant productive chamber(s).
 - Independent of the municipal police they rely on for investigation.
-- Operate through the regular judiciary (regional courts → appellate courts → Supreme Court), subject to the due-process floor (§11, Floor 11) and the search-and-seizure floor (Floor 10).
+- Operate through the regular judiciary (regional courts → appellate circuits → Supreme Court), subject to the due-process floor (§11, Floor 11) and the search-and-seizure floor (Floor 10).
 - **Recall:** by the appointing Regional Board at 2/3 supermajority (§9.3).
-- The Special Auditors retain jurisdiction over institutional/financial crime. Cases crossing the line may be jointly prosecuted or assigned by the **judiciary** (a regional court ruling on jurisdictional questions, appealable to the Supreme Court).
+- The Special Auditors retain jurisdiction over institutional/financial crime. Cases crossing the line may be jointly prosecuted or assigned by the **judiciary** (a regional court ruling on jurisdictional questions, appealable through the appellate circuits to the Supreme Court).
 
 ### 3.6 Emergency Coordination and Mutual Aid
 
@@ -136,6 +139,16 @@ The two productive chambers are not symmetric: the co-op chamber is the larger a
 
 Any measure imposing an obligation on Tier-1 micro-co-ops or on informal-sector activity must also clear the universal vote (§2). Small actors are governed as citizens, never as enterprises.
 
+**Classification.** Whether a measure imposes such an obligation is a constitutional question decided by the **judiciary** — a regional court ruling, appealable through the appellate circuits to the Supreme Court. The **burden of proof is on the enacting body** (the chamber or board that passed the measure) to demonstrate that the measure does not impose a new obligation on Tier-1 or informal activity. Doubt resolves toward the universal vote, not away from it — the same downward presumption that governs the sovereign's closed list (Sovereign Functions Act §1.2).
+
+**Pre-enactment certification.** Any chamber or board may request a **pre-enactment advisory ruling** from a regional court on whether a proposed measure triggers the universal-vote requirement. The ruling is advisory before passage and binding after — if the court advised that the universal vote was not required and the measure passes without it, a subsequent challenge bears a higher burden (clear error, not de novo review). This channeling mechanism reduces post-hoc litigation by encouraging classification before the vote, not after.
+
+**Presumption of obligation.** A measure that regulates any activity commonly conducted at the Tier-1 or informal scale — market stalls, cash-only trade, sole proprietorships, household production, micro-workshops — is **presumed** to impose an obligation unless the enacting body demonstrates otherwise. The presumption is rebuttable but the rebuttal must be specific: "this measure applies only to Tier-2-and-above entities by its express terms" satisfies it; "we didn't intend to reach informal actors" does not.
+
+**Severability.** If a court finds that a measure imposes an obligation on Tier-1 or informal activity and the measure was enacted without the universal vote, the obligation is **severed** — the measure survives for entities above the threshold, but the obligation is void as applied to Tier-1 and informal actors. The enacting body may then seek the universal vote to extend coverage, or accept the severed scope. This avoids the all-or-nothing problem where a useful regulation is struck down entirely because it accidentally brushed the informal economy.
+
+**Standing.** Any Tier-1 co-op member or informal-sector worker may challenge a measure under this section. Standing is not limited to those already harmed — the challenge may be brought prospectively. Costs awarded to a prevailing challenger.
+
 ### 4.4 Size and Structure
 
 - Co-op Chamber: **300** (200 delegates + 100 wildcards). Corporate Chamber: **100** (67 delegates + 33 wildcards). Enterprise ratio: **3:1** (200:67). Total productive: **400**.
@@ -155,7 +168,7 @@ Any measure imposing an obligation on Tier-1 micro-co-ops or on informal-sector 
 
 - The chambers hold enterprise and economic matters.
 - The universal vote holds initiative, override, and confirmation powers, and holds supremacy. Matters of individual right, the entrenched floors (§11), the protected guarantees (§12), and constitutional amendments belong to it.
-- Disputes over which layer holds a contested matter are decided by the **judiciary** — a regional court ruling on jurisdictional questions, appealable through the appellate courts to the Supreme Court, bound by a presumption toward the universal vote.
+- Disputes over which layer holds a contested matter are decided by the **judiciary** — a regional court ruling on jurisdictional questions, appealable through the appellate circuits to the Supreme Court, bound by a presumption toward the universal vote.
 
 ---
 
@@ -165,6 +178,7 @@ Any measure imposing an obligation on Tier-1 micro-co-ops or on informal-sector 
 
 A national law is drafted in the chambers and must satisfy both axes — the territorial chamber (the places it touches) and the relevant productive chamber(s) (the forms it governs). A law that satisfies both axes passes without a national referendum.
 
+- Where a law governs both co-ops and corporations, or governs neither exclusively, both Productive Chambers must pass it. Where a law exclusively governs one ownership form, only that chamber is required. Classification disputes are decided by the **judiciary** (regional court, appealable through the appellate circuits to the Supreme Court), with the default presumption favoring both chambers.
 - Explanatory materials are published publicly.
 - A vetting period of no fewer than 90 days applies before a final chamber vote, except under a declared emergency (Monetary Act §1.8), in which case the minimum is 14 days.
 
@@ -193,7 +207,7 @@ Citizens may force a law, amendment, or repeal onto the ballot without any chamb
 - Law touching a floor (§11) or guarantee (§12): **2%**.
 - If the chambers missed their §6.2 cycle, each drops to **0.5% / 1%**, with a **hard floor of 0.25%**.
 
-**Whether a proposed initiative touches a floor or guarantee** is a constitutional question decided by the **judiciary** — a regional court ruling, appealable to the Supreme Court. The **burden of proof is on the chambers** to show that it touches a floor, so the higher bar cannot be used to smother ordinary initiatives by mislabeling them.
+**Whether a proposed initiative touches a floor or guarantee** is a constitutional question decided by the **judiciary** — a regional court ruling, appealable through the appellate circuits to the Supreme Court. The **burden of proof is on the chambers** to show that it touches a floor, so the higher bar cannot be used to smother ordinary initiatives by mislabeling them.
 
 **Restrictions:** citizen initiative may not eliminate the corporate-governance requirements, the 2-for-1 repeal rule (absent a 75% supermajority), or any entrenched floor (§11).
 
@@ -209,7 +223,7 @@ The active legal code is divided into three independent pools:
 
 **Independent triggers.** When a pool exceeds its ceiling, the 2-for-1 activates for that pool only. A 2% petition or the decennial cycle may also trigger it. **Pools are sealed:** a repeal in one pool may never satisfy a 2-for-1 obligation in another.
 
-**Pool classification.** The **drafting body declares** which pool an enactment belongs to at passage (statutes by the chambers, regulations by the boards, ordinances by the regional/municipal councils). If the classification is disputed, the dispute is decided by the **judiciary** — a regional court ruling, appealable to the Supreme Court. Reclassification may not be used to evade a triggered 2-for-1 obligation. Consolidation qualifies as a repeal; renaming does not.
+**Pool classification.** The **drafting body declares** which pool an enactment belongs to at passage (statutes by the chambers, regulations by the boards, ordinances by the regional/municipal councils). If the classification is disputed, the dispute is decided by the **judiciary** — a regional court ruling, appealable through the appellate circuits to the Supreme Court. Reclassification may not be used to evade a triggered 2-for-1 obligation. Consolidation qualifies as a repeal; renaming does not.
 
 ### 6.5 The Settled Codex
 
@@ -219,6 +233,16 @@ Laws on the books for **15 years** without challenge, amendment, repeal attempt,
 - **Recall from the codex** requires the **middle bar** (supermajority of the relevant chambers plus a simple-majority universal referendum). The codex is easy to enter and hard to raid.
 - **Strengthening** a codex law (tightening a standard, increasing a penalty) may be done through the ordinary bar without recall. Only weakening, narrowing, or repeal requires recall.
 - The codex is public, searchable, and maintained alongside the active pools.
+
+**Successor statutes.** When the chambers pass a new statute that strengthens a codex law through the ordinary bar, the new statute **automatically overwrites** the codex version — the old codex entry is superseded and removed from the codex, and the new statute enters the active statute pool. The new statute restarts the 15-year clock for codex graduation. A strengthening amendment does not require recall from the codex; the overwrite is the mechanism by which strengthening is applied. The successor statute must satisfy the same two-axis lawmaking path (§6.1) as any ordinary statute.
+
+**The Centennial Review.** Every 100 years, beginning from the date of ratification, a **Codex Review Commission** is convened to examine the Settled Codex for obsolete, redundant, or anachronistic laws that remain on the books solely by virtue of having gone unchallenged.
+
+- **Composition:** 15 commissioners — 5 appointed by the Territorial Chamber, 5 by the Productive Chambers jointly, and 5 by the Supreme Court. 3-year term coinciding with the review period. No commissioner may hold any current chamber seat, board appointment, or Sovereign Council seat.
+- **Power:** The commission **identifies and refers** — it does not repeal. For each law the commission finds obsolete, it publishes a written recommendation with reasoning and refers the law to the relevant chambers for ratification of removal through the **middle bar** (supermajority of the relevant chambers plus a simple-majority universal referendum — the same bar as ordinary codex recall). The chambers may accept, reject, or modify the commission's recommendation. Laws the chambers decline to remove remain in the codex.
+- **Scope:** The commission reviews the codex only. Active-pool statutes, regulations, and ordinances are subject to the ordinary legislative process and the 2-for-1 rule.
+- **Dissolution:** The commission dissolves when its referrals are resolved or at the end of its 3-year term, whichever comes first. It holds no permanent staff, no ongoing budget, and no institutional continuity between centuries.
+- **Publication:** All commission proceedings, recommendations, and chamber responses are published in the national legal registry alongside the codex itself.
 
 ### 6.6 Deadlock and the Arbitration Process
 
@@ -253,6 +277,8 @@ The Special Auditors are prosecutors — they investigate wrongdoing after the f
 
 **Where they sit.** Committees are chartered by and report to the Territorial Chamber. They may draw up to one-third of their members from the relevant productive chamber(s) — co-opted members with full committee participation but no vote on territorial-chamber-internal business outside the committee.
 
+**Sizing.** Each committee seats between 9 and 15 members. The chartering resolution sets the size; changes require a simple Territorial Chamber majority. The one-third productive-chamber draw is calculated against the set size.
+
 **Powers.** Subpoena power within their domain — may compel testimony from any official, board commissioner, Sovereign Council member, Treasury officer, CLS senior, or fund manager. May not freeze assets or bring charges — that is the auditors' function.
 
 **Public hearings.** Public by default. The Intelligence & Security Committee is the one exception, with classified sessions published in redacted form.
@@ -279,9 +305,27 @@ The Special Auditors are prosecutors — they investigate wrongdoing after the f
 
 **Energy & Infrastructure Committee.** The NEB, the NInfraB, the grid, the reactor fleet, the Asset Renewal Fund, the fee-setting formula, and the Transport Bureau.
 
-**Ethics & Standards Committee.** The chambers' own members — conflicts of interest, the plutocracy firewall in practice, wildcard-mechanism integrity, and member conduct.
+**Ethics & Standards Committee.** The chambers' own members — conflicts of interest, the plutocracy firewall in practice, wildcard-mechanism integrity, member conduct, and the Election Integrity Commission (§9.5).
 
 **Open registry.** New committees may be chartered by the Territorial Chamber (simple majority); defunct committees may be retired by the same.
+
+**The Committee Referral Mechanism.** Committees watch the machinery; the Special Auditors prosecute wrongdoing. This mechanism bridges the two without collapsing the distinction.
+
+**Formal referral.** Any oversight committee may, by majority vote, issue a **formal referral** to the Special Auditors directing their attention to specific findings. A referral is not a charge and does not compel prosecution — it compels engagement.
+
+**Mandatory written response.** Within 90 days of receiving a formal referral, the Special Auditors must respond in writing with one of three dispositions:
+
+- **Investigation opened.** The auditors confirm they have opened an investigation. No further detail is required at this stage — the investigation proceeds under the auditors' own independence (Sovereign Functions Act §3.2). The committee is notified of the outcome when the investigation concludes or is closed.
+- **Decline with reasons.** The auditors decline to investigate, with a published written explanation of why the referred conduct does not meet their jurisdictional or evidentiary threshold. The explanation is part of the public record.
+- **Absorption into existing investigation.** The referred matter falls within an investigation already underway. The auditors confirm this without compromising the existing investigation. The committee is notified when the broader investigation concludes.
+
+**Publication.** Every referral and every response is published in the committee's public record. The auditors' reasoning for a decline is public. A pattern of declined referrals from the same committee or concerning the same institution is visible to the press, the chambers, and the citizenry.
+
+**No override.** The committee cannot compel prosecution. The auditors' independence is preserved — they are accountable for explaining their decisions, not for making the decisions the committee wants. The mechanism creates transparency, not command.
+
+**Escalation path.** If a committee believes the auditors' decline is itself evidence of dereliction or capture, the committee may publish that finding and refer the auditors themselves to the judiciary — specifically, a citizen petition under universal standing (§11.5 / Sovereign Functions Act §3) asking the Supreme Court to review whether the auditors are fulfilling their constitutional mandate. This is the nuclear option and is expected to be rare; its existence is the discipline.
+
+**Counter-referral.** The Special Auditors may, on their own initiative, refer findings to a committee — flagging systemic issues that require legislative attention rather than prosecution. The committee publishes and may act through ordinary lawmaking. This closes the loop: committees refer down to auditors, auditors refer up to committees, and both channels are public.
 
 ---
 
@@ -293,7 +337,7 @@ Seven independent regulatory boards — NEB (energy), NHB (health), NLC (learnin
 
 - Composition: 11 members — 6 regional representatives, 4 experts, 1 chairman.
 - Experts drawn from the regional advisory layer (§8).
-- Appointment: nominated by the Territorial Chamber (Regional Boards, 11/20), confirmed by the relevant Productive Chamber(s).
+- Appointment: nominated by the Territorial Chamber (Regional Boards, 11/20), confirmed by both Productive Chambers jointly. Where a board's domain exclusively governs one ownership form, only that chamber confirms; the default is both.
 - Removal: by the nominating and confirming bodies jointly, or on cause established by a Special-Auditor investigation.
 - Independence: each board is paired with its department but subordinate to none; the board sets standards, the department implements; disputes resolved through the ad-hoc arbitration process (§6.6).
 
@@ -357,6 +401,36 @@ All 20 regions maintain **permanent paper-ballot election capability** — physi
 
 **System-wide fallback.** In the event of a system-wide digital failure (CME, cyberattack, grid collapse), **all 20 regions may revert to paper ballots immediately** using the standing capability. No emergency legislation, special authorization, or Tier-2 declaration is required — the fallback is always live, always staffed, and recently proven.
 
+**Continuous monitoring.** The Election Integrity Commission (§9.5) supplements this rotation with continuous inspection of all 20 regions' paper-ballot and PKK voting infrastructure between rotation years.
+
+### 9.5 The Election Integrity Commission
+
+Election infrastructure — physical and digital — requires continuous independent monitoring, not periodic testing alone. The paper-ballot rotation (§9.4) proves readiness once every 20 years per region; this commission watches all 20, all the time.
+
+**Composition.** 11 commissioners, 7-year staggered terms, one-term limit. Nominated by the Supreme Court, confirmed by the Territorial Chamber (11/20). No commissioner may hold or have held within the preceding 5 years any chamber seat, wildcard seat, board appointment, Sovereign Council seat, or candidacy for any of these. The commission elects its own chair annually.
+
+**Independence.** Budget set as a fixed-formula share of sovereign revenue, identical in protection to the Special Auditors' budget (Sovereign Functions Act §3.2). No annual appropriation may starve an inspection. Removal only by joint action of the Supreme Court and the Territorial Chamber, or on cause established by a Special Auditor investigation.
+
+**Scope-creep bar.** The commission may not expand beyond its mandate without a supermajority of the Territorial Chamber and the relevant Productive Chamber(s), plus a simple-majority national referendum — the same bar as chartering a new independent board (§7.2).
+
+**Jurisdiction.** The commission inspects; it never prosecutes.
+
+- **Paper-ballot readiness.** Continuous inspection of all 20 regions' physical polling infrastructure — facilities, personnel training, ballot security, counting protocols, chain-of-custody procedures. Deficiency findings are published and trigger a mandatory remediation deadline. A region that fails remediation is flagged for the next rotation year regardless of the published schedule.
+- **PKK voting infrastructure.** Integrity audits of the zero-knowledge-proof verification layer, the PPK credential pipeline, and the electronic voting system's cryptographic chain. Technical audits conducted or commissioned by the commission; methodology published.
+- **Election monitoring.** Real-time anomaly detection during all elections — statistical pattern monitoring, turnout analysis, electronic/paper divergence tracking. Observers deployed to every region during any election.
+- **Post-election review.** Mandatory statistical review within 60 days of every national election, citizen initiative, or referendum. Results published. Where electronic and paper diverge beyond statistical noise, the paper result controls (§9.4) and the divergence is automatically referred.
+- **Referrals.** Evidence of fraud, tampering, systematic failure, or infrastructure sabotage is referred to the Special Auditors for investigation and potential prosecution. The commission may not bring charges, freeze assets, or compel testimony — those are auditor powers. The commission compels inspection access only: facility entry, system logs, personnel records related to election administration.
+
+**Limits.**
+- May not access individual vote content (Floor 3).
+- May not access PPK identity data except through the Judicial Link Box (Floor 10).
+- Inspects election *infrastructure*, not voter *behavior*. Turnout analysis is statistical and anonymized.
+- No authority over election *outcomes* — disputed results are adjudicated by the judiciary.
+
+**Reporting.** Annual public report on system-wide election readiness, infrastructure condition by region, anomaly findings, and referral outcomes. Presented to the Ethics & Standards Committee (§6.7) in public session.
+
+**The commission does not run elections.** It watches the machinery that runs them. Municipal and regional councils administer their own elections; the commission verifies that the infrastructure beneath those elections is sound.
+
 ---
 
 ## Section 10: Confirmations and Ratifications
@@ -375,14 +449,24 @@ Nominated by the Sovereign Council, confirmed by the Territorial Chamber. Citize
 
 ### 10.4 The Sovereign Council
 
-6 professional seats: Territorial Chamber nominates, Productive Chambers confirm. 1 wildcard: universal citizen vote. Size: 7.
+6 professional seats in two staggered classes: Territorial Chamber nominates, both Productive Chambers confirm jointly. 1 wildcard: universal citizen vote. Size: 7. Staggered terms, vacancy rules, and the continuity floor are defined in Sovereign Functions Act §6.2.
 
 ### 10.5 Amendment Thresholds
 
 - **Highest bar** — to grow the sovereign's closed list or weaken an entrenched floor (§11): supermajority of every chamber plus **75% universal referendum.**
 - **Middle bar** — to add a new floor, charter a new board, breach the operating cap, or weaken a protected guarantee (§12): supermajority of relevant chambers plus **simple-majority universal referendum.**
 - **Ordinary bar** — to shrink the sovereign, retire a board, add a new guarantee, or push a function down: ordinary two-axis lawmaking (§6.1).
-- **Clarificatory amendments:** an amendment that does not weaken, narrow, or expand a floor or guarantee requires only the middle bar. **The judiciary determines** whether a proposed amendment is clarificatory or substantive (regional court, appealable to Supreme Court), with the burden on proponents to show it is clarificatory. Doubt resolves toward "substantive" and the higher bar.
+- **Clarificatory amendments:** an amendment that does not weaken, narrow, or expand a floor or guarantee requires only the middle bar. **The judiciary determines** whether a proposed amendment is clarificatory or substantive (regional court, appealable through the appellate circuits to the Supreme Court), with the burden on proponents to show it is clarificatory. Doubt resolves toward "substantive" and the higher bar.
+
+### 10.6 The Judiciary
+
+The chambers hold the appointment power for all three levels of the judiciary (Sovereign Functions Act §4.1):
+
+- **Regional courts** (200 judges, 10 per region, 10-year terms): Appointed by the Territorial Chamber (6/11 Regional Board vote), confirmed by both Productive Chambers jointly.
+- **Appellate circuits** (5 circuits of 4 regions each, 5 judges per circuit, 25 total, 10-year staggered terms): Appointed by the Territorial Chamber (11/20), confirmed by both Productive Chambers jointly.
+- **Supreme Court** (7 justices, 15-year staggered terms, mandatory retirement at 75): Nominated by the Territorial Chamber, confirmed by both Productive Chambers jointly.
+
+Terms, staggering schedules, vacancy rules, and the deadlock rule for rejected nominees are defined in Sovereign Functions Act §4.1. The chambers' appointment power is the democratic check on judicial independence — the judiciary serves long terms once confirmed but is selected by the representative bodies.
 
 ---
 
@@ -403,7 +487,7 @@ These govern substance — things that may never be traded away, by any majority
 
 **Floor 1 — The Informal Economy Guarantee.** Cash commerce at or below the DLB threshold is never taxed, tracked, or surveilled (Monetary §1A).
 
-**Floor 2 — The Three-Part Home Doctrine.** The primary residence is never taxed (Municipal §1.2), never arbitrarily taken (only under the bounded takings power — public infrastructure only, market-plus-10%, no private-to-private, judicial ratification, Sovereign Functions Act §4.4), and never surveilled (Link-Box-only; who pays rent to whom is Link-Box-only, Housing §1.1).
+**Floor 2 — The Three-Part Home Doctrine.** The primary residence is never taxed (Municipal §1.2), never arbitrarily taken (only under the bounded takings power — public infrastructure only, market-plus-10%, no private-to-private, judicial ratification, Sovereign Functions Act §4.3), and never surveilled (Link-Box-only; who pays rent to whom is Link-Box-only, Housing §1.1).
 
 **Floor 3 — Vote Privacy.** The order records only whether a citizen voted, never how; no vote content enters the CED. Reached only through the Link Box.
 
@@ -435,7 +519,7 @@ These govern substance — things that may never be traded away, by any majority
 
 ### §11.2 — The Link Box as the Single Warranted Door
 
-The Judicial Link Box (Sovereign Functions Act §4.3) is the one bridge behind every privacy floor. One hash to one identity, per warrant, per judge, on the record, notified, audited, constitutionally incapable of bulk operation. There is no other door.
+The Judicial Link Box (Sovereign Functions Act §4.2) is the one bridge behind every privacy floor. One hash to one identity, per warrant, per judge, on the record, notified, audited, constitutionally incapable of bulk operation. There is no other door.
 
 ### §11.3 — The Rights Ratchet
 
@@ -473,7 +557,7 @@ The corporate-governance requirements (Monetary §4.1) and the 2-for-1 rule (§6
 
 ### §12.4 — The Nuclear-Use Doctrine
 
-**Tier 1 — Retaliatory launch.** On verified detection of an inbound nuclear strike (two independent detection systems), the Sovereign Council Chairman + a majority (4/7) may authorize immediate retaliation. A launch based on false detection triggers a Special Auditor investigation; treason applies only where detection was not confirmed in good faith.
+**Tier 1 — Retaliatory launch.** On verified detection of an inbound nuclear strike (two independent detection systems), the Sovereign Council Chairman plus a majority of sitting members (the Chairman's vote counting toward the majority, but never fewer than three total authorizers regardless of vacancies) may authorize immediate retaliation. A launch based on false detection triggers a Special Auditor investigation; treason applies only where detection was not confirmed in good faith.
 
 **Tier 2 — Offensive use.** Requires unanimous Sovereign Council + 15/20 Territorial Chamber. Designed to be politically prohibitive. Use not meeting both conditions is void and constitutes high treason.
 
@@ -493,22 +577,27 @@ Referenced in Sovereign Functions Act §8 alongside the floors.
 
 | Layer | Body (seats) | Represents | Chosen by |
 |---|---|---|---|
-| Supreme individual | Universal Citizen Vote + wildcard seats | Every citizen; the informal economy | Birthright at 20; wildcards directly elected (5yr/3-term) |
-| Territorial (place) | Regional Boards (20 x 11 = 220; 7 federated + 4 wildcard) | Where you live | Credit-union membership + wildcards |
+| Supreme individual | Universal Citizen Vote + wildcard seats | Every citizen; the informal economy | Birthright at 20; wildcards directly elected (5yr/3-term); one-seat rule applies |
+| Territorial (place) | Regional Boards (20 x 11 = 220; 7 federated + 4 wildcard) | Where you live | Credit-union membership + wildcards; unit vote by 6/11 internal majority |
 | Productive (form) | Co-op Chamber (300; 200 + 100 wildcard) | The favored co-op economy | Co-op boards (Tier 2+), 5% cap |
 | Productive (form) | Corporate Chamber (100; 67 + 33 wildcard) | The disciplined corporate economy | Corporate boards (w/ worker seats) |
-| Oversight | 8 committees (open registry, §6.7) | Scrutiny of sovereign, boards, funds, Exchange | Chartered by Territorial; up to 1/3 from productive |
-| Regulatory | 7 independent boards (§7) | Physical/standards commons | Territorial nominates, productive confirms |
+| Productive routing | Both chambers default; single if exclusive | Two-axis satisfaction | Judiciary classifies disputes; presumption favors both |
+| Oversight | 8 committees (9–15 members each; open registry, §6.7) | Scrutiny of sovereign, boards, funds, Exchange | Chartered by Territorial; up to 1/3 from productive; referral mechanism to Special Auditors |
+| Regulatory | 7 independent boards (§7) | Physical/standards commons | Territorial nominates, both productive confirm (default) |
 | Advisory | RHAs / RMAs / REAs / Sector Councils (§8) | Expertise | Expertise-weighted; advise and nominate only |
 | Regional justice | Regional prosecutors (§3.5) | Ordinary criminal law | Regional Board appoints, productive confirms |
-| Executive | Sovereign Council (7; 6 + 1 wildcard) | The thin sovereign | Territorial nominates, productive confirms; wildcard direct |
+| Judiciary | Regional courts (200) + Appellate circuits (25) + Supreme Court (7) | Justice at three levels | Territorial nominates/appoints; both productive confirm; terms and staggering per Sovereign Functions Act §4.1 |
+| Executive | Sovereign Council (7; 6 in two staggered classes + 1 wildcard) | The thin sovereign | Territorial nominates, both productive confirm; wildcard direct; staggered terms per Sovereign Functions Act §6.2 |
+| Election integrity | Election Integrity Commission (11; §9.5) | Continuous election-infrastructure monitoring | Supreme Court nominates; Territorial confirms; scope-creep bar per §7.2 |
 | Arbitration | Ad-hoc tribunals (§6.6) | Deadlock resolution only | Each side picks one; two pick chair; dissolves after; decisions logged (persuasive, not binding) |
-| Election integrity | Paper-ballot rotation (§9.4) | Continuous live audit of electronic voting | 1 region/year on paper; all 20 maintain permanent fallback |
+| Election integrity (rotation) | Paper-ballot rotation (§9.4) | Continuous live audit of electronic voting | 1 region/year on paper; all 20 maintain permanent fallback; Election Integrity Commission supplements |
+| Codex maintenance | Settled Codex (§6.5) + Centennial Review Commission | Proven law preserved; obsolescence reviewed | Automatic graduation at 15 years; successor overwrites; centennial commission refers, chambers ratify removal |
 | Lawmaking | Chambers draft and pass (two-axis, §6) | The nation | Citizen initiative and override preserved |
+| Small-actor protection | Universal vote required for Tier-1/informal obligations (§4.3) | The informal economy and micro-co-ops | Burden on enacting body; pre-enactment certification; severability; prospective standing |
 | Outer limit | Entrenched Floors (§11; 12 floors) | What no majority may touch | 75% referendum to breach |
 | Protected | Guarantees (§12; 4 items) | What the state must always provide | Middle bar to weaken |
 
-**Every chamber is one-third wildcards. Wildcard terms: 5 years, 3-term cap. Territorial Chamber sits quarterly (§3.4).**
+**Every chamber is one-third wildcards. Wildcard terms: 5 years, 3-term cap. Territorial Chamber sits quarterly (§3.4). No citizen may hold more than one chamber seat (§2.3).**
 
 ---
 
@@ -524,19 +613,23 @@ New Crossroads builds its legislature from the economy's own self-governing inst
 
 - **The favored form is favored out loud.** Co-ops carry more political weight than corporations, and the constitution does not pretend this is neutral.
 
-- **Someone is always watching.** Eight oversight committees question every organ of the state in public session — the sovereign's military command, the NEB's grid monopoly, the SWF's deployments, the CLS corps' lending patterns, the Exchange's firewall, the chambers' own ethics.
+- **Someone is always watching.** Eight oversight committees question every organ of the state in public session — the sovereign's military command, the NEB's grid monopoly, the SWF's deployments, the CLS corps' lending patterns, the Exchange's firewall, the chambers' own ethics. When committees find wrongdoing, the referral mechanism compels the Special Auditors to engage — to investigate or to explain, publicly, why they will not.
 
 - **Justice is local.** Regional prosecutors sit close to the community, independent of police, accountable through recall. The Special Auditors handle institutional crime; the prosecutors handle everything else.
 
 - **Deadlocks are resolved, not institutionalized.** When two sides are stuck, an ad-hoc tribunal assembles from the relevant sector — each side picks one, the two pick a chair, they hear the case and go home. No standing body, no scope creep, no bottleneck. Arbitration is a process, not an institution.
 
-- **The vote is always provable.** One region per year runs on paper — the unhackable, physically observable baseline — and every region maintains the capability permanently. The paper-ballot rotation is a continuous live audit of the electronic system, a readiness test of the constitutional fallback, and a guarantee that if everything digital fails, the democracy still works tomorrow. No algorithm is trusted without being tested; no capability is assumed without being proven.
+- **The vote is always provable.** One region per year runs on paper — the unhackable, physically observable baseline — and every region maintains the capability permanently. The Election Integrity Commission watches all 20 regions continuously between rotation years, inspecting paper-ballot infrastructure, PKK voting systems, and post-election data for anomalies. No algorithm is trusted without being tested; no capability is assumed without being proven; no infrastructure is left unmonitored between tests.
 
 - **Two schedules, two bars.** The entrenched floors are things the state must never do — 75% referendum, no suspension. The protected guarantees are things the state must always provide — middle bar, funding-dependent. Different failure modes, different rigidity.
 
 - **The chambers draft and pass; the citizens override and protect.** Ordinary law passes without a referendum. The citizen's power concentrates where it matters: initiative, override, confirmation, and constitutional amendment.
 
-The chambers draft; the citizens override; the committees watch; the expert advises; the prosecutor investigates; the tribunal resolves when the rest are stuck; and the home, the ballot, the river, the clinic, the school, the press, and the arms stand outside the reach of every vote. Place and form both speak, and the person has the last word.
+- **Proven law endures; obsolete law does not hide.** The Settled Codex preserves laws that have worked for 15 years, shielding them from casual repeal while keeping them visible and searchable. Successor statutes overwrite cleanly. Every century, a dedicated commission reviews the codex for laws that have outlived their purpose, referring findings to the chambers — because permanence should not mean immortality.
+
+- **The small actor is shielded by presumption.** Any measure that touches Tier-1 micro-co-ops or the informal economy is presumed to impose an obligation unless the enacting body proves otherwise. The burden is on power, not on the market stall. Severability ensures that a useful regulation reaching too far is trimmed, not destroyed.
+
+The chambers draft; the citizens override; the committees watch and refer; the expert advises; the prosecutor investigates or explains why not; the tribunal resolves when the rest are stuck; the commission inspects the vote's machinery; and the home, the ballot, the river, the clinic, the school, the press, and the arms stand outside the reach of every vote. Place and form both speak, and the person has the last word.
 
 ---
 
@@ -548,13 +641,17 @@ The chambers draft; the citizens override; the committees watch; the expert advi
 
 **3. The wildcard mechanism depends on citizen engagement.** If turnout is chronically low, wildcard seats could be captured by organized interests. The mitigation: 5-year terms and recall (§9.3).
 
-**4. The Settled Codex creates law with reduced democratic accountability.** The 15-year qualification and annual cataloguing by the legal registry are the checks against undeserved graduation.
+**4. The Settled Codex creates law with reduced democratic accountability.** The 15-year qualification and annual cataloguing by the legal registry are the checks against undeserved graduation. The centennial review (§6.5) provides a systematic check against indefinite accumulation of obsolete law.
 
-**5. The two-tier nuclear doctrine grants immediate retaliatory authority to a small group.** The mitigations: dual-detection-system requirement, good-faith standard, automatic Special Auditor investigation.
+**5. The two-tier nuclear doctrine grants immediate retaliatory authority to a small group.** The mitigations: dual-detection-system requirement, good-faith standard, automatic Special Auditor investigation, and the minimum-three-authorizer rule during vacancies.
 
-**6. The paper-ballot rotation depends on sustained infrastructure investment.** Maintaining physical polling capability in 20 regions permanently — trained personnel, secure facilities, ballot stock, counting procedures — costs money and attention in 19 regions where it is not being used in any given year. If a region neglects its paper infrastructure between rotation years, the fallback is hollow and the readiness test is the only thing that catches it. The system accepts this because the alternative — relying entirely on electronic voting with no auditable baseline — is worse. The mitigations are the annual rotation itself (every region faces the test within 20 years) and the peer-verification role of the assisting region (which has the standing and the recent experience to flag deficiencies).
+**6. The paper-ballot rotation and election infrastructure depend on sustained investment.** Maintaining physical polling capability and PKK voting infrastructure in 20 regions permanently costs money and attention. The mitigations are the annual rotation itself (every region faces the test within 20 years), the peer-verification role of the assisting region, and the Election Integrity Commission (§9.5), which provides continuous monitoring of all 20 regions' infrastructure between rotation years — inspecting facilities, auditing the cryptographic chain, deploying observers during elections, and publishing annual readiness reports. A region that fails remediation is flagged for the next rotation regardless of schedule.
 
 **7. The oversight committees depend on session discipline.** The quarterly sessional model concentrates committee work into four windows. The mitigations: the mandatory review calendar (§6.2) and the citizen-initiative threshold drop when chambers miss their cycle.
+
+**8. The Codex Centennial Review Commission holds referral power over proven law.** The vulnerability: a centennial commission could be captured by interests seeking to strip protections that have endured for decades, or could over-prune laws that remain useful but appear archaic. The mitigations: the commission refers but does not repeal — the chambers must ratify removal through the middle bar (supermajority + referendum); the commission's composition is trilateral (Territorial, Productive, Supreme Court), reducing single-faction capture; and the judiciary retains review over any removal that a citizen challenges as inconsistent with a floor or guarantee.
+
+**9. The one-seat rule prevents dual representation but creates a selection incentive.** A talented citizen must choose their most influential seat rather than serving where most needed. The tradeoff is accepted because the alternative — allowing a single person to hold seats in two chambers — concentrates representation and undermines the separation between the place axis and the form axis.
 
 ---
 
