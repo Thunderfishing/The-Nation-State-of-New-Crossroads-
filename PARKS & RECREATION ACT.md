@@ -1,12 +1,11 @@
-
-# Crossroads Corridon River and Parks Act of 2025: Lifeblood of a Nation (Draft 3.4)
+# Crossroads Corridon River and Parks Act of 2025: Lifeblood of a Nation (Draft 3.5)
 
 **Draft:** 3.4 | **Date:** July 12, 2026
 **Author:** Thunderfish2
 
 ---
 
-> **Cross-reference.** Companion to the **Monetary Act 9.7**, **Credit Union Act 5.7**, **FCL Act 3.3**, **Infrastructure Act 2.5**, **Energy Act 4.3**, **Healthcare Act 6.6**, **Education Act 2.3**, the **Sovereign Functions Act**, and the **Chamber Act**. Loans are reference-rate-anchored (Monetary Act §1.5A). Data uses PPK/CED (no CWD). The currency is fiat.
+> **Cross-reference.** Companion to the **Monetary Act 9.8**, **Credit Union Act 5.8**, **FCL Act 3.4**, **Infrastructure Act 2.7**, **Energy Act 4.4**, **Healthcare Act 6.6**, **Education Act 2.3**, the **Sovereign Functions Act**, and the **Chamber Act**. Loans are reference-rate-anchored (Monetary Act §1.5A). Data uses PPK/CED (no CWD). The currency is fiat.
 
 > **Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values.
 
@@ -18,7 +17,7 @@ This act establishes the **1,200 km Corridon River Basin (24,000 km² national p
 
 The act integrates with the Infrastructure Act's elevated freeway insect corridors (3,000 km dark corridors) and DCALS/DCLTI lighting standards. Floods nourish 100,000 km² wetlands, levees protect cities, timber is capped at 10M m³/year, a 750 km CO₂ pipeline absorbs 3.115M tons/year by 2075, and a moisture feedback loop grows the Frostpeak glaciers.
 
-**Funding:** parks receive SWF allocations (capped 12% of GDP), a **~$10B/year Parks Index**, **reference-rate-anchored service-sector loans**, the **recreation co-op clubs** (progressive waterfall + the new parks-stewardship levy), and **auctioned foreign cottages/timeshares**. Co-op park management receives preference (first right of refusal). No binding sector quotas apply.
+**Funding:** parks receive **general revenue** (~$20B/year, Sovereign Functions Act §7.3), the **Dark Corridor Fund surplus** (~$10.1B/year at mature tolls, Infrastructure Act §4.2), a **~$10B/year Parks Index**, **reference-rate-anchored service-sector loans**, the **recreation co-op clubs** (progressive waterfall + the parks-stewardship levy), the CCIF (~$2.5B/year), and **auctioned foreign cottages/timeshares**. Co-op park management receives preference (first right of refusal). No binding sector quotas apply.
 
 ---
 
@@ -26,11 +25,11 @@ The act integrates with the Infrastructure Act's elevated freeway insect corrido
 
 | Act | Integration Point |
 | :--- | :--- |
-| **Monetary Act 9.7** | SWF capped at 12% GDP; automatic citizen dividends; reference-rate-anchored service-sector loans (Monetary §1.5A); Informal Economy Guarantee (cash park fees protected); auctioned cottages/timeshares (Monetary §6); no binding quotas |
-| **Credit Union Act 5.7** | Micro-loans for park-adjacent informal businesses ($500, 4% nominal, self-attested, 24hr) |
-| **FCL Act 3.3** | 30,000 recreation co-op clubs on the **progressive waterfall** (5%/15%/~22%, 2:1:2) + the parks-stewardship levy; Co-op Board listing; Freedom Share eligibility |
-| **Infrastructure Act 2.5** | Elevated freeway insect corridors (3,000 km) intersect parkweb; DCALS/DCLTI; retroreflective paint program; Dark Corridor Fund (10% of toll revenue ≈ $11.2B/yr by 2075) |
-| **Energy Act 4.3** | Grid (nuclear + geothermal) powers park infrastructure; the 20 SMR hubs anchor regional services |
+| **Monetary Act 9.8** | SWF capped at 12% GDP; automatic citizen dividends; reference-rate-anchored service-sector loans (Monetary §1.5A); Informal Economy Guarantee (cash park fees protected); auctioned cottages/timeshares (Monetary §6); no binding quotas |
+| **Credit Union Act 5.8** | Micro-loans for park-adjacent informal businesses ($500, 4% nominal, self-attested, 24hr) |
+| **FCL Act 3.4** | 30,000 recreation co-op clubs on the **progressive waterfall** (5%/15%/~22%, 2:1:2) + the parks-stewardship levy; Co-op Board listing; Freedom Share eligibility |
+| **Infrastructure Act 2.7** | Elevated freeway insect corridors (3,000 km) intersect parkweb; DCALS/DCLTI; retroreflective paint program; Dark Corridor Fund (10% of toll revenue ≈ $11.2B/yr by 2075; **parks receives the ~$10.1B surplus** after ~$1.1B of corridor items) |
+| **Energy Act 4.4** | Grid (nuclear + geothermal) powers park infrastructure; the 20 SMR hubs anchor regional services |
 | **Healthcare Act 6.6** | Parks and clubs as **preventive-health infrastructure** — green space and recreation feed the Healthcare Act's preventive-care and mental-wellness goals |
 | **Education Act 2.3** | Parkweb and clubs as venues for recreation apprenticeships and the school sports/recreation representative; lifelong-recreation access |
 | **Sovereign Functions Act** | Special Auditors (§3) enforce biosphere reserve protections and minimum flow compliance |
@@ -48,20 +47,22 @@ The act integrates with the Infrastructure Act's elevated freeway insect corrido
 | Citizen | BWC park fees under $10,000/year | Pseudonymized; no detail | None |
 | Middle | BWC park fees $10k–$100k/year | Pseudonymized aggregates | Annual summary |
 | Elite | Corporate park concessions above $100k | Full pseudonymized detail | Quarterly audits |
-| Institutional | Parks SWF allocations, CPI leases | Full transparency | Public annual reports |
+| Institutional | Parks general-revenue allocation, Dark Corridor Fund, CPI leases | Full transparency | Public annual reports |
 
 Cash park fees are accepted at all entry points via credit-union kiosks with no fee and no surveillance (Monetary §1A). Park-access records, where any exist, are identity-free; identity lives only in the PPK, never the CED.
 
-### 1.2 Reference-Rate-Anchored Loans for Parks Infrastructure (per Monetary §1.5A, Credit Union §4.2)
+### 1.2 Reference-Rate-Anchored Loans for Parks Infrastructure (per Monetary §1.5A, Credit Union Act §4.2)
 
 All loans for park infrastructure (trails, campsites, lodges, CO₂ pipelines, greenhouses) receive the **low service-sector nominal rate**. There is no DAI or BAR mechanism.
 
-| Loan Type | Service-sector rate |
-| :--- | :--- |
-| Trail construction (co-op) | Set below the reference rate |
-| Greenhouse expansion | Set below the reference rate |
-| CO₂ pipeline maintenance | Set below the reference rate |
-| Club lodge construction | Set below the reference rate |
+| Loan Type | Band | Illustrative |
+| :--- | :--- | :--- |
+| Trail construction (co-op) | **reference + 0.5% to + 1.5%** | ~4–5% |
+| Greenhouse expansion | **reference + 0.5% to + 1.5%** | ~4–5% |
+| CO₂ pipeline maintenance | **reference + 0.5% to + 1.5%** | ~4–5% |
+| Club lodge construction | **reference + 0.5% to + 1.5%** | ~4–5% |
+
+At a founding reference rate of ~3.5% (Monetary Act §1.5A). The service-sector band is a ~1.5-point subsidy against the commercial reference + 2% (~5.5%).
 
 ### 1.3 Co-op Park Management Preference
 
@@ -103,7 +104,7 @@ The entire Corridon watershed — the **Corridon River, the Westflow, and their 
 - **Riverside power plants** — nuclear and waste-to-energy plants sited on the banks for cooling (point footprints, held to strict riparian and discharge standards since they sit within the protected zone); and
 - **Ports, barge channels, water intakes, and flood works** — the river's own working infrastructure.
 
-**Industry is off the floodplain.** The Industrial Corridors do **not** run along the river. They **radiate inland** from the riverside plants (Infrastructure Act 2.5 §3.7): a nuclear or WTE plant on the bank is the *head* of a corridor that runs perpendicular into the dry uplands, carrying buried warm-water + CO₂ to the inland greenhouses, hemp processing, and hempcrete plants. The sprawling industrial land use is therefore **outside the protected basin entirely** — the riverbank carries only the plants (point sites), the ports, and the protected ecological matrix. Where a corridor or pipeline must cross a riparian zone, it does so at a defined, buffered, DCALS-compliant crossing (like the land bridges, §4.1).
+**Industry is off the floodplain.** The Industrial Corridors do **not** run along the river. They **radiate inland** from the riverside plants (Infrastructure Act 2.7 §3.7): a nuclear or WTE plant on the bank is the *head* of a corridor that runs perpendicular into the dry uplands, carrying buried warm-water + CO₂ to the inland greenhouses, hemp processing, and hempcrete plants. The sprawling industrial land use is therefore **outside the protected basin entirely** — the riverbank carries only the plants (point sites), the ports, and the protected ecological matrix. Where a corridor or pipeline must cross a riparian zone, it does so at a defined, buffered, DCALS-compliant crossing (like the land bridges, §4.1).
 
 **Biosphere zoning (three tiers):**
 
@@ -190,21 +191,22 @@ Net CO₂: −4.32M t/yr (2025) → −21.735M t/yr (2075).
 - **Proceeds:** flow to the Parks Index / parks funding and the SWF — foreign capital funds the commons; citizens are unaffected.
 - **Scrutiny:** all cottage/timeshare transactions are institutional-tier (full tracking).
 
-### 5.3 SWF Allocation
+### 5.3 Funding Sources
 
-| Item | Draft 3.4 |
-| :--- | :--- |
-| Co-op recharge | Eliminated (Monetary 9.7) |
-| SWF target | ~$1.5–2.0T (capped 12% GDP) |
-| SWF funding | FTT (0.3% on BWC >$10k) + resource surcharge (3%) — **carved out** of general revenue |
-| Parks SWF allocation | ~$20B (from SWF contributions) |
-| Parks Index | ~$10B/year |
-| CCIF to parks | ~$2.5B/year (third priority after Energy ~$5B, Urban ~$3B) |
+| Source | Amount | Notes |
+| :--- | :--- | :--- |
+| **Dark Corridor Fund surplus** (Infrastructure Act §4.2) | **~$10.1B/year** (at mature tolls) | The parkweb’s primary funding stream — the surplus after the corridor’s own ~$1.1B of habitat, monitoring, and enforcement items. **Not the whole $11.2B** — the corridor items come first |
+| **Parks Index** (foreign investment, §5.1) | ~$10B/year | Auction-cleared cottage/timeshare revenue |
+| **General revenue** (Sovereign Functions Act §7.3) | ~$20B/year | The sovereign’s parks line — part of the ~$400B federal budget |
+| **Parks-stewardship levy** (§6.1) | ~$2B/year (by 2075) | ~5% of club revenue |
+| **CCIF to parks** (§5.4) | ~$2.5B/year | Third priority in the Alliance Network allocation; CCIF rescaled to ~$991B |
 
-Automatic SWF stabilizers (Monetary §2.3): above 12% of GDP, citizen dividends are paid (50% cash, 50% BWC); park funding is protected as a fixed allocation.
+> **What this table replaces.** Draft 3.4 funded parks from the **SWF** (~$20B “from SWF contributions”), the **FTT** (abolished — Monetary §1.3), and the **3% resource surcharge** (a rate with no derivation and a destination claimed by two acts). All three are gone. The replacement is the **Dark Corridor Fund surplus** — a stream that exists, is sized, and connects the parkweb to the infrastructure it physically adjoins — plus the Parks Index, the sovereign’s own parks line, the stewardship levy, and the CCIF.
+>
+> **Park funding is no longer “protected as a fixed allocation” from the SWF stabilizers,** because it no longer comes from the SWF. It is general revenue, and the §2.3 stabilizers redirect SWF contributions, not the budget.
 
 ### 5.4 CCIF Alliance Network
-- ~$2.395T CCIF, ~7.5% returns, ~$2.5B/year to parks; 1,832 members, 65% FCL-led, Co-op Chamber oversight.
+- ~$991B CCIF (rescaled from ~$2.395T), 5–7% returns, ~$2.5B/year to parks; 1,832 members, 65% FCL-led, Co-op Chamber oversight.
 
 ---
 
@@ -259,16 +261,16 @@ Club lodges, campsites, and trailheads within 500m of elevated insect corridors 
 | Metric | 2025 | 2075 |
 | :--- | :--- | :--- |
 | Population | 112M | 130M |
-| SWF (total) | ~$550B | ~$1.5–2.0T (cap 12% GDP) |
-| Parks SWF allocation | ~$20B | Fixed allocation |
+| SWF | ~$230B seed (3.8% of GDP) | capped at 12% (~$720B → ~$2.28T) |
+| Parks — general revenue | ~$20B | Sovereign Functions Act §7.3 |
 | Parks Index | ~$10B/yr | ~$10B/yr |
 | CCIF to parks | ~$2.5B/yr | Third priority |
 | **Club waterfall** | **Progressive (5/15/~22%)** | same |
 | **Parks-stewardship levy** | **~5% of club revenue** | **~$2B/yr by 2075** |
 | Cottages | **Auctioned, cap 10,000** | Auctioned, rising price |
 | Timeshares | **Auctioned, capacity-scaled** | Auctioned (10% foreign cap) |
-| Loan rates | Reference-rate-anchored service rate (Monetary §1.5A) | same |
-| Dark Corridor Fund to parks | — | ~$11.2B/yr (10% of tolls) |
+| Loan rates | **service-sector band: reference + 0.5% to + 1.5%** (~4–5%). Reference rate ~3.5% (Monetary §1.5A) | same |
+| **Dark Corridor Fund surplus to parks** | building | **~$10.1B/yr** at mature tolls (Infrastructure Act §4.2 — after ~$1.1B of corridor items) |
 | Pollinator agricultural benefit | — | ~$6.8B/yr |
 | Parkweb | 540,000 km² | 540,000 km² |
 | **Corridon Basin Biosphere Reserve** | **Established (source-to-mouth, protected-by-default)** | Connected to Frostpeak/Ember ranges |
@@ -315,4 +317,4 @@ A nation that auctions the privilege of its wild places to outsiders, taxes its 
 
 ---
 
-**End of Draft 3.4**
+**End of Draft 3.5**
