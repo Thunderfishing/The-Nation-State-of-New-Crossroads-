@@ -824,3 +824,5 @@ Special shares are the engine: each series adds its own value in capital and **~
 | Does it reward me for paying? | Yes — +5% patronage on-time, +10% at 12 months (§2.2). The lever is a carrot, not a late fee |
 
 ---
+
+
