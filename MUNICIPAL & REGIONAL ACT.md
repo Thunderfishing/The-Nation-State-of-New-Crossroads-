@@ -1,6 +1,6 @@
 # Crossroads Municipal and Regional Funding Act
 
-**Cross-reference.** Companion to the **Sovereign Functions Act** (Special Auditors §3 enforce independently; the judiciary §4 hears appeals and constitutional questions; the SWF §5 is lender of last resort on cross-regional emergency certification), the **Chamber Act** (Regional Boards §3 administer regional funding and oversee municipalities; the Territorial Chamber holds the regional governance function; the ad-hoc arbitration process §6.6 resolves deadlocks; the entrenched floors §11 include the home doctrine as Floor 2; the protected guarantees §12 include the healthcare guarantee §12.1 and the education guarantee §12.2), the **Monetary Act 9.7** (fund mechanics mirror the credit-union RLP/DIP model; fiat BWC; SWF interaction §2), the **Credit Union Act 5.7** (mutual-fund design), the **Housing Act** (the residential-land-tax prohibition protects the homeownership keystone), and the **Infrastructure Act** (cost-of-service and 155% cost-recovery principles).
+**Cross-reference.** Companion to the **Sovereign Functions Act** (Special Auditors §3 enforce independently; the judiciary §4 hears appeals and constitutional questions; the SWF §5 is lender of last resort on cross-regional emergency certification), the **Chamber Act** (Regional Boards §3 administer regional funding and oversee municipalities; the Territorial Chamber holds the regional governance function; the ad-hoc arbitration process §6.6 resolves deadlocks; the entrenched floors §11 include the home doctrine as Floor 2; the protected guarantees §12 include the healthcare guarantee §12.1 and the education guarantee §12.2), the **Monetary Act 9.8** (fund mechanics mirror the credit-union RLP/DIP model; fiat BWC; SWF interaction §2), the **Credit Union Act 5.8** (mutual-fund design), the **Housing Act** (the residential-land-tax prohibition protects the homeownership keystone), and the **Infrastructure Act** (cost-of-service and 155% cost-recovery principles).
 
 **Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values.
 
@@ -23,10 +23,10 @@ This act answers a question the national fiscal model leaves open: **how do the 
 |---|---|
 | **Sovereign Functions Act** | Special Auditors (§3) enforce independently; the judiciary (§4) hears appeals and constitutional questions; the SWF (§5) is lender of last resort on cross-regional emergency certification |
 | **Chamber Act** | Regional Boards (§3) administer regional funding and oversee municipalities; ad-hoc arbitration (§6.6) resolves deadlocks; the entrenched floors (§11) include the home doctrine (Floor 2); the protected guarantees (§12) include healthcare (§12.1) and education (§12.2) |
-| **Monetary Act 9.7** | Fund mechanics mirror the RLP/DIP backstop model; fiat BWC; SWF interaction (§2); resource-revenue split (§4) |
-| **Credit Union Act 5.7** | Mutual-fund design (pay-in, equalize-within-tier, no bailout without conditions) replicated from credit-union liquidity/solvency pools |
+| **Monetary Act 9.8** | Fund mechanics mirror the RLP/DIP backstop model; fiat BWC; SWF interaction (§2); resource-revenue split (§4) |
+| **Credit Union Act 5.8** | Mutual-fund design (pay-in, equalize-within-tier, no bailout without conditions) replicated from credit-union liquidity/solvency pools |
 | **Housing Act** | The residential-land-tax prohibition protects the homeownership keystone; cost-of-service rules favor infill over sprawl |
-| **Infrastructure Act** | Cost-of-service assessment and 155% cost-recovery principles applied to municipal taxation and development fees |
+| **Infrastructure Act** | Cost-of-service assessment and the **155%-of-annual-maintenance** recovery principle (§4.1) applied to municipal taxation and development fees |
 
 ---
 
@@ -41,6 +41,26 @@ This act answers a question the national fiscal model leaves open: **how do the 
 ---
 
 ## Section 2: Municipal & Regional Revenue Base
+
+**Who levies what.** The taxing seam is where the corpus's errors kept surfacing, so it is stated here as one table rather than inferred from three acts.
+
+| | Federal | Region | Municipal |
+|---|---|---|---|
+| **Income tax above $100,000** | Yes — 20% / 30% / 40% (~$144B) | Yes — own rate, same base and threshold | **No** |
+| **VAT** | Yes — 3%, DLB zero-rated (~$99B) | Yes — harmonized | Yes — harmonized: **one base, one form, collected once** |
+| **Co-op profit tax** | Yes — 5% over $100k (~$20B) | **No** | **No** |
+| **Corporate profit tax** | Yes — 0/10/20/25% (~$25B) | **No** | **No** |
+| **Resource royalty** | 40% of a 12% royalty (~$14.7B) | **Owns it** — 60% (~$22.1B) | **No** |
+| **Property — commercial/industrial** | Yes — 0.75% national layer (~$19B) | Assessment coordination | Yes — cost-of-service (§2.3) |
+| **Property — residential land or primary home** | **No** | **No** | **No** |
+| **Tariffs, excise** | Yes | **No** | **No** |
+| **Debt** | **No** | **No** | **No** |
+
+Two facts in that table carry weight out of proportion to their size:
+
+- **Residential land is untaxable at every level.** Not "capped," not "restricted" — *untaxable*, by all three governments, entrenched as Chamber Act §11 Floor 2. A home cannot be lost to a bill the owner never agreed to, and no level of government has the instrument to try.
+- **Profit taxation is federal only** (§2.2). The Co-op Advantage Principle compares two rates; it can only be guaranteed where one hand sets both.
+
 
 ### 2.1 Permitted Municipal Revenue
 
@@ -57,6 +77,10 @@ This act answers a question the national fiscal model leaves open: **how do the 
 ### 2.2 Prohibited Municipal Revenue
 
 - **Residential land or primary-home tax** — absolutely prohibited (§1.2; Chamber Act §11, Floor 2).
+- **Income tax** — prohibited. The income tax is levied federally above $100,000 (Monetary Act §4) and by regions (§2.5). A municipality's base is the bounded list in §2.1 and nothing else.
+- **Profit tax** — prohibited, at this level and at the regional level (§2.5). **Profit taxation is exclusively federal.**
+
+> **Why profit taxation is federal-only, and why it is structural rather than tidy.** The **Co-op Advantage Principle** (FCL Act §3.2, entrenched as Chamber Act §11) requires that a co-op's effective burden (profit tax + commons) never exceed an identical corporation's (profit tax + SWF contribution). **That comparison is between two rates, and it can only be guaranteed where one body sets both.** If twenty regions and hundreds of municipalities could each set their own profit rates, the Principle would be unenforceable in principle — not merely unenforced, but incapable of being checked, because no one would know what "an identical-size corporation's burden" was in any given place. Concentrating profit taxation federally makes the Principle **self-enforcing: one hand sets both rates, so the comparison is arithmetic rather than litigation.**
 - **Below-cost tax breaks** — a municipality may not tax any commercial entity below its cost-of-service rate to attract or retain it (§2.3).
 - **Debt / borrowing** — prohibited (§1.1).
 - **Development fees as disguised revenue** — fees may only recover servicing cost (§2.4), never substitute for the forbidden residential tax.
@@ -79,13 +103,32 @@ This act answers a question the national fiscal model leaves open: **how do the 
 
 ### 2.5 Regional Revenue & Resource Ownership
 
-Regions fund themselves through regional commercial/industrial assessment coordination, regional infrastructure access fees (155% cost-recovery, Infrastructure Act), SWF allocations for designated programs, and — primarily — **their own resource revenue.** Regions are likewise barred from residential land tax, below-cost deals, and debt.
+Regions fund themselves through:
+
+| Source | Notes |
+|---|---|
+| **Regional income tax** | Regions levy their own, on the same base as the federal tax — **income above $100,000, formal and informal alike** (Monetary Act §4). The threshold is the CED-visibility line and is not a regional choice. |
+| **Regional VAT** | Harmonized with the municipal local VAT (§2.1) on a single base and collected once — the Canadian HST pattern. Two governments, one form, one audit. |
+| **Resource royalties and stumpage** | Regionally owned and levied — **primarily** (below). |
+| **Regional commercial/industrial assessment coordination** | Cost-of-service basis (§2.3). |
+| **Regional infrastructure access fees** | Recovering **155% of annual maintenance, annually** (Infrastructure Act §4.1) — not of construction. |
+
+**Regions may not levy a profit tax** (§2.2), may not tax residential land, may not make below-cost deals, and may not carry debt.
+
+> **What this table adds, and what it removes.** Prior drafts described the regional base as *"assessment coordination, access fees, SWF allocations for designated programs, and — primarily — their own resource revenue"* — omitting the **regional income tax and VAT entirely**, which are the two largest regional instruments, and inventing an **SWF allocation** that cannot exist: the SWF is a revolving lender and a crisis backstop, not a grant-maker to subnational governments (Monetary Act §2.1). Its only reach below the federal level is the **cross-regional emergency line** (§5; Sovereign Functions Act §5.2), which requires 5/20 Regional Boards plus the Sovereign Council 5/7 and is a loan, not an allocation.
 
 **Resource ownership (the Canadian model, corrected).** Resources developed within a region are **regionally owned and managed.** Regions levy their own **royalties, stumpage, and severance/extraction fees** as primary own-source revenue — this is a constitutional revenue right, not a reimbursement from the center.
 
-**The national cut (split at source, not reimbursement).** On the same resource activity, the sovereign takes a **defined cut at source** (Sovereign Functions Act §7), comprising:
-- The **3% resource surcharge** (Monetary Act §2.1), which flows to the SWF, and
-- **Normal corporate/co-op profit tax** on resource firms' profits (Monetary Act §4).
+**The national cut (split at source, not reimbursement).** On the same resource activity, the sovereign takes a **defined cut at source** (Sovereign Functions Act §7.1), comprising:
+- **40% of a 12% royalty** on the resource sector's ~$306.4B gross (Industry Act §3) — **~$14.7B/year**, flowing to **sovereign revenue**, and
+- **Normal corporate/co-op profit tax** on resource firms' profits (~$8B; Monetary Act §4).
+- **National resource cut: ~$22.7B/year.** The regional 60% share of the royalty — ~$22B — stays with the regions, on top of everything else in the table above.
+
+> **Two corrections, and the second is the one that mattered.** Prior drafts described the national cut as a **"3% resource surcharge... which flows to the SWF."**
+>
+> **The rate was never settled anywhere.** The 60/40 regional/national split and the 12% royalty are set in Monetary §4 and Sovereign Functions §7.1; "3% surcharge" was a figure with no derivation attached to it, sitting in three acts.
+>
+> **The destination was double-claimed.** This act and Monetary §2.1 sent the surcharge to the **SWF**, while Sovereign Functions §7 counted the same money as **sovereign revenue** — one stream, two owners, and no act aware of the other. It is **sovereign revenue.** The SWF is over-funded without it (it caps in ~2030 on ~$108B/year of contributions); the sovereign is not.
 
 The remainder of the royalty is the region's. Two levels, two streams, one activity — no reimbursement, no dependency.
 
@@ -111,7 +154,7 @@ The residential-land-tax prohibition (§1.2) protects the homeowner — but on i
 
 ## Section 3: The Mutual Equalization Funds
 
-Two mutual funds equalize within their tiers, modeled on the credit-union RLP/DIP backstop (Credit Union Act 5.7): pay-in, equalize-within-tier, no bailout without conditions, no cross-tier raiding.
+Two mutual funds equalize within their tiers, modeled on the credit-union RLP/DIP backstop (Credit Union Act 5.8): pay-in, equalize-within-tier, no bailout without conditions, no cross-tier raiding.
 
 ### 3.1 Structure
 
@@ -200,20 +243,23 @@ All ad-hoc arbitration decisions arising from equalization disputes, conditional
 | Exclusionary zoning | Barred for revenue-protection reasons (Special-Auditor enforceable) |
 | MMF formula | Per-capita-aware — residential population is a recognized cost driver |
 | Commercial/industrial tax | Permitted, cost-of-service basis |
+| **Income tax** | **Federal above $100k (Monetary §4) + regional (§2.5). Municipalities: prohibited** |
+| **Profit tax** | **Federal only.** Neither regions nor municipalities may levy it — the Co-op Advantage Principle compares two rates and holds only where one body sets both (§2.2) |
+| **VAT** | Federal 3% (DLB zero-rated) + regional/municipal harmonized on one base, collected once (§2.5) |
 | Speculative/vacant land | Taxed at premium rate |
 | Below-cost tax breaks | Prohibited (no race to the bottom) |
 | Development fees | Cost + 50%, capped at 150% of demonstrable marginal cost |
 | Sprawl | Pays full lifecycle cost-of-service |
 | Equalization | Two mutual funds (MMF, RMF), within-tier |
 | Conditionality | Formula-driven (discretionary spend within net-contributor median band) |
-| Regional resources | Regionally owned; regions levy royalties/stumpage; national 3% surcharge + profit tax is the sovereign's cut |
+| Regional resources | Regionally owned; regions levy royalties/stumpage and keep **60% of a 12% royalty** (~$22B). The sovereign's cut is the **40% share (~$14.7B) + profit tax (~$8B) = ~$22.7B**, flowing to **sovereign revenue, not the SWF** |
 | Resource equalization | Resource-rich regions = natural RMF net contributors |
 | Contributor standing | May challenge eligibility/gaming/band/cap — never line items; ad-hoc arbitration; annual transparency |
 | Fund governance | Joint contributor/recipient; Territorial Chamber confirmation |
 | Dispute resolution | Ad-hoc arbitration (Chamber §6.6); decisions logged, persuasive not binding; chambers review log and may codify patterns |
 | Incentive preservation | Taper, donor cap, recipient floor |
 | Enforcement | Special Auditors (Sovereign Functions Act §3) |
-| Lender of last resort | National SWF (Sovereign Functions Act §5), cross-regional emergency only (5/20 + Sovereign Council 5/7) |
+| Lender of last resort | National SWF (Sovereign Functions Act §5), cross-regional emergency only (5/20 + Sovereign Council 5/7) — **a loan, never an allocation** |
 | Governance | Territorial Chamber administers; Sovereign Council holds no domestic regulatory role |
 
 ---
