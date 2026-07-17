@@ -1,6 +1,6 @@
-# Crossroads Housing Act of 2025: Draft 2.5
+# Crossroads Housing Act of 2025
 
-**Draft:** 2.4 | **Date:** July 12, 2026
+**Draft:** 2.6 | **Date:** July 17, 2026
 **Author:** Thunderfish2
 
 > **Cross-reference.** Companion to the **Monetary Act 9.8**, **Credit Union Act 5.8**, **FCL Act 3.4**, the **Sovereign Functions Act**, the **Chamber Act**, **Infrastructure Act 2.6**, **Energy Act 4.3**, **Industry Act 4.4**, and the **Municipal & Regional Funding Act**. Loans are reference-rate-anchored (Monetary Act §1.5A). Data uses PPK/CED (no CWD). The currency is fiat.
