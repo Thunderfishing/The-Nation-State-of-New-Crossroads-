@@ -1,4 +1,4 @@
-# Crossroads Military Intelligence and Defense Act of 2025: Draft 1.9
+# Crossroads Military Intelligence and Defense Act of 2025
 
 **Draft:** 1.9 | **Date:** July 17, 2026
 **Author:** Thunderfish2
