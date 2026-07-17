@@ -1,4 +1,4 @@
-# Crossroads Federated Cooperatives Limited (FCL) Structure Act of 2025: Draft 3.3
+# Crossroads Federated Cooperatives Limited (FCL) Structure Act of 2025: Draft 3.4
 
 **Posted to r/Bulwarkomics**  
 **Draft: 3.3 | Date: July 11, 2026**  
@@ -93,6 +93,12 @@ Three tiers by size, revenue, and loan exposure. All pay the 5% co-op profit tax
 
 **Process:** deduct expenses → pay 5% co-op profit tax (over $100k) → allocate 5–10% patronage → 0-25% capital investment → 0–15% CCIF (voluntary) → then allocate the **remaining profit** with a commons share that **scales by the FCL's annual profit:**
 
+> **The CCIF deduction is a shelter, it is deliberate, and it is the same principle as the VAT.** Profit routed into the CCIF is deducted **before** the commons share is calculated, and nothing levies the commons on withdrawal. That is not a loophole to be closed — it is the tax architecture being consistent with itself. The federal base taxes **consumption, never capital** (Monetary §4): the VAT does that for citizens, and this deduction does it for co-ops. Capital parked in the CCIF has not been consumed; it is waiting to expand a co-op or absorb a shock. Levying it would punish precisely what every other instrument in this system rewards — the revolving line sized by reserve, the metals ETF, the patient-capital dividend.
+>
+> **What it costs, stated plainly:** the commons' healthcare slice is ~$19B against ~$448B of total healthcare funding, so the shelter's drag on the healthcare guarantee (Chamber Act §12.1) is well under **1%**, not the double digits a naive reading suggests.
+>
+> **And it is exactly why §3.8.6 is not optional.** A voluntary pool that is tax-advantaged is not voluntary in practice: everyone uses it, so it becomes systemically important **by construction**. The shelter guarantees the inflow that makes the CCIF too big to fail. Shelter and prudential rules are one package; neither is safe without the other.
+
 | Annual profit | Healthcare | Education | Charity | Commons total | Members/Investors (remainder) |
 |---|---|---|---|---|---|
 | $100k–$1M | 2% | 1% | 2% | **5%** | ~95% (members ~51% / investors ~44%) |
@@ -105,7 +111,13 @@ Three tiers by size, revenue, and loan exposure. All pay the 5% co-op profit tax
 
 > **The Co-op Advantage Principle (binding; entrenched as part of Chamber Act §11).** A co-op's effective burden (5% tax + commons contribution) shall **never exceed** an identical-size corporation's effective burden (corporate tax + SWF contribution) at any profit level. The progressive schedule above is set to stay below the corporate curve at every tier — light at the bottom (where small corporations pay ~10%), fuller at the top (where large corporations pay ~30%). If corporate rates change, the waterfall is constitutionally bound to remain below them.
 
-**System-wide commons funding:** ~**$125B/year** total (~$50B healthcare, ~$25B education, ~$50B charity), concentrated in large co-ops while protecting small ones. The healthcare allocation flows through the **National Health Board**, bound to satisfy the healthcare guarantee (Chamber Act §12.1) before any other distribution. The education allocation flows through the **National Learning Board**, bound to satisfy the education guarantee (Chamber Act §12.2).
+**System-wide commons funding:** ~**$48B/year** total (~$19B healthcare, ~$10B education, ~$19B charity), concentrated in large co-ops while protecting small ones.
+
+> **The commons is a percentage of profit, not a fixed sum — and that is what keeps the Principle self-enforcing.** Prior drafts carried ~$125B, which was an *output* of a co-op net profit figure of ~$900B that had never been rescaled from the fictional-GDP era. That figure was 9.5% of a co-op revenue line that was itself 65% of a $14.5T GDP; at the real $6T it gives **~$370B**, and an independent check from the labour share (co-op value-added $3.9T × 45% capital share × ~25% net) gives **~$440B**. Two methods, one answer: **~$400B**. The waterfall percentages then produce ~$48B on their own. **Nobody chose the smaller number; the formula did.**
+>
+> **And ~$900B failed a check the rescale made visible:** it is **15% of GDP in co-op net profit alone**, a 23% net margin on co-op value-added, against a real-world corporate benchmark of ~10–13% — and co-ops *distribute* patronage rather than retain earnings, so their measured profit belongs **below** that benchmark, not at double it.
+>
+> **The Co-op Advantage Principle settles it as arithmetic, not preference.** Against ~$400B of profit, a ~$125B commons is a **36.2% co-op burden** against a corporation's 30% — **cooperation would cost more than incorporation, and the founding thesis of the order would invert by operation of a stale figure in a table.** At ~$48B the burden is 17.0% and the Principle holds without anyone administering it. The healthcare allocation flows through the **National Health Board**, bound to satisfy the healthcare guarantee (Chamber Act §12.1) before any other distribution. The education allocation flows through the **National Learning Board**, bound to satisfy the education guarantee (Chamber Act §12.2).
 
 - **Distribution:** Standard FCLs 70% workers/30% investors; Professional FCLs 100% worker-partners (investors get non-equity profit-sharing 10–20% or loan interest 5–6%); Tier 1 voluntary.
 - **Co-op Clubs:** same split; excess to member dividends or dues reduction (~$40B/year club profits by 2075).
@@ -113,7 +125,7 @@ Three tiers by size, revenue, and loan exposure. All pay the 5% co-op profit tax
 
 ### 3.3 Funding
 
-- **Loans:** ~$294.125B from credit unions (Credit Union Act 5.7): business loans $50,000–$5M at 5–6% nominal (**reference-rate-anchored** — Monetary §1.5A). Energy FCLs funded per region.
+- **Loans:** ~**$1.21T** from credit unions (Credit Union Act 5.8) — 65% of the ~$1.86T network loan book: business loans $50,000–$5M at **reference + 2%** (~5.5%). Energy FCLs funded per region. *(Rescaled: the prior ~$294.125B was 65% of a loan book that had been reported as the credit unions' special-share capital rather than the book it supports — Credit Union Act §3.2.)*
 - **Capital investments:** 10–20% profit reinvestment; non-equity loans for professional FCLs.
 - **Revenue context:** total government revenue and the consolidated picture per the Consolidated Fiscal Model; FCLs contribute via the 5% profit tax **and** the §3.2 commons waterfall (no SWF recharge).
 
@@ -124,6 +136,8 @@ Three tiers by size, revenue, and loan exposure. All pay the 5% co-op profit tax
 - **Exchange listing:** domestic corporations may list on the **Domestic Corporate-Equity Board** (Exchange Act §3.3) with a 49% outside-ownership cap (51% insider retention).
 - **Structure:** shareholder-owned; equity via the Crossroads Global Co-op Index (CGCI); boards appoint CEOs; dividends 3–5%.
 - **Taxes (Monetary §4):** corporate profit tax **0% / 10% / 20% / 25% tiered**, plus the corporate SWF contribution (5% of profit over $10M). Total corporate tax revenue ~$25B/year.
+- **A corporate CCIF deposit does not reduce the profit its SWF contribution is computed on.** Corporations may deposit (§3.8.1) and earn the return; they do not get the co-op's shelter. The §3.2 deduction sits inside the **co-op waterfall** and stays there. This is the one asymmetry the system exists to create, and it costs nothing: corporations are not taxed more, they are simply not extended an instrument built for a form they did not take. It also gives the Co-op Chamber's approval power (§3.8.2) real content — corporations enter the pool on the co-ops' terms, for returns, not for shelter.
+- **The Co-op Advantage Principle is unaffected, in the right direction.** Co-ops shelter and corporations do not, so the co-op's effective burden falls while the corporation's holds. The advantage widens; the Principle (§3.2) cannot be breached by this.
 
 ### 3.5 Master/Grandmaster Bonuses
 
@@ -134,8 +148,8 @@ Three tiers by size, revenue, and loan exposure. All pay the 5% co-op profit tax
 
 ### 3.6 Tiered Funding Access
 
-- **Tier 1 (Micro):** microloans $1,000–$50,000 via the Regional Co-op Stabilization Fund (0–2%, unsecured, reference-rate-anchored at the low service/micro rate); no CCIF; informal-sector transition grants ($5,000–$25,000, match required).
-- **Tier 2 (Mid):** business loans $50,000–$2M (5–6% nominal, reference-rate-anchored) or Stabilization Fund (3–4%); CCIF optional; Redemption Reserve matching grants (up to $50,000/year).
+- **Tier 1 (Micro):** microloans $1,000–$50,000 via the Regional Co-op Stabilization Fund (**reference − 3.5% to reference − 1.5%**, ~0–2%, unsecured — the deepest subsidy in the system, and a stated one); no CCIF; informal-sector transition grants ($5,000–$25,000, match required).
+- **Tier 2 (Mid):** business loans $50,000–$2M (**reference + 2%**, ~5.5%) or Stabilization Fund (**reference − 0.5% to reference + 0.5%**, ~3–4%); CCIF optional; Redemption Reserve matching grants (up to $50,000/year).
 - **Tier 3 (Full):** full credit-union access; Co-op Board listing eligibility (Exchange Act §3.1); co-op bonds up to 200% of equity (Co-op Chamber approval).
 
 ### 3.7 Co-op/Corporate Joint Ventures (CCJV)
@@ -151,10 +165,31 @@ Three tiers by size, revenue, and loan exposure. All pay the 5% co-op profit tax
 
 - **3.8.1 Nature:** a **voluntary** liquidity pool where FCLs and corporate participants deposit unspent capital, earn 5–7%, and fund national-scale SWF-aligned projects. Not a tax or mandatory contribution.
 - **3.8.2 Participation:** Tier 1 exempt; Tiers 2/3 optional; corporations by Co-op Chamber approval.
-- **3.8.3 Projected scale:** ~$1.96T (FCLs) + ~$435B (corporate) ≈ ~$2.395T system-wide (assumes 5–7% returns; depends on voluntary participation).
+- **3.8.3 Projected scale:** ~**$811B** (FCLs) + ~**$180B** (corporate) ≈ ~**$991B** system-wide (assumes 5–7% returns; depends on voluntary participation). *(Rescaled from ~$2.395T: the prior figure was a financial stock derived off a GDP of $38.94T. Per the Consolidated Fiscal Model, 2025 GDP is ~$6T.)*
 - **3.8.4 Returns:** 5–7%, paid in BWC (50/50 cash/credits default; 100% cash electable); accrues daily, paid quarterly.
-- **3.8.5 Withdrawals:** anytime with 30 days' notice (up to 20% of deposit).
-- **3.8.7 Governance:** operated by the CCIF Alliance Network (Co-op Chamber oversight); annual audits via the CED; depositing FCLs elect 5 of 9 board seats (1 vote/$1M deposited, capped at 10% of voting power).
+- **3.8.5 Withdrawals:** on 30 days' notice, up to 20% of deposit **per §3.8.6's liquidity rule** — the gate is bounded by what the fund can actually pay, not by a fixed percentage of what it holds.
+
+- **3.8.6 Prudential rules.** The CCIF takes deposits, promises a return, offers a redemption window, and lends into illiquid national-scale projects. **That is a bank**, and until this draft it was a bank with no bank rules: no reserve, no loss provision, no underwriting, no supervisor, and no line in the crisis architecture. Monetary §1.8 names a GFC-2.0-style event as the system's real exposure and then did not watch the one pool shaped like one. These rules close that:
+
+  - **Liquidity requirement (the load-bearing one).** The CCIF shall hold liquid assets — BWC, credit-union deposits, and short-term reference-rate-anchored instruments — **at least equal to its callable window.** If 20% may leave in 30 days, 20% is liquid. **The mismatch was never the 20% door; it was the 20% door against a book that could not open it.** Where the liquid book falls short, the door narrows automatically until it is restored. The gate follows the assets; the assets are never asked to follow the gate.
+  - **Loss provision.** A published minimum provision against expected losses, set by asset class and taken against returns before distribution — the Credit Union Act §4.3 pattern, which already exists and works. Under-provisioning is prosecutable by the Special Auditors (Sovereign Functions Act §3), not a matter of board judgment.
+  - **Telemetry.** CCIF withdrawal velocity, liquid-ratio dispersion, and project-book concentration are added to the systemic-stress trigger set of Monetary §1.8. The pool is institutional, so this sits entirely on the elite side of the asymmetry and reaches no citizen.
+  - **No sovereign backstop, and this is deliberate.** The CCIF has no DIP cover, no RLP access, and no SWF line. **Deposits here are uninsured**, exactly like special shares (Credit Union Act §3.2) and CGCI units. Insuring the pool would remove the one thing restraining the door — the depositor's own exposure — and make the run it was meant to prevent more likely, not less. The answer to a maturity mismatch is to end the mismatch, not to guarantee it.
+  - **The rules are the price of the shelter.** §3.2's deduction guarantees the inflow that makes this pool systemically important. A fund that large, that concentrated, and that liquid on demand cannot be governed by good intentions.
+
+- **3.8.7 Governance.** Operated by the CCIF Alliance Network (Co-op Chamber oversight); annual audits via the CED; **depositing FCLs elect 5 of 9 board seats.** Corporate participants (§3.8.2) deposit and earn but **do not vote** — capital may flow through the pool and may never become a vote in it (Chamber Act §11, Floor 5), exactly as with CGCI units and credit-union special shares.
+
+  **Voting weight (FCLs):**
+
+  | Deposit | Votes |
+  |---|---|
+  | Any depositing FCL | **1** |
+  | $10M+ | **2** |
+  | $100M+ | **3** (cap) |
+
+  > **Why this replaces "1 vote per $1M, capped at 10%."** The old rule compressed nothing and capped nothing. **It took ~$99B from a single member to reach the 10% ceiling — 183× the average deposit** — so the cap was decorative: it bound at a level no member ever reached, while the underlying 1-vote-per-$1M scale let capital speak in direct proportion to itself. The tiers above compress a **1000:1 range of capital into 3:1 of voice**, and they bind at $1M, $10M, and $100M — numbers real members actually sit at. **A cap that binds is worth more than a cap that is large.**
+  >
+  > In practice the tiers collapse toward parity: the average member holds ~$541M, already in the top band, so most depositors hold 3 votes and the pool governs itself roughly one member, one vote — the co-op principle, restored by structure rather than policed by a ceiling. **Every depositing FCL gets a vote**, including those below $1M, on the same logic as the credit-union base share: the vote comes with membership, not with size.
 - **3.8.8 Relation:** separate from the Redemption Reserve; may backstop the Co-op Board (Exchange Act §3.1).
 
 ---
@@ -177,7 +212,9 @@ Three tiers by size, revenue, and loan exposure. All pay the 5% co-op profit tax
 
 ## Section 5: Sustainability and Regional Integration
 
-- **Sustainability:** FCLs implement ~$50B/year SWF projects (greenhouses, recycling hubs, CO₂ pipelines, renewables, housing $150B/year, eco-zones), funded by the SWF and voluntary CCIF deposits.
+- **Sustainability:** FCLs implement ~$50B/year of national sustainability projects (greenhouses, recycling hubs, CO₂ pipelines, renewables, eco-zones), funded by **general revenue** (Sovereign Functions Act §7.3) and voluntary CCIF deposits. Co-op housing construction is separate and is **revolving SWF lending** — ~$9B at founding, ~$88B at maturity (Housing Act §3.4, §8).
+
+  > *Prior drafts read "~$50B/year SWF projects... housing $150B/year, funded by the SWF." Both figures were wrong and in the same direction. Sustainability is **general-revenue spending**, not an SWF allocation — the SWF lends and is repaid; it does not fund the state's programmes (Monetary §2.1). And the housing figure was never $150B/year: that was ~17× the nation's entire housing output and 65% of the whole SWF corpus annually (Housing §8).*
 - **SMSWF:** funds 25 mining FCLs (Region 3; ~250,000 oz gold, ~2.5M oz silver/year; ~$470M profit, scaling toward ~$5B), feeding credit unions (~$1.736B/year) and the Citizens' Metals ETF.
 - **Regional roles:** retail (R1), nuclear (R2), mining (R3), agriculture (R5), timber/glaciers (R7), plains (R9–12) — integrated with the parkweb and infrastructure.
 
@@ -190,16 +227,18 @@ Three tiers by size, revenue, and loan exposure. All pay the 5% co-op profit tax
 | Core FCLs | 195,100 (~9,755/region) | scales with population |
 | Co-op Clubs | 27,600 (~1,380/region) | scales with population |
 | Total Cooperative Entities | 222,700 | — |
-| Co-op sector revenue (baseline) | ~$9.425T | scales (co-op dominant by design) |
+| Co-op sector value-added | ~**$3.9T** (~65% of GDP) | ~$12.4T (co-op dominant by design) |
+| **Co-op net profit** | ~**$400B** (~10.3% margin on value-added; ~6.7% of GDP) | scales |
+| Co-op profit tax (5%) | ~**$20B** | scales |
 | Co-op Profit Tax | 5% over $100k | same |
 | SWF Contribution | 0% (co-ops fund commons via §3.2 waterfall) | same |
-| Commons via progressive waterfall | ~$125B/year (~$50B health / ~$25B edu / ~$50B charity) | scales |
-| FCL Loans | ~$294.125B | scales |
-| CCIF (voluntary, projected) | ~$2.395T | scales |
-| Co-op Exports | ~$2.036T | ~$5.5T |
-| Co-op Resources | ~$274B | ~$740B |
+| Commons via progressive waterfall | **~$48B/year** (~$19B health / ~$10B edu / ~$19B charity) — a **percentage of ~$400B of co-op net profit**, not a fixed sum; it rescales with the profit pool | scales |
+| FCL Loans | ~**$1.21T** (65% of the ~$1.86T network book) | ~$3.83T |
+| CCIF (voluntary, projected) | ~**$991B** (~$811B FCL + ~$180B corporate) | scales |
+| Co-op Exports | ~**$843B** (~14% of GDP) | ~$2.28T |
+| Co-op Resources | ~$274B — **see note** | ~$740B |
 | Patronage Returns | ~$862.5M/year | ~$2.3B/year |
-| Loan rates | Reference-rate-anchored (Monetary §1.5A) | same |
+| Loan rates | **reference + 2%** (~5.5%) standard; Tier 1 micro at reference − 3.5% to − 1.5%. Reference rate ~3.5% (Monetary §1.5A) | same |
 | Corporate tax | 0/10/20/25% (Monetary §4) | same |
 | Co-op Board (Exchange) | Exchange Act §3.1 | same |
 | Co-op Chamber | 300 members: 200 co-op delegates (collectively elected by Tier-2+ FCL boards) + 100 wildcards (directly elected by universal citizen vote) — Chamber Act §4.1 | same |
@@ -208,13 +247,17 @@ Three tiers by size, revenue, and loan exposure. All pay the 5% co-op profit tax
 | Entrenched floors | 12 (Chamber Act §11); protected guarantees: 4 (Chamber Act §12); corporate governance = §12.3 | same |
 | Governance | Sovereign Council (7) + Territorial Chamber (220) + Co-op Chamber (300) + Corporate Chamber (100) + universal citizen vote | same |
 
+> **Note — this figure caught an error in another act, and it has been fixed there.** This act reports ~$274B of co-op resource activity. The Industry Act's §3 headline stated the whole resource sector grossed ~$213.28B — so a part exceeded its whole. Industry §3.1–3.5 sum to **~$306.4B**, which the $274B fits inside at ~89%, plausible for a co-op-dominant economy. Two witnesses against one: **the headline was the error.** Industry Act §3 (Draft 4.5) now reads ~$306.4B, and the national resource cut rises accordingly to **~$22.7B** (Monetary §4; Sovereign Functions §7.1). This act's figure stands unchanged.
+
+> **Note — CCIF participation is 2.5%, and the shelter is why.** Parks Act §5.4 reports **1,832 CCIF members**. Tier 1 is exempt (§3.6), leaving ~72,700 eligible entities — so participation is **~2.5%**, at an average deposit of ~$541M. The CCIF is not a co-op-sector pool; it is a **large-co-op pool**, because 15% of a small co-op's profit is nothing while 15% of a large one's is hundreds of millions. That is not an argument against the shelter (§3.2), but it means 5 of 9 seats on the country's largest capital allocator are elected by 2.5% of the sector. The §3.8.7 tiers fix the *voice* of those who are in; they do not reach *who is in*. Logged as open.
+
 ---
 
 ## Appendix B: Tier Distribution Detail (2025)
 
 | Tier | Est. FCLs | Governance | Patronage | CCIF | Loan rate | Chamber representation |
 |---|---|---|---|---|---|---|
-| Tier 1 (Micro) | ~150,000 | No board | Voluntary | Exempt | Low service/micro (ref-rate-anchored) | Via universal citizen vote only |
+| Tier 1 (Micro) | ~150,000 | No board | Voluntary | Exempt | reference − 3.5% to − 1.5% (~0–2%) | Via universal citizen vote only |
 | Tier 2 (Mid) | ~35,000 | 3–5 board | Required | Optional | Standard (ref-rate-anchored) | Participates in collective election of Co-op Chamber delegates |
 | Tier 3 (Base) | ~9,100 | 5–7 board | Required | Optional | Standard (ref-rate-anchored) | Participates in collective election of Co-op Chamber delegates |
 | Tier 3 (Heavy Industry) | ~1,000 | 7–11 board | Required | Optional | Standard (ref-rate-anchored) | Participates in collective election of Co-op Chamber delegates |
@@ -248,4 +291,4 @@ That is the FCL Act.
 
 ---
 
-**End of Draft 3.3**
+**End of Draft 3.4**
