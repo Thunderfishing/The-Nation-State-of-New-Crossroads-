@@ -1,6 +1,6 @@
 # Crossroads Chamber and Citizen Representation Act
 
-**Cross-reference.** Companion to the Sovereign Functions Act (defense, the Special Auditors, the judiciary — regional courts, appellate circuits, and Supreme Court — the SWF, the four executive bureaus — Treasury, Foreign Affairs Bureau, National Lands & Commons Bureau, Transport Bureau), the Credit Union Act 5.7, the FCL Act 3.3, the Monetary Act 9.7 (the age-20 endowment, the two-taps rule, the PPK/CED), the Municipal & Regional Funding Act 1.2, the Exchange Act 1.2 (the Crossroads Exchange; Treasury's Capital Markets Bureau provides continuous market supervision), the Healthcare Act and Education Act (whose boards set the essential schedules the §12 guarantees bind), and the Military & Intelligence Act 1.7 (the militia and the arms context of Floor 7). The independent regulatory boards chartered under §7 are defined operationally in the Energy, Healthcare, Education, Communications, Infrastructure, Industry, and Housing Acts. The Election Integrity Commission (§9.5) supplements the paper-ballot rotation with continuous infrastructure monitoring. The committee-referral mechanism (§6.7) creates the formal accountability link between oversight committees and the Special Auditors.
+**Cross-reference.** Companion to the Sovereign Functions Act (defense, the Special Auditors, the judiciary — regional courts, appellate circuits, and Supreme Court — the SWF, the four executive bureaus — Treasury, Foreign Affairs Bureau, National Lands & Commons Bureau, Transport Bureau), the Credit Union Act 5.8, the FCL Act 3.4, the Monetary Act 9.8 (the age-20 endowment, the two-taps rule, the citizen revolving credit line, the PPK/CED), the Municipal & Regional Funding Act 1.3, the Exchange Act 1.6 (the Crossroads Exchange; Treasury's Capital Markets Bureau provides continuous market supervision), the Healthcare Act and Education Act (whose boards set the essential schedules the §12 guarantees bind), and the Military & Intelligence Act 1.9 (the militia and the arms context of Floor 7). The independent boards on the §7 registry are defined operationally in the Energy, Healthcare, Education, Communications, Infrastructure, Industry, and Housing Acts, and — for the CLS Board — in the Credit Union Act §5.5. The Election Integrity Commission (§9.5) supplements the paper-ballot rotation with continuous infrastructure monitoring. The committee-referral mechanism (§6.7) creates the formal accountability link between oversight committees and the Special Auditors.
 
 **This act is deliberately separate from the Sovereign Functions Act.** They are ratified together but are not one document. This act is the source — the chambers and the citizens — beneath which the sovereign is the residue. §11 of this act holds the entrenched floors and §12 holds the protected guarantees; both bind the sovereign and the chambers alike.
 
@@ -190,11 +190,13 @@ A national law is drafted in the chambers and must satisfy both axes — the ter
 
 | Review item | Cycle | Responsible body |
 |---|---|---|
-| Regulatory board fee structures and rule frameworks (§7) | Biennial | Territorial + relevant productive chamber |
+| Regulatory board fee structures and rule frameworks (§7) | Biennial | Territorial + relevant productive chamber. *(The CLS Board is excluded — it sets no fees and levies only dues on its own electorate; §7.4.)* |
 | Transmission access fee bands (Energy Act §2.2) | Biennial | Territorial + relevant productive chamber |
 | Reference rate band widths (Monetary Act §1.5A) | Biennial | Territorial Chamber (15/20) |
+| Loan loss reserve minimums (Credit Union Act §4.3) | Biennial | Territorial Chamber (15/20) |
+| Revolving-credit-line formula parameters (Monetary Act §1.6A) | Biennial | Territorial + relevant productive chamber |
 | DLB methodology (Monetary Act §1.4) | 5-year | Territorial Chamber (15/20) |
-| Board and commissioner reconfirmations | Per vacancy or 7-year term expiry | Per §7 appointment rules |
+| Board and commissioner reconfirmations | Per vacancy or 7-year term expiry | Per §7 appointment rules. *(CLS Board commissioners are elected by the corps, not confirmed — §7.4.)* |
 | PMI-triggered sector reviews (Monetary Act §1.7) | As triggered | Territorial commissions; Co-op Chamber provides input |
 | Cash denomination adjustment (Monetary Act §1.1) | Biennial | Territorial Chamber (15/20) |
 
@@ -255,7 +257,7 @@ A legislative or regulatory deadlock — two bodies stuck, unable to reach agree
 - The **three-person tribunal** hears both sides, weighs the arguments, and issues a **binding decision**.
 - The tribunal **dissolves** after the decision. There is no permanent staff, no standing budget, no institutional memory that accumulates power. The process is pure arbitration — two sides, stuck, bring their case; three people, drawn from the economy, decide it; everyone goes home.
 
-**What triggers it:** a legislative deadlock between chambers, a regulatory deadlock between a board and its paired body, an MMF/RMF conditionality dispute, a contributor-standing challenge, a CCJV dispute, or an Exchange enforcement appeal. Two sides, genuinely stuck, need a decision.
+**What triggers it:** a legislative deadlock between chambers, a regulatory deadlock between a board and its paired body, an MMF/RMF conditionality dispute, a contributor-standing challenge, a CCJV dispute, an Exchange enforcement appeal, a CLS Board disciplinary or jubilee-determination appeal (Credit Union Act §5.4, §5.5). Two sides, genuinely stuck, need a decision.
 
 **What the arbitration process may never do.** The tribunal adjudicates the dispute before it. It may not be delegated legislative, regulatory, or policy-making authority by any chamber, and a law that purports to delegate substantive policy determination to an arbitration tribunal is **void**. The tribunal resolves what the chambers produced; it never fills in what they did not bother to decide.
 
@@ -279,7 +281,7 @@ The Special Auditors are prosecutors — they investigate wrongdoing after the f
 
 **Sizing.** Each committee seats between 9 and 15 members. The chartering resolution sets the size; changes require a simple Territorial Chamber majority. The one-third productive-chamber draw is calculated against the set size.
 
-**Powers.** Subpoena power within their domain — may compel testimony from any official, board commissioner, Sovereign Council member, Treasury officer, CLS senior, or fund manager. May not freeze assets or bring charges — that is the auditors' function.
+**Powers.** Subpoena power within their domain — may compel testimony from any official, board commissioner, Sovereign Council member, Treasury officer, CLS senior, CLS Board commissioner, or fund manager. May not freeze assets or bring charges — that is the auditors' function.
 
 **Public hearings.** Public by default. The Intelligence & Security Committee is the one exception, with classified sessions published in redacted form.
 
@@ -291,15 +293,15 @@ The Special Auditors are prosecutors — they investigate wrongdoing after the f
 
 **The committees:**
 
-**Public Accounts Committee.** All public spending — the sovereign's budget against the 4% cap, SWF deployments, commons-waterfall allocations, equalization-fund draws, and the Defense Fund. Paired with the Special Auditors — the auditors investigate and report, the committee interrogates and publishes.
+**Public Accounts Committee.** All public spending — the sovereign’s **operations** budget against the 4% cap (§7.2 defines “operating” — operations ~$180B at 3.0% of GDP; transfers ~$215B are outside it), SWF deployments, commons-waterfall allocations, equalization-fund draws, and the Defense Fund. Paired with the Special Auditors — the auditors investigate and report, the committee interrogates and publishes.
 
 **Defense & Foreign Affairs Committee.** Military command, treaty negotiations, the CMIS wall, the global-segment statecraft powers, and defense-fund spending.
 
 **Intelligence & Security Committee.** CMIS and the architectural separation between cyber-defense and domestic surveillance. Classified; reports redacted.
 
-**Economic Affairs Committee.** The reference rate, the DLB methodology, the PPI, the issuance anchor, and Treasury's conduct. The monetary-policy oversight body.
+**Economic Affairs Committee.** The reference rate, the DLB methodology, the PPI, the issuance anchor, and Treasury's conduct. The monetary-policy oversight body. The revolving-credit-line formula (Monetary Act §1.6A) is Treasury's published rule and is scrutinized here.
 
-**Financial Services & Mutual Funds Committee.** The credit-union network, RLP/DIP, MMF/RMF, CCIF, the Exchange, Treasury's Capital Markets Bureau, and the CLS corps. CLS integrity monitoring lives here.
+**Financial Services & Mutual Funds Committee.** The credit-union network, RLP/DIP, the loan loss reserve minimums (Credit Union Act §4.3), MMF/RMF, **the CCIF and its §3.8.6 prudential rules** (FCL Act), the Exchange, Treasury's Capital Markets Bureau, the CLS corps, and **the CLS Board** (§7.4). CLS integrity monitoring lives here — both the corps' conduct and the conduct of the board that licenses it.
 
 **Health & Education Committee.** The NHB and NLC, the §12.1 and §12.2 guarantee verification, and the commons-waterfall allocation to healthcare and education.
 
@@ -331,9 +333,26 @@ The Special Auditors are prosecutors — they investigate wrongdoing after the f
 
 ## Section 7: The Independent Board Registry
 
-Seven independent regulatory boards — NEB (energy), NHB (health), NLC (learning), NCB (communications), NInfraB (infrastructure), NIB (industry), NHA (housing) — each an identical 11-member template. The sovereign is barred from domestic regulation (Sovereign Functions Act §8), so board appointment is a chamber function.
+**Eight independent boards** sit on this registry:
 
-### 7.1 The Uniform Rule
+| Board | Domain | Defining act |
+|---|---|---|
+| NEB | Energy | Energy Act |
+| NHB | Health | Healthcare Act |
+| NLC | Learning | Education Act |
+| NCB | Communications | Communications Act |
+| NInfraB | Infrastructure | Infrastructure Act |
+| NIB | Industry | Industry Act |
+| NHA | Housing | Housing Act |
+| **CLS Board** | **Loan-officer licensing** | **Credit Union Act §5.5** |
+
+The first seven are **sector regulators** and share an identical 11-member template (§7.1). The eighth is a **professional licensing body** and follows a different rule (§7.4) — the difference is deliberate and is explained there.
+
+The sovereign is barred from domestic regulation (Sovereign Functions Act §8), so board appointment is a chamber function — except where, as with the CLS Board, chamber appointment would itself be the conflict the board exists to prevent.
+
+### 7.1 The Uniform Rule (the seven sector boards)
+
+*This rule governs the seven sector boards. The CLS Board licenses a profession rather than regulating an industry and follows §7.4.*
 
 - Composition: 11 members — 6 regional representatives, 4 experts, 1 chairman.
 - Experts drawn from the regional advisory layer (§8).
@@ -343,7 +362,11 @@ Seven independent regulatory boards — NEB (energy), NHB (health), NLC (learnin
 
 ### 7.2 The Charter Bar
 
-A new board may be chartered only for a genuine natural-monopoly or standards-setting domain, by supermajority of the territorial chamber and the relevant productive chamber(s), plus a simple-majority national referendum. The registry lists all chartered boards; the list is public; collisions are resolved at charter. The supermajority-plus-referendum bar is sufficient discipline against proliferation.
+**The founding set.** The eight boards on this registry are **founding instruments**, established operationally in their defining acts and ratified with the order itself. This section governs boards chartered **after** founding. It is a proliferation brake, not a retrospective condition: the founding eight were not chartered by referendum and require none.
+
+**New boards.** A new board may be chartered only for a genuine natural-monopoly, standards-setting, or professional-licensing domain, by supermajority of the territorial chamber and the relevant productive chamber(s), plus a simple-majority national referendum. The registry lists all chartered boards; the list is public; collisions are resolved at charter. The supermajority-plus-referendum bar is sufficient discipline against proliferation.
+
+**Scope expansion.** An existing board that seeks to act beyond its chartered domain must clear the same bar. A board may not grow into a new domain by interpretation.
 
 ### 7.3 The NEB Special Case
 
@@ -352,6 +375,22 @@ The NEB owns the state grid infrastructure, operates the 56 GW of hub SMRs, sets
 - Fee-setting proposed by DLB-indexed formula, ratified by the relevant chamber (never set by the NEB alone). Revenue allocation fixed by statute (50% maintenance, 30% SWF, 20% citizen credits).
 - A hard wall separates civilian reactors (NEB) from weapons-grade material (Sovereign Functions Act / Military).
 - Standing checks: the Special Auditors and the **Energy & Infrastructure Committee** (§6.7).
+
+### 7.4 The CLS Board Special Case
+
+The CLS Board (Credit Union Act §5.5) sits on this registry but does not follow the §7.1 template, and the difference is structural rather than an oversight. **The other seven boards regulate an industry; the CLS Board licenses a profession.** A body setting standards for the grid must be independent of the generators. A body holding a loan officer's licence must be independent of the loan officer's *employer* — a different independence, reached a different way.
+
+**What it is for.** A CLS senior determines whether a failing enterprise was unlucky or badly run, and that determination converts a bad loan into Freedom Share equity for the credit union (Monetary Act §2.2). The credit union is the beneficiary of the answer. Whoever pays, oversees, or licenses the person giving the answer therefore cannot be that beneficiary — nor anyone the beneficiary chooses. The working model is the bar association: the firm pays the wage, the bar holds the licence, and the member pays for the bar.
+
+- **Composition:** 11 commissioners, staggered terms. **No regional-representative seats and no expert seats** — because the electorate *is* the expertise: every voter is a licensed practitioner. The Board elects its own chair annually (the §9.5 pattern).
+- **Selection — the corps elects its own.** Licensed agents elect the commissioners: **one licensed agent, one vote**, regardless of grade. Candidacy is credential-gated against the published standard, verified as a yes/no eligibility check.
+- **No chamber nomination or confirmation.** The §7.1 appointment chain does not apply, and its absence is the point. A licensing body nominated by the Territorial Chamber and confirmed by the productive chambers answers to the legislature — and the whole value of the licence is that it answers to nobody who gains from how it is used. Nor may credit-union boards nominate: five thousand employers collectively selecting the body that licenses their employees is the same conflict with a longer chain.
+- **Funding: agent dues only.** No chamber appropriation, no SWF line, no credit-union levy (Credit Union Act §5.5). Its budget cannot be starved by any institution it disciplines nor by any body it might rule against. The §6.2 biennial review of board fee structures does not reach it: there are no fees, only dues, and the dues are set by a board whose entire electorate pays them — an inflated due is a self-inflicted wound on the voters who levy it.
+- **Removal and recall:** the §9.3 standard applies unchanged — the electing body may recall by 2/3 supermajority. Here the electing body is the corps. Removal is also available on cause established by a Special-Auditor investigation, as with any board.
+- **Scope bar (load-bearing).** Standards, academy, licensing, discipline, and jubilee adjudication. **Never** loan policy, deposit or loan rates, sector allocation, lending targets, or the revolving-credit-line formula — those stay with the ~5,000 credit-union boards and, for the line formula, with Treasury by published national rule (Credit Union Act §4.4, §5.5, §6.1). Expansion requires the §7.2 bar. Without this, a board licensing every loan officer in the country becomes a national credit-allocation authority — precisely what a decentralized network of 5,000 institutions exists to prevent.
+- **Standing checks:** the **Financial Services & Mutual Funds Committee** (§6.7) scrutinizes the Board in public session; the Special Auditors may open its books on their own initiative; its disciplinary and adjudicative decisions are appealable to ad-hoc arbitration (§6.6), with procedural appeal to the judiciary.
+
+**Why it is on this registry at all.** Because the registry is the public list of every independent board in the order, and a body that can end a career belongs on a list somebody reads. Listing it also subjects it to the §7.2 expansion bar and to the same standing oversight as every other board. It is here because it is different, not despite it. The tradeoff this arrangement accepts is named in Appendix A, item 10.
 
 ---
 
@@ -364,10 +403,11 @@ Expertise advises; membership governs.
 - Advisory bodies may weight seats by expertise. They advise the boards and nominate candidates for board and Regional-Board seats.
 - The chambers are membership-based, never expertise-weighted.
 - **The multiple-nominee rule.** Advisory bodies submit **at least three nominees** per vacancy. The confirming body may choose any or request more, but **may not confirm anyone not submitted.**
+- **Exception — the CLS Board.** The advisory layer does not nominate to the CLS Board, and the multiple-nominee rule does not apply to it. Its members are elected by the licensed corps (§7.4). This is not a departure from the two-tier rule but an application of it: the CLS Board is a membership body, and its membership is the profession.
 
 ### 8.2 The Credentialing Principle
 
-The journeyman/master/grandmaster ladder is a labor credential, not a political one. It may seat a practitioner on an advisory body but never seats anyone in a chamber.
+The journeyman/master/grandmaster ladder is a labor credential, not a political one. It may seat a practitioner on an advisory body but never seats anyone in a chamber. A CLS licence is the same species: it seats an agent in the corps' own election (§7.4) and nowhere else in the order.
 
 ### 8.3 The School-Board Military Liaison
 
@@ -387,7 +427,7 @@ If 3 nominees are each rejected, the confirmer must confirm one of those 3 withi
 
 ### 9.3 The Recall Standard
 
-Every electing body may recall its officials by 2/3 supermajority. Uniform across all recalls — chamber members, wildcards, board commissioners, regional prosecutors, and the Sovereign Council.
+Every electing body may recall its officials by 2/3 supermajority. Uniform across all recalls — chamber members, wildcards, board commissioners (including CLS Board commissioners, recalled by the licensed corps that elected them), regional prosecutors, and the Sovereign Council.
 
 ### 9.4 The Paper-Ballot Rotation
 
@@ -485,9 +525,9 @@ These govern substance — things that may never be traded away, by any majority
 
 **Cluster A — The Economic and Commons Floors**
 
-**Floor 1 — The Informal Economy Guarantee.** Cash commerce at or below the DLB threshold is never taxed, tracked, or surveilled (Monetary §1A).
+**Floor 1 — The Informal Economy Guarantee.** Cash commerce at or below the DLB threshold is never taxed, tracked, or surveilled (Monetary §1A). The prohibition on constructing any credit bureau, credit score, credit file, or credit history (Monetary §1A.2) sits within this floor: a credit file is a surveillance record of economic life by another name, and the order builds none.
 
-**Floor 2 — The Three-Part Home Doctrine.** The primary residence is never taxed (Municipal §1.2), never arbitrarily taken (only under the bounded takings power — public infrastructure only, market-plus-10%, no private-to-private, judicial ratification, Sovereign Functions Act §4.3), and never surveilled (Link-Box-only; who pays rent to whom is Link-Box-only, Housing §1.1).
+**Floor 2 — The Three-Part Home Doctrine.** The primary residence is never taxed **at any level — federal, regional, or municipal** (Municipal & Regional Funding Act §2.2; Sovereign Functions Act §8.2), never arbitrarily taken (only under the bounded takings power — public infrastructure only, market-plus-10%, no private-to-private, judicial ratification, Sovereign Functions Act §4.3), and never surveilled (Link-Box-only; who pays rent to whom is Link-Box-only, Housing §1.1).
 
 **Floor 3 — Vote Privacy.** The order records only whether a citizen voted, never how; no vote content enters the CED. Reached only through the Link Box.
 
@@ -583,8 +623,8 @@ Referenced in Sovereign Functions Act §8 alongside the floors.
 | Productive (form) | Corporate Chamber (100; 67 + 33 wildcard) | The disciplined corporate economy | Corporate boards (w/ worker seats) |
 | Productive routing | Both chambers default; single if exclusive | Two-axis satisfaction | Judiciary classifies disputes; presumption favors both |
 | Oversight | 8 committees (9–15 members each; open registry, §6.7) | Scrutiny of sovereign, boards, funds, Exchange | Chartered by Territorial; up to 1/3 from productive; referral mechanism to Special Auditors |
-| Regulatory | 7 independent boards (§7) | Physical/standards commons | Territorial nominates, both productive confirm (default) |
-| Advisory | RHAs / RMAs / REAs / Sector Councils (§8) | Expertise | Expertise-weighted; advise and nominate only |
+| Regulatory | **8 independent boards (§7)** — 7 sector regulators + the CLS Board | Physical/standards commons; loan-officer licensing | Sector boards: Territorial nominates, both productive confirm (default). **CLS Board: elected by its own licensed corps, funded by its own dues, confirmed by nobody (§7.4)** |
+| Advisory | RHAs / RMAs / REAs / Sector Councils (§8) | Expertise | Expertise-weighted; advise and nominate only (CLS Board excepted, §8.1) |
 | Regional justice | Regional prosecutors (§3.5) | Ordinary criminal law | Regional Board appoints, productive confirms |
 | Judiciary | Regional courts (200) + Appellate circuits (25) + Supreme Court (7) | Justice at three levels | Territorial nominates/appoints; both productive confirm; terms and staggering per Sovereign Functions Act §4.1 |
 | Executive | Sovereign Council (7; 6 in two staggered classes + 1 wildcard) | The thin sovereign | Territorial nominates, both productive confirm; wildcard direct; staggered terms per Sovereign Functions Act §6.2 |
@@ -596,8 +636,12 @@ Referenced in Sovereign Functions Act §8 alongside the floors.
 | Small-actor protection | Universal vote required for Tier-1/informal obligations (§4.3) | The informal economy and micro-co-ops | Burden on enacting body; pre-enactment certification; severability; prospective standing |
 | Outer limit | Entrenched Floors (§11; 12 floors) | What no majority may touch | 75% referendum to breach |
 | Protected | Guarantees (§12; 4 items) | What the state must always provide | Middle bar to weaken |
+| **Federal revenue** | **~$427B** | VAT 4% + income >$100k + corporate profit + tariffs + resources + co-op profit + property + excise | |
+| **Federal spending** | **~$395B** | **Operations ~$180B** (3.0% of GDP, inside the 4% cap) + **Transfers ~$215B** (outside it; §7.2 test: who chooses the recipient?) | |
+| **Citizen dividend** | **~$135B/yr** (~$1,208/citizen) | Once the SWF caps (~2029) — the only channel reaching the informal economy | |
+| **Profit taxation** | **Federal only** | The Co-op Advantage Principle compares two rates; it holds only where one body sets both (Municipal & Regional Funding Act §2.2) | |
 
-**Every chamber is one-third wildcards. Wildcard terms: 5 years, 3-term cap. Territorial Chamber sits quarterly (§3.4). No citizen may hold more than one chamber seat (§2.3).**
+**Every chamber is one-third wildcards. Wildcard terms: 5 years, 3-term cap. Territorial Chamber sits quarterly (§3.4). No citizen may hold more than one chamber seat (§2.3). The eight boards are founding instruments; §7.2's charter bar governs the ninth and after.**
 
 ---
 
@@ -613,7 +657,9 @@ New Crossroads builds its legislature from the economy's own self-governing inst
 
 - **The favored form is favored out loud.** Co-ops carry more political weight than corporations, and the constitution does not pretend this is neutral.
 
-- **Someone is always watching.** Eight oversight committees question every organ of the state in public session — the sovereign's military command, the NEB's grid monopoly, the SWF's deployments, the CLS corps' lending patterns, the Exchange's firewall, the chambers' own ethics. When committees find wrongdoing, the referral mechanism compels the Special Auditors to engage — to investigate or to explain, publicly, why they will not.
+- **The licence and the wage answer to different masters.** The eighth board licenses the loan officers who decide which failing enterprise was unlucky and which was badly run — an answer that hands the lender equity. Their employers pay them; their profession licenses them; they pay for their profession; and their profession is elected by them. Nobody who gains from the answer holds power over the person giving it. It is the only board on the registry that no chamber confirms, and that is the whole point of it.
+
+- **Someone is always watching.** Eight oversight committees question every organ of the state in public session — the sovereign's military command, the NEB's grid monopoly, the SWF's deployments, the CLS corps' lending patterns and the board that licenses it, the Exchange's firewall, the chambers' own ethics. When committees find wrongdoing, the referral mechanism compels the Special Auditors to engage — to investigate or to explain, publicly, why they will not.
 
 - **Justice is local.** Regional prosecutors sit close to the community, independent of police, accountable through recall. The Special Auditors handle institutional crime; the prosecutors handle everything else.
 
@@ -629,7 +675,7 @@ New Crossroads builds its legislature from the economy's own self-governing inst
 
 - **The small actor is shielded by presumption.** Any measure that touches Tier-1 micro-co-ops or the informal economy is presumed to impose an obligation unless the enacting body proves otherwise. The burden is on power, not on the market stall. Severability ensures that a useful regulation reaching too far is trimmed, not destroyed.
 
-The chambers draft; the citizens override; the committees watch and refer; the expert advises; the prosecutor investigates or explains why not; the tribunal resolves when the rest are stuck; the commission inspects the vote's machinery; and the home, the ballot, the river, the clinic, the school, the press, and the arms stand outside the reach of every vote. Place and form both speak, and the person has the last word.
+The chambers draft; the citizens override; the committees watch and refer; the expert advises; the prosecutor investigates or explains why not; the tribunal resolves when the rest are stuck; the commission inspects the vote's machinery; and the home, the ballot, the river, the clinic, the school, the press, the credit file that does not exist, and the arms stand outside the reach of every vote. Place and form both speak, and the person has the last word.
 
 ---
 
@@ -652,6 +698,14 @@ The chambers draft; the citizens override; the committees watch and refer; the e
 **8. The Codex Centennial Review Commission holds referral power over proven law.** The vulnerability: a centennial commission could be captured by interests seeking to strip protections that have endured for decades, or could over-prune laws that remain useful but appear archaic. The mitigations: the commission refers but does not repeal — the chambers must ratify removal through the middle bar (supermajority + referendum); the commission's composition is trilateral (Territorial, Productive, Supreme Court), reducing single-faction capture; and the judiciary retains review over any removal that a citizen challenges as inconsistent with a floor or guarantee.
 
 **9. The one-seat rule prevents dual representation but creates a selection incentive.** A talented citizen must choose their most influential seat rather than serving where most needed. The tradeoff is accepted because the alternative — allowing a single person to hold seats in two chambers — concentrates representation and undermines the separation between the place axis and the form axis.
+
+**10. The CLS Board is a self-regulating profession, and it carries that model's characteristic failure.** The corps elects its own board, funds it from its own dues, and licenses itself. This is the bar-association arrangement and it inherits the bar association's known vulnerability: **professions protect their members.** Two specific risks follow. First, **closing ranks** — a corps that quietly declines to strike off a bad agent, because the agent is a colleague and the complainant is an enterprise. Second, and less obvious, **the guild move**: the Board sets the credential standard, and a standard can be raised to restrict entry and lift the wages of those already inside. Neither risk is speculative; both are what self-regulating professions have historically done.
+
+The arrangement is nonetheless the least-bad option available, and the reason is that every alternative is capture by an *interested* party. A licensing body appointed and confirmed by the chambers answers to the legislature. One funded or elected by credit unions answers to the employers whose Freedom Shares the licensee's determination creates — the beneficiary selecting the judge. One funded by the SWF answers to whoever writes the appropriation. Self-regulation is capture by a *disinterested* party: the corps has no stake in whether a particular enterprise is found unlucky or badly run, because the agent's compensation attaches to a recovery rather than a grant (Credit Union Act §5.4). The corps' interest is in its own standing, its own fees, and its own numbers — which are the wrong things to be interested in, but they are at least not the *specific* thing the determination decides.
+
+The mitigations are real but partial, and they are named rather than claimed as a solution: the **scope bar** (§7.4 — the corps may protect its members but may never allocate credit, set rates, or touch the line formula, so guild capture cannot become economic capture); the **Special Auditors'** self-initiating jurisdiction over the Board's own books; the **Financial Services & Mutual Funds Committee's** public scrutiny of the Board itself and not only the corps; **arbitration appeal** for any disciplined agent or denied enterprise, with procedural appeal to the judiciary; the **2/3 recall** available to the corps against its own commissioners (§9.3); and the fact that the **Academy is funded by a pooled network levy rather than by the corps** (Credit Union Act §5.3), so the Board controls the standard but not the money that trains people to it — a partial brake on the guild move, since restricting entry does not enrich the Board.
+
+What remains unmitigated: nothing forces the corps to strike off one of its own. The public register, the sample audit, the committee hearing, and the Special Auditors are all pressure, not compulsion. This is the tradeoff. It is accepted because a licence that answers to the beneficiary is worse than a licence that answers to a guild, and because the scope bar confines the guild's self-interest to its own membership rather than to the country's credit.
 
 ---
 
