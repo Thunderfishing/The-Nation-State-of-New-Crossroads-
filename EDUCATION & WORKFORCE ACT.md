@@ -1,11 +1,11 @@
-# Crossroads Education and Workforce Act of 2025: Draft 2.3
+# Crossroads Education and Workforce Act of 2025: Draft 2.4
 
 ---
 
 **Draft:** 2.3 | **Date:** July 12, 2026
 **Author:** Thunderfish2
 
-> **Cross-reference.** Companion to the **Monetary Act 9.7**, the **Credit Union Act 5.7**, the **FCL Act 3.3**, the **Sovereign Functions Act**, and the **Chamber Act**. School governance follows the asset/operator separation model: Local School Boards own facilities; Teacher Professional FCLs operate instruction. Data uses the **PPK/CED** architecture (Monetary §5) — there is no CWD. The currency is fiat; there is no DAI, BAR, or metal backing.
+> **Cross-reference.** Companion to the **Monetary Act 9.8**, the **Credit Union Act 5.8**, the **FCL Act 3.4**, the **Sovereign Functions Act**, and the **Chamber Act**. School governance follows the asset/operator separation model: Local School Boards own facilities; Teacher Professional FCLs operate instruction. Data uses the **PPK/CED** architecture (Monetary §5) — there is no CWD. The currency is fiat; there is no DAI, BAR, or metal backing.
 
 > **Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values. Graduate allocations are **descriptive projections, not binding quotas.**
 
@@ -17,7 +17,7 @@ This act establishes a **debt-free, front-loaded education and workforce system*
 
 **Governance innovation:** each public school is a hybrid FCL — **70% Local School Board** (parents, PTA, military liaison, sports representative) and **30% Teacher Professional FCL** (all licensed teachers at the school).
 
-The act provides a **$10,000/year voucher** (following the student to any licensed school), a **front-loaded training structure** that flips from school-primary (16–18) to apprenticeship-primary (19–20 mandatory service), and **lifelong free re-entry** for anyone who never used their voucher. A **~$175B net Education SWF allocation** (per the Consolidated Fiscal Model; gross ~$200B less ~$25B FCL education contribution) supports operations, managed by the National Learning Council (NLC) with the credit unions and FCLs.
+The act provides a **$10,000/year voucher** (following the student to any licensed school), a **front-loaded training structure** that flips from school-primary (16–18) to apprenticeship-primary (19–20 mandatory service), and **lifelong free re-entry** for anyone who never used their voucher. A **~$175B net education budget** (per the Consolidated Fiscal Model; gross ~$200B less ~$25B FCL education contribution from the commons waterfall) supports operations as **general revenue** (Sovereign Functions Act §7.3), managed by the National Learning Council (NLC) with the credit unions and FCLs.
 
 ---
 
@@ -39,9 +39,11 @@ The act provides a **$10,000/year voucher** (following the student to any licens
 
 ## Section 2: Funding
 
-- **Voucher cost:** ~$180B gross at $10,000 × 18M students (scaling with the DLB), net ~$175B after the ~$25B FCL education contribution (FCL Act profit-sharing waterfall). Funded by the Education SWF.
+- **Voucher cost:** ~$180B gross at $10,000 × 18M students (scaling with the DLB), net ~$170B after the ~$10B FCL education contribution (commons rescaled — FCL Act §3.2) (FCL Act profit-sharing waterfall). **Funded by general revenue** (Sovereign Functions Act §7.3) — a transfer, not an operation, because the family picks the school (Sovereign Functions Act §7.2).
+
+  > **Not the SWF.** Prior drafts called this an *“Education SWF allocation.”* It is the largest single line in the federal budget and it is a **one-way spend**: vouchers do not revolve and are never repaid. **Monetary §2.1:** *“the SWF is the state’s revolving lender… it is not the state’s capital budget.”* Calling it an SWF allocation would have consumed three-quarters of the fund’s corpus every year. It was general revenue that had been labelled wrong — the same error as the infrastructure buildout, the grid hardening, and the sustainability line.
 - **Stipends:** $15,000/year professional (service), $12,000/year vocational; paid monthly via credit-union checking.
-- **Revenue support:** taxes/fees and resource revenue per the Consolidated Fiscal Model; credit-union contribution; **no co-op SWF recharge** (eliminated — co-ops contribute to the commons via the FCL waterfall).
+- **Revenue support:** the federal tax base (Monetary Act §4; Sovereign Functions Act §7.1 — VAT 4%, income above $100k, profit taxes, tariffs, resources, property, excise = ~$427B against ~$395B of spending); credit-union contribution; **no co-op SWF recharge** (eliminated — co-ops contribute to the commons via the FCL waterfall).
 - **Audits:** system auditors + AI fraud detection, fraud cap, tracked via the **CED** (pseudonymized; no identity).
 - **Data:** PPK holds student identity, credentials, and records; the CED holds only pseudonymized economic flows (voucher value, stipend value). School performance data is published in aggregate.
 
@@ -133,7 +135,7 @@ Co-op clubs (sports, arts, recreation) integrate into school governance with boa
 - **Stipends:** $15,000/year professional, $12,000/year vocational; paid monthly via credit-union checking; single-parent exemptions and supports apply.
 - **Hours:** workforce hours (host-site schedule), not school hours.
 - **Refreshers:** periodic combat refreshers for men (partial uptake), funded via checking.
-- **Infrastructure:** ~200 service camps (10/region), SWF-funded, powered by the national grid.
+- **Infrastructure:** ~200 service camps (10/region), **general-revenue-funded**, powered by the national grid.
 
 ---
 
@@ -214,7 +216,9 @@ Notes:
 | :--- | :--- | :--- |
 | Students (ages 5–20) | 18M | scaled |
 | Voucher | $10,000/year | DLB-indexed (~$13,500+) |
-| Education funding (net of FCL contribution) | ~$175B | scaled |
+| Education funding (net of FCL contribution) | ~$170B — **general revenue** (Sovereign Functions Act §7.3), classified as a **transfer** (§7.2 — the family chooses the school) | scaled |
+| NLC (National Learning Council) | Independent sector board — Territorial Chamber nominates, both Productive Chambers confirm (Chamber Act §7.1). **No sovereign role** | same |
+| Funding source | **Not the SWF** — vouchers do not revolve and are never repaid (Monetary §2.1) | same |
 | Journeymen credentialed/year | ~1,000,000 | scaled |
 | Healthcare-proper graduates/year | ~90,000 | scaled |
 | Mental-health (CMHIN) graduates/year | ~45,000 | scaled |
@@ -226,6 +230,7 @@ Notes:
 | School start (16–18 classroom) | 10 AM | 10 AM |
 | Journeyman earnings target | **Removed** | — |
 | Data architecture | PPK + CED (no CWD) | PPK + CED |
+| Age-20 wallet | $50 BWC — the system's standard onboarding amount (Monetary §1.2); arrives with the base share and the credit line at incorporation | same |
 
 ---
 
@@ -247,4 +252,4 @@ The young are trusted with a choice, trained without debt, and welcomed back whe
 
 ---
 
-**End of Draft 2.3**
+**End of Draft 2.4**
