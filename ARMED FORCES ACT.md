@@ -1,9 +1,9 @@
-# Crossroads Military Intelligence and Defense Act of 2025: Draft 1.8
+# Crossroads Military Intelligence and Defense Act of 2025: Draft 1.9
 
-**Draft:** 1.8 | **Date:** July 12, 2026
+**Draft:** 1.9 | **Date:** July 17, 2026
 **Author:** Thunderfish2
 
-> **Cross-reference.** Companion to the **Monetary Act 9.7**, **Credit Union Act 5.7**, **FCL Act 3.3**, the **Sovereign Functions Act**, the **Chamber Act**, **Energy Act 4.3**, **Education Act 2.3**, **Healthcare Act 6.6**, **Communications Act 4.3**, and **Infrastructure Act 2.5**. The currency is fiat (no metal backing); funding figures follow the Consolidated Fiscal Model.
+> **Cross-reference.** Companion to the **Monetary Act 9.8** (the Defense Fund §2.5), **Credit Union Act 5.8**, **FCL Act 3.4**, the **Sovereign Functions Act 2.1** (the military as sovereign function §2.1, the funding base §7, the bar on SWF-funded operations §5.4), the **Chamber Act**, **Energy Act 4.3**, **Education Act 2.3**, **Healthcare Act 6.6**, **Communications Act 4.3**, and **Infrastructure Act 2.6**. The currency is fiat (no metal backing); funding figures follow the Consolidated Fiscal Model.
 
 ---
 
@@ -223,9 +223,9 @@
 
 ## Section 9: Funding — Reconciled Expanded Budget
 
-**The expanded military annual budget: $55–65B/year.**
+**The mature military annual budget: $55–65B/year (2075). At founding it is ~$44B.**
 
-| Branch | Annual Budget | Personnel |
+| Branch | Annual Budget (mature) | Personnel |
 |--------|---------------|-----------|
 | **Ground Forces** | $8–10B | 100K active, 1M reserves, 9.1M militia |
 | **Navy (expanded)** | $12–15B | ~12,800–13,500 |
@@ -236,23 +236,35 @@
 | **Training + R&D** | $5–6B | — |
 | **Total** | **$55–65B** | **~125K active** |
 
+> **The $55–65B is the 2075 force, not the 2025 one.** The endowment supplement is what pays for the expansion, and in 2025 the endowment holds ~$100B, returning ~$4B. **Founding budget: ~$40B (sovereign revenue) + ~$4B (endowment returns) = ~$44B.** The force above is what ~$44B grows into as the endowment compounds toward ~$920B — it is not what the founding treasury buys. Prior drafts carried $55–65B in both columns of the Key Stats while showing the supplement as "—" at founding: the same total with and without the thing that funds the difference.
+
 ### 9.1 Funding Sources — Two Distinct Streams
 
-**Stream 1 — Stable SWF Operating Allocation ($40B/year):**
-- The SWF Defense sub-fund provides a **stable $40B/year allocation**.
+**Stream 1 — Stable Sovereign Revenue Allocation ($40B/year):**
+- The baseline is paid from **sovereign revenue** (Sovereign Functions Act §7; Monetary Act §4) — the federal tax base, alongside the judiciary, the auditors, and the four bureaus.
 - **This allocation does not decrease.** It remains constant as the baseline annual contribution.
 
-**Stream 2 — Defense Fund Endowment Supplement ($15–25B/year):**
-- The **~$920B Defense Fund** (citizen-bequest endowment, outside the 12% SWF cap) provides a **supplemental draw** to cover the expanded force's additional cost.
-- At maturity, the endowment's ~4% return (~$37B/year) can fully cover the $15–25B supplemental draw, leaving the endowment intact.
-- **The endowment supplements the $40B allocation** — it does not replace it. The total budget is $40B (SWF) + $15–25B (Defense Fund) = $55–65B/year.
+> **This is not the SWF, and the change is not cosmetic.** Prior drafts read *"The SWF Defense sub-fund provides a stable $40B/year allocation."* **Sovereign Functions Act §5.4 says the SWF may never fund sovereign operations**, and the military is sovereign function #1 (§1.1). The two acts contradicted outright — and the resolution is not to carve an exception into §5.4 but to fund defense the way everything else the sovereign does is funded. Sovereign revenue is ~$427B against ~$395B of spending; **the $40B fits inside it**, so the bar never has to bend.
+>
+> **Defense is the exception every state in history has used to reach its fund.** A bar with a defense carve-out is a bar that opens the moment anyone wants it to. This one has no carve-out, and does not need one.
+
+**Stream 2 — Defense Fund Endowment Supplement (~$4B founding → $15–25B mature):**
+- The **Defense Fund** (citizen-bequest endowment, outside the SWF and outside the 12% cap) provides a **supplemental draw from its returns** to cover the expanded force's additional cost.
+- It compounds from **~$100B (2025) to ~$920B (2075)**. At ~4%, that is **~$4B at founding and ~$37B at maturity** — the latter fully covering the $15–25B supplemental draw with the endowment intact.
+- **The endowment supplements the $40B allocation** — it does not replace it. Total: **~$44B (2025) → $55–65B (2075)**.
+
+> **The taper is dead, and it was mine.** Prior drafts of the Monetary Act had the defense allocation *"declining from ~$40B toward ~$0 by ~2070 as the endowment matures"* — in four places. It described the endowment **replacing** the baseline rather than supplementing it, which is the opposite of what this section has always said, and it implied a military tapering to nothing while this act builds a Tier-2 force with eight SSBNs and a space command. **The budget rises. The baseline stays put.** Monetary §2.5 and Sovereign Functions §2.1 now carry this section's language rather than contradicting it.
 
 ### 9.2 Defense Fund Mechanics
 - **Source:** Citizen estate bequests (not state revenue).
-- **Total:** ~$920B by 2075 (~$1T by 2100).
-- **Locked until total war** — release requires the supermajority unlock vote (Chamber Act §10.5 middle bar).
-- **Investment returns:** ~4%/year (~$37B/year at maturity).
-- **Use:** Supplements the SWF allocation to fund the expanded military. The SWF allocation stays $40B; the endowment funds the expansion.
+- **Total:** ~$100B (2025) → ~$920B by 2075 (~$1T by 2100).
+- **Investment returns:** ~4%/year — ~$4B at founding, ~$37B at maturity.
+- **The principal is locked; the returns are drawable.**
+  - **Principal — locked until total war.** Release of capital requires the supermajority unlock vote (Chamber Act §10.5 middle bar). The corpus is not a budget line and may not be spent down to buy ships.
+  - **Returns — drawable annually**, without a vote, up to the §9.1 supplement (~$4B founding, $15–25B mature). The draw may never exceed the year's returns: the endowment funds the expansion **out of its yield, in perpetuity**, and is never consumed by it.
+- **Use:** Supplements the sovereign-revenue allocation (§9.1). The baseline stays $40B; the endowment funds the expansion.
+
+> **The contradiction this resolves.** Prior drafts said the fund was *"locked until total war"* while §9.1 drew $15–25B/year from it as a standing supplement. Both cannot be true of the same money — a fund is not locked if it pays an annual allocation, and it cannot fund an expansion if it is sealed. **The sensible reading was always principal-locked and returns-drawable**, which is how every endowment on earth works and what the ~4%/~$37B line implies. The act simply never said it, so the lock read as absolute and the draw read as a breach of it. Monetary Act §2.5 flagged this and deferred to this section; it is answered here.
 
 ### 9.3 One-Time Buildout
 - The **$77.56B** buildout is a **one-time capital expense** for bases (naval, air, regular forces, border forts) and initial procurement, amortized over the early years.
@@ -304,7 +316,7 @@ Crossroads ranks alongside:
 | CMIS | 25K | 50K |
 | CSI | 3K | 6K |
 | Defense Fund | building | ~$920B |
-| Annual budget | $40B | $55–65B (SWF $40B + Defense Fund supplement) |
+| Annual budget | ~$44B ($40B sovereign revenue + ~$4B endowment returns) | $55–65B ($40B + $15–25B endowment returns) |
 
 ---
 
@@ -318,10 +330,10 @@ Crossroads ranks alongside:
 | CMIS personnel | 25K | 50K |
 | CSI personnel | 3K | 6K |
 | Ground Forces | 100K active, 1M reserves, 9.1M militia | same |
-| **Total annual budget** | **$55–65B** | **$55–65B** (SWF $40B + Defense Fund supplement) |
-| SWF operating allocation | $40B | $40B (stable) |
-| Defense Fund supplement | — | $15–25B |
-| Defense Fund (endowment) | ~$100B | ~$920B |
+| **Total annual budget** | **~$44B** ($40B sovereign revenue + ~$4B endowment returns) | **$55–65B** ($40B + $15–25B endowment returns) |
+| **Sovereign revenue allocation** (Sovereign Functions Act §7) | $40B | $40B (stable — **no taper**) |
+| Defense Fund supplement (**returns only; principal locked**) | ~$4B | $15–25B |
+| Defense Fund endowment (outside the SWF and its 12% cap) | ~$100B | ~$920B |
 | One-time buildout | ~$77.56B | amortized |
 | Destroyers | 4 | 4 |
 | Frigates | 8 | 8 |
@@ -338,6 +350,7 @@ Crossroads ranks alongside:
 | Anti-satellite missiles | 100 | 100 |
 | Doctrine | Lean, drone-focused | Lean, drone-focused |
 | Global power rating | Tier‑2 | Tier‑2 (8.6/10) |
+| Funding bar | **Never the SWF** (Sovereign Functions Act §5.4 — no defense exception); never issuance; never debt | same |
 
 ---
 
@@ -376,4 +389,4 @@ A lean military, funded by a stable allocation and a growing endowment, that def
 
 ---
 
-**End of Draft 1.8**
+**End of Draft 1.9**
