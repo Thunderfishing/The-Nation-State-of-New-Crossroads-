@@ -1,10 +1,10 @@
-# Crossroads Co-operative Healthcare & Mental Wellness Act of 2025: Draft 6.6
+# Crossroads Co-operative Healthcare & Mental Wellness Act of 2025: Draft 6.7
 
 **Posted to r/Bulwarkomics**
 **Draft:** 6.6 | **Date:** July 12, 2026
 **Author:** Thunderfish2
 
-> **Cross-reference.** Companion to the **Monetary Act 9.7**, the **Credit Union Act 5.7**, the **FCL Act 3.3**, the **Sovereign Functions Act**, the **Chamber Act**, and the **Education Act 2.3**. Loans are reference-rate-anchored (Monetary Act §1.5A). Data uses the **PPK/CED** architecture (Monetary §5), operational from inception — there is no CWD. The currency is fiat.
+> **Cross-reference.** Companion to the **Monetary Act 9.8**, the **Credit Union Act 5.8**, the **FCL Act 3.4**, the **Sovereign Functions Act**, the **Chamber Act**, and the **Education Act 2.3**. Loans are reference-rate-anchored (Monetary Act §1.5A). Data uses the **PPK/CED** architecture (Monetary §5), operational from inception — there is no CWD. The currency is fiat.
 
 > **Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values. Facility counts and corporate-sector share are descriptive projections, not quotas.
 
@@ -24,9 +24,9 @@ The **National Healthcare Board (NHB)** manages operations, supported by the 5,0
 
 | Act | Integration Point |
 | :--- | :--- |
-| **FCL Act 3.3** | Professional FCLs (worker-owned); clinic ownership as Co-op-Led CCJV (hybrid co-op/corporate); cost-share model; retainer client shares; healthcare contribution via the progressive profit-sharing waterfall |
-| **Monetary Act 9.7** | Reference-rate-anchored service-sector loans (Monetary §1.5A); Informal Economy Guarantee; asymmetric scrutiny; SWF capped at 12% GDP; co-op profit tax 5% (no SWF recharge); PPK/CED; no binding sector quotas |
-| **Credit Union Act 5.7** | Micro-loans for informal healthcare access ($500, 4% nominal, self-attested, 24-hour); low-interest service-sector health loans (co-op and corporate eligible); CLS |
+| **FCL Act 3.4** | Professional FCLs (worker-owned); clinic ownership as Co-op-Led CCJV (hybrid co-op/corporate); cost-share model; retainer client shares; healthcare contribution via the progressive profit-sharing waterfall |
+| **Monetary Act 9.8** | Reference-rate-anchored service-sector loans (Monetary §1.5A); Informal Economy Guarantee; asymmetric scrutiny; SWF capped at 12% GDP; co-op profit tax 5% (no SWF recharge); PPK/CED; no binding sector quotas |
+| **Credit Union Act 5.8** | Micro-loans for informal healthcare access ($500, 4% nominal, self-attested, 24-hour); low-interest service-sector health loans (co-op and corporate eligible); CLS |
 | **Energy Act** | 20 SMR nuclear hubs host the mega hospitals, co-located with water/sewer treatment and passenger/cargo airports |
 | **Chamber Act** | Regional Boards (§3) oversee healthcare facilities and service-sector loans; independent board registry (§7) |
 | **Sovereign Functions Act** | Special Auditors (§3) enforce compliance; judiciary (§4) hears disputes |
@@ -47,13 +47,17 @@ The **National Healthcare Board (NHB)** manages operations, supported by the 5,0
 
 All loans for healthcare facilities (clinics, super hospitals, mega hospitals, CMHIN) receive the **low service-sector rate**, recognizing healthcare's labor and social value. There is no DAI or BAR mechanism — those were removed in the fiat conversion.
 
-| Facility loan | Service-sector rate |
-| :--- | :--- |
-| Clinic construction (CCJV) | Set below the reference rate (Monetary §1.5A) |
-| Super-hospital equipment & build | Set below the reference rate |
-| Mega-hospital build (at SMR hub) | Set below the reference rate |
-| CMHIN facility | Set below the reference rate |
-| Telehealth infrastructure | Set below the reference rate |
+| Facility loan | Band | Illustrative |
+| :--- | :--- | :--- |
+| Clinic construction (CCJV) | **reference + 0.5% to + 1.5%** | ~4–5% |
+| Super-hospital equipment & build | **reference + 0.5% to + 1.5%** | ~4–5% |
+| Mega-hospital build (at SMR hub) | **reference + 0.5% to + 1.5%** | ~4–5% |
+| CMHIN facility | **reference + 0.5% to + 1.5%** | ~4–5% |
+| Telehealth infrastructure | **reference + 0.5% to + 1.5%** | ~4–5% |
+
+At a founding reference rate of ~3.5% (Monetary §1.5A), that is **~4–5% against a commercial band of ~5.5%** — a subsidy of ~1.5 points, stated rather than implied. **The subsidy still carries:** against savings at reference − 1% (~2.5%), a healthcare facility loan clears its funding cost by ~1.5–2.5 points. It is cheap money, not free money, and no member subsidizes it silently.
+
+> **This act was already doing it right, and needed only the number.** §1.2 has always said *"set below the reference rate"* rather than hardcoding a figure — which is more than the Credit Union Act §4.2, the FCL Act §3.6, or the Utilities Act §6.2 managed, all of which published fixed percentages beneath headers promising the rates were anchored. The only thing missing here was the reference rate's own value, which appeared nowhere in the corpus until this revision (Monetary §1.5A).
 
 **Corporate facilities are eligible for the same low service-sector rate** (Section 4). *Rationale: the state subsidizes health **capacity** regardless of who builds it — every facility adds beds and treats citizens. Corporate facilities repay the subsidy through full corporate taxation (heavier than co-ops), and refusing them cheap capital would only raise their prices and make them more exclusive, not less.*
 
@@ -207,7 +211,7 @@ Healthcare is funded by **mandatory universal premiums**, not state SWF operatin
 | Source | Amount | Notes |
 | :--- | :--- | :--- |
 | **Mandatory premiums (net of subsidy)** | **~$383B/year** | Primary funding; whole adult population + children; mental health included |
-| **FCL healthcare contribution** | **~$50B/year** | Progressive profit-sharing waterfall (FCL Act); ~10% of the remaining co-op profit pool |
+| **FCL healthcare contribution** | **~$19B/year** | Progressive profit-sharing waterfall (FCL Act §3.2) — 40% of a ~$48B commons, itself a percentage of ~$400B of co-op net profit |
 | State bottom-tier subsidy | ~$45B/year | The state's main healthcare cost; subsidizes the bottom-20% premiums |
 | Reference-rate-anchored service-sector loans | as needed | Facility build/equipment (co-op and corporate eligible) |
 | Partner contributions | ~$1.21B/year | Donations, charitable grants (CMHIN) |
@@ -222,7 +226,13 @@ Healthcare is funded by **mandatory universal premiums**, not state SWF operatin
 ## Section 6: Governance (Harmonized with FCL Act, Chamber Act & Sovereign Functions Act)
 
 ### 6.1 National Healthcare Board (NHB)
-- 11 members (6 regional representatives, 4 experts, 1 chairman); appointed by the Sovereign Council (5/7), confirmed by the Territorial Chamber (11/20 Regional Boards).
+- 11 members: 6 regional representatives, 4 experts (drawn from the regional advisory layer, Chamber Act §8), 1 chairman.
+- **Appointment: nominated by the Territorial Chamber (Regional Boards, 11/20), confirmed by both Productive Chambers jointly** — the uniform rule for the seven sector boards (Chamber Act §7.1). **No sovereign role** (Sovereign Functions Act §8.5).
+- **Removal:** by the nominating and confirming bodies jointly, or on cause established by a Special-Auditor investigation.
+
+> **The seventh and last board on the registry, and the seventh to be found running on a rule the registry does not contain.** Prior drafts had the NHB *"appointed by the Sovereign Council (5/7)."* **Chamber Act §7** is explicit: *"The sovereign is barred from domestic regulation, so board appointment is a chamber function."* The Exchange's Co-op Capital Index, the NIB, the NEB, the NHA, the NCB, the NInfraB, and now the NHB — **seven acts, twelve instances, each written independently.** Every act described a board and reached for the nearest executive to appoint it, because that is what boards look like in every other country. **The Municipal & Regional Funding Act is the only one that checked** — and it is the act closest to the ground.
+>
+> The NHB is the sector board whose capture would matter most: it sits over an entrenched guarantee (Chamber Act §12.1) and a ~$448B system. It is the last one that should have been appointed by the executive.
 - Voting: 6/11 routine, 8/11 strategic, 5/11 emergency.
 - Operations: ~$100M/year (funded from premium administration, not SWF).
 - Independence: paired with but subordinate to none; disputes resolved through ad-hoc arbitration (Chamber Act §6.6).
@@ -244,7 +254,7 @@ Healthcare is funded by **mandatory universal premiums**, not state SWF operatin
 ## Section 7: Oversight
 
 - **20 Regional Boards** (Chamber Act §3 — 220 delegates) oversee clinics, hospitals, mega hospitals, CMHIN, and service-sector loans.
-- **Sovereign Council** (Sovereign Functions Act §6) tracks healthcare metrics (aggregate).
+- **Treasury** (Sovereign Functions Act §6A.1) publishes aggregate healthcare metrics as part of §1.8 telemetry — institutional-level, pseudonymized, no patient data. **Not the Sovereign Council** — the Council commands and negotiates (§6.3); it does not collect statistics.
 - **PPK/CED:** performance, fraud, and compliance tracked via the **CED** (pseudonymized; ~$ low hundreds of millions/year as part of the system-wide CED/PPK cost, not a separate CWD). Medical records live in the **PPK**. **There is no CWD.**
 - **Special Auditors:** 50–75 independent prosecutors (Sovereign Functions Act §3) + AI; fraud cap ~$2.5B. May not access individual medical records.
 - **Asymmetric scrutiny:** patient financial data under $10k private; institutional data fully transparent.
@@ -263,10 +273,14 @@ Healthcare is funded by **mandatory universal premiums**, not state SWF operatin
 | Corporate facilities (organic, est.) | emerging | ~5–15% (projection, not quota) |
 | Funding model | **Premium-funded** | Premium-funded |
 | Net premium revenue | ~$383B/year | scaled |
-| FCL healthcare contribution | ~$50B/year | scaled |
+| FCL healthcare contribution | ~**$19B/year** | scaled |
 | State bottom-tier subsidy | ~$45B/year | scaled |
 | Healthcare SWF / Mental Health SWF | **Removed** | — |
-| Healthcare loans | Reference-rate-anchored (co-op + corporate) | same |
+| Healthcare loans | **service-sector band: reference + 0.5% to + 1.5%** (~4–5%). Corporate eligible at the same rate (§1.2). Reference rate ~3.5% (Monetary §1.5A) | same |
+| NHB | Independent sector board — Territorial Chamber nominates, both Productive Chambers confirm (Chamber Act §7.1). **No sovereign role** | same |
+| Total healthcare funding | **~$448B** — premiums $428B gross + FCL commons $19B + partners $1.2B (the $45B state subsidy pays the bottom tier's premiums, already inside the $428B) | scaled |
+| As % of GDP | **~7.5%** (OECD ~9%; US 17%; UK 11%) | declining as GDP triples |
+| Per capita | **~$4,000** (US ~$13,000; Canada ~$6,300; UK ~$5,500) | rising with the economy |
 | Data architecture | PPK + CED (no CWD) | PPK + CED |
 | DAI / BAR | **Removed (fiat)** | — |
 
@@ -290,4 +304,4 @@ Universal coverage, a lean state, capacity radiating from the hubs, a private ti
 
 ---
 
-**End of Draft 6.6**
+**End of Draft 6.7**
