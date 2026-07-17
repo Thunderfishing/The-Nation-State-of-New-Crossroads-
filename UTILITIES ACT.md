@@ -1,9 +1,9 @@
-# New Crossroads Utilities Act of 2025: Draft 1.3
+# New Crossroads Utilities Act of 2025: Draft 1.4
 
 **Draft:** 1.3 | **Date:** July 12, 2026
 **Author:** Thunderfish2
 
-> **Cross-reference.** Companion to the **Energy Act 4.2**, the **Monetary Act 9.7**, the **Credit Union Act 5.7**, the **FCL Act 3.3**, the **Sovereign Functions Act**, the **Chamber Act**, and the **Infrastructure Act 2.4**. Grid hardening, buried lines, EMP-shielded substations, transformer reserves, and antifragile hubs are governed by the Energy Act. The asset/operator separation model follows the Infrastructure Act's rail system. Loans are reference-rate-anchored (Monetary Act §1.5A). Data uses PPK/CED (no CWD). The currency is fiat.
+> **Cross-reference.** Companion to the **Energy Act 4.4**, the **Monetary Act 9.8**, the **Credit Union Act 5.8**, the **FCL Act 3.4**, the **Sovereign Functions Act**, the **Chamber Act**, and the **Infrastructure Act 2.7**. Grid hardening, buried lines, EMP-shielded substations, transformer reserves, and antifragile hubs are governed by the Energy Act. The asset/operator separation model follows the Infrastructure Act's rail system. Loans are reference-rate-anchored (Monetary Act §1.5A). Data uses PPK/CED (no CWD). The currency is fiat.
 
 > **Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values.
 
@@ -19,11 +19,11 @@ This model prevents natural-monopoly capture, centralizes CME hardening, generat
 
 ## Section 0: Interdependencies
 
-- **Energy Act 4.2:** provides the physical grid — 30,000 km buried high-voltage transmission, 150,000 km buried distribution, 750 EMP-shielded substations, a strategic transformer reserve (5,000+ by 2075) — and the 20 antifragile SMR hubs (one per region) as anchor loads and islanding points.
-- **Infrastructure Act 2.4:** the asset/operator separation model is directly replicated; transmission access fees follow the freeway-toll logic (155% recovery over asset life); DCALS applies to utility infrastructure near elevated freeways.
-- **Monetary Act 9.7:** transmission access fees paid in BWC, flow (in part) to the SWF; co-op utilities pay the 5% co-op profit tax on generation profits; no binding quotas.
-- **Credit Union Act 5.7:** co-op utilities access reference-rate-anchored loans and micro-loans (community solar); embedded CLS officers.
-- **FCL Act 3.3:** utility co-ops structured as FCLs; CCIF (voluntary) funds expansion.
+- **Energy Act 4.4:** provides the physical grid — 30,000 km buried high-voltage transmission, 150,000 km buried distribution, 750 EMP-shielded substations, a strategic transformer reserve (5,000+ by 2075) — and the 20 antifragile SMR hubs (one per region) as anchor loads and islanding points.
+- **Infrastructure Act 2.7:** the asset/operator separation model is directly replicated; transmission access fees follow the freeway-toll logic (155% recovery over asset life); DCALS applies to utility infrastructure near elevated freeways.
+- **Monetary Act 9.8:** transmission access fees paid in BWC, flow (in part) to the SWF; co-op utilities pay the 5% co-op profit tax on generation profits; no binding quotas.
+- **Credit Union Act 5.8:** co-op utilities access reference-rate-anchored loans and micro-loans (community solar); embedded CLS officers.
+- **FCL Act 3.4:** utility co-ops structured as FCLs; CCIF (voluntary) funds expansion.
 - **Sovereign Functions Act:** the NEB is an independent board; Special Auditors (§3) enforce the anti-rot guarantees.
 - **Chamber Act:** Regional Boards (§3) handle retail oversight; the NEB is chartered under the independent board registry (§7).
 
@@ -36,7 +36,7 @@ This model prevents natural-monopoly capture, centralizes CME hardening, generat
 | Sector | Asset Owner | Operator | Access Fee |
 | :--- | :--- | :--- | :--- |
 | Rail | State (70%) + Co-op (30%) | Train companies | No tolls (cooperative maintains) |
-| Freeways | State | Any vehicle | Toll (\$0.10/km, 155% recovery) |
+| Freeways | State | Any vehicle | Toll (\$0.10/km, 155% of annual maintenance) |
 | Electricity Transmission | State (100%) | Utilities pay access fees; **maintained by co-op concession (§1.4)** | \$/MWh transmitted |
 | Electricity Distribution | State (100%) | Utilities pay access fees; **maintained by co-op concession (§1.4)** | \$/MWh delivered |
 | Electricity Generation | Co-op or Corporate | Utility (generator) | No fee (competitive) |
@@ -44,7 +44,7 @@ This model prevents natural-monopoly capture, centralizes CME hardening, generat
 
 *Rationale:* the state is good at owning and hardening long-lived infrastructure but bad at running customer-facing utilities — and, left to its own devices, bad at *maintaining and reinvesting* in what it owns. Co-ops are good at competing for customers and at delivering against a contract. Separation gives each what it does best, and §1.4/§2.4 fix the state's chronic weakness at upkeep.
 
-### 1.2 What the State Owns (per Energy Act 4.2)
+### 1.2 What the State Owns (per Energy Act 4.4)
 
 | Asset | 2025 | 2075 | Owner | Maintained by |
 | :--- | :--- | :--- | :--- | :--- |
@@ -82,7 +82,11 @@ The state owns the grid but **does not maintain it directly.** Maintenance, upke
 
 ### 2.1 Fee Structure (Like Rail Track Access or Freeway Tolls)
 
-Utilities pay the NEB for access to state-owned transmission and distribution. Fees recover 100% of grid hardening and maintenance cost plus 55% (**155% total recovery over asset life**), matching the freeway-toll model.
+Utilities pay the NEB for access to state-owned transmission and distribution. Fees recover **155% of annual hardening and maintenance cost, annually** — 100% of upkeep plus a 55% margin that funds the Asset Renewal Fund, the SWF contribution, and the residential credit (§2.3). **Not 155% of construction: the grid's capital is general revenue** (Energy Act §1.2; Sovereign Functions Act §7.3).
+
+> **The phrase this fixes, and why it mattered across five acts.** Prior drafts read *"155% total recovery over asset life,"* which reads as **capital** recovery and is how three other acts inherited it. The Infrastructure Act's freeway took that reading literally and produced a **326-year** payback; the Communications Act's backbone produced **125 years**. **The canonical model is Infrastructure §4.1: 155% of *annual* maintenance, *annually*.** There is no exception.
+>
+> **The maintenance reading checks out here.** ~$15B/year of fees implies ~$9.7B of annual upkeep across ~120,000 km of buried, EMP-hardened transmission and distribution — **~$81,000/km/year**, against a grid whose capital cost is ~$200B (~$1.67M/km). That is **~5% of asset value per year**, the top of the normal band and right for infrastructure built to survive a Carrington event. Read as capital recovery instead, the same fee would take **21 years to retire $310B** — which is not absurd on its face, and that is exactly why nobody caught it: **the freeway's 326 years was visible; this act's was not.** Same wrong model, quieter failure.set life**), matching the freeway-toll model.
 
 | Voltage Level | Fee per MWh | 2025 revenue | 2075 revenue |
 | :--- | :--- | :--- | :--- |
@@ -94,7 +98,7 @@ Utilities pay the NEB for access to state-owned transmission and distribution. F
 *(Grid volume: 400 TWh in 2025 → 1,633 TWh by 2075.)*
 
 ### 2.2 Fee Adjustment Mechanism
-- Biennial NEB review (6/11) with Sovereign Council approval (5/7).
+- Biennial NEB review (6/11), **ratified by the Territorial Chamber (11/20 Regional Boards)** — a transmission access fee is a **rate**, and rates are the first item on the Sovereign Functions Act §8.5 bar. The NEB is an independent sector board under chamber appointment (Chamber Act §7.1), not a sovereign organ.
 - Annual inflation adjustment tied to the DLB.
 - CME surcharge: +\$2/MWh during CME recovery (max 90 days) to fund transformer deployment.
 - Co-op discount: co-op utilities pay 80% of the corporate rate.
@@ -104,7 +108,7 @@ Utilities pay the NEB for access to state-owned transmission and distribution. F
 | Allocation | 2025 (\$B) | 2075 (\$B) | Notes |
 | :--- | :--- | :--- | :--- |
 | **Asset Renewal Fund** (ring-fenced: maintenance + reinvestment + R&D) | 7.5 | 24.5 | 50% of revenue — locked (§2.4) |
-| SWF (per Monetary Act 9.7) | 4.5 | 14.7 | 30% of revenue |
+| SWF (per Monetary Act 9.8) | 4.5 | 14.7 | 30% of revenue |
 | Residential electricity bill credit (direct to citizens) | 3.0 | 9.8 | 20% of revenue |
 | **Total** | **15.0** | **49.0** | |
 
@@ -164,7 +168,7 @@ Mirrors the Informal Economy Guarantee: small-scale activity is friction-free an
 
 ## Section 4: Generation Market
 
-### 4.1 Allowed Generation Technologies (per Energy Act 4.2, 2075 projections)
+### 4.1 Allowed Generation Technologies (per Energy Act 4.4, 2075 projections)
 
 | Technology | 2075 Capacity | Typical Owner | Co-op preference |
 | :--- | :--- | :--- | :--- |
@@ -233,14 +237,22 @@ Every citizen and business may choose their retail provider from any licensed ut
 
 ### 6.2 Financing for Co-op Utilities
 
-| Loan type | Amount | Term | Interest (reference-rate-anchored) | Source |
-| :--- | :--- | :--- | :--- | :--- |
-| Generation plant (small) | \$50k–\$2M | 10 years | 5% | Credit Union |
-| Generation plant (large) | \$2M–\$50M | 20 years | 4% | CCIF |
-| SMR (Heavy Industry) | \$50M–\$2B | 30 years | 3.5% | CCIF + SWF |
-| Community solar | \$500–\$50k | 5 years | 4% | Micro-loan (self-attested) |
+| Loan type | Amount | Term | Band | Illustrative | Source |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Community solar | \$500–\$50k | 5 years | **reference + 0.5%** | ~4% | Micro-loan (self-attested) — **subsidized below the commercial band** |
+| Generation plant (small) | \$50k–\$2M | 10 years | **reference + 2%** | ~5.5% | Credit Union — the standard commercial band |
+| Generation plant (large) | \$2M–\$50M | 20 years | **reference + 3%** | ~6.5% | CCIF |
+| SMR (Heavy Industry) | \$50M–\$2B | 30 years | **reference + 3.5%** | ~7% | CCIF + SWF |
 
-All loans reference-rate-anchored (Monetary Act §1.5A). Community/service-sector projects use the lower service-sector rate.
+All loans are bands around the reference rate (~3.5%, Monetary Act §1.5A) and reset when it is republished. Community/service-sector projects use the subsidized band.
+
+> **Two defects, and the second was fatal to the lender.**
+>
+> **1. The rates were hardcoded** — 5%, 4%, 3.5%, 4% — beneath a line stating all loans were reference-rate-anchored. A fixed number is not a band around a published rate: if the reference rate moves, 3.5% does not. The same defect ran through the Credit Union Act §4.2, the FCL Act §3.6, and the special-share step-down.
+>
+> **2. The rates inverted with risk, and the inversion is not subtle.** A **\$2B SMR over 30 years** was priced at **3.5%** while a **\$50k solar panel over 10 years** paid **5%**. Term premium and credit risk both run the other way: the largest, longest, most concentrated exposure in the entire co-op economy was the cheapest money in the act. Nothing on earth prices like this. The bands above are monotonic — 4% → 5.5% → 6.5% → 7% — rising with size and term, which is the only direction they can rise.
+>
+> **3. And it bankrupted the CCIF on every loan it made.** FCL Act §3.8.4 has the CCIF **paying its depositors 5–7%**. This act had it **lending at 3.5–4%** — a margin of **−1% to −3.5% on every advance.** That is the identical shape as the Credit Union Act's savings bug (5–6% paid against a 5.5% loan yield): an institution paying more for money than it earns on it, and making the difference up from nowhere. At **reference + 3% to + 3.5%** the CCIF lends at 6.5–7% against a 5–7% obligation and clears its cost of funds — which is what makes the 5–7% return in §3.8.4 something the pool can actually pay rather than something it promises.
 
 ### 6.3 Example: Rural Electric Co-op Startup
 
@@ -250,7 +262,7 @@ A Tier 2 FCL in Region 5 (Heartland Plains) builds a 10 MW solar farm serving 2,
 
 ## Section 7: CME Resilience and Emergency Operations
 
-### 7.1 State Responsibilities (per Energy Act 4.2)
+### 7.1 State Responsibilities (per Energy Act 4.4)
 
 | Asset | CME hardening | Recovery role |
 | :--- | :--- | :--- |
@@ -293,7 +305,7 @@ Per the Chamber Act §3, 20 Regional Boards issue retail licenses (co-op prefere
 
 *(CLS officer counts demand-distributed per Credit Union Act §5.1. Loans reference-rate-anchored; no DAI floor.)*
 
-### 8.4 Asymmetric Scrutiny (per Monetary Act 9.7)
+### 8.4 Asymmetric Scrutiny (per Monetary Act 9.8)
 
 | Level | Transaction type | CED treatment (pseudonymized) | Reporting |
 | :--- | :--- | :--- | :--- |
@@ -311,7 +323,7 @@ Per the Chamber Act §3, 20 Regional Boards issue retail licenses (co-op prefere
 
 | Action | Timeline | Cost | Responsible |
 | :--- | :--- | :--- | :--- |
-| Declare transmission/distribution state-owned | 2025 | \$0 | Sovereign Council |
+| Declare transmission/distribution state-owned | 2025 | \$0 | Territorial Chamber |
 | Establish transmission access-fee structure | 2025 | \$5M | NEB |
 | **Establish Asset Renewal Fund + ACI + first maintenance concessions** | 2025–2027 | \$10M | NEB |
 | Issue first generation licenses (co-op priority) | 2026 | \$1M | NEB |
@@ -362,12 +374,15 @@ Per the Chamber Act §3, 20 Regional Boards issue retail licenses (co-op prefere
 | Low-income households on assistance | 22M (20%) | 26M (20%) |
 | Community solar micro-loans | 10,000/year | 100,000/year |
 | CME recovery time (target) | 72 hours | 48 hours |
-| Loan rates | Reference-rate-anchored (Monetary §1.5A) | same |
+| Loan rates | **Bands around the reference rate (~3.5%)**: community solar +0.5% (~4%) · generation small +2% (~5.5%) · generation large +3% (~6.5%) · SMR +3.5% (~7%). **Monotonic with term and size** (§6.2) | same |
+| CCIF carry | Lends at reference +3% to +3.5% (~6.5–7%) against a 5–7% depositor obligation (FCL §3.8.4) — **positive** | same |
+| Grid capital | **General revenue** (~$200B, Sovereign Functions §7.3) — **not the SWF** (Monetary §2.1) | amortized |
+| NEB | Independent sector board — Territorial Chamber nominates, both Productive Chambers confirm (Chamber Act §7.1). **No sovereign role** | same |
 | Data architecture | PPK + CED (no CWD) | PPK + CED |
 
 ---
 
-## Appendix A: Comparison to Rail Model (Infrastructure Act 2.4)
+## Appendix A: Comparison to Rail Model (Infrastructure Act 2.7)
 
 | Feature | Rail | Electricity |
 | :--- | :--- | :--- |
@@ -375,18 +390,18 @@ Per the Chamber Act §3, 20 Regional Boards issue retail licenses (co-op prefere
 | Maintained by | Cooperative | Co-op performance concession (§1.4) |
 | Operator | Train companies | Utilities (co-ops/corps) |
 | Access fee | No tolls | \$/MWh transmission fee |
-| Fee recovery target | Maintenance + surplus | 155% of hardening + maintenance |
+| Fee recovery target | Maintenance + surplus | **155% of annual hardening + maintenance, annually** |
 | Co-op preference | 30% track ownership | License priority, 20% fee discount |
 | CME hardening | N/A | Buried lines, EMP shields, transformer reserve |
 | Renewal guarantee | Cooperative maintains | Ring-fenced Asset Renewal Fund (§2.4) |
 
-## Appendix B: Comparison to Freeway Model (Infrastructure Act 2.4)
+## Appendix B: Comparison to Freeway Model (Infrastructure Act 2.7)
 
 | Feature | Freeways | Electricity |
 | :--- | :--- | :--- |
 | Asset owner | State | State |
 | Access fee | Toll | \$/MWh transmission fee |
-| Fee recovery target | 155% of construction | 155% of hardening + maintenance |
+| Fee recovery target | **155% of annual maintenance** (Infrastructure §4.1 — the freeway does *not* recover construction from tolls; that reading gave a 326-year payback) | **155% of annual hardening + maintenance** |
 | Revenue use | Maintenance + SWF | Renewal Fund + SWF + residential credit |
 | Co-op discount | None | 20% on transmission fee |
 | CME hardening | N/A | Full hardening |
@@ -433,4 +448,4 @@ A nation that owns its grid, rents its upkeep to those who must keep it in good 
 
 ---
 
-**End of Draft 1.3**
+**End of Draft 1.4**
