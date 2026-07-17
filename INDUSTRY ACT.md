@@ -1,6 +1,6 @@
-# New Crossroads Industry Act of 2025: Draft 4.4
+# New Crossroads Industry Act of 2025
 
-**Draft:** 4.4 | **Date:** July 12, 2026
+**Draft:** 4.6 | **Date:** July 17, 2026
 **Author:** Thunderfish2
 
 > **Cross-reference.** Companion to the **Monetary Act 9.7**, **Credit Union Act 5.7**, the **Sovereign Functions Act**, the **Chamber Act**, **Energy Act 4.3**, **Housing Act 2.3**, **Infrastructure Act 2.5** (Industrial Corridors §3.7), the **Municipal & Regional Funding Act**, and the **Communications Act 4.2**. Loans are reference-rate-anchored (Monetary Act §1.5A). Data uses PPK/CED (no CWD). The currency is fiat.
@@ -15,7 +15,7 @@ The Industry Act establishes New Crossroads' industrial framework: a **co-op-dom
 
 Industries are fostered via **reference-rate-anchored service-sector loans** (the low service-sector rate for hemp, greenhouses, CO₂ capture, and artisan trades), **cheap baseload power** (SMRs, Energy Act 4.3), **75,000 km cooperative rail**, and **dredged Corridon/Westflow barges**, maintaining a free-market approach. Revenue scales to ~$397.2B by 2075. SWF funding is drawn from the ~$1.5–2.0T Sovereign Wealth Fund (capped at 12% of GDP). All 30,000 ha of greenhouses are non-arable, lease-to-own with buyback options, and hempcrete for Durahomes is CO₂-cured.
 
-Managed by the **National Industry Board (NIB)** under Sovereign Council oversight, leveraging 5,000 credit unions / CLS. **No binding sector quotas** — the 65/15/20 figures are descriptive baselines; co-ops receive license priority and fee discounts.
+Standards set by the **National Industry Board (NIB)** — an independent sector board under chamber appointment (Chamber Act §7.1), **not the sovereign** (Sovereign Functions Act §8.5) — leveraging 5,000 credit unions / CLS. **No binding sector quotas** — the 65/15/20 figures are descriptive baselines; co-ops receive license priority and fee discounts.
 
 ---
 
@@ -154,7 +154,13 @@ Because New Crossroads holds **massive mineral deposits and operations** (§3.1)
 
 ## Section 3: Resource Management
 
-Resources generate ~$213.28B/year (2025), scaling to ~$397.2B by 2075. **Resources are regionally owned** — regions levy royalties/stumpage as own-source revenue; the national government takes the 3% surcharge + profit tax (Municipal & Regional Funding Act §2.5).
+Resources generate ~**$306.4B**/year (2025), scaling to ~**$570B** by 2075. **Resources are regionally owned** — regions levy royalties/stumpage as own-source revenue; the national government takes **40% of a 12% royalty, plus profit tax on resource firms** (Municipal & Regional Funding Act §2.5; Monetary Act §4; Sovereign Functions Act §7.1).
+
+> **The figure this corrects, and how it was caught.** Prior drafts headlined ~$213.28B. **The subsections beneath it sum to $306.375B** — minerals $200B, agriculture $45.375B, fuels $50B, forestry/water $9B, rare earths $2B — and the FCL Act independently reports **~$274B of co-op resource activity**, which fits inside $306B (89%, plausible in a co-op-dominant economy) but **exceeds the $213.28B headline outright**. A part cannot exceed its whole. Two witnesses against one: **the headline was the error**, not its own components and not the other act.
+>
+> The 2075 figure carries the act's own growth ratio (1.86×) forward from the corrected base.
+>
+> **This moves money in two other acts.** The national resource cut rises from ~$18B to **~$22.7B** (40% of 12% of $306.4B, plus ~$8B of resource-firm profit tax), taking federal revenue to ~$385.7B against ~$380B of spending — Monetary §4 and Sovereign Functions §7.1 carry the corrected line.
 
 ### 3.1 Minerals
 - **Scale:** ~$200B — the nation's largest resource sector, anchored by **massive mineral deposits and operations** (the reason the mining-machinery industry §2.3 is fostered).
@@ -187,18 +193,22 @@ Resources generate ~$213.28B/year (2025), scaling to ~$397.2B by 2075. **Resourc
 
 ## Section 4: Innovation Hubs
 
-Hubs drive ~$360B AI/tech, ~$15B jewelry, ~$20B heavy equipment (mining machinery), ~$20B steel, ~$12B aerospace, ~$18B military/missile, ~$10B nuclear, ~$3B aviation, ~$10B petrochemicals, ~$3.75B hemp, ~$5B transformers, ~$275M CO₂, and ~$10B shipbuilding — funded by **~$30B/year R&D** from the SWF (no co-op recharge). Hub loans are reference-rate-anchored (service-sector rate for climate-related research, standard otherwise).
+Hubs drive ~$360B AI/tech, ~$15B jewelry, ~$20B heavy equipment (mining machinery), ~$20B steel, ~$12B aerospace, ~$18B military/missile, ~$10B nuclear, ~$3B aviation, ~$10B petrochemicals, ~$3.75B hemp, ~$5B transformers, ~$275M CO₂, and ~$10B shipbuilding — funded by **~$30B/year R&D** from **general revenue** (Sovereign Functions Act §7.3; no co-op recharge) — *not the SWF: prior drafts labelled it an SWF allocation, but the SWF lends and backstops, it does not fund the state's programmes (Monetary §2.1)*. Hub loans are reference-rate-anchored (service-sector rate for climate-related research, standard otherwise).
 
 ---
 
 ## Section 5: Governance
 
 ### 5.1 NIB Structure
-The **National Industry Board (NIB)** — 11 members — manages all industrial sectors, district loans, and revenue, reporting to the Sovereign Council.
-- **Composition:** 6 representatives from 20 Regional Industry Districts, 4 experts, 1 chairman; appointed by the Sovereign Council (5/7), confirmed by the Territorial Chamber (11/20 Regional Boards)
+The **National Industry Board (NIB)** — 11 members — sets standards for all industrial sectors, district loans, and revenue. It is an **independent sector board** on the Chamber Act §7 registry and reports to no sovereign organ.
+- **Composition:** 6 representatives from 20 Regional Industry Districts, 4 experts (drawn from the regional advisory layer, Chamber Act §8), 1 chairman.
+- **Appointment:** **nominated by the Territorial Chamber (Regional Boards, 11/20), confirmed by both Productive Chambers jointly** — the uniform rule for the seven sector boards (Chamber Act §7.1).
+- **Removal:** by the nominating and confirming bodies jointly, or on cause established by a Special-Auditor investigation.
 - **Voting:** 6/11 operational, 8/11 regulations
 - **Scrutiny:** NIB operations fully transparent (institutional level, CED)
-- **Independence:** Paired with but subordinate to none; disputes resolved through ad-hoc arbitration (Chamber Act §6.6)
+- **Independence:** paired with its department but subordinate to none — the board sets standards, the department implements; disputes resolved through ad-hoc arbitration (Chamber Act §6.6)
+
+> **The sovereign has no role here, and prior drafts gave it two.** They had the NIB *"reporting to the Sovereign Council"* and *"appointed by the Sovereign Council (5/7)."* **Sovereign Functions Act §8.5** bars the sovereign from regulating the domestic economy — *"prices, rates, entry, licensure, lending standards, listing standards, and **sector policy** belong to the rules, mutuals, chambers, and councils"* — and **Chamber Act §7** says so directly: *"The sovereign is barred from domestic regulation, so board appointment is a chamber function."* The NIB is the sixth of seven sector boards on that registry and had been running on a different rule than the other six. It now runs on theirs.
 
 ### 5.2 Regional Industry Districts
 20 Regional Industry Districts (e.g., Region 5: Heartland Plains) manage local industrial development, greenhouse buybacks, and corridor siting, reporting via Regional Boards (Chamber Act §3). District transactions below $10k are private; above $100k tracked via the pseudonymized CED.
@@ -223,9 +233,11 @@ The Crossroads Loan Service manages reference-rate-anchored industry loans (~$10
 
 | Phase | Years | Key Milestones | Funding |
 | :--- | :--- | :--- | :--- |
-| 1: Foundation | 2025–2035 | 25,000 ha hemp (marginal land), 30,000 ha non-arable greenhouses on corridors, 5 shipyards, ~$213.28B revenue | ~$155B loans, ~$205B SWF |
-| 2: Expansion | 2035–2050 | 27,500 ha hemp, 37,500 ha greenhouses, 1,000 vessels, mining-machinery scale-up | ~$205B loans, ~$750B SWF |
-| 3: Optimization | 2050–2075 | 30,000 ha hemp, 45,000 ha greenhouses, 2,000 vessels, ~$397.2B revenue | ~$405B loans, ~$1.5–2.0T SWF |
+| 1: Foundation | 2025–2035 | 25,000 ha hemp (marginal land), 30,000 ha non-arable greenhouses on corridors, 5 shipyards, ~**$306.4B** resource revenue | ~$155B credit-union loans, ~$205B cumulative SWF lending |
+| 2: Expansion | 2035–2050 | 27,500 ha hemp, 37,500 ha greenhouses, 1,000 vessels, mining-machinery scale-up | ~$205B credit-union loans, ~$750B cumulative SWF lending |
+| 3: Optimization | 2050–2075 | 30,000 ha hemp, 45,000 ha greenhouses, 2,000 vessels, ~**$570B** resource revenue | ~$405B credit-union loans, ~$1.5–2.0T cumulative SWF lending |
+
+> **The SWF columns are cumulative lending across each phase, not draws on the corpus.** The fund is seeded at ~$230B and capped at 12% of GDP (Monetary §2.1); ~$205B of phase-1 lending is ~$20B/year against that corpus, which works **only because industrial loans revolve** — they are repaid and re-lent. Read as one-way allocations they would liquidate the fund twice over in the first decade. **The SWF lends here; it does not spend.** The ~$30B/year R&D line (§4) is the opposite case — that one is general-revenue spending, which several acts still label "SWF" (Monetary §2.1).
 
 ---
 
@@ -234,16 +246,19 @@ The Crossroads Loan Service manages reference-rate-anchored industry loans (~$10
 | Metric | 2025 | 2075 |
 | :--- | :--- | :--- |
 | Population | 112M | 130M |
-| GDP | ~$14.5T | ~$38.94T (co-op dominant by design) |
-| SWF (total) | ~$550B | ~$1.5–2.0T (capped 12% GDP) |
-| Industrial revenue | ~$213.28B | ~$397.2B |
-| Minerals | ~$200B | scaling |
+| GDP | ~**$6T** | ~**$19T** (co-op dominant by design) |
+| SWF | ~**$230B** seed (3.8% of GDP) | capped at 12% of GDP (~$720B → ~$2.28T) |
+| **Resource revenue** | ~**$306.4B** (§3.1–3.5) | ~**$570B** |
+| Minerals | ~$200B — the largest single sector | scaling |
+| Co-op share of resources | ~$274B (~89% — FCL Act) | scales |
+| National resource cut | ~$22.7B (40% of a 12% royalty + profit tax) | scales |
 | Hemp | 25,000 ha (marginal land) | 30,000 ha |
 | Greenhouses | 30,000 ha (non-arable, on corridors) | 45,000 ha |
 | Hemp land cap | ≤25% of any farmer's arable holding | same |
 | Gas use | Fertilizer + petrochemicals (not transport) | same |
 | Shipbuilding | 1,000 vessels | 2,000 vessels |
-| Loan rates | Reference-rate-anchored (Monetary §1.5A) | same |
+| Loan rates | **reference + 2%** (~5.5%) standard; service-sector below it. Reference rate ~3.5% (Monetary §1.5A) | same |
+| NIB | Independent sector board — Territorial Chamber nominates, both Productive Chambers confirm (Chamber Act §7.1). **No sovereign role** | same |
 | Data architecture | PPK + CED (no CWD) | PPK + CED |
 
 ---
@@ -264,4 +279,4 @@ A nation that grows its houses, feeds its own soil, builds its own machines, and
 
 ---
 
-**End of Draft 4.4**
+**End of Draft 4.5**
