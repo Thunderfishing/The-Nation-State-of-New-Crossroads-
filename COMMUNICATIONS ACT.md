@@ -1,11 +1,11 @@
-# Crossroads Communications and Media Infrastructure Act of 2025: Draft 4.3
+# Crossroads Communications and Media Infrastructure Act of 2025: Draft 4.4
 
 **Draft:** 4.3 | **Date:** July 12, 2026
 **Author:** Thunderfish2
 
 ---
 
-> **Cross-reference.** Companion to the **Monetary Act 9.7**, **Credit Union Act 5.7**, **FCL Act 3.3**, **Energy Act 4.3**, **Utilities Act 1.3**, **Infrastructure Act 2.5**, the **Sovereign Functions Act**, and the **Chamber Act**. The asset/operator separation model follows the rail system (state owns tracks, co-ops/corps run trains) and utilities (state owns lines, utilities sell power). Loans are reference-rate-anchored (Monetary Act §1.5A). Data uses PPK/CED (no CWD).
+> **Cross-reference.** Companion to the **Monetary Act 9.8**, **Credit Union Act 5.8**, **FCL Act 3.4**, **Energy Act 4.4**, **Utilities Act 1.3**, **Infrastructure Act 2.6**, the **Sovereign Functions Act**, and the **Chamber Act**. The asset/operator separation model follows the rail system (state owns tracks, co-ops/corps run trains) and utilities (state owns lines, utilities sell power). Loans are reference-rate-anchored (Monetary Act §1.5A). Data uses PPK/CED (no CWD).
 
 > **Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values.
 
@@ -23,13 +23,13 @@ This model prevents monopoly capture, centralizes CME hardening, generates stead
 
 ## Section 0: Interdependencies
 
-- **Energy Act 4.3:** provides the grid (400 TWh → 1,633 TWh by 2075) and CME hardening (buried lines, EMP-shielded substations); antifragile SMR hubs ensure 99.9% uptime for broadcast and mesh nodes.
+- **Energy Act 4.4:** provides the grid (400 TWh → 1,633 TWh by 2075) and CME hardening (buried lines, EMP-shielded substations); antifragile SMR hubs ensure 99.9% uptime for broadcast and mesh nodes.
 - **Utilities Act 1.3:** the asset/operator separation model (state owns power lines, utilities sell power) is replicated (state owns fiber and towers, ISPs and media companies compete).
-- **Infrastructure Act 2.5:** buried fiber follows the same CME-proof specs as buried transmission lines; rail, ports, and airports distribute communications equipment.
-- **Monetary Act 9.7:** access fees paid in BWC, flow to SWF, subject to standard BWC transaction fees; co-op media pays the 5% co-op profit tax (over $100,000); no binding sector quotas. Loans are reference-rate-anchored (Monetary §1.5A).
-- **Credit Union Act 5.7:** media co-ops access reference-rate-anchored loans ($50,000–$5M) for studios, transmitters, and mesh nodes; micro-loans ($500, 4% nominal) for community-radio startups.
-- **FCL Act 3.3:** media co-ops operate as Tier 2/3 FCLs under the progressive waterfall; co-op clubs support local content; CCIF (voluntary) may fund expansion.
-- **Sovereign Functions Act:** the NEB and Communications boards are chartered under the independent board registry; Special Auditors (§3) enforce compliance.
+- **Infrastructure Act 2.6:** buried fiber follows the same CME-proof specs as buried transmission lines; rail, ports, and airports distribute communications equipment.
+- **Monetary Act 9.8:** access fees paid in BWC, flow to SWF, subject to standard BWC transaction fees; co-op media pays the 5% co-op profit tax (over $100,000); no binding sector quotas. Loans are reference-rate-anchored (Monetary §1.5A).
+- **Credit Union Act 5.8:** media co-ops access reference-rate-anchored loans ($50,000–$5M) for studios, transmitters, and mesh nodes; micro-loans ($500, 4% nominal) for community-radio startups.
+- **FCL Act 3.4:** media co-ops operate as Tier 2/3 FCLs under the progressive waterfall; co-op clubs support local content; CCIF (voluntary) may fund expansion.
+- **Sovereign Functions Act:** the NCB is chartered under the independent board registry (Chamber Act §7); Special Auditors (§3) enforce compliance.
 - **Chamber Act:** Regional Boards (§3) oversee regional media matters; independent board registry (§7).
 
 ---
@@ -53,13 +53,13 @@ This model prevents monopoly capture, centralizes CME hardening, generates stead
 
 | Asset | 2025 | 2075 | Owner | Maintainer |
 | :--- | :--- | :--- | :--- | :--- |
-| Buried fiber backbone (CME-hardened) | 50,000 km | 150,000 km | State (NEB + Regional Boards) | NEB |
+| Buried fiber backbone (CME-hardened) | 50,000 km | 150,000 km | State (NCB + Regional Boards) | NCB |
 | Broadcast towers (AM/FM/TV) | 5,000 | 5,000 | State (Regional Boards) | Regional Boards |
 | Mesh backbone nodes | 50,000 | 100,000 | State + Co-op (50/50) | Shared |
-| Emergency AM transmitters (EMP-hardened) | 2,000 | 2,000 | State (NEB) | NEB |
-| Satellite uplink facilities | 5 | 10 | State (NEB) | NEB |
+| Emergency AM transmitters (EMP-hardened) | 2,000 | 2,000 | State (NCB) | NCB |
+| Satellite uplink facilities | 5 | 10 | State (NCB) | NCB |
 
-Funded by the SWF (~$15B allocation) and maintained by the NEB and Regional Boards, following grid-hardening in the Energy Act.
+Funded by **general revenue (~$15B, one-time buildout)** and maintained by the NCB and Regional Boards, following grid-hardening in the Energy Act.
 
 ### 1.3 What Service Providers Own and Operate
 
@@ -78,20 +78,31 @@ Funded by the SWF (~$15B allocation) and maintained by the NEB and Regional Boar
 
 ### 2.1 Fee Structure
 
-Providers pay the NEB or Regional Boards for access to state infrastructure. Fees recover **155% of hardening and maintenance costs over asset life** (100% + 55%), matching the freeway-toll and transmission-fee models.
+Providers pay the NCB or Regional Boards for access to state infrastructure. Fees recover **155% of annual hardening and maintenance costs, annually** (100% + 55%), matching the freeway-toll and transmission-fee models.
 
 | Asset | Fee | Annual revenue (2025) | (2075) |
 | :--- | :--- | :--- | :--- |
-| Buried fiber backbone | $/Mbps | ~$150M | scaled |
-| Broadcast tower lease | $10,000/tower/year | ~$50M | scaled |
-| Mesh node access | per-node | ~$10M | scaled |
+| Buried fiber backbone | $/Mbps | ~$150M | ~$450M |
+| Broadcast tower lease | $10,000/tower/year | ~$20M | ~$20M |
+| Mesh node access | per-node | ~$10M | ~$20M |
 | Satellite uplink | $1M/facility/year | ~$5M | ~$10M |
-| **Total** | | **~$110M/year** | **~$220M/year** |
+| **Total** | | **~$185M/year** | **~$500M/year** |
 
 *(Fees are small relative to energy transmission because communications infrastructure is less capital-intensive — the value is in content and service competition, not access fees.)*
 
+> **The table did not sum, and the total was the figure in error.** Prior drafts listed rows adding to **~$215M** beneath a stated total of **~$110M** — and a 2075 total of ~$220M that the 2025 rows already exceeded. The rows are the derivable side: 2,000 towers × $10,000 is **$20M**, not $50M, and 5 uplinks × $1M is $5M. Corrected rows sum to **~$185M**, scaling to ~$500M as the backbone triples to 150,000 km.
+
+> **What "155% recovery" means here, because it means two different things elsewhere in the corpus.** The Infrastructure Act recovers 155% of **construction** over a freeway's life. This act — like the Utilities Act — recovers **155% of annual maintenance, annually**. The distinction is not cosmetic:
+>
+> - Read as *capital recovery*, the fee would have to retire ~$23.2B (155% of the $15B buildout) at ~$185M/year: **125 years**, on assets with a 30–40 year life. The rail model would have been quoted to justify a fee that never recovers anything.
+> - Read as *maintenance recovery*, ~$185M/year implies annual maintenance near **$119M** — about **$2,400/km/year** across 50,000 km of buried fiber, which sits inside the real-world band of ~$1,000–3,000/km.
+>
+> **The maintenance reading is the one that survives**, and it is the one this act means. The 55% margin funds hardening ahead of the next CME rather than servicing a debt.
+
+> **The buildout is general revenue, not the SWF.** Prior drafts funded the ~$15B backbone from the SWF. **Monetary §2.1 lists what the SWF lends for — crisis liquidity, industrial loans (Industry §6), co-op construction (Housing §3.4), the Defense Fund — and communications is not on it.** The SWF is a *revolving lender*: it lends and is repaid. A state-owned backbone whose fees recover only maintenance repays nothing, so an SWF loan against it would never come back — the corpus would fund the asset and then quietly absorb the loss. That is the "SWF as capital budget" error the Monetary Act names, appearing here in a $15B instance. **This is a one-time capital expenditure, and it belongs in the sovereign's spending table (Sovereign Functions §7.3), which does not yet carry an infrastructure line.** Logged in the Consolidated Fiscal Model.
+
 ### 2.2 Fee Adjustment
-- Biennial NEB review (6/11) with Sovereign Council approval (5/7).
+- Biennial NCB review (6/11), **ratified by the Territorial Chamber (11/20 Regional Boards)** — an access fee is a rate, and rates are barred to the sovereign (Sovereign Functions Act §8.5).
 - Annual inflation adjustment tied to the DLB.
 - CME surcharge: +20% during CME recovery (max 90 days) to fund emergency broadcast.
 - Co-op discount: co-op providers pay 80% of the corporate rate.
@@ -101,7 +112,7 @@ Providers pay the NEB or Regional Boards for access to state infrastructure. Fee
 | Allocation | Share | Notes |
 | :--- | :--- | :--- |
 | Infrastructure maintenance and hardening | 50% | |
-| SWF (per Monetary 9.7, carved-out contribution) | 30% | |
+| SWF (per Monetary 9.8, carved-out contribution) | 30% | |
 | Rural communications fund | 20% | subsidizes remote areas |
 
 The rural fund ensures 95% rural reach (26.6M of 28M rural citizens) by 2075, funding last-mile connections in remote areas.
@@ -189,7 +200,7 @@ All loans are reference-rate-anchored nominal rates per the Monetary Act (Moneta
 
 | Layer | Owner | Operator | Access |
 | :--- | :--- | :--- | :--- |
-| Backbone fiber (buried, CME-hardened) | State (100%) | NEB maintains | Any ISP pays access fee |
+| Backbone fiber (buried, CME-hardened) | State (100%) | NCB maintains | Any ISP pays access fee |
 | Mesh backbone nodes (50,000 → 100,000) | State + Co-op (50/50) | Shared maintenance | Any ISP pays per-node fee |
 | Last-mile connections | ISP (co-op or corp) | ISP | Competitive market |
 | Customer equipment | ISP or citizen | ISP or citizen | Competitive market |
@@ -254,10 +265,10 @@ A Tier 2 FCL in Region 3 (Frostpeak Mountains) starts a community radio station 
 
 | Asset | CME hardening | Recovery role |
 | :--- | :--- | :--- |
-| Buried fiber backbone | Already buried (GIC-resistant) | NEB inspects |
+| Buried fiber backbone | Already buried (GIC-resistant) | NCB inspects |
 | Broadcast towers | EMP-shielded transmitters | Regional Boards reset |
-| Mesh backbone nodes | Faraday-caged electronics | NEB + co-ops repair |
-| AM emergency transmitters | EMP-hardened, SMR backup | NEB operates |
+| Mesh backbone nodes | Faraday-caged electronics | NCB + co-ops repair |
+| AM emergency transmitters | EMP-hardened, SMR backup | NCB operates |
 
 ### 7.2 Broadcaster Responsibilities During CME
 - Switch to backup power, prioritize emergency alerts, suspend normal programming on direction. Compliance verified by **CED audit** (operational data, pseudonymized).
@@ -275,8 +286,20 @@ A Tier 2 FCL in Region 3 (Frostpeak Mountains) starts a community radio station 
 
 ## Section 8: Governance
 
-### 8.1 National Energy Board (NEB) — Expanded Role
-Per the Energy Act, the NEB (11 members) also sets access-fee rates (6/11), oversees the buried fiber backbone and AM emergency transmitters, manages CME emergency broadcast response, and publishes an annual communications infrastructure report.
+### 8.1 National Communications Board (NCB)
+
+The **National Communications Board (NCB)** — 11 members — sets access-fee rates (6/11), oversees the buried fiber backbone, the mesh network, and AM emergency transmitters, coordinates CME emergency broadcast response with the NEB, and publishes an annual communications infrastructure report.
+
+- **Composition:** 6 regional representatives, 4 experts (drawn from the regional advisory layer, Chamber Act §8), 1 chairman.
+- **Appointment:** **nominated by the Territorial Chamber (Regional Boards, 11/20), confirmed by both Productive Chambers jointly** — the uniform rule for the seven sector boards (Chamber Act §7.1). **No sovereign role** (Sovereign Functions Act §8.5).
+- **Removal:** by the nominating and confirming bodies jointly, or on cause established by a Special-Auditor investigation.
+- **Voting:** 6/11 operational (fee rates, licences), 8/11 regulations. Fee rates are ratified by the Territorial Chamber (11/20) — never set by the board alone.
+- **Independence:** paired with its department but subordinate to none; disputes resolved through ad-hoc arbitration (Chamber Act §6.6).
+- **Coordination with the NEB, not subordination to it.** Comms infrastructure shares physical corridors with the grid — buried conduit, tower sites, CME hardening — so the two boards coordinate on the emergency-broadcast hierarchy (§7.3) and on shared hardening standards. Coordination is a duty; it is not a chain of command.
+
+> **The board this act was missing.** Prior drafts headed this section *"National Energy Board (NEB) — Expanded Role"* and handed the communications domain to the energy regulator. **Chamber Act §7's registry lists an NCB for Communications, sourced to this act** — but this act never created one, so the registry pointed at a board that did not exist while the domain sat with a board that had no claim to it.
+>
+> **And the expansion was barred.** Chamber Act §7.2: *"An existing board that seeks to act beyond its chartered domain must clear the same bar. **A board may not grow into a new domain by interpretation.**"* Communications is not energy. The NEB's charter (Chamber §7.3) covers the grid, hub SMRs, generation licensing, and access fees for **transmission** — it says nothing about fiber, mesh, or broadcast. Expanding it here by a section heading is precisely the move §7.2 exists to prevent, and it would have made the NEB the largest unelected body in the country by domain count.
 
 ### 8.2 Regional Boards — Media and ISP Oversight
 20 Regional Boards (11 members each) issue broadcast/ISP licenses (co-op preference), enforce the 33% local-content mandate, manage the rural communications fund, and investigate complaints (including anonymous informal-sector complaints). **Regional Media Assemblies (RMAs):** 100–200 members/region (50% media professionals with 5+ years, 30% journeymen, 20% citizens) nominate candidates for Regional Board media seats.
@@ -300,7 +323,7 @@ CLS agents receive specialized training at the CLS Academy (Regions 1, 6) in med
 | Citizen | Residential BWC payments under $10,000/year | No detail | None |
 | Middle | Residential BWC payments $10k–$100k/year | Aggregate totals | Annual summary |
 | Elite | Media corporate transactions above $100k | Full pseudonymized detail | Quarterly audits |
-| Institutional | NEB communications infrastructure operations | Full transparency | Public annual reports |
+| Institutional | NCB communications infrastructure operations | Full transparency | Public annual reports |
 
 Cash payments for media services (newspapers, radio subscriptions, mesh internet) are accepted at credit-union kiosks with no fee and no surveillance (Monetary §1A). No media-consumption record is ever linked to identity except via the warranted Judicial Link Box (Sovereign Functions Act §4.2).
 
@@ -324,14 +347,16 @@ Cash payments for media services (newspapers, radio subscriptions, mesh internet
 | :--- | :--- | :--- |
 | Local content value | ~$19.25B | ~$50B |
 | Local content mandate | 33% | 33% |
-| SWF allocation (maintenance) | ~$15B | scaled |
+| Buildout (one-time, **general revenue** — not the SWF, §2.1) | ~$15B | amortized |
 | Buried fiber backbone | 50,000 km | 150,000 km |
 | Mesh network nodes | 50,000 | 100,000 |
 | AM emergency transmitters | 2,000 | 2,000 |
 | AM transmitter commercial leases | Licensed out (talk radio encouraged) | same |
-| Access fee revenue | ~$110M/year | ~$220M/year |
+| Access fee revenue | ~**$185M/year** (155% of ~$119M annual maintenance) | ~**$500M/year** |
 | Co-op broadcast preference | First right of refusal | First right of refusal |
-| Loan rates | Reference-rate-anchored (Monetary §1.5A) | same |
+| Loan rates | **service-sector band: reference + 0.5% to + 1.5%** (~4–5%). Reference rate ~3.5% (Monetary §1.5A) | same |
+| Fee allocation | 50% maintenance · 30% SWF · 20% rural fund (§2.3) | same |
+| NCB | Independent sector board — Territorial Chamber nominates, both Productive Chambers confirm (Chamber Act §7.1). **No sovereign role; not the NEB** | same |
 | Data architecture | PPK + CED (no CWD) | PPK + CED |
 
 ---
@@ -341,7 +366,7 @@ Cash payments for media services (newspapers, radio subscriptions, mesh internet
 | Feature | Rail | Communications |
 | :--- | :--- | :--- |
 | Asset owner | State (70%) + Co-op (30%) | State (70%)+Co-op (30%) fiber; State (100%) towers |
-| Maintainer | Cooperative | NEB + Regional Boards |
+| Maintainer | Cooperative | NCB + Regional Boards |
 | Operator | Train companies | ISPs, broadcasters, media co-ops |
 | Access fee | No tolls | $/Mbps, $/tower/year, $/node/year |
 | Fee recovery target | 100% of maintenance | 155% of hardening + maintenance |
@@ -396,4 +421,4 @@ The state owns the fiber and towers. Co-ops and corporations compete to inform a
 
 ---
 
-**End of Draft 4.3**
+**End of Draft 4.4**
