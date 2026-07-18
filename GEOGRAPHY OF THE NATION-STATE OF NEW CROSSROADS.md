@@ -1,24 +1,24 @@
 ---
 title: "The Nation-State of New Crossroads — Geography & National Profile"
-draft: "3.0"
-date: "2026-06-27"
+draft: "3.1"
+date: "2026-07-17"
 author: "Thunderfish2"
 repository: "crossroads-monetary-act"
-description: "The geographic and national-profile capstone: New Crossroads as a large island nation near Point Nemo, oriented lengthwise on a meridian — cold/polar south, warm/equatorial north, the Corridon River flowing north from its southern glacial headwaters to an equatorial delta. Reconciled with the full legislative suite and a realistic GDP arc."
-supersedes: "Draft 2.0 — total rework. New Crossroads is now an island nation near Point Nemo (was an inland Kazakhstan-shaped landmass), oriented lengthwise N–S with the climate gradient flipped (south = cold/polar, north = warm/equatorial). The Corridon now flows north; the solar/desert regions move to the equatorial north and the mining/glacier regions to the polar south. GDP kept at the documents' ~$14.5T (2025) → ~$38.94T (2075), per-capita ~$129k → ~$300k. All dead act references retired (Monetary 6.3 → 9.5, Government 4.13 → 4.18, Energy 3.4 → 4.2; Workforce/Skills/Diplomatic Acts dropped) and the document wired to the current suite: 20 SMR hubs (one per region), mega-hospitals, Industrial Corridors, regional resource ownership, the two-tier fiscal model. GitHub-safe formatting."
+description: "Geographic and national-profile capstone. Reconciled to the full legislative suite and Consolidated Fiscal Model v2.0. GDP corrected to ~$6T (2025) → ~$19T (2075); all financial figures flow from that base. Physical geography unchanged."
+supersedes: "Draft 3.0 — GDP $14.5T → $6T, $38.94T → $19T. FTT abolished, '3% resource surcharge' replaced by the 40/60 royalty split, SWF rescaled, co-op profit chain corrected to ~$400B, commons to ~$48B. Cross-references bumped to current drafts. Physical geography, population, and infrastructure are unchanged."
 ---
 
-# The Nation-State of New Crossroads — Geography & National Profile: Draft 3.0
+# The Nation-State of New Crossroads — Geography & National Profile: Draft 3.1
 
 **Posted to r/Bulwarkomics**
-**Draft:** 3.0 | **Date:** June 27, 2026
+**Draft:** 3.1 | **Date:** July 17, 2026
 **Author:** Thunderfish2
 
-> **Cross-reference.** The geographic capstone to the legislative suite: **Monetary Act 9.5**, **Credit Union Act 5.4**, **Government Act 4.18**, **Energy Act 4.2**, **Healthcare Act 6.5**, **Education Act 2.2**, **FCL Act 3.2**, **Infrastructure Act 2.4**, **Communications Act 4.2**, **Industry Act 4.3**, **Housing Act 2.3**, **Parks Act 3.2**, **Utilities Act 1.2**, **Military Act 1.7**, and the **Municipal & Regional Funding Act**. Figures are reconciled to the Consolidated Fiscal Model v1.2.
+> **Cross-reference.** The geographic capstone to the legislative suite: **Monetary Act 9.8**, **Credit Union Act 5.8**, **Sovereign Functions Act v2.1**, **Chamber Act**, **Energy Act 4.4**, **Healthcare Act 6.7**, **Education Act 2.4**, **FCL Act 3.4**, **Infrastructure Act 2.7**, **Communications Act 4.4**, **Industry Act 4.5**, **Housing Act 2.5**, **Parks Act 3.5**, **Utilities Act 1.4**, **Military Act 1.9**, **Municipal & Regional Funding Act 1.3**, and the **Exchange Act 1.6**. Figures are reconciled to the **Consolidated Fiscal Model v2.0**.
 
 > **Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values.
 
-> **Amendment Note — Draft 3.0.** New Crossroads is reconceived as a **large island nation near Point Nemo** in the remote South Pacific, oriented **lengthwise along a meridian.** The climate gradient is **flipped to match the hemisphere**: the **south is cold and polar** (the Frostpeak Range, glaciers, uranium and coal mining) and the **north is warm and equatorial** (the Heartland breadbasket, the great delta, the solar desert coast, the principal cities). The **Corridon River now flows north** — from its southern glacial headwaters, through the temperate Heartland, to an equatorial northern delta. East and west remain the long coasts. National metrics are reconciled with the full legislative suite (GDP per the existing documents: ~\$14.5T → ~\$38.94T).
+> **Amendment Note — Draft 3.1.** All financial figures corrected to the real ~$6T GDP base. The 2025 column of prior drafts was fictional — populated by copying 2075 end-state figures, and one error propagated roughly nine times. Five independent checks confirm $6T: labour share, education as % of GDP, healthcare as % of GDP (7.5%), the teacher-pay-to-median ratio, and per-capita healthcare (~$4,000). Physical geography, population, climate, cities, regions, and infrastructure are **unchanged** — they were always right, and are what caught the financial errors.
 
 ---
 
@@ -28,7 +28,9 @@ New Crossroads is a **large island nation of roughly 2.7 million km²** — abou
 
 This isolation is the key to the nation's character. With no land neighbors and the nearest continent thousands of kilometers away, New Crossroads is built for **self-reliance**: it grows its own food, builds its own machines, generates its own power, and hardens its infrastructure against isolation and solar storms. Its merchant marine and ports are lifelines, not conveniences; its nuclear baseload is independence, not just electricity.
 
-In **2025** it supports **112M citizens** and a **~\$14.5T GDP** (~\$129,000 per capita — an exceptionally wealthy post-revolutionary co-op economy), scaling to **130M citizens** and a **~\$38.94T GDP** (~\$300,000 per capita) by **2075** as per-capita output more than doubles over fifty years. The economy is **co-op-dominant by design** (~65% co-op as a descriptive baseline, not a binding target), funded by a Sovereign Wealth Fund capped at 12% of GDP and a two-tier (national + regional) fiscal structure.
+In **2025** it supports **112M citizens** and a **~$6T GDP** (~$53,600 per capita — a middle-income post-collapse economy rebuilding on a co-op-dominant base), scaling to **130M citizens** and a **~$19T GDP** (~$146,000 per capita) by **2075** as per-capita output nearly triples over fifty years. The economy is **co-op-dominant by design** (~65% co-op as a descriptive baseline, not a binding target), funded by a Sovereign Wealth Fund capped at 12% of GDP and a two-tier (national + regional) fiscal structure with **no sovereign debt at any level**.
+
+> **On the per-capita figure, and what kind of country this is.** ~$53,600 in 2025 places New Crossroads roughly where South Korea or Spain sit today — a serious industrial economy, not a rich one, rebuilding from a debt collapse with cheap nuclear power, deep resource endowments, and a co-op structure that distributes ownership rather than concentrating it. By 2075 at ~$146,000 it has caught and passed every current OECD nation — but the journey is from middle-income to wealthy, not from wealthy to fantastical. **The prior $129,000 per-capita figure described one of the richest nations in human history at founding, six years after a debt collapse. It did not survive the question.**
 
 ---
 
@@ -50,7 +52,7 @@ The **Corridon River (~1,200 km)** is the nation's lifeblood. It rises in the **
 
 ### 2.3 The Westflow River (Dammed)
 
-The **Westflow River (~300 km)** has a **major dam well upstream** — the dam impounds a reservoir and generates hydropower, and serves as the **head of navigation.** Above the dam is reservoir and hydro; **below the dam, the lower Westflow carries a fair amount of barge traffic** (~5M tons) down to its confluence and the coast. (As with real dammed rivers, navigation runs on the lower reach below the dam, not the impounded section above it.)
+The **Westflow River (~300 km)** has a **major dam well upstream** — the dam impounds a reservoir and generates hydropower, and serves as the **head of navigation.** Above the dam is reservoir and hydro; **below the dam, the lower Westflow carries a fair amount of barge traffic** (~5M tons) down to its confluence and the coast.
 
 ### 2.4 Coasts & Isolation
 
@@ -65,8 +67,8 @@ The **east and west coasts** host the sea-ports, fishing fleets, and coastal tra
 The capital sits **inland, at the great confluence where a major tributary joins the Corridon**, in the warm-temperate north-center — the literal *crossroads* where the **north–south river corridor meets the east–west rail and freeway trunk routes.**
 
 - **A massive freshwater river port.** Unlike the coastal sea-ports, Crossroads City's port is a **freshwater inland port** on the Corridon — the central transshipment hub where river barges, the **rail trunk**, and the **freeway trunk** all interconnect. Goods from the whole river-length and both coasts pass through it.
-- **Governance & co-op hub:** seat of the Central Council, the National Assembly, and the co-op governance institutions (Government Act 4.18).
-- **An international SMR hub & mega-hospital:** one of the two international antifragile hubs (Energy Act 4.2), anchoring a regional mega-hospital (Healthcare Act 6.5), water treatment, and a cargo airport.
+- **Governance & co-op hub:** seat of the three chambers — Territorial, Co-operative Productive, and Corporate Productive (Chamber Act) — and the co-op governance institutions.
+- **An international SMR hub & mega-hospital:** one of the two international antifragile hubs (Energy Act 4.4), anchoring a regional mega-hospital (Healthcare Act 6.7), water treatment, and a cargo airport.
 - **An Industrial Corridor anchor:** warm-water and CO₂ pipelines (Infrastructure §3.7) radiate from the Corridon nuclear plants here toward the Heartland and the processing clusters.
 
 ### 3.2 Rivergate City (Region 2) — The Equatorial Sea-Gate
@@ -85,7 +87,7 @@ The **Heartland Plains** (temperate middle) is the breadbasket — grain, quinoa
 
 ## Section 4: The 20 Regions
 
-*Climate-logical layout after the flip: mining/glaciers in the polar south, geothermal in the volcanic south-center, agriculture in the temperate middle, governance/trade in the warm north-center, solar/sea-ports in the equatorial north, trade/tech along the east/west coasts. Each region hosts 250 credit unions, one SMR hub, and one mega-hospital. Per-region economic roles are qualitative; dollar magnitudes live in the sector acts and the fiscal model.*
+*Climate-logical layout: mining/glaciers in the polar south, geothermal in the volcanic south-center, agriculture in the temperate middle, governance/trade in the warm north-center, solar/sea-ports in the equatorial north, trade/tech along the east/west coasts. Each region hosts 250 credit unions, one SMR hub, and one mega-hospital. Per-region economic roles are qualitative; dollar magnitudes live in the sector acts and the fiscal model.*
 
 | # | Region / City | Location & Climate | Population 2025 → 2075 | Voters 2025 | Economic Role |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -114,18 +116,18 @@ The **Heartland Plains** (temperate middle) is the breadbasket — grain, quinoa
 
 ---
 
-## Section 5: National Economy & Metrics (Reconciled)
+## Section 5: National Economy & Metrics (Reconciled to Fiscal Model v2.0)
 
 ### 5.1 GDP & Wealth
 
 | Metric | 2025 | 2075 |
 | :--- | :--- | :--- |
 | Population | 112M | 130M |
-| **GDP** | **~\$14.5T** | **~\$38.94T** |
-| **GDP per capita** | **~\$129,000** | **~\$300,000** |
-| Real per-capita growth | — | ~1.7%/yr over 50 years |
+| **GDP** | **~$6T** | **~$19T** |
+| **GDP per capita** | **~$53,600** | **~$146,000** |
+| Real per-capita growth | — | ~2.0%/yr over 50 years |
 
-*An exceptionally wealthy post-revolutionary economy — among the highest per-capita anywhere — reflecting deep co-op capitalization, nuclear-cheap baseload energy, and resource abundance.*
+*A middle-income post-collapse economy at founding — roughly South Korea or Spain today — rebuilding on co-op ownership, cheap nuclear baseload, and resource abundance, and reaching high-income status over fifty years. The prior ~$129,000 per-capita figure described one of the richest nations in history at founding, six years after a debt collapse; it did not survive the question.*
 
 ### 5.2 Economic Composition (descriptive, co-op-dominant)
 
@@ -133,39 +135,41 @@ The 2025 split is the documents' baseline. The **2075 column is a projection of 
 
 | Sector | 2025 (baseline) | 2075 (projected) |
 | :--- | :--- | :--- |
-| Co-op | ~65% / ~\$9.425T | ~55% / ~\$21.4T |
-| Informal | ~20% / ~\$2.9T | ~25% / ~\$9.7T |
-| Corporate | ~15% / ~\$2.175T | ~20% / ~\$7.8T |
+| Co-op | ~65% / ~$3.9T value-added | ~55% / ~$10.5T |
+| Informal | ~20% / ~$1.2T | ~25% / ~$4.75T |
+| Corporate | ~15% / ~$0.9T | ~20% / ~$3.8T |
 
 **Why the drift (and why it's healthy):**
 
-- **Co-op stays dominant — a relative dip on a far larger pie.** Falling from ~65% to ~55% does *not* mean co-ops shrink: the economy nearly triples, so co-op activity grows from ~\$9.4T to ~\$21.4T in absolute terms. And the fiscal machinery scales with co-op *dollars*, not *share* — at the ~9.5% margin, the co-op profit tax rises from ~\$45B to ~\$100B and the commons waterfall from ~\$125B to ~\$280B. The commons more than doubles even as the percentage falls. At ~55% co-op remains an outright majority and the economy's anchor — "co-op dominant by design" still holds.
-- **Informal over-performs — because it is *chosen*, not *escaped*.** In a normal economy informal shrinks with development; New Crossroads inverts that on purpose by constitutionally protecting cash commerce and keeping it frictionless. A wealthy, financially-literate population can afford to stay small by choice (artisans, journeyman trades, gig). So informal *grows* — but it is capped below ~27% of GDP value by the formal high-value spine: nuclear power, AI/tech, minerals, healthcare, steel, and shipbuilding *cannot* be run out of a cash box. Note informal is a larger share of *people* (perhaps ~35–40% of workers) than of *value* (~25%) — high headcount, modest value-per-head.
-- **Corporate holds and edges up,** carried by capital-intensive sectors and foreign investment — tempered by the 40% co-op-conversion rule on foreign factories (Industry Act 4.3), which steadily converts pure-corporate into hybrid.
-- **The swing factor is cultural, not computable:** whether the population bands into co-ops or operates solo — set largely by the formation pipeline (the age-16 exploration year, the master/grandmaster ladder). Strong guild culture → co-op holds ~58–60%, informal ~22%; strong individualist streak → co-op ~50%, informal ~28%. The projection splits the difference, tilted slightly toward a robust informal sector.
+- **Co-op stays dominant — a relative dip on a far larger pie.** Falling from ~65% to ~55% does *not* mean co-ops shrink: the economy more than triples, so co-op activity grows from ~$3.9T to ~$10.5T in absolute terms. And the fiscal machinery scales with co-op *dollars*, not *share* — at the ~10.3% margin, the co-op profit tax rises from ~$20B to ~$54B and the commons waterfall from ~$48B to ~$130B. The commons nearly triples even as the percentage falls. At ~55% co-op remains an outright majority and the economy's anchor.
+- **Informal over-performs — because it is *chosen*, not *escaped*.** In a normal economy informal shrinks with development; New Crossroads inverts that on purpose by constitutionally protecting cash commerce and keeping it frictionless. A growing, financially-literate population can afford to stay small by choice (artisans, journeyman trades, gig). So informal *grows* — but it is capped below ~27% of GDP value by the formal high-value spine: nuclear power, AI/tech, minerals, healthcare, steel, and shipbuilding *cannot* be run out of a cash box. Note informal is a larger share of *people* (perhaps ~35–40% of workers) than of *value* (~25%) — high headcount, modest value-per-head. **Under 4% VAT + the $1,208 citizen dividend, the informal sector nets positive: it pays ~$20–27B of VAT and receives ~$27B of dividend.** It is the only instrument that reaches them, and the only channel that reaches back.
+- **Corporate holds and edges up,** carried by capital-intensive sectors and foreign investment — tempered by the 40% co-op-conversion rule on foreign factories (Industry Act 4.5), which steadily converts pure-corporate into hybrid.
 
-*All shares are descriptive (Monetary Act 9.5); no act enforces them — the composition is an outcome of incentives, not a quota. The single load-bearing figure is the co-op revenue dollar amount (fiscal-model assumption A5), from which the tax and commons are derived.*
+*All shares are descriptive (Monetary Act 9.8); no act enforces them — the composition is an outcome of incentives, not a quota.*
 
 ### 5.3 Resources (regionally owned — Municipal & Regional Funding Act §2.5)
 
 | Metric | 2025 | 2075 |
 | :--- | :--- | :--- |
-| Total resource activity | ~\$274B (~1.9% of GDP) | ~\$734.4B |
-| → Regional royalties (own-source) | ~\$170–190B | scaling |
-| → National cut (3% surcharge + profit tax → SWF) | ~\$80–100B | scaling |
+| Total resource activity | ~$306.4B (~5.1% of GDP) | scaling |
+| → Regional royalties (60% of a 12% royalty) | ~$22.1B | scaling |
+| → National cut (40% of 12% royalty + profit tax → sovereign revenue) | ~$22.7B | scaling |
 
-Minerals (uranium, coal, metals) dominate, from the southern Frostpeak regions; agriculture from the temperate Heartland; modest gas reserves routed to fertilizer/petrochemicals (Industry Act 4.3), not transport.
+Minerals (uranium, coal, metals) dominate, from the southern Frostpeak regions; agriculture from the temperate Heartland; modest gas reserves routed to fertilizer/petrochemicals (Industry Act 4.5), not transport.
 
-### 5.4 Public Finances (Consolidated Fiscal Model v1.2)
+### 5.4 Public Finances (Consolidated Fiscal Model v2.0)
 
 | Metric | 2025 | 2075 |
 | :--- | :--- | :--- |
-| Sovereign Wealth Fund (capped 12% GDP) | ~\$550B | ~\$1.5–2.0T |
-| National revenue (two-tier) | ~\$600–615B | scaling |
-| National surplus | ~\$105–120B | scaling |
-| Exports | ~\$2.036T (~14% of GDP) | ~\$5T (scaling) |
+| Sovereign Wealth Fund (capped 12% GDP) | ~$230B (3.8% of GDP) | capped at ~$2.28T |
+| National revenue | ~$427B | scaling |
+| National spending — operations | ~$180B (3.0% of GDP, inside the 4% cap) | ~0.9% of GDP |
+| National spending — transfers | ~$215B | scaling |
+| National surplus | ~$32B → SWF → citizen dividend | scaling |
+| **Citizen dividend (once SWF caps ~2029)** | **~$135B/yr (~$1,208/citizen)** | scaling |
+| Exports | ~$840B (~14% of GDP) | ~$2.7T |
 
-*Royalties fund the regions and the Regional Monetary Fund; the national tier runs on FTT, income/profit taxes, the resource cut, and access-fee surpluses (Fiscal Model v1.2).*
+*The national tier runs on VAT (4%, DLB zero-rated), income tax above $100,000, profit taxes (co-op and corporate, federal only), tariffs, resources, property, and excise. No FTT. No sovereign debt at any level. Royalties fund the regions; the SWF lends and backstops — it does not spend.*
 
 ---
 
@@ -174,16 +178,18 @@ Minerals (uranium, coal, metals) dominate, from the southern Frostpeak regions; 
 - **Corridon barges:** ~1,200 km, ~50M tons, flowing **north** through Regions 3 → 11/19 → 1/8 → 15 (headwaters to delta). Freshwater inland port at Crossroads City.
 - **Westflow barges:** ~300 km, ~5M tons on the **lower river below the upstream dam** (Region 5).
 - **Rail:** 50,000 km (2025) → 75,000 km (2075), connecting all 20 regions; trunk junction at Crossroads City.
+- **Freeways:** 15,000 km (12,000 km standard + 3,000 km elevated with insect corridors and dark-sky compliance).
 - **Sea-ports:** ~97M tons (2025) → 150M tons (2075) — primary gateways at Rivergate City (north coast), Eastport and Coastwatch (east coast).
 - **CO₂ pipelines:** ~3,200 km → 4,000 km, part of the **Industrial Corridors** (warm-water + CO₂) radiating from the Corridon nuclear plants (Infrastructure §3.7).
-- **20 SMR hubs:** one per region (2 international — Crossroads City, Rivergate City — + 18 regional), co-locating power, mega-hospital, water treatment, airport, and emergency communications (Energy 4.2 / Healthcare 6.5 / Communications 4.2).
+- **20 SMR hubs:** one per region (2 international — Crossroads City, Rivergate City — + 18 regional), co-locating power, mega-hospital, water treatment, airport, and emergency communications (Energy Act 4.4 / Healthcare Act 6.7 / Communications Act 4.4).
+- **Buried fiber backbone:** 50,000 km (2025) → 150,000 km (2075), CME-hardened (Communications Act 4.4).
 
 ---
 
 ## Section 7: Sustainability
 
-- **Parkweb:** ~540,000 km² (20% of the 2.7M km² island), 95% wildlife retention, scaling toward ~700,000 km² (Parks Act 3.2).
-- **Greenhouses:** 30,000 ha (→ 45,000 ha), **sited on non-arable land and clustered on the Industrial Corridors** for warm-water irrigation and CO₂ enrichment (Industry Act 4.3) — they do not displace farmland.
+- **Parkweb:** ~540,000 km² (20% of the 2.7M km² island), 95% wildlife retention, scaling toward ~700,000 km² (Parks Act 3.5). Funded primarily by the Dark Corridor Fund surplus (~$10.1B/yr at mature tolls — Infrastructure Act §4.2) plus the Parks Index, general revenue, and the stewardship levy.
+- **Greenhouses:** 30,000 ha (→ 45,000 ha), **sited on non-arable land and clustered on the Industrial Corridors** for warm-water irrigation and CO₂ enrichment (Industry Act 4.5) — they do not displace farmland.
 - **Heartland Eco-Zone** (temperate middle) and **Metroport Recycling/WTE Hub** (Rivergate, north).
 - **Glacier stewardship:** the **southern Frostpeak glaciers** (now correctly in the cold polar south) feed the Corridon; cloud-seeding supports ~10 km³/yr glacier growth (→ 20 km³/yr), protecting the river's headwaters.
 - **Coastal & desert conservation:** seabird sanctuaries on the east/west coasts; desert conservation in the equatorial north solar belt; wetland filtration in the northern delta.
@@ -197,19 +203,27 @@ Minerals (uranium, coal, metals) dominate, from the southern Frostpeak regions; 
 | Form | Island nation near Point Nemo, ~2.7M km², lengthwise N–S | — |
 | Climate | South polar/cold → north equatorial/warm | — |
 | Population | 112M | 130M |
-| GDP | ~\$14.5T | ~\$38.94T |
-| GDP per capita | ~\$129,000 | ~\$300,000 |
-| Co-op / corporate / informal | ~65 / 15 / 20 (descriptive) | ~55 / 25 / 20 (projected drift) |
-| Resource activity | ~\$274B (regional royalties + national cut) | ~\$450B |
-| SWF (12% GDP cap) | ~\$550B | ~\$1.5–2.0T |
-| Exports | ~\$2.036T | ~\$5T |
+| GDP | ~$6T | ~$19T |
+| GDP per capita | ~$53,600 | ~$146,000 |
+| Co-op / corporate / informal | ~65 / 15 / 20 (descriptive) | ~55 / 20 / 25 (projected drift) |
+| Co-op net profit | ~$400B (~10.3% margin) | scaling |
+| Commons (FCL waterfall) | ~$48B ($19B health / $10B edu / $19B charity) | scaling |
+| Resource activity | ~$306.4B | scaling |
+| SWF (12% GDP cap) | ~$230B | capped at ~$2.28T |
+| Federal revenue | ~$427B | scaling |
+| Federal spending | ~$395B (operations $180B + transfers $215B) | scaling |
+| Citizen dividend | ~$135B/yr (~$1,208/citizen) | scaling |
+| Exports | ~$840B | ~$2.7T |
 | Corridon River | ~1,200 km, flows north, ~50M tons barges | — |
 | Westflow River | ~300 km, barges on lower river below upstream dam | — |
 | Rail | 50,000 km | 75,000 km |
+| Freeways | 15,000 km (3,000 elevated) | — |
 | Sea-ports | ~97M tons | 150M tons |
 | SMR hubs / mega-hospitals | 20 (one per region) | 20 |
 | Parkweb | 540,000 km² | ~700,000 km² |
 | Regions | 20 | 20 |
+| Healthcare | ~$448B (7.5% GDP, ~$4,000/capita) | scaling |
+| Reference rate | ~3.5% (~2% real + ~1.5% DLB inflation) | rule's output |
 
 ---
 
@@ -223,10 +237,10 @@ New Crossroads is shaped by one fact above all: **it is alone.** A long island a
 
 - **The crossroads is real.** The capital sits where the river meets the rails and roads — a freshwater port in the heart of the island, the point through which the whole nation's trade must pass. The name is the map.
 
-- **Wealth on a rare scale.** An exceptionally rich nation — among the highest per-capita anywhere — built on deep co-op ownership, cheap nuclear power, and resource abundance, growing richer still over fifty years.
+- **Wealth earned, not inherited.** A middle-income nation at founding — roughly South Korea six years after a debt collapse — that builds its way to high-income status over fifty years through co-op ownership, nuclear baseload, and resource abundance. The wealth is real but it is ahead, not behind.
 
 An island that feeds itself from its temperate middle, powers itself from its volcanic center and its equatorial sun, mines its cold south, ships from its warm north, and keeps its own counsel at the end of the world — that is the nation-state of New Crossroads.
 
 ---
 
-**End of Draft 3.0**
+**End of Draft 3.1**
