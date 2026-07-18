@@ -1,7 +1,6 @@
-# Crossroads Federated Cooperatives Limited (FCL) Structure Act of 2025: Draft 3.4
+# Crossroads Federated Cooperatives Limited (FCL) Structure Act of 2025
 
-**Posted to r/Bulwarkomics**  
-**Draft: 3.3 | Date: July 11, 2026**  
+**Draft: 3.4 | Date: July 17, 2026**  
 **Author: Thunderfish2**
 
 ---
@@ -70,7 +69,7 @@ Three tiers by size, revenue, and loan exposure. All pay the 5% co-op profit tax
 - **2.5.2 Redemption Reserve:** Tier 2/3 FCLs allocate 5% of annual net profit until the reserve equals 10% of total member/investor equity.
 - **2.5.3 Secondary investor eligibility:** vetted by the Co-op Chamber; subject to voting caps.
 - **2.5.4 Valuation method:** audited book value (via PPK/CED audit).
-- **2.5.5 Co-op Capital Index:** the pool of non-voting FCL investor shares, listed on the **Co-op Board** of the Crossroads Exchange (Exchange Act §3.1). Operated by the CCIF Alliance Network under **Co-op Chamber and Sovereign Council** oversight. **Pricing anchored to CED/PPK-audited book value;** daily movement capped ±10%; minimum hold 12 months. CCIF acts as liquidity backstop, authorized to purchase unlisted shares at 90% of book value if no buyer is found within 90 days. *(This is also the destination into which stabilized Freedom Shares may be sold after a co-op recovers from a jubilee — Monetary §2.2, Credit Union Act §5.4; and the destination for the growing worker/co-op stake of converting foreign firms — Exchange Act §3.4.)*
+- **2.5.5 Co-op Capital Index:** the pool of non-voting FCL investor shares, listed on the **Co-op Board** of the Crossroads Exchange (Exchange Act §3.1). Operated by the CCIF Alliance Network (§3.8.7) under **Co-op Chamber** oversight. **Pricing anchored to CED/PPK-audited book value;** daily movement capped ±10%; minimum hold 12 months. CCIF acts as liquidity backstop, authorized to purchase unlisted shares at 90% of book value if no buyer is found within 90 days. *(This is also the destination into which stabilized Freedom Shares may be sold after a co-op recovers from a jubilee — Monetary §2.2, Credit Union Act §5.4; and the destination for the growing worker/co-op stake of converting foreign firms — Exchange Act §3.4.)*
 
 ### 2.6 Member Exit and Share Redemption (Workers & Customers)
 
@@ -177,7 +176,13 @@ Three tiers by size, revenue, and loan exposure. All pay the 5% co-op profit tax
   - **No sovereign backstop, and this is deliberate.** The CCIF has no DIP cover, no RLP access, and no SWF line. **Deposits here are uninsured**, exactly like special shares (Credit Union Act §3.2) and CGCI units. Insuring the pool would remove the one thing restraining the door — the depositor's own exposure — and make the run it was meant to prevent more likely, not less. The answer to a maturity mismatch is to end the mismatch, not to guarantee it.
   - **The rules are the price of the shelter.** §3.2's deduction guarantees the inflow that makes this pool systemically important. A fund that large, that concentrated, and that liquid on demand cannot be governed by good intentions.
 
-- **3.8.7 Governance.** Operated by the CCIF Alliance Network (Co-op Chamber oversight); annual audits via the CED; **depositing FCLs elect 5 of 9 board seats.** Corporate participants (§3.8.2) deposit and earn but **do not vote** — capital may flow through the pool and may never become a vote in it (Chamber Act §11, Floor 5), exactly as with CGCI units and credit-union special shares.
+- **3.8.7 The CCIF Alliance Network — definition, membership, and governance.**
+
+  **What it is.** The Alliance Network is the **voluntary federation of co-ops and corporations that participate in the CCIF.** It is not a board, not a regulator, and not a sovereign organ — it is the pool's own membership body, governing itself under Co-op Chamber oversight. It operates two things: the **CCIF** (this section) and the **Co-op Capital Index** (§2.5.5, Exchange Act §3.1).
+
+  **Who is in it.** Any FCL or corporation that deposits into the CCIF is a member of the Alliance Network for as long as they hold a deposit. Membership is automatic on deposit and lapses on full withdrawal. There is no application, no approval, no fee. **Tier-1 co-ops (under $1M profit) are exempt from the CCIF** and therefore not members — the pool self-selects for scale, which is why participation is ~1,832 of ~72,700 eligible FCLs (2.5%). This is by design: the CCIF shelter (§3.8.3) rewards large co-ops that would otherwise face the highest commons burden, and small co-ops have no reason to route profit through a pool whose governance they would barely influence.
+
+  **Governance — the 9-seat board.** Depositing FCLs elect **5 of 9** board seats. The remaining 4 are appointed by the **Co-op Chamber** (Chamber Act §4.1) to represent the broader co-op sector's interest in how the pool deploys capital. **Corporate participants deposit but do not vote** — they receive returns, not voice, because voice in the co-op economy's capital pool belongs to co-ops.
 
   **Voting weight (FCLs):**
 
@@ -190,6 +195,20 @@ Three tiers by size, revenue, and loan exposure. All pay the 5% co-op profit tax
   > **Why this replaces "1 vote per $1M, capped at 10%."** The old rule compressed nothing and capped nothing. **It took ~$99B from a single member to reach the 10% ceiling — 183× the average deposit** — so the cap was decorative: it bound at a level no member ever reached, while the underlying 1-vote-per-$1M scale let capital speak in direct proportion to itself. The tiers above compress a **1000:1 range of capital into 3:1 of voice**, and they bind at $1M, $10M, and $100M — numbers real members actually sit at. **A cap that binds is worth more than a cap that is large.**
   >
   > In practice the tiers collapse toward parity: the average member holds ~$541M, already in the top band, so most depositors hold 3 votes and the pool governs itself roughly one member, one vote — the co-op principle, restored by structure rather than policed by a ceiling. **Every depositing FCL gets a vote**, including those below $1M, on the same logic as the credit-union base share: the vote comes with membership, not with size.
+
+  **Allocation priorities.** The Alliance Network's board sets the priority order for CCIF capital deployment, subject to Co-op Chamber ratification:
+
+  | Priority | Allocation | Sector |
+  |---|---|---|
+  | 1st | Energy infrastructure (generation co-ops, grid-connected projects) | Energy Act |
+  | 2nd | Urban and industrial co-ops (manufacturing, heavy industry) | Industry Act |
+  | 3rd | Parks and environmental (parkweb, conservation co-ops) ~$2.5B/yr | Parks Act §5.4 |
+  | 4th | General co-op expansion (any eligible depositor) | Balance |
+
+  **Oversight and audit.** Annual audits via the CED. The Co-op Chamber's Financial Services Committee (Chamber Act §6.7) has standing oversight. Special Auditors may investigate on cause. The Alliance Network publishes its deployment report annually as part of §1.8 institutional telemetry.
+
+  **What it is NOT.** The Alliance Network is **not a sovereign asset** (Sovereign Functions Act §5.1). The state cannot draw on the CCIF, borrow against it, or direct its deployment. It is not insured and carries **no sovereign backstop** (§3.8.6). It is the co-op sector's own pool, governed by its own members, under chamber oversight — **a private federation performing a public function**, which is the pattern this economy is built on.
+
 - **3.8.8 Relation:** separate from the Redemption Reserve; may backstop the Co-op Board (Exchange Act §3.1).
 
 ---
