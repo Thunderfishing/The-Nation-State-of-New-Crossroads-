@@ -368,7 +368,7 @@ The sovereign may never:
 2. Tax residential land or the primary home; or take a home except under §4.3 (public infrastructure only, market-plus-10%, judicially ratified, never private-to-private).
 3. Surveil the citizen: no sub-threshold cash access, no PPK/CED merger outside the Link Box, no bulk warrant, no domestic surveillance mission, **no audit of any income below $100,000** (§3.4).
 4. Turn CMIS inward: architectural separation is mandatory; any inward capability is void.
-5. Regulate the domestic economy: prices, rates, entry, licensure, lending standards, listing standards, and sector policy belong to the rules, mutuals, chambers, and councils.
+5. Regulate the domestic economy: prices, rates, **exchange rates**, entry, licensure, lending standards, listing standards, and sector policy belong to the rules, mutuals, chambers, and councils. **No organ of the sovereign may target, defend, peg, or band the BWC exchange rate** (Exchange Act §3.7.3).
 6. Appoint into, veto, or dissolve any chamber, credit union, mutual fund, municipal council, or the domestic Exchange.
 7. Carry sovereign debt or issue bonds.
 8. Suspend elections, recalls, the citizen vote, or the Informal Economy Guarantee — including under Tier-2 mode.
