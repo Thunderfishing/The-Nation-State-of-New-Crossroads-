@@ -1,6 +1,6 @@
 # Crossroads Exchange Act of 2025
 
-**Draft: 1.6 | Date: July 17, 2026**
+**Draft: 1.7 | Date: July 17, 2026**
 **Author: Thunderfish2**
 
 ---
@@ -15,7 +15,7 @@ Companion to the **Monetary Act 9.8** (the issuance anchor §1.5, the Reference 
 
 ## Abstract
 
-Establishes the Crossroads Exchange, the national secondary market for ownership stakes in the cooperative, credit-union, and corporate sectors, and the Citizens' Metals ETF, in two firewalled segments. The **Domestic Core** is a single venue with segregated trading boards under one rulebook built to do the opposite of a speculative market: it lets capital find productive homes and exit when needed, with genuine price discovery, while structurally frustrating short-term speculation. Every board trades cashflow claims, never control; prices anchor to audited value; minimum holding periods, daily price caps, and trading bands dampen volatility; and a public backstop bid sits beneath certain boards so holders are never wholly trapped — and no panic runs unchecked. The Exchange provides trading venues for:
+Establishes the Crossroads Exchange, the national secondary market for ownership stakes in the cooperative, credit-union, and corporate sectors, the Citizens' Metals ETF, and the **Foreign Exchange Board** (the BWC's interface with world currencies), in two firewalled segments. The **Domestic Core** is a single venue with segregated trading boards under one rulebook built to do the opposite of a speculative market: it lets capital find productive homes and exit when needed, with genuine price discovery, while structurally frustrating short-term speculation. Every board trades cashflow claims, never control; prices anchor to audited value; minimum holding periods, daily price caps, and trading bands dampen volatility; and a public backstop bid sits beneath certain boards so holders are never wholly trapped — and no panic runs unchecked. The Exchange provides trading venues for:
 
 - **Co-op Capital Index** (pool of non-voting FCL investor shares, managed by its own governing body)
 - **Credit-union special shares** (individually issued and managed by each credit union)
@@ -43,6 +43,7 @@ Tranching, derivatives, shorting, and leverage are prohibited outright. The **Gl
 | **Credit-Union Capital Board** | Credit-union special shares | Individual credit unions | Each issuing credit union |
 | **Corporate-Equity Board** | Domestic corporate equity | Individual corporations | Each issuing corporation |
 | **Metals ETF Board** | Citizens' Metals ETF shares | Citizens' Metals ETF | Treasury |
+| **FX Board** | Foreign-currency spot contracts (BWC ↔ major currencies) | No underlying pool — a clearing facility | Exchange Authority under Treasury Capital Markets Bureau oversight |
 
 **What flows through but does not trade as a board:** foreign capital, via the CGCI channel (3.4), during the Industry Act §2.5 conversion ramp.
 
@@ -230,6 +231,81 @@ When a rolling jubilee (Monetary §2.2) converts a corporation's forgiven debt i
 
 ---
 
+### 3.7 Foreign Exchange Board (the FX facility)
+
+*Rationale:* the nation exports ~$840B/year of metals, uranium, and manufactured goods and imports ~$500–550B of components, tropical agriculture, and specialised inputs. That is ~$5.5B/day of currency crossing the border — and until this section, no mechanism in the corpus converted BWC to foreign currency or foreign currency to BWC. An exporter receiving yen for uranium had nowhere to sell the yen; an importer needing euros for German machine tools had nowhere to buy them. **The gap is not small: it is the entire interface between the domestic economy and the world.**
+
+**The FX Board is the fifth trading board on the Exchange** — a transparent, rule-based, market-clearing facility for spot conversion between the BWC and major foreign currencies. It applies the same Section 2 rulebook as every other board, adapted to the nature of a currency market rather than an equity market.
+
+#### 3.7.1 What trades
+
+**Spot foreign-exchange contracts only.** BWC against any foreign currency for which the Exchange Authority maintains a live order book. At founding the boards are BWC/USD, BWC/EUR, BWC/CNY, BWC/JPY, and BWC/AUD — the five currencies that dominate the nation's trade. Additional boards may be opened by the Exchange Authority (6/11) with Territorial Chamber ratification.
+
+**What does NOT trade:**
+
+- **No forwards, futures, options, or swaps.** The Section 2.5 prohibition on synthetic structuring applies: *"no tranching, no synthetic seniority, no derivatives, no shorting, no leverage."* A forward contract on a currency is a derivative; it is prohibited here as it is everywhere else on the Exchange. An importer who needs euros in 90 days buys them today and holds them — the holding cost is the price of certainty.
+- **No margin trading.** Both sides of every trade settle in full. No leverage, no margin calls, no cascading liquidations.
+- **No algorithmic market-making with privileged access.** Order-book access is uniform; no co-located servers, no speed advantage, no dark pools. The Exchange Authority operates the matching engine at a fixed cycle (e.g. 1-second batched auctions), not continuous matching. This is slow by global FX standards and that is deliberate.
+
+#### 3.7.2 Who participates
+
+- **Exporters** deposit foreign-currency proceeds and sell for BWC.
+- **Importers** buy foreign currency with BWC to pay foreign suppliers.
+- **The credit unions** act as intermediaries for members — a small co-op that needs $50,000 of euros doesn't trade on the board directly; its credit union does it for them at cost.
+- **The SWF** holds a foreign-currency reserve as a natural consequence of its crisis-liquidity function (Monetary §2.1). It may participate on the FX Board to build or rebalance that reserve, but **it may not intervene to defend a particular exchange rate.** The SWF is a reserve holder, not a central bank. If the BWC weakens, the SWF's job is to have foreign currency available for essential imports — not to burn reserves propping up a number.
+- **Citizens** may buy foreign currency for travel or personal use, subject to the same CED visibility threshold as any other transaction (below $10,000 — anonymous; above — CED-logged).
+
+**Who may NOT participate:**
+
+- **No foreign participants on the FX Board.** The FX Board is a domestic facility. Foreign counterparties settle through the Exchange's global-segment infrastructure (§7) or through bilateral correspondent arrangements. This prevents foreign speculative capital from entering the BWC market directly.
+
+#### 3.7.3 Rate discovery and the anti-intervention rule
+
+**The BWC exchange rate is discovered, not administered.** The FX Board publishes a market-clearing rate for each currency pair at the close of each trading session. This is the reference exchange rate for all official purposes (tariff valuation, royalty conversion, trade statistics).
+
+**No person, board, bureau, or organ of the state may target, defend, peg, or band the BWC exchange rate.** The rate is an output of trade flows and the economy beneath them. If the BWC weakens, it weakens; if it strengthens, it strengthens. The state's job is to run a sound economy, not to choose a number.
+
+> **Why this rule exists, and why it is absolute.** Exchange-rate intervention is the single largest source of discretionary monetary power in any economy. A central bank that defends a peg can burn through foreign reserves in weeks, impose capital controls overnight, and distort the entire price system — all without a vote. New Crossroads has no central bank because it has no tolerance for that power. **The FX Board discovers a rate. Nobody defends it.**
+
+The §1.8 systemic-freeze telemetry (Monetary Act) watches the FX Board's volume and spread as part of its institutional plumbing — a sudden collapse in FX liquidity is a crisis signal — but the response is the RLP→SWF liquidity line, not an exchange-rate target.
+
+#### 3.7.4 The foreign-currency reserve
+
+The SWF maintains a **foreign-currency reserve** — a pool of USD, EUR, and other major currencies held for trade continuity and crisis imports. This reserve:
+
+- Is funded by a share of the SWF's returns, invested offshore. It is NOT funded by domestic tax revenue or by intervention profits.
+- Targets a **prudential floor** — enough to cover ~6 months of essential imports (~$275B at founding). The floor is published; the actual holdings are published quarterly.
+- **May never be used to defend the exchange rate.** It exists so that if trade credit dries up (as it did in the post-default squeeze), the nation can still buy fuel, components, and medicines on the world market. It is an insurance policy, not a weapon.
+- Is governed by the same §5.4 absolute bar as the rest of the SWF: no defense carve-out, no sovereign-operations draw.
+
+#### 3.7.5 Dampening (adapted from §2.3)
+
+The equity boards use minimum holding periods and daily price caps. The FX Board uses different tools for the same purpose:
+
+- **Batched auctions** (e.g. hourly or per-session) rather than continuous matching. This prevents high-frequency front-running and slows speculative momentum.
+- **Daily movement band:** the BWC may not move more than **±3%** against any single currency in one trading session. If the band is hit, the session closes early and reopens next session. This is a circuit breaker, not a peg — the rate can move 3% every day for a week if the fundamentals warrant it, but it cannot move 15% in an hour.
+- **Position limits:** no single participant (including the SWF) may hold an open FX position exceeding **1% of the board's trailing 30-day volume** without Exchange Authority approval (6/11). This prevents cornering.
+- **No short selling of BWC.** You cannot sell BWC you do not hold. This is the Section 2.5 shorting prohibition applied to currency — a speculator cannot bet against the BWC without first acquiring it.
+
+#### 3.7.6 Conversion requirements and the CED
+
+- **Below $10,000 equivalent:** anonymous, no CED logging. A citizen buying euros for a holiday is not the state's business.
+- **$10,000–$100,000:** CED-logged as a transaction, not as a report. The system sees it; nobody acts on it.
+- **Above $100,000:** full CED visibility, consistent with the income-tax threshold. An exporter converting $5M of yen is visible and auditable.
+- **Mandatory conversion:** exporters are **not** required to convert foreign-currency proceeds to BWC. A mining co-op may hold a USD account offshore for operational purposes (buying foreign equipment, paying foreign port fees). **But offshore holdings above the CED threshold are visible**, and co-op profit — wherever denominated — is taxable in BWC at the published exchange rate. You can hold foreign currency; you cannot hide behind it.
+
+#### 3.7.7 The transition (Year 0–2)
+
+In the immediate post-revolution period, before the FX Board is operational:
+
+- **Commodity barter and payment-on-delivery** handle the bulk of trade. Uranium, metals, and coal are internationally fungible; counterparties accept them directly.
+- **Bilateral correspondent accounts** with foreign banks handle essential imports. These are expensive and slow — the trade-credit squeeze the Timeline document describes.
+- **The FX Board opens in Year 1–2**, once the Exchange Authority has the matching infrastructure and enough trade volume to support continuous price discovery. The bilateral arrangements don't disappear — they become fallback channels beneath a formal market.
+
+> **The FX Board solves the problem the trade-credit squeeze created.** In Year 0, every foreign transaction is a negotiation. By Year 2, it is a posted price on a transparent board. The transition from barter-and-negotiation to market-clearing-rate is the monetary equivalent of the transition from black market to legal commerce — same activity, removed friction, visible price.
+
+---
+
 ## Section 4: Index Funds (the diversification vehicle)
 
 *Rationale:* a holder who wants to spread risk across many issuers — rather than betting on one credit union or one co-op — needs a diversification vehicle. The safe way to provide it is a **plain, transparent, pass-through index fund**: it holds the actual underlying shares, discloses exactly what it holds, adds no synthetic seniority, and carries no leverage. This delivers the benefit the bundling instinct reaches for (don't sink with one wobbly issuer) without any of the opacity-plus-fake-safety that Section 2.5 prohibits.
@@ -251,7 +327,7 @@ When a rolling jubilee (Monetary §2.2) converts a corporation's forgiven debt i
 - **Index/Pool stewards:** the **CCIF Alliance Network** manages the Co-op Capital Index under **Co-op Chamber oversight** (FCL Act §3.8.7); **Treasury** manages the Citizens' Metals ETF and provides NAV calculations; **individual credit unions** manage their own special shares; **individual corporations** manage their own equity.
 
   > **The Sovereign Council's oversight of the Co-op Capital Index is removed, because this section already says it cannot exist.** Prior drafts had the Alliance Network reporting to the Co-op Chamber *and the Sovereign Council* — while the rationale above claimed the section *"holds to that rule without exception"* and the bullet four below states *"the sovereign holds one power in this act and it is external... Nothing on the Domestic Core is."* The Co-op Capital Index is domestic. It was a live self-contradiction three bullets wide, and it also breached Sovereign Functions §8.5 (the bar on regulating domestic listing standards) and §5.1 (the CCIF is chamber-governed, not a sovereign asset). Treasury's role with the Metals ETF survives because Treasury **operates** that fund rather than supervising someone else's — it is a custodian, not a regulator.
-- **Trading venue operators:** the **Exchange Authority** operates all trading venues (Co-op Board, Credit-Union Capital Board, Corporate-Equity Board, Metals ETF Board) under Territorial Chamber oversight.
+- **Trading venue operators:** the **Exchange Authority** operates all trading venues (Co-op Board, Credit-Union Capital Board, Corporate-Equity Board, Metals ETF Board, FX Board) under Territorial Chamber oversight.
 - **Listing approval chain (domestic):** Regional Board (6/11) → relevant Productive Chamber → Territorial Chamber (simple majority).
 - **The two cap exceptions (3.3)** — capital-intensive and jubilee — run **Regional Board (6/11) → the relevant Productive Chamber (supermajority) → Territorial Chamber (15/20)**, plus the Community Benefit and Labor Peace Agreements, with a hard 33% insider floor. **No sovereign approval at any step.** The Metals ETF Board is listed by Treasury in consultation with the Exchange Authority; no discretionary approval is required beyond rulebook compliance.
 - **The sovereign holds one power in this act and it is external.** Global-segment governance: the Sovereign Council holds the statecraft powers (Sovereign Functions Act §2.4) — accrediting auditors, approving/suspending foreign listings on foreign-policy or national-security grounds, and the phase-two activation determination — with citizen oversight via the 1% petition mechanism. That is a foreign-relations power over a foreign venue, which is on the Council's closed list. Nothing on the Domestic Core is.
@@ -276,6 +352,7 @@ The Credit-Union Capital Board is not only a market — it is an instrument of t
 - In a declared systemic-freeze trigger, the Exchange continues to operate within its bands; the public backstop bids (2.4) and the automatic RLP→SWF liquidity line (CU §6.4, §6.8) are what arrest a panic — not a trading halt that would destroy price information.
 - **The jubilee needs no crisis provision here either.** Relief is rolling and assessed on application whenever distress arises (Monetary §2.2), so a solvent enterprise facing a rollover crunch applies immediately. There is no timeline to accelerate and no crisis-specific listing rule.
 - The Metals ETF Board is not a crisis signal; its price is not used for any automatic stabilizer. It is a passive store-of-value market.
+- **The FX Board is a crisis signal — but only for liquidity, never for direction.** A sudden collapse in FX volume or a widening bid-ask spread feeds the §1.8 telemetry as evidence of a trade-credit freeze or a foreign-confidence shock. But the *level* of the exchange rate is not a trigger — the BWC may weaken or strengthen without activating anything. The system watches whether the market is *functioning*, not where the price *is*. The response to an FX liquidity freeze is the RLP→SWF line providing foreign-currency liquidity at reference + 2%, not an exchange-rate defense.
 
 ---
 
@@ -335,9 +412,10 @@ Same building, sealed rooms. Capital and ideas may pass between the segments onl
 | Element | Detail |
 |---|---|
 | Venue | Single national Crossroads Exchange; two firewalled segments (Domestic Core / Global) |
-| Domestic trading boards | Co-op Board · Credit-Union Capital Board · Corporate-Equity Board · Metals ETF Board |
+| Domestic trading boards | Co-op Board · Credit-Union Capital Board · Corporate-Equity Board · Metals ETF Board · **FX Board** |
 | Underlying indexes/pools | Co-op Capital Index (managed by CCIF Alliance Network) · Special shares (managed by each credit union) · Corporate equity (managed by each corporation) · Metals ETF (managed by Treasury) |
 | Channel (not a board) | CGCI (foreign capital, during Industry §2.5 conversion ramp) |
+| **FX Board** | Spot BWC ↔ foreign-currency conversion. Discovered rate (never defended); batched auctions; ±3% daily band; no derivatives/margin/shorting; no foreign participants; SWF holds a ~6-month import reserve but may not intervene. ~$5.5B/day trade volume at founding |
 | Global segment | Foreign co-ops/mutuals/disciplined corporations listing under the Crossroads rulebook (Section 7) |
 | Firewall | Separate clearing; no cross-collateralization; no co-mingled funds; no domestic backstop for global; no §1.6A credit-line exposure; global excluded from §1.8 crisis signal |
 | Off the exchange | Sovereign metals reserve (never listed); no debt board; **household credit lines are never securitized, pooled, or listed** |
@@ -385,6 +463,8 @@ New Crossroads built markets the way it built everything else — by inverting t
 
 - **Foreign capital is welcomed and domesticated, not special-cased.** A foreign factory behind the tariff wall does not get a free-floating listing — it becomes, over ten years, partly worker-owned, and its shares migrate from the foreign channel onto the co-op board as it co-op-ifies. The market doesn't bend its rules for foreign money; the foreign money bends toward the market's rules.
 
+- **The FX Board closes the last gap in the monetary infrastructure.** The BWC existed but had no interface with the world. Exporters earned foreign currency with no facility to convert it; importers needed it with nowhere to buy it. The FX Board is a transparent, rule-based clearing facility — the rate is discovered, never defended, and no organ of the state may target it. It applies the same anti-speculation rulebook as every other board: no derivatives, no leverage, no shorting, no dark pools, no privileged access. A currency market as patient and transparent as the equity market beside it.
+
 - **The sovereign owns nothing here and decides nothing here.** Its only power in this act points outward — the statecraft of a foreign venue, which is on its closed list. Every domestic question, including the two exceptions to the control rule, runs through the chambers. A sovereign that could grant one firm the right to sell more of itself than another would hold the most valuable favor in the economy, and this act does not let it hold that favor.
 
 - **The Exchange recruits.** Its deepest purpose is not where citizens invest but how the model travels. By offering its rulebook to the world as the price of reaching Crossroads capital, the Exchange does to sound, ownership-based finance what older exchanges did to disclosure — it makes foreigners restructure themselves to meet the standard. An ethos spreads through self-interest or not at all; this is the machinery of that spread. And it is firewalled, so the model can recruit abroad without the vessel springing a leak: the standard is exported, the risk is not.
@@ -397,4 +477,4 @@ That is the Exchange Act.
 
 ---
 
-**End of Draft 1.6**
+**End of Draft 1.7**
