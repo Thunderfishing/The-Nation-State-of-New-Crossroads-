@@ -1,8 +1,8 @@
-# New Crossroads Infrastructure Act of 2025: Draft 2.7
+# New Crossroads Infrastructure Act of 2025: Draft 
 
 ---
 
-**Draft:** 2.6 | **Date:** July 12, 2026
+**Draft:** 2.7 | **Date:** July 18, 2026
 **Author:** Thunderfish2
 
 > **Cross-reference.** Companion to the **Monetary Act 9.8**, **Credit Union Act 5.8**, **FCL Act 3.4**, **Energy Act 4.4**, **Utilities Act 1.3**, **Communications Act 4.2**, **Industry Act**, the **Sovereign Functions Act**, the **Chamber Act**, and the **Municipal & Regional Funding Act**. The asset/operator separation model follows the Utilities Act (state owns infrastructure, co-ops/corporations compete on operations). Loans are reference-rate-anchored (Monetary Act §1.5A). Data uses PPK/CED (no CWD). The currency is fiat.
@@ -533,12 +533,12 @@ Dark Corridor Compliance: Elevated sections have no lighting. Enforcement by Reg
 | Allocation | 2025 ($B) | 2075 ($B) | Notes |
 | :--- | :--- | :--- | :--- |
 | Infrastructure maintenance | 37.3 | 55.9 | 50% of revenue |
-| SWF (per Monetary Act 9.8) | 22.4 | 33.6 | 30% of revenue — **redirected to general revenue once the fund is capped (~2032, Monetary §2.3)** |
+| SWF (per Monetary Act 9.8) | 22.4 | 33.6 | 30% of revenue — **redirected to general revenue once the fund is capped (~2029, Monetary §2.3)** |
 | Dark Corridor Fund (incl. the parkweb, Parks Act §8) | 7.5 | 11.2 | 10% of revenue |
 | Rural infrastructure subsidy | 7.5 | 11.2 | 10% of revenue |
 | **Total** | **74.6** | **111.8** | |
 
-> **This rail is the largest single SWF contributor in the corpus, and Monetary §2.1 does not count it.** That section totals SWF contributions at the corporate stream plus the BWC fee rail plus the budget surplus. **It omits every access-fee rail** — this act's ~$22.4B, the Energy Act's ~$4.5B, the Communications Act's ~$0.06B. The real contribution stream is **~$108B/year, not ~$81B**, and the fund therefore caps around **year 5** rather than year 6. The stabilizers absorb it — §2.3 redirects contributions to general revenue above the cap, and §7.4 sends the surplus onward to the citizen dividend — so the consequence is a **larger dividend, sooner**, not a broken fund. Monetary §2.1 carries the corrected total.
+> **This rail is the largest single SWF contributor in the corpus.** At ~$22.4B/year (2025), the Infrastructure access-fee rail exceeds the corporate SWF contribution for any single sector. Monetary §2.1 counts all access-fee rails (this act's ~$22.4B, Energy's ~$4.5B, Communications' ~$0.06B) in the total contribution stream of **~$146B/year.** The fund caps in **~2029 (year 4)**; the stabilisers redirect contributions to general revenue above the cap, and Sovereign §7.4 sends the surplus to the citizen dividend — **~$160B/year, ~$1,432/citizen.**
 
 The Dark Corridor Fund finances:
 
@@ -693,7 +693,7 @@ Cash toll payments are accepted at credit union kiosks with no fee and no survei
 | CO2 pipelines | 3,200 km | 4,000 km |
 | CO2 transported | 5.5M tons/year | 8M tons/year |
 | Total infrastructure revenue | $74.6B/year | $111.8B/year |
-| SWF contribution (30% of revenue) | $22.4B/year — **the largest single SWF rail in the corpus**; redirected to general revenue once capped (~2032) | $33.6B/year |
+| SWF contribution (30% of revenue) | $22.4B/year — **the largest single SWF rail in the corpus**; redirected to general revenue once capped (~2029) | $33.6B/year |
 | Dark Corridor Fund | $7.5B/year | $11.2B/year |
 | DCALS-certified compounds | 0 | 5,000+ |
 | Retroreflective-certified buildings | 0 | 100,000+ (80% of eligible) |
@@ -817,5 +817,3 @@ When the next generation drives across the Heartland Plains on a dark, elevated 
 That is the Infrastructure Act.
 
 ---
-
-**End of Draft 2.6**
