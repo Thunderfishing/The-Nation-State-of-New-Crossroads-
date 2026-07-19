@@ -1,5 +1,6 @@
 # Crossroads Federated Cooperatives Limited (FCL) Structure Act of 2025
 
+
 **Draft: 3.4 | Date: July 17, 2026**  
 **Author: Thunderfish2**
 
@@ -111,6 +112,22 @@ Three tiers by size, revenue, and loan exposure. All pay the 5% co-op profit tax
 > **The Co-op Advantage Principle (binding; entrenched as part of Chamber Act §11).** A co-op's effective burden (5% tax + commons contribution) shall **never exceed** an identical-size corporation's effective burden (corporate tax + SWF contribution) at any profit level. The progressive schedule above is set to stay below the corporate curve at every tier — light at the bottom (where small corporations pay ~10%), fuller at the top (where large corporations pay ~30%). If corporate rates change, the waterfall is constitutionally bound to remain below them.
 
 **System-wide commons funding:** ~**$48B/year** total (~$19B healthcare, ~$10B education, ~$19B charity), concentrated in large co-ops while protecting small ones.
+
+**Where the charity slice goes — co-op-directed, by member vote.** Healthcare flows to the healthcare co-ops (Healthcare Act). Education flows to the voucher system (Education Act). The charity slice — **~$19B/year** — flows where **each FCL's members direct it** at the annual meeting. The co-op votes; the money follows. There is no ministry, no bureau, no national allocation formula. 195,100 co-ops each decide for themselves.
+
+**Likely categories (co-ops self-sort by community need):**
+
+| Category | What it funds | Why it dominates |
+|---|---|---|
+| **Aged care & retirement support** | Mutual aged-care facilities, home-visit programmes, elder meal delivery, retirement community upkeep | Every co-op has aging members; this is the **largest category by revealed preference** |
+| **Disability & hardship** | Disability support, emergency hardship relief, disaster recovery for members and families | Mutual insurance before formal insurance exists |
+| **Youth & dependent care** | Orphan support, foster-care assistance, youth programmes beyond the education voucher | Community obligation |
+| **Community infrastructure** | Local parks, libraries, community centres, cultural events, local AM radio stations | Visible, tangible, voted for |
+| **External charitable giving** | Humanitarian aid, disaster relief abroad | New Crossroads' primary form of international goodwill — and it comes from co-ops, not the state |
+
+> **The charity commons is the retirement safety net the system never names as one.** There is no state pension (Monetary Act Key Stats). Retirement income comes from five independent streams — the dividend, forced savings, the ETF, special shares, and credit-union savings — plus a Durahome that costs nothing to keep. The charity commons is the *sixth*, and it is the communal one: the co-op you spent your working life in funds the aged-care facility you retire into. Not because a statute directs it, but because its members voted for it — and they voted for it because they can see themselves needing it.
+>
+> **Scale:** ~$19B/year across 195,100 FCLs averages ~$97,000 per co-op. But the commons is progressive — large co-ops at 22% contribute millions; small ones at 5% contribute hundreds. A 500-person industrial co-op might direct $2M/year to its local aged-care programme. A 5-person workshop buys supplies for the community centre. The system produces both, without anyone designing it, because the waterfall percentages and the member vote do the work.
 
 > **The commons is a percentage of profit, not a fixed sum — and that is what keeps the Principle self-enforcing.** Prior drafts carried ~$125B, which was an *output* of a co-op net profit figure of ~$900B that had never been rescaled from the fictional-GDP era. That figure was 9.5% of a co-op revenue line that was itself 65% of a $14.5T GDP; at the real $6T it gives **~$370B**, and an independent check from the labour share (co-op value-added $3.9T × 45% capital share × ~25% net) gives **~$440B**. Two methods, one answer: **~$400B**. The waterfall percentages then produce ~$48B on their own. **Nobody chose the smaller number; the formula did.**
 >
@@ -307,7 +324,3 @@ The FCL Structure Act is the productive engine of the New Crossroads economy. Th
 FCLs are not corporations with a co-op sticker. They are member-owned, member-governed, and member-benefiting. The tax code favors them, the credit unions serve them, the exchange lists their investor shares, the monetary system stabilizes their borrowing costs through the anchor, and the informal economy feeds Tier 1 as startups grow into Tier 2 and Tier 3 — and into the chamber that shapes the law.
 
 That is the FCL Act.
-
----
-
-**End of Draft 3.4**
