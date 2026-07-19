@@ -1,6 +1,6 @@
 # Crossroads Municipal and Regional Funding Act
 
-**Cross-reference.** Companion to the **Sovereign Functions Act** (Special Auditors §3 enforce independently; the judiciary §4 hears appeals and constitutional questions; the SWF §5 is lender of last resort on cross-regional emergency certification), the **Chamber Act** (Regional Boards §3 administer regional funding and oversee municipalities; the Territorial Chamber holds the regional governance function; the ad-hoc arbitration process §6.6 resolves deadlocks; the entrenched floors §11 include the home doctrine as Floor 2; the protected guarantees §12 include the healthcare guarantee §12.1 and the education guarantee §12.2), the **Monetary Act 9.8** (fund mechanics mirror the credit-union RLP/DIP model; fiat BWC; SWF interaction §2), the **Credit Union Act 5.8** (mutual-fund design), the **Housing Act** (the residential-land-tax prohibition protects the homeownership keystone), and the **Infrastructure Act** (cost-of-service and 155% cost-recovery principles).
+
 
 **Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values.
 
@@ -47,7 +47,7 @@ This act answers a question the national fiscal model leaves open: **how do the 
 | | Federal | Region | Municipal |
 |---|---|---|---|
 | **Income tax above $100,000** | Yes — 20% / 30% / 40% (~$144B) | Yes — own rate, same base and threshold | **No** |
-| **VAT** | Yes — 3%, DLB zero-rated (~$99B) | Yes — harmonized | Yes — harmonized: **one base, one form, collected once** |
+| **VAT** | Yes — **5%**, DLB zero-rated (~$166B) | Yes — own rate, harmonized | Yes — own rate, harmonized: **one base, one form, collected once** |
 | **Co-op profit tax** | Yes — 5% over $100k (~$20B) | **No** | **No** |
 | **Corporate profit tax** | Yes — 0/10/20/25% (~$25B) | **No** | **No** |
 | **Resource royalty** | 40% of a 12% royalty (~$14.7B) | **Owns it** — 60% (~$22.1B) | **No** |
@@ -151,6 +151,31 @@ The residential-land-tax prohibition (§1.2) protects the homeowner — but on i
 > **Net effect:** welcoming housing no longer makes a municipality poorer. Households fund their own services through use and consumption; schools are off the municipal books; growth costs are recovered at the door; and both the motive and the means to block housing are removed — all while the home itself is never taxed.
 
 ---
+
+### 2.7 Rural Governance — Regional Districts and Co-op Councils
+
+**The space between towns.** New Crossroads is 2.7M km². The 20 regions average ~135,000 km² each — roughly the size of Greece. Municipalities cover the urban cores. But the Heartland wheat farms, the Frostpeak mining roads, the west-coast fishing settlements, and the parkweb corridors between towns have no municipal government.
+
+**There is no county layer.** The system is designed to be thin. Adding a fourth tier of government (federal → regional → county → municipal) would duplicate functions, require elections, and create bureaucracy in areas with sparse population. Instead:
+
+**The Regional Board is the county.** Each Regional Board (Chamber Act §3 — 20 boards, 11 members each) subdivides its territory into **administrative districts** covering the full area — every square kilometre is in a district, whether urban or rural. Municipal districts are self-governing for urban functions. **Rural districts** are administered directly by the Regional Board through district offices.
+
+**Rural district functions:**
+
+| Function | Handled by |
+|---|---|
+| Rural road maintenance | Regional Board district office, funded from regional revenue |
+| Land use and zoning (non-municipal) | Regional Board, subject to the anti-exclusionary rule (§2.6) and the parkweb overlay (Parks Act) |
+| Rural policing | Regional constabulary (not national — the sovereign has no domestic police force, §8.5) |
+| Agricultural extension and support | Regional Board + farming co-ops |
+| Emergency services | Regional Board + volunteer co-op brigades |
+| Parkweb management (non-municipal) | NInfraB/Parks Board, with Regional Board coordination |
+
+**Co-op council delegation.** Where rural co-ops are concentrated — a mining district in the Frostpeak, a farming district in the Heartland, a fishing settlement on the west coast — the Regional Board may **delegate operational functions** to a **co-op council**: an assembly of the local FCLs that manages roads, coordinates services, and advises the Regional Board on land use. The co-op council is not a government; it is a **private federation performing a public function**, the same pattern as the CCIF Alliance Network (FCL Act §3.8.7). Delegation is revocable by the Regional Board (6/11).
+
+**Revenue:** rural districts are funded from **regional revenue** (income tax, VAT, royalties, access fees — §2.5). They do not levy their own taxes. Co-op councils may levy a **maintenance fee** on member co-ops for road upkeep and shared services, capped at cost-of-service (§2.3 principles apply).
+
+> **Why this works without a county.** A county is a general-purpose government with elected officials, taxing power, and independent authority. New Crossroads doesn't need one because the Regional Board already has the revenue (royalties alone fund substantial rural services), the administrative capacity (11-member board with district offices), and the constitutional authority (Chamber Act §3). Adding an elected county government between the region and the municipality would create a layer of government in areas that have, by definition, sparse population — meaning the county would be a large bureaucracy serving few people. The regional-district model serves those people through the Regional Board they already elect, and delegates day-to-day operations to the co-ops that are already on the ground.
 
 ## Section 3: The Mutual Equalization Funds
 
