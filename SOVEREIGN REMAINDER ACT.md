@@ -9,8 +9,6 @@ description: "Establishes the sovereign state of New Crossroads — the thin, en
 
 # Crossroads Sovereign Functions Act
 
-**Cross-reference.** Companion to the Chamber Act (Territorial Chamber §3, Co-op Chamber §4.1, Corporate Chamber §4.2, universal citizen vote §2, oversight committees §6.7, the committee-referral mechanism §6.7, the ad-hoc arbitration process §6.6, entrenched floors §11, protected guarantees §12, the Election Integrity Commission §9.5), the Monetary Act 9.8, Credit Union Act 5.8, Exchange Act 1.5, Municipal and Regional Funding Act, FCL Act 3.4, Military and Intelligence Act 1.8, and the Infrastructure and Industry Acts.
-
 **This act is deliberately separate from the Chamber Act.** The sovereign functions are the residue left after everything automatable was automated and everything mutualizable was mutualized; the chambers and citizens are the source of authority the sovereign answers to. They travel together and are ratified together; they are not one document.
 
 **Note on figures.** All amounts derive from the companion **Consolidated Fiscal Model**, which holds two real columns — 2025 and 2075. The design is in the structure and ratios, not the precise values.
@@ -282,14 +280,14 @@ Set in full at Monetary Act §4; collected by Treasury (§6A.1); rates set by th
 | Source | Rate | ~Annual |
 |---|---|---|
 | **Personal income above $100,000** | 20% ($100k–$250k) · 30% ($250k–$1M) · 40% (>$1M); **0% below $100,000**, formal and informal alike | ~$144B |
-| **Federal VAT** | **4%**; the Daily Living Basket is zero-rated | **~$132B** |
+| **Federal VAT** | **5%**; the Daily Living Basket is zero-rated | **~$166B** |
 | **Tariffs** | ~9.8% average on imports (§2.3) | ~$49B |
-| **Co-op profit tax** | 5% over $100k on ~$400B of co-op net profit | **~$20B** |
+| **Co-op profit tax** | 5% over $100k on ~$400B of co-op net profit | ~$20B |
 | **Corporate profit tax** | 0 / 10 / 20 / 25% tiered | ~$25B |
 | **National property layer** | 0.75% on commercial/industrial (municipal cost-of-service stacks on top) | ~$19B |
 | **Resource cut** | 40% of a 12% regional royalty + profit tax on resource firms; royalties are regional own-source | ~$22.7B |
 | **Excise** | 3% on fuel/goods | ~$15B |
-| **Total** | | **~$427B** |
+| **Total** | | **~$460B** |
 
 > **Why this section now carries the table.** Prior drafts listed three sources — tariffs, the resource cut, and the corporate contribution stream — and omitted the entire federal tax base. The sovereign's function list is closed (§1.3, §8.10), so a tax the sovereign levies but this act never names is a power with no home: readable as unauthorized, or as evidence that §7 was never the real revenue list. It was a drafting hole, not a constitutional bar. **Taxation is not a fifth function** — it is how the four are paid for, and §8 bounds it.
 
@@ -313,7 +311,7 @@ Set in full at Monetary Act §4; collected by Treasury (§6A.1); rates set by th
 | National infrastructure buildout | ~$20B | | | |
 | Parks | ~$20B | | | |
 | The four functions | ~$20B | | | |
-| **Subtotal** | **~$180B** | | **Subtotal** | **~$215B** |
+| **Subtotal** | **~$188B** | | **Subtotal** | **~$215B** |
 | **= 3.0% of GDP — inside the cap** | | | | |
 
 **Classification is justiciable, and the presumption runs against the sovereign.** Any citizen may petition the Supreme Court (§1.4) to reclassify a line. **Spending is presumed to be an operation unless the sovereign shows a citizen directs it** — the same inverted burden as the downward presumption of §1.2, for the same reason: the body that benefits from a generous reading is the body that must not hold the pen.
@@ -324,7 +322,7 @@ Set in full at Monetary Act §4; collected by Treasury (§6A.1); rates set by th
 >
 > **It is also what makes the falling cap true.** Operations at ~$180B against a ~$19T GDP is **~0.9%** — under the 2% target without any effort, because operations are physically anchored (a judiciary, eight submarines, a rail network) while the economy triples around them. The sovereign shrinks because the nation grew.
 
-**Spending sits at ~$395B total — ~$180B of operations (3.0% of GDP) and ~$215B of transfers.**
+**Spending sits at ~$403B total — ~$188B of operations (3.1% of GDP) and ~$215B of transfers.**
 
   > **Why the cap falls, and what does not cause it.** Prior drafts attributed the decline to the Defense Fund maturing. It does not, and never did — §2.1 shows the military's budget *rising*. **The cap falls because GDP triples.** The state's costs are physically anchored — 18M students, 112M patients, eight submarines — so a state that stays roughly constant in real terms while the economy grows around it occupies a shrinking share of it. The sovereign shrinks because the nation grew.
 
@@ -340,7 +338,7 @@ Set in full at Monetary Act §4; collected by Treasury (§6A.1); rates set by th
 | **National infrastructure buildout** (§6A.4; Infrastructure, Energy, Communications Acts) | **~$20B** |
 | Parks | ~$20B |
 | The four functions — judiciary, auditors, four bureaus | ~$20B |
-| **Total** | **~$395B (~6.6% of GDP)** |
+| **Total** | **~$403B (~6.7% of GDP)** |
 
 > **The infrastructure line is new, and its absence was doing real damage.** This table had no line for the freeway, the 75,000 km rail network, grid hardening, or the communications backbone — while the Transport Bureau (§6A.4) is charged with building three of the four. **So four acts funded them from the SWF instead**, because it was the only pot with a large number attached. The claims totalled **~$629B against a ~$230B corpus** — the fund liquidated 2.7× over — and since access fees recover only maintenance (Infrastructure §3.2; Communications §2.1), **none of it would ever have returned.** Monetary §2.1 forbids exactly this: *"the SWF is the state's revolving lender... it is not the state's capital budget."*
 >
@@ -352,7 +350,7 @@ Set in full at Monetary Act §4; collected by Treasury (§6A.1); rates set by th
 
 ### 7.4 Surplus and the Bars
 
-- Surplus flows to the SWF (within the 12% cap) or to the **citizen dividend**. The sovereign cannot accumulate. Once the SWF is capped — projected ~2029 — Monetary §2.3 redirects SWF contributions to general revenue, and this section sends them onward to the dividend: **~$135B/year, ~$1,208 per citizen**, in cash, tax-free, reaching the informal majority that files nothing.
+- Surplus flows to the SWF (within the 12% cap) or to the **citizen dividend**. The sovereign cannot accumulate. Once the SWF is capped — projected ~2029 — Monetary §2.3 redirects SWF contributions to general revenue, and this section sends them onward to the dividend: **~$160B/year, ~$1,432 per citizen**, in cash, tax-free, reaching the informal majority that files nothing.
 - No issuance, no debt, no SWF-principal draw.
 - The Public Accounts Committee scrutinizes all spending against the cap.
 
@@ -368,7 +366,7 @@ The sovereign may never:
 2. Tax residential land or the primary home; or take a home except under §4.3 (public infrastructure only, market-plus-10%, judicially ratified, never private-to-private).
 3. Surveil the citizen: no sub-threshold cash access, no PPK/CED merger outside the Link Box, no bulk warrant, no domestic surveillance mission, **no audit of any income below $100,000** (§3.4).
 4. Turn CMIS inward: architectural separation is mandatory; any inward capability is void.
-5. Regulate the domestic economy: prices, rates, **exchange rates**, entry, licensure, lending standards, listing standards, and sector policy belong to the rules, mutuals, chambers, and councils. **No organ of the sovereign may target, defend, peg, or band the BWC exchange rate** (Exchange Act §3.7.3).
+5. Regulate the domestic economy: prices, rates, **exchange rates**, entry, licensure, lending standards, listing standards, and sector policy belong to the rules, mutuals, chambers, and councils. **No organ of the sovereign may target, defend, peg, or band the BWC exchange rate** (Exchange Act §3.7.3). Rural governance is a **regional function** — Regional Boards subdivide into administrative districts and may delegate operational functions to local co-op councils (Municipal & Regional Funding Act §2.6).
 6. Appoint into, veto, or dissolve any chamber, credit union, mutual fund, municipal council, or the domestic Exchange.
 7. Carry sovereign debt or issue bonds.
 8. Suspend elections, recalls, the citizen vote, or the Informal Economy Guarantee — including under Tier-2 mode.
@@ -393,15 +391,15 @@ A sovereign act inconsistent with this section is void, reviewable by the Suprem
 | Takings | Transport Bureau | Public-infra only; market+10%; judicial ratification |
 | Fund of last resort | SWF (~$230B seed, 12% cap) + Defense Fund (~$100B → ~$920B) | Auto stabilizers; Tier-2 sunsets; **no defense exception to §5.4**; Public Accounts Committee |
 | SWF reaches its cap | ~2029 (year 4) | Contributions redirect to general revenue (Monetary §2.3) |
-| Citizen dividend (once capped) | ~$135B/yr — ~$1,208/citizen | Cash, tax-free; the only channel reaching the informal economy |
+| Citizen dividend (once capped) | ~$160B/yr — ~$1,432/citizen | Cash, tax-free; the only channel reaching the informal economy |
 | Market supervision | Treasury Capital Markets Bureau | Financial Services Committee; Special Auditors prosecute |
 | Fiscal administration | Treasury | Economic Affairs Committee; Public Accounts Committee |
 | Diplomacy administration | Foreign Affairs Bureau | Defense and Foreign Affairs Committee |
 | National commons | National Lands and Commons Bureau | Territorial Chamber |
 | Transport operations | Transport Bureau | NInfraB standards; Energy and Infrastructure Committee |
 | Election integrity | Election Integrity Commission (11; Chamber Act §9.5) | Ethics & Standards Committee; Supreme Court nominates; referrals to Special Auditors |
-| **Revenue** | **~$427B** — VAT 4% $132B · income >$100k $144B · tariffs $49B · corporate profit $25B · resources $22.7B · co-op profit $20B · property $19B · excise $15B | Cap 4% → 2% of GDP; Public Accounts Committee |
-| **Spending** | **~$395B total** — **operations ~$180B (3.0% of GDP, inside the 4% cap)**: sustainability $50B · military $40B · R&D $30B · infrastructure $20B · parks $20B · four functions $20B. **Transfers ~$215B**: education vouchers $170B · healthcare subsidy $45B | Cap binds operations only (§7.2); classification justiciable. No debt, no issuance, no SWF draw |
+| **Revenue** | **~$460B** — VAT 5% $166B · income >$100k $144B · tariffs $49B · corporate profit $25B · resources $22.7B · co-op profit $20B · property $19B · excise $15B | Cap 4% → 2% of GDP; Public Accounts Committee |
+| **Spending** | **~$403B total** — **operations ~$188B (3.1% of GDP, inside the 4% cap)**: sustainability $50B · military $40B · R&D $30B · infrastructure $20B · parks $20B · four functions $20B · **savings match $8B**. **Transfers ~$215B**: education vouchers $170B · healthcare subsidy $45B | Cap binds operations only (§7.2); classification justiciable. No debt, no issuance, no SWF draw |
 | Profit taxation | **Federal only** | Regions levy income tax and VAT; no level may tax residential land |
 | Domestic force | Not the sovereign | Militia to Territorial; police to municipalities; prosecutors to Regional Boards |
 | Growth | Closed list (§1.1) | Highest bar to add; ordinary bar to shrink |
