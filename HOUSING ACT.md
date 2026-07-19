@@ -1,9 +1,8 @@
-# Crossroads Housing Act of 2025
+# Crossroads Housing Act of 2025: Draft 
 
-**Draft:** 2.6 | **Date:** July 17, 2026
+**Draft:** 2.5 | **Date:** July 12, 2026
 **Author:** Thunderfish2
 
-> **Cross-reference.** Companion to the **Monetary Act 9.8**, **Credit Union Act 5.8**, **FCL Act 3.4**, the **Sovereign Functions Act**, the **Chamber Act**, **Infrastructure Act 2.6**, **Energy Act 4.3**, **Industry Act 4.4**, and the **Municipal & Regional Funding Act**. Loans are reference-rate-anchored (Monetary Act §1.5A). Data uses PPK/CED (no CWD). The currency is fiat.
 
 > **Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values.
 
@@ -13,7 +12,7 @@
 
 The Housing Act establishes the shelter foundation of New Crossroads, promoting **Durahomes** — modular homes built with hempcrete and low-carbon concrete, featuring earthship-inspired passive design — to achieve **86% homeownership (96M citizens) by 2085.**
 
-Funded by the **$1.5–2.0T SWF (capped at 12% of GDP per Monetary Act 9.8)**, a **$94B Forced Savings base (scaling with population)**, and **reference-rate-anchored service-sector housing loans**, it facilitates co-op/corporate production of materials and greenhouses (leased to co-ops), transitioning to a free market by 2035.
+Funded by the **SWF (capped at 12% of GDP, ~$230B → ~$2.28T, per Monetary Act 9.8)**, a **$94B Forced Savings base (scaling with population)**, and **reference-rate-anchored service-sector housing loans**, it facilitates co-op/corporate production of materials and greenhouses (leased to co-ops), transitioning to a free market by 2035.
 
 Co-op housing FCLs pay the 5% co-op profit tax on profit over $100,000 (no SWF contribution); **no co-op SWF recharge** (eliminated per Monetary 9.8). No binding sector quotas — co-op preference is first right of refusal; the 65% 2025 figure is a descriptive baseline.
 
@@ -104,11 +103,30 @@ Geothermal drilling sites and heat-pump manufacturing facilities within 500m of 
 
 ## Section 3: Financial Mechanisms
 
-### 3.1 Forced Savings
-- **Base amount:** ~$94B (scales with population). *This is citizen money — a mandatory personal savings pool — not a state expenditure.*
-- **Withdrawals:** ~$25,000 for down payments.
-- **Informal earner bonus:** ~$1,000 share bonus.
-- **Mortgage payments:** reference-rate-anchored (Monetary §1.5A).
+### 3.1 Forced Savings — Two Phases, Two Life Stages
+
+*This is citizen money — a mandatory personal savings pool — not a state expenditure. The state holds nothing; the credit union holds the ledger.*
+
+**Phase 1 — Housing Capitalisation (age 20 until house purchase):**
+- **Formal workers:** ~$5,000/year, payroll-deducted.
+- **Informal workers:** ~$600/year auto-routed from the citizen dividend by default (Monetary Act §2.3 — opt-out, not opt-in). Plus the universal savings match: voluntary contributions matched $1-for-$1 up to $1,000/year from general revenue.
+- **Accumulates at the credit-union savings rate** (~2.5%, reference − 1%).
+- **Withdrawal: ~$25,000** for the Durahome down payment. One withdrawal, verified by the credit union against a purchase contract.
+- At $5,000/year for 5 years at 2.5%, a formal worker accumulates ~$26,300 — enough for the withdrawal. An informal worker on the dividend default alone accumulates ~$3,200; with the match and own contributions, ~$8,000–12,000. The co-op housing structure (§3.2, first right of refusal) bridges the gap through shared-equity arrangements.
+
+**Phase 2 — Retirement Accumulation (post-house purchase until age 65):**
+- **Formal workers:** ~$750/year, payroll-deducted. The rate **falls** after the house — front-loading for housing, slow-dripping for retirement.
+- **Informal workers:** ~$300/year auto-routed from the dividend by default. Plus the same $1-for-$1 match on voluntary contributions.
+- **Accumulates at ~2.5%** for 40 years.
+- At $750/year for 40 years, a formal worker accumulates **~$55,000.** An informal worker on the default alone accumulates **~$20,000.**
+
+**Retirement unlock at age 65:** the full balance is available for withdrawal — lump sum or scheduled drawdown, at the citizen's choice, through their credit union. No penalty, no conditions, no means test.
+
+> **Why two phases, and why the rate falls.** A young citizen needs capital *now* — for the down payment that makes them an owner. An older citizen needs capital *later* — for the retirement that the system provides through five other streams (Monetary Act Key Stats). Front-loading the savings rate before the house and lowering it after means the forced-savings mechanism serves both purposes from a single account, without requiring the citizen to make a choice or understand the design. The account does the right thing at the right time because the rate schedule does it for them.
+
+**Base amount (system-wide):** ~$94B/year (scales with population — ~$1,000/adult average across both phases, weighted toward the larger Phase 1 contributions of formal workers in the early years).
+
+**Mortgage payments:** reference-rate-anchored at the service-sector band (reference + 0.5% to + 1.5%, ~4–5% — Monetary §1.5A).
 
 ### 3.2 Co-op Housing
 - **Funding (co-op construction flow):** ~**$5.9B/year (2025)**, rising to ~**$58.5B/year (2075)** — the co-op share (65%, per the §1.4 first right of refusal) of national housing output.
@@ -227,7 +245,7 @@ Housing transactions follow the tiered privacy model in §1.1. Cash rent and mic
 | Co-op SWF recharge | $0 (eliminated) | $0 |
 | Co-op profit tax | 5% (over $100k) | 5% (over $100k) |
 | Loan rates | **service-sector band: reference + 0.5% to + 1.5%** (~4–5%), set below the commercial band by design. Reference rate ~3.5% (Monetary §1.5A) | same |
-| Forced Savings base | ~$94B (citizen money) | scales with population |
+| Forced Savings base | ~$94B/yr (citizen money) — **Phase 1: $5,000/yr formal, $600/yr informal (pre-house); Phase 2: $750/yr formal, $300/yr informal (post-house).** Unlock at 65 for retirement | scales with population |
 | Durahomes/year | 50,000 | 500,000 |
 | Homeownership rate | — | 86% (96M citizens) |
 | Cost per Durahome | ~$180,000 | — |
@@ -255,7 +273,7 @@ Housing transactions follow the tiered privacy model in §1.1. Cash rent and mic
 
 The Housing Act is the shelter foundation of New Crossroads — and the place where the nation's civic keystone is laid. A home is not a commodity; it is where families raise children, where communities form, where the informal economy operates in cash without surveillance.
 
-- **An owner, never a tenant.** Everything the system does to capitalize a citizen by their twenties — forced savings, the down-payment withdrawal, the reference-rate-anchored mortgage — exists to put a real, owned roof over them young. And the **residential-land-tax prohibition** (Municipal & Regional Funding Act) is the *guarantee* that the home, once owned, stays theirs: no government may tax a citizen out of the home and back into tenancy. The Housing Act builds the owner; the land-tax ban protects the owner. They are two halves of one promise.
+- **An owner, never a tenant — and a retiree, never destitute.** Everything the system does to capitalize a citizen by their twenties — forced savings Phase 1, the down-payment withdrawal, the reference-rate-anchored mortgage — exists to put a real, owned roof over them young. And everything it does from 25 to 65 — forced savings Phase 2, the slow drip into the same account — exists to ensure they keep that roof and retire with a nest egg. The home has no mortgage by 50 (a 25-year term at ~4.5%) and no property tax ever. **Housing cost in retirement is zero.** And the **residential-land-tax prohibition** (Municipal & Regional Funding Act) is the *guarantee* that the home, once owned, stays theirs: no government may tax a citizen out of the home and back into tenancy. The Housing Act builds the owner; the land-tax ban protects the owner. They are two halves of one promise.
 
 - **Affordable as the currency rises.** A reference-rate-anchored mortgage stays affordable as the BWC appreciates, because it is pegged to the cost of living, not to a speculative rate. Build cheaply, with hempcrete that sequesters carbon, and the home is within reach.
 
