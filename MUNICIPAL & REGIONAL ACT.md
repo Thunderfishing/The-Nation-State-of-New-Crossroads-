@@ -1,6 +1,5 @@
 # Crossroads Municipal and Regional Funding Act
 
-**Cross-reference.** Companion to the **Sovereign Functions Act** (Special Auditors §3 enforce independently; the judiciary §4 hears appeals and constitutional questions; the SWF §5 is lender of last resort on cross-regional emergency certification), the **Chamber Act** (Regional Boards §3 administer regional funding and oversee municipalities; the Territorial Chamber holds the regional governance function; the ad-hoc arbitration process §6.6 resolves deadlocks; the entrenched floors §11 include the home doctrine as Floor 2; the protected guarantees §12 include the healthcare guarantee §12.1 and the education guarantee §12.2), the **Monetary Act 9.8** (fund mechanics mirror the credit-union RLP/DIP model; fiat BWC; SWF interaction §2), the **Credit Union Act 5.8** (mutual-fund design), the **Housing Act** (the residential-land-tax prohibition protects the homeownership keystone), and the **Infrastructure Act** (cost-of-service and 155% cost-recovery principles).
 
 **Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values.
 
