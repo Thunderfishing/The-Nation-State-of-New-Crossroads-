@@ -3,8 +3,6 @@
 **Draft:** 1.9 | **Date:** July 17, 2026
 **Author:** Thunderfish2
 
-> **Cross-reference.** Companion to the **Monetary Act 9.8** (the Defense Fund §2.5), **Credit Union Act 5.8**, **FCL Act 3.4**, the **Sovereign Functions Act 2.1** (the military as sovereign function §2.1, the funding base §7, the bar on SWF-funded operations §5.4), the **Chamber Act**, **Energy Act 4.3**, **Education Act 2.3**, **Healthcare Act 6.6**, **Communications Act 4.3**, and **Infrastructure Act 2.6**. The currency is fiat (no metal backing); funding figures follow the Consolidated Fiscal Model.
-
 ---
 
 ## Section 1: Unified Command & Governance
@@ -29,13 +27,26 @@
 | Component | Headcount | Notes |
 |-----------|-----------|-------|
 | Active forces | 100,000 | All-male combat personnel |
-| Elite infantry (special forces) | 10,000 | Rapid deployment, specialized training |
-| Airborne division | 10,000 | Air-mobile rapid response (supported by 106 transport aircraft) |
+| **Air Cavalry** | 10,000 | Helicopter-borne assault — **80 organic assault/transport helicopters** (§2.3, not Air Force assets). Wave insertion: 80 helos × ~20 troops = ~1,600/wave, full division in ~6 waves. Vertical envelopment, rapid reaction, special operations |
+| **Airborne Division** | 10,000 | Parachute insertion via 106 Air Force transport aircraft. **2-wave drop:** 53 aircraft × ~95 paratroopers = ~5,000/wave, full division in 2 lifts. Seize airfields, hold ground, link up with follow-on |
 | Support / logistics | 20,000 | Engineering, medical, communications |
-| **Total Active** | **100,000** | |
-| Reserves (mixed) | 1,000,000 | 700K men, 300K women; 3-month refreshers every 5 years |
-| Militia (armed males) | 9,100,000 | Armed through mandatory service (Education Act 2.3 §4) |
+| **Total Army (active)** | **100,000** | *Navy, Air Force, CMIS, and Space Command personnel are additional — see §§3–6* |
+| **Reserves (3-tier, 1,000,000 total):** | | |
+| — Tier 1: Ready Reserve | 200,000 | Assigned to active Army units; 1 month/year training; deployable in **72 hours**. Recent veterans, first 5 years post-service. The first surge — doubles the professional force overnight |
+| — Tier 2: Standard Reserve | 500,000 | 20 **Regional Defense Battalions** (~25,000/region); 2 weeks/year training; deployable in **30 days**. Train in their own region, on their own terrain, integrated with regional infrastructure. The bulk homeland-defense force |
+| — Tier 3: Individual Ready Reserve | 300,000 | Specialists (engineers, medics, signals, logistics); 2 weeks/biennial; deployable in **90 days**. Skills-matched: a mining engineer is a combat engineer, a telecom technician is a signals specialist |
+| Militia (armed males) | 9,100,000 | Armed through mandatory service (Education Act 2.3 §4); answers to the **Territorial Chamber** (Regional Boards), not the Sovereign Council |
 | **Total Ground Force** | **10.2M** | |
+
+**Surge capacity:**
+
+| Stage | Timeline | Strength |
+|---|---|---:|
+| Peacetime (active military, all branches) | standing | ~156,000 |
+| + Tier 1 Ready Reserve | 72 hours | ~356,000 |
+| + Tier 2 Standard Reserve | 30 days | ~856,000 |
+| + Tier 3 Individual Ready Reserve | 90 days | ~1,156,000 |
+| + Militia (total war) | full mobilisation | ~10,256,000 |
 
 ### 2.2 Equipment (Ground Forces)
 
@@ -43,6 +54,14 @@
 |-----------|-------|-------|
 | APCs | 2,000 | Armored personnel carriers |
 | Tanks | 100 | Light/medium, terrain-adapted |
+
+### 2.3 Air Cavalry — Organic Aviation
+
+| Aircraft | Count | Role |
+|---|---:|---|
+| Assault/transport helicopters | 80 | Troop insertion (wave doctrine), medevac, resupply, special operations |
+
+> **These are Army assets, not Air Force.** The Air Cavalry's 80 helicopters deploy with the Cavalry, are maintained by Cavalry ground crews, and answer to the Cavalry commander — the same model as US Army Aviation. The Air Force provides fixed-wing transports (tasked to the Airborne for parachute insertion) and SAR helicopters (tasked to Aid Operations). Three air-mobile forces, three separate aircraft pools.
 | Howitzers | 200 | Artillery support |
 | SAM batteries | 60 | Air defense |
 | EW units | 400 | Electronic warfare |
@@ -62,15 +81,15 @@
 
 | Ship Type | Count | Crew/Ship | Shore Support | Total Personnel |
 |-----------|-------|-----------|---------------|-----------------|
-| Destroyers | 4 | ~250 | +40% | ~1,400 |
-| Frigates | 8 | ~150 | +40% | ~1,680 |
-| Corvettes | 16 | ~70 | +40% | ~1,568 |
-| Cutters | 40 | ~25 | +30% | ~1,300 |
+| Destroyers | 6 | ~250 | +40% | ~2,100 |
+| Frigates | 12 | ~150 | +40% | ~2,520 |
+| Corvettes | 24 | ~70 | +40% | ~2,352 |
+| Patrol boats | 30 | ~15 | +20% | ~540 |
 | Minesweepers | 14 | ~40 | +40% | ~784 |
 | SSBNs (ICBM submarines) | 8 | ~150 | +100% (nuclear support) | ~2,400 |
 | SSNs (attack submarines) | 12 | ~80 | +80% | ~1,728 |
 | Naval bases (4) | — | — | — | ~2,000 |
-| **Total Navy** | **102 vessels** | | | **~12,800–13,500** |
+| **Total Navy** | **106 vessels** | | | **~13,000–13,500** |
 
 ### 3.2 Naval Bases
 | Base | Region | Notes |
@@ -87,7 +106,7 @@
 
 ### 3.4 Navy Budget: **$12–15B/year**
 - Personnel: ~$4B
-- Vessel maintenance: ~$3B
+- Vessel maintenance: ~$3.5B
 - Procurement/construction: ~$2B
 - Fuel/operations: ~$1.5B
 - Nuclear submarine support (SSBNs + SSNs): ~$1.5B
@@ -101,14 +120,22 @@
 
 | Asset | Count | Personnel Estimate |
 |-------|-------|--------------------|
-| Combat aircraft | 300 | ~7,500 |
+| **Combat aircraft (300 total):** | | |
+| — Multi-role / air superiority | 150 | ~3,750 |
+| — Anti-ship / maritime strike | 70 | ~1,750 |
+| — Ground attack / strike | 50 | ~1,250 |
+| — Specialised (EW/jamming, recon, tankers, AWACS) | 30 | ~750 |
 | Transport aircraft | 106 | ~2,500 |
-| Multi-role helicopters | 80 | ~1,200 |
+| SAR helicopters (tasked to Aid Operations §7) | 30 | ~450 |
 | Combat drones | 5,000 | ~2,000 |
 | Flying drone carriers | 10 | ~1,500 |
 | Airbases (3) | — | ~2,000 |
 | Training/logistics/command | — | ~1,500 |
-| **Total Air Force** | | **~15,000–16,000** |
+| **Total Air Force** | | **~15,500–16,500** |
+
+> **The 80 Air Cavalry helicopters are not listed here.** They are **organic aviation** belonging to the Air Cavalry (§2.1), not Air Force assets. The Air Cavalry's helicopters deploy with the Cavalry, are maintained by Cavalry ground crews, and answer to the Cavalry commander — the same model as US Army Aviation. The Air Force provides **fixed-wing transport** (tasked to the Airborne Division for parachute insertion) and **SAR helicopters** (tasked to Aid Operations for humanitarian deployment). Three air-mobile forces, three separate aircraft pools, no confusion about who owns what.
+
+> **Why 300 combat aircraft, and why this mix.** New Crossroads is a large island — 2.7M km² with a maritime zone many times that. The threat model is **anti-access/area denial**, not expeditionary warfare: prevent hostile fleets from approaching, maintain air superiority over the island, and strike amphibious groups at range. **150 multi-role fighters** handle QRA (quick reaction alert), escort, and BVR (beyond visual range) dominance — the backbone, high commonality to reduce training and logistics costs. **70 anti-ship/maritime strike** aircraft carry stand-off missiles against enemy fleets — elevated priority for island survival, and the single largest specialised allocation. **50 ground attack/strike** aircraft handle SEAD (suppression of enemy air defences) and coastal defence, with significant multi-role overlap. **30 specialised** aircraft provide electronic warfare, jamming, reconnaissance pods, tanker support for range extension over ocean, and a small AWACS fleet for airborne early warning. Japan's JASDF, defending a similar island geography with ~300 combat aircraft, is the closest real-world analogue.
 
 ### 4.2 Air Bases
 | Base | Location | Notes |
@@ -190,7 +217,7 @@
 
 ### 7.1 Structure
 - **Personnel:** 10,000 troops (regular, CMIS, air force) dedicated to humanitarian aid.
-- **Scope:** ~$2B/year for earthquake/hurricane relief; aircraft, cutters, helicopters, transport aircraft and drone carriers deployed within 72 hours globally, supported by ~95K volunteers.
+- **Scope:** ~$2B/year for earthquake/hurricane relief; aircraft, **30 SAR helicopters** (Air Force §4.1), transport aircraft, patrol boats, and drone carriers deployed within 72 hours globally, supported by ~95K volunteers.
 - **Logistics:** Rail + ports; ~$500M/year pre-positioned supplies; volunteer coordination with mental-health counseling.
 - **Policy:** Aid only, no reconstruction, withdraw within 90 days, no extensions (requires Territorial Chamber 15/20).
 
@@ -234,7 +261,7 @@
 | **CSI (Space Command)** | $2.25B | 3K → 6K |
 | **Aid Operations** | $2B | 10K |
 | **Training + R&D** | $5–6B | — |
-| **Total** | **$55–65B** | **~125K active** |
+| **Total** | **$55–65B** | **~156K active** (Army 100K + Navy ~13K + Air Force ~16K + CMIS 25K + Space 2K) |
 
 > **The $55–65B is the 2075 force, not the 2025 one.** The endowment supplement is what pays for the expansion, and in 2025 the endowment holds ~$100B, returning ~$4B. **Founding budget: ~$40B (sovereign revenue) + ~$4B (endowment returns) = ~$44B.** The force above is what ~$44B grows into as the endowment compounds toward ~$920B — it is not what the founding treasury buys. Prior drafts carried $55–65B in both columns of the Key Stats while showing the supplement as "—" at founding: the same total with and without the thing that funds the difference.
 
@@ -244,7 +271,7 @@
 - The baseline is paid from **sovereign revenue** (Sovereign Functions Act §7; Monetary Act §4) — the federal tax base, alongside the judiciary, the auditors, and the four bureaus.
 - **This allocation does not decrease.** It remains constant as the baseline annual contribution.
 
-> **This is not the SWF, and the change is not cosmetic.** Prior drafts read *"The SWF Defense sub-fund provides a stable $40B/year allocation."* **Sovereign Functions Act §5.4 says the SWF may never fund sovereign operations**, and the military is sovereign function #1 (§1.1). The two acts contradicted outright — and the resolution is not to carve an exception into §5.4 but to fund defense the way everything else the sovereign does is funded. Sovereign revenue is ~$427B against ~$395B of spending; **the $40B fits inside it**, so the bar never has to bend.
+> **This is not the SWF, and the change is not cosmetic.** Prior drafts read *"The SWF Defense sub-fund provides a stable $40B/year allocation."* **Sovereign Functions Act §5.4 says the SWF may never fund sovereign operations**, and the military is sovereign function #1 (§1.1). The two acts contradicted outright — and the resolution is not to carve an exception into §5.4 but to fund defense the way everything else the sovereign does is funded. Sovereign revenue is ~$460B against ~$403B of spending; **the $40B fits inside it**, so the bar never has to bend.
 >
 > **Defense is the exception every state in history has used to reach its fund.** A bar with a defense carve-out is a bar that opens the moment anyone wants it to. This one has no carve-out, and does not need one.
 
@@ -304,15 +331,16 @@ Crossroads ranks alongside:
 - 12 SSNs → serious underwater warfare capability.
 - 5,000+ drones → drone‑centric doctrine; cheap to lose, expensive to attack.
 - $920B Defense Fund → long-term financial independence.
+- **~156K active military** (Army 100K + Navy ~13K + Air Force ~16K + CMIS 25K + Space 2K) — lean professional force backed by 1M tiered reserves and 9.1M militia.
 - CMIS (25K → 50K) → strong cyber, EW, satellite control.
 
 ### 11.2 2075 Force Projection
 
 | Branch | 2025 | 2075 |
 |--------|------|------|
-| Active forces | 100K | 125K |
-| Navy vessels | 4 destroyers, 8 frigates, 16 corvettes, 40 cutters, 14 minesweepers, 8 SSBNs, 12 SSNs | same (with upgrades) |
-| Air Force | 300 combat aircraft, 106 transport, 80 helicopters, 5K drones, 10 drone carriers | same (with upgrades) |
+| Active forces (all branches) | ~156K | ~180K |
+| Navy vessels | 6 destroyers, 12 frigates, 24 corvettes, 30 patrol boats, 14 minesweepers, 8 SSBNs, 12 SSNs (106 vessels) | same (with upgrades) |
+| Air Force | 300 combat aircraft (150 multi-role, 70 anti-ship, 50 strike, 30 specialised), 106 transport, 30 SAR helicopters, 5K drones, 10 drone carriers. **80 Air Cavalry helicopters are organic to Ground Forces §2.1** | same (with upgrades) |
 | CMIS | 25K | 50K |
 | CSI | 3K | 6K |
 | Defense Fund | building | ~$920B |
@@ -324,7 +352,7 @@ Crossroads ranks alongside:
 
 | Metric | 2025 | 2075 |
 |--------|------|------|
-| Active military (total) | 100K | 125K |
+| Active military (all branches) | ~156K | ~180K |
 | Navy personnel | ~12,800–13,500 | ~12,800–13,500+ |
 | Air Force personnel | ~15,000–16,000 | ~15,000–16,000+ |
 | CMIS personnel | 25K | 50K |
@@ -335,14 +363,14 @@ Crossroads ranks alongside:
 | Defense Fund supplement (**returns only; principal locked**) | ~$4B | $15–25B |
 | Defense Fund endowment (outside the SWF and its 12% cap) | ~$100B | ~$920B |
 | One-time buildout | ~$77.56B | amortized |
-| Destroyers | 4 | 4 |
-| Frigates | 8 | 8 |
-| Corvettes | 16 | 16 |
-| Cutters | 40 | 40 |
+| Destroyers | 6 | 6 |
+| Frigates | 12 | 12 |
+| Corvettes | 24 | 24 |
+| Patrol boats | 30 | 30 |
 | Minesweepers | 14 | 14 |
 | SSBNs (ICBM submarines) | 8 | 8 |
 | SSNs (attack submarines) | 12 | 12 |
-| Combat aircraft | 300 | 300 |
+| Combat aircraft | 300 (150 multi-role, 70 anti-ship, 50 strike, 30 specialised) | 300 |
 | Transport aircraft | 106 | 106 |
 | Combat drones | 5,000 | 5,000+ |
 | Flying drone carriers | 10 | 10 |
@@ -379,7 +407,7 @@ New Crossroads builds a military that is **lean by design and well-funded by two
 
 - **Funded twice — a stable allocation plus a growing endowment.** The SWF provides a stable $40B/year baseline that never decreases. The citizen-bequest Defense Fund builds over fifty years to ~$920B, whose returns supplement the baseline to fund the expanded force. **The $40B allocation stays steady; the endowment pays for the expansion.**
 
-- **A navy and air force that matter.** 8 SSBNs with 112 hypersonic 15Mt MIRV ICBMs, 12 SSNs, 4 destroyers, 8 frigates, 16 corvettes, 40 cutters, 14 minesweepers, 5,000 drones, 300 combat aircraft, and 106 transport aircraft give New Crossroads strategic deterrence, underwater warfare capability, naval presence, and air dominance — enough to make any adversary think twice.
+- **A navy and air force that matter.** 8 SSBNs with 112 hypersonic 15Mt MIRV ICBMs, 12 SSNs, 6 destroyers, 12 frigates, 24 corvettes, 30 patrol boats, 14 minesweepers, 5,000 drones, 300 combat aircraft, and 106 transport aircraft give New Crossroads strategic deterrence, underwater warfare capability, naval presence, and air dominance — enough to make any adversary think twice.
 
 - **The military can stop a dangerous sale — but not the people's will.** High Command and intelligence can force a veto on any arms or aerospace export they judge a proliferation risk, keeping advanced weapons out of adversaries' hands. But that veto is overridable by the elected bodies exactly like any other. Expertise informs; democracy decides.
 
