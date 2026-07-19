@@ -1,10 +1,11 @@
-# Crossroads Education and Workforce Act of 2025
+# Crossroads Education and Workforce Act of 2025: Draft 2.4
 
 ---
 
-**Draft:** 2.4 | **Date:** July 12, 2026
+**Draft:** 2.3 | **Date:** July 12, 2026
 **Author:** Thunderfish2
 
+> **Cross-reference.** Companion to the **Monetary Act 9.8**, the **Credit Union Act 5.8**, the **FCL Act 3.4**, the **Sovereign Functions Act**, and the **Chamber Act**. School governance follows the asset/operator separation model: Local School Boards own facilities; Teacher Professional FCLs operate instruction. Data uses the **PPK/CED** architecture (Monetary §5) — there is no CWD. The currency is fiat; there is no DAI, BAR, or metal backing.
 
 > **Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values. Graduate allocations are **descriptive projections, not binding quotas.**
 
@@ -88,11 +89,25 @@ Each public school separates asset ownership from instructional operation:
 - **Teacher Professional FCL:** all licensed teachers are members (1 teacher, 1 vote internally; 30% voting power on the joint committee). Cost-share model: each teacher's compensation = (their student load ÷ total school load) × instructional voucher revenue + base stipend. Teachers elect a Teacher Council (3–7 members) to the joint committee. Parents may hold non-voting retainer shares (2–8% patronage, capped at 20% of Teacher Co-op equity).
 - **Joint Management Committee:** decisions requiring both parties run through a committee sized to the school (e.g., 5-member: 3 board + 2 teacher; up to a 7-member board + Teacher Council for large schools), with defined Teacher Co-op veto rights over instructional spending.
 
+**Building maintenance — community responsibility, not a parent charge:**
+
+- **Routine maintenance:** the Local School Board organises a **volunteer maintenance corps** — parents, community members, local co-op workers, and students enrolled in the construction and building-trades apprenticeship pathway (§5.1). Volunteer hours for students **count toward journeyman credentialing requirements** (FCL Act). A student who helps replace the gym floor at 17 is a more skilled construction worker at 20.
+- **Major capital repairs** (a new roof, a boiler, structural work): the Local School Board draws from the **Municipal Monetary Fund** (Municipal & Regional Funding Act §3.7) as a revolving capital loan — repaid over 10–20 years at reference + 0.5% (~4%), coordinated across the region so the fund can prioritise by need.
+- **New school buildings** for communities that lack one: same MMF capital-lending mechanism, with the co-op council or municipality as borrower.
+- **The voucher does not fund buildings.** The $10,000 covers instruction. The building is community infrastructure — built, maintained, and funded through mutual lending when the community's own resources fall short.
+
 ### 3.3 Voucher System
 
 - **$10,000/year** voucher (DLB-indexed), following the student to any licensed school (co-op or corporate).
 - School performance data (graduation rates, credentialing, teacher retention) published in aggregate; identity-free reporting via PPK/CED.
 - Annual voucher audits (sample of schools); fraudulent schools face funding suspension (NLC vote).
+
+**Mandatory fees are prohibited.** No Local School Board, Teacher FCL, or licensed school may charge a mandatory fee of any kind — whether labelled a building fee, technology fee, activity fee, supply fee, or any other charge — as a condition of enrolment, attendance, or continued participation in core instructional hours.
+
+- **Optional extracurricular fees** (sports travel, field trips, after-school clubs) are permitted only if **explicitly opt-in** and **waived for any family that declares, by simple affirmation without income verification, that its household falls at or below the DLB threshold.** No documentation, no proof, no stigma.
+- **Enforcement:** the Special Auditors (Sovereign Functions Act §3) may investigate any school charging mandatory fees. A school found in violation loses **voucher eligibility for the following year.** One investigation, one finding, one year without funding. Schools will not risk it.
+
+> **Who this protects.** The informal-economy family sends their children to school on the same $10,000 voucher as everyone else. A mandatory "building fee" of $500 turns universal education into means-tested education through the back door. In a nation that constitutionally protects cash commerce and asks nothing below $100,000, a school fee is the one place where being informal could cost your child. **This provision closes that door.**
 
 ### 3.4 Co-op Club Integration
 
