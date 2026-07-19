@@ -1,7 +1,9 @@
-# Crossroads Military Intelligence and Defense Act of 2025
+# Crossroads Military Intelligence and Defense Act of 2025: Draft 1.9
 
 **Draft:** 1.9 | **Date:** July 17, 2026
 **Author:** Thunderfish2
+
+> **Cross-reference.** Companion to the **Monetary Act 9.8** (the Defense Fund §2.5), **Credit Union Act 5.8**, **FCL Act 3.4**, the **Sovereign Functions Act 2.1** (the military as sovereign function §2.1, the funding base §7, the bar on SWF-funded operations §5.4), the **Chamber Act**, **Energy Act 4.3**, **Education Act 2.3**, **Healthcare Act 6.6**, **Communications Act 4.3**, and **Infrastructure Act 2.6**. The currency is fiat (no metal backing); funding figures follow the Consolidated Fiscal Model.
 
 ---
 
@@ -36,6 +38,22 @@
 | — Tier 2: Standard Reserve | 500,000 | 20 **Regional Defense Battalions** (~25,000/region); 2 weeks/year training; deployable in **30 days**. Train in their own region, on their own terrain, integrated with regional infrastructure. The bulk homeland-defense force |
 | — Tier 3: Individual Ready Reserve | 300,000 | Specialists (engineers, medics, signals, logistics); 2 weeks/biennial; deployable in **90 days**. Skills-matched: a mining engineer is a combat engineer, a telecom technician is a signals specialist |
 | Militia (armed males) | 9,100,000 | Armed through mandatory service (Education Act 2.3 §4); answers to the **Territorial Chamber** (Regional Boards), not the Sovereign Council |
+
+### 2.5 Militia Training Programme (Voluntary)
+
+**Opt-in annual training** — 2 weeks, paid stipend (~$1,500), run alongside Tier 2 and Tier 3 reserve exercises in the Regional Defense Battalions. Estimated participation: **~910,000** (~10% of the militia), at a cost of **~$1.4B/year** from military operations.
+
+| Element | Detail |
+|---|---|
+| **Duration** | 2 weeks/year, voluntary opt-in |
+| **Where** | Regional Defense Battalion facilities — same ranges, same exercises, same instructors as Tier 2/3 reserves |
+| **Integration** | Militia trainees slot into reserve units as auxiliary personnel during exercises. They see formed-unit operations; the reserves get extra bodies for realistic training |
+| **Stipend** | ~$1,500 per participant, paid through their credit union |
+| **Employer protection** | No employer, co-op, or contractor may terminate, demote, reduce hours, or otherwise discriminate against a citizen for participating. The 2-week absence is treated as equivalent to annual leave. Violations investigated by Special Auditors |
+| **Homeland Defender status** | Formal designation after **3 consecutive annual trainings.** CED-recorded (visible, not sensitive). Carries one tangible benefit: **priority consideration for Tier 3 Individual Ready Reserve enlistment** — the pipeline from militia into the formal reserve structure |
+| **Total war integration** | Under full mobilisation (Sovereign Functions Act §2.1), the Territorial Chamber may integrate militia units into the Army's command structure. In peacetime, militia answer to their Regional Board, not the Army |
+
+> **Why voluntary, and why the stipend is small.** Compulsory militia training would turn 9.1 million armed citizens into conscripts — the opposite of what the right to bear arms means. The training is an *offer*, not an order. And the $1,500 stipend is deliberately modest: it covers the 2 weeks without making it a job. The people who show up come because they want to be ready, not because they need the money. **That self-selection is the quality filter.** A volunteer militia member who trains annually alongside professional reservists is worth ten conscripts who resent being there.
 | **Total Ground Force** | **10.2M** | |
 
 **Surge capacity:**
@@ -50,21 +68,50 @@
 
 ### 2.2 Equipment (Ground Forces)
 
+**Armour & Vehicles:**
+
 | Equipment | Count | Notes |
-|-----------|-------|-------|
-| APCs | 2,000 | Armored personnel carriers |
-| Tanks | 100 | Light/medium, terrain-adapted |
+|---|---:|---|
+| Main battle tanks | 100 | Light/medium, terrain-adapted for island geography — jungle, mountain, coastal |
+| APCs / IFVs | 2,000 | Armoured personnel carriers and infantry fighting vehicles |
+| MRAPs / utility vehicles | 1,500 | Mine-resistant patrol, logistics, command |
+
+**Artillery & Fire Support:**
+
+| Equipment | Count | Notes |
+|---|---:|---|
+| Self-propelled howitzers (155mm) | 120 | Mobile fire support — the primary artillery arm. Self-propelled for rapid displacement |
+| Towed howitzers (105mm/155mm) | 80 | Regional Defense Battalion allocation — one battery per region for Tier 2 reserve training |
+| Multiple-launch rocket systems (MLRS) | 40 | Area denial, coastal defense, counter-landing fire. Elevated priority for anti-invasion |
+| Heavy mortars (120mm) | 300 | Battalion-level organic fire support — every infantry battalion carries a mortar platoon |
+| Anti-tank guided missiles (ATGM) | 800 | Man-portable and vehicle-mounted. Distributed to forward units and Regional Defense Battalions |
+
+**Air Defence:**
+
+| Equipment | Count | Notes |
+|---|---:|---|
+| Medium-range SAM batteries (mobile) | 40 | Area air defence — protects SMR hubs, ports, airbases. Mobile for redeployment |
+| Short-range SAM / MANPADS | 400 | Point defence — every battalion has organic SHORAD. Distributed to Regional Defense Battalions |
+| Counter-drone systems | 200 | Dedicated C-UAS — jamming, interception, directed energy. Co-developed with CMIS |
+| Radar / early-warning arrays | 20 | One per region — feeds into the national air picture (Air Force §4 / CMIS §5) |
+
+**Electronic Warfare (Tactical / Battlefield):**
+
+| Equipment | Count | Notes |
+|---|---:|---|
+| EW vehicles (jamming / SIGINT) | 150 | Brigade-level EW platoons — spectrum dominance, comms jamming, signals intercept |
+| Counter-battery radar | 40 | Locates enemy artillery by tracking incoming fire. Paired with MLRS for counter-fire |
+| Tactical comms suites (CME-hardened) | 500 | Encrypted, mesh-networked. Every company has one; every Regional Defense Battalion has a reserve set |
+
+> **Why the equipment scales beyond peacetime.** 200 howitzers and 40 MLRS serve the 856,000-strong 30-day surge force, not the 100,000-strong peacetime army. The 80 towed howitzers are allocated to the 20 Regional Defense Battalions — reservists train on them during annual exercises. A reserve artilleryman who fires his region's guns once a year is functional on day 31; one who hasn't touched a gun in five years is a liability. **The equipment is the integration mechanism.**
 
 ### 2.3 Air Cavalry — Organic Aviation
 
 | Aircraft | Count | Role |
 |---|---:|---|
-| Assault/transport helicopters | 80 | Troop insertion (wave doctrine), medevac, resupply, special operations |
+| Assault/transport helicopters | 80 | Troop insertion (wave doctrine — ~1,600/wave, ~6 waves), medevac, resupply, special operations |
 
-> **These are Army assets, not Air Force.** The Air Cavalry's 80 helicopters deploy with the Cavalry, are maintained by Cavalry ground crews, and answer to the Cavalry commander — the same model as US Army Aviation. The Air Force provides fixed-wing transports (tasked to the Airborne for parachute insertion) and SAR helicopters (tasked to Aid Operations). Three air-mobile forces, three separate aircraft pools.
-| Howitzers | 200 | Artillery support |
-| SAM batteries | 60 | Air defense |
-| EW units | 400 | Electronic warfare |
+> **Army assets, not Air Force.** The Air Cavalry's 80 helicopters deploy with the Cavalry, are maintained by Cavalry ground crews, and answer to the Cavalry commander. The Air Force provides fixed-wing transports (Airborne) and SAR helicopters (Aid Operations). Three air-mobile forces, three aircraft pools.
 
 ### 2.3 Ground Forces Budget: **$8–10B/year**
 - Personnel: ~$3B
@@ -166,14 +213,16 @@
   - **Aid Support Division (5K field ops):** Escort 10K aid troops, manage logistics.
   - **Counterintelligence Division (3K personnel):** Internal security, counter-espionage.
 
-### 5.2 Equipment
-| Asset | Count |
-|-------|-------|
-| Military satellites | 10 → 75 |
-| Combat drones | 5,000 |
-| Flying drone carriers | 10 |
-| Anti-satellite missiles | 100 |
-| EW units | 400 |
+### 5.2 Equipment & Capabilities
+
+| Asset | Count | Notes |
+|---|---:|---|
+| Military satellites | 10 → 75 | ISR, communications, early warning, GPS-independent navigation |
+| Combat drones | 5,000 | Self-guiding and fiber-optic; multi-role — ISR, strike, EW relay |
+| Flying drone carriers | 10 | Airborne launch/recovery platforms extending drone range over ocean |
+| Anti-satellite missiles | 100 | Kinetic kill; ASAT capability is the space-layer deterrent |
+| Strategic EW suites | 50 | Offensive and defensive — national-level spectrum dominance, network defence. **Separate from tactical EW (§2.2):** CMIS handles strategic/national; the Army handles battlefield |
+| Signals intelligence stations | 10 | 5 east coast, 5 west coast — maritime surveillance, COMINT, threat picture |
 
 ### 5.3 CMIS Budget: **$5.5B/year**
 - Personnel: ~$2B
