@@ -1,6 +1,6 @@
 # Crossroads Municipal and Regional Funding Act
 
-
+**Cross-reference.** Companion to the **Sovereign Functions Act** (Special Auditors §3 enforce independently; the judiciary §4 hears appeals and constitutional questions; the SWF §5 is lender of last resort on cross-regional emergency certification), the **Chamber Act** (Regional Boards §3 administer regional funding and oversee municipalities; the Territorial Chamber holds the regional governance function; the ad-hoc arbitration process §6.6 resolves deadlocks; the entrenched floors §11 include the home doctrine as Floor 2; the protected guarantees §12 include the healthcare guarantee §12.1 and the education guarantee §12.2), the **Monetary Act 9.8** (fund mechanics mirror the credit-union RLP/DIP model; fiat BWC; SWF interaction §2), the **Credit Union Act 5.8** (mutual-fund design), the **Housing Act** (the residential-land-tax prohibition protects the homeownership keystone), and the **Infrastructure Act** (cost-of-service and 155% cost-recovery principles).
 
 **Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values.
 
@@ -244,6 +244,34 @@ All ad-hoc arbitration decisions arising from equalization disputes, conditional
 - The **chambers review** the accumulated arbitration log as part of the mandatory review calendar (Chamber Act §6.2). Where the chambers identify a recurring dispute pattern — the same type of deadlock arising repeatedly — they may **codify the principle into statute through ordinary lawmaking** (Chamber Act §6.1), preempting future arbitration on that question. The log feeds the legislature; it does not replace it.
 - The registry is the system's institutional memory for dispute resolution: arbitrators resolve and dissolve, but their reasoning is preserved, available for both legislative learning and future tribunals' reference.
 
+### 3.7 Capital Lending — the Revolving Function
+
+**The MMF and RMF are not just equalization pools.** They are mutual funds, and mutual funds can lend. A municipality or rural community that needs a capital asset — a school building, a water-treatment plant, a bridge, a clinic — may draw from its tier's fund as a **revolving loan**, repaid over time, with the corpus surviving intact.
+
+**Three functions, not one:**
+
+| Function | Nature | Repayment |
+|---|---|---|
+| **Equalization** (§3.1–3.2) | Ongoing transfers from richer to poorer units | Not repaid — mutual insurance |
+| **Emergency relief** | Catastrophic one-time draws (flood, mine collapse) | Repaid if possible; forgiven if not |
+| **Capital lending** | Pre-approved revolving loans for infrastructure | **Repaid in full** over 10–20 years at reference + 0.5% (~4%) |
+
+**How capital lending works:**
+
+1. **Application in advance.** The community identifies a need (a school, a bridge, a clinic) and applies to the MMF or RMF board with a project description, cost estimate, and repayment schedule.
+2. **Coordination.** The fund board evaluates all pending applications by **need** (distance to nearest facility, population served), **capacity** (the community's revenue and ability to repay), and **phasing** (oversubscribed years are prioritised by need and phased across years). This coordination is the function a bilateral credit-union loan cannot provide.
+3. **Approval.** Fund board approves (simple majority) with a repayment schedule. The rate is **reference + 0.5%** (~4%) — the subsidised service-sector rate, because community infrastructure is a public good.
+4. **Repayment.** The community repays over 10–20 years on top of its regular MMF/RMF contributions. Repayments flow back into the fund — **the corpus survives**, same principle as the SWF (Monetary §2.1).
+5. **Default.** If a community cannot repay, the draw escalates to the conditionality ladder (§3.2). The fund does not forgive capital draws without a recovery plan, but the community is never bankrupted: the schedule adjusts, extends, or converts to a partial equalization draw. The fund absorbs the loss across all contributors.
+
+**This is not debt.** A draw from a mutual fund the community contributes to is a **revolving claim on a pool it owns a share of** — same structure as an SWF loan, a credit-union draw on the RLP, or an FCL draw on the CCIF. The "no debt at any level" bar (§1.3) prohibits bond issuance, sovereign paper, and external borrowing. It does not prohibit a member drawing from its own mutual fund.
+
+> **The school example.** A rural co-op council in Region 5 (Heartland Plains) — population 2,000, three farming co-ops — needs a school building. Nearest school: 40 km. Cost: $2M.
+>
+> The council applies to the MMF. The fund evaluates: need is high (40 km); capacity is adequate (three stable co-ops); 12 competing applications; council ranks 4th by distance. Approved.
+>
+> Draw: $2M at ~4%. Repayment: ~$180,000/year over 15 years. Three co-ops split it: ~$60,000 each — about $120/member/year. The school is built *now*. The fund is repaid *over time*. No bond was issued. No bank was approached. A mutual fund lent to its own member, and the member repays from revenue it was already generating. **That is the credit-union model applied to community infrastructure.**
+
 ---
 
 ## Section 4: Governance & Administration
@@ -275,7 +303,7 @@ All ad-hoc arbitration decisions arising from equalization disputes, conditional
 | Below-cost tax breaks | Prohibited (no race to the bottom) |
 | Development fees | Cost + 50%, capped at 150% of demonstrable marginal cost |
 | Sprawl | Pays full lifecycle cost-of-service |
-| Equalization | Two mutual funds (MMF, RMF), within-tier |
+| Equalization | Two mutual funds (MMF, RMF), within-tier — **three functions:** equalization (ongoing), emergency relief (catastrophic), and **revolving capital lending** for community infrastructure (§3.7). Loans at reference + 0.5%, repaid over 10–20 years; the corpus survives |
 | Conditionality | Formula-driven (discretionary spend within net-contributor median band) |
 | Regional resources | Regionally owned; regions levy royalties/stumpage and keep **60% of a 12% royalty** (~$22B). The sovereign's cut is the **40% share (~$14.7B) + profit tax (~$8B) = ~$22.7B**, flowing to **sovereign revenue, not the SWF** |
 | Resource equalization | Resource-rich regions = natural RMF net contributors |
@@ -314,3 +342,5 @@ No taxed homes, no subsidized sprawl, no subnational debt, no predatory conditio
 ---
 
 End of Municipal and Regional Funding Act
+
+There's region and municipal
