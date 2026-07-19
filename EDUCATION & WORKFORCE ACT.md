@@ -1,11 +1,10 @@
-# Crossroads Education and Workforce Act of 2025: Draft 2.4
+# Crossroads Education and Workforce Act of 2025
 
 ---
 
-**Draft:** 2.3 | **Date:** July 12, 2026
+**Draft:** 2.4 | **Date:** July 12, 2026
 **Author:** Thunderfish2
 
-> **Cross-reference.** Companion to the **Monetary Act 9.8**, the **Credit Union Act 5.8**, the **FCL Act 3.4**, the **Sovereign Functions Act**, and the **Chamber Act**. School governance follows the asset/operator separation model: Local School Boards own facilities; Teacher Professional FCLs operate instruction. Data uses the **PPK/CED** architecture (Monetary §5) — there is no CWD. The currency is fiat; there is no DAI, BAR, or metal backing.
 
 > **Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values. Graduate allocations are **descriptive projections, not binding quotas.**
 
@@ -17,7 +16,7 @@ This act establishes a **debt-free, front-loaded education and workforce system*
 
 **Governance innovation:** each public school is a hybrid FCL — **70% Local School Board** (parents, PTA, military liaison, sports representative) and **30% Teacher Professional FCL** (all licensed teachers at the school).
 
-The act provides a **$10,000/year voucher** (following the student to any licensed school), a **front-loaded training structure** that flips from school-primary (16–18) to apprenticeship-primary (19–20 mandatory service), and **lifelong free re-entry** for anyone who never used their voucher. A **~$175B net education budget** (per the Consolidated Fiscal Model; gross ~$200B less ~$25B FCL education contribution from the commons waterfall) supports operations as **general revenue** (Sovereign Functions Act §7.3), managed by the National Learning Council (NLC) with the credit unions and FCLs.
+The act provides a **$10,000/year voucher** (following the student to any licensed school), a **front-loaded training structure** that flips from school-primary (16–18) to apprenticeship-primary (19–20 mandatory service), and **lifelong free re-entry** for anyone who never used their voucher. A **~$170B net education budget** (per the Consolidated Fiscal Model; gross ~$180B at $10,000 × 18M students, less ~$10B FCL education contribution from the commons waterfall) supports operations as **general revenue** (Sovereign Functions Act §7.3), managed by the National Learning Council (NLC) with the credit unions and FCLs.
 
 ---
 
@@ -43,7 +42,7 @@ The act provides a **$10,000/year voucher** (following the student to any licens
 
   > **Not the SWF.** Prior drafts called this an *“Education SWF allocation.”* It is the largest single line in the federal budget and it is a **one-way spend**: vouchers do not revolve and are never repaid. **Monetary §2.1:** *“the SWF is the state’s revolving lender… it is not the state’s capital budget.”* Calling it an SWF allocation would have consumed three-quarters of the fund’s corpus every year. It was general revenue that had been labelled wrong — the same error as the infrastructure buildout, the grid hardening, and the sustainability line.
 - **Stipends:** $15,000/year professional (service), $12,000/year vocational; paid monthly via credit-union checking.
-- **Revenue support:** the federal tax base (Monetary Act §4; Sovereign Functions Act §7.1 — VAT 4%, income above $100k, profit taxes, tariffs, resources, property, excise = ~$427B against ~$395B of spending); credit-union contribution; **no co-op SWF recharge** (eliminated — co-ops contribute to the commons via the FCL waterfall).
+- **Revenue support:** the federal tax base (Monetary Act §4; Sovereign Functions Act §7.1 — VAT 5%, income above $100k, profit taxes, tariffs, resources, property, excise = ~$460B against ~$403B of spending); credit-union contribution; **no co-op SWF recharge** (eliminated — co-ops contribute to the commons via the FCL waterfall).
 - **Audits:** system auditors + AI fraud detection, fraud cap, tracked via the **CED** (pseudonymized; no identity).
 - **Data:** PPK holds student identity, credentials, and records; the CED holds only pseudonymized economic flows (voucher value, stipend value). School performance data is published in aggregate.
 
