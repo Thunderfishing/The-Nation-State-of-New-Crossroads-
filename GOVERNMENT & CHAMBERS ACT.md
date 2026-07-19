@@ -1,6 +1,5 @@
 # Crossroads Chamber and Citizen Representation Act
 
-**Cross-reference.** Companion to the Sovereign Functions Act (defense, the Special Auditors, the judiciary — regional courts, appellate circuits, and Supreme Court — the SWF, the four executive bureaus — Treasury, Foreign Affairs Bureau, National Lands & Commons Bureau, Transport Bureau), the Credit Union Act 5.8, the FCL Act 3.4, the Monetary Act 9.8 (the age-20 endowment, the two-taps rule, the citizen revolving credit line, the PPK/CED), the Municipal & Regional Funding Act 1.3, the Exchange Act 1.6 (the Crossroads Exchange; Treasury's Capital Markets Bureau provides continuous market supervision), the Healthcare Act and Education Act (whose boards set the essential schedules the §12 guarantees bind), and the Military & Intelligence Act 1.9 (the militia and the arms context of Floor 7). The independent boards on the §7 registry are defined operationally in the Energy, Healthcare, Education, Communications, Infrastructure, Industry, and Housing Acts, and — for the CLS Board — in the Credit Union Act §5.5. The Election Integrity Commission (§9.5) supplements the paper-ballot rotation with continuous infrastructure monitoring. The committee-referral mechanism (§6.7) creates the formal accountability link between oversight committees and the Special Auditors.
 
 **This act is deliberately separate from the Sovereign Functions Act.** They are ratified together but are not one document. This act is the source — the chambers and the citizens — beneath which the sovereign is the residue. §11 of this act holds the entrenched floors and §12 holds the protected guarantees; both bind the sovereign and the chambers alike.
 
@@ -156,7 +155,43 @@ Any measure imposing an obligation on Tier-1 micro-co-ops or on informal-sector 
 
 ---
 
-## Section 5: The Relationship Between the Layers
+## Section 5: The Relationship Between the Layers — and How Law Is Made
+
+### 5.0 The Legislative Process — How the Three Chambers Make Law
+
+**New Crossroads has a tricameral legislature.** Not bicameral — three chambers, each representing a different constituency, with different powers.
+
+| Chamber | Represents | Size | Constitutional weight |
+|---|---|---|---|
+| **Territorial Chamber** (§3) | Citizens, by geography — 20 Regional Boards of 11 | 220 seats | Highest — holds the war power, treaty ratification, board confirmations, the militia, and the final word on rates and formulas |
+| **Co-op Productive Chamber** (§4.1) | Co-operative enterprises — delegates from Tier 2+ FCLs | 300 seats | Large but bounded — economic legislation; cannot alone weaken floors or guarantees |
+| **Corporate Productive Chamber** (§4.2) | Corporations — delegates from governance-compliant boards | 100 seats | Smallest and most constrained — may not alone weaken co-op advantage, governance requirements, or any entrenched floor |
+
+**How a bill becomes law — three paths depending on what it does:**
+
+**Path 1 — Ordinary economic legislation** (sector regulation, fee rates, programme funding, board charters):
+- **Introduced** in any chamber.
+- **Passed** by simple majority in **all three chambers independently.** Each chamber votes separately; a bill that passes two but fails the third does not become law.
+- **Deadlock:** if two chambers pass and one blocks, the §6.6 ad-hoc arbitration process assembles. The tribunal's decision is binding for that bill.
+
+**Path 2 — Matters touching individual rights, the entrenched floors (§11), or the protected guarantees (§12):**
+- Must clear the **universal citizen vote** (§2) in addition to the three chambers.
+- The amendment bars (§10) set the supermajority thresholds: ordinary bar (simple majority + universal vote), middle bar (2/3 + universal vote), highest bar (3/4 + universal vote + 5-year sunset + re-ratification).
+- **No quantity of chamber votes can override a Floor or Guarantee without the universal vote.** This is the Plutocracy Firewall (§5.1): capital may flow through every chamber but may never become a vote on an individual right.
+
+**Path 3 — Measures affecting Tier-1 micro-co-ops or the informal economy:**
+- Must additionally clear the **universal vote** (§4.3). Small actors are governed as citizens, not as enterprises.
+- The presumption of obligation (§4.3) means any measure touching activity commonly done at the informal scale is assumed to trigger this requirement unless a court rules otherwise.
+
+**What no path can do:**
+- No bill may direct the SWF to fund sovereign operations (Monetary §5.4 — absolute bar).
+- No bill may authorise sovereign debt at any level (Sovereign Functions §8.7).
+- No bill may tax residential property (§11 Floor 2 — highest bar to change).
+- No bill may target, defend, or band the BWC exchange rate (Exchange Act §3.7.3).
+
+**The Territorial Chamber's primacy.** On a conflict between a Productive Chamber resolution and a Territorial Chamber resolution, the Territorial Chamber prevails — because it represents citizens by geography (universal) rather than enterprises by form (selective). This is not a tie-breaking rule; it is a hierarchy. The Productive Chambers propose and legislate within their domain; the Territorial Chamber confirms, ratifies, and holds the constitutional keys.
+
+> **Why three chambers and not two.** A bicameral system (geographic + economic) would force co-ops and corporations into one house, where the co-op majority would permanently outvote the corporate minority. The corporate chamber exists so that corporations have a voice *on their own terms* — constrained, smaller, but real. A system that structurally disadvantages a form of enterprise owes that form its own seat at the table, even if the seat is the smallest one. **The corporate chamber is the system's honesty about what it is: a co-op-dominant economy that disciplines corporations but does not silence them.**
 
 ### 5.1 The Plutocracy Firewall
 
@@ -293,7 +328,7 @@ The Special Auditors are prosecutors — they investigate wrongdoing after the f
 
 **The committees:**
 
-**Public Accounts Committee.** All public spending — the sovereign’s **operations** budget against the 4% cap (§7.2 defines “operating” — operations ~$180B at 3.0% of GDP; transfers ~$215B are outside it), SWF deployments, commons-waterfall allocations, equalization-fund draws, and the Defense Fund. Paired with the Special Auditors — the auditors investigate and report, the committee interrogates and publishes.
+**Public Accounts Committee.** All public spending — the sovereign’s **operations** budget against the 4% cap (§7.2 defines “operating” — operations ~$188B at 3.1% of GDP; transfers ~$215B are outside it), SWF deployments, commons-waterfall allocations, equalization-fund draws, and the Defense Fund. Paired with the Special Auditors — the auditors investigate and report, the committee interrogates and publishes.
 
 **Defense & Foreign Affairs Committee.** Military command, treaty negotiations, the CMIS wall, the global-segment statecraft powers, and defense-fund spending.
 
@@ -636,9 +671,9 @@ Referenced in Sovereign Functions Act §8 alongside the floors.
 | Small-actor protection | Universal vote required for Tier-1/informal obligations (§4.3) | The informal economy and micro-co-ops | Burden on enacting body; pre-enactment certification; severability; prospective standing |
 | Outer limit | Entrenched Floors (§11; 12 floors) | What no majority may touch | 75% referendum to breach |
 | Protected | Guarantees (§12; 4 items) | What the state must always provide | Middle bar to weaken |
-| **Federal revenue** | **~$427B** | VAT 4% + income >$100k + corporate profit + tariffs + resources + co-op profit + property + excise | |
-| **Federal spending** | **~$395B** | **Operations ~$180B** (3.0% of GDP, inside the 4% cap) + **Transfers ~$215B** (outside it; §7.2 test: who chooses the recipient?) | |
-| **Citizen dividend** | **~$135B/yr** (~$1,208/citizen) | Once the SWF caps (~2029) — the only channel reaching the informal economy | |
+| **Federal revenue** | **~$460B** | VAT 5% + income >$100k + corporate profit + tariffs + resources + co-op profit + property + excise | |
+| **Federal spending** | **~$403B** | **Operations ~$188B** (3.1% of GDP, inside the 4% cap; includes $8B savings match) + **Transfers ~$215B** (outside it; §7.2 test: who chooses the recipient?) | |
+| **Citizen dividend** | **~$160B/yr** (~$1,432/citizen) | Once the SWF caps (~2029) — the only channel reaching the informal economy | |
 | **Profit taxation** | **Federal only** | The Co-op Advantage Principle compares two rates; it holds only where one body sets both (Municipal & Regional Funding Act §2.2) | |
 
 **Every chamber is one-third wildcards. Wildcard terms: 5 years, 3-term cap. Territorial Chamber sits quarterly (§3.4). No citizen may hold more than one chamber seat (§2.3). The eight boards are founding instruments; §7.2's charter bar governs the ninth and after.**
