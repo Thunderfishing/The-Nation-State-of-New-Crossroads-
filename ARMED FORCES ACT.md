@@ -3,8 +3,6 @@
 **Draft:** 1.9 | **Date:** July 17, 2026
 **Author:** Thunderfish2
 
-> **Cross-reference.** Companion to the **Monetary Act 9.8** (the Defense Fund §2.5), **Credit Union Act 5.8**, **FCL Act 3.4**, the **Sovereign Functions Act 2.1** (the military as sovereign function §2.1, the funding base §7, the bar on SWF-funded operations §5.4), the **Chamber Act**, **Energy Act 4.3**, **Education Act 2.3**, **Healthcare Act 6.6**, **Communications Act 4.3**, and **Infrastructure Act 2.6**. The currency is fiat (no metal backing); funding figures follow the Consolidated Fiscal Model.
-
 ---
 
 ## Section 1: Unified Command & Governance
