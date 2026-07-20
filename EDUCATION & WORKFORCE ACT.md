@@ -2,7 +2,7 @@
 
 ---
 
-**Draft:** 2.3 | **Date:** July 12, 2026
+**Draft:** 2.4 | **Date:** July 12, 2026
 **Author:** Thunderfish2
 
 > **Cross-reference.** Companion to the **Monetary Act 9.8**, the **Credit Union Act 5.8**, the **FCL Act 3.4**, the **Sovereign Functions Act**, and the **Chamber Act**. School governance follows the asset/operator separation model: Local School Boards own facilities; Teacher Professional FCLs operate instruction. Data uses the **PPK/CED** architecture (Monetary §5) — there is no CWD. The currency is fiat; there is no DAI, BAR, or metal backing.
