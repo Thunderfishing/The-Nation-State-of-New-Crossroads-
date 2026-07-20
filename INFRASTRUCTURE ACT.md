@@ -1,4 +1,4 @@
-# New Crossroads Infrastructure Act of 2025: 
+# New Crossroads Infrastructure Act of 2025 
 
 ---
 
@@ -33,7 +33,7 @@ The Infrastructure Act integrates with the Energy Act, Utilities Act, Industry A
 - **Utilities Act 1.3:** Transmission access fees ($49B/year by 2075) fund grid hardening that powers rail electrification. The asset/operator separation model is directly replicated.
 - **Industry Act:** Rail, freeways, ports, barges, and cargo airports distribute hemp ($2B), heavy equipment ($20B), steel ($2B).
 - **Housing Act:** Infrastructure supports 500,000 Durahomes/year by 2075, transporting CO2-cured hempcrete (450,000 tons/year), low-carbon concrete (10M tons/year), hemp 2x4s (50,000 tons/year), and insulation (50,000 tons/year).
-- **Monetary Act 9.8:** Infrastructure access fees (tolls, track access, port fees) are paid in BWC, flow to SWF (30% of revenue), and are subject to standard BWC transaction fees. Co-op operators pay 5% co-op profit tax on profits over $100,000 (no SWF contribution). No binding sector quotas apply. Loans are reference-rate-anchored (Monetary §1.5A).
+- **Monetary Act 9.8:** Infrastructure access fees (tolls, track access, port fees) are paid in BWC, flow to SWF (30% of revenue), and are subject to standard BWC transaction fees. Co-op operators pay 5% co-op profit tax on profits over $100,000 (no SWF contribution). Loans are reference-rate-anchored (Monetary §1.5A).
 - **Sovereign Functions Act:** The National Infrastructure Board (NInfraB) is an independent board chartered under the independent board registry; Special Auditors (§3) enforce compliance.
 - **Chamber Act:** Regional Boards (§3) oversee regional infrastructure matters; independent board registry (§7).
 
