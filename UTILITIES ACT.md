@@ -1,9 +1,7 @@
-# New Crossroads Utilities Act of 2025: Draft 1.4
+# New Crossroads Utilities Act of 2025
 
-**Draft:** 1.3 | **Date:** July 12, 2026
+**Draft:** 1.4 | **Date:** July 12, 2026
 **Author:** Thunderfish2
-
-> **Cross-reference.** Companion to the **Energy Act 4.4**, the **Monetary Act 9.8**, the **Credit Union Act 5.8**, the **FCL Act 3.4**, the **Sovereign Functions Act**, the **Chamber Act**, and the **Infrastructure Act 2.7**. Grid hardening, buried lines, EMP-shielded substations, transformer reserves, and antifragile hubs are governed by the Energy Act. The asset/operator separation model follows the Infrastructure Act's rail system. Loans are reference-rate-anchored (Monetary Act §1.5A). Data uses PPK/CED (no CWD). The currency is fiat.
 
 > **Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values.
 
