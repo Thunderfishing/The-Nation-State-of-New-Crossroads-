@@ -1,6 +1,6 @@
-# Crossroads Military Intelligence and Defense Act of 2025: Draft 1.9
+# Crossroads Military Intelligence and Defense Act of 2025: Draft 2.0
 
-**Draft:** 1.9 | **Date:** July 17, 2026
+**Draft:** 2.0 | **Date:** July 17, 2026
 **Author:** Thunderfish2
 
 ---
@@ -58,10 +58,10 @@
 
 | Stage | Timeline | Strength |
 |---|---|---:|
-| Peacetime (active military, all branches) | standing | ~156,000 |
+| Peacetime (active military, all branches) | standing | **~178,000** |
 | + Tier 1 Ready Reserve | 72 hours | ~356,000 |
 | + Tier 2 Standard Reserve | 30 days | ~856,000 |
-| + Tier 3 Individual Ready Reserve | 90 days | ~1,156,000 |
+| + Tier 3 Individual Ready Reserve | 90 days | ~1,178,000 |
 | + Militia (total war) | full mobilisation | ~10,256,000 |
 
 ### 2.2 Equipment (Ground Forces)
@@ -128,13 +128,27 @@
 |-----------|-------|-----------|---------------|-----------------|
 | Destroyers | 6 | ~250 | +40% | ~2,100 |
 | Frigates | 12 | ~150 | +40% | ~2,520 |
-| Corvettes | 24 | ~70 | +40% | ~2,352 |
+| Corvettes | 24 | ~70 | +30% | ~2,184 |
 | Patrol boats | 30 | ~15 | +20% | ~540 |
-| Minesweepers | 14 | ~40 | +40% | ~784 |
-| SSBNs (ICBM submarines) | 8 | ~150 | +100% (nuclear support) | ~2,400 |
-| SSNs (attack submarines) | 12 | ~80 | +80% | ~1,728 |
-| Naval bases (4) | — | — | — | ~2,000 |
-| **Total Navy** | **106 vessels** | | | **~13,000–13,500** |
+| Minesweepers | 14 | ~40 | +30% | ~728 |
+| **SSBNs (nuclear-powered, ICBM)** | **8** | ~155 | +100% (Blue/Gold crews + reactor shore support) | ~3,720 |
+| **SSNs (nuclear-powered, VLS-equipped)** | **16** | ~80 | +100% (Blue/Gold crews + reactor shore support) | ~2,560 |
+| Naval bases (4) + submarine base | — | — | — | ~3,000 |
+| Submarine reactor maintenance facility | — | — | — | ~870 |
+| **Total Navy** | **110 vessels** | | | **~18,222** |
+
+> **All 24 submarines are nuclear-powered.** The SSBNs carry 14 ICBMs each (112 total) — the strategic deterrent. The SSNs carry **vertical launch systems (VLS) for hypersonic cruise missiles, including tactical 10-kiloton nuclear warheads** — the anti-access/area denial weapon. A single SSN can destroy a carrier battle group at 1,000+ km with nuclear-tipped hypersonics before the fleet knows it's under attack.
+>
+> **Two layers of nuclear deterrence:**
+>
+> | Layer | Platform | Weapon | Purpose |
+> |---|---|---|---|
+> | **Strategic** | 8 SSBNs | ICBMs (112 total) | Assured second strike — MAD deterrent. The reason no rational actor invades |
+> | **Tactical** | 16 SSNs | Hypersonic cruise missiles (VLS), conventional and **10kt nuclear** | Anti-ship, fleet denial, area denial. The reason no fleet approaches |
+>
+> The tactical nuclear capability is the island's A2/AD answer. At Point Nemo, an invasion fleet must cross thousands of kilometres of open ocean. Sixteen nuclear-powered attack submarines, each carrying VLS hypersonic missiles with tactical nuclear warheads, make that crossing a suicide mission. **The submarines do not need to win a naval battle. They need to make the battle not worth starting.**
+>
+> **Blue/Gold crewing.** Every submarine maintains two full crews — one at sea, one ashore resting, training, and maintaining the boat. This allows continuous deployment without burning out the crews. The US Navy's Ohio-class SSBNs pioneered this model; New Crossroads applies it to the entire submarine fleet.
 
 ### 3.2 Naval Bases
 | Base | Region | Notes |
@@ -272,7 +286,48 @@
 
 ---
 
-## Section 8: Training, Procurement, and R&D
+## Section 8: The Nuclear Directorate
+
+**The fuel cycle that powers the nation and arms its submarines.** New Crossroads operates 56 GW of civilian SMR capacity (20 hubs) and 24 nuclear submarine reactors, all fuelled by domestically mined uranium from the Frostpeak. The nuclear fuel cycle — from raw ore to spent fuel — is the single most sensitive industrial operation in the country, and the one place where civilian and military nuclear programmes physically intersect.
+
+### 8.1 The Hard Wall
+
+The **civilian fuel cycle** (low-enriched uranium, <5% U-235, for SMR fuel rods) sits on one side. The **naval fuel cycle** (highly enriched uranium, >90% U-235, for submarine reactor cores) sits on the other. **The wall between them is physical, not administrative:** separate facilities, separate personnel, separate security clearances, air-gapped information systems. A civilian enrichment technician cannot access the naval wing. A naval reactor engineer cannot access the civilian production line.
+
+The NEB (Energy Act 4.4) governs civilian reactors. The Nuclear Directorate governs naval reactors and weapons-grade material. Chamber Act §7.3 states the wall; this section implements it.
+
+### 8.2 Facilities and Personnel
+
+| Facility | Function | Personnel | Security |
+|---|---|---:|---|
+| **Civilian enrichment plant** | Low-enriched uranium for 56 GW of SMRs | ~1,500 | NEB oversight, CED-transparent |
+| **Naval enrichment plant** | Highly enriched uranium for 24 submarine reactor cores | ~1,500 | Military classification, air-gapped |
+| **Fuel fabrication** — civilian | Assemble fuel rods for SMR fleet (standardised across 20 hubs) | ~1,000 | NEB + co-op operated |
+| **Fuel fabrication** — naval | Assemble reactor cores for SSBN/SSN fleet | ~500 | Military classification |
+| **Submarine reactor servicing** | Refuelling (~10-year cycle), overhaul, defuelling, reactor-compartment maintenance | ~3,000 | Dedicated naval shipyard, co-located with submarine base |
+| **Spent fuel management** | Cooling ponds, dry-cask storage, geological repository (Frostpeak deep storage) | ~1,500 | Long-term — this facility operates for centuries |
+| **R&D — next-generation reactors** | Next-gen submarine propulsion, advanced SMR designs, fuel efficiency, waste reduction | ~2,500 | Mixed civilian/military; the wall applies within the lab |
+| **Nuclear security force** | Physical security for enrichment facilities, weapons-grade material transport, the hard wall | ~1,000 | Military police, highest clearance |
+| **Total Nuclear Directorate** | | **~12,500** | |
+
+### 8.3 Weapons-Grade Material
+
+The naval enrichment plant and the warhead fabrication facility (for the SSBNs' ICBM warheads and the SSNs' **tactical 10-kiloton cruise missile warheads**) are the most sensitive sites in the nation. They are:
+
+- **Sovereign assets** — owned by the state, not co-op-operated. One of the very few things the sovereign owns directly (alongside the grid, the rail, and the fiber backbone).
+- **Under Sovereign Council authority** for security classification — the one domestic function the sovereign holds (Sovereign Functions Act §6.3 — the sovereign commands and negotiates; nuclear weapons are the command function).
+- **Inspected by the Special Auditors** for financial integrity, but operational details are classified. The auditors verify that money was spent; they do not see what it was spent on.
+- **Located in the Frostpeak** — remote, cold, underground, co-located with the uranium source. The ore travels metres, not hundreds of kilometres.
+
+### 8.4 Funding
+
+The Nuclear Directorate's ~$5B/year operating budget is military spending (§9 below). Capital for new enrichment capacity, reactor servicing infrastructure, and the geological repository comes from the sovereign's infrastructure buildout line (Sovereign Functions §7.3).
+
+The **civilian** enrichment and fuel fabrication plants are co-op-operated, funded by the NEB's access-fee revenue (Energy Act §2.3) — the 155% maintenance-recovery model. **The military pays the civilian plant for low-enriched feedstock** at a transfer price, then enriches it further in the naval plant. This keeps the civilian plant commercially viable and the military plant focused on its classified work.
+
+---
+
+## Section 9: Training, Procurement, and R&D
 
 ### 8.1 Training
 | Program | Annual Cost | Notes |
@@ -297,7 +352,7 @@
 
 ## Section 9: Funding — Reconciled Expanded Budget
 
-**The mature military annual budget: $55–65B/year (2075). At founding it is ~$44B.**
+**The mature military annual budget: $65–75B/year (2075). At founding it is ~$52B.**
 
 | Branch | Annual Budget (mature) | Personnel |
 |--------|---------------|-----------|
@@ -308,24 +363,24 @@
 | **CSI (Space Command)** | $2.25B | 3K → 6K |
 | **Aid Operations** | $2B | 10K |
 | **Training + R&D** | $5–6B | — |
-| **Total** | **$55–65B** | **~156K active** (Army 100K + Navy ~13K + Air Force ~16K + CMIS 25K + Space 2K) |
+| **Total** | **$65–75B** | **~178K active** (Army 100K + Navy ~18K + Air Force ~21K + CMIS 25K + Nuclear Directorate ~12.5K + Space 2K) |
 
 > **The $55–65B is the 2075 force, not the 2025 one.** The endowment supplement is what pays for the expansion, and in 2025 the endowment holds ~$100B, returning ~$4B. **Founding budget: ~$40B (sovereign revenue) + ~$4B (endowment returns) = ~$44B.** The force above is what ~$44B grows into as the endowment compounds toward ~$920B — it is not what the founding treasury buys. Prior drafts carried $55–65B in both columns of the Key Stats while showing the supplement as "—" at founding: the same total with and without the thing that funds the difference.
 
 ### 9.1 Funding Sources — Two Distinct Streams
 
-**Stream 1 — Stable Sovereign Revenue Allocation ($40B/year):**
+**Stream 1 — Sovereign Revenue Allocation (~$46B/year at founding):**
 - The baseline is paid from **sovereign revenue** (Sovereign Functions Act §7; Monetary Act §4) — the federal tax base, alongside the judiciary, the auditors, and the four bureaus.
 - **This allocation does not decrease.** It remains constant as the baseline annual contribution.
 
-> **This is not the SWF, and the change is not cosmetic.** Prior drafts read *"The SWF Defense sub-fund provides a stable $40B/year allocation."* **Sovereign Functions Act §5.4 says the SWF may never fund sovereign operations**, and the military is sovereign function #1 (§1.1). The two acts contradicted outright — and the resolution is not to carve an exception into §5.4 but to fund defense the way everything else the sovereign does is funded. Sovereign revenue is ~$460B against ~$403B of spending; **the $40B fits inside it**, so the bar never has to bend.
+> **This is not the SWF, and the change is not cosmetic.** Prior drafts read *"The SWF Defense sub-fund provides a stable $40B/year allocation."* **Sovereign Functions Act §5.4 says the SWF may never fund sovereign operations**, and the military is sovereign function #1 (§1.1). The two acts contradicted outright — and the resolution is not to carve an exception into §5.4 but to fund defense the way everything else the sovereign does is funded. Sovereign revenue is ~$460B against ~$403B of spending; **the $46B military line fits inside it, and the Defense Fund covers the remaining ~$6B from returns**, so the bar never has to bend.
 >
 > **Defense is the exception every state in history has used to reach its fund.** A bar with a defense carve-out is a bar that opens the moment anyone wants it to. This one has no carve-out, and does not need one.
 
 **Stream 2 — Defense Fund Endowment Supplement (~$4B founding → $15–25B mature):**
 - The **Defense Fund** (citizen-bequest endowment, outside the SWF and outside the 12% cap) provides a **supplemental draw from its returns** to cover the expanded force's additional cost.
 - It compounds from **~$100B (2025) to ~$920B (2075)**. At ~4%, that is **~$4B at founding and ~$37B at maturity** — the latter fully covering the $15–25B supplemental draw with the endowment intact.
-- **The endowment supplements the $40B allocation** — it does not replace it. Total: **~$44B (2025) → $55–65B (2075)**.
+- **The endowment supplements the sovereign allocation** — it does not replace it. Total: **~$52B (2025) → $65–75B (2075)**.
 
 > **The taper is dead, and it was mine.** Prior drafts of the Monetary Act had the defense allocation *"declining from ~$40B toward ~$0 by ~2070 as the endowment matures"* — in four places. It described the endowment **replacing** the baseline rather than supplementing it, which is the opposite of what this section has always said, and it implied a military tapering to nothing while this act builds a Tier-2 force with eight SSBNs and a space command. **The budget rises. The baseline stays put.** Monetary §2.5 and Sovereign Functions §2.1 now carry this section's language rather than contradicting it.
 
@@ -336,7 +391,7 @@
 - **The principal is locked; the returns are drawable.**
   - **Principal — locked until total war.** Release of capital requires the supermajority unlock vote (Chamber Act §10.5 middle bar). The corpus is not a budget line and may not be spent down to buy ships.
   - **Returns — drawable annually**, without a vote, up to the §9.1 supplement (~$4B founding, $15–25B mature). The draw may never exceed the year's returns: the endowment funds the expansion **out of its yield, in perpetuity**, and is never consumed by it.
-- **Use:** Supplements the sovereign-revenue allocation (§9.1). The baseline stays $40B; the endowment funds the expansion.
+- **Use:** Supplements the sovereign-revenue allocation (§9.1). The sovereign baseline is ~$46B at founding; the endowment funds the growth. **As the fund matures, its returns absorb an ever-larger share of the total budget — eventually covering it entirely, freeing the sovereign's allocation for the citizen dividend.**
 
 > **The contradiction this resolves.** Prior drafts said the fund was *"locked until total war"* while §9.1 drew $15–25B/year from it as a standing supplement. Both cannot be true of the same money — a fund is not locked if it pays an annual allocation, and it cannot fund an expansion if it is sealed. **The sensible reading was always principal-locked and returns-drawable**, which is how every endowment on earth works and what the ~4%/~$37B line implies. The act simply never said it, so the lock read as absolute and the draw read as a breach of it. Monetary Act §2.5 flagged this and deferred to this section; it is answered here.
 
@@ -378,20 +433,20 @@ Crossroads ranks alongside:
 - 12 SSNs → serious underwater warfare capability.
 - 5,000+ drones → drone‑centric doctrine; cheap to lose, expensive to attack.
 - $920B Defense Fund → long-term financial independence.
-- **~156K active military** (Army 100K + Navy ~13K + Air Force ~16K + CMIS 25K + Space 2K) — lean professional force backed by 1M tiered reserves and 9.1M militia.
+- **~178K active military** (Army 100K + Navy ~18K + Air Force ~21K + CMIS 25K + Nuclear Directorate ~12.5K + Space 2K) — lean professional force backed by 1M tiered reserves and 9.1M militia.
 - CMIS (25K → 50K) → strong cyber, EW, satellite control.
 
 ### 11.2 2075 Force Projection
 
 | Branch | 2025 | 2075 |
 |--------|------|------|
-| Active forces (all branches) | ~156K | ~180K |
-| Navy vessels | 6 destroyers, 12 frigates, 24 corvettes, 30 patrol boats, 14 minesweepers, 8 SSBNs, 12 SSNs (106 vessels) | same (with upgrades) |
-| Air Force | 300 combat aircraft (150 multi-role, 70 anti-ship, 50 strike, 30 specialised), 106 transport, 30 SAR helicopters, 5K drones, 10 drone carriers. **80 Air Cavalry helicopters are organic to Ground Forces §2.1** | same (with upgrades) |
+| Active forces (all branches) | **~178K** | ~200K |
+| Navy vessels | 6 destroyers, 12 frigates, 24 corvettes, 30 patrol boats, 14 minesweepers, **8 SSBNs (nuclear, ICBM), 16 SSNs (nuclear, VLS hypersonic/10kt tactical)** — 110 vessels, **all submarines nuclear-powered** | same (with upgrades) |
+| Air Force | 300 combat aircraft (150 multi-role, 70 anti-ship, 50 strike, 30 specialised), 106 transport, 30 SAR helicopters, **10K drones**, 10 drone carriers. **80 Air Cavalry helicopters are organic to Ground Forces §2.3** | same (with upgrades) |
 | CMIS | 25K | 50K |
 | CSI | 3K | 6K |
 | Defense Fund | building | ~$920B |
-| Annual budget | ~$44B ($40B sovereign revenue + ~$4B endowment returns) | $55–65B ($40B + $15–25B endowment returns) |
+| Annual budget | **~$52B** ($46B sovereign revenue + ~$6B endowment returns) | **$65–75B** (declining sovereign share + growing endowment returns) |
 
 ---
 
@@ -399,14 +454,14 @@ Crossroads ranks alongside:
 
 | Metric | 2025 | 2075 |
 |--------|------|------|
-| Active military (all branches) | ~156K | ~180K |
+| Active military (all branches) | **~178K** | ~200K |
 | Navy personnel | ~12,800–13,500 | ~12,800–13,500+ |
 | Air Force personnel | ~15,000–16,000 | ~15,000–16,000+ |
 | CMIS personnel | 25K | 50K |
 | CSI personnel | 3K | 6K |
 | Ground Forces | 100K active, 1M reserves, 9.1M militia | same |
-| **Total annual budget** | **~$44B** ($40B sovereign revenue + ~$4B endowment returns) | **$55–65B** ($40B + $15–25B endowment returns) |
-| **Sovereign revenue allocation** (Sovereign Functions Act §7) | $40B | $40B (stable — **no taper**) |
+| **Total annual budget** | **~$52B** ($46B sovereign + ~$6B Defense Fund returns) | **$65–75B** (Defense Fund returns eventually cover the full budget) |
+| **Sovereign revenue allocation** (Sovereign Functions Act §7) | ~$46B | declining — as Defense Fund returns grow, the sovereign share shrinks |
 | Defense Fund supplement (**returns only; principal locked**) | ~$4B | $15–25B |
 | Defense Fund endowment (outside the SWF and its 12% cap) | ~$100B | ~$920B |
 | One-time buildout | ~$77.56B | amortized |
@@ -416,10 +471,10 @@ Crossroads ranks alongside:
 | Patrol boats | 30 | 30 |
 | Minesweepers | 14 | 14 |
 | SSBNs (ICBM submarines) | 8 | 8 |
-| SSNs (attack submarines) | 12 | 12 |
+| SSNs (nuclear-powered, VLS hypersonic) | **16** | 16 |
 | Combat aircraft | 300 (150 multi-role, 70 anti-ship, 50 strike, 30 specialised) | 300 |
 | Transport aircraft | 106 | 106 |
-| Combat drones | 5,000 | 5,000+ |
+| Combat drones | **10,000** | 10,000+ |
 | Flying drone carriers | 10 | 10 |
 | Military satellites | 10 | 75 |
 | Anti-satellite missiles | 100 | 100 |
@@ -464,4 +519,4 @@ A lean military, funded by a stable allocation and a growing endowment, that def
 
 ---
 
-**End of Draft 1.9**
+**End of Draft 2.0**
