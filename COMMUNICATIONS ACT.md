@@ -1,11 +1,9 @@
-# Crossroads Communications and Media Infrastructure Act of 2025: Draft 4.4
+# Crossroads Communications and Media Infrastructure Act of 2025
 
-**Draft:** 4.3 | **Date:** July 12, 2026
+**Draft:** 4.4 | **Date:** July 12, 2026
 **Author:** Thunderfish2
 
 ---
-
-> **Cross-reference.** Companion to the **Monetary Act 9.8**, **Credit Union Act 5.8**, **FCL Act 3.4**, **Energy Act 4.4**, **Utilities Act 1.3**, **Infrastructure Act 2.6**, the **Sovereign Functions Act**, and the **Chamber Act**. The asset/operator separation model follows the rail system (state owns tracks, co-ops/corps run trains) and utilities (state owns lines, utilities sell power). Loans are reference-rate-anchored (Monetary Act §1.5A). Data uses PPK/CED (no CWD).
 
 > **Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values.
 
