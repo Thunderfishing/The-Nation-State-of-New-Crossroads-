@@ -1,11 +1,9 @@
-# New Crossroads Infrastructure Act of 2025: Draft 
+# New Crossroads Infrastructure Act of 2025: 
 
 ---
 
 **Draft:** 2.7 | **Date:** July 18, 2026
 **Author:** Thunderfish2
-
-> **Cross-reference.** Companion to the **Monetary Act 9.8**, **Credit Union Act 5.8**, **FCL Act 3.4**, **Energy Act 4.4**, **Utilities Act 1.3**, **Communications Act 4.2**, **Industry Act**, the **Sovereign Functions Act**, the **Chamber Act**, and the **Municipal & Regional Funding Act**. The asset/operator separation model follows the Utilities Act (state owns infrastructure, co-ops/corporations compete on operations). Loans are reference-rate-anchored (Monetary Act §1.5A). Data uses PPK/CED (no CWD). The currency is fiat.
 
 > **Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values.
 
