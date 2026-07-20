@@ -1,9 +1,8 @@
 # The Nation-State of New Crossroads — Geography & National Profile: Draft 3.1
 
+**Posted to r/Bulwarkomics**
 **Draft:** 3.1 | **Date:** July 17, 2026
 **Author:** Thunderfish2
-
----
 
 > **Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values.
 
@@ -17,7 +16,7 @@ This isolation is the key to the nation's character. With no land neighbors and 
 
 In **2025** it supports **112M citizens** and a **~$6T GDP** (~$53,600 per capita — a middle-income post-collapse economy rebuilding on a co-op-dominant base), scaling to **130M citizens** and a **~$19T GDP** (~$146,000 per capita) by **2075** as per-capita output nearly triples over fifty years. The economy is **co-op-dominant by design** (~65% co-op as a descriptive baseline, not a binding target), funded by a Sovereign Wealth Fund capped at 12% of GDP and a two-tier (national + regional) fiscal structure with **no sovereign debt at any level**.
 
-> **On the per-capita figure, and what kind of country this is.** ~$53,600 in 2025 places New Crossroads roughly where South Korea or Spain sit today — a serious industrial economy, not a rich one, rebuilding from a debt collapse with cheap nuclear power, deep resource endowments, and a co-op structure that distributes ownership rather than concentrating it. By 2075 at ~$146,000 it has caught and passed every current OECD nation — but the journey is from middle-income to wealthy, not from wealthy to fantastical. 
+> **On the per-capita figure, and what kind of country this is.** ~$53,600 in 2025 places New Crossroads roughly where South Korea or Spain sit today — a serious industrial economy, not a rich one, rebuilding from a debt collapse with cheap nuclear power, deep resource endowments, and a co-op structure that distributes ownership rather than concentrating it. By 2075 at ~$146,000 it has caught and passed every current OECD nation — but the journey is from middle-income to wealthy, not from wealthy to fantastical.
 
 ---
 
@@ -129,7 +128,7 @@ The 2025 split is the documents' baseline. The **2075 column is a projection of 
 **Why the drift (and why it's healthy):**
 
 - **Co-op stays dominant — a relative dip on a far larger pie.** Falling from ~65% to ~55% does *not* mean co-ops shrink: the economy more than triples, so co-op activity grows from ~$3.9T to ~$10.5T in absolute terms. And the fiscal machinery scales with co-op *dollars*, not *share* — at the ~10.3% margin, the co-op profit tax rises from ~$20B to ~$54B and the commons waterfall from ~$48B to ~$130B. The commons nearly triples even as the percentage falls. At ~55% co-op remains an outright majority and the economy's anchor.
-- **Informal over-performs — because it is *chosen*, not *escaped*.** In a normal economy informal shrinks with development; New Crossroads inverts that on purpose by constitutionally protecting cash commerce and keeping it frictionless. A growing, financially-literate population can afford to stay small by choice (artisans, journeyman trades, gig). So informal *grows* — but it is capped below ~27% of GDP value by the formal high-value spine: nuclear power, AI/tech, minerals, healthcare, steel, and shipbuilding *cannot* be run out of a cash box. Note informal is a larger share of *people* (perhaps ~35–40% of workers) than of *value* (~25%) — high headcount, modest value-per-head. **Under 4% VAT + the $1,208 citizen dividend, the informal sector nets positive: it pays ~$20–27B of VAT and receives ~$27B of dividend.** It is the only instrument that reaches them, and the only channel that reaches back.
+- **Informal over-performs — because it is *chosen*, not *escaped*.** In a normal economy informal shrinks with development; New Crossroads inverts that on purpose by constitutionally protecting cash commerce and keeping it frictionless. A growing, financially-literate population can afford to stay small by choice (artisans, journeyman trades, gig). So informal *grows* — but it is capped below ~27% of GDP value by the formal high-value spine: nuclear power, AI/tech, minerals, healthcare, steel, and shipbuilding *cannot* be run out of a cash box. Note informal is a larger share of *people* (perhaps ~35–40% of workers) than of *value* (~25%) — high headcount, modest value-per-head. **Under 5% VAT + the $1,432 citizen dividend, the informal sector nets positive: it pays ~$25–33B of VAT and receives ~$32B of dividend.** It is the only instrument that reaches them, and the only channel that reaches back.
 - **Corporate holds and edges up,** carried by capital-intensive sectors and foreign investment — tempered by the 40% co-op-conversion rule on foreign factories (Industry Act 4.5), which steadily converts pure-corporate into hybrid.
 
 *All shares are descriptive (Monetary Act 9.8); no act enforces them — the composition is an outcome of incentives, not a quota.*
@@ -149,14 +148,14 @@ Minerals (uranium, coal, metals) dominate, from the southern Frostpeak regions; 
 | Metric | 2025 | 2075 |
 | :--- | :--- | :--- |
 | Sovereign Wealth Fund (capped 12% GDP) | ~$230B (3.8% of GDP) | capped at ~$2.28T |
-| National revenue | ~$427B | scaling |
-| National spending — operations | ~$180B (3.0% of GDP, inside the 4% cap) | ~0.9% of GDP |
+| National revenue | ~$460B | scaling |
+| National spending — operations | ~$196B (3.3% of GDP, inside the 4% cap) | ~1% of GDP |
 | National spending — transfers | ~$215B | scaling |
-| National surplus | ~$32B → SWF → citizen dividend | scaling |
-| **Citizen dividend (once SWF caps ~2029)** | **~$135B/yr (~$1,208/citizen)** | scaling |
+| National surplus | ~$49B → SWF → citizen dividend | scaling |
+| **Citizen dividend (once SWF caps ~2029)** | **~$160B/yr (~$1,432/citizen)** | scaling |
 | Exports | ~$840B (~14% of GDP) | ~$2.7T |
 
-*The national tier runs on VAT (4%, DLB zero-rated), income tax above $100,000, profit taxes (co-op and corporate, federal only), tariffs, resources, property, and excise. No FTT. No sovereign debt at any level. Royalties fund the regions; the SWF lends and backstops — it does not spend.*
+*The national tier runs on VAT (5%, DLB zero-rated), income tax above $100,000, profit taxes (co-op and corporate, federal only), tariffs, resources, property, and excise. No FTT. No sovereign debt at any level. Royalties fund the regions; the SWF lends and backstops — it does not spend.*
 
 ---
 
@@ -197,9 +196,9 @@ Minerals (uranium, coal, metals) dominate, from the southern Frostpeak regions; 
 | Commons (FCL waterfall) | ~$48B ($19B health / $10B edu / $19B charity) | scaling |
 | Resource activity | ~$306.4B | scaling |
 | SWF (12% GDP cap) | ~$230B | capped at ~$2.28T |
-| Federal revenue | ~$427B | scaling |
-| Federal spending | ~$395B (operations $180B + transfers $215B) | scaling |
-| Citizen dividend | ~$135B/yr (~$1,208/citizen) | scaling |
+| Federal revenue | ~$460B | scaling |
+| Federal spending | ~$403B (operations $196B + transfers $215B) | scaling |
+| Citizen dividend | ~$160B/yr (~$1,432/citizen) | scaling |
 | Exports | ~$840B | ~$2.7T |
 | Corridon River | ~1,200 km, flows north, ~50M tons barges | — |
 | Westflow River | ~300 km, barges on lower river below upstream dam | — |
