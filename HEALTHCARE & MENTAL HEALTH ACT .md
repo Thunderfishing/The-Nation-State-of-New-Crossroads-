@@ -1,10 +1,9 @@
 # Crossroads Co-operative Healthcare & Mental Wellness Act of 2025: Draft 6.7
 
-**Posted to r/Bulwarkomics**
-**Draft:** 6.6 | **Date:** July 12, 2026
+**Draft:** 6.7 | **Date:** July 12, 2026
 **Author:** Thunderfish2
 
-> **Cross-reference.** Companion to the **Monetary Act 9.8**, the **Credit Union Act 5.8**, the **FCL Act 3.4**, the **Sovereign Functions Act**, the **Chamber Act**, and the **Education Act 2.3**. Loans are reference-rate-anchored (Monetary Act §1.5A). Data uses the **PPK/CED** architecture (Monetary §5), operational from inception — there is no CWD. The currency is fiat.
+---
 
 > **Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values. Facility counts and corporate-sector share are descriptive projections, not quotas.
 
