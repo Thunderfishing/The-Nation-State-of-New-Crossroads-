@@ -3,6 +3,8 @@
 **Draft:** 1.4 | **Date:** July 12, 2026
 **Author:** Thunderfish2
 
+---
+
 > **Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values.
 
 ---
