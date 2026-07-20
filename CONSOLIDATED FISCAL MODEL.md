@@ -1,17 +1,6 @@
----
-title: "New Crossroads — Consolidated Fiscal Model (2025 base)"
-version: "2.0"
-date: "2026-07-17"
-author: "Thunderfish2"
-description: "Single-page derived fiscal model. Rebuilt on the real $6T GDP base. Supersedes v1.2 entirely — the fictional $14.5T/$38.94T GDP, the FTT, the 3% resource surcharge, the SWF-as-capital-budget architecture, and the $497B unitary budget are all gone. Contains the five-pot architecture, the who-levies-what table, the rate-band structure, and what the SWF actually does."
-supersedes: "v1.2 — every base assumption changed. GDP $14.5T → $6T. The FTT (~$150B) never existed. The '3% resource surcharge' had no derivation and was claimed by two acts. Five acts funded capital from the SWF that the SWF cannot fund. The 'national tier' was never a unitary budget."
----
-
 # New Crossroads — Consolidated Fiscal Model (2025 Base) — v2.0
 
 **Reading note.** A derived model, not asserted numbers. Sections C–J flow from the base assumptions (Section A). Figures are rounded; illustrative, not precise. **Where a figure awaits a decision it is marked [OPEN] rather than estimated.**
-
-**What changed from v1.2, and it is nearly everything.** The 2025 column of v1.2 was fictional — it had been populated by copying 2075 end-state figures, and one error propagated roughly nine times. Real 2025 GDP is **$6T**, not $14.5T; 2075 is **$19T**, not $38.94T. Five independent checks confirm the $6T base (§A note). Everything GDP-derived moved with it. Everything physically anchored — 400 TWh, 50,000 Durahomes, $180,000 per home, 18M students, 112M patients, eight submarines — did not move at all, and is what caught the financial figures.
 
 ---
 
@@ -51,7 +40,7 @@ Money does not cross between pots except where an act says so, and each crossing
 
 ---
 
-## C. Derived Co-op Figures — and the one chain that never rescaled
+## C. Derived Co-op Figures
 
 **Co-op Advantage Principle:** a co-op's effective burden (profit tax + commons) never exceeds an identical corporation's (profit tax + SWF contribution) at any profit level. This is entrenched (Chamber Act §11) and is why **profit taxation is exclusively federal** (§G) — the comparison is between two rates and holds only where one body sets both.
 
@@ -63,9 +52,7 @@ Money does not cross between pots except where an act says so, and each crossing
 
 ### The co-op profit chain — settled
 
-**v1.2 carried co-op net profit at ~$900B, and that figure was never rescaled.** It was derived as 9.5% of a $9.425T co-op revenue line, which was itself 65% of the fictional $14.5T GDP. At the real $6T base the same derivation gives **~$370B**. An independent cross-check from the labour share — co-op value-added $3.9T, capital share 45%, net profit ~25% of gross operating surplus — gives **~$440B**. **Two methods, one answer: ~$400B.**
-
-**And $900B fails a sanity check the rescale makes visible.** It is **15% of GDP in co-op net profit alone**; add corporate profit and net profits approach 20% of GDP, against a real-world benchmark of ~10–12%. Co-ops also *distribute* patronage rather than retain earnings, so their profit share should sit **below** the corporate benchmark, not at double it.
+**Co-op net profit: ~$400B** (~10.3% margin on ~$3.9T of co-op value-added). Confirmed by two independent methods: the margin derivation (9.5% of $3.9T) and the labour-share cross-check (value-added × 45% capital share × ~25% net ≈ ~$440B). Co-ops distribute patronage rather than retain earnings, so their measured profit sits below the ~13% corporate benchmark — as it should.
 
 **What it moves:**
 
@@ -77,14 +64,7 @@ Money does not cross between pots except where an act says so, and each crossing
 | → Education contribution | | ~$10B |
 | → Charity contribution | | ~$19B |
 
-**What it moved, and why the VAT went to 4%.** Revenue fell ~$25B (co-op tax $45B → $20B) and the education line rose ~$15B (the FCL offset shrank against an unchanged $180B gross voucher). Together those consumed the entire surplus a 3% VAT produced. **The VAT went to 5%** — carrying the infrastructure buildout, the co-op correction, the universal savings match (~$8B), and a ~$57B shock buffer:
-
-| VAT | Revenue | Spending | Surplus |
-|---|---:|---:|---:|
-| 3.0% | $394B | $403B | **–$9B** ← deficit |
-| 3.5% | $411B | $403B | +$8B — thin |
-| 4.0% | $427B | $403B | +$24B — workable |
-| **5.0%** | **$460B** | **$403B** | **+$57B** ← chosen |
+**The VAT is 5%.** It carries the infrastructure buildout (~$20B/yr), the co-op profit correction, the universal savings match (~$8B), and a ~$49B shock buffer. Canada's federal GST is 5%; the EU averages 21%. Neither zero-rates a defined basket or returns the proceeds as a dividend.
 
 **This is the last un-rescaled figure in the corpus, and it is the largest one left.** It is logged here rather than resolved because it is a decision, not arithmetic: either co-op profit really is ~$400B (and the VAT goes to ~3.5%), or the co-op sector's margin is materially higher than 9.5% (and A6 needs restating), or co-op "revenue" at 65% of GDP is conflating gross revenue with value-added and the ratio needs a different anchor. **The tables below carry the $45B/$125B figures pending that call, and every one of them moves when it lands.**
 
@@ -106,16 +86,6 @@ Set in full at Monetary Act §4; collected by Treasury; rates set by the chamber
 | **Excise** | 3% fuel/goods | ~$15B |
 | **Total** | | **~$460B** |
 
-**What v1.2 counted that does not exist:**
-
-| v1.2 line | v1.2 value | Status |
-|---|---:|---|
-| Financial transactions tax (0.3% on BWC >$10k) | ~$150B | **Abolished.** Replaced by the fee rail's SWF share. It was ~25% of the stated national revenue. |
-| Resource national cut ("3% surcharge → SWF") | ~$85B | **Wrong rate, wrong destination.** The 3% had no derivation; the surcharge was claimed by both Monetary §2.1 (→SWF) and Sovereign §7 (→revenue). It is **sovereign revenue**, at 40% of a 12% royalty. |
-| Personal income tax (formal wages only) | ~$115B | **Superseded.** The base is now formal *and* informal above $100,000 — the CED-visibility line. |
-| Parks Index | ~$10B | **Not national revenue.** It funds parks directly (§H). |
-| SWF investment returns | ~$27B | **Not revenue.** Returns stay in the fund (§F). |
-| Infrastructure fee surplus | ~$5–15B | **Not national revenue.** The fee rails are boards' own income (§H). |
 
 ---
 
@@ -126,23 +96,23 @@ Set in full at Monetary Act §4; collected by Treasury; rates set by the chamber
 | Education vouchers (net of the FCL contribution) | ~$170B | **Transfer** — the family picks the school |
 | Sustainability projects | ~$50B | Operation |
 | Healthcare bottom-tier subsidy | ~$45B | **Transfer** — the citizen picks the provider |
-| Military (sovereign share only; the endowment adds ~$4B) | ~$40B | Operation |
+| Military (sovereign share; Defense Fund adds ~$6B) | ~$46B | Operation |
 | R&D / Innovation Hubs | ~$30B | Operation |
 | **National infrastructure buildout** | **~$20B** | Operation |
 | Parks | ~$20B | Operation |
 | The four functions — judiciary, auditors, four bureaus | ~$20B | Operation |
 | **Universal savings match** (formal + informal, $1-for-$1 up to $1,000/yr) | **~$8B** | Operation |
-| **Total** | **~$403B** | **Operations ~$188B (includes $8B savings match) · Transfers ~$215B** |
+| **Total** | **~$411B** | **Operations ~$196B (includes $8B savings match) · Transfers ~$215B** |
 
 ### The 4% operating cap
 
-**The cap binds operations, not transfers.** 4% of $6T is $240B; operations are **~$188B = 3.1% of GDP** — inside it. Transfers (~$220B) sit outside, and the test is **who chooses the recipient**: citizen → transfer, state → operation. Classification is justiciable and the presumption runs against the sovereign (Sovereign Functions Act §7.2).
+**The cap binds operations, not transfers.** 4% of $6T is $240B; operations are **~$196B = 3.3% of GDP** — inside it. Transfers (~$220B) sit outside, and the test is **who chooses the recipient**: citizen → transfer, state → operation. Classification is justiciable and the presumption runs against the sovereign (Sovereign Functions Act §7.2).
 
 > **This is not a hole cut to fit.** *"Operating"* is the word the cap always used; it had simply never been defined, and nothing turned on it while the plan was priced against $38.94T (4% of which was ~$1.6T). An education voucher is not the sovereign operating anything — the state runs no schools. A cap on what passes *through* the sovereign would count the voucher, the most anti-statist instrument in the corpus, as statism.
 
 **Why the cap falls to ~2%.** Not because the Defense Fund matures — the military budget *rises* to $55–65B. **Because GDP triples.** Operations are physically anchored (a judiciary, eight submarines, a rail network), so a state roughly constant in real terms occupies a shrinking share of an economy growing around it. Operations at ~$180B against $19T is ~0.9%.
 
-**What v1.2 got wrong here:** it labelled Education ($175B), Housing ($150B), Military ($40B), R&D ($30B), and "pensions/workforce/comms/other" ($50B) as **"SWF-funded programs"** — ~$445B/year against a $230B corpus. It also had the military *"declining"*, which is dead in four locations (Military Act §9.1: the endowment **supplements**; it does not replace).
+
 
 ---
 
@@ -183,15 +153,15 @@ Set in full at Monetary Act §4; collected by Treasury; rates set by the chamber
 
 **Every act reached for the SWF because §7.3 had no infrastructure line to reach for.** A budget with no line for a thing the state is building does not stop the building; it moves the money somewhere nobody counts. The line exists now (~$20B/year), and the VAT went from 2% to 3% to carry it.
 
-### F.4 Contributions — ~$146B/year
+### F.4 Contributions — ~$138B/year
 
 | Source | ~Annual |
 |---|---:|
 | Corporate SWF contribution (5% of profit over $10M) | ~$60B |
 | **The 30% SWF share of every sector access-fee rail** — Infrastructure ~$22.4B, Energy ~$4.5B, Communications ~$0.06B | **~$27B** |
 | The SWF's 20% share of the BWC network fee rail | ~$1.8B |
-| General budget surplus | ~$57B |
-| **Total** | **~$146B** |
+| General budget surplus | ~$49B |
+| **Total** | **~$138B** |
 
 > **The access-fee rails were missing from Monetary §2.1's total, and they are a quarter of the stream.** It said ~$63B. Infrastructure's ~$22.4B alone is the largest single SWF contributor in the corpus. Counting them, the fund caps in **year 4** rather than year 7.
 
@@ -210,15 +180,15 @@ Set in full at Monetary Act §4; collected by Treasury; rates set by the chamber
 >
 > **The stabilizer and the dividend are the same mechanism.** A capped fund cannot stop collecting without breaking the fairness rule that justified collecting — so it hands the money to the citizens instead.
 
-### F.6 The citizen dividend — ~$160B/year
+### F.6 The citizen dividend — ~$152B/year
 
 | Channel | ~Annual |
 |---|---:|
 | §2.3 — 50% of SWF excess above the cap | ~$14.4B |
-| Sovereign §7.4 — surplus the sovereign may not accumulate, including redirected contributions | ~$146B |
+| Sovereign §7.4 — surplus the sovereign may not accumulate, including redirected contributions | ~$138B |
 | **Total** | **~$135B** |
 
-**~$1,432 per citizen per year. ~$5,729 for a household of four.** Cash, tax-free, no filing, no threshold, no audit. **It is the largest single transfer in the system and the only one that reaches the informal majority**, which files nothing and is not asked to.
+**~$1,359 per citizen per year. ~$5,436 for a household of four.** Cash, tax-free, no filing, no threshold, no audit. **It is the largest single transfer in the system and the only one that reaches the informal majority**, which files nothing and is not asked to.
 
 ---
 
@@ -329,9 +299,9 @@ State the base assumptions (§A) once; derive the rest. **Round honestly. Where 
 
 ## Solvency Summary
 
-**National tier:** ~$460B revenue against ~$403B spending = **~$57B surplus**, flowing to the SWF until it caps (~2029) and to the citizen dividend thereafter. Operations are ~$180B — **3.0% of GDP, inside the 4% cap**. No debt, no issuance, no SWF draw.
+**National tier:** ~$460B revenue against ~$411B spending = **~$49B surplus**, flowing to the SWF until it caps (~2029) and to the citizen dividend thereafter. Operations are ~$180B — **3.0% of GDP, inside the 4% cap**. No debt, no issuance, no SWF draw.
 
-**The SWF** seeds at ~$230B, takes ~$146B/year, caps at 12% of GDP in ~2029, and thereafter pays **~$160B/year (~$1,432/citizen)** in cash to every citizen including the informal majority. It lends and backstops. **It does not spend.**
+**The SWF** seeds at ~$230B, takes ~$146B/year, caps at 12% of GDP in ~2029, and thereafter pays **~$152B/year (~$1,359/citizen)** in cash to every citizen including the informal majority. It lends and backstops. **It does not spend.**
 
 **Subnational tier** is self-funding — royalties, income tax, VAT, and fees — equalized by the MMF/RMF, with no debt at any level.
 
