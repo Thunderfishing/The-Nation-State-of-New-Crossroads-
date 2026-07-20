@@ -1,8 +1,6 @@
-# Crossroads Credit Union Act of 2025: Draft 5.8
+# Crossroads Credit Union Act of 2025: Draft 5.9
 
 ---
-
-**Cross-reference.** Companion to the **Monetary Act 9.7** (the DLB, the issuance anchor §1.5, the Reference Rate Anchor §1.5A, the citizen revolving credit line §1.6A, the Crisis-Management section §1.8, the rolling jubilee §2.2, the Informal Economy Guarantee §1A, the PPK/CED §5), the **Sovereign Functions Act** (the SWF §5, the Judicial Link Box §4.2, the Special Auditors §3, Treasury §6A.1), the **Chamber Act** (the Territorial Chamber / Regional Boards §3, the Co-op Chamber §4.1, the Corporate Chamber §4.2, the universal citizen vote §2, the oversight committees §6.7, the ad-hoc arbitration process §6.6, the independent board registry §7, the entrenched floors §11, the protected guarantees §12), and the **Exchange Act 1.2** (the Credit-Union Capital Board §3.2, the Co-op Board §3.1). Loan and deposit rates are plain nominal rates set within system bands around the reference rate defined in Monetary Act §1.5A — reset when the reference rate is republished.
 
 **Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values.
 
@@ -29,7 +27,7 @@ BWC is fiat. Not redeemable for metal, not backed by a metal reserve. Its value 
 
 **Money creation (Model A — loans create deposits).** A loan credits the borrower's wallet with new BWC, matched on the books by the borrower's promissory obligation. Money is created at the moment of lending. **A draw on the citizen revolving credit line (§4.4) is lending and creates BWC by the same mechanism.**
 
-**The reserve requirement (quantitative ceiling).** Each credit union holds 10% of deposits in reserve (base BWC and cash). This 10% liquidity reserve is entirely distinct from the Citizens' Metals ETF (investment, not currency backing). There is no per-coin metal backing of any kind.
+**The reserve requirement (quantitative ceiling).** Each credit union holds 10% of **demand deposits** in reserve (base BWC and cash). **Forced savings (Housing Act §3.1 / §4.5 CSP) are excluded** — they are long-term locked capital, not demand-withdrawable, and create no liquidity obligation. This 10% liquidity reserve is entirely distinct from the Citizens' Metals ETF (investment, not currency backing). There is no per-coin metal backing of any kind.
 
 **The reserve is the ceiling; the cash drain is what binds.** A 10% reserve implies a 10× multiplier only in a system where no currency leaks out of the banking network. New Crossroads deliberately runs the opposite: physical cash at ~12% of GDP (Monetary §1.1), because the informal sector transacts in it. With a currency drain the multiplier is `(1+c)/(r+c)`, not `1/r`, and on this act's own figures it lands near **2.9×** — broad money ~$2.6T against a ~$720B base, ~43% of GDP. **The 10% ceiling is therefore never the binding constraint in normal times, and it is not the crisis lever either:** in a freeze credit unions hoard reserves *above* the requirement, so lowering it would loosen a bar nobody is touching while halving the buffer standing behind a cash swap that is free in both directions. The crisis tool is the automatic RLP→SWF line at reference + 2% (§6.8) — supplying reserves, not permitting more leverage on a shrinking base.
 
@@ -356,6 +354,47 @@ The line's **substance** is Monetary Act §1.6A: built into every wallet at issu
 
 ---
 
+### 4.5 Citizen Savings Pool (CSP) — Forced Savings as Productive Capital
+
+**The problem this solves.** Housing Act §3.1 requires forced savings — ~$94B/year flowing into individual credit-union accounts. Those accounts currently earn the savings rate (~2.5%, reference − 1%). The money is safe, DIP-insured, and doing **nothing**. In a $6T economy rebuilding from a debt collapse, $94B/year of long-term capital sitting idle is a waste the nation cannot afford.
+
+**The solution: pooled investment through named channels, decentralized custody.** The forced savings stay at individual credit unions — each citizen's account is individually tracked, member-owned, and visible to the citizen. But the credit unions invest the **aggregate** through a pooled vehicle with named, formula-driven channels:
+
+| Channel | Target allocation | Expected return | What it funds |
+|---|---|---:|---|
+| CU lending book (the default floor) | 30% | ~2.5% | Existing co-op and personal lending |
+| Co-op shares (via the Exchange) | 20% | ~5–7% | Co-op expansion — the citizen's savings fund the co-ops the citizen works in |
+| MMF/RMF capital lending (Municipal & Regional Funding Act §3.7) | 20% | ~4% | School buildings, hospitals, clinics, bridges — community infrastructure |
+| Metals ETF | 15% | appreciation | Physical metal in the vault — the same streaming pipeline that feeds the currency |
+| Housing construction pool (SWF revolving, Housing Act §3.4) | 15% | ~4–5% | Durahomes — the citizen's savings build the houses citizens live in |
+| **Blended return** | | **~4–5%** | |
+
+**What changes for the citizen:** their forced-savings balance grows at ~4–5% instead of ~2.5%. Over 40 years (Phase 2), the difference is substantial:
+
+| | At 2.5% (current) | At 4.5% (pooled) |
+|---|---:|---:|
+| Formal worker ($750/yr × 40) | ~$50,500 | **~$80,300** |
+| Informal worker ($300/yr × 40) | ~$20,200 | **~$32,100** |
+
+**What changes for the economy:** $94B/year of idle capital becomes fuel. The citizen's retirement savings build the school their grandchild attends, fund the co-op that employs their neighbour, and buy the metal in the currency they spend. **The money works twice — once for the citizen and once for the nation.**
+
+**Governance — formula, not discretion:**
+
+- The **allocation percentages** are set by published formula, reviewed annually by the Financial Services Committee (Chamber Act §6.7). No fund manager picks stocks. The channels are named; the percentages are rules.
+- Each **credit union's investment committee** (elected by members) executes the formula across the five channels. The CU has latitude within the allocation bands (±5% per channel) but may not deviate from the named channels themselves.
+- **Returns flow to individual accounts.** The citizen sees one balance, growing. They do not choose the allocation — it is the same for everyone, the same way the reference rate is the same for everyone. **Uniformity is the protection:** no citizen gets a worse allocation because their credit union made a bad bet.
+- The **Special Auditors** may investigate any credit union whose CSP returns deviate significantly from the system-wide average — the same enforcement pattern as everywhere else.
+
+**Outside the reserve requirement:**
+
+Forced savings are **long-term, locked capital** (withdrawable only for housing in Phase 1 and retirement at 65 in Phase 2). They cannot be withdrawn on demand. They therefore **do not count toward the 10% liquidity reserve** (§1.1), which exists to cover demand deposits. Forced savings are a separate ledger — visible, tracked, reported in the §1.8 telemetry, but not part of the liquidity calculation.
+
+This **helps** the credit union: $94B/year of inflows that create no reserve obligation, freeing the CU to deploy its reserve capital against demand deposits where the liquidity need actually sits.
+
+> **This is the Canada Pension Fund without the central authority.** The CPPIB pools C$570B and invests professionally. New Crossroads pools the same way but distributes custody across 5,000 credit unions, allocates by formula instead of fund-manager discretion, and governs through elected CU boards instead of a national authority. Same returns, no single point of capture. **The pattern holds: a private federation performing a public function.**
+
+---
+
 ## Section 5: Crossroads Loan Service (CLS) — licensed loan officers & money-creation brake
 
 *Rationale:* CLS agents are the credit unions' own loan officers — embedded where the lending happens, because credit judgment requires knowing the borrower, the enterprise, and the town. They are not, however, the credit unions' creatures. Every agent holds a licence from the CLS Board (§5.5), an independent board that the corps elects, the agents fund through dues, and no credit union pays for or oversees. The credit union pays the wage; the corps holds the licence; the agent pays for the corps. That is why an agent can write against a bad loan, refuse a jubilee, or cite a branch for demanding a cash history, and keep working. Because lending creates money, CLS credit judgment is also the human brake on money creation on the **loan book** — the revolving channel is braked by published formula instead (§4.4), because a facility with no officer cannot be braked by an officer.
@@ -671,7 +710,7 @@ Special-share capital is leveraged ~10× into the loan book (§3.2), so the capi
 | Credit Unions | ~5,000 (chartered by population/deposits; ≥3-catchment coverage) | ~5,000 |
 | **Loans (total)** | **~$1.86T (~31% of GDP)** | **~$5.89T (~31% of GDP)** |
 | **Special-share capital (supports the book at ~10×)** | **~$186B** | **~$589B** |
-| **Money-creation ceiling** | **10% reserve. Ceiling, not multiplier — the ~12%-of-GDP cash drain binds first (§1.1)** | same |
+| **Money-creation ceiling** | **10% reserve on demand deposits (forced savings excluded — §4.5). Ceiling, not multiplier — the ~12%-of-GDP cash drain binds first (§1.1)** | same |
 | **Effective multiplier** | **~2.9×** | ~2.9× |
 | **Broad money** | **~$2.6T (~43% of GDP)** | ~$8.2T |
 | Money-creation brakes | CLS credit judgment (loan book) + published line formula (revolving) | same |
@@ -686,6 +725,7 @@ Special-share capital is leveraged ~10× into the loan book (§3.2), so the capi
 | Special-share market | Exchange Credit-Union Capital Board; 3-yr lock-up; reference + 2% premium; 90–110% band; risk-priced | same |
 | Special-share issuance | 30-day local-priority window at par → national remainder at par | same |
 | Citizens' Metals ETF (investment, not backing) | **~$168–209B** | scaled |
+| **Citizen Savings Pool (CSP)** | Forced savings invested through 5 named channels at ~4–5% blended (vs 2.5% idle). Formula-driven, CU-custodied, outside reserve requirements. Retirement nest egg ~60% larger | same |
 | Citizen revolving credit line | 2,000 base + (2 × countable reserve, capped 24,000); line capped 50,000, both DLB-indexed; reference + 5% (~10%); at issue, no application (§4.4) | same |
 | Credit bureau / score / file | **None. Prohibited (Monetary §1A.2)** | none |
 | Loan loss reserve | ~1% secured/co-op/corporate; ~5% micro; ~5–7% revolving. Under-reserving prosecutable (§4.3) | same |
@@ -825,4 +865,4 @@ Special shares are the engine: each series adds its own value in capital and **~
 
 ---
 
-
+End of Draft 5.9
