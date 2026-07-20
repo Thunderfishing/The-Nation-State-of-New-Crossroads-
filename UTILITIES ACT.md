@@ -5,7 +5,7 @@
 
 ---
 
-> **Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values. <
+> **Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values. 
 
 ---
 
