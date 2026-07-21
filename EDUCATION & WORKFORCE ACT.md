@@ -5,7 +5,7 @@
 **Draft:** 2.5 | **Date:** July 21, 2026
 **Author:** Thunderfish2
 
-> **Cross-reference.** Companion to the **Monetary Act 9.8**, the **Credit Union Act 5.8**, the **FCL Act 3.4**, the **Sovereign Functions Act**, the **Chamber Act**, and the **Municipal & Regional Funding Act** (RMF/MMF revolving capital lending §3.7; Regional Board administration §4 — used by §3.5E for Second-Chance Academy facilities). School governance follows the asset/operator separation model: Local School Boards own facilities; Teacher Professional FCLs operate instruction. Data uses the **PPK/CED** architecture (Monetary §5) — there is no CWD. The currency is fiat; there is no DAI, BAR, or metal backing.
+---
 
 > **Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values. Graduate allocations are **descriptive projections, not binding quotas.**
 
