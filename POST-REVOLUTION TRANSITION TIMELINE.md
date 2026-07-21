@@ -1,12 +1,3 @@
----
-title: "New Crossroads — Post-Revolution Transition Timeline"
-draft: "1.0"
-date: "2026-07-17"
-author: "Thunderfish2"
-description: "The immediate aftermath: how a bloated, failed socialist state with a 120% debt-to-GDP default transforms into the constitutional co-op economy described in the seventeen founding acts. Focuses on Year 0 through Year 5; references but does not repeat the Phase 1 (2025–2035) timelines in the sector acts."
-cross-references: "All 17 founding acts, Consolidated Fiscal Model v2.0, Geography & National Profile 3.1, Metals & Currency Design 1.0"
----
-
 # New Crossroads — Post-Revolution Transition Timeline: Draft 1.0
 
 **Posted to r/Bulwarkomics**
@@ -179,7 +170,7 @@ Foreign suppliers want payment on delivery, not net-30. Import costs are elevate
 
 The §2.3 stabilisers fire automatically. Contributions above the cap begin redirecting to general revenue, and the sovereign surplus — which the state constitutionally may not accumulate — flows to the citizen dividend.
 
-**The first dividend payments go out.** ~$1,208 per citizen per year, paid monthly or quarterly, in cash, no filing required. For a household of four that's ~$4,830/year — real money in a $53,600 per-capita economy.
+**The first dividend payments go out.** ~$1,359 per citizen per year, paid monthly or quarterly, in cash, no filing required. For a household of four that's ~$4,830/year — real money in a $53,600 per-capita economy.
 
 **This is the moment the revolution becomes irreversible.** Not because the dividend is large, but because 112 million people just received money *from* a government for the first time in their lives. The old regime took. This one gave. And it did it without asking for a form, a registration, an account, or a declaration.
 
@@ -206,7 +197,7 @@ The informal economy — 25–30% of the working population — receives the div
 | Revenue (~$427B) | Collecting — VAT, income, profit taxes, tariffs, resources, property, excise |
 | Spending (~$395B) | Disbursing — vouchers, subsidies, infrastructure, military, parks, R&D, four functions |
 | SWF (~$764B, capped) | Lending and backstopping — not spending |
-| Citizen dividend (~$135B/yr) | Paying — $1,208/citizen, cash, universal |
+| Citizen dividend (~$152B/yr) | Paying — $1,359/citizen, cash, universal |
 | Commons (~$48B) | Flowing — healthcare $19B, education $10B, charity $19B |
 | Healthcare (~$448B) | Self-funding on premiums + commons + subsidy |
 | Credit-union network | Self-funding on NIM (~3%) |
@@ -225,7 +216,7 @@ The informal economy — 25–30% of the working population — receives the div
 - 7 sector boards, confirmed and independent.
 - 3 chambers, elected and legislating.
 - ~$780B SWF, capped, paying dividends.
-- ~$1,208/citizen/year flowing to every citizen including the informal majority.
+- ~$1,359/citizen/year flowing to every citizen including the informal majority.
 - Polymer BWC with metallic flecks in every wallet.
 - Metals ETF growing, shares trading on the Exchange.
 - 50,000 Durahomes/year under construction.
