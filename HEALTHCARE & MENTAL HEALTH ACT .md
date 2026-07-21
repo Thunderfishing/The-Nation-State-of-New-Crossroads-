@@ -1,9 +1,9 @@
-# Crossroads Co-operative Healthcare & Mental Wellness Act of 2025: Draft 6.7
+# Crossroads Co-operative Healthcare & Mental Wellness Act of 2025: Draft 6.8
 
-
-**Draft:** 6.7 | **Date:** July 17, 2026
+**Draft:** 6.8 | **Date:** July 21, 2026
 **Author:** Thunderfish2
 
+---
 
 > **Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values. Facility counts and corporate-sector share are descriptive projections, not quotas.
 
@@ -27,8 +27,9 @@ The **National Healthcare Board (NHB)** manages operations, supported by the 5,0
 | **Monetary Act 9.8** | Reference-rate-anchored service-sector loans (Monetary §1.5A); Informal Economy Guarantee; asymmetric scrutiny; SWF capped at 12% GDP; co-op profit tax 5% (no SWF recharge); PPK/CED; no binding sector quotas |
 | **Credit Union Act 5.8** | Micro-loans for informal healthcare access ($500, 4% nominal, self-attested, 24-hour); low-interest service-sector health loans (co-op and corporate eligible); CLS |
 | **Energy Act** | 20 SMR nuclear hubs host the mega hospitals, co-located with water/sewer treatment and passenger/cargo airports |
+| **Regions Act** | Hospital and clinic ownership governed by regional infrastructure rules (§4); facility siting and regional capacity planning |
 | **Chamber Act** | Regional Boards (§3) oversee healthcare facilities and service-sector loans; independent board registry (§7) |
-| **Sovereign Functions Act** | Special Auditors (§3) enforce compliance; judiciary (§4) hears disputes |
+| **Sovereign Functions Act** | Special Auditors (§3) enforce compliance; judiciary (§4) hears disputes; the ~$45B bottom-tier subsidy is part of the ~$411B Sovereign Functions total |
 | **Education Act 2.3** | Supplies ~90,000 healthcare-proper + ~45,000 mental-health graduates/year; ~100,000/year via mandatory service (50k clinics, 50k CMHIN) |
 
 ---
@@ -123,6 +124,7 @@ The co-op clinic backbone is structured as **Co-op-Led CCJVs** — hybrid co-op/
 | Approval body | Regional Board (6/11) |
 | Corporate partner voting in co-op internal affairs | None |
 | JV board seats | Proportional to ownership; co-op holds ≥1 seat |
+| Facility ownership | Per Regions Act §4 (regional infrastructure rules) |
 | Deadlock resolution | Ad-hoc arbitration (Chamber Act §6.6) |
 
 ---
@@ -133,7 +135,7 @@ The co-op system is a **hub-and-spoke hierarchy**: everything radiates outward f
 
 ### 3.1 Tier 1 — Co-op Clinics (10,000)
 
-- **Structure:** 10,000 clinics (~500/region), as Co-op-Led CCJVs (51–99% patient co-op / 1–49% Professional FCL).
+- **Structure:** 10,000 clinics (~500/region), as Co-op-Led CCJVs (51–99% patient co-op / 1–49% Professional FCL). Ownership per Regions Act §4.
 - **Role:** primary care, pediatrics, geriatrics, **and minor surgery** — larger clinics perform a wider range of minor surgical procedures, taking pressure off the hospital tiers.
 - **Access ratio:** ~1 clinic per ~13,000 people — excellent local coverage.
 - **Workforce:** ~50,000 workers (~2,500/region), including physicians from Professional FCLs.
@@ -141,7 +143,7 @@ The co-op system is a **hub-and-spoke hierarchy**: everything radiates outward f
 
 ### 3.2 Tier 2 — Super Hospitals (200 → ~2,000)
 
-- **Structure:** **200 at start, scaling to ~2,000** (target ~100/region at full scale), co-op-owned (standard FCL or CCJV hybrid).
+- **Structure:** **200 at start, scaling to ~2,000** (target ~100/region at full scale), co-op-owned (standard FCL or CCJV hybrid). Ownership per Regions Act §4.
 - **Scaling rule:** count scales with population at roughly **1 per 65,000 people**, so the network auto-scales past 2,000 if population grows beyond ~130M.
 - **Role:** complex procedures, inpatient care, specialized departments, emergency departments.
 - **Adequacy:** at ~65,000 people per super hospital (full scale), the ratio is comparable to peer nations — and adequate *because* the dense minor-surgery-capable clinic layer offloads routine load.
@@ -211,7 +213,7 @@ Healthcare is funded by **mandatory universal premiums**, not state SWF operatin
 | :--- | :--- | :--- |
 | **Mandatory premiums (net of subsidy)** | **~$383B/year** | Primary funding; whole adult population + children; mental health included |
 | **FCL healthcare contribution** | **~$19B/year** | Progressive profit-sharing waterfall (FCL Act §3.2) — 40% of a ~$48B commons, itself a percentage of ~$400B of co-op net profit |
-| State bottom-tier subsidy | ~$45B/year | The state's main healthcare cost; subsidizes the bottom-20% premiums |
+| State bottom-tier subsidy | ~$45B/year | The state's main healthcare cost; subsidizes the bottom-20% premiums (part of ~$411B Sovereign Functions total) |
 | Reference-rate-anchored service-sector loans | as needed | Facility build/equipment (co-op and corporate eligible) |
 | Partner contributions | ~$1.21B/year | Donations, charitable grants (CMHIN) |
 | Facility profits | reinvested | Co-op clinic/hospital/CMHIN surpluses reinvested |
@@ -228,10 +230,6 @@ Healthcare is funded by **mandatory universal premiums**, not state SWF operatin
 - 11 members: 6 regional representatives, 4 experts (drawn from the regional advisory layer, Chamber Act §8), 1 chairman.
 - **Appointment: nominated by the Territorial Chamber (Regional Boards, 11/20), confirmed by both Productive Chambers jointly** — the uniform rule for the seven sector boards (Chamber Act §7.1). **No sovereign role** (Sovereign Functions Act §8.5).
 - **Removal:** by the nominating and confirming bodies jointly, or on cause established by a Special-Auditor investigation.
-
-> **The seventh and last board on the registry, and the seventh to be found running on a rule the registry does not contain.** Prior drafts had the NHB *"appointed by the Sovereign Council (5/7)."* **Chamber Act §7** is explicit: *"The sovereign is barred from domestic regulation, so board appointment is a chamber function."* The Exchange's Co-op Capital Index, the NIB, the NEB, the NHA, the NCB, the NInfraB, and now the NHB — **seven acts, twelve instances, each written independently.** Every act described a board and reached for the nearest executive to appoint it, because that is what boards look like in every other country. **The Municipal & Regional Funding Act is the only one that checked** — and it is the act closest to the ground.
->
-> The NHB is the sector board whose capture would matter most: it sits over an entrenched guarantee (Chamber Act §12.1) and a ~$448B system. It is the last one that should have been appointed by the executive.
 - Voting: 6/11 routine, 8/11 strategic, 5/11 emergency.
 - Operations: ~$100M/year (funded from premium administration, not SWF).
 - Independence: paired with but subordinate to none; disputes resolved through ad-hoc arbitration (Chamber Act §6.6).
@@ -246,7 +244,7 @@ Healthcare is funded by **mandatory universal premiums**, not state SWF operatin
 - Board of 5–7 worker-owners (one member, one vote); no investor voting; retainer client shares non-voting (2–8% patronage).
 
 ### 6.5 Corporate Facility Governance
-- Corporate hospitals/clinics follow corporate-governance rules (Monetary §4.1, entrenched as Chamber Act §12.3): worker board seats by headcount, transparency above $10M revenue, buyback limits. Licensed (not chartered) by the Regional Board; subject to medical-standards and (near dark corridors) DCALS compliance.
+- Corporate hospitals/clinics follow corporate-governance rules (Monetary §4.1, entrenched as Chamber Act §12.3): worker board seats by headcount, transparency above $10M revenue, buyback limits. Licensed (not chartered) by the Regional Board; ownership per Regions Act §4; subject to medical-standards and (near dark corridors) DCALS compliance.
 
 ---
 
@@ -273,7 +271,7 @@ Healthcare is funded by **mandatory universal premiums**, not state SWF operatin
 | Funding model | **Premium-funded** | Premium-funded |
 | Net premium revenue | ~$383B/year | scaled |
 | FCL healthcare contribution | ~**$19B/year** | scaled |
-| State bottom-tier subsidy | ~$45B/year | scaled |
+| State bottom-tier subsidy | ~$45B/year (part of ~$411B Sovereign Functions total) | scaled |
 | Healthcare SWF / Mental Health SWF | **Removed** | — |
 | Healthcare loans | **service-sector band: reference + 0.5% to + 1.5%** (~4–5%). Corporate eligible at the same rate (§1.2). Reference rate ~3.5% (Monetary §1.5A) | same |
 | NHB | Independent sector board — Territorial Chamber nominates, both Productive Chambers confirm (Chamber Act §7.1). **No sovereign role** | same |
@@ -303,4 +301,4 @@ Universal coverage, a lean state, capacity radiating from the hubs, a private ti
 
 ---
 
-**End of Draft 6.7**
+**End of Draft 6.8**
