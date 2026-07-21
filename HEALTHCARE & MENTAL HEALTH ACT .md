@@ -57,8 +57,6 @@ All loans for healthcare facilities (clinics, super hospitals, mega hospitals, C
 
 At a founding reference rate of ~3.5% (Monetary §1.5A), that is **~4–5% against a commercial band of ~5.5%** — a subsidy of ~1.5 points, stated rather than implied. **The subsidy still carries:** against savings at reference − 1% (~2.5%), a healthcare facility loan clears its funding cost by ~1.5–2.5 points. It is cheap money, not free money, and no member subsidizes it silently.
 
-> **This act was already doing it right, and needed only the number.** §1.2 has always said *"set below the reference rate"* rather than hardcoding a figure — which is more than the Credit Union Act §4.2, the FCL Act §3.6, or the Utilities Act §6.2 managed, all of which published fixed percentages beneath headers promising the rates were anchored. The only thing missing here was the reference rate's own value, which appeared nowhere in the corpus until this revision (Monetary §1.5A).
-
 **Corporate facilities are eligible for the same low service-sector rate** (Section 4). *Rationale: the state subsidizes health **capacity** regardless of who builds it — every facility adds beds and treats citizens. Corporate facilities repay the subsidy through full corporate taxation (heavier than co-ops), and refusing them cheap capital would only raise their prices and make them more exclusive, not less.*
 
 ### 1.3 Informal Sector Healthcare Access (per Credit Union Act §1.3)
