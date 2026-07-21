@@ -1,7 +1,9 @@
 # Crossroads Military Intelligence and Defense Act of 2025: Draft 2.0
 
-**Draft:** 2.0 | **Date:** July 17, 2026
+**Draft:** 1.9 | **Date:** July 17, 2026
 **Author:** Thunderfish2
+
+> **Cross-reference.** Companion to the **Monetary Act 9.8** (the Defense Fund §2.5), **Credit Union Act 5.8**, **FCL Act 3.4**, the **Sovereign Functions Act 2.1** (the military as sovereign function §2.1, the funding base §7, the bar on SWF-funded operations §5.4), the **Chamber Act**, **Energy Act 4.3**, **Education Act 2.3**, **Healthcare Act 6.6**, **Communications Act 4.3**, and **Infrastructure Act 2.6**. The currency is fiat (no metal backing); funding figures follow the Consolidated Fiscal Model.
 
 ---
 
@@ -365,7 +367,6 @@ The **civilian** enrichment and fuel fabrication plants are co-op-operated, fund
 | **Training + R&D** | $5–6B | — |
 | **Total** | **$65–75B** | **~178K active** (Army 100K + Navy ~18K + Air Force ~21K + CMIS 25K + Nuclear Directorate ~12.5K + Space 2K) |
 
-> **The $55–65B is the 2075 force, not the 2025 one.** The endowment supplement is what pays for the expansion, and in 2025 the endowment holds ~$100B, returning ~$4B. **Founding budget: ~$40B (sovereign revenue) + ~$4B (endowment returns) = ~$44B.** The force above is what ~$44B grows into as the endowment compounds toward ~$920B — it is not what the founding treasury buys. Prior drafts carried $55–65B in both columns of the Key Stats while showing the supplement as "—" at founding: the same total with and without the thing that funds the difference.
 
 ### 9.1 Funding Sources — Two Distinct Streams
 
@@ -373,16 +374,12 @@ The **civilian** enrichment and fuel fabrication plants are co-op-operated, fund
 - The baseline is paid from **sovereign revenue** (Sovereign Functions Act §7; Monetary Act §4) — the federal tax base, alongside the judiciary, the auditors, and the four bureaus.
 - **This allocation does not decrease.** It remains constant as the baseline annual contribution.
 
-> **This is not the SWF, and the change is not cosmetic.** Prior drafts read *"The SWF Defense sub-fund provides a stable $40B/year allocation."* **Sovereign Functions Act §5.4 says the SWF may never fund sovereign operations**, and the military is sovereign function #1 (§1.1). The two acts contradicted outright — and the resolution is not to carve an exception into §5.4 but to fund defense the way everything else the sovereign does is funded. Sovereign revenue is ~$460B against ~$403B of spending; **the $46B military line fits inside it, and the Defense Fund covers the remaining ~$6B from returns**, so the bar never has to bend.
->
-> **Defense is the exception every state in history has used to reach its fund.** A bar with a defense carve-out is a bar that opens the moment anyone wants it to. This one has no carve-out, and does not need one.
 
 **Stream 2 — Defense Fund Endowment Supplement (~$4B founding → $15–25B mature):**
 - The **Defense Fund** (citizen-bequest endowment, outside the SWF and outside the 12% cap) provides a **supplemental draw from its returns** to cover the expanded force's additional cost.
 - It compounds from **~$100B (2025) to ~$920B (2075)**. At ~4%, that is **~$4B at founding and ~$37B at maturity** — the latter fully covering the $15–25B supplemental draw with the endowment intact.
 - **The endowment supplements the sovereign allocation** — it does not replace it. Total: **~$52B (2025) → $65–75B (2075)**.
 
-> **The taper is dead, and it was mine.** Prior drafts of the Monetary Act had the defense allocation *"declining from ~$40B toward ~$0 by ~2070 as the endowment matures"* — in four places. It described the endowment **replacing** the baseline rather than supplementing it, which is the opposite of what this section has always said, and it implied a military tapering to nothing while this act builds a Tier-2 force with eight SSBNs and a space command. **The budget rises. The baseline stays put.** Monetary §2.5 and Sovereign Functions §2.1 now carry this section's language rather than contradicting it.
 
 ### 9.2 Defense Fund Mechanics
 - **Source:** Citizen estate bequests (not state revenue).
@@ -393,7 +390,18 @@ The **civilian** enrichment and fuel fabrication plants are co-op-operated, fund
   - **Returns — drawable annually**, without a vote, up to the §9.1 supplement (~$4B founding, $15–25B mature). The draw may never exceed the year's returns: the endowment funds the expansion **out of its yield, in perpetuity**, and is never consumed by it.
 - **Use:** Supplements the sovereign-revenue allocation (§9.1). The sovereign baseline is ~$46B at founding; the endowment funds the growth. **As the fund matures, its returns absorb an ever-larger share of the total budget — eventually covering it entirely, freeing the sovereign's allocation for the citizen dividend.**
 
-> **The contradiction this resolves.** Prior drafts said the fund was *"locked until total war"* while §9.1 drew $15–25B/year from it as a standing supplement. Both cannot be true of the same money — a fund is not locked if it pays an annual allocation, and it cannot fund an expansion if it is sealed. **The sensible reading was always principal-locked and returns-drawable**, which is how every endowment on earth works and what the ~4%/~$37B line implies. The act simply never said it, so the lock read as absolute and the draw read as a breach of it. Monetary Act §2.5 flagged this and deferred to this section; it is answered here.
+- **Investment mandate.** The Defense Fund invests exclusively in the domestic economy through five named channels, formula-allocated and weighted toward safety and liquidity:
+
+  | Channel | Allocation | Rationale |
+  |---|---:|---|
+  | Credit-union lending book | 40% | Safe, liquid, broadly diversified across 5,000 CUs |
+  | Citizens' Metals ETF | 20% | Hard asset — survives everything the fund exists to protect against |
+  | Co-op shares (via the Exchange) | 15% | Productive domestic equity |
+  | MMF/RMF capital lending | 15% | Community infrastructure — the schools, clinics, and bridges the fund's returns help build |
+  | Housing construction pool (SWF revolving) | 10% | Durahomes — the homes the population lives in |
+
+  **All domestic. No foreign exposure.** The fund's returns come from the economy it exists to defend. The allocation is published, reviewed annually by the Financial Services Committee (Chamber Act §6.7), and may not be altered by the Sovereign Council — the same anti-discretion rule as every other formula in the system. The channels are the same five as the Citizen Savings Pool (Credit Union Act §4.5), weighted differently: more lending book and metals (safety), less co-op equity and housing (the fund must be liquid enough to survive a mobilisation without fire-selling assets).
+
 
 ### 9.3 One-Time Buildout
 - The **$77.56B** buildout is a **one-time capital expense** for bases (naval, air, regular forces, border forts) and initial procurement, amortized over the early years.
@@ -430,7 +438,7 @@ Crossroads ranks alongside:
 
 **Why Tier‑2?**
 - 8 SSBNs with 112 hypersonic 15Mt MIRV ICBMs → strategic deterrence equal to major nuclear powers.
-- 12 SSNs → serious underwater warfare capability.
+- 16 SSNs → serious underwater warfare capability.
 - 5,000+ drones → drone‑centric doctrine; cheap to lose, expensive to attack.
 - $920B Defense Fund → long-term financial independence.
 - **~178K active military** (Army 100K + Navy ~18K + Air Force ~21K + CMIS 25K + Nuclear Directorate ~12.5K + Space 2K) — lean professional force backed by 1M tiered reserves and 9.1M militia.
@@ -509,7 +517,7 @@ New Crossroads builds a military that is **lean by design and well-funded by two
 
 - **Funded twice — a stable allocation plus a growing endowment.** The SWF provides a stable $40B/year baseline that never decreases. The citizen-bequest Defense Fund builds over fifty years to ~$920B, whose returns supplement the baseline to fund the expanded force. **The $40B allocation stays steady; the endowment pays for the expansion.**
 
-- **A navy and air force that matter.** 8 SSBNs with 112 hypersonic 15Mt MIRV ICBMs, 12 SSNs, 6 destroyers, 12 frigates, 24 corvettes, 30 patrol boats, 14 minesweepers, 5,000 drones, 300 combat aircraft, and 106 transport aircraft give New Crossroads strategic deterrence, underwater warfare capability, naval presence, and air dominance — enough to make any adversary think twice.
+- **A navy and air force that matter.** 8 SSBNs with 112 ICBMs, 16 VLS-equipped SSNs, 6 destroyers, 12 frigates, 24 corvettes, 30 patrol boats, 14 minesweepers, 10,000 drones, 300 combat aircraft, and 106 transport aircraft give New Crossroads strategic deterrence, underwater warfare capability, naval presence, and air dominance — enough to make any adversary think twice.
 
 - **The military can stop a dangerous sale — but not the people's will.** High Command and intelligence can force a veto on any arms or aerospace export they judge a proliferation risk, keeping advanced weapons out of adversaries' hands. But that veto is overridable by the elected bodies exactly like any other. Expertise informs; democracy decides.
 
