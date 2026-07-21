@@ -1,20 +1,7 @@
----
-title: "The Nation-State of New Crossroads — Geography & National Profile"
-draft: "3.1"
-date: "2026-07-17"
-author: "Thunderfish2"
-repository: "crossroads-monetary-act"
-description: "Geographic and national-profile capstone. Reconciled to the full legislative suite and Consolidated Fiscal Model v2.0. GDP corrected to ~$6T (2025) → ~$19T (2075); all financial figures flow from that base. Physical geography unchanged."
-supersedes: "Draft 3.0 — GDP $14.5T → $6T, $38.94T → $19T. FTT abolished, '3% resource surcharge' replaced by the 40/60 royalty split, SWF rescaled, co-op profit chain corrected to ~$400B, commons to ~$48B. Cross-references bumped to current drafts. Physical geography, population, and infrastructure are unchanged."
----
+# The Nation-State of New Crossroads — Geography & National Profile
 
-# The Nation-State of New Crossroads — Geography & National Profile: Draft 3.1
-
-**Posted to r/Bulwarkomics**
 **Draft:** 3.1 | **Date:** July 17, 2026
 **Author:** Thunderfish2
-
-> **Cross-reference.** The geographic capstone to the legislative suite: **Monetary Act 9.8**, **Credit Union Act 5.8**, **Sovereign Functions Act v2.1**, **Chamber Act**, **Energy Act 4.4**, **Healthcare Act 6.7**, **Education Act 2.4**, **FCL Act 3.4**, **Infrastructure Act 2.7**, **Communications Act 4.4**, **Industry Act 4.5**, **Housing Act 2.5**, **Parks Act 3.5**, **Utilities Act 1.4**, **Military Act 1.9**, **Municipal & Regional Funding Act 1.3**, and the **Exchange Act 1.6**. Figures are reconciled to the **Consolidated Fiscal Model v2.0**.
 
 > **Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values.
 
