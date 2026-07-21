@@ -1,11 +1,9 @@
 # Crossroads Corridon River and Parks Act of 2025: Lifeblood of a Nation (Draft 3.5)
 
-**Draft:** 3.4 | **Date:** July 12, 2026
+**Draft:** 3.5 | **Date:** July 12, 2026
 **Author:** Thunderfish2
 
 ---
-
-> **Cross-reference.** Companion to the **Monetary Act 9.8**, **Credit Union Act 5.8**, **FCL Act 3.4**, **Infrastructure Act 2.7**, **Energy Act 4.4**, **Healthcare Act 6.6**, **Education Act 2.3**, the **Sovereign Functions Act**, and the **Chamber Act**. Loans are reference-rate-anchored (Monetary Act §1.5A). Data uses PPK/CED (no CWD). The currency is fiat.
 
 > **Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values.
 
