@@ -1,9 +1,10 @@
-# Crossroads Education and Workforce Act of 2025
+# Crossroads Education and Workforce Act of 2025: Draft 2.4
+
+---
 
 **Draft:** 2.4 | **Date:** July 12, 2026
 **Author:** Thunderfish2
 
----
 
 > **Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values. Graduate allocations are **descriptive projections, not binding quotas.**
 
@@ -41,7 +42,7 @@ The act provides a **$10,000/year voucher** (following the student to any licens
 
   > **Not the SWF.** Prior drafts called this an *“Education SWF allocation.”* It is the largest single line in the federal budget and it is a **one-way spend**: vouchers do not revolve and are never repaid. **Monetary §2.1:** *“the SWF is the state’s revolving lender… it is not the state’s capital budget.”* Calling it an SWF allocation would have consumed three-quarters of the fund’s corpus every year. It was general revenue that had been labelled wrong — the same error as the infrastructure buildout, the grid hardening, and the sustainability line.
 - **Stipends:** $15,000/year professional (service), $12,000/year vocational; paid monthly via credit-union checking.
-- **Revenue support:** the federal tax base (Monetary Act §4; Sovereign Functions Act §7.1 — VAT 5%, income above $100k, profit taxes, tariffs, resources, property, excise = ~$460B against ~$403B of spending); credit-union contribution; **no co-op SWF recharge** (eliminated — co-ops contribute to the commons via the FCL waterfall).
+- **Revenue support:** the federal tax base (Monetary Act §4; Sovereign Functions Act §7.1 — VAT 5%, income above $100k, profit taxes, tariffs, resources, property, excise = ~$460B against ~$411B of spending); credit-union contribution; **no co-op SWF recharge** (eliminated — co-ops contribute to the commons via the FCL waterfall).
 - **Audits:** system auditors + AI fraud detection, fraud cap, tracked via the **CED** (pseudonymized; no identity).
 - **Data:** PPK holds student identity, credentials, and records; the CED holds only pseudonymized economic flows (voucher value, stipend value). School performance data is published in aggregate.
 
