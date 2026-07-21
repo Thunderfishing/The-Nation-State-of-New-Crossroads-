@@ -603,7 +603,7 @@ The data architecture is the PPK/CED split, operational from inception (Monetary
 
 ## Appendix A: Network Revenue (Fiat-Era Bottom-Up Derivation)
 
-*Rationale:* prior drafts carried a ~$107.6B network-revenue figure that included ETF and reserve returns accruing to credit unions under the pre-fiat metal-backed model. Under fiat, those returns flow to member savings, not credit-union operating income (the ETF backs its shareholders, not the institution). This appendix derives the honest fiat-era figure from the components that actually generate credit-union revenue.
+*Rationale:* ETF and reserve returns flow to **member savings**, not credit-union operating income — the ETF backs its shareholders, not the institution. This appendix derives the fiat-era figure from the components that actually generate credit-union revenue.
 
 ---
 
