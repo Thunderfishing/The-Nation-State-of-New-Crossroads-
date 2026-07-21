@@ -1,9 +1,11 @@
-# New Crossroads Infrastructure Act of 2025 
+# New Crossroads Infrastructure Act of 2025: Draft 2.7
 
 ---
 
-**Draft:** 2.7 | **Date:** July 18, 2026
+**Draft:** 2.7 | **Date:** July 12, 2026
 **Author:** Thunderfish2
+
+---
 
 > **Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values.
 
@@ -33,7 +35,7 @@ The Infrastructure Act integrates with the Energy Act, Utilities Act, Industry A
 - **Utilities Act 1.3:** Transmission access fees ($49B/year by 2075) fund grid hardening that powers rail electrification. The asset/operator separation model is directly replicated.
 - **Industry Act:** Rail, freeways, ports, barges, and cargo airports distribute hemp ($2B), heavy equipment ($20B), steel ($2B).
 - **Housing Act:** Infrastructure supports 500,000 Durahomes/year by 2075, transporting CO2-cured hempcrete (450,000 tons/year), low-carbon concrete (10M tons/year), hemp 2x4s (50,000 tons/year), and insulation (50,000 tons/year).
-- **Monetary Act 9.8:** Infrastructure access fees (tolls, track access, port fees) are paid in BWC, flow to SWF (30% of revenue), and are subject to standard BWC transaction fees. Co-op operators pay 5% co-op profit tax on profits over $100,000 (no SWF contribution). Loans are reference-rate-anchored (Monetary §1.5A).
+- **Monetary Act 9.8:** Infrastructure access fees (tolls, track access, port fees) are paid in BWC, flow to SWF (30% of revenue), and are subject to standard BWC transaction fees. Co-op operators pay 5% co-op profit tax on profits over $100,000 (no SWF contribution). No binding sector quotas apply. Loans are reference-rate-anchored (Monetary §1.5A).
 - **Sovereign Functions Act:** The National Infrastructure Board (NInfraB) is an independent board chartered under the independent board registry; Special Auditors (§3) enforce compliance.
 - **Chamber Act:** Regional Boards (§3) oversee regional infrastructure matters; independent board registry (§7).
 
@@ -536,7 +538,7 @@ Dark Corridor Compliance: Elevated sections have no lighting. Enforcement by Reg
 | Rural infrastructure subsidy | 7.5 | 11.2 | 10% of revenue |
 | **Total** | **74.6** | **111.8** | |
 
-> **This rail is the largest single SWF contributor in the corpus.** At ~$22.4B/year (2025), the Infrastructure access-fee rail exceeds the corporate SWF contribution for any single sector. Monetary §2.1 counts all access-fee rails (this act's ~$22.4B, Energy's ~$4.5B, Communications' ~$0.06B) in the total contribution stream of **~$146B/year.** The fund caps in **~2029 (year 4)**; the stabilisers redirect contributions to general revenue above the cap, and Sovereign §7.4 sends the surplus to the citizen dividend — **~$160B/year, ~$1,432/citizen.**
+> **This rail is the largest single SWF contributor in the corpus.** At ~$22.4B/year (2025), the Infrastructure access-fee rail exceeds the corporate SWF contribution for any single sector. Monetary §2.1 counts all access-fee rails (this act's ~$22.4B, Energy's ~$4.5B, Communications' ~$0.06B) in the total contribution stream of **~$138B/year.** The fund caps in **~2029 (year 4)**; the stabilisers redirect contributions to general revenue above the cap, and Sovereign §7.4 sends the surplus to the citizen dividend — **~$152B/year, ~$1,359/citizen.**
 
 The Dark Corridor Fund finances:
 
@@ -815,3 +817,5 @@ When the next generation drives across the Heartland Plains on a dark, elevated 
 That is the Infrastructure Act.
 
 ---
+
+**End of Draft 2.6**
