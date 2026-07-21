@@ -1,9 +1,9 @@
 # Crossroads Co-operative Healthcare & Mental Wellness Act of 2025: Draft 6.7
 
-**Draft:** 6.7 | **Date:** July 12, 2026
+
+**Draft:** 6.7 | **Date:** July 17, 2026
 **Author:** Thunderfish2
 
----
 
 > **Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values. Facility counts and corporate-sector share are descriptive projections, not quotas.
 
@@ -183,7 +183,7 @@ In an emergency, **EMS/ambulance crews transport the patient to the nearest appr
 
 ### 3.7 Cost-Cutting Mechanisms
 
-Bulk procurement, shared diagnostics, telehealth, preventive-care incentives, and generic-first formularies — applied across clinics, hospitals, and CMHIN — with overlap savings netted out. (Figures carried from prior drafts; to be re-derived under premium funding in the consolidated fiscal pass.)
+Bulk procurement, shared diagnostics, telehealth, preventive-care incentives, and generic-first formularies — applied across clinics, hospitals, and CMHIN — with overlap savings netted out. 
 
 ---
 
