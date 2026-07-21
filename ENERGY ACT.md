@@ -1,17 +1,13 @@
 # New Crossroads Energy Act of 2025: Draft 4.4
 
-**Draft:** 4.3 | **Date:** July 12, 2026
+**Draft:** 4.4 | **Date:** July 18, 2026
 **Author:** Thunderfish2
-
----
-
-**Cross-reference.** This act is companion legislation to the **Utilities Act 1.3**, the **Monetary Act 9.8**, the **Credit Union Act 5.8**, the **FCL Act 3.4**, the **Sovereign Functions Act**, the **Chamber Act**, the **Infrastructure Act 2.4**, the **Communications Act 4.2**, and the **Healthcare Act 6.6**. The asset/operator separation model follows the same pattern as the Utilities Act (state owns transmission/distribution, co-ops/corporations compete on generation). Loans are reference-rate-anchored (Monetary Act §1.5A). Data uses PPK/CED (no CWD). The currency is fiat.
 
 ---
 
 ## Purpose
 
-The New Crossroads Energy Act of 2025 (Draft 4.3) establishes New Crossroads' energy framework, post-2025 revolution, serving 112 million citizens with a $38.94T GDP (co-op dominant by design). The system is designed to foster a co-op dominant energy sector through incentives, while supporting a dynamic corporate generation market.
+The New Crossroads Energy Act of 2025 (Draft 4.3) establishes New Crossroads' energy framework, post-2025 revolution, serving 112 million citizens with a $19T GDP (2075) (co-op dominant by design). The system is designed to foster a co-op dominant energy sector through incentives, while supporting a dynamic corporate generation market.
 
 It delivers a CME-proof 400 TWh grid (65% nuclear, 20% coal-geothermal, 10% hydro, 5% renewables), hardened with 30,000 km buried transmission lines, 150,000 km buried distribution lines, 750 EMP-shielded substations, and a 5,000-transformer reserve by 2075.
 
@@ -32,10 +28,10 @@ No binding sector quotas apply. Co-op generation receives license priority (firs
 
 The Energy Act integrates with the Utilities Act, Industry Act, Infrastructure Act, Monetary Act, Credit Union Act, FCL Act, Sovereign Functions Act, and Chamber Act:
 
-- **Utilities Act 1.3:** Defines the asset/operator separation (state owns transmission/distribution, co-ops/corps compete on generation). Transmission access fees ($/MWh) fund grid maintenance and SWF.
+- **Utilities Act 1.3:** Defines the asset/operator separation (state owns transmission/distribution, co-ops/corps compete on generation). Transmission access fees ($/MWh) fund grid maintenance (30% of revenue flows to SWF as the access-fee rail contribution).
 - **Industry Act:** The 1,633 TWh grid powers 30,000 ha hemp cultivation, 45,000 ha greenhouses, transformer production (10,000/year, $10B), heavy equipment ($15B), steel ($30B), and foreign factories ($60B).
 - **Infrastructure Act 2.4:** Buried transmission and distribution lines connect to 75,000 km rail, 150M-ton ports, and cargo airports for energy equipment distribution. Dark corridor standards apply to energy infrastructure adjacent to elevated freeways.
-- **Monetary Act 9.8:** Transmission access fees are paid in BWC, flow to SWF (30%), and are subject to standard BWC transaction fees. Co-op generators pay 5% co-op profit tax on profits over $100,000 (no SWF contribution). No binding sector quotas. Loans are reference-rate-anchored (Monetary §1.5A).
+- **Monetary Act 9.8:** Transmission access fees are paid in BWC, with 30% of access-fee revenue flowing to the SWF as the standard rail contribution. Co-op generators pay 5% co-op profit tax on profits over $100,000 (no SWF contribution). No binding sector quotas. Loans are reference-rate-anchored (Monetary §1.5A).
 - **Credit Union Act 5.8:** Generation co-ops access reference-rate-anchored loans for solar, wind, geothermal, and small hydro projects.
 - **FCL Act 3.4:** Generation utilities operate as Tier 2 or Tier 3 FCLs. Heavy Industry Clause applies to nuclear SMRs and large geothermal plants (51% member ownership minimum).
 - **Sovereign Functions Act:** The NEB is an independent board chartered under the independent board registry; Special Auditors (§3) enforce compliance.
@@ -58,9 +54,6 @@ The Energy Act integrates with the Utilities Act, Industry Act, Infrastructure A
 
 These assets are funded by **general revenue** (~$200B of grid hardening, one-time buildout — Sovereign Functions Act §7.3) and maintained by the NEB out of transmission access fees (§2.3).
 
-> **Not the SWF, and the difference is $200B.** Prior drafts funded the grid buildout from the SWF. **Monetary §2.1 forbids it:** *"the SWF is the state's revolving lender... **Loans revolve; the corpus survives.** It is **not** the state's capital budget."* Access fees recover **155% of annual maintenance, annually** (§2.1) — they do not retire capital. So an SWF loan against the grid would never be repaid: the corpus would buy the asset and quietly absorb the loss, one $200B line at a time.
->
-> This was not an isolated slip. Four acts had parked capital in the SWF the same way — this grid, the freeway and rail (Infrastructure §3.2), and the communications backbone (Communications §2.1) — **~$629B of one-way claims against a ~$230B corpus, which would have liquidated the fund 2.7× before it ever reached its cap.** Each act reached for the SWF because Sovereign Functions §7.3 had **no infrastructure line to reach for instead**. It has one now (~$20B/year through the front-loaded first phase), and the VAT went from 2% to 3% to carry it.
 
 ### 1.2 Competitive Generation Market (Co-ops and Corporations)
 
@@ -105,7 +98,6 @@ Utilities pay the NEB for access to state-owned transmission and distribution li
 
 - Biennial review by NEB (6/11 vote), **ratified by the Territorial Chamber (11/20 Regional Boards)**
 
-> **The sovereign does not price electricity.** Prior drafts required *"Sovereign Council approval (5/7)"* for the fee review — a transmission access fee is a **rate**, and rates are the first item on the Sovereign Functions Act §8.5 bar. The fee is a national infrastructure charge on regional grids, so the Territorial Chamber is its natural ratifier; it is the body the Regional Energy Districts already report through.
 - Inflation adjustment tied to DLB (Daily Living Basket) annually
 - CME surcharge: Additional $2/MWh during CME recovery (max 90 days) to fund transformer deployment
 - Co-op discount: Co-op generators pay 20% less than corporate generators (co-op rate = 80% of corporate rate)
@@ -182,12 +174,12 @@ Utilities pay the NEB for access to state-owned transmission and distribution li
 
 | Component | Cost | Funded by |
 | :--- | :--- | :--- |
-| Buried transmission lines (30,000 km) | $60B | SWF (grid hardening allocation) |
-| Buried distribution lines (150,000 km) | $150B | SWF (grid hardening allocation) |
-| EMP-shielded substations (750) | $1.5B | SWF |
-| Transformer reserve (5,000+) | $5B | SWF |
-| AI-driven grid sensors | $500M | SWF (Tech Innovation Hub) |
-| **Total grid hardening** | **$217B** | **SWF (per Monetary Act 9.8)** |
+| Buried transmission lines (30,000 km) | $60B | General revenue (Sovereign Functions §7.3) |
+| Buried distribution lines (150,000 km) | $150B | General revenue (Sovereign Functions §7.3) |
+| EMP-shielded substations (750) | $1.5B | General revenue |
+| Transformer reserve (5,000+) | $5B | General revenue |
+| AI-driven grid sensors | $500M | General revenue (R&D line) |
+| **Total grid hardening** | **~$200B** | **General revenue (Sovereign Functions §7.3)** |
 
 ---
 
@@ -217,13 +209,13 @@ Utilities pay the NEB for access to state-owned transmission and distribution li
 
 | Component | Cost | Funded by |
 | :--- | :--- | :--- |
-| SMRs (56 GW) | $100B | SWF (energy hub allocation) |
-| Airports (cargo facilities) | $90B | SWF + Infrastructure Act |
-| Hospitals | $20B | SWF + Healthcare Act (the 20 mega hospitals — one per hub, Healthcare 6.6) |
-| Communications (AM emergency transmitters + mesh backbone nodes) | (within hub allocation) | SWF + Communications Act 4.2 — hubs provide CME-resilient backup power to the AM emergency transmitters and mesh backbone, keeping the national emergency-broadcast and mesh layers alive during grid disruption |
-| Sewer plants | $10B | SWF + Infrastructure Act |
-| Buried lines and land | $80B | SWF |
-| **Total hubs** | **$300B** | **SWF (per Monetary Act 9.8)** |
+| SMRs (56 GW) | $100B | General revenue (energy infrastructure) |
+| Airports (cargo facilities) | $90B | General revenue + Infrastructure Act |
+| Hospitals | $20B | General revenue + MMF capital lending (Regions Act §4) |
+| Communications (AM emergency transmitters + mesh backbone nodes) | (within hub allocation) | General revenue + Communications Act 4.2 — hubs provide CME-resilient backup power to the AM emergency transmitters and mesh backbone, keeping the national emergency-broadcast and mesh layers alive during grid disruption |
+| Sewer plants | $10B | General revenue + Infrastructure Act |
+| Buried lines and land | $80B | General revenue |
+| **Total hubs** | **~$300B** | **General revenue (Sovereign Functions §7.3)** |
 
 ---
 
@@ -236,7 +228,7 @@ Utilities pay the NEB for access to state-owned transmission and distribution li
 | Transmission access fee | 80% of corporate rate | 100% of rate |
 | Generation license priority | First right of refusal | Apply only if no co-op qualified |
 | Grid access priority during CME | Tier 2 (after hubs) | Tier 3 |
-| CCIF access | Full (voluntary) | Limited (Co-op Chamber approval) |
+| CCIF access | Full (voluntary) | Limited (Productive Chamber approval) |
 | CME recovery loans | 0% interest (first 30 days) | 5% interest |
 
 ### 6.2 Financing for Co-op Generation
@@ -246,7 +238,7 @@ Utilities pay the NEB for access to state-owned transmission and distribution li
 | Solar farm (small) | $2M | 10 years | Service-sector rate | Credit Union |
 | Geothermal plant | $50M | 20 years | Service-sector rate | CCIF |
 | Wind farm | $20M | 15 years | Service-sector rate | Credit Union + CCIF |
-| SMR (Heavy Industry) | $2B | 30 years | Service-sector rate | CCIF + SWF |
+| SMR (Heavy Industry) | $2B | 30 years | Service-sector rate | CCIF + SWF revolving lending |
 | Community solar (micro) | $50k | 5 years | Service-sector rate | Micro-loan (self-attested) |
 
 All loans are reference-rate-anchored (Monetary Act §1.5A). Community-solar micro-loans serving the service sector qualify for the lower service-sector rate.
@@ -278,7 +270,6 @@ The National Energy Board (NEB), an 11-member body, sets standards for the grid,
 - **Removal:** by the nominating and confirming bodies jointly, or on cause established by a Special-Auditor investigation.
 - **Voting:** 6/11 for operational decisions (e.g., transmission fee rates, generation licenses), 8/11 for regulations (e.g., CME hardening standards). **Strategic shifts require Territorial Chamber ratification (11/20)** — not the sovereign.
 
-> **The sovereign had three roles in this section and was entitled to none.** Prior drafts had the NEB *"reporting to the Sovereign Council,"* *"appointed by the Sovereign Council (5/7),"* and needing *"Sovereign Council approval"* for strategic shifts. **Sovereign Functions Act §8.5** bars the sovereign from regulating the domestic economy — *"prices, rates, entry, licensure, lending standards, listing standards, and sector policy"* — and **Chamber Act §7** states the rule directly: *"The sovereign is barred from domestic regulation, so board appointment is a chamber function."* Generation licensing is entry. Transmission fees are rates. The NEB is the first of seven boards on that registry, and it was running on a rule the registry does not contain.
 - **Functions:** Regulate generation market (150 GW nuclear, 50 GW geothermal, 50 GW geo-coal, 50 GW geo-WTE, 75 GW hydro, 50 GW renewables, 15 GW WTE), grid hardening, antifragile energy hubs (56 GW SMRs, 20 hubs), transmission access fees ($49B/year by 2075)
 - **Independence:** Paired with but subordinate to none; disputes resolved through ad-hoc arbitration (Chamber Act §6.6)
 
