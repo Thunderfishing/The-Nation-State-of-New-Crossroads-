@@ -166,7 +166,6 @@ Violations: Regional Board sanction, Special Auditor investigation (Sovereign Fu
 - **Year 1: reference + 3.5% · Year 2: reference + 3% · Year 3: reference + 2.5%** (~7% · ~6.5% · ~6% at the founding reference rate) — the step-down, paid for committing through the lock-up.
 - **Year 4 onward: reference + 2%** (~5.5%) — the **standardized national premium**, floating and reset when the reference rate is republished (Monetary §1.5A). Every post-lock-up share therefore pays one identical current coupon. The premium is a **system constant, not a board choice**: boards decide whether to issue, not what to pay.
 
-> **The step-down used to step up.** Prior drafts set it at a hardcoded **7% / 6% / 5%** against a standing rate of reference + 2% — which at the founding reference rate is **5.5%**. Year 3 therefore paid **less than year 4**: the "premium for committing through the lock-up" became a discount in the final year of the lock-up, and the rate rose the moment the holder was free to leave. Expressed as bands, the step-down declines monotonically to the standing premium, which is what it was always meant to do. It was also the same hardcoding defect as §4.2: three fixed numbers in an act whose whole design is that rates are bands around a published anchor.
 
 **Three-year sale lock-up.** A share may not be sold on the secondary market for **3 years from issue** — exactly its step-down period, so a holder is locked precisely as long as the share pays above the steady rate. This is the honest quid pro quo for the 7/6/5 teaser, like a term deposit. The **redemption valve stays open** throughout the lock-up as the hardship exit (see Withdrawals).
 
@@ -191,7 +190,6 @@ Violations: Regional Board sanction, Special Auditor investigation (Sovereign Fu
 
 **Recapitalization impact:** each series adds its own value in capital and ~10× that in lending capacity. Over 50 years the capital base grows from **~$186B to ~$589B**, carrying the loan book from **~$1.86T to ~$5.89T**.
 
-> **The figure this corrects.** Prior drafts stated the impact as "~$1.2084T over 50 years" and Appendix B carried that same number as the **loan book**. It is neither: ~$1.2084T was the *cumulative special-share capital raised*, and the §3.2 leverage above — stated in this very section — was never applied to it. The equity was being reported as the book it supports. Appendix A's special-share carry note did the multiplication correctly ($25B → $250B) two pages later, which is how the error survived: one paragraph knew, the table did not.
 
 ### 3.3 Credit Union Secondary Market (CUSM) — national
 
@@ -243,9 +241,6 @@ All banking-suite and loan rates below are set within system bands around the re
 | Loans (blended) | **reference + 2%** | ~5.5% | What the network earns on it |
 | | | **~3% net interest margin** | Real credit unions run 3–4% |
 
-> **The rate this corrects.** Prior drafts paid **5–6% on savings** against a **5.5% blended loan yield** — a net interest margin at or below **zero**. The network lost money on every deposit it held and made it back on fees. The error was diagnosed twice and treated once: the revolving line was repriced to reference + 5% *because* deposits cost 5.5% (Monetary §1.6A) — but the 5.5% itself was left alone. The symptom was fixed in one channel; the cause stayed.
->
-> Note also what 5–6% nominal *was*: against a 1–2% DLB inflation target, a **4% real, risk-free, insured return** — better than long-run equities, for money in a savings account. No institution can pay that, and none should: it would have made the special-share dividend (reference + 2%) unable to attract capital away from an insured deposit paying more.
 
 ### 4.1 Banking Suite
 
@@ -293,11 +288,6 @@ These are not binding targets; the system fosters a co-op-dominant productive ec
 | Service-sector loans (healthcare, education, infrastructure) | **reference + 0.5% to + 1.5%** | ~4–5% | Recognizes labor subsidy; **subsidized below the commercial band** |
 | Micro-loans | **reference + 0.5%** | ~4% | **$500–$5,000; student ventures and small-business capital only**; self-attested income; **subsidized below the commercial band** |
 
-> **These are bands, not numbers — and they were numbers.** Prior drafts hardcoded 5–6%, 4%, 5%, and 4–5% beneath a header stating all rates were reference-rate-anchored. A fixed figure is not a band around a published rate: if the reference rate moves, 5–6% does not. This is the same defect the Monetary Act flags in Utilities §6.2, sitting inside the act that defines the anchor.
->
-> **And the label was wrong in a way that mattered.** The commercial bands were described as *"at/around the reference rate."* They are not — they are **two points above it**, and that two points is the network's entire net interest margin (§4.1). A loan book priced *at* the reference rate against deposits priced *at* the reference rate is a network with no spread, which is what the old figures described and what Appendix A's zero-margin arithmetic reflected.
->
-> **What the subsidy costs, stated.** Micro and service-sector loans sit **1.5 points below the commercial band** — deliberately. Against savings at reference − 1%, a micro-loan at reference + 0.5% still carries **+1.5%**, so it funds itself thinly rather than losing money. That is the design: subsidized, not underwater. At the ~5% reference the old draft implied, the same loan would have carried **zero** and the service-sector loan would have been **negative** — the subsidy would have been paid by the members without anyone saying so.
 
 **What micro-loans are, and what they stopped being.** A micro-loan is **capital for a venture or a small business** — a student's first enterprise, a market trader's stock, a two-person co-op's first tools. It is not household credit and it is not a credit card. Prior drafts had it doing both: $500, self-attested, 24-hour processing, on a CLS agent's desk. That was a credit card described as a loan application, and it drove the corps' headcount with transaction-count work no loan officer should ever have touched. Everyday household credit is now the revolving line built into every wallet (§4.4), which needs no agent, no application, and no time. What remains on an agent's desk is the thing that actually requires credit judgment.
 
@@ -741,7 +731,7 @@ Special-share capital is leveraged ~10× into the loan book (§3.2), so the capi
 | **Network gross revenue** | **~$115B/year** | scaled |
 | Network net revenue | **~$43B/year** (after deposit costs and provisions) | scaled |
 | Board compensation (network) | ~$3.3B/year (~2.9% of gross) | ~$3.3B (falling as a share) |
-| Governance | Sovereign Council (7) + Territorial Chamber (220) + Co-op Chamber (300) + Corporate Chamber (100) + universal citizen vote | same |
+| Governance | Sovereign Council (7) + Territorial Chamber (220) + Productive Chamber (400) + Productive Chamber (100) + universal citizen vote | same |
 | Deposit Insurance (voting) | $250,000 BWC | DLB-indexed |
 | Deposit Insurance (non-voting) | $50,000 BWC | DLB-indexed |
 | RLP target | 5–10% of regional deposits | same |
