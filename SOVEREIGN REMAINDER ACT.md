@@ -1,13 +1,15 @@
 ---
 title: "Crossroads Sovereign Functions Act"
-date: "2026-07-17"
-version: "2.1"
+date: "2026-07-21"
+version: "2.2"
 author: "Thunderfish2"
 repository: "crossroads-monetary-act"
 description: "Establishes the sovereign state of New Crossroads — the thin, enumerated executive holding only the four functions no rule, mutual, chamber, council, or citizen vote can hold: defense and foreign affairs, the Special Auditors, the judiciary, and the SWF. Houses the Sovereign Council (staggered 5-year terms), four executive bureaus (Treasury with Capital Markets Bureau, Foreign Affairs, National Lands and Commons, Transport), and the ten prohibitions. Deadlocks are resolved through ad-hoc arbitration (Chamber Act §6.6), not a standing body. Companion to the Chamber Act."
 ---
 
 # Crossroads Sovereign Functions Act
+
+**Cross-reference.** Companion to the Chamber Act (Territorial Chamber §3, Productive Chamber §4.1, Productive Chamber §4.2, universal citizen vote §2, oversight committees §6.7, the committee-referral mechanism §6.7, the ad-hoc arbitration process §6.6, entrenched floors §11, protected guarantees §12, the Election Integrity Commission §9.5), the Monetary Act 9.8, Credit Union Act 5.8, Exchange Act 1.5, Municipal and Regional Funding Act, FCL Act 3.4, Military and Intelligence Act 1.8, and the Infrastructure and Industry Acts.
 
 **This act is deliberately separate from the Chamber Act.** The sovereign functions are the residue left after everything automatable was automated and everything mutualizable was mutualized; the chambers and citizens are the source of authority the sovereign answers to. They travel together and are ratified together; they are not one document.
 
@@ -306,22 +308,23 @@ Set in full at Monetary Act §4; collected by Treasury (§6A.1); rates set by th
 |---|---:|---|---|---:|
 | Sustainability projects | ~$50B | | Education vouchers (the family picks the school) | ~$170B |
 | Military (sovereign share) | ~$46B | | Healthcare bottom-tier subsidy (the citizen picks the provider) | ~$45B |
-| R&D / Innovation Hubs | ~$30B | | Citizen dividend (§7.4) | (surplus) |
-| National infrastructure buildout | ~$20B | | | |
+| R&D / Innovation Hubs | ~$30B | | Mandatory-service stipends (the citizen chooses the trade) | ~$13.5B |
+| National infrastructure buildout | ~$20B | | Citizen dividend (§7.4) | (surplus) |
 | Parks | ~$20B | | | |
 | The four functions | ~$20B | | | |
-| **Subtotal** | **~$196B** | | **Subtotal** | **~$215B** |
+| Universal savings match | ~$8B | | | |
+| **Subtotal** | **~$196B** | | **Subtotal** | **~$228.5B** |
 | **= 3.3% of GDP — inside the cap** | | | | |
 
 **Classification is justiciable, and the presumption runs against the sovereign.** Any citizen may petition the Supreme Court (§1.4) to reclassify a line. **Spending is presumed to be an operation unless the sovereign shows a citizen directs it** — the same inverted burden as the downward presumption of §1.2, for the same reason: the body that benefits from a generous reading is the body that must not hold the pen.
 
 > **Why this reading, and why it is not a convenience.** *"Operating"* is the word the cap has always used; it had simply never been defined, and nothing turned on it while the plan was priced against a fictional $38.94T GDP — 4% of that was ~$580B and everything fit. At the real ~$6T, the cap binds at ~$240B and total spending of ~$400B breaches it by 67%. **The rescale did not create this; it revealed it.** Spending was already 6.3% of GDP before the infrastructure line was added.
 >
-> But the narrow reading is what this system's architecture *implies*, not a hole cut to fit the numbers. **An education voucher is not the sovereign operating anything.** The state runs no schools; the money passes through to a family that picks one. The healthcare subsidy buys into a system the co-op commons funds and the sovereign does not run. A cap on what the sovereign **runs** is the cap a thin state needs. A cap on what **passes through** it would count the voucher — the most anti-statist instrument in the corpus — as statism, and would punish the sovereign for handing money away.
+> But the narrow reading is what this system's architecture *implies*, not a hole cut to fit the numbers. **An education voucher is not the sovereign operating anything.** The state runs no schools; the money passes through to a family that picks one. The healthcare subsidy buys into a system the co-op commons funds and the sovereign does not run. **The mandatory-service stipend pays a citizen who chose a trade** — the state directs neither the choice nor the employer. A cap on what the sovereign **runs** is the cap a thin state needs. A cap on what **passes through** it would count the voucher — the most anti-statist instrument in the corpus — as statism, and would punish the sovereign for handing money away.
 >
 > **It is also what makes the falling cap true.** Operations at ~$196B against a ~$19T GDP is **~1.0%** — under the 2% target without any effort, because operations are physically anchored (a judiciary, eight submarines, a rail network) while the economy triples around them. The sovereign shrinks because the nation grew.
 
-**Spending sits at ~$411B total — ~$196B of operations (3.3% of GDP) and ~$215B of transfers.**
+**Spending sits at ~$424.5B total — ~$196B of operations (3.3% of GDP) and ~$228.5B of transfers.**
 
   > **The cap falls because GDP triples, not because the Defense Fund matures.** Operations are physically anchored; the economy grows around them. At ~$19T GDP, operations at ~$196B are ~1%.
 
@@ -337,7 +340,9 @@ Set in full at Monetary Act §4; collected by Treasury (§6A.1); rates set by th
 | **National infrastructure buildout** (§6A.4; Infrastructure, Energy, Communications Acts) | **~$20B** |
 | Parks | ~$20B |
 | The four functions — judiciary, auditors, four bureaus | ~$20B |
-| **Total** | **~$411B (~6.9% of GDP)** |
+| Mandatory-service stipends (Education Act §4) | ~$13.5B |
+| Universal savings match (Monetary §4.82) | ~$8B |
+| **Total** | **~$424.5B (~7.1% of GDP)** |
 
 > **The infrastructure line is new, and its absence was doing real damage.** This table had no line for the freeway, the 75,000 km rail network, grid hardening, or the communications backbone — while the Transport Bureau (§6A.4) is charged with building three of the four. **So four acts funded them from the SWF instead**, because it was the only pot with a large number attached. The claims totalled **~$629B against a ~$230B corpus** — the fund liquidated 2.7× over — and since access fees recover only maintenance (Infrastructure §3.2; Communications §2.1), **none of it would ever have returned.** Monetary §2.1 forbids exactly this: *"the SWF is the state's revolving lender... it is not the state's capital budget."*
 >
@@ -345,11 +350,11 @@ Set in full at Monetary Act §4; collected by Treasury (§6A.1); rates set by th
 
 > **The military line is the sovereign's share only.** The full military budget (~$52B) includes Defense Fund returns (~$6B). This table carries the sovereign portion.
 
-
+> **v2.2 — the stipend line.** The mandatory-service stipends ($12,000–15,000/year × ~1M participants, Education Act §2/§4) were authorized but not itemized in prior versions. They are a distinct general-revenue instrument — not vouchers — paying service participants directly. Classified as a **transfer**: the citizen chooses the trade, the state pays the stipend.
 
 ### 7.4 Surplus and the Bars
 
-- Surplus flows to the SWF (within the 12% cap) or to the **citizen dividend**. The sovereign cannot accumulate. Once the SWF is capped — projected ~2029 — Monetary §2.3 redirects SWF contributions to general revenue, and this section sends them onward to the dividend: **~$152B/year, ~$1,359 per citizen**, in cash, tax-free, reaching the informal majority that files nothing.
+- Surplus (~$35.5B) flows to the SWF (within the 12% cap) or to the **citizen dividend**. The sovereign cannot accumulate. Once the SWF is capped — projected ~2030 — Monetary §2.3 redirects SWF contributions to general revenue, and this section sends them onward to the dividend: **~$138.7B/year, ~$1,238 per citizen**, in cash, tax-free, reaching the informal majority that files nothing.
 - No issuance, no debt, no SWF-principal draw.
 - The Public Accounts Committee scrutinizes all spending against the cap.
 
@@ -389,8 +394,8 @@ A sovereign act inconsistent with this section is void, reviewable by the Suprem
 | Deadlock resolution | Ad-hoc arbitration (Chamber Act §6.6) | Each side picks one; two pick chair; tribunal dissolves after; Supreme Court fallback for chair; procedural appeal only |
 | Takings | Transport Bureau | Public-infra only; market+10%; judicial ratification |
 | Fund of last resort | SWF (~$230B seed, 12% cap) + Defense Fund (~$100B → ~$920B) | Auto stabilizers; Tier-2 sunsets; **no defense exception to §5.4**; Public Accounts Committee |
-| SWF reaches its cap | ~2029 (year 4) | Contributions redirect to general revenue (Monetary §2.3) |
-| Citizen dividend (once capped) | ~$152B/yr — ~$1,359/citizen | Cash, tax-free; the only channel reaching the informal economy |
+| SWF reaches its cap | ~2030 (year 5) | Contributions redirect to general revenue (Monetary §2.3) |
+| Citizen dividend (once capped) | ~$138.7B/yr — ~$1,238/citizen | Cash, tax-free; the only channel reaching the informal economy |
 | Market supervision | Treasury Capital Markets Bureau | Financial Services Committee; Special Auditors prosecute |
 | Fiscal administration | Treasury | Economic Affairs Committee; Public Accounts Committee |
 | Diplomacy administration | Foreign Affairs Bureau | Defense and Foreign Affairs Committee |
@@ -398,7 +403,7 @@ A sovereign act inconsistent with this section is void, reviewable by the Suprem
 | Transport operations | Transport Bureau | NInfraB standards; Energy and Infrastructure Committee |
 | Election integrity | Election Integrity Commission (11; Chamber Act §9.5) | Ethics & Standards Committee; Supreme Court nominates; referrals to Special Auditors |
 | **Revenue** | **~$460B** — VAT 5% $166B · income >$100k $144B · tariffs $49B · corporate profit $25B · resources $22.7B · co-op profit $20B · property $19B · excise $15B | Cap 4% → 2% of GDP; Public Accounts Committee |
-| **Spending** | **~$411B total** — **operations ~$196B (3.3% of GDP, inside the 4% cap)**: sustainability $50B · **military $46B** · R&D $30B · infrastructure $20B · parks $20B · four functions $20B · **savings match $8B**. **Transfers ~$215B**: education vouchers $170B · healthcare subsidy $45B | Cap binds operations only (§7.2); classification justiciable. No debt, no issuance, no SWF draw |
+| **Spending** | **~$424.5B total** — **operations ~$196B (3.3% of GDP, inside the 4% cap)**: sustainability $50B · **military $46B** · R&D $30B · infrastructure $20B · parks $20B · four functions $20B · **savings match $8B**. **Transfers ~$228.5B**: education vouchers $170B · healthcare subsidy $45B · **mandatory-service stipends $13.5B** | Cap binds operations only (§7.2); classification justiciable. No debt, no issuance, no SWF draw |
 | Profit taxation | **Federal only** | Regions levy income tax and VAT; no level may tax residential land |
 | Domestic force | Not the sovereign | Militia to Territorial; police to municipalities; prosecutors to Regional Boards |
 | Growth | Closed list (§1.1) | Highest bar to add; ordinary bar to shrink |
