@@ -1,3 +1,12 @@
+---
+title: "New Crossroads — Consolidated Fiscal Model (2025 base)"
+version: "2.0"
+date: "2026-07-17"
+author: "Thunderfish2"
+description: "Single-page derived fiscal model. Rebuilt on the real $6T GDP base. Supersedes v1.2 entirely — the fictional $14.5T/$38.94T GDP, the FTT, the 3% resource surcharge, the SWF-as-capital-budget architecture, and the $497B unitary budget are all gone. Contains the five-pot architecture, the who-levies-what table, the rate-band structure, and what the SWF actually does."
+supersedes: "v1.2"
+---
+
 # New Crossroads — Consolidated Fiscal Model (2025 Base) — v2.0
 
 **Reading note.** A derived model, not asserted numbers. Sections C–J flow from the base assumptions (Section A). Figures are rounded; illustrative, not precise. **Where a figure awaits a decision it is marked [OPEN] rather than estimated.**
@@ -65,6 +74,8 @@ Money does not cross between pots except where an act says so, and each crossing
 | → Charity contribution | | ~$19B |
 
 **The VAT is 5%.** It carries the infrastructure buildout (~$20B/yr), the co-op profit correction, the universal savings match (~$8B), and a ~$49B shock buffer. Canada's federal GST is 5%; the EU averages 21%. Neither zero-rates a defined basket or returns the proceeds as a dividend.
+
+**This is the last un-rescaled figure in the corpus, and it is the largest one left.** It is logged here rather than resolved because it is a decision, not arithmetic: either co-op profit really is ~$400B (and the VAT goes to ~3.5%), or the co-op sector's margin is materially higher than 9.5% (and A6 needs restating), or co-op "revenue" at 65% of GDP is conflating gross revenue with value-added and the ratio needs a different anchor. **The tables below carry the $45B/$125B figures pending that call, and every one of them moves when it lands.**
 
 ---
 
@@ -147,6 +158,10 @@ Set in full at Monetary Act §4; collected by Treasury; rates set by the chamber
 | Infrastructure — pipelines, ports, misc | ~$19B | General revenue |
 | **Total one-way claims** | **~$629B** | **against a ~$230B corpus** |
 
+**The fund would have been liquidated 2.7× before it ever reached its cap** — and since access fees recover only *maintenance* (§H), none of it would ever have come back. Plus Education's $175B, Sustainability's $50B, Parks' $20B, R&D's $30B, and the Military's $40B, all labelled "SWF" while Sovereign §7.3 already carried them as general revenue.
+
+**Every act reached for the SWF because §7.3 had no infrastructure line to reach for.** A budget with no line for a thing the state is building does not stop the building; it moves the money somewhere nobody counts. The line exists now (~$20B/year), and the VAT went from 2% to 3% to carry it.
+
 ### F.4 Contributions — ~$138B/year
 
 | Source | ~Annual |
@@ -157,6 +172,7 @@ Set in full at Monetary Act §4; collected by Treasury; rates set by the chamber
 | General budget surplus | ~$49B |
 | **Total** | **~$138B** |
 
+> **The access-fee rails were missing from Monetary §2.1's total, and they are a quarter of the stream.** It said ~$63B. Infrastructure's ~$22.4B alone is the largest single SWF contributor in the corpus. Counting them, the fund caps in **year 4** rather than year 7.
 
 ### F.5 The stabilizers — destination, never rate
 
@@ -179,7 +195,7 @@ Set in full at Monetary Act §4; collected by Treasury; rates set by the chamber
 |---|---:|
 | §2.3 — 50% of SWF excess above the cap | ~$14.4B |
 | Sovereign §7.4 — surplus the sovereign may not accumulate, including redirected contributions | ~$138B |
-| **Total** | **~$135B** |
+| **Total** | **~$152B** |
 
 **~$1,359 per citizen per year. ~$5,436 for a household of four.** Cash, tax-free, no filing, no threshold, no audit. **It is the largest single transfer in the system and the only one that reaches the informal majority**, which files nothing and is not asked to.
 
@@ -208,6 +224,8 @@ Two rows carry weight out of proportion to their size:
 
 **Equalization:** the MMF and RMF equalize within each tier; resource-rich regions are natural net contributors. Conditionality is formula-driven. No subnational debt.
 
+**[OPEN — G1]** Line-by-line subnational budgets are not itemized. The tier is structurally self-funding (royalties + income tax + VAT + fees ≈ regional/municipal needs, with equalization smoothing disparities), but the per-region/per-municipality figures need pinning.
+
 ---
 
 ## H. Self-Funding Sectors (off-budget)
@@ -223,7 +241,8 @@ Two rows carry weight out of proportion to their size:
 
 **Capital is general revenue. Fees recover 155% of *annual* maintenance, *annually*.** The 55% margin funds the SWF contribution, the sector's own fund, and the rural subsidy. Revenue splits **50% maintenance / 30% SWF / 10% sector fund / 10% rural**.
 
-
+> **"155%" used to mean two things, and the ambiguity ran through five acts.** Under the *capital* reading the freeway recovered in **326 years** ($325.5B at a $1.0B/year toll) and the Communications backbone in **125**. The Utilities grid recovered in **21 years** — plausible-looking, which is why it survived while the freeway's did not. **Same wrong model, quieter failure.**
+>
 > Under the maintenance reading every rail clears, and the implied upkeep lands inside real-world bands: **~$64,500/km/year** for a hardened freeway with elevated sections, **~$81,000/km/year** for a buried EMP-hardened grid, **~$2,400/km/year** for buried fiber. **Freeways have never recovered construction from tolls anywhere.** Roads are a public good; tolls price maintenance and congestion.
 
 ---
@@ -246,7 +265,9 @@ Two rows carry weight out of proportion to their size:
 
 **Net interest margin: ~3%.** Savings at reference − 1% against loans at reference + 2%. The margin comes from the **bands**, not the anchor — the anchor is the same number on both sides.
 
-> **They are all monotonic now, and they all clear.** Micro +1.5% (a stated subsidy), commercial +3.0%, CCIF positive, revolving +6.0%.
+> **Every lender in the corpus used to be upside-down.** Credit unions paid 5–6% on savings against a 5.5% loan yield — a margin at or below **zero**, made up on fees, which is why fee income looked like 62% of gross and produced the false conclusion that the network was "a payments utility with a lending arm." The CCIF lent at 3.5–4% while paying depositors 5–7%: **negative carry on every advance.** And the Utilities rates *inverted with risk* — a $2B/30-year SMR at 3.5% against a $50k/10-year solar panel at 5%.
+>
+> **They are all monotonic now, and they all clear.** Micro +1.5% (a stated subsidy), commercial +3.3%, CCIF positive, revolving +6.0%.
 
 ---
 
@@ -271,11 +292,25 @@ State the base assumptions (§A) once; derive the rest. **Round honestly. Where 
 
 ---
 
+## L. Open Items
+
+| # | Item | Status |
+|---|---|---|
+| **C1** | **The co-op profit chain (A7).** Co-op net profit settled at ~$400B (~10.3% margin on ~$3.9T value-added). Profit tax $20B, commons $48B. **VAT went to 4%.** The Co-op Advantage Principle confirmed it as arithmetic: at $400B/$125B the co-op burden was 36.2% against corporate's 30% — a breach of the entrenched floor. At $400B/$48B it is 17.0%. | **RESOLVED** ✓ |
+| **C2** | **Education's gross voucher.** The overview carried **$200B** against the arithmetic **$180B** (18M × $10,000); both the overview and the FCL offset ($25B → $10B post-C1) are corrected. **Gross $180B − $10B FCL = $170B net**, matching Sovereign §7.3. | **RESOLVED** ✓ |
+| **G1** | Subnational budgets — itemize regional and municipal spending; confirm the tier self-funds at the line level. | OPEN |
+| **H1** | CCIF participation is **2.5%** (1,832 members of ~72,700 eligible; Tier 1 exempt). The §3.8.7 vote tiers fix the *voice* of those in; they do not reach *who is in*. The shelter is why only large co-ops bother. | Logged, by design |
+| **H2** | **Co-op resources ($274B) vs the Industry §3 headline ($213.28B)** — a part exceeding its whole. §3.1–3.5 sum to **$306.4B**; the headline was the error. | **RESOLVED** ✓ |
+| J1 | SWF sub-fund routing (year-by-year flow). Aggregate solvency holds. | OPEN |
+| — | FTT abolished; resource split settled at 60/40 on a 12% royalty → sovereign revenue; 155% means maintenance everywhere; capital is general revenue; all seven sector boards on the Chamber §7.1 template. | **RESOLVED** ✓ |
+
+---
+
 ## Solvency Summary
 
-**National tier:** ~$460B revenue against ~$411B spending = **~$49B surplus**, flowing to the SWF until it caps (~2029) and to the citizen dividend thereafter. Operations are ~$180B — **3.0% of GDP, inside the 4% cap**. No debt, no issuance, no SWF draw.
+**National tier:** ~$460B revenue against ~$411B spending = **~$49B surplus**, flowing to the SWF until it caps (~2029) and to the citizen dividend thereafter. Operations are ~$180B — **3.3% of GDP, inside the 4% cap**. No debt, no issuance, no SWF draw.
 
-**The SWF** seeds at ~$230B, takes ~$146B/year, caps at 12% of GDP in ~2029, and thereafter pays **~$152B/year (~$1,359/citizen)** in cash to every citizen including the informal majority. It lends and backstops. **It does not spend.**
+**The SWF** seeds at ~$230B, takes ~$138B/year, caps at 12% of GDP in ~2029, and thereafter pays **~$152B/year (~$1,359/citizen)** in cash to every citizen including the informal majority. It lends and backstops. **It does not spend.**
 
 **Subnational tier** is self-funding — royalties, income tax, VAT, and fees — equalized by the MMF/RMF, with no debt at any level.
 
