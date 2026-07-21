@@ -1,6 +1,6 @@
-# New Crossroads Energy Act of 2025: Draft 4.4
+# New Crossroads Energy Act of 2025
 
-**Draft:** 4.4 | **Date:** July 20, 2026
+**Draft:** 4.4 | **Date:** July 12, 2026
 **Author:** Thunderfish2
 
 ---
@@ -203,16 +203,26 @@ New Crossroads operates 56 GW of civilian SMRs and 24 nuclear submarine reactors
 
 **Benefits:** less uranium mining needed (extends the Frostpeak's life by decades), 25× less waste volume to store, fuel security even if mines deplete, and recovery of naval reactor core material reducing enrichment workload.
 
-### 4A.2 The Reprocessing Facility
+### 4A.2 The Reprocessing Facility — Phased to Match the Grid
 
-A single national reprocessing plant, sited in the Frostpeak near the enrichment complex (Military Act §8.2), processing ~800–1,000 tonnes of spent fuel per year. Operated as a co-op under NEB oversight (civilian fuel) and Nuclear Directorate oversight (naval fuel), with the Military Act §8.1 hard wall applying to any weapons-grade material recovery.
+The national reprocessing complex, sited in the Frostpeak near the enrichment facility (Military Act §8.2). Operated by the Nuclear Stewardship Consortium (§4A.7) under NEB oversight (civilian fuel) and Nuclear Directorate oversight (naval fuel), with the Military Act §8.1 hard wall applying to any weapons-grade material recovery.
 
-| | |
-|---|---|
-| Capacity | ~800–1,000 tonnes/year |
-| Construction cost | ~$18B (general revenue, phased over 15 years) |
-| Operating cost | ~$1.8B/year |
-| Technology | Adapted from the French PUREX process — aqueous separation of uranium, plutonium, and fission products |
+The grid grows from 56 GW (founding) to 150 GW (2075). The reprocessing facility **grows with it** in three phases:
+
+| Phase | Years | Capacity | Covers | Capital | Funded by |
+|---|---|---:|---|---:|---|
+| **1** | 2030–2040 | 1,000 t/yr | 56 GW hub SMRs + 24 submarines | ~$18B | General revenue (Sovereign Functions §7.3) |
+| **2** | 2045–2055 | 2,000 t/yr | ~110 GW (hubs + early non-hub SMRs) | ~$12B | $5/MWh fuel-cycle surcharge (self-funding by this phase) |
+| **3** | 2060–2070 | 3,000 t/yr | Full 150 GW + submarines | ~$10B | Surcharge (generating ~$6.6B/yr at full grid) |
+| **Total** | | **3,000 t/yr** | **150 GW + 24 subs** | **~$40B** | General revenue (Phase 1) → self-funding (Phases 2–3) |
+
+**Total spent fuel at 150 GW:** ~2,700 tonnes/year (at ~18 t/GW for high-burnup SMRs) plus ~25 tonnes/year from 24 submarine reactors = ~2,725 t/yr. The 3,000 t/yr Phase 3 capacity provides ~10% margin.
+
+**Dry-cask bridging.** Non-hub SMRs that come online before Phase 2 expansion store spent fuel in on-site dry casks — safe for 50–100 years. The casks are retrieved and contents reprocessed when capacity reaches them. This is standard practice (Finland, Canada, the US all use dry-cask interim storage).
+
+**Technology:** adapted from the French PUREX process — aqueous separation of uranium, plutonium, and fission products. Each expansion is cheaper than greenfield (existing site, workforce, infrastructure, and the consortium's distributed expertise).
+
+**The system scales itself.** More reactors produce more spent fuel AND more surcharge revenue. The $5/MWh on 56 GW generates ~$1.2B/year; on 150 GW it generates ~$6.6B/year. By Phase 2 the surcharge covers operating costs. By Phase 3 it covers expansion capital too. General revenue funds only Phase 1 — after that the fuel cycle pays for itself.
 
 ### 4A.3 The Geological Repository — a Played-Out Frostpeak Mine
 
@@ -262,14 +272,24 @@ By the time water reaches the waste through all four barriers, the most dangerou
 
 | Item | Cost | Source |
 |---|---:|---|
-| Reprocessing facility | ~$18B | General revenue (Sovereign Functions §7.3), phased over 15 years (~$1.2B/year) |
-| Repository conversion | ~$15B | General revenue, phased |
+| Reprocessing — Phase 1 (1,000 t/yr) | ~$18B | General revenue, phased over 15 years |
+| Reprocessing — Phase 2 expansion (2,000 t/yr) | ~$12B | $5/MWh fuel-cycle surcharge (self-funding) |
+| Reprocessing — Phase 3 expansion (3,000 t/yr) | ~$10B | Surcharge |
+| Repository conversion (played-out mine) | ~$15B | General revenue, phased |
 | Engineered barriers | ~$7.1B | General revenue, phased |
-| 75 years water management | ~$6.4B | **Fuel-cycle recovery surcharge** (~$5/MWh on the access-fee model — ~$2.1B/year covers operations + water management) |
-| Stewardship Endowment | ~$0.6B | Accumulated from the surcharge during the operational phase (~$8M/year, compounding) |
-| **Total lifecycle** | **~$47B** | General revenue (capital) + $5/MWh surcharge (operations) |
+| 75 years water management | ~$6.4B | Surcharge |
+| Stewardship Endowment | ~$0.6B | Accumulated from the surcharge (~$8M/year, compounding) |
+| **Total lifecycle** | **~$69B** | **General revenue ~$40B (Phase 1 + repository) · Surcharge ~$29B (Phases 2–3 + operations)** |
 
-The $5/MWh fuel-cycle surcharge is ~4% of the average electricity rate — passed through in the access-fee model as a separate line alongside the existing 155% maintenance recovery. Base electricity rates are unaffected; the surcharge is visible, named, and understood.
+**The $5/MWh fuel-cycle surcharge scales with the grid:**
+
+| Grid size | Surcharge revenue | Covers |
+|---|---:|---|
+| 56 GW (founding) | ~$1.2B/yr | Phase 1 operating costs |
+| 110 GW (~2050) | ~$3.5B/yr | Operating + Phase 2 expansion capital |
+| 150 GW (~2075) | ~$6.6B/yr | Full operating + Phase 3 + surplus |
+
+General revenue funds only Phase 1 capital and the repository. After that, the fuel cycle pays for itself — more reactors produce more surcharge revenue to fund the expansion that handles their waste. The surcharge is ~4% of the average electricity rate, passed through as a named line in the access-fee model. Base rates are unaffected.
 
 ### 4A.6 Legislation — Five Entrenched Provisions
 
