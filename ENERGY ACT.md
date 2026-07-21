@@ -1,6 +1,6 @@
 # New Crossroads Energy Act of 2025: Draft 4.4
 
-**Draft:** 4.4 | **Date:** July 18, 2026
+**Draft:** 4.4 | **Date:** July 20, 2026
 **Author:** Thunderfish2
 
 ---
@@ -180,6 +180,201 @@ Utilities pay the NEB for access to state-owned transmission and distribution li
 | Transformer reserve (5,000+) | $5B | General revenue |
 | AI-driven grid sensors | $500M | General revenue (R&D line) |
 | **Total grid hardening** | **~$200B** | **General revenue (Sovereign Functions §7.3)** |
+
+---
+
+## Section 4A: Nuclear Fuel Cycle — Reprocessing, Repository, and Stewardship
+
+*Cross-reference: Military Act §8 (Nuclear Directorate), Sovereign Functions Act §7.3 (sovereign obligations), Regions Act §4 (community facility pattern).*
+
+### 4A.1 The Circular Fuel Cycle
+
+New Crossroads operates 56 GW of civilian SMRs and 24 nuclear submarine reactors, all fuelled by domestically mined Frostpeak uranium. The fuel cycle is **circular, not linear** — spent fuel is reprocessed to recover ~96% of its material as reusable fuel, with only ~4% of the original volume going to permanent storage.
+
+| Stage | What happens | Output |
+|---|---|---|
+| **Mining** | Uranium ore extracted from the Frostpeak | Yellowcake |
+| **Enrichment** | Low-enriched (civilian, <5%) and highly enriched (naval, >90%) — Military Act §8.1 hard wall | Fuel-grade uranium |
+| **Fabrication** | Fuel rods (civilian) and reactor cores (naval) assembled | Ready fuel |
+| **Burn** | 3–5 years in a reactor (civilian) or 10+ years (naval) | Spent fuel |
+| **Reprocessing** | ~95% uranium + ~1% plutonium recovered; vitrified into MOX fuel | Reusable fuel + 4% high-level waste |
+| **Re-burn** | MOX fuel returns to the reactor (3–4 reprocessing cycles possible) | Spent MOX |
+| **Repository** | The 4% that cannot be recycled — vitrified in borosilicate glass, copper-overpacked, emplaced in the geological repository | Permanent storage |
+
+**Benefits:** less uranium mining needed (extends the Frostpeak's life by decades), 25× less waste volume to store, fuel security even if mines deplete, and recovery of naval reactor core material reducing enrichment workload.
+
+### 4A.2 The Reprocessing Facility
+
+A single national reprocessing plant, sited in the Frostpeak near the enrichment complex (Military Act §8.2), processing ~800–1,000 tonnes of spent fuel per year. Operated as a co-op under NEB oversight (civilian fuel) and Nuclear Directorate oversight (naval fuel), with the Military Act §8.1 hard wall applying to any weapons-grade material recovery.
+
+| | |
+|---|---|
+| Capacity | ~800–1,000 tonnes/year |
+| Construction cost | ~$18B (general revenue, phased over 15 years) |
+| Operating cost | ~$1.8B/year |
+| Technology | Adapted from the French PUREX process — aqueous separation of uranium, plutonium, and fission products |
+
+### 4A.3 The Geological Repository — a Played-Out Frostpeak Mine
+
+When a Frostpeak uranium mine exhausts its ore body, it becomes the nation's permanent high-level waste repository. The mine's existing tunnels, known geology, ventilation infrastructure, and experienced workforce convert from extraction to storage.
+
+**Why a played-out mine:**
+- Deep underground tunnels already excavated — the most expensive part of a repository
+- 20–30 years of geological data from mining operations — known rock, water table, fault lines, seismic profile
+- Existing infrastructure — ventilation shafts, access tunnels, rail connections, power supply
+- A workforce that knows underground operations — the mining co-op's members become the repository operators
+- A community that needs a new economic purpose — 500+ years of employment replacing a depleted mine
+
+| | |
+|---|---|
+| Conversion cost | ~$15B (vs ~$25–30B greenfield — the mine saves ~$10–15B) |
+| Engineered barriers | ~$7.1B — copper/steel overpacks (~10,000 packages), bentonite clay backfill, tunnel sealing, drainage galleries, redundant pump systems, groundwater diversion tunnels |
+| Operational phase | 50–75 years (while waste is being loaded) |
+| Post-closure | Passive — the barriers contain without active intervention |
+
+### 4A.4 Water Management — the Critical Engineering
+
+Every deep mine pumps water continuously. When pumping stops, the mine floods within months. A repository full of spent nuclear fuel requires controlled water management for the entire operational phase.
+
+**Operational phase (50–75 years):**
+
+| System | Cost | Function |
+|---|---|---|
+| Active pumping (24/7, triple-redundant) | ~$50M/year | Keep the repository dry while waste is being loaded and barriers installed |
+| Hydrological and seismic monitoring | ~$20M/year | Track groundwater movement, detect rock shifts, verify barrier integrity |
+| Ventilation and atmosphere management | ~$15M/year | Remove heat, radon, and humidity from the tunnels |
+| **Total water/safety management** | **~$85M/year** | **~$6.4B over 75 years** |
+
+**Post-closure design — safe wet:**
+
+The repository is **engineered to be safe when wet.** The barriers assume groundwater will eventually reach the waste packages and are designed to contain at geological timescales:
+
+| Barrier | Function |
+|---|---|
+| **Borosilicate glass matrix** | Waste is vitrified — fused into glass. Dissolves at ~0.001 mm/year in groundwater. A 10 cm glass block lasts 100,000 years |
+| **Copper overpack** | Each waste package is sealed in a thick copper canister. Copper corrodes at ~1 μm/year in anaerobic groundwater. A 5 cm wall lasts 50,000+ years |
+| **Bentonite clay backfill** | Surrounds every package. Swells when wet — self-sealing. Water moves through bentonite at millimetres per century |
+| **Host rock** | The Frostpeak's crystalline rock — fractured but deep. Groundwater diversion tunnels redirect major flow paths away from the repository |
+
+By the time water reaches the waste through all four barriers, the most dangerous short-lived isotopes (Cs-137, Sr-90) have decayed. The long-lived isotopes (Pu-239, Am-241) are locked in the glass matrix and release at rates too slow to affect the water table.
+
+### 4A.5 Funding
+
+| Item | Cost | Source |
+|---|---:|---|
+| Reprocessing facility | ~$18B | General revenue (Sovereign Functions §7.3), phased over 15 years (~$1.2B/year) |
+| Repository conversion | ~$15B | General revenue, phased |
+| Engineered barriers | ~$7.1B | General revenue, phased |
+| 75 years water management | ~$6.4B | **Fuel-cycle recovery surcharge** (~$5/MWh on the access-fee model — ~$2.1B/year covers operations + water management) |
+| Stewardship Endowment | ~$0.6B | Accumulated from the surcharge during the operational phase (~$8M/year, compounding) |
+| **Total lifecycle** | **~$47B** | General revenue (capital) + $5/MWh surcharge (operations) |
+
+The $5/MWh fuel-cycle surcharge is ~4% of the average electricity rate — passed through in the access-fee model as a separate line alongside the existing 155% maintenance recovery. Base electricity rates are unaffected; the surcharge is visible, named, and understood.
+
+### 4A.6 Legislation — Five Entrenched Provisions
+
+**1. Anti-abandonment.** No organ of the state, at any level, may abandon, defund, or cease active management of a nuclear waste repository during its operational phase. The pumping, monitoring, and ventilation systems shall operate continuously. Repository maintenance is a **sovereign obligation** equal in priority to the military and the judiciary (Sovereign Functions §7.3).
+
+**2. The Stewardship Endowment.** A dedicated perpetual fund — not the SWF, not the MMF — funded from the $5/MWh fuel-cycle surcharge during the operational phase. Purpose: post-closure monitoring in perpetuity (~$30M/year from ~$600M at 5% real return). The endowment is **entrenched** — it cannot be raided, redirected, or borrowed against. Same pattern as the Defense Fund, but for geological timescales.
+
+**3. Closure protocol.** Repository closure requires: all waste packages emplaced and verified; all engineered barriers installed and tested; the Stewardship Endowment at or above its funded level; a 10-year pre-closure monitoring period confirming barrier performance; and **Territorial Chamber ratification at 15/20.** The host community has a voice — through its Regional Board — on when the active phase ends.
+
+**4. Perpetual land restriction.** The surface above the repository and a buffer zone around it are permanently restricted — no drilling, no mining, no construction, no deep tilling. Marked with durable surface monuments and subsurface markers. Recorded in the national land registry in perpetuity. The Parks Act's conservation-easement model applies to the buffer zone.
+
+**5. Knowledge preservation.** The repository's location, contents, and hazards are recorded in multiple formats designed to survive institutional collapse: physical markers in durable materials (granite, ceramic), multilingual warnings, geological survey records in the national archive, and a dedicated entry in the AM emergency broadcast system's permanent data store (Communications Act §3.2). The knowledge must outlast the institution that created it.
+
+### 4A.7 The Nuclear Stewardship Consortium
+
+The repository and reprocessing facility are operated by a **consortium of all Frostpeak uranium mining enterprises** — co-op and corporate alike. Membership is mandatory for any enterprise holding a uranium mining charter. The consortium is the contract vehicle; the sovereign is the client.
+
+| Element | Detail |
+|---|---|
+| **Workforce at the facility** | ~3,000–4,000 at any time, drawn from a trained roster of ~8,000–10,000 across all member co-ops |
+| **Revenue split** | Proportional to workforce contributed. Rebalanced annually |
+| **Crew rotation** | Every member rotates personnel through the facility — no single enterprise holds all the institutional knowledge |
+| **Governance** | Member-elected board, Productive Chamber oversight, Special Auditor enforcement — same pattern as the CCIF Alliance Network (FCL Act §3.8.7) |
+| **Survivor clause** | If a member co-op dissolves, the remaining members inherit its share and its trained personnel are offered positions. The facility never loses its operator |
+| **Transition cushion** | As a mine depletes, its consortium revenue share partially replaces lost mining income while its workforce transitions — to the repository, to other Frostpeak mining (gold, silver, copper, coal), or to other sectors |
+
+The consortium is a **contract vehicle and a competence pool**, not an employer-of-last-resort. The facility needs 3,000–4,000 workers, not 12,000. But distributing the expertise across all members means the 500-year sovereign obligation never depends on the survival of any single enterprise.
+
+> **The mining co-op that spent 30 years extracting uranium from the Frostpeak spends the next 300 years putting the waste back into it. Same rock, same people, different direction.** The community that was going to lose its economic base when the ore ran out gets 500 years of employment instead — and the fund that pays for it outlasts them all.
+
+---
+
+### 4.4 Nuclear Fuel Recycling and Geological Repository
+
+**The circular fuel cycle.** New Crossroads operates 56 GW of civilian SMRs and 24 nuclear submarine reactors, all fuelled by domestically mined Frostpeak uranium. Spent fuel is not waste — it is a resource. A reprocessing facility recovers ~96% of the material for reuse, and only the ~4% of genuinely irreducible high-level waste goes underground.
+
+**Reprocessing facility** (co-located with the Nuclear Directorate, Military Act §8):
+
+| Function | Output |
+|---|---|
+| Spent fuel disassembly and dissolution | Separates reusable material from waste |
+| Uranium recovery (~95% of spent fuel) | Re-enrichable for new SMR fuel rods — extends the Frostpeak's uranium life by decades |
+| Plutonium recovery (~1%) | Mixed with uranium to produce MOX fuel — a second fuel cycle from the same ore |
+| Vitrification of high-level waste (~4%) | Immobilised in borosilicate glass for repository emplacement |
+| Naval reactor core reprocessing | Recovers weapons-grade material, reducing the Naval enrichment plant's workload (Military Act §8, hard wall applies) |
+
+The fuel cycle becomes circular: Mine → Enrich → Fabricate → Burn → Reprocess → Re-enrich → Re-fabricate → Burn again (3–4 cycles) → Repository (4% waste only).
+
+**Geological repository** — a played-out Frostpeak mine:
+
+A mine that has exhausted its ore body is converted to a deep geological repository. The existing tunnels, known geology (20–30 years of data), ventilation, rail connections, and experienced underground workforce reduce construction costs by ~$15B compared to a greenfield facility. The mining co-op that spent decades extracting uranium from the rock spends the next centuries putting the waste back into it.
+
+**Engineered barriers (designed to be safe wet):**
+
+| Layer | Function |
+|---|---|
+| **Vitrified glass waste form** | Immobilises radionuclides in borosilicate glass — stable for 100,000+ years even in groundwater |
+| **Copper/steel overpack** (~10,000 packages) | Corrosion-resistant containment around each waste form |
+| **Bentonite clay backfill** | Surrounds every package — swells when wet, sealing cracks and gaps. Water moves at millimetres per century |
+| **Host rock** | The Frostpeak's crystalline rock, supplemented by groundwater diversion tunnels and drainage galleries |
+
+The repository assumes eventual groundwater contact. The barriers slow water to geological timescales — by the time it reaches the waste, the most dangerous isotopes have decayed.
+
+**Water management during operations (50–75 years):**
+
+| System | ~Annual cost |
+|---|---:|
+| Active pumping (24/7, triple-redundant) | ~$50M |
+| Monitoring (seismic, hydrological, thermal) | ~$20M |
+| Ventilation & atmosphere management | ~$15M |
+| **Total** | **~$85M/year** |
+
+**Lifecycle cost:**
+
+| Component | Cost | Funded by |
+|---|---:|---|
+| Reprocessing facility | ~$18B | General revenue, phased over 15 years |
+| Repository (mine conversion) | ~$15B | General revenue, phased |
+| Engineered barriers | ~$7B | General revenue |
+| 75 years of water management | ~$6.4B | $5/MWh fuel-cycle recovery surcharge on access fees |
+| Stewardship Endowment | ~$0.6B (accumulated) | Surcharge set-aside during operations |
+| **Total lifecycle** | **~$47B** | **Capital: general revenue. Operations: surcharge** |
+
+**The $5/MWh fuel-cycle recovery surcharge** is added to the existing access-fee model as a named line. At 400 TWh/year of generation, it raises ~$2B/year — covering operating costs and building the Stewardship Endowment. Base electricity rates remain anchored to the 155% maintenance-recovery model; the surcharge is transparent and separate.
+
+### 4.5 Repository Legislation — the Five Provisions
+
+**1. Anti-abandonment.** The repository is a **sovereign obligation equal in priority to the military and the judiciary** (Sovereign Functions Act §7.3). No organ of the state, at any level, may abandon, defund, or cease active management during the operational phase. The pumping, monitoring, and ventilation systems operate continuously. Failure to maintain them is a constitutional breach, investigable by the Special Auditors.
+
+**2. Stewardship Endowment.** A dedicated perpetual fund — not the SWF, not the MMF — funded from the fuel-cycle surcharge during operations. Target: ~$600M at 5% real return = ~$30M/year for post-closure monitoring in perpetuity. The endowment is **entrenched**: it cannot be raided, redirected, or borrowed against. Same pattern as the Defense Fund (Military Act §9) — principal locked, returns drawable for monitoring only.
+
+**3. Closure Protocol.** Repository closure requires:
+- All waste packages emplaced and barrier performance verified
+- Stewardship Endowment at or above the funded level (~$600M)
+- A **10-year pre-closure monitoring period** confirming barrier integrity
+- **Territorial Chamber ratification (15/20 Regional Boards)** — the host community has a voice through its Regional Board on when the active phase ends
+
+**4. Perpetual Land Restriction.** The surface above the repository and a buffer zone around it are permanently restricted — no drilling, no mining, no construction, no deep-tilling. Marked with durable surface monuments and subsurface markers. Recorded in the national land registry in perpetuity. The Parks Act's conservation-easement model applies to the buffer zone.
+
+**5. Knowledge Preservation.** The repository's location, contents, depth, and hazards are recorded in:
+- Physical markers in durable materials (granite, ceramic) at the surface
+- Multilingual warnings in the six most-spoken world languages
+- Geological survey records in the national archive (multiple formats)
+- A dedicated section of the AM emergency broadcast system's permanent data store (Communications Act)
+- Designed to survive institutional collapse — the markers communicate the danger even if the state that built them does not exist
 
 ---
 
