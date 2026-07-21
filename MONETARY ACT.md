@@ -2,8 +2,6 @@
 
 ---
 
-**Cross-reference.** Companion to the **Sovereign Functions Act** (the four sovereign functions — defense, the Special Auditors, the judiciary, the SWF; the four executive bureaus — Treasury, Foreign Affairs Bureau, National Lands & Commons Bureau, Transport Bureau), the **Chamber Act** (the Territorial Chamber / Regional Boards, the Co-op and Corporate Chambers, the universal citizen vote, the oversight committees §6.7, the independent board registry §7, the entrenched floors §11, and the protected guarantees §12), the Credit Union Act 5.7, the Exchange Act 1.5, the FCL Act 3.3, the Municipal & Regional Funding Act, the Industry Act, and the remaining sector acts.
-
 **Note on figures.** All amounts derive from the companion **Consolidated Fiscal Model**, which holds two real columns — 2025 and 2075 — and from which every figure in this act is transcribed rather than restated. The design is in the structure and ratios, not the precise values. Where a figure awaits a decision it is marked **[TBD]** rather than estimated.
 
 **Author's note on the PPK/CED architecture.** This act treats the Professional Passport Key (PPK, identity) and Centralized Economic Database (CED, economy) as operational from inception — the founding data architecture of the state, not a later migration. In reality, issuing 112M hardware keys and standing up geo-replicated economic infrastructure would take years; the act assumes this build as complete for the sake of presenting the end-state design coherently. There is no Crossroads Workforce Database (CWD); the PPK/CED split is the system.
