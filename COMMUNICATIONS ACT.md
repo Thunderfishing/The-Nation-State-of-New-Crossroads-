@@ -1,6 +1,6 @@
-# New Crossroads Utilities Act of 2025: Draft 1.4
+# Crossroads Communications and Media Infrastructure Act of 2025: Draft 4.4
 
-**Draft:** 1.5 | **Date:** July 18, 2026
+**Draft:** 4.4 | **Date:** July 12, 2026
 **Author:** Thunderfish2
 
 ---
@@ -11,345 +11,318 @@
 
 ## Purpose
 
-Establishes a competitive utilities market built on **state-owned transmission and distribution infrastructure**, following the asset/operator separation model of the cooperative rail system. The state **owns** the physical grid (poles, wires, substations, transformers); **maintenance and upgrades are contracted out** to co-ops under performance concessions; and **licensed utilities — primarily co-ops** — compete to generate and sell electricity, paying transmission access fees for use of the state grid.
+Establishes a competitive communications and media market built on **state-owned and co-op-owned infrastructure** (buried fiber, broadcast towers, mesh nodes), following the asset/operator separation model of the rail system and utilities framework.
 
-This model prevents natural-monopoly capture, centralizes CME hardening, generates steady SWF revenue, lets co-ops enter the market without billions in capital — and, with the anti-rot architecture, guarantees the grid is continuously renewed and improved rather than built once and neglected.
+The state owns and maintains the physical infrastructure (buried fiber, broadcast towers, EMP-hardened emergency AM transmitters). Licensed service providers — primarily co-ops, but also corporations — compete to offer internet, phone, and media services, paying **infrastructure access fees** for use of state assets.
+
+This model prevents monopoly capture, centralizes CME hardening, generates steady SWF revenue, and lets co-ops enter the market without billions in capital. It also establishes co-op media preference, a 33% local-content mandate, AM-radio resilience (EMP-hardened, in all vehicles by 2035), and a net-neutral mesh network with open access — a co-op-dominant media landscape through incentives, not quotas. The AM radio network, rather than sitting idle in peacetime, is licensed out to enterprises wanting to start radio stations — particularly talk radio, where robust political and social commentary ("shit talk") is explicitly encouraged as part of a free and lively public sphere.
 
 ---
 
 ## Section 0: Interdependencies
 
-- **Energy Act 4.4:** provides the physical grid — 30,000 km buried high-voltage transmission, 150,000 km buried distribution, 750 EMP-shielded substations, a strategic transformer reserve (5,000+ by 2075) — and the 20 antifragile SMR hubs (one per region) as anchor loads and islanding points.
-- **Infrastructure Act 2.7:** the asset/operator separation model is directly replicated; transmission access fees follow the freeway-toll logic (155% recovery over asset life); DCALS applies to utility infrastructure near elevated freeways.
-- **Monetary Act 9.8:** transmission access fees paid in BWC, flow (in part) to the SWF; co-op utilities pay the 5% co-op profit tax on generation profits; no binding quotas.
-- **Credit Union Act 5.8:** co-op utilities access reference-rate-anchored loans and micro-loans (community solar); embedded CLS officers.
-- **FCL Act 3.4:** utility co-ops structured as FCLs; CCIF (voluntary) funds expansion.
-- **Sovereign Functions Act:** the NEB is an independent board; Special Auditors (§3) enforce the anti-rot guarantees.
-- **Chamber Act:** Regional Boards (§3) handle retail oversight; the NEB is chartered under the independent board registry (§7).
+- **Energy Act 4.4:** provides the grid (400 TWh → 1,633 TWh by 2075) and CME hardening (buried lines, EMP-shielded substations); antifragile SMR hubs ensure 99.9% uptime for broadcast and mesh nodes.
+- **Utilities Act 1.3:** the asset/operator separation model (state owns power lines, utilities sell power) is replicated (state owns fiber and towers, ISPs and media companies compete).
+- **Infrastructure Act 2.6:** buried fiber follows the same CME-proof specs as buried transmission lines; rail, ports, and airports distribute communications equipment.
+- **Monetary Act 9.8:** access fees paid in BWC, flow to SWF, subject to standard BWC transaction fees; co-op media pays the 5% co-op profit tax (over $100,000); no binding sector quotas. Loans are reference-rate-anchored (Monetary §1.5A).
+- **Credit Union Act 5.8:** media co-ops access reference-rate-anchored loans ($50,000–$5M) for studios, transmitters, and mesh nodes; micro-loans ($500, 4% nominal) for community-radio startups.
+- **FCL Act 3.4:** media co-ops operate as Tier 2/3 FCLs under the progressive waterfall; co-op clubs support local content; CCIF (voluntary) may fund expansion.
+- **Sovereign Functions Act:** the NCB is chartered under the independent board registry (Chamber Act §7); Special Auditors (§3) enforce compliance.
+- **Chamber Act:** Regional Boards (§3) oversee regional media matters; independent board registry (§7).
 
 ---
 
 ## Section 1: Core Principles
 
-### 1.1 Asset/Operator Separation
+### 1.1 Asset/Operator Separation (Same Pattern as Rail and Utilities)
 
 | Sector | Asset Owner | Operator | Access Fee |
 | :--- | :--- | :--- | :--- |
 | Rail | State (70%) + Co-op (30%) | Train companies | No tolls (cooperative maintains) |
-| Freeways | State | Any vehicle | Toll (\$0.10/km, 155% of annual maintenance) |
-| Electricity Transmission | State (100%) | Utilities pay access fees; **maintained by co-op concession (§1.4)** | \$/MWh transmitted |
-| Electricity Distribution | State (100%) | Utilities pay access fees; **maintained by co-op concession (§1.4)** | \$/MWh delivered |
-| Electricity Generation | Co-op or Corporate | Utility (generator) | No fee (competitive) |
-| Electricity Retail | Co-op or Corporate | Utility (retailer) | No fee (competitive) |
+| Electricity | State (100%) | Utilities (co-ops/corps) | $/MWh transmission fee |
+| Communications Infrastructure | State (70%) + Co-op (30%) | ISPs, broadcasters, media | $/Mbps access fee |
+| Broadcast Towers | State (100%) | Radio/TV stations | Annual tower lease |
+| Mesh Network Nodes | State + Co-op (shared) | Any licensed provider | Per-node access fee |
+| Fiber Backbone | State (100%) | Any licensed ISP | $/km access fee |
 
-*Rationale:* the state is good at owning and hardening long-lived infrastructure but bad at running customer-facing utilities — and, left to its own devices, bad at *maintaining and reinvesting* in what it owns. Co-ops are good at competing for customers and at delivering against a contract. Separation gives each what it does best, and §1.4/§2.4 fix the state's chronic weakness at upkeep.
+*Rationale:* the state is good at building and hardening long-lived infrastructure but bad at running customer-facing ISPs and media; co-ops and corporations are good at competing for customers and creating content. Separation gives each what it does best.
 
-### 1.2 What the State Owns (per Energy Act 4.4)
+### 1.2 What the State Owns
 
-| Asset | 2025 | 2075 | Owner | Maintained by |
+| Asset | 2025 | 2075 | Owner | Maintainer |
 | :--- | :--- | :--- | :--- | :--- |
-| High-voltage transmission lines (>100kV) | 20,000 km | 30,000 km | State (NEB) | Co-op concession (§1.4) |
-| Medium-voltage distribution lines (10–100kV) | 100,000 km | 150,000 km | State (Regional Boards) | Co-op concession (§1.4) |
-| EMP-shielded substations | 500 | 750 | State (NEB) | Co-op concession (§1.4) |
-| Strategic transformer reserve | 1,000 | 5,000+ | State (NEB) | Co-op concession (§1.4) |
-| Antifragile energy hub SMRs | 18 GW | 56 GW (20 hubs) | State (operated by NEB) | NEB + concession |
+| Buried fiber backbone (CME-hardened) | 50,000 km | 150,000 km | State (NCB + Regional Boards) | NCB |
+| Broadcast towers (AM/FM/TV) | 5,000 | 5,000 | State (Regional Boards) | Regional Boards |
+| Mesh backbone nodes | 50,000 | 100,000 | State + Co-op (50/50) | Shared |
+| Emergency AM transmitters (EMP-hardened) | 2,000 | 2,000 | State (NCB) | NCB |
+| Satellite uplink facilities | 5 | 10 | State (NCB) | NCB |
 
-Capital is funded by the SWF per the Energy Act. The NEB **owns and sets standards**; it does not perform hands-on maintenance — that is contracted out (§1.4).
+Funded by **general revenue (~$15B, one-time buildout)** and maintained by the NCB and Regional Boards, following grid-hardening in the Energy Act.
 
-### 1.3 What Utilities Own and Operate
+### 1.3 What Service Providers Own and Operate
 
 | Asset | Owner | License | Notes |
 | :--- | :--- | :--- | :--- |
-| Generation plants (SMR, geothermal, solar, wind, hydro, WTE) | Co-op or Corporate | Yes (NEB) | Competitive |
-| Battery storage | Co-op or Corporate | Yes (NEB) | Competitive |
-| Customer meters & billing | Co-op or Corporate | Yes (NEB) | Competitive |
-| Retail brand & contracts | Co-op or Corporate | Yes (NEB) | Competitive |
+| Radio/TV stations (content) | Co-op or Corporate | Yes (Regional Board) | Co-op preference |
+| ISP customer equipment & billing | Co-op or Corporate | Yes | Competitive market |
+| Local mesh node extensions | Co-op or Corporate | Yes | Must connect to state backbone |
+| Content (news, entertainment) | Co-op or Corporate | No (protected speech) | 33% local-content mandate |
 
-**Co-op Preference:** generation licenses are issued preferentially to co-ops (first right of refusal). The 65% 2025 figure is a descriptive baseline, not a quota.
-
-### 1.4 Maintenance & Upgrades by Performance Concession (State Owns, Co-ops Maintain)
-
-The state owns the grid but **does not maintain it directly.** Maintenance, upkeep, and upgrades are **contracted out** under the following model — the first of the anti-rot guarantees (§2.4 is the second):
-
-- **Long-term performance concessions.** The NEB tenders **15–25 year maintenance concessions** for each asset class, awarded preferentially to co-ops (first right of refusal). The concessionaire is **not paid to "fix what breaks"** — it is **paid to keep the asset at or above a defined condition standard** (the **Asset Condition Index, ACI**) for the life of the contract.
-- **Skin in the game.** Payment is tied to *measured condition*, not activity. If the asset degrades below its ACI target, the concessionaire is **penalized** (payment withheld, penalties applied); chronic failure forfeits the concession, which is re-tendered. A long contract forces the concessionaire to internalize the long-term cost of cutting corners today — the incentive a government department structurally lacks.
-- **Hand-back condition.** At concession end, the asset must be returned at or above its ACI standard — so it can never be quietly run into the ground on someone else's future watch.
-- **Upgrades, not just patching.** Concessions include an **upgrade obligation** (and the funded R&D slice, §2.4) so the grid *improves* over the contract — higher capacity, better hardening, lower losses — rather than merely being held at its original spec.
+**Co-op Preference:** broadcast licenses are issued preferentially to co-ops (first right of refusal if requirements are met). Structural preference, not a quota; the 65% 2025 figure (3,250 of 5,000 radio, 1,300 of 2,000 TV) is a descriptive baseline.
 
 ---
 
-## Section 2: Transmission Access Fees & Asset Renewal
+## Section 2: Infrastructure Access Fees
 
-### 2.1 Fee Structure (Like Rail Track Access or Freeway Tolls)
+### 2.1 Fee Structure
 
-Utilities pay the NEB for access to state-owned transmission and distribution. Fees recover **155% of annual hardening and maintenance cost, annually** — 100% of upkeep plus a 55% margin that funds the Asset Renewal Fund, the SWF contribution, and the residential credit (§2.3). **Not 155% of construction: the grid's capital is general revenue** (Energy Act §1.2; Sovereign Functions Act §7.3).
+Providers pay the NCB or Regional Boards for access to state infrastructure. Fees recover **155% of annual hardening and maintenance costs, annually** (100% + 55%), matching the freeway-toll and transmission-fee models.
 
-
-| Voltage Level | Fee per MWh | 2025 revenue | 2075 revenue |
+| Asset | Fee | Annual revenue (2025) | (2075) |
 | :--- | :--- | :--- | :--- |
-| High-voltage (>100kV) | \$15/MWh | ~\$2.0B | ~\$8.2B |
-| Medium-voltage (10–100kV) | \$10/MWh | ~\$5.0B | ~\$16.3B |
-| Low-voltage (<10kV) | \$20/MWh | ~\$8.0B | ~\$24.5B |
-| **Total** | | **~\$15.0B** | **~\$49.0B** |
+| Buried fiber backbone | $/Mbps | ~$150M | ~$450M |
+| Broadcast tower lease | $10,000/tower/year | ~$20M | ~$20M |
+| Mesh node access | per-node | ~$10M | ~$20M |
+| Satellite uplink | $1M/facility/year | ~$5M | ~$10M |
+| **Total** | | **~$185M/year** | **~$500M/year** |
 
-*(Grid volume: 400 TWh in 2025 → 1,633 TWh by 2075.)*
+*(Fees are small relative to energy transmission because communications infrastructure is less capital-intensive — the value is in content and service competition, not access fees.)*
 
-### 2.2 Fee Adjustment Mechanism
-- Biennial NEB review (6/11), **ratified by the Territorial Chamber (11/20 Regional Boards)** — a transmission access fee is a **rate**, and rates are the first item on the Sovereign Functions Act §8.5 bar. The NEB is an independent sector board under chamber appointment (Chamber Act §7.1), not a sovereign organ.
+
+### 2.2 Fee Adjustment
+- Biennial NCB review (6/11), **ratified by the Territorial Chamber (11/20 Regional Boards)** — an access fee is a rate, and rates are barred to the sovereign (Sovereign Functions Act §8.5).
 - Annual inflation adjustment tied to the DLB.
-- CME surcharge: +\$2/MWh during CME recovery (max 90 days) to fund transformer deployment.
-- Co-op discount: co-op utilities pay 80% of the corporate rate.
+- CME surcharge: +20% during CME recovery (max 90 days) to fund emergency broadcast.
+- Co-op discount: co-op providers pay 80% of the corporate rate.
 
 ### 2.3 Revenue Allocation
 
-| Allocation | 2025 (\$B) | 2075 (\$B) | Notes |
-| :--- | :--- | :--- | :--- |
-| **Asset Renewal Fund** (ring-fenced: maintenance + reinvestment + R&D) | 7.5 | 24.5 | 50% of revenue — locked (§2.4) |
-| SWF (per Monetary Act 9.8) | 4.5 | 14.7 | 30% of revenue |
-| Residential electricity bill credit (direct to citizens) | 3.0 | 9.8 | 20% of revenue |
-| **Total** | **15.0** | **49.0** | |
-
-The residential credit is distributed equally to all citizens (50/50 cash/BWC, no surveillance), matching SWF dividend mechanics.
-
-### 2.4 The Asset Renewal Fund & Anti-Rot Guarantees
-
-*The problem this solves.* Governments everywhere build infrastructure and then let it decay — arenas, water systems, grids, roads — because **maintenance is invisible and unrewarded while new construction is a ribbon-cutting**, because **maintenance loses the annual budget fight every year until it becomes an emergency**, and because **no one's own equity is at risk** when a public asset rots. New Crossroads closes all three holes with four reinforcing mechanisms:
-
-1. **Ring-fenced, un-raidable Asset Renewal Fund (per asset class).** The 50%-of-revenue maintenance allocation (§2.3) does not go into general spending — it flows into a **dedicated Asset Renewal Fund for each asset class** (transmission, distribution, substations, transformers), collected from the very users of that asset. The fund **cannot be diverted** to general spending, new construction, or ribbon-cutting announcements. It is locked to the asset's renewal, like the SWF carve-outs and the Defense Fund — money with a constitutional purpose the annual budget can't touch. *This kills the "maintenance loses the budget fight" failure: the re-roofing money is already collected and already locked.*
-
-2. **Mandatory reinvestment + R&D floor.** Each asset class has a **defined Asset Condition Index (ACI)** and a **mandatory minimum** share of its Renewal Fund that **must** be spent each cycle on renewal and improvement (a floor, not a ceiling). Underspending the floor or letting the ACI fall below target is a **violation**, not a quiet deferral.
-
-3. **Special-Auditor enforcement (deferred maintenance becomes prosecutable).** The Special Auditors (Sovereign Functions Act §3, independent prosecutors) may investigate, on their own initiative, any board, concession, or official that **underspends the reinvestment floor or allows an asset to fall below its ACI** — and may subpoena, charge, and (with judicial ratification) freeze. *This supplies the accountability the rotting arenas never had: neglect is a chargeable failure, not an invisible line item.*
-
-4. **A standing R&D / upgrade slice.** A fixed portion of each Renewal Fund is **earmarked for R&D and upgrades** — not merely like-for-like replacement — funded the same way as maintenance so it never loses the annual budget fight. The NEB publishes a rolling **upgrade roadmap**; the fund guarantees the money to execute it. The grid gets *better* over fifty years (higher capacity, lower losses, better hardening), not just patched.
-
-> **The hockey-rink test.** A 1960s-style public arena, under this act, would be: collected-for by its users into a locked renewal fund; maintained by a co-op concession paid to keep it at a condition standard and penalized if it slips; audited by a prosecutor empowered to charge neglect; and upgraded by an R&D slice. It gets re-roofed on schedule, funded by its own users, with no politician able to raid the fund and no department able to quietly defer the work. The rot does not happen because every structural cause of it has been removed.
-
----
-
-## Section 3: Utility Licensing and Market Access
-
-### 3.1 License Categories
-
-| License Type | Duration | Fee | Issued by |
-| :--- | :--- | :--- | :--- |
-| Generation license | 20 years | \$10,000/year | NEB |
-| Retail license | 10 years | \$5,000/year | Regional Board |
-| Combined (gen + retail) | 20 years | \$12,000/year | NEB + Regional Board |
-
-Requirements: technical competence, financial stability, customer-service/billing standards, co-op preference.
-
-### 3.2 Co-op Preference in Licensing
-- License priority (first right of refusal) for new generation capacity and retail accounts.
-- If a qualified co-op applies, the license is granted before any corporate application.
-- If no qualified co-op applies within 90 days, a corporate applicant may be licensed.
-- Structural preference, not a quota; the 65% 2025 figure is descriptive.
-
-### 3.3 License Revocation
-- Failure to maintain service standards (outages >4 hours/year per customer average).
-- Fraud or billing violations (per CED audit).
-- Bankruptcy (license transfers to another utility automatically).
-
-### 3.4 Open Access for Small Generators (Net Metering)
-
-| Generator size | Access | Fee | Notes |
-| :--- | :--- | :--- | :--- |
-| <10 kW (residential solar) | Free | \$0 | Net metering, no transmission fee |
-| 10–100 kW (small business solar) | Reduced | 50% of standard | Simplified application |
-| 100 kW–1 MW (community solar) | Standard | 100% | Co-op preferred |
-| >1 MW (utility-scale) | Standard | 100% | Full license required |
-
-Mirrors the Informal Economy Guarantee: small-scale activity is friction-free and private; large-scale faces full scrutiny.
-
----
-
-## Section 4: Generation Market
-
-### 4.1 Allowed Generation Technologies (per Energy Act 4.4, 2075 projections)
-
-| Technology | 2075 Capacity | Typical Owner | Co-op preference |
-| :--- | :--- | :--- | :--- |
-| Nuclear (SMRs) | 150 GW | Co-op or State (hubs) | First right of refusal |
-| Geothermal standalone | 50 GW | Co-op | First right of refusal |
-| Geo-coal hybrid | 50 GW | Corporate | Not applicable |
-| Geo-WTE hybrid | 50 GW | Co-op or Corporate | First right of refusal |
-| Hydro | 75 GW | State or Co-op | First right of refusal |
-| Renewables (solar/wind) | 50 GW | Co-op | First right of refusal |
-| WTE standalone | 15 GW | Corporate | Not applicable |
-| **Total** | **440 GW** | | Co-op preference (first right of refusal) |
-
-### 4.2 Power Purchase Agreements (PPAs)
-- Utilities may sell to retail utilities, industrial customers, or direct to citizens.
-- Open market, except: residential price cap \$0.15/kWh (DLB-adjusted); low-income assistance — first 500 kWh/month at \$0.08/kWh (SWF-funded); CME emergency pricing fixed at \$0.10/kWh for up to 90 days.
-
-### 4.3 Grid Access Priority During Shortages (CME or peak)
-
-| Priority | User type | Notes |
+| Allocation | Share | Notes |
 | :--- | :--- | :--- |
-| 1 | Antifragile energy hubs (airports, hospitals, sewer plants) | Per Energy Act |
-| 2 | Co-op utilities serving residential customers | Co-op preference |
-| 3 | Corporate utilities serving residential customers | |
-| 4 | Industrial customers | |
-| 5 | Export (non-essential) | Curtailed first |
+| Infrastructure maintenance and hardening | 50% | |
+| SWF (per Monetary 9.8, carved-out contribution) | 30% | |
+| Rural communications fund | 20% | subsidizes remote areas |
+
+The rural fund ensures 95% rural reach (26.6M of 28M rural citizens) by 2075, funding last-mile connections in remote areas.
 
 ---
 
-## Section 5: Retail Market
+## Section 3: AM Radio Resilience (Emergency Communications)
 
-### 5.1 Consumer Choice
-Every citizen and business may choose their retail provider from any licensed utility in their region. Default if no choice: regional co-op utility (residential/small business); competitive bidding (industrial).
+### 3.1 Mandate
+- AM radio required in all vehicles and devices by 2035; 95% rural reach by 2075.
+- EMP-hardened transmitters at 2,000 locations (100/region); backup power from antifragile SMR hubs (Energy Act).
 
-### 5.2 Retail Price Structure
+### 3.2 Infrastructure
 
-| Component | Paid to | Notes |
+| Component | 2025 | 2075 | Cost | Funded by |
+| :--- | :--- | :--- | :--- | :--- |
+| EMP-hardened AM transmitters | 2,000 | 2,000 | ~$2B | SWF |
+| Vehicle integration mandate | 112M | 130M | ~$5B | Manufacturers (phased) |
+| Buried lines to transmitters | 50,000 km | 50,000 km | ~$5B | SWF (Energy Act hardening) |
+| Backup SMR power (at hubs) | 18 GW | 36 GW | (in Energy Act) | Energy Act SWF |
+
+### 3.3 AM Radio Network — Licensed Out in Normal Times (New)
+
+*Rationale:* a nationwide AM transmitter network is expensive to maintain if it sits idle waiting for a CME. New Crossroads **licenses the AM radio network out to enterprises** in normal times — talk radio, music, news, local coverage — so the network is **live, maintained, and vibrant** when the emergency comes. The state retains **emergency override authority** on all frequencies (the network remains state-owned spectrum with public-safety priority).
+
+**Talk radio and "shit talk" are encouraged.** Because a free press requires room for robust, even rude, debate, the AM licensing regime explicitly encourages **talk radio of all political stripes** — including what might be called "shit talk" (heated, direct, unvarnished political and social commentary). This is protected speech under the Free Expression and Free Press floor (Chamber Act §11, Floor 6). No content-based licensing restrictions are permitted. Licenses are issued by the Regional Boards (co-op preference), with no prior restraint and no penalty for vigorous commentary.
+
+**Licensing structure:**
+- AM transmitters are **leased to licensed broadcasters** (co-op or corporate) at the standard tower-lease rate ($10,000/tower/year, with the 20% co-op discount).
+- In a CME or declared emergency, **state emergency broadcast overrides all commercial content** — the network becomes the emergency alert system within minutes (per §7.3).
+- The transmitters remain EMP-hardened and SMR-backed; the commercial licensee maintains the equipment (paid through their lease), keeping it in working order at no cost to the state.
+- **Net effect:** the emergency broadcast network is live, maintained, and ready — and in normal times, it is a lively, diverse, and opinionated public forum.
+
+### 3.4 CME Emergency Protocol
+
+| Event | Action | Timeline |
 | :--- | :--- | :--- |
-| Generation cost | Utility (generator) | Competitive |
-| Transmission access fee | NEB (state) | \$/MWh (§2) |
-| Retail margin | Utility (retailer) | Competitive, capped at 10% for residential |
+| CME detected | AM transmitters switch to SMR backup, override commercial content | 1 minute |
+| Grid disruption | AM radio becomes primary emergency broadcast | 5 minutes |
+| Rural signal loss | Deploy mobile AM transmitters (50/region) | 4 hours |
+| Full recovery | Restore normal operations, resume commercial leases | 72 hours (Energy Act CME protocol) |
 
-### 5.3 Consumer Protections
-- Bill transparency (generation, transmission, margin shown separately).
-- No disconnection for non-payment during CME (30 days).
-- Low-income assistance: automatic enrollment for citizens earning <\$20,000/year.
-- Informal access: cash payments at credit-union kiosks (no fee, no surveillance).
-
-### 5.4 Switching
-- Switch providers once per month at no cost; processed within 24 hours (CLS-managed database).
-- Asymmetric scrutiny: residential switching data is pseudonymized and aggregated (CED); industrial switching fully tracked.
+### 3.5 Funding
+- ~$10B SWF allocation ($500M/region) for hardening + vehicle integration; ~$5B from manufacturers (phased 2025–2035); operations funded by transmitter leases in normal times, ~$500M/year from SWF for the backbone/hardening.
 
 ---
 
-## Section 6: Co-op Utility Advantages
+## Section 4: Co-operative Media Ownership
+
+### 4.1 Ownership Preferences
+
+| Medium | Total stations | Co-op share (2025 baseline) | Notes |
+| :--- | :--- | :--- | :--- |
+| Radio | 5,000 | ~3,250 (65%, descriptive) | Co-op preference |
+| TV | 2,000 | ~1,300 (65%, descriptive) | Co-op preference |
+
+**Co-op Preference Rule:** co-op applicants receive priority if they meet all technical/content requirements; if no qualified co-op applies, a corporate applicant may be licensed. No binding quota.
+
+### 4.2 Investment Caps (2025 prices)
+- Radio: ~$3.75M/station (studio, transmitter, licensing).
+- TV: ~$10M/station (studio, transmitter, satellite uplink).
+
+### 4.3 Local Content Mandate
+- **33% local content** by airtime (excluding syndicated). Local = produced in-region, featuring regional artists, news, or topics. Annual Regional Board audit (10% of stations/year). Value ~$19.25B (2025) → ~$50B (2075).
+- *Reduced from 55% to 33% to reflect a lighter touch while still ensuring regional voices are heard.*
+
+### 4.4 Co-op Club Integration
+- 27,600 clubs (2025) → 30,000 (2075) produce local content; priority access to state broadcast facilities (50% discount on tower lease); club members (40M by 2075) vote in co-op media governance.
+
+### 4.5 Funding
+
+| Source | Amount | Notes |
+| :--- | :--- | :--- |
+| SWF loans | $5B ($250M/region) | 20-year terms, reference-rate-anchored |
+| Rural credits | $10B ($5B radio, $5B TV) | 0% interest for co-ops in remote regions |
+| Credit union loans | Standard | Reference-rate-anchored |
+
+All loans are reference-rate-anchored nominal rates per the Monetary Act (Monetary §1.5A). Media is not classed as healthcare/education/infrastructure, so co-op media loans use the standard nominal rate rather than the lower service-sector rate.
+
+---
+
+## Section 5: Mesh Network (Net-Neutral, Open Access)
+
+### 5.1 Network Architecture
+
+| Layer | Owner | Operator | Access |
+| :--- | :--- | :--- | :--- |
+| Backbone fiber (buried, CME-hardened) | State (100%) | NCB maintains | Any ISP pays access fee |
+| Mesh backbone nodes (50,000 → 100,000) | State + Co-op (50/50) | Shared maintenance | Any ISP pays per-node fee |
+| Last-mile connections | ISP (co-op or corp) | ISP | Competitive market |
+| Customer equipment | ISP or citizen | ISP or citizen | Competitive market |
+
+### 5.2 Net Neutrality Requirements
+- No throttling by node owners or backbone operators; no paid prioritization (all traffic equal); open access for any licensed ISP.
+- **Enforcement: CED audits**, fines up to $10M per violation. (Audits operate on pseudonymized operational data; no identity is held in the CED — identity lives only in the PPK.)
+
+### 5.3 Coverage Targets
+
+| Year | Rural reach | Digital users | Mesh nodes |
+| :--- | :--- | :--- | :--- |
+| 2025 | 90% (25.2M) | 59% (66M) | 50,000 |
+| 2035 | 95% (26.6M) | 66M | 75,000 |
+| 2050 | 95% (26.6M) | 66M | 90,000 |
+| 2075 | 95% (26.6M) | 66M | 100,000 |
+
+### 5.4 Funding
+
+| Component | Cost | Funded by |
+| :--- | :--- | :--- |
+| Backbone fiber (buried) | ~$5B | SWF (Energy Act hardening) |
+| Mesh nodes (50,000 → 100,000) | ~$20,000/node | SWF + CCIF |
+| Annual maintenance | ~$500M/year | Access fees + SWF |
+| Rural last-mile subsidies | ~$500M/year | Rural fund (20% of access fees) |
+
+---
+
+## Section 6: Co-op Advantages in Communications
 
 ### 6.1 Explicit Preferences
 
-| Preference | Co-op utility | Corporate utility |
+| Preference | Co-op | Corporate |
 | :--- | :--- | :--- |
-| Transmission access fee | 80% of rate | 100% |
-| Grid access priority | Tier 2 (after hubs) | Tier 3 |
-| License priority | First right of refusal | Apply only if no co-op qualified |
-| Maintenance concession priority (§1.4) | First right of refusal | Apply only if no co-op qualified |
+| Tower lease fee | 80% of rate | 100% |
+| Mesh node access fee | 80% of rate | 100% |
+| Broadcast license priority | First right of refusal | Apply only if no co-op qualified |
+| Rural credit access | 0% interest | 5–6% interest |
 | CCIF access | Full (voluntary) | Limited (Productive Chamber approval) |
-| CME recovery loans | 0% interest (first 30 days) | 5% interest |
+| CME emergency broadcast priority | Tier 1 (after state alerts) | Tier 2 |
 
-### 6.2 Financing for Co-op Utilities
+### 6.2 Financing for Co-op Media
 
-| Loan type | Amount | Term | Band | Illustrative | Source |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Community solar | \$500–\$50k | 5 years | **reference + 0.5%** | ~4% | Micro-loan (self-attested) — **subsidized below the commercial band** |
-| Generation plant (small) | \$50k–\$2M | 10 years | **reference + 2%** | ~5.5% | Credit Union — the standard commercial band |
-| Generation plant (large) | \$2M–\$50M | 20 years | **reference + 3%** | ~6.5% | CCIF |
-| SMR (Heavy Industry) | \$50M–\$2B | 30 years | **reference + 3.5%** | ~7% | CCIF + SWF |
+| Loan type | Amount | Term | Interest (reference-rate-anchored) | Source |
+| :--- | :--- | :--- | :--- | :--- |
+| Radio station startup | $500k | 10 years | Standard rate | Credit Union |
+| TV station startup | $5M | 15 years | Standard rate | Credit Union + CCIF |
+| Mesh node deployment | $100k | 5 years | Standard rate | Micro-loan (CLS) |
+| Rural media co-op | $1M | 20 years | 0% (rural credit) | SWF |
 
-All loans are bands around the reference rate (~3.5%, Monetary Act §1.5A) and reset when it is republished. Community/service-sector projects use the subsidized band.
+All loans are reference-rate-anchored nominal rates (Monetary §1.5A). Community-radio micro-loans serving healthcare, education, or emergency-communications functions qualify for the lower service-sector rate.
 
-> **Two defects, and the second was fatal to the lender.**
->
-> **1. The rates were hardcoded** — 5%, 4%, 3.5%, 4% — beneath a line stating all loans were reference-rate-anchored. A fixed number is not a band around a published rate: if the reference rate moves, 3.5% does not. The same defect ran through the Credit Union Act §4.2, the FCL Act §3.6, and the special-share step-down.
->
-> **2. The rates inverted with risk, and the inversion is not subtle.** A **\$2B SMR over 30 years** was priced at **3.5%** while a **\$50k solar panel over 10 years** paid **5%**. Term premium and credit risk both run the other way: the largest, longest, most concentrated exposure in the entire co-op economy was the cheapest money in the act. Nothing on earth prices like this. The bands above are monotonic — 4% → 5.5% → 6.5% → 7% — rising with size and term, which is the only direction they can rise.
->
-> **3. And it bankrupted the CCIF on every loan it made.** FCL Act §3.8.4 has the CCIF **paying its depositors 5–7%**. This act had it **lending at 3.5–4%** — a margin of **−1% to −3.5% on every advance.** That is the identical shape as the Credit Union Act's savings bug (5–6% paid against a 5.5% loan yield): an institution paying more for money than it earns on it, and making the difference up from nowhere. At **reference + 3% to + 3.5%** the CCIF lends at 6.5–7% against a 5–7% obligation and clears its cost of funds — which is what makes the 5–7% return in §3.8.4 something the pool can actually pay rather than something it promises.
+### 6.3 Example: Rural Radio Co-op Startup
 
-### 6.3 Example: Rural Electric Co-op Startup
-
-A Tier 2 FCL in Region 5 (Heartland Plains) builds a 10 MW solar farm serving 2,000 residential customers: forms a utility co-op (~\$1,000 member shares); obtains a generation license (co-op priority, \$10,000/year) and retail license (\$5,000/year); builds the 10 MW farm (~\$10M via CCIF loan, 4%, 20 years, reference-rate-anchored); connects to state distribution lines (\$0 — state owns lines — paying the \$10/MWh transmission access fee); signs up customers via credit-union kiosks (cash accepted). The co-op pays 80% of the standard transmission fee, has priority during shortages, and qualifies for the lower service-sector rate on community-solar micro-loans.
+A Tier 2 FCL in Region 3 (Frostpeak Mountains) starts a community radio station serving 50,000 rural citizens: forms a media co-op (member base shares); obtains a license with co-op priority (~$5,000/year); leases a state tower (~$10,000, at the 80% co-op rate); builds studio/transmitter (~$500,000 via 0% rural credit, 20 years); produces 33% local content (~$200,000/year via advertising + patronage); connects to the mesh backbone for simulcast. The co-op pays 20% less for tower and mesh access, qualifies for 0% rural credit, has license and emergency-broadcast priority.
 
 ---
 
-## Section 7: CME Resilience and Emergency Operations
+## Section 7: CME Resilience and Emergency Communications
 
-### 7.1 State Responsibilities (per Energy Act 4.4)
+### 7.1 State Responsibilities (per Energy Act)
 
 | Asset | CME hardening | Recovery role |
 | :--- | :--- | :--- |
-| Buried transmission lines | Already buried (GIC-resistant) | NEB inspects (via concession) |
-| Buried distribution lines | Already buried | NEB inspects (via concession) |
-| EMP-shielded substations | Faraday cages, GIC-blocking capacitors | Breakers reset |
-| Transformer reserve | Stored in EMP-shielded bunkers | Deployed within 48 hours |
-| Antifragile energy hub SMRs | Islanding capability | NEB operates hubs |
+| Buried fiber backbone | Already buried (GIC-resistant) | NCB inspects |
+| Broadcast towers | EMP-shielded transmitters | Regional Boards reset |
+| Mesh backbone nodes | Faraday-caged electronics | NCB + co-ops repair |
+| AM emergency transmitters | EMP-hardened, SMR backup | NCB operates |
 
-### 7.2 Utility Responsibilities During CME
+### 7.2 Broadcaster Responsibilities During CME
+- Switch to backup power, prioritize emergency alerts, suspend normal programming on direction. Compliance verified by **CED audit** (operational data, pseudonymized).
 
-| Responsibility | Timeline | Penalty for failure |
+### 7.3 Emergency Broadcast Hierarchy
+
+| Priority | Broadcaster | Role |
 | :--- | :--- | :--- |
-| Curtail non-essential load | Within 15 minutes | License suspension |
-| Island critical customers (hospitals, emergency services) | Within 1 hour | Fine (\$1M/hour) |
-| Report status to NEB | Within 2 hours | CED audit |
-| Restore residential service | Within 72 hours | Loss of co-op preference for 1 year |
-
-### 7.3 CME Recovery Funding
-- SWF emergency sub-fund (~\$50B, 3/20 EGA trigger); zero-interest utility loans (first 30 days, ~\$5B, repay within 1 year); CME surcharge (\$2/MWh, ~\$3B/year post-CME for 90 days).
+| 1 | State AM emergency transmitters | Official alerts, CME status (overrides commercial content) |
+| 2 | Co-op radio (rural) | Local instructions, shelter locations |
+| 3 | Co-op TV | Visual information, maps |
+| 4 | Corporate broadcasters | General info (after state all-clear) |
 
 ---
 
 ## Section 8: Governance
 
-### 8.1 National Energy Board (NEB) — Expanded Role
-Per the Energy Act, the NEB (11 members) sets transmission access-fee rates (6/11), issues generation/retail licenses, enforces co-op preference, **owns the grid and sets the Asset Condition Index, tenders and oversees the maintenance concessions (§1.4), and administers the Asset Renewal Fund (§2.4)**, manages CME response, and publishes an annual utility-performance and asset-condition report (transparent, CED).
+### 8.1 National Communications Board (NCB)
 
-### 8.2 Regional Boards — Retail Oversight
-Per the Chamber Act §3, 20 Regional Boards issue retail licenses (co-op preference), enforce consumer protections, manage low-income enrollment, and investigate complaints (informal complaints anonymous).
+The **National Communications Board (NCB)** — 11 members — sets access-fee rates (6/11), oversees the buried fiber backbone, the mesh network, and AM emergency transmitters, coordinates CME emergency broadcast response with the NEB, and publishes an annual communications infrastructure report.
 
-### 8.3 CLS Functions for Utilities
+- **Composition:** 6 regional representatives, 4 experts (drawn from the regional advisory layer, Chamber Act §8), 1 chairman.
+- **Appointment:** **nominated by the Territorial Chamber (Regional Boards, 11/20), confirmed by both Productive Chambers jointly** — the uniform rule for the seven sector boards (Chamber Act §7.1). **No sovereign role** (Sovereign Functions Act §8.5).
+- **Removal:** by the nominating and confirming bodies jointly, or on cause established by a Special-Auditor investigation.
+- **Voting:** 6/11 operational (fee rates, licences), 8/11 regulations. Fee rates are ratified by the Territorial Chamber (11/20) — never set by the board alone.
+- **Independence:** paired with its department but subordinate to none; disputes resolved through ad-hoc arbitration (Chamber Act §6.6).
+- **Coordination with the NEB, not subordination to it.** Comms infrastructure shares physical corridors with the grid — buried conduit, tower sites, CME hardening — so the two boards coordinate on the emergency-broadcast hierarchy (§7.3) and on shared hardening standards. Coordination is a duty; it is not a chain of command.
+
+
+### 8.2 Regional Boards — Media and ISP Oversight
+20 Regional Boards (11 members each) issue broadcast/ISP licenses (co-op preference), enforce the 33% local-content mandate, manage the rural communications fund, and investigate complaints (including anonymous informal-sector complaints). **Regional Media Assemblies (RMAs):** 100–200 members/region (50% media professionals with 5+ years, 30% journeymen, 20% citizens) nominate candidates for Regional Board media seats.
+
+### 8.3 CLS Functions for Communications
 
 | Loan type | Officers | Processing time |
 | :--- | :--- | :--- |
-| Generation plant (small) | 5,000 (250/region) | 48 hours |
-| Generation plant (large) | 2,000 (100/region) | 30 days (board approval) |
-| Community solar micro-loan | 10,000 (500/region) | 24 hours |
-| CME recovery loan | 2,000 (100/region) | 48 hours (emergency) |
+| Radio station (co-op) | 5,000 (250/region) | 48 hours |
+| TV station (co-op) | 2,000 (100/region) | 30 days (board approval) |
+| Community radio micro-loan | 10,000 (500/region) | 24 hours |
+| Mesh node deployment | 5,000 (250/region) | 48 hours |
 
-*(CLS officer counts demand-distributed per Credit Union Act §5.1. Loans reference-rate-anchored; no DAI floor.)*
+CLS agents receive specialized training at the CLS Academy (Regions 1, 6) in media finance, broadcast licensing, and CME emergency procedures. *(CLS officer counts here are demand-distributed per Credit Union Act §5.1.)*
 
-### 8.4 Asymmetric Scrutiny (per Monetary Act 9.8)
+### 8.4 Asymmetric Scrutiny (per Monetary Act §5)
 
 | Level | Transaction type | CED treatment (pseudonymized) | Reporting |
 | :--- | :--- | :--- | :--- |
-| Informal | Residential cash payments for electricity | Never collected | None |
-| Citizen | Residential BWC payments under \$10,000/year | No detail | None |
-| Middle | Residential BWC payments \$10k–\$100k/year | Aggregate totals only | Annual summary |
-| Elite | Utility corporate transactions above \$100k | Full pseudonymized detail | Quarterly audits |
-| Institutional | NEB grid operations, concessions, Renewal Fund | Full transparency | Public annual reports |
+| Informal | Cash payments for media subscriptions | Never collected | None |
+| Citizen | Residential BWC payments under $10,000/year | No detail | None |
+| Middle | Residential BWC payments $10k–$100k/year | Aggregate totals | Annual summary |
+| Elite | Media corporate transactions above $100k | Full pseudonymized detail | Quarterly audits |
+| Institutional | NCB communications infrastructure operations | Full transparency | Public annual reports |
+
+Cash payments for media services (newspapers, radio subscriptions, mesh internet) are accepted at credit-union kiosks with no fee and no surveillance (Monetary §1A). No media-consumption record is ever linked to identity except via the warranted Judicial Link Box (Sovereign Functions Act §4.2).
 
 ---
 
 ## Section 9: Implementation Timeline (2025–2075)
 
-### Phase 1: Foundation (2025–2035)
+**Phase 1: Foundation (2025–2035)** — declare fiber backbone state-owned; harden 50,000 km buried fiber (~$5B shared); mandate AM radio in vehicles (~$5B); deploy 50,000 mesh nodes (~$1B); issue first broadcast licenses (co-op preference); license AM transmitters to talk-radio operators; achieve 90% rural reach. Revenue by 2035: ~$150M/year.
 
-| Action | Timeline | Cost | Responsible |
-| :--- | :--- | :--- | :--- |
-| Declare transmission/distribution state-owned | 2025 | \$0 | Territorial Chamber |
-| Establish transmission access-fee structure | 2025 | \$5M | NEB |
-| **Establish Asset Renewal Fund + ACI + first maintenance concessions** | 2025–2027 | \$10M | NEB |
-| Issue first generation licenses (co-op priority) | 2026 | \$1M | NEB |
-| Launch retail competition in Regions 1, 2 (pilot) | 2027 | \$50M | Regional Boards |
-| Scale retail competition to all 20 regions | 2030 | \$200M | Regional Boards |
-| Implement low-income automatic enrollment | 2032 | \$100M | Treasury + Credit Unions |
+**Phase 2: Expansion (2035–2050)** — scale mesh to 75,000 nodes; 95% rural reach; AM radio in all vehicles.
 
-*Revenue by 2035: ~\$20B/year (transmission fees).*
+**Phase 3: Optimization (2050–2065)** — mesh to 90,000 nodes; fiber to ~120,000 km.
 
-### Phase 2: Expansion (2035–2050)
-
-| Action | Timeline | Cost | Responsible |
-| :--- | :--- | :--- | :--- |
-| Co-op generation expands through license priority | 2040 | \$50B (private) | Co-ops + CCIF |
-| Implement CME surcharge mechanism | 2040 | \$10M | NEB |
-| Launch community solar micro-loan program | 2042 | \$500M | CLS |
-| First concession re-tender cycle (condition-verified hand-back) | 2045+ | per fund | NEB |
-
-*Revenue by 2050: ~\$35B/year.*
-
-### Phase 3: Optimization (2050–2075)
-
-| Action | Timeline | Cost | Responsible |
-| :--- | :--- | :--- | :--- |
-| Full retail choice, all customers | 2055 | \$0 (built) | NEB |
-| Monthly switching for 100% of residential | 2060 | \$50M | NEB |
-| Achieve 1,633 TWh grid with competitive market | 2075 | Per Energy Act | NEB + utilities |
-
-*Revenue by 2075: ~\$49B/year.*
+**Phase 4: Completion (2065–2075)** — mesh to 100,000 nodes; fiber to 150,000 km; ~$220M/year access-fee revenue.
 
 ---
 
@@ -357,92 +330,80 @@ Per the Chamber Act §3, 20 Regional Boards issue retail licenses (co-op prefere
 
 | Metric | 2025 | 2075 |
 | :--- | :--- | :--- |
-| State-owned transmission lines | 20,000 km | 30,000 km |
-| State-owned distribution lines | 100,000 km | 150,000 km |
-| EMP-shielded substations | 500 | 750 |
-| Strategic transformer reserve | 1,000 | 5,000+ |
-| Transmission access fee revenue | ~\$15B/year | ~\$49B/year |
-| Asset Renewal Fund (ring-fenced) | ~\$7.5B/year | ~\$24.5B/year |
-| Maintenance model | Co-op performance concession (ACI-tied) | same |
-| Co-op preference (generation) | First right of refusal | First right of refusal |
-| Licensed utilities (generation) | ~200 | ~800 |
-| Licensed utilities (retail) | ~50 | ~200 |
-| Residential switching rate (annual) | 5% | 15% |
-| Low-income households on assistance | 22M (20%) | 26M (20%) |
-| Community solar micro-loans | 10,000/year | 100,000/year |
-| CME recovery time (target) | 72 hours | 48 hours |
-| Loan rates | **Bands around the reference rate (~3.5%)**: community solar +0.5% (~4%) · generation small +2% (~5.5%) · generation large +3% (~6.5%) · SMR +3.5% (~7%). **Monotonic with term and size** (§6.2) | same |
-| CCIF carry | Lends at reference +3% to +3.5% (~6.5–7%) against a 5–7% depositor obligation (FCL §3.8.4) — **positive** | same |
-| Grid capital | **General revenue** (~$200B, Sovereign Functions §7.3) — **not the SWF** (Monetary §2.1) | amortized |
-| NEB | Independent sector board — Territorial Chamber nominates, both Productive Chambers confirm (Chamber Act §7.1). **No sovereign role** | same |
+| Local content value | ~$19.25B | ~$50B |
+| Local content mandate | 33% | 33% |
+| Buildout (one-time, **general revenue** — not the SWF, §2.1) | ~$15B | amortized |
+| Buried fiber backbone | 50,000 km | 150,000 km |
+| Mesh network nodes | 50,000 | 100,000 |
+| AM emergency transmitters | 2,000 | 2,000 |
+| AM transmitter commercial leases | Licensed out (talk radio encouraged) | same |
+| Access fee revenue | ~**$185M/year** (155% of ~$119M annual maintenance) | ~**$500M/year** |
+| Co-op broadcast preference | First right of refusal | First right of refusal |
+| Loan rates | **service-sector band: reference + 0.5% to + 1.5%** (~4–5%). Reference rate ~3.5% (Monetary §1.5A) | same |
+| Fee allocation | 50% maintenance · 30% SWF · 20% rural fund (§2.3) | same |
+| NCB | Independent sector board — Territorial Chamber nominates, both Productive Chambers confirm (Chamber Act §7.1). **No sovereign role; not the NEB** | same |
 | Data architecture | PPK + CED (no CWD) | PPK + CED |
 
 ---
 
-## Appendix A: Comparison to Rail Model (Infrastructure Act 2.7)
+## Appendix A: Comparison to Rail Model (Infrastructure Act)
 
-| Feature | Rail | Electricity |
+| Feature | Rail | Communications |
 | :--- | :--- | :--- |
-| Asset owner | State (70%) + Co-op (30%) | State (100%) |
-| Maintained by | Cooperative | Co-op performance concession (§1.4) |
-| Operator | Train companies | Utilities (co-ops/corps) |
-| Access fee | No tolls | \$/MWh transmission fee |
-| Fee recovery target | Maintenance + surplus | **155% of annual hardening + maintenance, annually** |
+| Asset owner | State (70%) + Co-op (30%) | State (70%)+Co-op (30%) fiber; State (100%) towers |
+| Maintainer | Cooperative | NCB + Regional Boards |
+| Operator | Train companies | ISPs, broadcasters, media co-ops |
+| Access fee | No tolls | $/Mbps, $/tower/year, $/node/year |
+| Fee recovery target | 100% of maintenance | 155% of hardening + maintenance |
 | Co-op preference | 30% track ownership | License priority, 20% fee discount |
-| CME hardening | N/A | Buried lines, EMP shields, transformer reserve |
-| Renewal guarantee | Cooperative maintains | Ring-fenced Asset Renewal Fund (§2.4) |
+| CME hardening | N/A | Buried fiber, EMP-shielded transmitters |
+| Rural reach | 100% | 95% (mesh + AM) |
 
-## Appendix B: Comparison to Freeway Model (Infrastructure Act 2.7)
+## Appendix B: Comparison to Utilities Act
 
-| Feature | Freeways | Electricity |
+| Feature | Utilities | Communications |
 | :--- | :--- | :--- |
-| Asset owner | State | State |
-| Access fee | Toll | \$/MWh transmission fee |
-| Fee recovery target | **155% of annual maintenance** (Infrastructure §4.1 — the freeway does *not* recover construction from tolls; that reading gave a 326-year payback) | **155% of annual hardening + maintenance** |
-| Revenue use | Maintenance + SWF | Renewal Fund + SWF + residential credit |
-| Co-op discount | None | 20% on transmission fee |
-| CME hardening | N/A | Full hardening |
+| Asset owner | State (100%) | State (70%) + Co-op (30%) |
+| Asset type | Transmission lines, substations | Fiber, towers, mesh nodes |
+| Access fee | $/MWh | $/Mbps, $/tower, $/node |
+| Co-op discount | 20% on transmission | 20% on tower and node fees |
+| Co-op preference | descriptive generation baseline | License priority (first right of refusal) |
+| CME hardening | Buried lines, EMP shields | Buried fiber, EMP-shielded transmitters |
+| Consumer protection | Price caps, no disconnection | Net neutrality, local content mandate |
 
-## Appendix C: Sample Utility Rate Calculation (Residential, 2025)
+## Appendix C: Sample Media Co-op Financials (2025)
 
-**Standard utility customer (10 MWh/year):**
+**Community Radio Co-op (Region 3, Frostpeak Mountains)**
 
-| Component | Amount | Paid to |
-| :--- | :--- | :--- |
-| Generation (10 MWh at \$100/MWh) | \$1,000 | Utility (generator) |
-| Transmission access fee (10 MWh at \$15/MWh) | \$150 | NEB (state) |
-| Retail margin (10% of generation) | \$100 | Utility (retailer) |
-| **Total annual bill** | **\$1,250** | |
-| Less: residential credit (from fee revenue) | (\$30) | Direct to citizen |
-| **Net annual bill** | **\$1,220** (~\$102/month) | |
-
-**Co-op utility customer (20% transmission discount):**
-
-| Component | Amount |
-| :--- | :--- |
-| Generation | \$1,000 |
-| Transmission access fee (20% discount) | \$120 |
-| Retail margin | \$100 |
-| Total annual bill | \$1,220 |
-| Less: residential credit | (\$30) |
-| **Net annual bill** | **\$1,190** (~\$99/month) |
+| Revenue | Amount | | Expense | Amount |
+| :--- | :--- | :--- | :--- | :--- |
+| Advertising | ~$200,000 | | Tower lease (80% co-op rate) | ~$8,000 |
+| Listener donations (BWC) | ~$100,000 | | Studio/transmitter maintenance | ~$100,000 |
+| Patronage returns (FCL members) | ~$50,000 | | Staff (5 @ $40,000) | ~$200,000 |
+| Rural communications fund subsidy | ~$50,000 | | Content production | ~$50,000 |
+| | | | CLS loan repayment (reference-rate-anchored) | ~$20,000 |
+| **Total revenue** | **~$400,000** | | **Total expenses** | **~$378,000** |
 
 ---
 
 ## Design Philosophy (Informative)
 
-The Utilities Act takes the rail model — state owns the bones, co-ops run the service — and adds the piece that every public-infrastructure system in history has gotten wrong: **keeping the asset alive after the ribbon is cut.**
+The Communications Act applies the nation's signature pattern — the state owns the durable bones, the co-ops bring it to life — to the airwaves and the wires.
 
-- **The state owns, but does not neglect.** Governments build and then forget, because no minister is thanked for a re-roofing and no department loses its own money when an arena rots. So the state here owns the grid but hands its upkeep to a co-op paid to keep it in good shape and penalized when it slips — and locks the renewal money in a fund no budget can raid. The maintenance fight is won before it starts, because the money is already collected and already committed.
+- **The state builds what must endure; co-ops run what must compete.** Buried CME-hardened fiber, EMP-shielded towers, and emergency AM transmitters are state-owned and built to survive a solar storm. The ISPs and broadcasters that ride on them compete for customers, and co-ops get the first call and the cheaper rate.
 
-- **Decay becomes a crime, not a deferral.** An independent prosecutor can open the books of any board that lets the grid slide below standard. Neglect is no longer an invisible line item that disappears between elections — it is a chargeable failure.
+- **The AM network is alive, not waiting.** Rather than sit idle until the next CME, the AM transmitter network is licensed out to talk-radio operators, community stations, and broadcasters of all stripes. The state keeps emergency override; the public gets a lively, opinionated, and resilient public forum in normal times—and a hardened emergency network when it's needed.
 
-- **The asset improves, not just survives.** A funded R&D slice means the grid of 2075 is better than the grid of 2025 — more capacity, lower losses, harder against the next solar storm — not merely the same grid, patched.
+- **"Shit talk" is a feature, not a bug.** A free press requires room for robust, even rude, political and social commentary. The AM licensing regime explicitly encourages talk radio of all political stripes, with no content-based licensing restrictions and no prior restraint. This is protected speech under the Free Expression and Free Press floor (Chamber Act §11, Floor 6).
 
-- **Competition where it works, public ownership where it must.** Citizens choose their provider; co-ops get the first call and the cheaper rate; the monopoly wires stay public and hardened. And cash at the kiosk keeps the citizen unwatched.
+- **Resilience is a public good.** When the grid goes down, AM radio on SMR backup becomes the nation's voice, and a clear hierarchy — state alerts first, local co-ops next — keeps people informed when everything else is dark.
 
-A nation that owns its grid, rents its upkeep to those who must keep it in good repair, locks the renewal money away from the budget-raiders, prosecutes neglect, and funds the grid to get better every decade — that is a nation that will not, fifty years on, find its hard-won infrastructure quietly rotted away.
+- **The network is neutral and open.** No throttling, no paid fast lanes, open access for any licensed provider, enforced on pseudonymized operational data — never by watching what citizens read or watch.
+
+- **Privacy at the kiosk.** A citizen pays cash for a newspaper or mesh subscription and is never recorded. What a person reads, watches, or listens to is never linked to who they are except by a judge under warrant.
+
+The state owns the fiber and towers. Co-ops and corporations compete to inform and connect citizens. Co-ops get first right of refusal and fee discounts. The AM band is alive with talk, music, and debate in peacetime — and the nation's voice in a crisis. And everyone, everywhere, has access — in cash, in BWC, in CMEs, and in daily life.
 
 ---
 
-**End of Draft 1.4**
+**End of Draft 4.4**
