@@ -1,6 +1,6 @@
 # New Crossroads Utilities Act of 2025: Draft 1.4
 
-**Draft:** 1.5 | **Date:** July 18, 2026
+**Draft:** 1.4 | **Date:** July 21, 2026
 **Author:** Thunderfish2
 
 ---
@@ -279,7 +279,7 @@ A Tier 2 FCL in Region 5 (Heartland Plains) builds a 10 MW solar farm serving 2,
 | Restore residential service | Within 72 hours | Loss of co-op preference for 1 year |
 
 ### 7.3 CME Recovery Funding
-- SWF emergency sub-fund (~\$50B, 3/20 EGA trigger); zero-interest utility loans (first 30 days, ~\$5B, repay within 1 year); CME surcharge (\$2/MWh, ~\$3B/year post-CME for 90 days).
+- **SWF crisis backstop** (RLP→SWF line, automatic at reference + 2% on a §1.8 systemic-freeze trigger — Monetary Act §2.1); zero-interest utility loans (first 30 days, ~\$5B, repay within 1 year); CME surcharge (\$2/MWh, ~\$3B/year post-CME for 90 days).
 
 ---
 
