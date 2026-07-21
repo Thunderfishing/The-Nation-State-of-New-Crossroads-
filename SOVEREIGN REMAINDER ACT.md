@@ -1,12 +1,3 @@
----
-title: "Crossroads Sovereign Functions Act"
-date: "2026-07-17"
-version: "2.1"
-author: "Thunderfish2"
-repository: "crossroads-monetary-act"
-description: "Establishes the sovereign state of New Crossroads — the thin, enumerated executive holding only the four functions no rule, mutual, chamber, council, or citizen vote can hold: defense and foreign affairs, the Special Auditors, the judiciary, and the SWF. Houses the Sovereign Council (staggered 5-year terms), four executive bureaus (Treasury with Capital Markets Bureau, Foreign Affairs, National Lands and Commons, Transport), and the ten prohibitions. Deadlocks are resolved through ad-hoc arbitration (Chamber Act §6.6), not a standing body. Companion to the Chamber Act."
----
-
 # Crossroads Sovereign Functions Act
 
 **This act is deliberately separate from the Chamber Act.** The sovereign functions are the residue left after everything automatable was automated and everything mutualizable was mutualized; the chambers and citizens are the source of authority the sovereign answers to. They travel together and are ratified together; they are not one document.
@@ -289,9 +280,9 @@ Set in full at Monetary Act §4; collected by Treasury (§6A.1); rates set by th
 | **Excise** | 3% on fuel/goods | ~$15B |
 | **Total** | | **~$460B** |
 
-> **Why this section now carries the table.** Prior drafts listed three sources — tariffs, the resource cut, and the corporate contribution stream — and omitted the entire federal tax base. The sovereign's function list is closed (§1.3, §8.10), so a tax the sovereign levies but this act never names is a power with no home: readable as unauthorized, or as evidence that §7 was never the real revenue list. It was a drafting hole, not a constitutional bar. **Taxation is not a fifth function** — it is how the four are paid for, and §8 bounds it.
 
-> **The resource cut is sovereign revenue, and only sovereign revenue.** Prior drafts of the Monetary Act (§2.1) and the Parks Act (§5.3) sent the resource surcharge to the SWF while this section counted it as sovereign revenue — the same money, claimed twice. It is here. The SWF is over-funded without it; the sovereign is not.
+
+> **The resource cut flows to sovereign revenue** — not the SWF (Monetary §2.1).
 
 **Profit taxation is exclusively federal.** No region and no municipality may tax the profits of an FCL or a corporation. The Co-op Advantage Principle (FCL Act §3.2) compares two rates and can only hold where one body sets both. Regions levy their own income tax and VAT; municipalities hold the bounded base of Municipal & Regional Funding Act §2.1. **Residential land and the primary home may not be taxed at any level** (§8.2; Chamber Act §11, Floor 2).
 
@@ -306,12 +297,12 @@ Set in full at Monetary Act §4; collected by Treasury (§6A.1); rates set by th
 | Operations — the state chooses | ~Annual | | Transfers — the citizen chooses | ~Annual |
 |---|---:|---|---|---:|
 | Sustainability projects | ~$50B | | Education vouchers (the family picks the school) | ~$170B |
-| Military (sovereign share) | ~$40B | | Healthcare bottom-tier subsidy (the citizen picks the provider) | ~$45B |
+| Military (sovereign share) | ~$46B | | Healthcare bottom-tier subsidy (the citizen picks the provider) | ~$45B |
 | R&D / Innovation Hubs | ~$30B | | Citizen dividend (§7.4) | (surplus) |
 | National infrastructure buildout | ~$20B | | | |
 | Parks | ~$20B | | | |
 | The four functions | ~$20B | | | |
-| **Subtotal** | **~$188B** | | **Subtotal** | **~$215B** |
+| **Subtotal** | **~$196B** | | **Subtotal** | **~$215B** |
 | **= 3.0% of GDP — inside the cap** | | | | |
 
 **Classification is justiciable, and the presumption runs against the sovereign.** Any citizen may petition the Supreme Court (§1.4) to reclassify a line. **Spending is presumed to be an operation unless the sovereign shows a citizen directs it** — the same inverted burden as the downward presumption of §1.2, for the same reason: the body that benefits from a generous reading is the body that must not hold the pen.
@@ -322,9 +313,9 @@ Set in full at Monetary Act §4; collected by Treasury (§6A.1); rates set by th
 >
 > **It is also what makes the falling cap true.** Operations at ~$180B against a ~$19T GDP is **~0.9%** — under the 2% target without any effort, because operations are physically anchored (a judiciary, eight submarines, a rail network) while the economy triples around them. The sovereign shrinks because the nation grew.
 
-**Spending sits at ~$403B total — ~$188B of operations (3.1% of GDP) and ~$215B of transfers.**
+**Spending sits at ~$411B total — ~$196B of operations (3.3% of GDP) and ~$215B of transfers.**
 
-  > **Why the cap falls, and what does not cause it.** Prior drafts attributed the decline to the Defense Fund maturing. It does not, and never did — §2.1 shows the military's budget *rising*. **The cap falls because GDP triples.** The state's costs are physically anchored — 18M students, 112M patients, eight submarines — so a state that stays roughly constant in real terms while the economy grows around it occupies a shrinking share of it. The sovereign shrinks because the nation grew.
+  > **The cap falls because GDP triples, not because the Defense Fund matures.** Operations are physically anchored; the economy grows around them. At ~$19T GDP, operations at ~$196B are ~1%.
 
 ### 7.3 What the Sovereign Spends On
 
@@ -333,20 +324,20 @@ Set in full at Monetary Act §4; collected by Treasury (§6A.1); rates set by th
 | Education vouchers (net of the FCL waterfall) | ~$170B |
 | Sustainability projects | ~$50B |
 | Healthcare bottom-tier subsidy | ~$45B |
-| Military — **sovereign share only** (§2.1) | ~$40B |
+| Military — **sovereign share only** (§2.1) | ~$46B |
 | R&D / Innovation Hubs | ~$30B |
 | **National infrastructure buildout** (§6A.4; Infrastructure, Energy, Communications Acts) | **~$20B** |
 | Parks | ~$20B |
 | The four functions — judiciary, auditors, four bureaus | ~$20B |
-| **Total** | **~$403B (~6.7% of GDP)** |
+| **Total** | **~$411B (~6.9% of GDP)** |
 
 > **The infrastructure line is new, and its absence was doing real damage.** This table had no line for the freeway, the 75,000 km rail network, grid hardening, or the communications backbone — while the Transport Bureau (§6A.4) is charged with building three of the four. **So four acts funded them from the SWF instead**, because it was the only pot with a large number attached. The claims totalled **~$629B against a ~$230B corpus** — the fund liquidated 2.7× over — and since access fees recover only maintenance (Infrastructure §3.2; Communications §2.1), **none of it would ever have returned.** Monetary §2.1 forbids exactly this: *"the SWF is the state's revolving lender... it is not the state's capital budget."*
 >
 > **A budget with no line for a thing the state is building does not stop the building. It just moves the money somewhere nobody is counting.** The line is here now, sized to the front-loaded first phase (~$20B/year through ~2035, declining as the buildout completes). It is what the VAT went to 3% to carry.
 
-> **Why the military line reads $40B here and $44B in §2.1.** §2.1 states the *whole* operating budget; this table states what **sovereign revenue** pays for. The difference — ~$4B at founding, ~$15–25B at maturity — comes from the **Defense Fund endowment**, which is a separate corpus outside the SWF and outside this table. Putting the total here would count the endowment's returns as tax revenue.
+> **The military line is the sovereign's share only.** The full military budget (~$52B) includes Defense Fund returns (~$6B). This table carries the sovereign portion.
 
-> **These are general-revenue lines, and several acts still call them "SWF allocations."** They are not, and cannot be: ~$315B of annual draws against a ~$230B corpus is a liquidation, not a fund (Monetary §2.1). The SWF lends and backstops; Section 7 spends.
+
 
 ### 7.4 Surplus and the Bars
 
@@ -382,7 +373,7 @@ A sovereign act inconsistent with this section is void, reviewable by the Suprem
 | Function | Organ | Check |
 |---|---|---|
 | Defense and foreign affairs | Sovereign Council (7, staggered) | Territorial 15/20 war ratification; Defense and Foreign Affairs Committee; continuity floor of 4 |
-| Military budget | ~$44B (2025) → ~$55–65B (2075) | ~$40B sovereign revenue + Defense Fund returns; **no taper** |
+| Military budget | ~$52B (2025) → ~$65–75B (2075) | ~$46B sovereign revenue + ~$6B Defense Fund returns |
 | Independent prosecution | Special Auditors (50-75) | 14-day judicial freeze; joint removal; citizen veto; press floor; Public Accounts Committee; committee-referral obligation; **no audit below $100k** |
 | First-instance judgment | Regional courts (200: 10/region) | Appellate review; constitutional review |
 | Appellate review | 5 circuits, 5 judges each (25 total) | Circuit splits trigger Supreme Court review; en banc for precedent-overrule |
@@ -399,7 +390,7 @@ A sovereign act inconsistent with this section is void, reviewable by the Suprem
 | Transport operations | Transport Bureau | NInfraB standards; Energy and Infrastructure Committee |
 | Election integrity | Election Integrity Commission (11; Chamber Act §9.5) | Ethics & Standards Committee; Supreme Court nominates; referrals to Special Auditors |
 | **Revenue** | **~$460B** — VAT 5% $166B · income >$100k $144B · tariffs $49B · corporate profit $25B · resources $22.7B · co-op profit $20B · property $19B · excise $15B | Cap 4% → 2% of GDP; Public Accounts Committee |
-| **Spending** | **~$403B total** — **operations ~$188B (3.1% of GDP, inside the 4% cap)**: sustainability $50B · military $40B · R&D $30B · infrastructure $20B · parks $20B · four functions $20B · **savings match $8B**. **Transfers ~$215B**: education vouchers $170B · healthcare subsidy $45B | Cap binds operations only (§7.2); classification justiciable. No debt, no issuance, no SWF draw |
+| **Spending** | **~$403B total** — **operations ~$196B (3.3% of GDP, inside the 4% cap)**: sustainability $50B · **military $46B** · R&D $30B · infrastructure $20B · parks $20B · four functions $20B · **savings match $8B**. **Transfers ~$215B**: education vouchers $170B · healthcare subsidy $45B | Cap binds operations only (§7.2); classification justiciable. No debt, no issuance, no SWF draw |
 | Profit taxation | **Federal only** | Regions levy income tax and VAT; no level may tax residential land |
 | Domestic force | Not the sovereign | Militia to Territorial; police to municipalities; prosecutors to Regional Boards |
 | Growth | Closed list (§1.1) | Highest bar to add; ordinary bar to shrink |
