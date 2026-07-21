@@ -1,6 +1,5 @@
 # Crossroads Chamber and Citizen Representation Act
 
-
 **This act is deliberately separate from the Sovereign Functions Act.** They are ratified together but are not one document. This act is the source — the chambers and the citizens — beneath which the sovereign is the residue. §11 of this act holds the entrenched floors and §12 holds the protected guarantees; both bind the sovereign and the chambers alike.
 
 ---
@@ -672,8 +671,8 @@ Referenced in Sovereign Functions Act §8 alongside the floors.
 | Outer limit | Entrenched Floors (§11; 12 floors) | What no majority may touch | 75% referendum to breach |
 | Protected | Guarantees (§12; 4 items) | What the state must always provide | Middle bar to weaken |
 | **Federal revenue** | **~$460B** | VAT 5% + income >$100k + corporate profit + tariffs + resources + co-op profit + property + excise | |
-| **Federal spending** | **~$403B** | **Operations ~$188B** (3.1% of GDP, inside the 4% cap; includes $8B savings match) + **Transfers ~$215B** (outside it; §7.2 test: who chooses the recipient?) | |
-| **Citizen dividend** | **~$160B/yr** (~$1,432/citizen) | Once the SWF caps (~2029) — the only channel reaching the informal economy | |
+| **Federal spending** | **~$411B** | **Operations ~$196B** (3.3% of GDP, inside the 4% cap; includes $8B savings match) + **Transfers ~$215B** (outside it; §7.2 test: who chooses the recipient?) | |
+| **Citizen dividend** | **~$152B/yr** (~$1,359/citizen) | Once the SWF caps (~2029) — the only channel reaching the informal economy | |
 | **Profit taxation** | **Federal only** | The Co-op Advantage Principle compares two rates; it holds only where one body sets both (Municipal & Regional Funding Act §2.2) | |
 
 **Every chamber is one-third wildcards. Wildcard terms: 5 years, 3-term cap. Territorial Chamber sits quarterly (§3.4). No citizen may hold more than one chamber seat (§2.3). The eight boards are founding instruments; §7.2's charter bar governs the ninth and after.**
