@@ -1,9 +1,7 @@
 # Crossroads Military Intelligence and Defense Act of 2025: Draft 2.0
 
-**Draft:** 1.9 | **Date:** July 17, 2026
+**Draft:** 2.0 | **Date:** July 17, 2026
 **Author:** Thunderfish2
-
-> **Cross-reference.** Companion to the **Monetary Act 9.8** (the Defense Fund §2.5), **Credit Union Act 5.8**, **FCL Act 3.4**, the **Sovereign Functions Act 2.1** (the military as sovereign function §2.1, the funding base §7, the bar on SWF-funded operations §5.4), the **Chamber Act**, **Energy Act 4.3**, **Education Act 2.3**, **Healthcare Act 6.6**, **Communications Act 4.3**, and **Infrastructure Act 2.6**. The currency is fiat (no metal backing); funding figures follow the Consolidated Fiscal Model.
 
 ---
 
@@ -307,7 +305,7 @@ The NEB (Energy Act 4.4) governs civilian reactors. The Nuclear Directorate gove
 | **Fuel fabrication** — civilian | Assemble fuel rods for SMR fleet (standardised across 20 hubs) | ~1,000 | NEB + co-op operated |
 | **Fuel fabrication** — naval | Assemble reactor cores for SSBN/SSN fleet | ~500 | Military classification |
 | **Submarine reactor servicing** | Refuelling (~10-year cycle), overhaul, defuelling, reactor-compartment maintenance | ~3,000 | Dedicated naval shipyard, co-located with submarine base |
-| **Spent fuel management** | Cooling ponds, dry-cask storage, geological repository (Frostpeak deep storage) | ~1,500 | Long-term — this facility operates for centuries |
+| **Spent fuel management** | Cooling ponds → **reprocessing** (Energy Act §4A.2 — 96% recovered as reusable fuel) → geological repository for the 4% high-level waste (Energy Act §4A.3 — played-out Frostpeak mine, engineered barriers, Stewardship Endowment) | ~1,500 | Long-term — the repository operates for centuries; the reprocessing facility for as long as the reactors run |
 | **R&D — next-generation reactors** | Next-gen submarine propulsion, advanced SMR designs, fuel efficiency, waste reduction | ~2,500 | Mixed civilian/military; the wall applies within the lab |
 | **Nuclear security force** | Physical security for enrichment facilities, weapons-grade material transport, the hard wall | ~1,000 | Military police, highest clearance |
 | **Total Nuclear Directorate** | | **~12,500** | |
@@ -323,7 +321,7 @@ The naval enrichment plant and the warhead fabrication facility (for the SSBNs' 
 
 ### 8.4 Funding
 
-The Nuclear Directorate's ~$5B/year operating budget is military spending (§9 below). Capital for new enrichment capacity, reactor servicing infrastructure, and the geological repository comes from the sovereign's infrastructure buildout line (Sovereign Functions §7.3).
+The Nuclear Directorate's ~$5B/year operating budget is military spending (§9 below). The **reprocessing facility and geological repository** are funded separately through general revenue (capital) and a $5/MWh fuel-cycle surcharge (operations) — see Energy Act §4A.5. The Nuclear Directorate operates the naval side of the reprocessing facility; the NEB operates the civilian side. Capital for new enrichment capacity, reactor servicing infrastructure, and the geological repository comes from the sovereign's infrastructure buildout line (Sovereign Functions §7.3).
 
 The **civilian** enrichment and fuel fabrication plants are co-op-operated, funded by the NEB's access-fee revenue (Energy Act §2.3) — the 155% maintenance-recovery model. **The military pays the civilian plant for low-enriched feedstock** at a transfer price, then enriches it further in the naval plant. This keeps the civilian plant commercially viable and the military plant focused on its classified work.
 
