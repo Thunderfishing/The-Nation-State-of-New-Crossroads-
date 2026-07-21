@@ -1,5 +1,6 @@
 # Crossroads Sovereign Functions Act
 
+
 **This act is deliberately separate from the Chamber Act.** The sovereign functions are the residue left after everything automatable was automated and everything mutualizable was mutualized; the chambers and citizens are the source of authority the sovereign answers to. They travel together and are ratified together; they are not one document.
 
 **Note on figures.** All amounts derive from the companion **Consolidated Fiscal Model**, which holds two real columns — 2025 and 2075. The design is in the structure and ratios, not the precise values.
@@ -341,7 +342,7 @@ Set in full at Monetary Act §4; collected by Treasury (§6A.1); rates set by th
 
 ### 7.4 Surplus and the Bars
 
-- Surplus flows to the SWF (within the 12% cap) or to the **citizen dividend**. The sovereign cannot accumulate. Once the SWF is capped — projected ~2029 — Monetary §2.3 redirects SWF contributions to general revenue, and this section sends them onward to the dividend: **~$160B/year, ~$1,432 per citizen**, in cash, tax-free, reaching the informal majority that files nothing.
+- Surplus flows to the SWF (within the 12% cap) or to the **citizen dividend**. The sovereign cannot accumulate. Once the SWF is capped — projected ~2029 — Monetary §2.3 redirects SWF contributions to general revenue, and this section sends them onward to the dividend: **~$152B/year, ~$1,359 per citizen**, in cash, tax-free, reaching the informal majority that files nothing.
 - No issuance, no debt, no SWF-principal draw.
 - The Public Accounts Committee scrutinizes all spending against the cap.
 
@@ -382,7 +383,7 @@ A sovereign act inconsistent with this section is void, reviewable by the Suprem
 | Takings | Transport Bureau | Public-infra only; market+10%; judicial ratification |
 | Fund of last resort | SWF (~$230B seed, 12% cap) + Defense Fund (~$100B → ~$920B) | Auto stabilizers; Tier-2 sunsets; **no defense exception to §5.4**; Public Accounts Committee |
 | SWF reaches its cap | ~2029 (year 4) | Contributions redirect to general revenue (Monetary §2.3) |
-| Citizen dividend (once capped) | ~$160B/yr — ~$1,432/citizen | Cash, tax-free; the only channel reaching the informal economy |
+| Citizen dividend (once capped) | ~$152B/yr — ~$1,359/citizen | Cash, tax-free; the only channel reaching the informal economy |
 | Market supervision | Treasury Capital Markets Bureau | Financial Services Committee; Special Auditors prosecute |
 | Fiscal administration | Treasury | Economic Affairs Committee; Public Accounts Committee |
 | Diplomacy administration | Foreign Affairs Bureau | Defense and Foreign Affairs Committee |
