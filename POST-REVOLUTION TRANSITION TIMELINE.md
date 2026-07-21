@@ -1,3 +1,12 @@
+---
+title: "New Crossroads — Post-Revolution Transition Timeline"
+draft: "1.0"
+date: "2026-07-17"
+author: "Thunderfish2"
+description: "The immediate aftermath: how a bloated, failed socialist state with a 120% debt-to-GDP default transforms into the constitutional co-op economy described in the seventeen founding acts. Focuses on Year 0 through Year 5; references but does not repeat the Phase 1 (2025–2035) timelines in the sector acts."
+cross-references: "All 17 founding acts, Consolidated Fiscal Model v2.0, Geography & National Profile 3.1, Metals & Currency Design 1.0"
+---
+
 # New Crossroads — Post-Revolution Transition Timeline: Draft 1.0
 
 **Posted to r/Bulwarkomics**
@@ -53,7 +62,7 @@ A socialist island nation of 112 million people, near Point Nemo, with:
 - **No residential property tax. No business registration tax. No payroll tax.**
 - **Tariffs at the border** — the ports collect these; they don't require domestic compliance infrastructure.
 
-The tax system asks almost nothing of the population and raises ~$427B because it taxes *transactions* not *people*. The informal economy participates automatically through the VAT and receives more back through the dividend than it pays.
+The tax system asks almost nothing of the population and raises ~$460B because it taxes *transactions* not *people*. The informal economy participates automatically through the VAT and receives more back through the dividend than it pays.
 
 ### Months 1–6 — The Great Transfer
 
@@ -101,7 +110,7 @@ These remain public infrastructure. The state *owns* the rails; co-ops *run trai
 - **Foreign reserves.** Whatever the old central bank held — gold, foreign currency, SDRs — transfers to the SWF.
 - **First resource royalties.** The Frostpeak mines never stopped producing. At 12% on even half the founding resource base, royalties are flowing from Month 1.
 
-**The SWF is seeded once, and then it grows from contributions (~$121B/year).** It does not receive another injection. The seed is the revolution's one-time fiscal event; everything after is the system running on its own.
+**The SWF is seeded once, and then it grows from contributions (~$138B/year).** It does not receive another injection. The seed is the revolution's one-time fiscal event; everything after is the system running on its own.
 
 ---
 
@@ -109,10 +118,10 @@ These remain public infrastructure. The state *owns* the rails; co-ops *run trai
 
 **What's running:**
 - The BWC is circulating. Paper stock, functional.
-- VAT is collecting. The $427B revenue base is building — it won't hit the full annual figure until the formal economy stabilises, but the informal economy's VAT is flowing from Day 1.
+- VAT is collecting. The $460B revenue base is building — it won't hit the full annual figure until the formal economy stabilises, but the informal economy's VAT is flowing from Day 1.
 - ~80% of state enterprises have converted to co-ops. The remainder are complex (mining, heavy industry) and take longer.
 - Credit unions are operational in all 20 regions. Deposits are growing.
-- The SWF is accumulating. ~$230B seed + ~$121B first-year contributions = ~$365B by year-end.
+- The SWF is accumulating. ~$230B seed + ~$138B first-year contributions = ~$368B by year-end.
 - The seven sector boards are functioning under convention appointment, awaiting chamber confirmation.
 - The first elected chambers are seated. The Territorial Chamber (20 Regional Boards) forms first; the two Productive Chambers follow as co-ops and corporations register.
 
@@ -194,15 +203,15 @@ The informal economy — 25–30% of the working population — receives the div
 
 | Component | Status |
 |---|---|
-| Revenue (~$427B) | Collecting — VAT, income, profit taxes, tariffs, resources, property, excise |
-| Spending (~$395B) | Disbursing — vouchers, subsidies, infrastructure, military, parks, R&D, four functions |
+| Revenue (~$460B) | Collecting — VAT, income, profit taxes, tariffs, resources, property, excise |
+| Spending (~$411B) | Disbursing — vouchers, subsidies, infrastructure, military, parks, R&D, four functions |
 | SWF (~$764B, capped) | Lending and backstopping — not spending |
 | Citizen dividend (~$152B/yr) | Paying — $1,359/citizen, cash, universal |
 | Commons (~$48B) | Flowing — healthcare $19B, education $10B, charity $19B |
 | Healthcare (~$448B) | Self-funding on premiums + commons + subsidy |
 | Credit-union network | Self-funding on NIM (~3%) |
 
-**Nobody is running this.** The sovereign operates at 3.0% of GDP. The chambers oversee. The boards regulate their sectors. The Special Auditors investigate. The formulas publish rates. The stabilisers fire or don't. There is no economic tsar, no planning committee, no five-year plan. The system runs because the rules run.
+**Nobody is running this.** The sovereign operates at 3.3% of GDP. The chambers oversee. The boards regulate their sectors. The Special Auditors investigate. The formulas publish rates. The stabilisers fire or don't. There is no economic tsar, no planning committee, no five-year plan. The system runs because the rules run.
 
 **The CLS corps is scaling toward its mature ~127,000.** Co-op formation is accelerating as the formal economy grows around a functioning credit system. The informal economy holds its share — not because people can't formalise, but because many choose not to. The system lets them.
 
