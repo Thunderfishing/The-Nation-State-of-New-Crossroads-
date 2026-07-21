@@ -293,7 +293,7 @@ One hole remains, and it is closed with the identity layer rather than a new one
 - Informal → formal transition rate (first revolving-line draw; micro-loan originations)
 - Rent, fuel, and staple prices, jobs, and digital adoption — tracked against the BWC Purchasing Power Index (Credit Union Act §1.4), not a backing ratio
 
-**Soft trigger:** if co-op GDP falls below 45% for three consecutive years, the **Territorial Chamber** commissions a Co-op Sector Review (findings within 180 days), with the **Co-op Chamber** providing input. The Review may recommend temporary incentives — micro-loan subsidies, formation grants, or CLS expansion — which **both chambers and the universal citizen vote** may adopt, modify, or reject through the ordinary lawmaking path (Chamber Act §6). The body studying the problem is not the body whose power depends on the answer.
+**Soft trigger:** if co-op GDP falls below 45% for three consecutive years, the **Territorial Chamber** commissions a Co-op Sector Review (findings within 180 days), with the **Productive Chamber** providing input. The Review may recommend temporary incentives — micro-loan subsidies, formation grants, or CLS expansion — which **both chambers and the universal citizen vote** may adopt, modify, or reject through the ordinary lawmaking path (Chamber Act §6). The body studying the problem is not the body whose power depends on the answer.
 
 No automatic policy response is triggered by GDP shares alone. There are no automatic fee hikes. The informal sector has no GDP cap — growth beyond any baseline is welcome and requires no response. The PMI informs judgment; it does not bind it.
 
@@ -381,7 +381,7 @@ Informal-sector GDP is measured only by anonymized voluntary surveys, DLB price 
   - Plus the general budget surplus: **~$49B/year**
   - **Total annual contributions: ~$138B.**
 
-  - **The resource cut is not here.** It is sovereign revenue (§4; Sovereign Functions Act §7). Prior drafts sent it to the SWF *and* counted it as sovereign revenue — the same money, claimed twice.
+  - **The resource cut flows to sovereign revenue** (§4; Sovereign Functions Act §7). 
 
 
 - **No co-op recharge.** Co-ops contribute to the commons through the FCL profit-sharing waterfall (Section 3), not through the SWF.
@@ -495,7 +495,7 @@ The Defense Fund is a distinct sovereign endowment, **not part of the SWF and no
 - **Sovereign revenue (Section 4; Sovereign Functions Act §7): ~$40B/year, stable.** This allocation does not decline.
 - **Defense Fund draw:** the endowment's returns supplement the baseline — ~$4B in 2025 against a ~$100B endowment, rising to ~$15–25B at maturity against ~$920B and a ~4% return.
 
-Total: **~$44B (2025) → ~$55–65B (2075).** One-time base buildout (~$77.56B) is funded separately and is not a recurring figure.
+Total: **~$52B (2025) → ~$65–75B (2075).** One-time base buildout (~$77.56B) is funded separately and is not a recurring figure.
 
 
 ---
@@ -519,7 +519,7 @@ Total: **~$44B (2025) → ~$55–65B (2075).** One-time base buildout (~$77.56B)
 The commons share splits Healthcare : Education : Charity in a 2:1:2 ratio. **Total commons funding ≈ $48B** (Healthcare ~$19B : Education ~$10B : Charity ~$19B per the 2:1:2 split), concentrated on the largest co-ops by design.
 
 
-- **Capital Investment Fund (CCIF):** a **voluntary** pool in which co-ops and corporate participants may store up to 15% of profits for returns until the capital is needed to expand or to survive a shock; ~7.5% returns; allocated by the **CCIF Alliance Network** (FCL Act §3.8.7 — the voluntary federation of CCIF depositors; 9-seat board, Co-op Chamber oversight). The CCIF is the co-op sector's own pool, chamber-governed, and is **not a sovereign asset** (Sovereign Functions Act §5.1).
+- **Capital Investment Fund (CCIF):** a **voluntary** pool in which co-ops and corporate participants may store up to 15% of profits for returns until the capital is needed to expand or to survive a shock; ~7.5% returns; allocated by the **CCIF Alliance Network** (FCL Act §3.8.7 — the voluntary federation of CCIF depositors; 9-seat board, Productive Chamber oversight). The CCIF is the co-op sector's own pool, chamber-governed, and is **not a sovereign asset** (Sovereign Functions Act §5.1).
 
 > **The CCIF's three questions, resolved in the FCL Act (Draft 3.4).** (1) **The shelter is kept, deliberately** — the waterfall deducts CCIF before the commons share because this system taxes consumption, never capital (§4); the deduction is the VAT principle one layer up. (2) **The mismatch is closed** by FCL §3.8.6: the CCIF must hold liquid assets at least equal to its callable window, so the door is bounded by what the fund can pay. It gets no sovereign backstop — insuring it would remove the depositor's exposure, which is the only thing restraining the door. (3) **The vote is compressed** — FCL §3.8.7 replaces one-vote-per-$1M with 1 / 2 / 3 votes at any deposit / $10M / $100M, and corporate depositors do not vote at all (Chamber Act §11, Floor 5).
 - **Asymmetric Scrutiny:** simplified reporting for small FCLs; full CED disclosure above $100M.
@@ -548,13 +548,13 @@ The commons share splits Healthcare : Education : Charity in a 2:1:2 ratio. **To
 **Total federal revenue: ~$460B against ~$411B of spending.** The VAT is the balancing item. For scale: Canada's federal GST is 5%; the EU averages 21% — and neither zero-rates a defined basket or returns the proceeds as a dividend.
 
 
-**What the federal state spends on.** Education vouchers (~$170B net), sustainability projects (~$50B), the healthcare bottom-tier subsidy (~$45B), the military baseline (~$40B — §2.5), R&D (~$30B), parks (~$20B), and the sovereign's own four functions. **These are general-revenue lines.** Several sector acts still label them "SWF allocations"; they are not, and cannot be — see §2.1.
+**What the federal state spends on.** Education vouchers (~$170B net), sustainability projects (~$50B), the healthcare bottom-tier subsidy (~$45B), the military baseline (~$46B — §2.5), R&D (~$30B), parks (~$20B), and the sovereign's own four functions. **These are general-revenue lines.** Several sector acts still label them "SWF allocations"; they are not, and cannot be — see §2.1.
 
 **Why the income tax starts at $100,000, and why it starts there for everyone.**
 
 $100,000 is not a compromise. It is **the line at which the architecture can see.** Below it the CED holds aggregates only and this act forbids audits; above it the Elite tier carries full pseudonymized detail (§5.2). An income tax below that line would be assessing, with no visibility, income the state has constitutionally promised not to examine, with no power to verify what is attested — which is not a tax but a donation with a form attached.
 
-Prior drafts set the formal threshold at $20,000 and the informal at $100,000. That put a permanent premium on informality at every income up to the cliff — a formal worker on $25,000 paying while an informal earner on $95,000 paid nothing, in a country where $100,000 approaches twice GDP per capita. **The threshold was the defect, not the exemption.** Aligning both economies at the visibility line removes the wedge without touching Floor 1: the state stops taxing what it cannot see, and starts taxing everyone alike where it can.
+
 
 **Why consumption carries the base.**
 
@@ -591,11 +591,11 @@ Competition between regions on income tax and VAT is a feature of the design, no
 
 1. **Short-Term Trade Tax:** 0.5% on sales of corporate shares held under 365 days; collected at point of sale regardless of trader location. This is also a listing condition for the Exchange's Domestic Corporate-Equity Board (Exchange Act §3.3).
 2. **Quarterly Guidance Ban:** annual guidance only. Violations: fines up to $10M, then trading suspension.
-3. **Worker Board Representation:** worker-elected seats by headcount — 1 seat (50–500), 2 (501–2,000), 3 or 30% (2,001–10,000), 4 or 33% (10,000+); one worker, one vote; full voting rights including on compensation, buybacks, and capital allocation. These worker board seats are also the channel through which the corporate sector is represented in the Corporate Chamber (Chamber Act §4.2).
+3. **Worker Board Representation:** worker-elected seats by headcount — 1 seat (50–500), 2 (501–2,000), 3 or 30% (2,001–10,000), 4 or 33% (10,000+); one worker, one vote; full voting rights including on compensation, buybacks, and capital allocation. These worker board seats are also the channel through which the corporate sector is represented in the Productive Chamber (Chamber Act §4.2).
 4. **Long-Term Voting Multiplier:** 2 votes/share at 5+ years, 3 at 10+ (cap); shares sold within 90 days of a vote forfeit voting rights for that meeting; no separate share classes. **The multiplier does not accrue to Freedom Shares while a credit union holds them** (§2.2; Exchange Act §3.3) — it rewards patient ownership, and a lender in a position it is required to exit is not a patient owner.
 5. **Stock Buyback Limits:** permitted only if the prior-year capex target was met, post-buyback equity ≥150% of long-term debt, annual buybacks ≤50% of net income, and worker board members approve by majority.
 
-**Enforcement:** a Corporate Governance Enforcement Unit (~$150M/year), overseen by the Corporate Chamber with appeal through ad-hoc arbitration (Chamber Act §6.6), conducts random audits and may levy fines up to 5% of revenue for willful violations.
+**Enforcement:** a Corporate Governance Enforcement Unit (~$150M/year), overseen by the Productive Chamber with appeal through ad-hoc arbitration (Chamber Act §6.6), conducts random audits and may levy fines up to 5% of revenue for willful violations.
 
 ---
 
@@ -622,7 +622,7 @@ Competition between regions on income tax and VAT is a feature of the design, no
 
 ### 5.3 Bodies & Treasury
 
-- **Bodies:** the Sovereign Council (7 members — Sovereign Functions Act §6), the Territorial Chamber (20 Regional Boards × 11 members — Chamber Act §3), the Co-op Chamber (300 — Chamber Act §4.1), the Corporate Chamber (100 — Chamber Act §4.2), the judiciary (200 regional judges + 25 appellate + 7 Supreme Court justices — Sovereign Functions Act §4), and the Special Auditors (50–75 — Sovereign Functions Act §3).
+- **Bodies:** the Sovereign Council (7 members — Sovereign Functions Act §6), the Territorial Chamber (20 Regional Boards × 11 members — Chamber Act §3), the Productive Chamber (400 — Chamber Act §4), the Productive Chamber (100 — Chamber Act §4.2), the judiciary (200 regional judges + 25 appellate + 7 Supreme Court justices — Sovereign Functions Act §4), and the Special Auditors (50–75 — Sovereign Functions Act §3).
 - **Treasury:** administers BWC issuance under the Section 1.5 anchor, the reference rate (Section 1.5A), the SWF, and the Citizens' Metals ETF. Publishes the annual DLB, cash-adequacy figures, base-issuance reports, the reference rate, and the revolving-credit-line formula (§1.6A). Treasury does not publish a backing ratio — BWC is fiat; there is no per-coin metal backing.
 - **Data cost:** CED + PPK ≈ ~$450M/year (CED ~$250M/year), a net saving versus prior centralized data systems.
 
@@ -674,13 +674,13 @@ Competition between regions on income tax and VAT is a feature of the design, no
 | Crisis framework | Two-tier: auto stabilizers + time-boxed emergency mode (Section 1.8) | same |
 | Jubilee | Rolling, on application; ≤50% co-op / ≤10% corporate debt per rolling 25-year window; CLS-judged; enterprises only (Section 2.2) | same |
 | CLS | **~40,000** — scales with the loan book at ~$46M/agent (Credit Union Act §5) | **~127,000** |
-| Governance | Sovereign Council (7) + Territorial Chamber (220) + Co-op Chamber (300) + Corporate Chamber (100) + universal citizen vote | same structure |
+| Governance | Sovereign Council (7) + Territorial Chamber (220) + Productive Chamber (400) + Productive Chamber (100) + universal citizen vote | same structure |
 | **SWF** | **~$230B seed (3.8% of GDP)** | building toward the cap |
 | SWF cap (12% of GDP) | ~$720B | ~$2.28T |
 | **SWF reaches the cap** | **~2029 (year 4)** | capped thereafter |
 | **Citizen dividend (once capped)** | **~$152B/yr — ~$1,359/citizen** (§2.3 excess $14.4B + §7 surplus $138B) | scaled |
 | **Federal spending** | **~$411B (~6.9% of GDP)** — **operations ~$196B (3.3%, inside the 4% cap)**: sustainability $50B, military $46B, R&D $30B, infrastructure $20B, parks $20B, sovereign functions $20B, **savings match $8B**. **Transfers ~$215B**: education vouchers $170B, healthcare subsidy $45B | ~2% of GDP (buildout completes) |
-| SWF annual contributions | **~$146B** (corporate $60B + sector access-fee rails $27B + BWC fee rail $1.8B + surplus $49B) | redirected to general revenue once capped (§2.3) |
+| SWF annual contributions | **~$138B** (corporate $60B + sector access-fee rails $27B + BWC fee rail $1.8B + surplus $49B) | redirected to general revenue once capped (§2.3) |
 | **SWF's role** | **Crisis backstop + revolving lender (industrial, housing construction) + Defense Fund. Not the capital budget (§2.1)** | same |
 | Defense Fund (separate endowment) | ~$100B | ~$920B |
 | Citizens' Metals ETF (investment, not backing) | **~$168–209B** | scaled |
@@ -689,7 +689,7 @@ Competition between regions on income tax and VAT is a feature of the design, no
 | **Federal tax base** | **VAT 5% $166B + income >$100k $144B + tariffs $49B + corporate $25B + resources $22.7B + co-op $20B + property $19B + excise $15B = ~$460B** | same structure |
 | **Income tax threshold** | **$100,000 — formal and informal alike. 20% / 30% / 40% (§4)** | same |
 | **Sovereign operating cap** | **4% of GDP; falls toward ~2% as GDP triples, not as the Defense Fund matures** | ~2% |
-| **Military (operating)** | **~$44B ($40B sovereign revenue + ~$4B endowment)** | **~$55–65B ($40B + $15–25B endowment)** |
+| **Military (operating)** | **~$52B ($46B sovereign + ~$6B Defense Fund)** | **~$65–75B ($46B + $15–25B endowment)** |
 | Commons via FCL waterfall | **~$48B** (~$19B health / ~$10B education / ~$19B charity) — a percentage of ~$400B of co-op net profit, not a fixed sum | scaled |
 | **Retirement income** | No state pension. Five independent streams: **(1)** citizen dividend $1,359/yr forever, **(2)** forced savings (~$55,000 formal / ~$20,000 informal at 65, unlocked — Housing Act §3.1), **(3)** Metals ETF shares (45 years of structural appreciation, sold on the Exchange), **(4)** special-share dividends at ~5.5% + sale on the CU Capital Board (no cap), **(5)** credit-union savings at ~2.5%. Plus: a Durahome owned outright ($0 housing cost, untaxable), healthcare at the subsidised tier, and the charity commons (~$19B/yr, co-op-directed, aged care as the likely largest category — FCL Act §3.2). | same |
 | Data architecture | PPK + CED (no CWD) | PPK + CED |
