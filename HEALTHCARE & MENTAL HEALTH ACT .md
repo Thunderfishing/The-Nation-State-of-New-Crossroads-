@@ -218,9 +218,7 @@ Healthcare is funded by **mandatory universal premiums**, not state SWF operatin
 | Partner contributions | ~$1.21B/year | Donations, charitable grants (CMHIN) |
 | Facility profits | reinvested | Co-op clinic/hospital/CMHIN surpluses reinvested |
 
-**Removed:** the Healthcare SWF ($145B) and Mental Health SWF ($35B) operating lines — healthcare no longer draws SWF operating funding. The system is self-funding via premiums + FCL contribution, with the state's role reduced to the targeted bottom-tier subsidy.
-
-*Net state healthcare cost ≈ the ~$45B subsidy (vs. ~$180B of SWF operating funding under Draft 6.4) — a ~$135B reduction in state burden, shifted to a self-funding premium model with universal coverage.*
+*Net state healthcare cost ≈ the ~$45B subsidy 
 
 ---
 
