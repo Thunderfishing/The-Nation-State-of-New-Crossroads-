@@ -2,10 +2,10 @@
 
 ---
 
-**Draft:** 2.7 | **Date:** July 12, 2026
+**Draft:** 2.6 | **Date:** July 12, 2026
 **Author:** Thunderfish2
 
----
+> **Cross-reference.** Companion to the **Monetary Act 9.8**, **Credit Union Act 5.8**, **FCL Act 3.4**, **Energy Act 4.4**, **Utilities Act 1.3**, **Communications Act 4.2**, **Industry Act**, the **Sovereign Functions Act**, the **Chamber Act**, and the **Municipal & Regional Funding Act**. The asset/operator separation model follows the Utilities Act (state owns infrastructure, co-ops/corporations compete on operations). Loans are reference-rate-anchored (Monetary Act §1.5A). Data uses PPK/CED (no CWD). The currency is fiat.
 
 > **Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values.
 
@@ -393,11 +393,6 @@ Reports are publicly available via the CED (pseudonymized), with individual prop
 | Retroreflective paint program (nationwide) | N/A | N/A | $2.5B total | Dark Corridor Fund |
 | **Total freeway system** | **15,000 km** | | **$212.5B** | |
 
-> **Construction is general revenue, not the SWF — and this act was the largest offender.** Prior drafts funded the freeway and the rail network from the SWF. **Monetary §2.1 forbids it:** *"the SWF is the state's revolving lender... **Loans revolve; the corpus survives.** It is **not** the state's capital budget."* Since tolls recover only maintenance (§3.2), an SWF loan against a freeway is never repaid — the corpus buys the road and absorbs the loss.
->
-> **The scale.** This act alone claimed **~$395B** — $210B of freeway plus ~$185B of rail — against a **~$230B corpus**. Across four acts (this one, Energy's $200B grid, Communications' $15B backbone) the claims totalled **~$629B: the fund liquidated 2.7× before it ever reached its cap.**
->
-> **Why every act did it.** Sovereign Functions §7.3 had **no infrastructure line**. Four acts reached for the SWF because it was the only pot with a large number attached and nothing else was offered. §7.3 now carries the line — **~$20B/year through the front-loaded first phase** — and the federal VAT went from 2% to 3% to pay for it. A budget with no line for a thing the state is building does not stop the building; it moves the money somewhere nobody counts.
 
 Toll Adjustment for Elevated Sections:
 - Standard toll: $0.10/km
@@ -443,11 +438,6 @@ Co-op Preference: Rail operating licenses are issued preferentially to co-ops (f
 - Toll revenue: $1.0B/year (2025) → $1.56B/year (2075)
 - Cost recovery: **155% of annual maintenance, annually** — not of construction. Construction is general revenue (§2.5).
 
-  > **The claim this replaces, and the arithmetic that killed it.** Prior drafts read *"155% of construction cost ($210B × 1.55 = $325.5B recovered over 20–30 years)"* — against a stated toll revenue of **$1.0B/year**. That is **326 years**, on an asset with a 30–40 year life. To do it in 25 you would need **$13B/year — 13× the stated toll.**
-  >
-  > **The toll is not the error.** $1.0B across 10B vehicle-km is **$0.10/km**; US turnpikes run $0.05–0.15 and France ~$0.09. The toll is realistic. The toll the claim requires is **$1.30/km**, roughly thirteen times any road on earth. Nobody drives on it.
-  >
-  > **Freeways do not recover their construction from tolls — nowhere, ever.** Roads are a public good; tolls price maintenance and congestion. At **155% of maintenance**, $1.0B/year implies ~$645M of annual upkeep across 10,000 km — **~$64,500/km/year**, which sits just above the real-world $30–50k band and is right for a road with elevated sections and CME hardening. The 55% margin funds hardening and the Dark Corridor Fund, not a debt.
 - Solar medians: 1 GW solar on 5,000 km medians ($100M), saving $50M/year
 - Insect deflectors: 1,000 vehicles (2025 pilot) → 500,000 vehicles (2075)
 
@@ -512,9 +502,6 @@ Dark Corridor Compliance: Elevated sections have no lighting. Enforcement by Reg
 > - **Capital (construction) is general revenue.** The state builds the asset and pays for it out of tax (Sovereign Functions Act §7.3). **Not the SWF** — the SWF is a revolving lender, and an asset whose fees recover only maintenance never repays a loan (Monetary §2.1).
 > - **Access fees recover 155% of the asset's *annual* operating and maintenance cost, *annually*.** The 55% margin is what funds the SWF contribution, the Dark Corridor Fund, and the rural subsidy on top of upkeep. Revenue is then allocated **50% maintenance / 30% SWF / 10% Dark Corridor Fund / 10% rural** (§4.2).
 >
-> **"155%" means maintenance, everywhere, including the freeway.** Prior drafts of this note said the opposite — that the figure was *"freeway-specific... recovering 155% of their construction (capital) cost over the asset life, since freeways are uniquely toll-funded rather than purely SWF-built."* **That reading does not survive its own arithmetic:** $210B × 1.55 = $325.5B against a $1.0B/year toll is **326 years**, on a 30–40 year asset. The toll would have to be **$1.30/vehicle-km** — thirteen times any road on earth — and this act's own $0.10/km is the realistic figure (US turnpikes $0.05–0.15; France ~$0.09). **Freeways have never recovered their construction from tolls anywhere.** Roads are a public good; tolls price maintenance and congestion.
->
-> **The distinction was never cosmetic.** One phrase carried two meanings across roughly five acts, and each act inherited whichever reading its author assumed. Under the capital reading the Communications backbone recovered in 125 years and the freeway in 326. Under the maintenance reading both clear comfortably, and the implied upkeep lands inside real-world bands — ~$64,500/km/year for a hardened freeway with elevated sections, ~$2,400/km/year for buried fiber. **The maintenance reading is canonical. There is no freeway exception.**
 
 ### 4.1 Fee Structure (Per Utilities Act Model)
 
@@ -555,11 +542,6 @@ The Dark Corridor Fund finances:
 | **Parkweb, biosphere reserves, and dark-sky corridors (Parks Act §8)** | **~$10.1B** | Dark Corridor Fund |
 | **Total allocated** | **~$11.2B** | **= the fund's full 10% share** |
 
-> **The fund collected ten times what it spent, and another act was quietly claiming the difference.** Prior drafts allocated **~$1.1B** against a **~$11.2B** collection — leaving **~$10.1B** unassigned — while **Parks Act §8 claimed the whole $11.2B** for the parkweb. Two acts, one pot, no line connecting them.
->
-> **The parkweb line is the resolution, and it is the honest one rather than the tidy one.** The alternative was to shrink the fund to its own list — ~1% of revenue instead of 10% — but that would defund the parkweb the Parks Act depends on, and it would miss why the two belong together: **the dark corridors under elevated freeway *are* habitat.** A fund that pays for corridor ecology and then hands the surplus to the network of reserves those corridors connect is doing one job, not two.
->
-> **Parks Act §8 must read ~$10.1B, not ~$11.2B** — its claim is to the fund's surplus after the corridor items above, not to the whole share. Logged in the Consolidated Fiscal Model.
 
 ---
 
@@ -573,7 +555,6 @@ The National Infrastructure Board (NInfraB), an 11-member body, manages rail, fr
 - **Appointment:** **nominated by the Territorial Chamber (Regional Boards, 11/20), confirmed by both Productive Chambers jointly** — the uniform rule for the seven sector boards (Chamber Act §7.1). **No sovereign role** (Sovereign Functions Act §8.5).
 - **Removal:** by the nominating and confirming bodies jointly, or on cause established by a Special-Auditor investigation.
 
-> **The fifth board found running on a rule the registry does not contain.** Prior drafts had the NInfraB *"appointed by the Sovereign Council (5/7)."* **Sovereign Functions Act §8.5** bars the sovereign from domestic sector policy — and toll rates and track access charges are **rates**, the first item on that bar. **Chamber Act §7** states it directly: *"board appointment is a chamber function."* The Exchange's Co-op Capital Index, the NIB, the NEB, the NHA, the NCB, and now the NInfraB all carried the same defect — **six acts, eleven instances, each written independently.** Every act described a board and reached for the nearest executive to appoint it, because that is what boards look like everywhere else. None checked the bar.
 
 - **Voting:** 6/11 for operational decisions (e.g., toll rates, track access charges), 8/11 for regulations (e.g., dark corridor compliance, insect deflector mandates, DCALS amendments, retroreflective paint standards)
 - **Functions:** Regulate 75,000 km rail, 15,000 km freeways (3,000 km elevated), 2,000-vessel fleet, 150M-ton ports, 75M-ton barges, 4,000 km CO2 pipelines, $111.8B revenue (2075)
@@ -645,7 +626,7 @@ Cash toll payments are accepted at credit union kiosks with no fee and no survei
 
 | Action | Timeline | Cost | Responsible |
 | :--- | :--- | :--- | :--- |
-| Expand rail to 60,000 km | 2035–2050 | $45B | NInfraB + co-ops |
+| Expand rail to 60,000 km | 2035–2050 | ~$45B | NInfraB + co-ops |
 | Expand freeway to 10,000 km (including 1,000 km elevated) | 2035–2050 | $100B | NInfraB |
 | Complete elevated corridors: Regions 5, 8, 11 (1,550 km total) | 2035–2050 | $46.5B | NInfraB |
 | Scale DCALS certification to 500 compounds | 2035–2050 | $100M (grants) | Regional Boards |
