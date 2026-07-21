@@ -1,5 +1,13 @@
-# Crossroads Sovereign Functions Act
+---
+title: "Crossroads Sovereign Functions Act"
+date: "2026-07-17"
+version: "2.1"
+author: "Thunderfish2"
+repository: "crossroads-monetary-act"
+description: "Establishes the sovereign state of New Crossroads — the thin, enumerated executive holding only the four functions no rule, mutual, chamber, council, or citizen vote can hold: defense and foreign affairs, the Special Auditors, the judiciary, and the SWF. Houses the Sovereign Council (staggered 5-year terms), four executive bureaus (Treasury with Capital Markets Bureau, Foreign Affairs, National Lands and Commons, Transport), and the ten prohibitions. Deadlocks are resolved through ad-hoc arbitration (Chamber Act §6.6), not a standing body. Companion to the Chamber Act."
+---
 
+# Crossroads Sovereign Functions Act
 
 **This act is deliberately separate from the Chamber Act.** The sovereign functions are the residue left after everything automatable was automated and everything mutualizable was mutualized; the chambers and citizens are the source of authority the sovereign answers to. They travel together and are ratified together; they are not one document.
 
@@ -45,9 +53,8 @@ Any citizen may petition the Supreme Court to review any sovereign act for consi
 ### 2.1 The Military
 
 - **Command:** Civilian command of the standing professional force (~125K + CMIS) vests in the Sovereign Council (Section 6). The Council does NOT command the 9.1M regional militia — that force answers to the Territorial Chamber (Chamber Act §3.3).
-- **Funding:** the recurring operating budget is **~$44B (2025), rising to ~$55–65B (2075)** — a stable **~$40B/year from sovereign revenue (Section 7)**, supplemented by the Defense Fund endowment's returns as it matures (~$4B in 2025 against a ~$100B endowment; ~$15–25B at maturity against ~$920B). Never from issuance; never from the SWF principal.
+- **Funding:** the recurring operating budget is **~$52B (2025), rising to ~$65–75B (2075)** — a stable **~$40B/year from sovereign revenue (Section 7)**, supplemented by the Defense Fund endowment's returns as it matures (~$4B in 2025 against a ~$100B endowment; ~$15–25B at maturity against ~$920B). Never from issuance; never from the SWF principal.
 
-  > **The taper is abolished.** Prior drafts read *"~$40B/year, declining"* and had the sovereign allocation falling toward zero as the endowment matured. That describes a smaller military than the Military and Intelligence Act builds — three branches, an upgraded navy with eight SSBNs and twelve SSNs, a space command, and an intelligence service. **The budget rises; it does not taper.** The endowment pays for the expansion; the sovereign baseline stays put. Monetary Act §2.5 carries the same correction.
 
 - **Domestic bar:** The military has no domestic policing, surveillance, or enforcement role. It may not be deployed against citizens, may not access the CED, and holds no jurisdiction inside the border except on declared invasion. Its only domestic presence is the school liaison seat (Chamber Act §8.3), conferring no command or enforcement role.
 - **Declaration of war:** Defensive action at once on declared invasion (standing force only; militia per Chamber §3.3). Offensive war requires Territorial Chamber ratification at 15/20 within 30 days. All war authority carries the Wartime-Fee pattern — hard sunset, forced re-authorization. The Defense and Foreign Affairs Committee (Chamber §6.7) scrutinizes military command in public session.
@@ -304,7 +311,7 @@ Set in full at Monetary Act §4; collected by Treasury (§6A.1); rates set by th
 | Parks | ~$20B | | | |
 | The four functions | ~$20B | | | |
 | **Subtotal** | **~$196B** | | **Subtotal** | **~$215B** |
-| **= 3.0% of GDP — inside the cap** | | | | |
+| **= 3.3% of GDP — inside the cap** | | | | |
 
 **Classification is justiciable, and the presumption runs against the sovereign.** Any citizen may petition the Supreme Court (§1.4) to reclassify a line. **Spending is presumed to be an operation unless the sovereign shows a citizen directs it** — the same inverted burden as the downward presumption of §1.2, for the same reason: the body that benefits from a generous reading is the body that must not hold the pen.
 
@@ -312,7 +319,7 @@ Set in full at Monetary Act §4; collected by Treasury (§6A.1); rates set by th
 >
 > But the narrow reading is what this system's architecture *implies*, not a hole cut to fit the numbers. **An education voucher is not the sovereign operating anything.** The state runs no schools; the money passes through to a family that picks one. The healthcare subsidy buys into a system the co-op commons funds and the sovereign does not run. A cap on what the sovereign **runs** is the cap a thin state needs. A cap on what **passes through** it would count the voucher — the most anti-statist instrument in the corpus — as statism, and would punish the sovereign for handing money away.
 >
-> **It is also what makes the falling cap true.** Operations at ~$180B against a ~$19T GDP is **~0.9%** — under the 2% target without any effort, because operations are physically anchored (a judiciary, eight submarines, a rail network) while the economy triples around them. The sovereign shrinks because the nation grew.
+> **It is also what makes the falling cap true.** Operations at ~$196B against a ~$19T GDP is **~1.0%** — under the 2% target without any effort, because operations are physically anchored (a judiciary, eight submarines, a rail network) while the economy triples around them. The sovereign shrinks because the nation grew.
 
 **Spending sits at ~$411B total — ~$196B of operations (3.3% of GDP) and ~$215B of transfers.**
 
@@ -391,7 +398,7 @@ A sovereign act inconsistent with this section is void, reviewable by the Suprem
 | Transport operations | Transport Bureau | NInfraB standards; Energy and Infrastructure Committee |
 | Election integrity | Election Integrity Commission (11; Chamber Act §9.5) | Ethics & Standards Committee; Supreme Court nominates; referrals to Special Auditors |
 | **Revenue** | **~$460B** — VAT 5% $166B · income >$100k $144B · tariffs $49B · corporate profit $25B · resources $22.7B · co-op profit $20B · property $19B · excise $15B | Cap 4% → 2% of GDP; Public Accounts Committee |
-| **Spending** | **~$403B total** — **operations ~$196B (3.3% of GDP, inside the 4% cap)**: sustainability $50B · **military $46B** · R&D $30B · infrastructure $20B · parks $20B · four functions $20B · **savings match $8B**. **Transfers ~$215B**: education vouchers $170B · healthcare subsidy $45B | Cap binds operations only (§7.2); classification justiciable. No debt, no issuance, no SWF draw |
+| **Spending** | **~$411B total** — **operations ~$196B (3.3% of GDP, inside the 4% cap)**: sustainability $50B · **military $46B** · R&D $30B · infrastructure $20B · parks $20B · four functions $20B · **savings match $8B**. **Transfers ~$215B**: education vouchers $170B · healthcare subsidy $45B | Cap binds operations only (§7.2); classification justiciable. No debt, no issuance, no SWF draw |
 | Profit taxation | **Federal only** | Regions levy income tax and VAT; no level may tax residential land |
 | Domestic force | Not the sovereign | Militia to Territorial; police to municipalities; prosecutors to Regional Boards |
 | Growth | Closed list (§1.1) | Highest bar to add; ordinary bar to shrink |
