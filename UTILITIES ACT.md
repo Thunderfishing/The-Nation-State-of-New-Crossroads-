@@ -1,11 +1,11 @@
-# New Crossroads Utilities Act of 2025
+# New Crossroads Utilities Act of 2025: Draft 1.4
 
-**Draft:** 1.4 | **Date:** July 12, 2026
+**Draft:** 1.5 | **Date:** July 18, 2026
 **Author:** Thunderfish2
 
 ---
 
-> **Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values. 
+> **Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values.
 
 ---
 
@@ -84,9 +84,6 @@ The state owns the grid but **does not maintain it directly.** Maintenance, upke
 
 Utilities pay the NEB for access to state-owned transmission and distribution. Fees recover **155% of annual hardening and maintenance cost, annually** — 100% of upkeep plus a 55% margin that funds the Asset Renewal Fund, the SWF contribution, and the residential credit (§2.3). **Not 155% of construction: the grid's capital is general revenue** (Energy Act §1.2; Sovereign Functions Act §7.3).
 
-> **The phrase this fixes, and why it mattered across five acts.** Prior drafts read *"155% total recovery over asset life,"* which reads as **capital** recovery and is how three other acts inherited it. The Infrastructure Act's freeway took that reading literally and produced a **326-year** payback; the Communications Act's backbone produced **125 years**. **The canonical model is Infrastructure §4.1: 155% of *annual* maintenance, *annually*.** There is no exception.
->
-> **The maintenance reading checks out here.** ~$15B/year of fees implies ~$9.7B of annual upkeep across ~120,000 km of buried, EMP-hardened transmission and distribution — **~$81,000/km/year**, against a grid whose capital cost is ~$200B (~$1.67M/km). That is **~5% of asset value per year**, the top of the normal band and right for infrastructure built to survive a Carrington event. Read as capital recovery instead, the same fee would take **21 years to retire $310B** — which is not absurd on its face, and that is exactly why nobody caught it: **the freeway's 326 years was visible; this act's was not.** Same wrong model, quieter failure.set life**), matching the freeway-toll model.
 
 | Voltage Level | Fee per MWh | 2025 revenue | 2075 revenue |
 | :--- | :--- | :--- | :--- |
@@ -232,7 +229,7 @@ Every citizen and business may choose their retail provider from any licensed ut
 | Grid access priority | Tier 2 (after hubs) | Tier 3 |
 | License priority | First right of refusal | Apply only if no co-op qualified |
 | Maintenance concession priority (§1.4) | First right of refusal | Apply only if no co-op qualified |
-| CCIF access | Full (voluntary) | Limited (Co-op Chamber approval) |
+| CCIF access | Full (voluntary) | Limited (Productive Chamber approval) |
 | CME recovery loans | 0% interest (first 30 days) | 5% interest |
 
 ### 6.2 Financing for Co-op Utilities
