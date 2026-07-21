@@ -1,9 +1,8 @@
-# New Crossroads Industry Act of 2025
+# New Crossroads Industry Act of 2025: Draft 4.5
 
-**Draft:** 4.6 | **Date:** July 17, 2026
+**Draft:** 4.5 | **Date:** July 12, 2026
 **Author:** Thunderfish2
 
-> **Cross-reference.** Companion to the **Monetary Act 9.7**, **Credit Union Act 5.7**, the **Sovereign Functions Act**, the **Chamber Act**, **Energy Act 4.3**, **Housing Act 2.3**, **Infrastructure Act 2.5** (Industrial Corridors §3.7), the **Municipal & Regional Funding Act**, and the **Communications Act 4.2**. Loans are reference-rate-anchored (Monetary Act §1.5A). Data uses PPK/CED (no CWD). The currency is fiat.
 
 > **Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values.
 
@@ -193,7 +192,7 @@ Resources generate ~**$306.4B**/year (2025), scaling to ~**$570B** by 2075. **Re
 
 ## Section 4: Innovation Hubs
 
-Hubs drive ~$360B AI/tech, ~$15B jewelry, ~$20B heavy equipment (mining machinery), ~$20B steel, ~$12B aerospace, ~$18B military/missile, ~$10B nuclear, ~$3B aviation, ~$10B petrochemicals, ~$3.75B hemp, ~$5B transformers, ~$275M CO₂, and ~$10B shipbuilding — funded by **~$30B/year R&D** from **general revenue** (Sovereign Functions Act §7.3; no co-op recharge) — *not the SWF: prior drafts labelled it an SWF allocation, but the SWF lends and backstops, it does not fund the state's programmes (Monetary §2.1)*. Hub loans are reference-rate-anchored (service-sector rate for climate-related research, standard otherwise).
+Hubs drive ~$360B AI/tech, ~$15B jewelry, ~$20B heavy equipment (mining machinery), ~$20B steel, ~$12B aerospace, ~$18B military/missile, ~$10B nuclear, ~$3B aviation, ~$10B petrochemicals, ~$3.75B hemp, ~$5B transformers, ~$275M CO₂, and ~$10B shipbuilding — funded by **~$30B/year R&D** from **general revenue** (Sovereign Functions Act §7.3; no co-op recharge) — **not the SWF** — the SWF lends and backstops; it does not fund programmes (Monetary §2.1). Hub loans are reference-rate-anchored (service-sector rate for climate-related research, standard otherwise).
 
 ---
 
@@ -208,7 +207,7 @@ The **National Industry Board (NIB)** — 11 members — sets standards for all 
 - **Scrutiny:** NIB operations fully transparent (institutional level, CED)
 - **Independence:** paired with its department but subordinate to none — the board sets standards, the department implements; disputes resolved through ad-hoc arbitration (Chamber Act §6.6)
 
-> **The sovereign has no role here, and prior drafts gave it two.** They had the NIB *"reporting to the Sovereign Council"* and *"appointed by the Sovereign Council (5/7)."* **Sovereign Functions Act §8.5** bars the sovereign from regulating the domestic economy — *"prices, rates, entry, licensure, lending standards, listing standards, and **sector policy** belong to the rules, mutuals, chambers, and councils"* — and **Chamber Act §7** says so directly: *"The sovereign is barred from domestic regulation, so board appointment is a chamber function."* The NIB is the sixth of seven sector boards on that registry and had been running on a different rule than the other six. It now runs on theirs.
+> **The sovereign has no role here.** The NIB is an independent sector board under chamber appointment (Chamber Act §7.1). Sovereign Functions Act §8.5 bars the sovereign from sector policy, rates, and board appointments.
 
 ### 5.2 Regional Industry Districts
 20 Regional Industry Districts (e.g., Region 5: Heartland Plains) manage local industrial development, greenhouse buybacks, and corridor siting, reporting via Regional Boards (Chamber Act §3). District transactions below $10k are private; above $100k tracked via the pseudonymized CED.
