@@ -1,12 +1,12 @@
 ---
 title: "New Crossroads — Consolidated Fiscal Model (2025 base)"
-version: "3.0"
-date: "2026-07-20"
+version: "3.1"
+date: "2026-07-21"
 author: "Thunderfish2"
 description: "Single-page derived fiscal model on the $6T GDP base. Contains the five-pot architecture, the who-levies-what table, the rate-band structure, and the SWF's five named functions."
 ---
 
-# New Crossroads — Consolidated Fiscal Model (2025 Base) — v3.0
+# New Crossroads — Consolidated Fiscal Model (2025 Base) — v3.1
 
 **Reading note.** A derived model, not asserted numbers. Sections C–J flow from the base assumptions (Section A). Figures are rounded; illustrative, not precise.
 
@@ -86,7 +86,7 @@ Money does not cross between pots except where an act says so, and each crossing
 
 ---
 
-## E. NATIONAL TIER — Spending (~$411B)
+## E. NATIONAL TIER — Spending (~$424.5B)
 
 | Line | ~Annual | Operation or transfer? |
 |---|---:|---|
@@ -98,12 +98,15 @@ Money does not cross between pots except where an act says so, and each crossing
 | **National infrastructure buildout** | ~$20B | Operation |
 | Parks | ~$20B | Operation |
 | The four functions — judiciary, auditors, four bureaus | ~$20B | Operation |
+| **Mandatory-service stipends** (Education Act §4) | **~$13.5B** | **Transfer** — the citizen chooses the trade |
 | **Universal savings match** (formal + informal, $1-for-$1 up to $1,000/yr) | ~$8B | Operation |
-| **Total** | **~$411B** | **Operations ~$196B · Transfers ~$215B** |
+| **Total** | **~$424.5B** | **Operations ~$196B · Transfers ~$228.5B** |
+
+> **v3.1 correction — the stipend line.** Prior versions carried the mandatory-service stipends ($12,000–15,000/year × ~1M participants, Education Act §2/§4) inside the ~$411B total without naming them as a line. The Education Act authorizes them separately from the voucher ("Stipends: $15,000/year professional, $12,000/year vocational"); they are a distinct general-revenue instrument paying service participants directly, not a voucher draw. They are a **transfer** by the §7.2 test: the citizen chooses the trade, the state pays the stipend. Breaking them out raises the stated total from ~$411B to ~$424.5B and reduces the surplus from ~$49B to ~$35.5B. Operations are unchanged; the 4% cap is unaffected.
 
 ### The 4% operating cap
 
-**The cap binds operations, not transfers.** 4% of $6T is $240B; operations are **~$196B = 3.3% of GDP** — inside it. Transfers (~$215B) sit outside, and the test is **who chooses the recipient**: citizen → transfer, state → operation. Classification is justiciable and the presumption runs against the sovereign (Sovereign Functions Act §7.2).
+**The cap binds operations, not transfers.** 4% of $6T is $240B; operations are **~$196B = 3.3% of GDP** — inside it. Transfers (~$228.5B) sit outside, and the test is **who chooses the recipient**: citizen → transfer, state → operation. Classification is justiciable and the presumption runs against the sovereign (Sovereign Functions Act §7.2).
 
 ---
 
@@ -136,8 +139,10 @@ Money does not cross between pots except where an act says so, and each crossing
 | Corporate SWF contribution (5% of profit over $10M) | ~$60B |
 | **The 30% SWF share of every sector access-fee rail** — Infrastructure ~$22.4B, Energy ~$4.5B, Communications ~$0.06B | **~$27B** |
 | The SWF's 20% share of the BWC network fee rail | ~$1.8B |
-| General budget surplus | ~$49B |
-| **Total** | **~$138B** |
+| General budget surplus | ~$35.5B |
+| **Total** | **~$124.3B** |
+
+> **v3.1 note.** The surplus flowing to the SWF drops from ~$49B to ~$35.5B with the stipend line broken out. Contribution sources other than the surplus are unchanged. This slows the SWF's path to the 12% cap by roughly one year (reaching it in ~2030 rather than ~2029) but does not change the cap itself, the stabilizer schedule, or the steady-state dividend — those are driven by returns on the capped corpus, not by contributions.
 
 ### F.4 The Stabilizers — Destination, Never Rate
 
@@ -152,15 +157,17 @@ Money does not cross between pots except where an act says so, and each crossing
 
 The stabilizer cuts where the money lands, never what anyone pays. The corporate SWF contribution rate never moves — once capped, the excess flows to general revenue and onward to the citizens.
 
-### F.5 The Citizen Dividend — ~$152B/year
+### F.5 The Citizen Dividend — ~$138.7B/year
 
 | Channel | ~Annual |
 |---|---:|
 | §2.3 — 50% of SWF excess above the cap | ~$14.4B |
-| Sovereign §7.4 — surplus the sovereign may not accumulate, including redirected contributions | ~$138B |
-| **Total** | **~$152B** |
+| Sovereign §7.4 — surplus the sovereign may not accumulate, including redirected contributions | ~$124.3B |
+| **Total** | **~$138.7B** |
 
-**~$1,359 per citizen per year. ~$5,436 for a household of four.** Cash, tax-free, no filing, no threshold, no audit. The only transfer that reaches the informal majority.
+**~$1,238 per citizen per year. ~$4,953 for a household of four.** Cash, tax-free, no filing, no threshold, no audit. The only transfer that reaches the informal majority.
+
+> **v3.1 note.** The §7.4 channel includes both the redirected SWF contributions (~$88.8B, unchanged) and the budget surplus (~$35.5B, reduced from ~$49B by the stipend line). Both flow to the dividend once the SWF caps — the sovereign may not accumulate either. The §2.3 channel (return-driven, from excess above the capped corpus) is unaffected. The net reduction is ~$13.5B/year — the exact cost of the stipend line — yielding ~$1,238/citizen, down from ~$1,359.
 
 **Cash-first reduction rule:** if the dividend must be reduced (a revenue shock), the cash portion absorbs the reduction first. The forced-savings auto-route (Housing Act §3.1) is reduced only after the cash portion reaches zero.
 
@@ -236,7 +243,7 @@ Estate bequests; **outside the SWF and outside the 12% cap**. Principal locked u
 
 | Stock | 2025 | 2075 | Mechanism |
 |---|---:|---:|---|
-| **Sovereign Wealth Fund** | ~$230B | capped at 12% (~$2.28T) | Contributions + returns; caps ~2029 |
+| **Sovereign Wealth Fund** | ~$230B | capped at 12% (~$2.28T) | Contributions + returns; caps ~2030 |
 | **Defense Fund** | ~$100B | ~$920B | Estate bequests; outside the SWF; principal locked, returns drawable |
 | **Citizens' Metals ETF** | ~$168–209B | ~$2,500B+ | Streaming pipeline; non-redeemable; appreciation only |
 | **CCIF** | ~$991B | scales | Co-op sector's own pool; uninsured, no sovereign backstop |
@@ -262,6 +269,8 @@ State the base assumptions (§A) once; derive the rest. Round honestly. Carry th
 |---|---|---|
 | **C1** | Co-op profit chain — settled at ~$400B. VAT absorbed the correction at 5%. | **RESOLVED** ✓ |
 | **C2** | Education gross voucher — $180B gross, $10B FCL offset, $170B net. | **RESOLVED** ✓ |
+| **E1** | Mandatory-service stipends — ~$13.5B, broken out as a named transfer line (v3.1). | **RESOLVED** ✓ |
+| **E2** | Citizen dividend reduced from ~$152B (~$1,359/citizen) to ~$138.7B (~$1,238/citizen) by the stipend line. **The Monetary Act 9.8** still carries the prior figures in three places (§2.3 table, §2.3 narrative, and Key Stats). Those references will read ~$13.5B high until the Monetary Act is versioned to 9.9. No structural consequence — the mechanism, the channels, and the stabilizers are unchanged; only the derived amount shifts. | **FLAGGED — Monetary Act update pending** |
 | **G1** | Subnational line-by-line budgets — resolved by the Regions Act. ~$134B revenue, ~$112B spending, ~$22B surplus. | **RESOLVED** ✓ |
 | **H1** | CCIF participation at 2.5% — by design (the shelter self-selects for scale). | Logged |
 | **H2** | Resource part > whole — the §3 headline was the error, not the components. | **RESOLVED** ✓ |
@@ -271,18 +280,18 @@ State the base assumptions (§A) once; derive the rest. Round honestly. Carry th
 
 ## Solvency Summary
 
-**National tier:** ~$460B revenue against ~$411B spending = **~$49B surplus**, flowing to the SWF until it caps (~2029) and to the citizen dividend thereafter. Operations are ~$196B — **3.3% of GDP, inside the 4% cap**. No debt, no issuance, no SWF draw.
+**National tier:** ~$460B revenue against ~$424.5B spending = **~$35.5B surplus**, flowing to the SWF until it caps (~2030) and to the citizen dividend thereafter. Operations are ~$196B — **3.3% of GDP, inside the 4% cap**. No debt, no issuance, no SWF draw.
 
-**The SWF** seeds at ~$230B, takes ~$138B/year, caps at 12% of GDP in ~2029, and thereafter pays **~$152B/year (~$1,359/citizen)** in cash to every citizen including the informal majority. It lends and backstops. **It does not spend.**
+**The SWF** seeds at ~$230B, takes ~$124.3B/year (including the ~$35.5B surplus), caps at 12% of GDP in ~2030, and thereafter pays **~$138.7B/year (~$1,238/citizen)** in cash to every citizen including the informal majority. It lends and backstops. **It does not spend.**
 
 **Subnational tier** is self-funding — royalties, income tax, VAT, and fees — equalized by the MMF/RMF, with no debt at any level. ~$134B revenue, ~$112B spending, ~$22B surplus.
 
 **Major services self-fund:** healthcare on premiums (~$448B, 7.5% of GDP), infrastructure on maintenance-recovery fees, the credit-union network on a ~3% net interest margin.
 
-**Combined state spending (federal + subnational): ~$515B = 8.6% of GDP.**
+**Combined state spending (federal + subnational): ~$536.5B = 8.9% of GDP.**
 
 **All open items resolved.**
 
 ---
 
-**End of v3.0**
+**End of v3.1**
