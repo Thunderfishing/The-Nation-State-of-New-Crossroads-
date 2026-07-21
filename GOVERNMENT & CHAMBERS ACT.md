@@ -170,6 +170,31 @@ Any measure imposing an obligation on Tier-1 micro-co-ops or on informal-sector 
 - Productive Chamber: **400** (300 proportional enterprise seats + 100 wildcards). Territorial Chamber: **220** (20 Regional Boards × 11).
 - The Territorial Chamber is smaller in headcount but larger in constitutional weight — it holds the war power, the militia, the treaty ratification, the board confirmations, and the final word on rates. The Productive Chamber proposes and legislates within its domain; the Territorial Chamber confirms, ratifies, and holds the constitutional keys.
 
+
+### 4.5 Repeated Malice and Territorial Censure
+
+If the Competitive Neutrality Referral (§4.2) is triggered repeatedly, the minority delegation may escalate to the Territorial Chamber. This is the check against the grinding machine — a majority that loses malice findings and repackages the same intent into the next bill.
+
+**Trigger:** 3 final, non-appealed malice findings under §4.2 within a single 2-year legislative cycle.
+
+**Petition:** the minority enterprise delegation (simple majority of its members) petitions the Territorial Chamber, citing the specific arbitration findings.
+
+**Territorial review:** the Territorial Chamber reviews the petition within 60 days. The review is limited to the arbitration findings — the Territorial Chamber does not re-litigate the merits of the bills. The question is whether the dominant delegation has repeatedly been found to have acted with malice.
+
+**Censure threshold:** **15/20 Regional Boards** — the same supermajority as offensive war, treaty ratification, and board confirmations. This is not a simple-majority power.
+
+**Effect of censure:**
+
+| Stage | Consequence |
+|---|---|
+| **Censure (15/20)** | For the next **2 years**, any bill introduced by the censured delegation carries a **rebuttable presumption of malice.** The burden of proof shifts: the censured delegation must demonstrate in any §4.2 arbitration that the bill was not designed to disadvantage the minority. The censure is published in the national legal registry |
+| **Escalation (17/20)** | If, during the 2-year presumption period, a **fourth** malice finding occurs, the Territorial Chamber may by **17/20** suspend the censured delegation's **legislative initiative** for the remainder of the session — they may vote on bills introduced by others but may not introduce their own |
+
+**Sunset:** censure expires automatically after 2 years. The minority may petition for renewal if the pattern continues, subject to the same 15/20 threshold.
+
+**Appeal:** the censured delegation may appeal to the Supreme Court on procedural grounds — the findings were not final, the threshold was not met, the cycle was miscounted. The court reviews process, not substance.
+
+**Why the permanent minority needs this.** In a two-party system, a 75-seat minority can become a majority at the next election. In the Productive Chamber, the co-op majority is structural — it reflects the economy's ownership composition. Corporations cannot "win" an election; they can only grow their GDP share, which takes years. A permanent minority needs stronger procedural protections than a temporary one, because it cannot wait for the next election to protect itself. The censure mechanism provides that protection without giving the minority a veto it hasn't earned.
 ---
 
 ## Section 5: The Relationship Between the Layers — and How Law Is Made
