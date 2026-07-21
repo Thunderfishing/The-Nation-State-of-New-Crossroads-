@@ -1,12 +1,3 @@
----
-title: "New Crossroads — Post-Revolution Transition Timeline"
-draft: "1.0"
-date: "2026-07-17"
-author: "Thunderfish2"
-description: "The immediate aftermath: how a bloated, failed socialist state with a 120% debt-to-GDP default transforms into the constitutional co-op economy described in the seventeen founding acts. Focuses on Year 0 through Year 5; references but does not repeat the Phase 1 (2025–2035) timelines in the sector acts."
-cross-references: "All 17 founding acts, Consolidated Fiscal Model v2.0, Geography & National Profile 3.1, Metals & Currency Design 1.0"
----
-
 # New Crossroads — Post-Revolution Transition Timeline: Draft 1.0
 
 **Posted to r/Bulwarkomics**
