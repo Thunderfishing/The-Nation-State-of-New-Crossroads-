@@ -1,281 +1,452 @@
-# New Crossroads Industry Act of 2025: Draft 4.5
+# New Crossroads Energy Act of 2025: Draft 4.4
 
-**Draft:** 4.5 | **Date:** July 12, 2026
+**Draft:** 4.4 | **Date:** July 12, 2026
 **Author:** Thunderfish2
-
-
-> **Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values.
 
 ---
 
 ## Purpose
 
-The Industry Act establishes New Crossroads' industrial framework: a **co-op-dominant productive economy** built through incentives, alongside a dynamic corporate sector and a protected universal informal cash economy. It serves 112M citizens (2025), scaling to 130M by 2075, and drives resources, manufacturing, and the export economy.
+The New Crossroads Energy Act of 2025 (Draft 4.3) establishes New Crossroads' energy framework, post-2025 revolution, serving 112 million citizens with a $38.94T GDP (co-op dominant by design). The system is designed to foster a co-op dominant energy sector through incentives, while supporting a dynamic corporate generation market.
 
-Industries are fostered via **reference-rate-anchored service-sector loans** (the low service-sector rate for hemp, greenhouses, CO₂ capture, and artisan trades), **cheap baseload power** (SMRs, Energy Act 4.3), **75,000 km cooperative rail**, and **dredged Corridon/Westflow barges**, maintaining a free-market approach. Revenue scales to ~$397.2B by 2075. SWF funding is drawn from the ~$1.5–2.0T Sovereign Wealth Fund (capped at 12% of GDP). All 30,000 ha of greenhouses are non-arable, lease-to-own with buyback options, and hempcrete for Durahomes is CO₂-cured.
+It delivers a CME-proof 400 TWh grid (65% nuclear, 20% coal-geothermal, 10% hydro, 5% renewables), hardened with 30,000 km buried transmission lines, 150,000 km buried distribution lines, 750 EMP-shielded substations, and a 5,000-transformer reserve by 2075.
 
-Standards set by the **National Industry Board (NIB)** — an independent sector board under chamber appointment (Chamber Act §7.1), **not the sovereign** (Sovereign Functions Act §8.5) — leveraging 5,000 credit unions / CLS. **No binding sector quotas** — the 65/15/20 figures are descriptive baselines; co-ops receive license priority and fee discounts.
+The grid powers antifragile energy hubs at international and regional airports, integrating SMRs, hospitals, and sewer treatment/purification plants, with cargo airports in Crossroads City (Region 1) and Rivergate City (Region 2) supporting multimodal logistics.
+
+Following the asset/operator separation model from the Utilities Act:
+- **State owns:** Transmission lines, distribution lines, substations, transformer reserve, and antifragile hub SMRs
+- **Co-ops and corporations compete on:** Generation (new SMRs, geothermal, solar, wind, hydro, WTE) and retail electricity sales
+- **Access fees:** Utilities pay $/MWh transmission access fees for use of state-owned grid (155% cost recovery, 30% to SWF)
+
+The act scales to 1,633 TWh by 2075, supporting 130M citizens and a ~$19T GDP, with the state-owned grid funded by **general revenue** (Sovereign Functions Act §7.3) and generation funded by private investment (co-ops and corporations). Managed by the National Energy Board (NEB) under Sovereign Council oversight.
+
+No binding sector quotas apply. Co-op generation receives license priority (first right of refusal) and transmission fee discounts. The 65% co-op share of generation in 2025 is a descriptive baseline, not an enforcement target.
 
 ---
 
 ## Section 0: Interdependencies
 
-| Act | Integration Point |
-| :--- | :--- |
-| **Monetary Act 9.7** | Reference-rate-anchored service-sector loans (Monetary §1.5A); Informal Economy Guarantee (cash industrial transactions protected); asymmetric scrutiny (private under $100k); SWF capped at 12% GDP; co-op profit tax 5% (no SWF recharge); no binding quotas |
-| **Credit Union Act 5.7** | Micro-loans for informal industrial workers ($500, 4% nominal, self-attested, 24hr); embedded CLS officers (demand-distributed) |
-| **Sovereign Functions Act** | NIB is an independent board chartered under the independent board registry; Special Auditors (§3) enforce compliance |
-| **Chamber Act** | Regional Boards (§3) oversee regional industry matters; independent board registry (§7) |
-| **Energy Act 4.3** | 1,633 TWh grid (nuclear + SMRs) provides cheap baseload power; the 20 antifragile SMR hubs ensure CME-proof operations; nuclear/coal/WTE feed the Industrial Corridors |
-| **Housing Act 2.3** | 500,000 Durahomes/year use CO₂-cured hempcrete, low-carbon concrete, hemp 2x4s, and hemp insulation — all supplied by this act's hemp and forestry sectors |
-| **Infrastructure Act 2.5** | Rail, freeways, ports, barges, and CO₂ pipelines distribute goods; the **Industrial Corridors (§3.7)** carry warm-water + CO₂ to greenhouses, hemp processing, and hempcrete plants; DCALS applies to industrial compounds |
-| **Municipal & Regional Funding Act** | Corridor plants/greenhouses receive the DCALS-contingent land-tax holiday (construction-cost recovery); resources are regionally owned (royalties regional) |
+The Energy Act integrates with the Utilities Act, Industry Act, Infrastructure Act, Monetary Act, Credit Union Act, FCL Act, Sovereign Functions Act, and Chamber Act:
+
+- **Utilities Act 1.3:** Defines the asset/operator separation (state owns transmission/distribution, co-ops/corps compete on generation). Transmission access fees ($/MWh) fund grid maintenance and SWF.
+- **Industry Act:** The 1,633 TWh grid powers 30,000 ha hemp cultivation, 45,000 ha greenhouses, transformer production (10,000/year, $10B), heavy equipment ($15B), steel ($30B), and foreign factories ($60B).
+- **Infrastructure Act 2.4:** Buried transmission and distribution lines connect to 75,000 km rail, 150M-ton ports, and cargo airports for energy equipment distribution. Dark corridor standards apply to energy infrastructure adjacent to elevated freeways.
+- **Monetary Act 9.8:** Transmission access fees are paid in BWC, flow to SWF (30%), and are subject to standard BWC transaction fees. Co-op generators pay 5% co-op profit tax on profits over $100,000 (no SWF contribution). No binding sector quotas. Loans are reference-rate-anchored (Monetary §1.5A).
+- **Credit Union Act 5.8:** Generation co-ops access reference-rate-anchored loans for solar, wind, geothermal, and small hydro projects.
+- **FCL Act 3.4:** Generation utilities operate as Tier 2 or Tier 3 FCLs. Heavy Industry Clause applies to nuclear SMRs and large geothermal plants (51% member ownership minimum).
+- **Sovereign Functions Act:** The NEB is an independent board chartered under the independent board registry; Special Auditors (§3) enforce compliance.
+- **Chamber Act:** Regional Boards (§3) oversee regional energy matters; independent board registry (§7).
 
 ---
 
-## Section 1: Core Principles
+## Section 1: Asset/Operator Separation (Per Utilities Act)
 
-### 1.1 Asymmetric Scrutiny for Industry (per Monetary Act §5)
+### 1.1 State-Owned Assets (Transmission, Distribution, Hardening)
 
-| Level | Transaction type | CED treatment (pseudonymized) | Reporting |
+| Asset | 2025 Quantity | 2075 Quantity | Owner | Maintainer |
+| :--- | :--- | :--- | :--- | :--- |
+| High-voltage buried transmission lines (>100kV) | 20,000 km | 30,000 km | State (NEB) | NEB |
+| Medium/low-voltage buried distribution lines | 100,000 km | 150,000 km | State (Regional Boards) | NEB |
+| EMP-shielded substations | 500 | 750 | State (NEB) | NEB |
+| Strategic transformer reserve | 1,000 | 5,000+ | State (NEB) | NEB |
+| Antifragile energy hub SMRs | 18 GW | 56 GW | State (operated by NEB) | NEB |
+| Hydro dams (Westflow River, others) | 5 GW | 75 GW | State | NEB |
+
+These assets are funded by **general revenue** (~$200B of grid hardening, one-time buildout — Sovereign Functions Act §7.3) and maintained by the NEB out of transmission access fees (§2.3).
+
+
+### 1.2 Competitive Generation Market (Co-ops and Corporations)
+
+| Generator Type | 2075 Capacity | Typical Owner | Co-op preference | License required |
+| :--- | :--- | :--- | :--- | :--- |
+| Nuclear SMRs (new, non-hub) | 94 GW (150 GW total minus 56 GW hub) | Co-op or Corporate | First right of refusal | Yes (NEB) |
+| Geothermal standalone | 50 GW | Co-op | First right of refusal | Yes (NEB) |
+| Geo-coal hybrid | 50 GW | Corporate | Not applicable (corporate only) | Yes (NEB) |
+| Geo-WTE hybrid | 50 GW | Co-op or Corporate | First right of refusal | Yes (NEB) |
+| Hydro (new, run-of-river) | 0 GW (all state-owned) | State | N/A | N/A |
+| Renewables (solar, wind) | 50 GW | Co-op | First right of refusal | Yes (NEB) |
+| WTE standalone | 15 GW | Corporate | Not applicable (corporate only) | Yes (NEB) |
+
+**Co-op Preference:** Generation licenses are issued preferentially to co-ops. If a co-op applies for a license and meets all requirements, the license shall be granted before any corporate application for the same capacity is considered. This is a structural preference (first right of refusal), not a binding quota. The 65% co-op share of generation capacity in 2025 is a descriptive baseline, not an enforcement target.
+
+### 1.3 Retail Market (Competitive)
+
+| Service | Provider | Access fee to state lines | Consumer protection |
 | :--- | :--- | :--- | :--- |
-| Informal | Cash industrial transactions (farmers markets, artisan jewelry, local hemp products) below DLB threshold | Never collected | None. Constitutionally protected. |
-| Citizen | BWC industrial payments under $10,000/year | No detail | None |
-| Middle | BWC industrial payments $10k–$100k/year | Aggregate totals only | Annual summary |
-| Elite | Corporate industrial transactions above $100k | Full pseudonymized detail | Quarterly audits |
-| Institutional | NIB operations, district loans | Full transparency | Public annual reports |
-
-### 1.2 Reference-Rate-Anchored Loans for Industry
-
-All industrial loans are reference-rate-anchored (Monetary Act §1.5A). **Service-sector industries** — greenhouses, CO₂ capture, hemp processing, artisan trades, food production — receive the **low service-sector rate**; capital-intensive manufacturing (steel, heavy equipment, shipbuilding) uses the standard nominal rate.
-
-| Loan type | Rate |
-| :--- | :--- |
-| Greenhouse construction (non-arable) | Service-sector (low) |
-| CO₂ pipeline-connected facility | Service-sector (low) |
-| Hemp processing plant | Service-sector (low) |
-| Hempcrete plant | Service-sector (low) |
-| Heavy equipment / mining machinery | Standard |
-| Steel / shipbuilding | Standard |
-
-### 1.3 Informal Sector Industrial Access (per Credit Union Act 5.7)
-
-Informal industrial workers (artisans, small farmers, local processors) access micro-loans ($500, 4% nominal, self-attested income, 24hr CLS approval). Credit unions may not require disclosure of cash transaction history for loans under $500,000.
-
-### 1.4 Co-op Industrial Preference
-
-Industrial licenses, land leases, and greenhouse allocations are issued preferentially to co-ops (first right of refusal). A structural preference, not a binding quota; the 65% 2025 figure is descriptive.
+| Residential electricity | Any licensed utility (co-op/corp) | Paid to NEB ($0.15/kWh) | No disconnection during CME |
+| Commercial electricity | Any licensed utility | Paid to NEB | Negotiated rates |
+| Industrial electricity | Direct access or utility | Paid to NEB | Unregulated, large users |
 
 ---
 
-## Section 2: Core Industries
+## Section 2: Transmission Access Fees (Per Utilities Act)
 
-### 2.1 Hemp Industry (Full-Spectrum)
+### 2.1 Fee Structure
 
-New Crossroads runs a **full-spectrum hemp industry** — one crop feeding construction, shipping, and textiles:
-- **Construction (→ Housing Act 2.3):** CO₂-cured **hempcrete**, **hemp 2x4s**, hemp **insulation**, and hemp fiberboard for Durahomes.
-- **Shipping (→ Shipbuilding §2.12):** hemp **cordage and rope** for the merchant marine.
-- **Textiles, paper, bioplastics, and seed/oil** for food and industry.
+Utilities pay the NEB for access to state-owned transmission and distribution lines. Fees recover **155% of annual grid hardening and maintenance cost, annually** — 100% of upkeep plus a 55% margin funding the SWF contribution and the residential credit (§2.3) — matching the freeway toll and rail access models (Infrastructure Act §4.1; Utilities Act §2.1).
 
-- **Scale:** 25,000 ha (2035) → 30,000 ha (2075). Revenue ~$4.5B.
-- **Land-use rule:** hemp **avoids prime arable land.** It is grown on **marginal land where conventional food crops struggle but hemp thrives**, and **no more than 25% of any farmer's arable holding** may be devoted to hemp — protecting food production. Hemp cultivation and processing qualify for the **service-sector loans** offered to food/agriculture and other service-sector industries.
-- **Corridor siting:** hemp-processing and hempcrete plants **cluster on the Industrial Corridors** (Infrastructure §3.7) — beside the **CO₂ pipelines** (hempcrete is CO₂-cured, so the plant consumes the captured CO₂) and warm-water lines. Every hemp-heavy region receives a corridor pipeline.
-- **Tax:** co-op hemp processors pay 5% profit tax over $100k (no SWF recharge).
-- **Facilitation:** ~$9B/year reference-rate-anchored SWF loans.
+> **Not 155% of construction, and not "over asset life."** The grid's ~$200B capital is **general revenue** (§1.2; Sovereign Functions Act §7.3). The capital reading of this phrase gave the Infrastructure Act's freeway a **326-year** payback and the Communications backbone **125 years**; the canonical model is **maintenance, annually** (Infrastructure §4.1), with no exception. Here it implies ~$9.7B of annual upkeep across ~120,000 km of buried, EMP-hardened line — ~$81,000/km/year, ~5% of asset value, right for infrastructure built to survive a Carrington event.
 
-### 2.2 Forestry & Value-Added Wood Products
+| Voltage level | Fee per MWh | Annual volume (2025) | Annual revenue (2025) | Annual revenue (2075) |
+| :--- | :--- | :--- | :--- | :--- |
+| High-voltage (>100kV) | $15/MWh | 133 TWh | $2.0B | $8.2B |
+| Medium-voltage (10–100kV) | $10/MWh | 500 TWh | $5.0B | $16.3B |
+| Low-voltage (<10kV) | $20/MWh | 400 TWh | $8.0B | $24.5B |
+| **Total** | | **1,033 TWh** | **$15.0B** | **$49.0B** |
 
-Forestry is oriented to **value-added wood products** — not raw log export — for **domestic housing stock and export.**
-- **Scale:** 100,000 → 200,000 tons/year of finished products; revenue scaling with value-add.
-- **Products:** engineered lumber, cross-laminated timber, finished framing, millwork, and furniture — supplying Durahome construction (alongside hemp 2x4s) and the export market.
-- **Sustainability:** harvest within the Parks Act timber cap (10M m³/year); co-op forestry preference.
-- **Tax:** co-op wood processors pay 5% profit tax over $100k.
-- **Facilitation:** ~$1B reference-rate-anchored SWF loans (standard rate).
+### 2.2 Fee Adjustment Mechanism
 
-### 2.3 Mining Heavy Machinery
+- Biennial review by NEB (6/11 vote), **ratified by the Territorial Chamber (11/20 Regional Boards)**
 
-Because New Crossroads holds **massive mineral deposits and operations** (§3.1), the act deliberately fosters a **domestic mining-heavy-machinery industry** — excavators, haul trucks, drills, crushers, draglines, and processing equipment — for **import substitution** (the large mining sector buys domestic) and **export** (machinery + mining expertise).
-- **Scale:** ~$15B → growing with mineral output.
-- **Tax:** corporate manufacturers pay 15–20% profit tax; co-op manufacturers 5% over $100k.
-- **Facilitation:** ~$2B reference-rate-anchored SWF loans (standard rate).
+- Inflation adjustment tied to DLB (Daily Living Basket) annually
+- CME surcharge: Additional $2/MWh during CME recovery (max 90 days) to fund transformer deployment
+- Co-op discount: Co-op generators pay 20% less than corporate generators (co-op rate = 80% of corporate rate)
 
-### 2.4 Jewelry Industry (Informal Sector Protected)
+### 2.3 Revenue Allocation (Per Utilities Act)
 
-- **Scale:** $10B → $20B (~$4B exports).
-- **Rate:** service-sector (low) for artisan co-ops; standard for corporate.
-- **Informal protection:** cash sales at farmers markets and craft fairs below the DLB threshold are protected.
-- **Artisan training:** 10,000 artisans (~$100M/year SWF) via the CLS Academy.
-- **Tax:** artisan co-ops 5% over $100k; corporate jewelers 15–20%.
-- **Facilitation:** ~$1B/year reference-rate-anchored SWF loans.
-
-### 2.5 Foreign Investment
-
-- **Scale:** $20B → $60B.
-- **Co-op integration:** mandatory worker co-op model (20% year 1 → 40% by year 10) for foreign-owned factories.
-- **Tax:** foreign corporations pay 15–20% profit tax (no special rate).
-- **Tariffs:** 25% on imported autos/equipment; 0% for local factories.
-- **Land leases:** 50-year (up to 200 ha/firm), renewable; co-op lease priority.
-- **Facilitation:** ~$50B reference-rate-anchored SWF loans + ~$25B non-SWF loans.
-
-### 2.6 Steel Industry
-- **Scale:** $15B → $30B (~$5B exports). Standard rate. Corporate 15–20% tax. ~$1B/year SWF loans.
-
-### 2.7 Aerospace Industry
-- **Scale:** $8B → $20B (~$4B exports). Standard rate. Corporate 15–20% tax. ~$500M/year SWF loans. *(Arms/aerospace exports subject to the national-security veto, Military Act §8.2.)*
-
-### 2.8 Military / Missile Technology
-- **Scale:** $12B → $25B (~$5B exports). Standard rate. Corporate 15–20% tax. ~$1B/year SWF loans. *(Subject to the Military Act §8.2 export veto.)*
-
-### 2.9 Nuclear Technology
-- **Scale:** $7.5B → $15B (~$3B exports). Standard rate. Co-op component manufacturers 5% over $100k. ~$1B/year SWF loans. Supplies the SMR fleet (Energy Act 4.3).
-
-### 2.10 Aviation Industry
-- **Scale:** ~$5B (~$1B exports). Standard rate. Corporate 15–20% tax. ~$500M/year SWF loans.
-
-### 2.11 CO₂ Industry (Service-Sector)
-
-- **Scale:** ~$1B (~$500M exports).
-- **Rate:** service-sector (low) — CO₂ capture benefits climate.
-- **Products:** carbonate aggregates (500,000 tons/year), CO₂-to-fuels (50,000 tons/year).
-- **Corridor siting:** CO₂ processing sits on the Industrial Corridors beside the CO₂ pipelines (sourced from coal/WTE capture, Energy Act 4.3), feeding greenhouses and hempcrete curing.
-- **Tax:** co-op CO₂ processors 5% over $100k.
-- **Facilitation:** ~$1.35B reference-rate-anchored SWF loans.
-
-### 2.12 Shipbuilding Industry (Co-op Model)
-
-- **Scale:** 1,000 vessels ($10B) → 2,000 vessels ($20B, ~$2B exports).
-- **Model:** 70% co-op-owned, 30% government-owned.
-- **Innovation:** zero-emission propulsion (battery, hydrogen, ammonia; ~$500M R&D). Hemp cordage supplied domestically (§2.1).
-- **Tax:** shipbuilding co-ops 5% over $100k (no SWF recharge).
-- **Facilitation:** ~$5B non-SWF loans.
+| Allocation | 2025 ($B) | 2075 ($B) | Notes |
+| :--- | :--- | :--- | :--- |
+| Grid maintenance and hardening | 7.5 | 24.5 | 50% of revenue |
+| SWF (per Monetary Act 9.8) | 4.5 | 14.7 | 30% of revenue |
+| Residential electricity bill credit | 3.0 | 9.8 | 20% of revenue |
+| **Total** | **15.0** | **49.0** | |
 
 ---
 
-## Section 3: Resource Management
+## Section 3: Energy Production (2025–2075)
 
-Resources generate ~**$306.4B**/year (2025), scaling to ~**$570B** by 2075. **Resources are regionally owned** — regions levy royalties/stumpage as own-source revenue; the national government takes **40% of a 12% royalty, plus profit tax on resource firms** (Municipal & Regional Funding Act §2.5; Monetary Act §4; Sovereign Functions Act §7.1).
+### 3.1 Energy Mix (2025)
 
-> **The figure this corrects, and how it was caught.** Prior drafts headlined ~$213.28B. **The subsections beneath it sum to $306.375B** — minerals $200B, agriculture $45.375B, fuels $50B, forestry/water $9B, rare earths $2B — and the FCL Act independently reports **~$274B of co-op resource activity**, which fits inside $306B (89%, plausible in a co-op-dominant economy) but **exceeds the $213.28B headline outright**. A part cannot exceed its whole. Two witnesses against one: **the headline was the error**, not its own components and not the other act.
->
-> The 2075 figure carries the act's own growth ratio (1.86×) forward from the corrected base.
->
-> **This moves money in two other acts.** The national resource cut rises from ~$18B to **~$22.7B** (40% of 12% of $306.4B, plus ~$8B of resource-firm profit tax), taking federal revenue to ~$385.7B against ~$380B of spending — Monetary §4 and Sovereign Functions §7.1 carry the corrected line.
+| Source | TWh | GW | Share | Notes |
+| :--- | :--- | :--- | :--- | :--- |
+| Nuclear (including hub SMRs) | 260 | 80 | 65% | 50 GW SMRs (EMP-hardened), 15 GW Rivergate City hub |
+| Coal-Geothermal hybrid | 80 | 20 | 20% | 15 GW coal, 5 GW geothermal |
+| Hydro | 40 | 5 | 10% | Westflow River dammed; Corridon River undammed |
+| Renewables (solar) | 20 | 5 | 5% | Desert Port microgrids, Region 7 |
+| **Total** | **400** | **110** | **100%** | |
 
-### 3.1 Minerals
-- **Scale:** ~$200B — the nation's largest resource sector, anchored by **massive mineral deposits and operations** (the reason the mining-machinery industry §2.3 is fostered).
-- **Mining expertise exports:** ~$1B/year.
-- **Tax:** mining co-ops 5% over $100k; corporations 15–20%.
-- **Informal protection:** small-scale artisanal mining cash transactions protected below the DLB threshold.
+### 3.2 Energy Mix (2075)
 
-### 3.2 Agriculture & Non-Arable Greenhouses
+| Source | TWh | GW | Share | Notes |
+| :--- | :--- | :--- | :--- | :--- |
+| Nuclear (SMRs, including 56 GW hub) | 735 | 150 | 45% | 94 GW competitive generation + 56 GW state hub |
+| Geothermal standalone | 163 | 50 | 10% | Co-op preferred |
+| Geo-coal hybrid | 163 | 50 | 10% | Geothermal preheating, 20% emissions reduction |
+| Geo-WTE hybrid | 163 | 50 | 10% | Geothermal preheating, 20% emissions reduction |
+| Hydro | 196 | 75 | 12% | State-owned (Westflow and new run-of-river) |
+| Renewables (solar, wind) | 163 | 50 | 10% | Co-op preferred |
+| WTE standalone | 49 | 15 | 3% | Waste-to-energy, corporate mostly |
+| **Total** | **1,633** | **440** | **100%** | |
 
-- **Scale:** ~$45.375B → ~$80B.
-- **Greenhouses — non-arable siting:** all **30,000 ha of high-tech greenhouses are sited on non-arable land** — rocky, marginal, brownfield, or otherwise unsuitable for field crops — so they **do not displace farmland.** They **cluster on the Industrial Corridors** (Infrastructure §3.7) for **warm-water irrigation** (nuclear secondary-loop outflow, piped to eliminate evaporation) and **CO₂ enrichment** (from the CO₂ pipelines). Lease-to-own, 10-year terms, government buyback at 120% market value (capped 10%/year); co-op lease priority.
-- **Field agriculture:** the Heartland Plains prairie grows field crops, irrigated by the corridor **warm-water pipeline (no CO₂ there)** — pragmatic for open-field cropping.
-- **Rate:** service-sector (low) — food production.
-- **Tax:** agricultural co-ops 5% over $100k (no SWF recharge).
-- **Informal protection:** cash produce sales at farmers markets protected.
+### 3.3 Clean Energy and Carbon Management
 
-### 3.3 Fuels — Gas to Fertilizer & Petrochemicals (not Transport)
-
-- **Scale:** ~$50B.
-- **Gas-use rule:** New Crossroads' **modest natural-gas reserves are routed to fertilizer (ammonia/urea) and petrochemical feedstock — not transport fuel.** Transport is electrified by the nuclear grid (Energy Act 4.3), so gas is too valuable to burn for mobility; it feeds agriculture (domestic fertilizer security) and the chemical industry instead.
-- **Tax:** corporate fuel/chemical refiners pay 15–20% profit tax.
-
-### 3.4 Forestry / Water
-- **Scale:** ~$9B. Feeds the value-added wood-products sector (§2.2). Co-op forestry 5% over $100k.
-
-### 3.5 Rare Earths
-- **Scale:** ~$2B. Standard rate. Mining co-ops 5% over $100k.
+- Carbon capture: 2M tons/year CO2 from coal and WTE facilities
+- CO2 uses: Greenhouses (30,000 ha), hempcrete curing, CO2 aggregates, CO2-to-fuels
+- Carbon credits: $200M/year (geo-WTE hybrids)
+- Emissions reduction: 20% reduction vs. baseline (no geothermal preheating)
 
 ---
 
-## Section 4: Innovation Hubs
+## Section 4: Grid Hardening (CME Resilience)
 
-Hubs drive ~$360B AI/tech, ~$15B jewelry, ~$20B heavy equipment (mining machinery), ~$20B steel, ~$12B aerospace, ~$18B military/missile, ~$10B nuclear, ~$3B aviation, ~$10B petrochemicals, ~$3.75B hemp, ~$5B transformers, ~$275M CO₂, and ~$10B shipbuilding — funded by **~$30B/year R&D** from **general revenue** (Sovereign Functions Act §7.3; no co-op recharge) — **not the SWF** — the SWF lends and backstops; it does not fund programmes (Monetary §2.1). Hub loans are reference-rate-anchored (service-sector rate for climate-related research, standard otherwise).
+### 4.1 Hardened Assets (Per Utilities Act)
+
+| Asset | 2025 | 2075 | Cost (cumulative) | Hardening method |
+| :--- | :--- | :--- | :--- | :--- |
+| Buried high-voltage transmission lines | 20,000 km | 30,000 km | $60B | Buried (GIC-resistant) |
+| Buried distribution lines | 100,000 km | 150,000 km | $150B | Buried (GIC-resistant) |
+| EMP-shielded substations | 500 | 750 | $1.5B | Faraday cages, GIC-blocking capacitors |
+| Strategic transformer reserve | 1,000 | 5,000+ | $5B | EMP-shielded bunkers |
+| SMRs with Faraday-caged electronics | 50 GW | 150 GW | Included in SMR cost | Passive cooling, EMP shielding |
+
+### 4.2 CME Resilience Protocol
+
+| Event | Action | Timeline | Responsible |
+| :--- | :--- | :--- | :--- |
+| CME detected | AI sensors detect GIC surge | 1 second | NEB |
+| Grid isolation | Isolate affected segments | 1 second | NEB |
+| Substation failover | 750 substations switch to backup | 10 seconds | NEB |
+| Hub islanding | SMRs (56 GW) operate independently | 1 hour | NEB |
+| Transformer deployment | Deploy 500 transformers from reserve | 48 hours | NEB |
+| Full grid restoration | Restore 100% capacity | 72 hours | NEB + utilities |
+
+### 4.3 Funding
+
+| Component | Cost | Funded by |
+| :--- | :--- | :--- |
+| Buried transmission lines (30,000 km) | $60B | SWF (grid hardening allocation) |
+| Buried distribution lines (150,000 km) | $150B | SWF (grid hardening allocation) |
+| EMP-shielded substations (750) | $1.5B | SWF |
+| Transformer reserve (5,000+) | $5B | SWF |
+| AI-driven grid sensors | $500M | SWF (Tech Innovation Hub) |
+| **Total grid hardening** | **$217B** | **SWF (per Monetary Act 9.8)** |
 
 ---
 
-## Section 5: Governance
+## Section 5: Antifragile Energy Hubs
 
-### 5.1 NIB Structure
-The **National Industry Board (NIB)** — 11 members — sets standards for all industrial sectors, district loans, and revenue. It is an **independent sector board** on the Chamber Act §7 registry and reports to no sovereign organ.
-- **Composition:** 6 representatives from 20 Regional Industry Districts, 4 experts (drawn from the regional advisory layer, Chamber Act §8), 1 chairman.
+### 5.1 Hub Infrastructure
+
+| Hub type | Quantity | SMR capacity | Cargo capacity | Hospital beds | Sewer capacity |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| International (Crossroads City R1, Rivergate City R2) | 2 | 10 GW each (20 GW total) | 10M tons/year each | 5,000 beds each | 100M gal/day each |
+| Regional (one per remaining region) | 18 | 2 GW each (36 GW total) | 2M tons/year each | 2,000 beds each | 50M gal/day each |
+| **Total (2075)** | **20 (one per region)** | **56 GW** | **56M tons/year** | **46,000 beds** | **1,000M gal/day** |
+
+**One hub per region (20 total).** Each hub co-locates an SMR, a cargo/passenger airport, a **mega hospital** (Healthcare Act 6.6 — the 20 mega hospitals sit at these 20 hubs, one per region), and a sewer/water treatment plant — the antifragile anchor from which regional services radiate. Known hub sites: Crossroads City (R1, int'l), Rivergate City (R2, int'l), Eastport (R12), Coastwatch (R18), Southspire (R8), Rivermouth (R15), Greenvale (R11), Greystone (R19), Desert Port (R7), Sunhaven (R20); the remaining ten regional hubs (one per remaining region) are sited by regional planning. Hubs phase in as the SMR network is built, matching the mega-hospital phase-in.
+
+### 5.2 Hub Functions
+
+| Function | Power requirement | Notes |
+| :--- | :--- | :--- |
+| Cargo airport operations | 0.5 TWh/year per GW SMR | Multimodal logistics (rail, ports, barges) |
+| Hospital (full operations) | 0.4 TWh/year per 2,000 beds | Emergency services, surgeries |
+| Sewer treatment plant | 0.2 TWh/year per 50M gallons/day | Purification, recycling |
+| Hemp processing | 0.1 TWh/year per hub | Fiber, hurd, seed oil |
+| Transformer storage and deployment | 0.1 TWh/year per hub | Strategic reserve access |
+
+### 5.3 Hub Funding
+
+| Component | Cost | Funded by |
+| :--- | :--- | :--- |
+| SMRs (56 GW) | $100B | SWF (energy hub allocation) |
+| Airports (cargo facilities) | $90B | SWF + Infrastructure Act |
+| Hospitals | $20B | SWF + Healthcare Act (the 20 mega hospitals — one per hub, Healthcare 6.6) |
+| Communications (AM emergency transmitters + mesh backbone nodes) | (within hub allocation) | SWF + Communications Act 4.2 — hubs provide CME-resilient backup power to the AM emergency transmitters and mesh backbone, keeping the national emergency-broadcast and mesh layers alive during grid disruption |
+| Sewer plants | $10B | SWF + Infrastructure Act |
+| Buried lines and land | $80B | SWF |
+| **Total hubs** | **$300B** | **SWF (per Monetary Act 9.8)** |
+
+---
+
+## Section 6: Co-op Advantages in Energy
+
+### 6.1 Explicit Preferences
+
+| Preference | Co-op generator | Corporate generator |
+| :--- | :--- | :--- |
+| Transmission access fee | 80% of corporate rate | 100% of rate |
+| Generation license priority | First right of refusal | Apply only if no co-op qualified |
+| Grid access priority during CME | Tier 2 (after hubs) | Tier 3 |
+| CCIF access | Full (voluntary) | Limited (Productive Chamber approval) |
+| CME recovery loans | 0% interest (first 30 days) | 5% interest |
+
+### 6.2 Financing for Co-op Generation
+
+| Loan type | Amount | Term | Interest (reference-rate-anchored) | Source |
+| :--- | :--- | :--- | :--- | :--- |
+| Solar farm (small) | $2M | 10 years | Service-sector rate | Credit Union |
+| Geothermal plant | $50M | 20 years | Service-sector rate | CCIF |
+| Wind farm | $20M | 15 years | Service-sector rate | Credit Union + CCIF |
+| SMR (Heavy Industry) | $2B | 30 years | Service-sector rate | CCIF + SWF |
+| Community solar (micro) | $50k | 5 years | Service-sector rate | Micro-loan (self-attested) |
+
+All loans are reference-rate-anchored (Monetary Act §1.5A). Community-solar micro-loans serving the service sector qualify for the lower service-sector rate.
+
+### 6.3 Example: Rural Solar Co-op
+
+A Tier 2 FCL in Region 5 (Heartland Plains) wants to build a 10 MW solar farm.
+
+| Step | Action | Cost | Financing |
+| :--- | :--- | :--- | :--- |
+| 1 | Form generation co-op (under FCL Act) | $1,000 | Member base shares |
+| 2 | Obtain generation license from NEB (co-op priority) | $10,000/year | Operating budget |
+| 3 | Connect to state-owned distribution lines | $0 | State-owned lines; pays $8/MWh with co-op discount |
+| 4 | Build 10 MW solar farm | $10M | CCIF loan (service-sector rate, 20 years, reference-rate-anchored) |
+| 5 | Sell power to retail utilities or directly | Market rates | Competitive |
+
+The co-op pays 80% of the standard transmission access fee ($8/MWh instead of $10/MWh), has priority during CMEs, and qualifies for CCIF financing.
+
+---
+
+## Section 7: Governance
+
+### 7.1 National Energy Board (NEB) Structure (Per Utilities Act)
+
+The National Energy Board (NEB), an 11-member body, sets standards for the grid, grid hardening, antifragile energy hubs, transmission access fees, and generation licensing. It is an **independent sector board** on the Chamber Act §7 registry and reports to no sovereign organ.
+
+- **Composition:** 6 representatives from 20 Regional Energy Districts, 4 experts (drawn from the regional advisory layer, Chamber Act §8), 1 chairman.
 - **Appointment:** **nominated by the Territorial Chamber (Regional Boards, 11/20), confirmed by both Productive Chambers jointly** — the uniform rule for the seven sector boards (Chamber Act §7.1).
 - **Removal:** by the nominating and confirming bodies jointly, or on cause established by a Special-Auditor investigation.
-- **Voting:** 6/11 operational, 8/11 regulations
-- **Scrutiny:** NIB operations fully transparent (institutional level, CED)
-- **Independence:** paired with its department but subordinate to none — the board sets standards, the department implements; disputes resolved through ad-hoc arbitration (Chamber Act §6.6)
+- **Voting:** 6/11 for operational decisions (e.g., transmission fee rates, generation licenses), 8/11 for regulations (e.g., CME hardening standards). **Strategic shifts require Territorial Chamber ratification (11/20)** — not the sovereign.
 
-> **The sovereign has no role here.** The NIB is an independent sector board under chamber appointment (Chamber Act §7.1). Sovereign Functions Act §8.5 bars the sovereign from sector policy, rates, and board appointments.
+- **Functions:** Regulate generation market (150 GW nuclear, 50 GW geothermal, 50 GW geo-coal, 50 GW geo-WTE, 75 GW hydro, 50 GW renewables, 15 GW WTE), grid hardening, antifragile energy hubs (56 GW SMRs, 20 hubs), transmission access fees ($49B/year by 2075)
+- **Independence:** Paired with but subordinate to none; disputes resolved through ad-hoc arbitration (Chamber Act §6.6)
 
-### 5.2 Regional Industry Districts
-20 Regional Industry Districts (e.g., Region 5: Heartland Plains) manage local industrial development, greenhouse buybacks, and corridor siting, reporting via Regional Boards (Chamber Act §3). District transactions below $10k are private; above $100k tracked via the pseudonymized CED.
+### 7.2 CLS Functions for Energy
 
-### 5.3 Dark Corridor Compliance for Industrial Compounds (per Infrastructure Act 2.5)
-Industrial compounds within 500m of elevated freeway insect corridors must comply with DCALS: indirect red-spectrum motion lighting (scaled by floor area), retroreflective markers (no powered edge lighting), retroreflective paint as an alternative pathway, no horizon-visible emission. **DCLTI incentive:** certified compounds receive the property-tax reduction (0.75% → 0.70%, or 0.68% for full retroreflective). **Corridor land-tax holiday:** plants and greenhouses built on the Industrial Corridors pay no commercial land tax until construction (or lease-to-own purchase) cost is recovered, contingent on DCALS compliance (Infrastructure §3.7; Municipal & Regional Funding Act corridor carve-out).
+The Crossroads Loan Service (CLS) manages energy loans:
 
----
+| Loan type | Officers | Processing time |
+| :--- | :--- | :--- |
+| Solar/wind (small) | 20,000 (1,000/region) | 48 hours |
+| Geothermal (large) | 10,000 (500/region) | 30 days (board approval) |
+| Community solar micro-loan | 10,000 (500/region) | 24 hours |
+| CME recovery loan | 2,000 (100/region) | 48 hours (emergency) |
 
-## Section 6: CLS Functions for Industry
+*(CLS officer counts are demand-distributed per Credit Union Act §5.1. Energy loans are reference-rate-anchored at the low service-sector nominal rate.)*
 
-The Crossroads Loan Service manages reference-rate-anchored industry loans (~$105B SWF + ~$50B non-SWF).
-- **Student venture loans:** $500 (ages 12–15, service-sector rate) for industrial startups (hempcrete plants, gem workshops, shipyards), lenient criteria.
-- **Co-op industry loans:** $50,000–$5M, service-sector rate.
-- **Bankruptcy recovery:** including greenhouse buybacks (10%/year).
-- **Informal mandate:** accept self-attested cash income; 24-hour processing; no cash-history disclosure for loans under $500,000.
-- **Structure:** ~22,000 industry-focused officers (demand-distributed per Credit Union Act §5.1); CLS Academy trains officers in industry-specific lending and informal-sector engagement.
+### 7.3 Asymmetric Scrutiny (Per Monetary Act 9.8)
 
----
-
-## Section 7: 50-Year Implementation Plan
-
-| Phase | Years | Key Milestones | Funding |
+| Level | Transaction type | CED tracking (pseudonymized) | Reporting |
 | :--- | :--- | :--- | :--- |
-| 1: Foundation | 2025–2035 | 25,000 ha hemp (marginal land), 30,000 ha non-arable greenhouses on corridors, 5 shipyards, ~**$306.4B** resource revenue | ~$155B credit-union loans, ~$205B cumulative SWF lending |
-| 2: Expansion | 2035–2050 | 27,500 ha hemp, 37,500 ha greenhouses, 1,000 vessels, mining-machinery scale-up | ~$205B credit-union loans, ~$750B cumulative SWF lending |
-| 3: Optimization | 2050–2075 | 30,000 ha hemp, 45,000 ha greenhouses, 2,000 vessels, ~**$570B** resource revenue | ~$405B credit-union loans, ~$1.5–2.0T cumulative SWF lending |
+| Informal | Cash payments for electricity (at credit unions) | Never collected | None |
+| Citizen | Residential BWC payments under $10,000/year | No tracking | None |
+| Middle | Residential BWC payments $10k–$100k/year | Aggregate totals only | Annual summary |
+| Elite | Utility corporate transactions above $100k | Full tracking | Quarterly audits |
+| Institutional | NEB grid operations | Full transparency | Public annual reports |
 
-> **The SWF columns are cumulative lending across each phase, not draws on the corpus.** The fund is seeded at ~$230B and capped at 12% of GDP (Monetary §2.1); ~$205B of phase-1 lending is ~$20B/year against that corpus, which works **only because industrial loans revolve** — they are repaid and re-lent. Read as one-way allocations they would liquidate the fund twice over in the first decade. **The SWF lends here; it does not spend.** The ~$30B/year R&D line (§4) is the opposite case — that one is general-revenue spending, which several acts still label "SWF" (Monetary §2.1).
+Cash payments for electricity are accepted at credit union kiosks with no fee and no surveillance, per the Informal Economy Guarantee (Monetary Act Section 1A).
 
 ---
 
-## Section 8: Key Stats (2025–2075)
+## Section 8: 50-Year Implementation Plan (2025–2075)
 
-| Metric | 2025 | 2075 |
+### Phase 1: Foundation (2025–2035)
+
+| Action | Timeline | Cost | Responsible |
+| :--- | :--- | :--- | :--- |
+| Declare transmission/distribution as state-owned assets | 2025 | $0 | Territorial Chamber |
+| Complete 20,000 km buried transmission, 100,000 km distribution | 2025–2035 | $140B | NEB |
+| Build 2 international hubs (10 GW SMRs) and 4 regional hubs (4 GW) | 2025–2035 | $120B | NEB |
+| Establish transmission access fee structure | 2025 | $5M | NEB |
+| Issue first generation licenses (co-op priority) | 2026 | $1M | NEB |
+| Expand nuclear to 100 GW, geothermal to 10 GW | 2025–2035 | $15B | NEB + co-ops |
+
+*Revenue by 2035: $20B/year (transmission fees)*
+
+### Phase 2: Expansion (2035–2050)
+
+| Action | Timeline | Cost | Responsible |
+| :--- | :--- | :--- | :--- |
+| Expand buried lines to 25,000 km transmission, 125,000 km distribution | 2035–2050 | $100B | NEB |
+| Complete remaining 4 regional hubs (+4 GW SMRs) | 2035–2050 | $80B | NEB |
+| Scale nuclear to 150 GW, geothermal to 20 GW | 2035–2050 | $50B | NEB + co-ops |
+| Co-op generation expands through license priority | 2048 | $100B (private) | Co-ops + CCIF |
+
+*Revenue by 2050: $35B/year (transmission fees)*
+
+### Phase 3: Optimization (2050–2075)
+
+| Action | Timeline | Cost | Responsible |
+| :--- | :--- | :--- | :--- |
+| Expand buried lines to 30,000 km transmission, 150,000 km distribution | 2050–2075 | $75B | NEB |
+| Upgrade to 20 hubs (one per region): 10 GW international, 2 GW regional (56 GW total) | 2050–2075 | $100B | NEB |
+| Achieve 1,633 TWh grid with 440 GW capacity | 2075 | Per above | NEB + utilities |
+| Maintain 99.9% grid uptime via AI sensors | 2075 | $500M/year | NEB |
+
+*Revenue by 2075: $49B/year (transmission fees)*
+
+---
+
+## Section 9: Key Stats (2025–2075)
+
+| Metric | 2025 Value | 2075 Projection |
 | :--- | :--- | :--- |
 | Population | 112M | 130M |
 | GDP | ~**$6T** | ~**$19T** (co-op dominant by design) |
-| SWF | ~**$230B** seed (3.8% of GDP) | capped at 12% of GDP (~$720B → ~$2.28T) |
-| **Resource revenue** | ~**$306.4B** (§3.1–3.5) | ~**$570B** |
-| Minerals | ~$200B — the largest single sector | scaling |
-| Co-op share of resources | ~$274B (~89% — FCL Act) | scales |
-| National resource cut | ~$22.7B (40% of a 12% royalty + profit tax) | scales |
-| Hemp | 25,000 ha (marginal land) | 30,000 ha |
-| Greenhouses | 30,000 ha (non-arable, on corridors) | 45,000 ha |
-| Hemp land cap | ≤25% of any farmer's arable holding | same |
-| Gas use | Fertilizer + petrochemicals (not transport) | same |
-| Shipbuilding | 1,000 vessels | 2,000 vessels |
-| Loan rates | **reference + 2%** (~5.5%) standard; service-sector below it. Reference rate ~3.5% (Monetary §1.5A) | same |
-| NIB | Independent sector board — Territorial Chamber nominates, both Productive Chambers confirm (Chamber Act §7.1). **No sovereign role** | same |
-| Data architecture | PPK + CED (no CWD) | PPK + CED |
+| Electricity per capita | ~3.6 MWh (400 TWh / 112M) | ~12.6 MWh (1,633 TWh / 130M) |
+| Total generation capacity | 110 GW | 440 GW |
+| Total electricity generation | 400 TWh | 1,633 TWh |
+| Nuclear share | 65% (260 TWh) | 45% (735 TWh) |
+| Geothermal (standalone + hybrid) | 5 GW | 150 GW (50+50+50) |
+| Hydro | 5 GW | 75 GW |
+| Renewables (solar/wind) | 5 GW | 50 GW |
+| WTE | 0 GW (pilot) | 15 GW |
+| State-owned transmission lines (buried) | 20,000 km | 30,000 km |
+| State-owned distribution lines (buried) | 100,000 km | 150,000 km |
+| EMP-shielded substations | 500 | 750 |
+| Strategic transformer reserve | 1,000 | 5,000+ |
+| Antifragile energy hub SMRs | 18 GW | 56 GW |
+| Transmission access fee revenue | $15B/year | $49B/year |
+| Co-op preference for generation | First right of refusal | First right of refusal |
+| Grid uptime (normal operations) | 99.9% | 99.99% |
+| CME recovery time | 72 hours | 48 hours |
+| NEB | Independent sector board — Territorial Chamber nominates, both Productive Chambers confirm (Chamber Act §7.1). **No sovereign role** | same |
+| Transmission fee ratification | NEB 6/11 → Territorial Chamber 11/20. **Not the sovereign** (Sovereign Functions Act §8.5) | same |
+| Fee allocation | 50% grid · 30% SWF · 20% residential credit (§2.3) | same |
+| Carbon capture (CO2/year) | 2M tons | 5M tons |
+
+---
+
+## Appendix A: Comparison to Utilities Act
+
+| Feature | Utilities Act (Electricity Market) | Energy Act (Grid Infrastructure) |
+| :--- | :--- | :--- |
+| Asset owner | State (transmission/distribution) | State (same assets) |
+| Asset maintainer | NEB | NEB |
+| Generation | Competitive (co-ops/corps) | Competitive (co-ops/corps) |
+| Transmission access fee | $/MWh | $/MWh (same) |
+| Co-op discount | 20% on transmission fee | 20% (same) |
+| Co-op license preference | First right of refusal | First right of refusal |
+| CME hardening | State-managed (buried lines, EMP shields) | State-managed (same) |
+
+The Energy Act provides the physical assets and hardening; the Utilities Act provides the market structure and access fees. They are two sides of the same coin.
+
+---
+
+## Appendix B: Comparison to Rail Model (Infrastructure Act)
+
+| Feature | Rail (Infrastructure Act) | Energy (This Act) |
+| :--- | :--- | :--- |
+| Asset owner | State (70%) + Co-op (30%) | State (100%) |
+| Asset type | Tracks | Transmission/distribution lines |
+| Operator | Train companies | Utilities (co-ops/corps) |
+| Access fee | No tolls (cooperative maintains) | $/MWh transmission fee |
+| Fee recovery target | 100% of maintenance | 155% of hardening + maintenance |
+| Co-op preference | 30% track ownership | License priority, 20% fee discount |
+| CME hardening | Not applicable | Buried lines, EMP shields, transformer reserve |
 
 ---
 
 ## Design Philosophy (Informative)
 
-New Crossroads industrializes the way it does everything else — by turning constraints into closed loops and steering with incentives rather than mandates.
+The Energy Act provides the hardware — the buried lines, EMP-shielded substations, transformer reserves, and antifragile hubs that make New Crossroads the only nation on Earth with a CME-proof grid.
 
-- **One plant, one corridor, every waste stream reused.** Greenhouses sit on land too poor to farm, drink warm water that would otherwise be thermal pollution, and breathe CO₂ captured from coal and waste-to-energy. Hempcrete plants cure their blocks with that same CO₂. The corridor is an industrial ecosystem, not just a pipeline.
+The Utilities Act provides the software — the market structure, access fees, and competition rules that make the grid efficient, fair, and co-op-friendly.
 
-- **Hemp without hunger.** Hemp is a miracle crop — house frames, insulation, rope, cloth, all from one plant — but it never comes at the cost of food. It grows where wheat won't, on no more than a quarter of any farm, on the marginal ground. The nation builds its houses without starving for it.
+Together, they complete the asset/operator separation pattern that began with rail:
 
-- **Food independence from the ground up.** The gas stays home as fertilizer, not tailpipe exhaust; the forests become finished lumber for Durahomes, not raw logs on a freighter; the mines that anchor the economy are served by machinery built at home. Value is added inside the borders.
+- Rail: State owns tracks → co-ops/corps run trains
+- Energy: State owns grid → co-ops/corps generate and sell power
+- Communications: State owns fiber and towers → co-ops/corps provide internet and media
 
-- **The informal artisan is never crowded out.** The jeweler at the craft fair, the small farmer, the local hemp processor — all trade in cash, unwatched, beneath the threshold, while the corporate steel mill files its quarterly audit. Scrutiny rises with scale.
+**Why state-owned grid?**
+- Natural monopolies (transmission lines, substations) are not competitive markets
+- The state can harden the grid against CMEs once, centrally, efficiently
+- Buried lines and EMP shields are strategic national assets
+- Private utilities would under-invest in hardening (they don't capture the full social benefit)
 
-A nation that grows its houses, feeds its own soil, builds its own machines, and reuses its own waste heat and carbon — steering industry into shared corridors without ever forcing it there — is an industrial economy designed as a system, not a scramble.
+**Why competitive generation?**
+- Co-ops and corporations compete on cost, technology, and innovation
+- Citizens choose their power provider — if a co-op is bad, they switch
+- No state monopoly on electricity sales (which is usually inefficient)
+- Co-ops can start small (community solar) and grow to utility-scale
+
+**Why transmission access fees?**
+- Like rail track access or freeway tolls, users pay for what they use
+- Revenue funds maintenance (50%), SWF (30%), and direct citizen credits (20%)
+- 155% cost recovery matches the freeway model
+- Co-op discount (20%) gives co-ops a structural advantage without a subsidy
+
+**Why co-op generation preference (not quotas)?**
+- Co-ops receive first right of refusal for generation licenses
+- If no qualified co-op applies, a corporation may take the license
+- No binding quota means no enforcement action if co-op share fluctuates
+- The 65% figure from 2025 is a descriptive baseline, not a target
+
+**Why CME resilience?**
+- A Carrington-level CME would destroy unprotected grids for months or years
+- New Crossroads is the only nation with buried lines, EMP shields, and SMR islanding
+- Antifragile hubs (airports, hospitals, sewer plants) keep critical services running
+- This is not a cost — it is an insurance policy against civilization collapse
+
+The Energy Act is not about nationalization or privatization. It is about resilience through state-owned infrastructure and efficiency through competitive markets. The state does what only the state can do (bury 150,000 km of lines, shield 750 substations). Co-ops and corporations do what they do best (build solar farms, compete for customers, innovate).
+
+And when the next Carrington-level CME hits — and it will — New Crossroads will be the only nation with the lights still on.
+
+That is the Energy Act.
 
 ---
 
-**End of Draft 4.5**
+**End of Draft 4.4**
