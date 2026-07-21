@@ -1,6 +1,8 @@
-# Crossroads Monetary Reform & Economic Stabilization Act of 2025: Draft 9.8
+# Crossroads Monetary Reform & Economic Stabilization Act of 2025: Draft 9.9
 
 ---
+
+**Cross-reference.** Companion to the **Sovereign Functions Act** (the four sovereign functions — defense, the Special Auditors, the judiciary, the SWF; the four executive bureaus — Treasury, Foreign Affairs Bureau, National Lands & Commons Bureau, Transport Bureau), the **Chamber Act** (the Territorial Chamber / Regional Boards, the Co-op and Productive Chambers, the universal citizen vote, the oversight committees §6.7, the independent board registry §7, the entrenched floors §11, and the protected guarantees §12), the Credit Union Act 5.7, the Exchange Act 1.5, the FCL Act 3.3, the Municipal & Regional Funding Act, the Industry Act, and the remaining sector acts.
 
 **Note on figures.** All amounts derive from the companion **Consolidated Fiscal Model**, which holds two real columns — 2025 and 2075 — and from which every figure in this act is transcribed rather than restated. The design is in the structure and ratios, not the precise values. Where a figure awaits a decision it is marked **[TBD]** rather than estimated.
 
@@ -378,7 +380,7 @@ Informal-sector GDP is measured only by anonymized voluntary surveys, DLB price 
   - Corporate SWF contribution (5% of profit over the threshold): **~$60B/year**
   - **The 30% SWF share of every sector access-fee rail: ~$27B/year** — Infrastructure ~$22.4B (Infrastructure Act §4.2), Energy ~$4.5B (Energy Act §2.3), Communications ~$0.06B (Communications Act §2.3)
   - The SWF's 20% share of the BWC network fee rail (§1.3): **~$1.8B/year**
-  - Plus the general budget surplus: **~$49B/year**
+  - Plus the general budget surplus: **~$35.5B/year**
   - **Total annual contributions: ~$138B.**
 
   - **The resource cut flows to sovereign revenue** (§4; Sovereign Functions Act §7). 
@@ -441,7 +443,7 @@ The CLS — the licensed corps of credit-union loan officers established in deta
 The CLS is also, by the same logic, a brake on the debt that makes jubilees necessary: because every loan its officers write creates money (Credit Union Act §1.1, §5.2), prudent CLS underwriting restrains both money creation and the build-up of unpayable debt in the first place. The corps that grants the jubilee is the same corps whose discipline limits how often one is needed. That brake governs the **loan book**; the revolving channel is braked by published formula instead (§1.6A), because a facility with no officer cannot be braked by an officer's judgment.
 
 **Funding & growth drivers.**
-- **SWF seeding:** ~$138B/year from the contribution structure (§2.1) (remainder operations drawn first, surplus to SWF — §2.1 and Sovereign Functions Act §7). No co-op recharge; co-ops contribute to the commons through the FCL profit-sharing waterfall (Section 3).
+- **SWF seeding:** ~$124.3B/year from the contribution structure (§2.1) (remainder operations drawn first, surplus to SWF — §2.1 and Sovereign Functions Act §7). No co-op recharge; co-ops contribute to the commons through the FCL profit-sharing waterfall (Section 3).
 - **Growth drivers:** SWF investment returns and the housing program (see §2.5).
 
 ### 2.3 Automatic SWF Stabilizers
@@ -463,10 +465,12 @@ The CLS is also, by the same logic, a brake on the debt that makes jubilees nece
 | Channel | Source | ~Annual |
 |---|---|---:|
 | §2.3 | 50% of SWF excess above the cap | ~$14.4B |
-| Sovereign Functions §7 | surplus the sovereign may not accumulate — including redirected contributions above | ~$79B |
-| **Total** | | **~$152B** |
+| Sovereign Functions §7 | surplus the sovereign may not accumulate — including redirected contributions above | ~$124.3B |
+| **Total** | | **~$138.7B** |
 
-That is **~$1,359 per citizen per year**, ~$5,436 for a household of four — paid in cash, tax-free, asking nothing of anyone. It is the largest single transfer in the system and the only one with no form attached.
+That is **~$1,238 per citizen per year**, ~$4,953 for a household of four — paid in cash, tax-free, asking nothing of anyone. It is the largest single transfer in the system and the only one with no form attached.
+
+> **v9.9 — the dividend reduction and its cause.** Prior drafts carried the mandatory-service stipends ($12,000–15,000/year × ~1M participants, Education Act §2/§4) inside the spending total without naming them. Breaking them out as a transfer line (Sovereign Functions Act §7.3; Consolidated Fiscal Model §E) raises federal spending from ~$411B to ~$424.5B, reduces the surplus from ~$49B to ~$35.5B, and reduces the §7 dividend channel accordingly. The §2.3 channel (return-driven) is unchanged. The net reduction is ~$121/citizen/year — the exact cost of making the stipend visible.
 
 **Dividend auto-routing (the informal-economy savings mechanism).** For citizens without a payroll-deducted forced-savings contribution (Housing Act §3.1), the dividend is split **by default:**
 
@@ -483,7 +487,7 @@ The citizen may **opt out** at any time, at any credit union, without penalty, q
 
 ### 2.4 Contribution Phase-Out
 
-The SWF fills fast and then stops: **build (2025–2029), then capped for the remainder of the plan.** At ~$138B/year of contributions against a $230B seed and a 12% cap, the fund reaches the cap in about four years — after which §2.3 redirects contributions to general revenue and the fund runs on returns alone, growing in bad years and distributing in good. It never balloons.
+The SWF fills fast and then stops: **build (2025–2030), then capped for the remainder of the plan.** At ~$124.3B/year of contributions against a $230B seed and a 12% cap, the fund reaches the cap in about five years — after which §2.3 redirects contributions to general revenue and the fund runs on returns alone, growing in bad years and distributing in good. It never balloons.
 
 
 ### 2.5 Defense Fund (Separate Endowment)
@@ -537,7 +541,7 @@ The commons share splits Healthcare : Education : Charity in a 2:1:2 ratio. **To
 | Tax Type | Rate / Threshold | ~Yield/year | Scrutiny |
 |---|---|---|---|
 | **Federal VAT** | **5%**; **the Daily Living Basket is zero-rated (§1.4)** | **~$166B** | Point of sale; no individual tracking |
-| **Personal income** | **0% below $100,000. 20% ($100k–$250k) · 30% ($250k–$1M) · 40% (above $1M)** — formal and informal alike | **~$144B** | Auto-withholding (formal); self-attested (informal) |
+| **Personal income** | **The first $100,000 of every citizen's personal income is exempt.** Rates apply to the portion above the exemption only: **20% on the first $150k above exemption (income $100k–$250k) · 30% on the next $750k ($250k–$1M) · 40% on all income above $1M.** Formal and informal alike | **~$144B** | Auto-withholding (formal); self-attested (informal) |
 | Co-op profit tax | 5% over $100k; no SWF recharge | **~$20B** | Full CED disclosure for co-ops >$1M |
 | Corporate profit tax | 0% / 10% / 20% / 25% tiered | ~$25B | Full CED disclosure |
 | Excise | 3% on fuel/goods | ~$15B | Point of sale; no individual tracking |
@@ -545,10 +549,10 @@ The commons share splits Healthcare : Education : Charity in a 2:1:2 ratio. **To
 | Tariffs | ~9.8% avg on imports | ~$49B | Collected at port (Sovereign Functions Act §2.3) |
 | Resources (national cut) | **40% of a 12% regional royalty** + profit tax on resource firms | **~$22.7B** | Royalties are regional own-source (Municipal & Regional Funding Act §2.5); this line is the national portion only. Full CED tracking for extractive industries |
 
-**Total federal revenue: ~$460B against ~$411B of spending.** The VAT is the balancing item. For scale: Canada's federal GST is 5%; the EU averages 21% — and neither zero-rates a defined basket or returns the proceeds as a dividend.
+**Total federal revenue: ~$460B against ~$424.5B of spending.** The VAT is the balancing item. For scale: Canada's federal GST is 5%; the EU averages 21% — and neither zero-rates a defined basket or returns the proceeds as a dividend.
 
 
-**What the federal state spends on.** Education vouchers (~$170B net), sustainability projects (~$50B), the healthcare bottom-tier subsidy (~$45B), the military baseline (~$46B — §2.5), R&D (~$30B), parks (~$20B), and the sovereign's own four functions. **These are general-revenue lines.** Several sector acts still label them "SWF allocations"; they are not, and cannot be — see §2.1.
+**What the federal state spends on.** Education vouchers (~$170B net), sustainability projects (~$50B), the healthcare bottom-tier subsidy (~$45B), the military baseline (~$46B — §2.5), R&D (~$30B), parks (~$20B), the sovereign's own four functions, mandatory-service stipends (~$13.5B — Education Act §4), and the universal savings match (~$8B). **These are general-revenue lines.** Several sector acts still label them "SWF allocations"; they are not, and cannot be — see §2.1.
 
 **Why the income tax starts at $100,000, and why it starts there for everyone.**
 
@@ -677,21 +681,21 @@ Competition between regions on income tax and VAT is a feature of the design, no
 | Governance | Sovereign Council (7) + Territorial Chamber (220) + Productive Chamber (400) + Productive Chamber (100) + universal citizen vote | same structure |
 | **SWF** | **~$230B seed (3.8% of GDP)** | building toward the cap |
 | SWF cap (12% of GDP) | ~$720B | ~$2.28T |
-| **SWF reaches the cap** | **~2029 (year 4)** | capped thereafter |
-| **Citizen dividend (once capped)** | **~$152B/yr — ~$1,359/citizen** (§2.3 excess $14.4B + §7 surplus $138B) | scaled |
-| **Federal spending** | **~$411B (~6.9% of GDP)** — **operations ~$196B (3.3%, inside the 4% cap)**: sustainability $50B, military $46B, R&D $30B, infrastructure $20B, parks $20B, sovereign functions $20B, **savings match $8B**. **Transfers ~$215B**: education vouchers $170B, healthcare subsidy $45B | ~2% of GDP (buildout completes) |
-| SWF annual contributions | **~$138B** (corporate $60B + sector access-fee rails $27B + BWC fee rail $1.8B + surplus $49B) | redirected to general revenue once capped (§2.3) |
+| **SWF reaches the cap** | **~2030 (year 5)** | capped thereafter |
+| **Citizen dividend (once capped)** | **~$138.7B/yr — ~$1,238/citizen** (§2.3 excess $14.4B + §7 channel $124.3B) | scaled |
+| **Federal spending** | **~$424.5B (~7.1% of GDP)** — **operations ~$196B (3.3%, inside the 4% cap)**: sustainability $50B, military $46B, R&D $30B, infrastructure $20B, parks $20B, sovereign functions $20B, **savings match $8B**. **Transfers ~$228.5B**: education vouchers $170B, healthcare subsidy $45B, **mandatory-service stipends $13.5B** | ~2% of GDP (buildout completes) |
+| SWF annual contributions | **~$124.3B** (corporate $60B + sector access-fee rails $27B + BWC fee rail $1.8B + surplus $35.5B) | redirected to general revenue once capped (§2.3) |
 | **SWF's role** | **Crisis backstop + revolving lender (industrial, housing construction) + Defense Fund. Not the capital budget (§2.1)** | same |
 | Defense Fund (separate endowment) | ~$100B | ~$920B |
 | Citizens' Metals ETF (investment, not backing) | **~$168–209B** | scaled |
 | Credit Unions | ~5,000 (chartered by population/deposits; ≥3-catchment coverage; no fixed per-region count) | ~5,000 |
 | Exchange | Crossroads Exchange: 4 domestic boards + CGCI channel + Global Sound-Capital Segment (Exchange Act 1.5) | same |
 | **Federal tax base** | **VAT 5% $166B + income >$100k $144B + tariffs $49B + corporate $25B + resources $22.7B + co-op $20B + property $19B + excise $15B = ~$460B** | same structure |
-| **Income tax threshold** | **$100,000 — formal and informal alike. 20% / 30% / 40% (§4)** | same |
+| **Income tax threshold** | **$100,000 universal exemption — formal and informal alike. Marginal rates on the excess: 20% / 30% / 40% (§4)** | same |
 | **Sovereign operating cap** | **4% of GDP; falls toward ~2% as GDP triples, not as the Defense Fund matures** | ~2% |
 | **Military (operating)** | **~$52B ($46B sovereign + ~$6B Defense Fund)** | **~$65–75B ($46B + $15–25B endowment)** |
 | Commons via FCL waterfall | **~$48B** (~$19B health / ~$10B education / ~$19B charity) — a percentage of ~$400B of co-op net profit, not a fixed sum | scaled |
-| **Retirement income** | No state pension. Five independent streams: **(1)** citizen dividend $1,359/yr forever, **(2)** forced savings (~$55,000 formal / ~$20,000 informal at 65, unlocked — Housing Act §3.1), **(3)** Metals ETF shares (45 years of structural appreciation, sold on the Exchange), **(4)** special-share dividends at ~5.5% + sale on the CU Capital Board (no cap), **(5)** credit-union savings at ~2.5%. Plus: a Durahome owned outright ($0 housing cost, untaxable), healthcare at the subsidised tier, and the charity commons (~$19B/yr, co-op-directed, aged care as the likely largest category — FCL Act §3.2). | same |
+| **Retirement income** | No state pension. Five independent streams: **(1)** citizen dividend $1,238/yr forever, **(2)** forced savings (~$55,000 formal / ~$20,000 informal at 65, unlocked — Housing Act §3.1), **(3)** Metals ETF shares (45 years of structural appreciation, sold on the Exchange), **(4)** special-share dividends at ~5.5% + sale on the CU Capital Board (no cap), **(5)** credit-union savings at ~2.5%. Plus: a Durahome owned outright ($0 housing cost, untaxable), healthcare at the subsidised tier, and the charity commons (~$19B/yr, co-op-directed, aged care as the likely largest category — FCL Act §3.2). | same |
 | Data architecture | PPK + CED (no CWD) | PPK + CED |
 | Entrenched floors / guarantees | **12 floors (Chamber Act §11) + 4 protected guarantees (§12)** | same |
 | Corporate GDP cap | None (replaced by §4.1, guaranteed as §12.3) | None |
@@ -727,7 +731,7 @@ The informal economy is not a gap to be closed, a tax base to be captured, or a 
 
 - **Identity and money are architecturally separate.** The PPK knows who you are and nothing about what you own; the CED knows what value moved and nothing about who you are. No system may join them except a judge, under warrant, on the record. The state surveils the economy; it does not surveil the citizen.
 
-- **The SWF is self-limiting.** It never exceeds 12% of GDP; above the cap, excess returns to citizens as dividends — in cash, untracked, constitutionally protected, and reaching the informal majority that no rebate or credit ever could.
+- **The SWF is self-limiting.** It never exceeds 12% of GDP; above the cap, excess returns to citizens as dividends (~$1,238/citizen/year) — in cash, untracked, constitutionally protected, and reaching the informal majority that no rebate or credit ever could.
 
 - **The sovereign is thin, capped, and constitutionally barred from growth.** It holds four functions on a closed list and is prohibited from everything else. It may never print, never borrow, never tax a home, never surveil a citizen, and never suspend a right — and no war, emergency, or treaty pierces that list. It shrinks from 4% of GDP toward 2% not because any fund matures but because the nation grows around a state whose costs are anchored to people rather than to output.
 
@@ -739,4 +743,4 @@ Cash is beautiful and resilient. BWC is honest. Identity is sovereign. The syste
 
 ---
 
-End of Draft 9.8
+End of Draft 9.9
