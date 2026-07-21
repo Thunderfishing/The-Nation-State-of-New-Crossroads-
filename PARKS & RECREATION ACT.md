@@ -81,13 +81,13 @@ Management contracts for regional and municipal parks are issued preferentially 
 
 | Asset | 2025 | 2075 | Funding |
 | :--- | :--- | :--- | :--- |
-| CO₂ pipeline (Region 3) | 750 km | 750 km | SWF + CCIF |
+| CO₂ pipeline (Region 3) | 750 km | 750 km | General revenue + CCIF |
 | CO₂ absorption | 1.865M t/yr | 3.115M t/yr | — |
-| Greenhouse pipelines (Region 5) | 2,000 km | 2,000 km | SWF + CCIF |
+| Greenhouse pipelines (Region 5) | 2,000 km | 2,000 km | General revenue + CCIF |
 | Greenhouse area | 30,000 ha | 30,000 ha | — |
 | CO₂ absorption (greenhouses) | 0.8M t/yr | 1.0M t/yr | — |
 
-Funding: SWF (no co-op recharge). Parks receive third priority after Energy and Urban.
+Funding: general revenue and CCIF (FCL Act §3.8.7 — parks is the third allocation priority).
 
 ### 2.3 Integration with Infrastructure Act Insect Corridors
 
@@ -186,7 +186,7 @@ Net CO₂: −4.32M t/yr (2025) → −21.735M t/yr (2075).
 
 - **Cottages — fixed-cap, rising-price (auction-cleared):** a **hard cap of 10,000 cottages (500/region)** on 50-year leases. Because supply is capped, leases are **auctioned** and the clearing price rises with demand — the cap protects the parkweb while the auction captures the scarcity premium. (Replaces the flat $10,000/year fee.)
 - **Timeshares — scaled to carrying capacity, auctioned:** timeshare units **scale with the parkweb's measured carrying capacity** (ecological load limits set by the NHB-equivalent park authority), and are **auctioned** within that limit. The 10% foreign-ownership cap is retained. (Replaces the flat $5,000/year fee.)
-- **Proceeds:** flow to the Parks Index / parks funding and the SWF — foreign capital funds the commons; citizens are unaffected.
+- **Proceeds:** flow to parks funding (general revenue) — foreign capital funds the commons; citizens are unaffected.
 - **Scrutiny:** all cottage/timeshare transactions are institutional-tier (full tracking).
 
 ### 5.3 Funding Sources
@@ -195,16 +195,12 @@ Net CO₂: −4.32M t/yr (2025) → −21.735M t/yr (2075).
 | :--- | :--- | :--- |
 | **Dark Corridor Fund surplus** (Infrastructure Act §4.2) | **~$10.1B/year** (at mature tolls) | The parkweb’s primary funding stream — the surplus after the corridor’s own ~$1.1B of habitat, monitoring, and enforcement items. **Not the whole $11.2B** — the corridor items come first |
 | **Parks Index** (foreign investment, §5.1) | ~$10B/year | Auction-cleared cottage/timeshare revenue |
-| **General revenue** (Sovereign Functions Act §7.3) | ~$20B/year | The sovereign’s parks line — part of the ~$400B federal budget |
+| **General revenue** (Sovereign Functions Act §7.3) | ~$20B/year | The sovereign’s parks line — part of the ~$411B federal budget |
 | **Parks-stewardship levy** (§6.1) | ~$2B/year (by 2075) | ~5% of club revenue |
 | **CCIF to parks** (§5.4) | ~$2.5B/year | Third priority in the Alliance Network allocation; CCIF rescaled to ~$991B |
 
-> **What this table replaces.** Draft 3.4 funded parks from the **SWF** (~$20B “from SWF contributions”), the **FTT** (abolished — Monetary §1.3), and the **3% resource surcharge** (a rate with no derivation and a destination claimed by two acts). All three are gone. The replacement is the **Dark Corridor Fund surplus** — a stream that exists, is sized, and connects the parkweb to the infrastructure it physically adjoins — plus the Parks Index, the sovereign’s own parks line, the stewardship levy, and the CCIF.
->
-> **Park funding is no longer “protected as a fixed allocation” from the SWF stabilizers,** because it no longer comes from the SWF. It is general revenue, and the §2.3 stabilizers redirect SWF contributions, not the budget.
-
-### 5.4 CCIF Alliance Network
-- ~$991B CCIF (rescaled from ~$2.395T), 5–7% returns, ~$2.5B/year to parks; 1,832 members, 65% FCL-led, Co-op Chamber oversight.
+### 5.4 CCIF Alliance Network (FCL Act §3.8.7)
+- The Alliance Network is the **voluntary federation of CCIF depositors** — ~1,832 members (2.5% of eligible FCLs), holding ~$991B, governed by a 9-seat board (5 FCL-elected, 4 Productive Chamber-appointed). Parks is the **third allocation priority** at ~$2.5B/year, after energy and urban/industrial (FCL Act §3.8.7).
 
 ---
 
