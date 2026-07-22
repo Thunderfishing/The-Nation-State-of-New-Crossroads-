@@ -1,10 +1,11 @@
 # New Crossroads — Post-Revolution Transition Timeline: Draft 1.0
 
-**Posted to r/Bulwarkomics**
 **Draft:** 1.0 | **Date:** July 17, 2026
 **Author:** Thunderfish2
 
-> **Reading note.** This document covers the period the founding acts don't — the chaotic first years between the revolution and the point where the constitutional machinery is running on its own. The sector acts each carry a Phase 1 (2025–2035) timeline; this document provides the connective tissue beneath them. Year 0 is the revolution year. All figures derive from the Consolidated Fiscal Model v2.0.
+---
+
+> **Reading note.** This document covers the period the founding acts don't — the chaotic first years between the revolution and the point where the constitutional machinery is running on its own. The sector acts each carry a Phase 1 (2025–2035) timeline; this document provides the connective tissue beneath them. Year 0 is the revolution year. All figures derive from the Consolidated Fiscal Model v3.2.
 
 ---
 
@@ -48,7 +49,7 @@ A socialist island nation of 112 million people, near Point Nemo, with:
 
 **The tax system goes live — and it is shockingly simple:**
 
-- **4% VAT on consumption. The Daily Living Basket is zero-rated.** Collected at point of sale. No filing, no returns, no tax office visits.
+- **6% VAT on consumption. The Daily Living Basket is zero-rated.** Collected at point of sale. No filing, no returns, no tax office visits.
 - **No income tax below $100,000.** For the vast majority of the population — and the entirety of the informal economy — there is no direct tax relationship with the state whatsoever.
 - **No residential property tax. No business registration tax. No payroll tax.**
 - **Tariffs at the border** — the ports collect these; they don't require domestic compliance infrastructure.
@@ -170,7 +171,7 @@ Foreign suppliers want payment on delivery, not net-30. Import costs are elevate
 
 The §2.3 stabilisers fire automatically. Contributions above the cap begin redirecting to general revenue, and the sovereign surplus — which the state constitutionally may not accumulate — flows to the citizen dividend.
 
-**The first dividend payments go out.** ~$1,359 per citizen per year, paid monthly or quarterly, in cash, no filing required. For a household of four that's ~$4,830/year — real money in a $53,600 per-capita economy.
+**The first dividend payments go out.** ~$1,380 per citizen per year, paid monthly or quarterly, in cash, no filing required. For a household of four that's ~$5,520/year — real money in a $53,600 per-capita economy.
 
 **This is the moment the revolution becomes irreversible.** Not because the dividend is large, but because 112 million people just received money *from* a government for the first time in their lives. The old regime took. This one gave. And it did it without asking for a form, a registration, an account, or a declaration.
 
@@ -194,10 +195,10 @@ The informal economy — 25–30% of the working population — receives the div
 
 | Component | Status |
 |---|---|
-| Revenue (~$460B) | Collecting — VAT, income, profit taxes, tariffs, resources, property, excise |
-| Spending (~$411B) | Disbursing — vouchers, subsidies, infrastructure, military, parks, R&D, four functions |
+| Revenue (~$493B) | Collecting — VAT 6%, income, profit taxes, tariffs, resources, property, excise |
+| Spending (~$424.5B) | Disbursing — vouchers, subsidies, infrastructure, military, parks, R&D, four functions, mandatory-service stipends |
 | SWF (~$764B, capped) | Lending and backstopping — not spending |
-| Citizen dividend (~$152B/yr) | Paying — $1,359/citizen, cash, universal |
+| Citizen dividend (~$155B/yr) | Paying — $1,380/citizen, cash, universal |
 | Commons (~$48B) | Flowing — healthcare $19B, education $10B, charity $19B |
 | Healthcare (~$448B) | Self-funding on premiums + commons + subsidy |
 | Credit-union network | Self-funding on NIM (~3%) |
@@ -216,7 +217,7 @@ The informal economy — 25–30% of the working population — receives the div
 - 7 sector boards, confirmed and independent.
 - 3 chambers, elected and legislating.
 - ~$780B SWF, capped, paying dividends.
-- ~$1,359/citizen/year flowing to every citizen including the informal majority.
+- ~$1,380/citizen/year flowing to every citizen including the informal majority.
 - Polymer BWC with metallic flecks in every wallet.
 - Metals ETF growing, shares trading on the Exchange.
 - 50,000 Durahomes/year under construction.
@@ -240,7 +241,7 @@ This document ends where the sector timelines take over. For reference:
 
 | Act | Phase 1 scope |
 |---|---|
-| Energy Act 4.4 | Complete 20,000 km buried transmission; build 2 international + 4 regional SMR hubs; expand to 100 GW nuclear + 10 GW geothermal |
+| Energy Act 5.0 | Complete 20,000 km buried transmission; build 2 international + 4 regional SMR hubs; expand to 100 GW nuclear + 10 GW geothermal |
 | Infrastructure Act 2.7 | 50,000 km rail operational; freeway surveying and initial construction; retroreflective paint pilot |
 | Communications Act 4.4 | 50,000 km buried fiber hardened; AM radio in all vehicles by 2035; mesh network pilot |
 | Industry Act 4.5 | 25,000 ha hemp, 30,000 ha greenhouses, 5 shipyards, ~$306.4B resource revenue |
