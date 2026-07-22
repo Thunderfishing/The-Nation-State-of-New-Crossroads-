@@ -1,6 +1,6 @@
-# Crossroads Military Intelligence and Defense Act of 2025: Draft 2.0
+# Crossroads Military Intelligence and Defense Act of 2025: Draft 2.1
 
-**Draft:** 2.0 | **Date:** July 17, 2026
+**Draft:** 2.1 | **Date:** July 22, 2026
 **Author:** Thunderfish2
 
 ---
@@ -35,7 +35,7 @@
 | — Tier 1: Ready Reserve | 200,000 | Assigned to active Army units; 1 month/year training; deployable in **72 hours**. Recent veterans, first 5 years post-service. The first surge — doubles the professional force overnight |
 | — Tier 2: Standard Reserve | 500,000 | 20 **Regional Defense Battalions** (~25,000/region); 2 weeks/year training; deployable in **30 days**. Train in their own region, on their own terrain, integrated with regional infrastructure. The bulk homeland-defense force |
 | — Tier 3: Individual Ready Reserve | 300,000 | Specialists (engineers, medics, signals, logistics); 2 weeks/biennial; deployable in **90 days**. Skills-matched: a mining engineer is a combat engineer, a telecom technician is a signals specialist |
-| Militia (armed males) | 9,100,000 | Armed through mandatory service (Education Act 2.3 §4); answers to the **Territorial Chamber** (Regional Boards), not the Sovereign Council |
+| Militia (armed males) | 9,100,000 | Armed through mandatory service (Education Act 2.5 §4); answers to the **Territorial Chamber** (Regional Boards), not the Sovereign Council |
 
 ### 2.5 Militia Training Programme (Voluntary)
 
@@ -54,15 +54,28 @@
 > **Why voluntary, and why the stipend is small.** Compulsory militia training would turn 9.1 million armed citizens into conscripts — the opposite of what the right to bear arms means. The training is an *offer*, not an order. And the $1,500 stipend is deliberately modest: it covers the 2 weeks without making it a job. The people who show up come because they want to be ready, not because they need the money. **That self-selection is the quality filter.** A volunteer militia member who trains annually alongside professional reservists is worth ten conscripts who resent being there.
 | **Total Ground Force** | **10.2M** | |
 
-**Surge capacity:**
+**Surge capacity — two tables, two thresholds:**
 
-| Stage | Timeline | Strength |
+**Table 1: Professional and trained surge (the force that fights)**
+
+| Stage | Timeline | Cumulative strength |
 |---|---|---:|
 | Peacetime (active military, all branches) | standing | **~178,000** |
-| + Tier 1 Ready Reserve | 72 hours | ~356,000 |
-| + Tier 2 Standard Reserve | 30 days | ~856,000 |
-| + Tier 3 Individual Ready Reserve | 90 days | ~1,178,000 |
-| + Militia (total war) | full mobilisation | ~10,256,000 |
+| + Tier 1 Ready Reserve | 72 hours | ~378,000 |
+| + **Trained Militia (Homeland Defenders, ~900,000)** | **7–14 days** | **~1,278,000** |
+| + Tier 2 Standard Reserve | 30 days | ~1,778,000 |
+| + Tier 3 Individual Ready Reserve | 90 days | ~2,078,000 |
+
+> **Why the trained militia integrate before Tier 2.** The ~900,000 Homeland Defenders (§2.5 — militia members who have completed 3+ consecutive annual trainings alongside Tier 2/3 reserve units) know the procedures, have fired the weapons, and have trained in formed-unit exercises in their own region. They slot into the Regional Defense Battalions they already train with. A Homeland Defender who ran the range last month is ready faster than a Tier 2 reservist who last trained six months ago. They are not professional soldiers, but they are **trained, familiar, and regionally embedded** — the natural first surge after the Ready Reserve.
+
+**Table 2: Total-war mobilisation (the nation under arms)**
+
+| Stage | Timeline | Cumulative strength | Authority |
+|---|---|---:|---|
+| All of Table 1 | as above | ~2,078,000 | Standing military authority |
+| + **Remaining militia (~8.2M untrained)** | weeks to months | ~10,278,000 | **Territorial Chamber declaration (15/20)** — total war only |
+
+> **The 8.2M untrained militia are armed citizens, not soldiers.** They own rifles and pistols from mandatory service (Education Act §4) and have completed the 3-month boot camp, but they have not trained since. In total war, the Territorial Chamber integrates them into the Army's command structure (§2.5); in any lesser crisis, they are a population that can be armed and dispersed but not a force that can be deployed. The two tables exist because these are two different things — a trained surge force and a national last resort — and presenting them as one number ("~10.2M") obscures the difference between 2 million people who can fight in a month and 8 million who cannot.
 
 ### 2.2 Equipment (Ground Forces)
 
@@ -229,7 +242,18 @@
 
 | Asset | Count | Notes |
 |---|---:|---|
-| Military satellites | 10 → 75 | ISR, communications, early warning, GPS-independent navigation |
+| **National satellite constellation** | **10 → 75** | **Split across three roles (see below)** |
+
+**Satellite constellation breakdown (75 at maturity):**
+
+| Role | Count | Function | Controlled by |
+|---|---:|---|---|
+| **Sovereign GPS/PNT** | 24–30 | Global positioning, navigation, and timing — required for submarine operations worldwide, precision agriculture, maritime navigation, and civilian transport. Shared military/civilian asset | CSI (operations); NCB coordinates civilian access |
+| **Military** | 20–25 | ISR/reconnaissance, encrypted military satcom, submarine communication, missile early warning (infrared launch detection) | CSI + CMIS |
+| **Civilian** | 10–15 | Weather and earth observation, agricultural monitoring, disaster early warning, backup communications, emergency broadcast relay | State-owned; operated under NCB/NEB oversight, not military command |
+| **Total** | **~75** | | |
+
+> **Why sovereign GPS.** Relying on a foreign nation's GPS (US, Chinese, Russian, European) means that nation can deny positioning to New Crossroads at will — blinding the submarine fleet, the merchant marine, and precision agriculture simultaneously. A sovereign constellation of 24–30 satellites provides global coverage (the US GPS minimum) and eliminates a single-point strategic dependency. The civilian benefit (navigation for every ship, aircraft, farmer, and vehicle in the country) is a permanent peacetime return on a military investment.
 | Combat drones | 5,000 | Self-guiding and fiber-optic; multi-role — ISR, strike, EW relay |
 | Flying drone carriers | 10 | Airborne launch/recovery platforms extending drone range over ocean |
 | Anti-satellite missiles | 100 | Kinetic kill; ASAT capability is the space-layer deterrent |
@@ -251,7 +275,7 @@
 - **Personnel:** ~3,000 (2025) → ~6,000 (2075).
 - **Mission:** Space domain awareness, satellite operations, anti-satellite defense, space-based intelligence, and eventual asteroid mining.
 - **Divisions:**
-  - **Satellite Operations (1,000 personnel):** Manage the military satellite constellation (75 satellites by 2075).
+  - **Satellite Operations (1,000 personnel):** Manage the national satellite constellation (75 satellites by 2075 — military, GPS, and civilian).
   - **Space Surveillance (500 personnel):** Track orbital threats and debris.
   - **Anti-Satellite Defense (500 personnel):** Operate the 100 anti-satellite missiles.
   - **Space Launch (500 personnel):** Launch facilities at Desert Port and Frostpeak.
@@ -260,7 +284,7 @@
 ### 6.2 Assets
 | Asset | Count |
 |-------|-------|
-| Military satellites | 10 → 75 |
+| National satellite constellation | 10 → 75 (military ~25, GPS ~30, civilian ~15) |
 | Ground stations | 5 |
 | Launch facilities | 2 (Desert Port 2035, Frostpeak 2050) |
 | Anti-satellite missiles | 100 |
@@ -288,21 +312,21 @@
 
 ## Section 8: The Nuclear Directorate
 
-**The fuel cycle that powers the nation and arms its submarines.** New Crossroads operates 56 GW of civilian SMR capacity (20 hubs) and 24 nuclear submarine reactors, all fuelled by domestically mined uranium from the Frostpeak. The nuclear fuel cycle — from raw ore to spent fuel — is the single most sensitive industrial operation in the country, and the one place where civilian and military nuclear programmes physically intersect.
+**The fuel cycle that powers the nation and arms its submarines.** New Crossroads operates 170 GW of civilian nuclear capacity (58 GW state-owned across 21 hubs including the repository, plus 112 GW competitive; Energy Act 5.0) and 24 nuclear submarine reactors, all fuelled by domestically mined uranium from the Frostpeak. The nuclear fuel cycle — from raw ore to spent fuel — is the single most sensitive industrial operation in the country, and the one place where civilian and military nuclear programmes physically intersect.
 
 ### 8.1 The Hard Wall
 
 The **civilian fuel cycle** (low-enriched uranium, <5% U-235, for SMR fuel rods) sits on one side. The **naval fuel cycle** (highly enriched uranium, >90% U-235, for submarine reactor cores) sits on the other. **The wall between them is physical, not administrative:** separate facilities, separate personnel, separate security clearances, air-gapped information systems. A civilian enrichment technician cannot access the naval wing. A naval reactor engineer cannot access the civilian production line.
 
-The NEB (Energy Act 4.4) governs civilian reactors. The Nuclear Directorate governs naval reactors and weapons-grade material. Chamber Act §7.3 states the wall; this section implements it.
+The NEB (Energy Act 5.0) governs civilian reactors. The Nuclear Directorate governs naval reactors and weapons-grade material. Chamber Act §7.3 states the wall; this section implements it.
 
 ### 8.2 Facilities and Personnel
 
 | Facility | Function | Personnel | Security |
 |---|---|---:|---|
-| **Civilian enrichment plant** | Low-enriched uranium for 56 GW of SMRs | ~1,500 | NEB oversight, CED-transparent |
+| **Civilian enrichment plant** | Low-enriched uranium for 170 GW of civilian SMRs | ~1,500 | NEB oversight, CED-transparent |
 | **Naval enrichment plant** | Highly enriched uranium for 24 submarine reactor cores | ~1,500 | Military classification, air-gapped |
-| **Fuel fabrication** — civilian | Assemble fuel rods for SMR fleet (standardised across 20 hubs) | ~1,000 | NEB + co-op operated |
+| **Fuel fabrication** — civilian | Assemble fuel rods for SMR fleet (standardised across 21 hubs and competitive fleet) | ~1,000 | NEB + co-op operated |
 | **Fuel fabrication** — naval | Assemble reactor cores for SSBN/SSN fleet | ~500 | Military classification |
 | **Submarine reactor servicing** | Refuelling (~10-year cycle), overhaul, defuelling, reactor-compartment maintenance | ~3,000 | Dedicated naval shipyard, co-located with submarine base |
 | **Spent fuel management** | Cooling ponds → **reprocessing** (Energy Act §4A.2 — 96% recovered as reusable fuel) → geological repository for the 4% high-level waste (Energy Act §4A.3 — played-out Frostpeak mine, engineered barriers, Stewardship Endowment) | ~1,500 | Long-term — the repository operates for centuries; the reprocessing facility for as long as the reactors run |
@@ -335,7 +359,7 @@ The **civilian** enrichment and fuel fabrication plants are co-op-operated, fund
 | Military Training Academy | ~$100M | Core military training, pilot, naval, and cyber recruitment |
 | Pilot training | ~$30M | ~1K pilots/year |
 | Naval training (Andrew Reed Westport Naval Academy) | ~$30M | ~2K crew/year |
-| Cyber warfare training | ~$30M | Integrated with tech curriculum (Education Act 2.3) |
+| Cyber warfare training | ~$30M | Integrated with tech curriculum (Education Act 2.5) |
 | Reserve refreshers | ~$3.5B | 3-month refreshers every 5 years, 70% uptake |
 
 ### 8.2 Procurement
@@ -482,7 +506,7 @@ Crossroads ranks alongside:
 | Transport aircraft | 106 | 106 |
 | Combat drones | **10,000** | 10,000+ |
 | Flying drone carriers | 10 | 10 |
-| Military satellites | 10 | 75 |
+| National satellite constellation (military/GPS/civilian) | 10 | 75 (~25 military, ~30 GPS, ~15 civilian) |
 | Anti-satellite missiles | 100 | 100 |
 | Doctrine | Lean, drone-focused | Lean, drone-focused |
 | Global power rating | Tier‑2 | Tier‑2 (8.6/10) |
@@ -496,8 +520,8 @@ Crossroads ranks alongside:
 |------|------------|
 | **CMIS** | Crossroads Military Intelligence Service (25K→50K personnel) |
 | **CSI** | Crossroads Space Initiative (Space Command) |
-| **SWF** | Sovereign Wealth Fund (~$1.5–2.0T, capped at 12% GDP) |
-| **Defense Fund** | ~$920B citizen-bequest endowment, outside SWF cap; supplements the $40B SWF allocation |
+| **SWF** | Sovereign Wealth Fund (capped at 12% GDP, ~$720B → ~$2.28T). **Never funds the military** (Sovereign Functions Act §5.4 — absolute bar) |
+| **Defense Fund** | ~$920B citizen-bequest endowment, outside SWF cap; supplements the ~$46B **sovereign revenue** allocation (not the SWF) |
 | **BWC** | Bulwark Coin — the national fiat currency (not metal-backed) |
 | **Citizens' Metals ETF** | Citizen investment fund ($125–504B); backs its shareholders, not the currency |
 | **High Command** | Military High Command — Chairman of the Joint Chiefs, service chiefs, CMIS chief |
@@ -513,7 +537,7 @@ New Crossroads builds a military that is **lean by design and well-funded by two
 
 - **Cheap to lose, expensive to face.** The doctrine avoids the giant capital platforms a drone can sink or down for pennies. Swarms of in-house drones, fiber-optic guidance, commercial components, and a vast trained militia make the nation costly to invade and cheap to defend.
 
-- **Funded twice — a stable allocation plus a growing endowment.** The SWF provides a stable $40B/year baseline that never decreases. The citizen-bequest Defense Fund builds over fifty years to ~$920B, whose returns supplement the baseline to fund the expanded force. **The $40B allocation stays steady; the endowment pays for the expansion.**
+- **Funded twice — a stable allocation plus a growing endowment.** Sovereign revenue provides a stable ~$46B/year baseline that never decreases. The citizen-bequest Defense Fund builds over fifty years to ~$920B, whose returns supplement the baseline to fund the expanded force. **The ~$46B sovereign allocation stays steady; the endowment pays for the expansion.** The SWF may never fund military operations (Sovereign Functions Act §5.4 — no defense exception).
 
 - **A navy and air force that matter.** 8 SSBNs with 112 ICBMs, 16 VLS-equipped SSNs, 6 destroyers, 12 frigates, 24 corvettes, 30 patrol boats, 14 minesweepers, 10,000 drones, 300 combat aircraft, and 106 transport aircraft give New Crossroads strategic deterrence, underwater warfare capability, naval presence, and air dominance — enough to make any adversary think twice.
 
