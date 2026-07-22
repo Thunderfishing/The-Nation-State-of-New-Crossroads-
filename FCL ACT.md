@@ -1,6 +1,6 @@
 # Crossroads Federated Cooperatives Limited (FCL) Structure Act of 2025: Draft 3.4
-
-**Draft: 3.4 | Date: July 18, 2026**  
+ 
+**Draft: 3.4 | Date: July 11, 2026**  
 **Author: Thunderfish2**
 
 ---
@@ -275,7 +275,7 @@ Three tiers by size, revenue, and loan exposure. All pay the 5% co-op profit tax
 | Entrenched floors | 12 (Chamber Act §11); protected guarantees: 4 (Chamber Act §12); corporate governance = §12.3 | same |
 | Governance | Sovereign Council (7) + Territorial Chamber (220) + Productive Chamber (400) + Productive Chamber (100) + universal citizen vote | same |
 
-> **Note — this figure caught an error in another act, and it has been fixed there.** This act reports ~$274B of co-op resource activity. The Industry Act's §3 headline stated the whole resource sector grossed ~$213.28B — so a part exceeded its whole. Industry §3.1–3.5 sum to **~$306.4B**, which the $274B fits inside at ~89%, plausible for a co-op-dominant economy. Two witnesses against one: **the headline was the error.** Industry Act §3 (Draft 4.5) now reads ~$306.4B, and the national resource cut rises accordingly to **~$22.7B** (Monetary §4; Sovereign Functions §7.1). This act's figure stands unchanged.
+> **Note — this figure caught an error in another act, and it has been fixed there.** This act reports ~$274B of co-op resource activity. The Industry Act's §3 headline stated the whole resource sector grossed ~$213.28B — so a part exceeded its whole. Industry §3.1–3.5 sum to **~$306.4B**, which the $274B fits inside at ~89%, plausible for a co-op-dominant economy. Two witnesses against one: **the headline was the error.** Industry Act §3 (Draft 5.0) now reads ~$306.4B, and the national resource cut rises accordingly to **~$22.7B** (Monetary §4; Sovereign Functions §7.1). This act's figure stands unchanged.
 
 > **Note — CCIF participation is 2.5%, and the shelter is why.** Parks Act §5.4 reports **1,832 CCIF members**. Tier 1 is exempt (§3.6), leaving ~72,700 eligible entities — so participation is **~2.5%**, at an average deposit of ~$541M. The CCIF is not a co-op-sector pool; it is a **large-co-op pool**, because 15% of a small co-op's profit is nothing while 15% of a large one's is hundreds of millions. That is not an argument against the shelter (§3.2), but it means 5 of 9 seats on the country's largest capital allocator are elected by 2.5% of the sector. The §3.8.7 tiers fix the *voice* of those who are in; they do not reach *who is in*. Logged as open.
 
