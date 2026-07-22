@@ -1,8 +1,8 @@
-# New Crossroads Infrastructure Act of 2025: Draft 2.7
+# New Crossroads Infrastructure Act of 2025: Draft 3.0
 
 ---
 
-**Draft:** 2.7 | **Date:** July 18, 2026
+**Draft:** 3.0 | **Date:** July 22, 2026
 **Author:** Thunderfish2
 
 ---
@@ -13,7 +13,7 @@
 
 ## Purpose
 
-The New Crossroads Infrastructure Act of 2025 establishes New Crossroads' transportation and logistics framework, post-2025 revolution, serving 112 million citizens with a $38.94T GDP.
+The New Crossroads Infrastructure Act of 2025 establishes New Crossroads' transportation and logistics framework, post-2025 revolution, serving 112 million citizens with a ~$19T GDP (2075).
 
 It delivers a cooperative rail system (75,000 km, 750M tons/year by 2075), elevated inter-regional freeway system (15,000 km, with insect-friendly elevated sections and dark corridor adjacency lighting standards), merchant marine fleet (2,000 vessels, 200M tons/year), ports (150M tons/year), barges (75M tons/year), and CO2 pipelines (4,000 km, 8M tons/year), centered on Crossroads City (Region 1) as the rail and road hub on the Corridon River.
 
@@ -31,11 +31,11 @@ The system is designed to foster a co-op dominant transportation sector through 
 
 The Infrastructure Act integrates with the Energy Act, Utilities Act, Industry Act, Housing Act, Monetary Act, Sovereign Functions Act, and Chamber Act:
 
-- **Energy Act 4.4:** The 1,633 TWh grid (440 GW, 56 GW SMR hubs) powers 75,000 km rail (80% electrified, 20 GW), elevated freeway lighting (minimal, per insect corridor rules), 5 shipyards, 150M-ton ports, 75M-ton barges, and 4,000 km CO2 pipelines. Antifragile hubs ensure CME-proof operations.
-- **Utilities Act 1.3:** Transmission access fees ($49B/year by 2075) fund grid hardening that powers rail electrification. The asset/operator separation model is directly replicated.
+- **Energy Act 5.0:** The 1,633 TWh grid (440 GW, 56 GW SMR hubs) powers 75,000 km rail (80% electrified, 20 GW), elevated freeway lighting (minimal, per insect corridor rules), 5 shipyards, 150M-ton ports, 75M-ton barges, and 4,000 km CO2 pipelines. Antifragile hubs ensure CME-proof operations.
+- **Utilities Act 1.4:** Transmission access fees ($49B/year by 2075) fund grid hardening that powers rail electrification. The asset/operator separation model is directly replicated.
 - **Industry Act:** Rail, freeways, ports, barges, and cargo airports distribute hemp ($2B), heavy equipment ($20B), steel ($2B).
 - **Housing Act:** Infrastructure supports 500,000 Durahomes/year by 2075, transporting CO2-cured hempcrete (450,000 tons/year), low-carbon concrete (10M tons/year), hemp 2x4s (50,000 tons/year), and insulation (50,000 tons/year).
-- **Monetary Act 9.8:** Infrastructure access fees (tolls, track access, port fees) are paid in BWC, flow to SWF (30% of revenue), and are subject to standard BWC transaction fees. Co-op operators pay 5% co-op profit tax on profits over $100,000 (no SWF contribution). No binding sector quotas apply. Loans are reference-rate-anchored (Monetary §1.5A).
+- **Monetary Act 9.9:** Infrastructure access fees (tolls, track access, port fees) are paid in BWC, flow to SWF (30% of revenue), and are subject to standard BWC transaction fees. Co-op operators pay 5% co-op profit tax on profits over $100,000 (no SWF contribution). No binding sector quotas apply. Loans are reference-rate-anchored (Monetary §1.5A).
 - **Sovereign Functions Act:** The National Infrastructure Board (NInfraB) is an independent board chartered under the independent board registry; Special Auditors (§3) enforce compliance.
 - **Chamber Act:** Regional Boards (§3) oversee regional infrastructure matters; independent board registry (§7).
 
@@ -47,11 +47,13 @@ The Infrastructure Act integrates with the Energy Act, Utilities Act, Industry A
 
 New Crossroads' transportation sector operates on the same principle as its rail system and utilities:
 
+**Revenue clarification.** All revenue figures in this act are **state access fees** — what the state collects from operators for using state-owned infrastructure. Operator commercial revenue (what train companies, shippers, and barge lines earn from their customers) is private revenue and is not included. The access fees recover **155% of annual maintenance** (not construction), with the 55% margin funding the SWF contribution, the Dark Corridor Fund, and the rural subsidy. Operator commercial revenue is taxed through the standard co-op/corporate profit tax (5% / 0-25%, federal only).
+
 | Sector | Asset Owner | Operator | Access Fee |
 | :--- | :--- | :--- | :--- |
 | Rail | State (70%) + Co-op (30%) | Train companies (co-ops/corps) | Track access charge ($/ton-km) |
-| Freeways | State (100%) | Any vehicle | Toll ($0.10/km, 155% of annual maintenance) |
-| Elevated Freeway Sections | State (100%) | Any vehicle | Toll ($0.12/km on elevated segments) |
+| Freeways | State (100%) | Any vehicle | Toll ($0.04/km, above 155% — excess to SWF/DCF) |
+| Elevated Freeway Sections | State (100%) | Any vehicle | Toll ($0.06/km on elevated segments) |
 | Ports | Co-op (70%) + State (30%) | Port operators | Berth fees ($/ton) |
 | Barges | Co-op (70%) + State (30%) | Barge operators | Waterway access fee ($/ton-km) |
 | CO2 Pipelines | State (100%) | Industrial users | Pipeline access fee ($/ton CO2) |
@@ -61,8 +63,8 @@ New Crossroads' transportation sector operates on the same principle as its rail
 | Asset | 2025 Quantity | 2075 Quantity | Owner | Maintainer |
 | :--- | :--- | :--- | :--- | :--- |
 | Rail tracks | 50,000 km | 75,000 km | State (70%) + Co-op (30%) | Cooperative |
-| Freeway pavement (standard) | 10,000 km | 12,000 km | State | NInfraB |
-| Elevated freeway sections (insect corridors) | 0 km | 3,000 km | State | NInfraB |
+| Freeway pavement (standard) | 10,000 km | 12,000 km | State | Co-op concession |
+| Elevated freeway sections (insect corridors) | 0 km | 3,000 km | State | Co-op concession |
 | Port facilities | 97M tons/year | 150M tons/year | Co-op (70%) + State (30%) | Cooperative |
 | Barge channels (dredged) | 1,500 km | 1,500 km | Co-op (70%) + State (30%) | Cooperative |
 | CO2 pipelines | 3,200 km | 4,000 km | State | Cooperative |
@@ -395,15 +397,15 @@ Reports are publicly available via the CED (pseudonymized), with individual prop
 
 
 Toll Adjustment for Elevated Sections:
-- Standard toll: $0.10/km
-- Elevated section surcharge: +$0.12/km on elevated segments
+- Standard toll: $0.04/km
+- Elevated section surcharge: +$0.02/km on elevated segments ($0.06/km total)
 - Rationale: Users of insect-friendly infrastructure pay the incremental cost
 - Revenue from surcharge: $360M/year
 
 Total toll revenue (2075):
-- Standard sections (12,000 km): $1.2B/year
-- Elevated sections (3,000 km): $360M/year
-- **Total toll revenue: $1.56B/year**
+- Standard sections (12,000 km): ~$5.8B/year
+- Elevated sections (3,000 km): ~$1.5B/year
+- **Total toll revenue: ~$7.3B/year** (at $0.04/km; $0.02/km would hit 155% exactly — the excess funds the SWF and DCF)
 
 ### 2.6 Insect Deflector Pilot
 
@@ -423,9 +425,9 @@ Insect deflectors remain mandatory on all government vehicles by 2035, recommend
 
 - Scale: 50,000 km (2025) → 75,000 km (2075)
 - Freight volume: 500M tons/year (2025) → 750M tons/year (2075)
-- Revenue: $56.25B/year (2075)
+- Revenue (155% of track maintenance): ~$7.5B/year (2025) → ~$11.6B/year (2075) — state track access charges, not total operator freight revenue
 - Ownership: 70% state, 30% co-op (train companies as members)
-- Access fee: No tolls (cooperative maintains tracks at 5% profit, $1.875B/year government revenue)
+- Track access charge: set to recover **155% of annual track maintenance** (~$100,000/km/yr × 0.90 education discount × 75,000 km × 1.55). Revenue splits 50/30/10/10 (maintenance / SWF / Dark Corridor Fund / rural)
 - Electrification: 80% (15 GW SMRs in 2025, 20 GW by 2075)
 - Loan terms: Rail operator loans are reference-rate-anchored (Monetary Act §1.5A)
 
@@ -434,8 +436,8 @@ Co-op Preference: Rail operating licenses are issued preferentially to co-ops (f
 ### 3.2 Inter-Regional Freeway System (with Elevated Insect Corridors)
 
 - Scale: 10,000 km (2025) → 15,000 km (2075), including 3,000 km elevated sections
-- Vehicle-km: 10B/year (2025) → 15B/year (2075)
-- Toll revenue: $1.0B/year (2025) → $1.56B/year (2075)
+- Vehicle-km: 80B/year (2025) → 182B/year (2075) (~1,400 vkm/capita — conservative for a rail-dominant economy; France is 2,687)
+- Toll revenue: ~$3.2B/year (2025) → ~$7.3B/year (2075) (at $0.04/km, exceeding 155% of maintenance — excess allocated to SWF and DCF)
 - Cost recovery: **155% of annual maintenance, annually** — not of construction. Construction is general revenue (§2.5).
 
 - Solar medians: 1 GW solar on 5,000 km medians ($100M), saving $50M/year
@@ -446,8 +448,8 @@ Dark Corridor Compliance: Elevated sections have no lighting. Enforcement by Reg
 ### 3.3 Cooperative Shipbuilding and Merchant Marine Fleet
 
 - Scale: 1,000 vessels (2025) → 2,000 vessels (2075)
-- Volume: 100M tons/year (2025) → 200M tons/year (2075)
-- Revenue: $20B/year (2075)
+- Volume: 100M tonnes/year (2025) → 200M tonnes/year (2075)
+- Revenue: ~$20B/year (2075) — this is **operator commercial revenue**, not a state access fee. The state collects port berth fees (§3.4), not shipping freight revenue
 - Ownership: 70% co-op, 30% state (shipbuilders, shipowners, port operators as members)
 - Shipyards: 5 (Regions 2, 12, 18) → 5 (optimized)
 - Zero-emission propulsion: Battery, hydrogen, ammonia ($500M R&D)
@@ -455,19 +457,19 @@ Dark Corridor Compliance: Elevated sections have no lighting. Enforcement by Reg
 
 ### 3.4 Ports
 
-- Scale: 97M tons/year (2025) → 150M tons/year (2075)
-- Revenue: $19.35B/year (2025) → $29.925B/year (2075)
+- Scale: 97M tonnes/year (2025) → 300M tonnes/year (2075) (sea ports only; Crossroads City freshwater port adds ~80M tonnes transshipment)
+- Revenue (155% of port maintenance): ~$3.5B/year (2025) → ~$6.3B/year (2075) — state berth fees, not total operator revenue
 - Operations: Cooperative-managed (70% co-op, 30% state)
-- Port access fee: $10/ton (included in revenue figure)
+- Port access fee: ~$15/tonne (set to recover 155% of annual maintenance). Freshwater port at Crossroads City charges ~$8/tonne for barge-to-rail transshipment
 - Co-op Preference: Berth allocations are issued preferentially to co-op shipping lines (first right of refusal). The 65% co-op share in 2025 is descriptive.
 
 ### 3.5 Corridon/Westflow Barges
 
-- Scale: 55M tons/year (2025) → 75M tons/year (2075).
-- Revenue: ~$22.5B/year (2075).
+- Scale: 100M tonnes/year (2025) → 170M tonnes/year (2075) (Corridon ~150M + Westflow ~20M).
+- Revenue (155% of dredging + wake suppression): ~$1.5B/year (2025) → ~$2.3B/year (2075) — state waterway access fees, not total operator revenue.
 - Operations: Cooperative-managed (70% co-op, 30% state).
 - Dredging: ~$500M/year (Corridon 1,200 km, Westflow 300 km).
-- Waterway access fee: ~$5/ton (included in revenue figure).
+- Waterway access fee: ~$8/tonne (set to recover 155% of dredging and wake-suppression costs).
 - **Wake suppression:** a Corridon wake-management program — speed-zoning, hull-wake standards for the barge fleet, and engineered bank/berm stabilization — runs **jointly with the dredging program** (shared budget line, ~$150M/year, and shared survey/operations crews). Suppressing barge wake reduces bank erosion and sediment re-suspension, which **lowers the dredging burden** and protects the wetland margins and the Industrial-Corridor water intakes (§3.7); dredging and wake suppression are administered as one cooperative river-maintenance function.
 
 ### 3.6 CO2 Pipelines
@@ -485,9 +487,9 @@ Dark Corridor Compliance: Elevated sections have no lighting. Enforcement by Reg
 
 - **Warm-water pipelines — the buried cooling-outflow-as-irrigation loop.** Any society on a river withdraws water for irrigation regardless; this design **makes the reactor's cooling draw and the irrigation draw the same single withdrawal.** The plant draws cooling water from the river once; instead of discharging the warm return-flow back (thermal pollution), the **warm water becomes the irrigation supply, piped (buried) inland** to fields and greenhouses. The water is **not radioactive** (secondary loop) and is **warm, not hot** — ideal for crops (frost protection, longer season, faster hemp processing). **Burying the line (rather than an open canal) eliminates evaporation loss**, decisive in the dry interior. Net: one withdrawal used twice, zero evaporation waste, **no heat returned to the river** — the most water-efficient and thermally-cleanest form of river irrigation available.
 - **Honoring the minimum-flow law.** The cooling-and-irrigation withdrawal is bound by the **minimum environmental flow established as law** (Parks Act §2.5): in a drought, withdrawals are curtailed before the river's protected in-stream flow is breached — the ecological minimum always wins. With the headwater glaciers recharging (wind-sited reservoirs, Parks §4.3) and the wetlands restored as natural storage, this floor should rarely bind, but it is the backstop that keeps the loop honest.
-- **CO₂ pipelines (from coal/WTE).** Captured CO₂ from coal and waste-to-energy generation (Energy Act 4.4) is piped along the corridor to greenhouses (CO₂ enrichment) and to **CO₂-cured hempcrete plants** (Housing Act / Industry Act) — the curing process consumes the captured CO₂, closing the loop.
+- **CO₂ pipelines (from coal/WTE).** Captured CO₂ from coal and waste-to-energy generation (Energy Act 5.0) is piped along the corridor to greenhouses (CO₂ enrichment) and to **CO₂-cured hempcrete plants** (Housing Act / Industry Act) — the curing process consumes the captured CO₂, closing the loop.
 - **Geothermal ties in CO₂-only.** Where geography offers it, **geothermal plants need not sit beside a reactor** — they have no warm-water cooling outflow to contribute, so they **tie a CO₂ pipeline into the corridor on their own** (CO₂-only corridor segment). So a corridor may originate at a riverside nuclear+WTE head (warm water + CO₂) or at an inland geothermal source (CO₂ only).
-- **What clusters on the corridors (Industry Act):** high-tech greenhouses (the 30,000 ha cluster on CO₂ + warm water), hemp-processing plants, hempcrete plants, and CO₂-processing (carbonate aggregates, CO₂-to-fuels). Generation that *feeds* the corridors — nuclear, coal, WTE — anchors the riverside heads; geothermal anchors inland CO₂-only segments (Energy Act 4.4).
+- **What clusters on the corridors (Industry Act):** high-tech greenhouses (the 30,000 ha cluster on CO₂ + warm water), hemp-processing plants, hempcrete plants, and CO₂-processing (carbonate aggregates, CO₂-to-fuels). Generation that *feeds* the corridors — nuclear, coal, WTE — anchors the riverside heads; geothermal anchors inland CO₂-only segments (Energy Act 5.0).
 - **Flexible, not rigid.** A corridor may carry **both** pipelines, **warm-water only**, or **CO₂ only**. Regions with only one still build along whatever pipeline they have. **Heartland Plains is agricultural prairie — it receives a buried irrigation (warm-water) pipeline only, no CO₂** (field crops, not greenhouse/processing clusters). Every hemp-heavy region receives a pipeline. Industrial policy **steers** development to the corridors through incentives; a plant or greenhouse may still be built off-corridor where genuinely needed — the corridors are a preference, not a mandate.
 - **Basin crossings.** Where a corridor or pipeline must cross a riparian or wetland zone of the protected basin (Parks §2.4), it does so only at a **defined, buffered, DCALS-compliant crossing** (like the land bridges, §4.1) — so the inland corridors connect to the riverside plants without fragmenting the protected blue line.
 - **Corridor land-tax holiday (DCALS-contingent).** A plant built on a corridor pays **no commercial land tax until its construction cost is recovered**; a greenhouse pays none **until it recovers its construction cost or its lease-to-own purchase price.** The holiday is a **uniform national industrial-policy exemption** (available to anyone who builds on a corridor and complies) and is **contingent on DCALS compliance** (§2.4.1) — so the same incentive that steers clustering also buys dark-corridor wildlife protection. After recovery, full cost-of-service commercial land tax resumes. *(This is distinct from the below-cost poaching breaks prohibited by the Municipal & Regional Funding Act §2.3: it is a defined, uniform, time-limited national exemption, not a discretionary municipal sweetheart deal — see that act's corridor carve-out.)*
@@ -508,19 +510,19 @@ Dark Corridor Compliance: Elevated sections have no lighting. Enforcement by Reg
 | Asset | Fee structure | 2025 revenue | 2075 revenue | Recovery target |
 | :--- | :--- | :--- | :--- | :--- |
 | Rail track access | $0.05/ton-km | $37.5B | $56.25B | Maintenance + surplus (feeds the common allocation) |
-| Freeway tolls (standard) | $0.10/km | $1.0B | $1.2B | 155% of annual maintenance |
+| Freeway tolls (standard + elevated) | $0.04/km ($0.06 elevated) | ~$3.2B | ~$7.3B | Above 155% — excess to SWF/DCF |
 | Freeway tolls (elevated) | +$0.12/km surcharge | $0 | $0.36B | 155% of annual maintenance (includes the elevated premium) |
 | Port berth fees | $10/ton | $19.35B | $29.925B | 100% maintenance + SWF contribution |
 | Waterway access | $5/ton | $15.75B | $22.5B | 100% dredging + SWF contribution |
 | Pipeline access | $200/ton CO2 | $1.0B | $1.6B | 100% maintenance + SWF contribution |
-| **Total** | | **~$74.6B** | **~$111.835B** | |
+| **Total** | | **~$17B** | **~$27B** | State access fees only (not operator revenue) |
 
 ### 4.2 Revenue Allocation
 
 | Allocation | 2025 ($B) | 2075 ($B) | Notes |
 | :--- | :--- | :--- | :--- |
 | Infrastructure maintenance | 37.3 | 55.9 | 50% of revenue |
-| SWF (per Monetary Act 9.8) | 22.4 | 33.6 | 30% of revenue — **redirected to general revenue once the fund is capped (~2029, Monetary §2.3)** |
+| SWF (per Monetary Act 9.9) | 22.4 | 33.6 | 30% of revenue — **redirected to general revenue once the fund is capped (~2029, Monetary §2.3)** |
 | Dark Corridor Fund (incl. the parkweb, Parks Act §8) | 7.5 | 11.2 | 10% of revenue |
 | Rural infrastructure subsidy | 7.5 | 11.2 | 10% of revenue |
 | **Total** | **74.6** | **111.8** | |
@@ -557,7 +559,7 @@ The National Infrastructure Board (NInfraB), an 11-member body, manages rail, fr
 
 
 - **Voting:** 6/11 for operational decisions (e.g., toll rates, track access charges), 8/11 for regulations (e.g., dark corridor compliance, insect deflector mandates, DCALS amendments, retroreflective paint standards)
-- **Functions:** Regulate 75,000 km rail, 15,000 km freeways (3,000 km elevated), 2,000-vessel fleet, 150M-ton ports, 75M-ton barges, 4,000 km CO2 pipelines, $111.8B revenue (2075)
+- **Functions:** Regulate 75,000 km rail, 15,000 km freeways (3,000 km elevated), 2,000-vessel fleet, 300M-tonne sea ports + 80M-tonne freshwater port, 170M-tonne barges, 4,000 km CO2 pipelines, ~$27B state access-fee revenue (2075). **Oversees — does not perform hands-on maintenance** (co-op concessions do, per Utilities Act §1.4)
 - **Independence:** Paired with but subordinate to none; disputes resolved through ad-hoc arbitration (Chamber Act §6.6)
 
 ### 5.2 Dark Corridor and Retroreflective Enforcement
@@ -590,7 +592,7 @@ The Crossroads Loan Service (CLS) manages infrastructure loans:
 
 *(CLS officer counts are demand-distributed per Credit Union Act §5.1. Infrastructure loans are reference-rate-anchored at the low service-sector nominal rate.)*
 
-### 5.4 Asymmetric Scrutiny (Per Monetary Act 9.8)
+### 5.4 Asymmetric Scrutiny (Per Monetary Act 9.9)
 
 | Level | Transaction type | CED treatment (pseudonymized) | Reporting |
 | :--- | :--- | :--- | :--- |
@@ -610,7 +612,7 @@ Cash toll payments are accepted at credit union kiosks with no fee and no survei
 
 | Action | Timeline | Cost | Responsible |
 | :--- | :--- | :--- | :--- |
-| Build 50,000 km cooperative rail | 2025–2035 | $50B | NInfraB + co-ops |
+| Inherit 50,000 km cooperative rail; begin upgrade and electrification | 2025–2035 | $50B | NInfraB + co-ops |
 | Build 5,000 km freeway (standard) | 2025–2035 | $50B | NInfraB |
 | Pilot elevated insect corridor (100 km, Region 5) | 2030–2035 | $3B | NInfraB + Regional Board 5 |
 | Pilot DCALS certification (50 compounds) | 2030–2035 | $10M (grants) | Regional Boards |
@@ -620,7 +622,7 @@ Cash toll payments are accepted at credit union kiosks with no fee and no survei
 | Build 3,200 km CO2 pipelines | 2025–2035 | $1.6B | NInfraB |
 | Insect deflector pilot (1,000 vehicles) | 2025 | $10M | NInfraB |
 
-*Revenue by 2035: ~$74.6B/year.*
+*State access-fee revenue by 2035: ~$17B/year.*
 
 ### Phase 2: Expansion (2035–2050)
 
@@ -636,7 +638,7 @@ Cash toll payments are accepted at credit union kiosks with no fee and no survei
 | Expand CO2 pipelines to 3,600 km | 2035–2050 | $1.8B | NInfraB |
 | Scale insect deflectors to 100,000 vehicles | 2035–2040 | $1B | NInfraB + manufacturers |
 
-*Revenue by 2050: ~$93.2B/year.*
+*State access-fee revenue by 2050: ~$22B/year.*
 
 ### Phase 3: Optimization (2050–2075)
 
@@ -652,7 +654,7 @@ Cash toll payments are accepted at credit union kiosks with no fee and no survei
 | Expand CO2 pipelines to 4,000 km | 2050–2075 | $2B | NInfraB |
 | Scale insect deflectors to 500,000 vehicles | 2050–2075 | $5B | NInfraB + manufacturers |
 
-*Revenue by 2075: ~$111.8B/year.*
+*State access-fee revenue by 2075: ~$27B/year.*
 
 ---
 
@@ -666,21 +668,21 @@ Cash toll payments are accepted at credit union kiosks with no fee and no survei
 | Rail freight volume | 500M tons/year | 750M tons/year |
 | Freeway network (total) | 10,000 km | 15,000 km |
 | Elevated insect corridor freeway | 0 km | 3,000 km |
-| Freeway vehicle-km | 10B/year | 15B/year |
-| Toll revenue (total) | $1.0B/year | $1.56B/year |
+| Freeway vehicle-km | 80B/year | 182B/year |
+| Toll revenue (at $0.04/km) | ~$3.2B/year | ~$7.3B/year |
 | Merchant marine fleet | 1,000 vessels | 2,000 vessels |
-| Port volume | 97M tons/year | 150M tons/year |
-| Barge volume | 55M tons/year | 75M tons/year |
+| Sea port volume | 97M tonnes/year | 300M tonnes/year |
+| Barge volume (Corridon + Westflow) | 100M tonnes/year | 170M tonnes/year |
 | CO2 pipelines | 3,200 km | 4,000 km |
 | CO2 transported | 5.5M tons/year | 8M tons/year |
-| Total infrastructure revenue | $74.6B/year | $111.8B/year |
-| SWF contribution (30% of revenue) | $22.4B/year — **the largest single SWF rail in the corpus**; redirected to general revenue once capped (~2029) | $33.6B/year |
-| Dark Corridor Fund | $7.5B/year | $11.2B/year |
+| Total infrastructure access-fee revenue | ~$17B/year | ~$27B/year |
+| SWF contribution (30% of revenue) | ~$5.1B/year; redirected to general revenue once capped (~2029) | ~$8.2B/year |
+| Dark Corridor Fund (10% of revenue) | ~$1.7B/year | ~$2.7B/year |
 | DCALS-certified compounds | 0 | 5,000+ |
 | Retroreflective-certified buildings | 0 | 100,000+ (80% of eligible) |
 | DCLTI tax reduction (0.75% → 0.70%/0.68%) | N/A | Available to certified properties |
 | Vehicles with insect deflectors | 1,000 | 500,000 |
-| Estimated insects saved/year | 500B | 250T |
+| Estimated insects saved/year | — | 250T (projected) |
 | Dark corridor compliance | 100% (by design) | 100% (enforced) |
 | Energy savings from retroreflective paint | 0 | $200M/year |
 | Industrial Corridors | — | warm-water + CO2 pipelines (§3.7) |
@@ -692,11 +694,11 @@ Cash toll payments are accepted at credit union kiosks with no fee and no survei
 | Feature | Utilities Act (Electricity) | Infrastructure Act (Transportation) |
 | :--- | :--- | :--- |
 | Asset owner | State (transmission/distribution) | State (tracks, roads, ports, pipelines) |
-| Asset maintainer | NEB | NInfraB + cooperatives |
+| Asset maintainer | NEB (via co-op concession) | NInfraB (via co-op concession) |
 | Operator | Utilities (co-ops/corps) | Train companies, trucking, shipping lines |
 | Access fee | $/MWh transmission fee | Track access, tolls, berth fees |
 | Co-op preference | License priority (first right of refusal) | License priority (first right of refusal) |
-| Revenue allocation | 50% maintenance, 30% SWF, 20% credits | 50% maintenance, 30% SWF, 10% Dark Corridor Fund, 10% rural |
+| Revenue allocation | 50% maintenance, 30% SWF, 20% credits | 50% maintenance / Asset Renewal Fund, 30% SWF, 10% Dark Corridor Fund, 10% rural subsidy |
 
 ---
 
@@ -799,4 +801,4 @@ That is the Infrastructure Act.
 
 ---
 
-**End of Draft 2.6**
+**End of Draft 3.0**
