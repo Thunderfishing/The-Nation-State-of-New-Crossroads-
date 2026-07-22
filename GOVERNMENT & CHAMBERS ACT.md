@@ -714,7 +714,7 @@ Referenced in Sovereign Functions Act §8 alongside the floors.
 | Protected | Guarantees (§12; 4 items) | What the state must always provide | Middle bar to weaken |
 | **Federal revenue** | **~$460B** | VAT 5% + income >$100k + corporate profit + tariffs + resources + co-op profit + property + excise | |
 | **Federal spending** | **~$424.5B** | **Operations ~$196B** (3.3% of GDP, inside the 4% cap) + **Transfers ~$228.5B** (outside it; §7.2 test: who chooses the recipient?) | |
-| **Citizen dividend** | **~$138.7B/yr** (~$1,238/citizen) | Once the SWF caps (~2030) — the only channel reaching the informal economy | |
+| **Citizen dividend** | **~$155B/yr** (~$1,380/citizen) | Once the SWF caps (~2029) — the only channel reaching the informal economy | |
 | **Profit taxation** | **Federal only** | The Co-op Advantage Principle compares two rates; it holds only where one body sets both (Municipal & Regional Funding Act §2.2) | |
 
 **Every chamber is one-third wildcards. Wildcard terms: 5 years, 3-term cap. Territorial Chamber sits quarterly (§3.4). No citizen may hold more than one chamber seat (§2.3). The eight boards are founding instruments; §7.2's charter bar governs the ninth and after.**
