@@ -1,6 +1,6 @@
 # New Crossroads Utilities Act of 2025: Draft 1.4
 
-**Draft:** 1.4 | **Date:** July 21, 2026
+**Draft:** 1.3 | **Date:** July 12, 2026
 **Author:** Thunderfish2
 
 ---
@@ -19,9 +19,9 @@ This model prevents natural-monopoly capture, centralizes CME hardening, generat
 
 ## Section 0: Interdependencies
 
-- **Energy Act 4.4:** provides the physical grid — 30,000 km buried high-voltage transmission, 150,000 km buried distribution, 750 EMP-shielded substations, a strategic transformer reserve (5,000+ by 2075) — and the 20 antifragile SMR hubs (one per region) as anchor loads and islanding points.
+- **Energy Act 5.0:** provides the physical grid — 30,000 km buried high-voltage transmission, 150,000 km buried distribution, 750 EMP-shielded substations, a strategic transformer reserve (5,000+ by 2075) — and the 20 antifragile SMR hubs (one per region) as anchor loads and islanding points.
 - **Infrastructure Act 2.7:** the asset/operator separation model is directly replicated; transmission access fees follow the freeway-toll logic (155% recovery over asset life); DCALS applies to utility infrastructure near elevated freeways.
-- **Monetary Act 9.8:** transmission access fees paid in BWC, flow (in part) to the SWF; co-op utilities pay the 5% co-op profit tax on generation profits; no binding quotas.
+- **Monetary Act 9.9:** transmission access fees paid in BWC, flow (in part) to the SWF; co-op utilities pay the 5% co-op profit tax on generation profits; no binding quotas.
 - **Credit Union Act 5.8:** co-op utilities access reference-rate-anchored loans and micro-loans (community solar); embedded CLS officers.
 - **FCL Act 3.4:** utility co-ops structured as FCLs; CCIF (voluntary) funds expansion.
 - **Sovereign Functions Act:** the NEB is an independent board; Special Auditors (§3) enforce the anti-rot guarantees.
@@ -44,7 +44,7 @@ This model prevents natural-monopoly capture, centralizes CME hardening, generat
 
 *Rationale:* the state is good at owning and hardening long-lived infrastructure but bad at running customer-facing utilities — and, left to its own devices, bad at *maintaining and reinvesting* in what it owns. Co-ops are good at competing for customers and at delivering against a contract. Separation gives each what it does best, and §1.4/§2.4 fix the state's chronic weakness at upkeep.
 
-### 1.2 What the State Owns (per Energy Act 4.4)
+### 1.2 What the State Owns (per Energy Act 5.0)
 
 | Asset | 2025 | 2075 | Owner | Maintained by |
 | :--- | :--- | :--- | :--- | :--- |
@@ -105,7 +105,7 @@ Utilities pay the NEB for access to state-owned transmission and distribution. F
 | Allocation | 2025 (\$B) | 2075 (\$B) | Notes |
 | :--- | :--- | :--- | :--- |
 | **Asset Renewal Fund** (ring-fenced: maintenance + reinvestment + R&D) | 7.5 | 24.5 | 50% of revenue — locked (§2.4) |
-| SWF (per Monetary Act 9.8) | 4.5 | 14.7 | 30% of revenue |
+| SWF (per Monetary Act 9.9) | 4.5 | 14.7 | 30% of revenue |
 | Residential electricity bill credit (direct to citizens) | 3.0 | 9.8 | 20% of revenue |
 | **Total** | **15.0** | **49.0** | |
 
@@ -165,18 +165,19 @@ Mirrors the Informal Economy Guarantee: small-scale activity is friction-free an
 
 ## Section 4: Generation Market
 
-### 4.1 Allowed Generation Technologies (per Energy Act 4.4, 2075 projections)
+### 4.1 Allowed Generation Technologies (per Energy Act 5.0, 2075 projections)
 
 | Technology | 2075 Capacity | Typical Owner | Co-op preference |
 | :--- | :--- | :--- | :--- |
-| Nuclear (SMRs) | 150 GW | Co-op or State (hubs) | First right of refusal |
-| Geothermal standalone | 50 GW | Co-op | First right of refusal |
-| Geo-coal hybrid | 50 GW | Corporate | Not applicable |
-| Geo-WTE hybrid | 50 GW | Co-op or Corporate | First right of refusal |
-| Hydro | 75 GW | State or Co-op | First right of refusal |
-| Renewables (solar/wind) | 50 GW | Co-op | First right of refusal |
-| WTE standalone | 15 GW | Corporate | Not applicable |
-| **Total** | **440 GW** | | Co-op preference (first right of refusal) |
+| Nuclear — hub + repository SMRs | 58 GW | State | Co-op concession (NEB oversight) |
+| Nuclear — non-hub (competitive) | 112 GW | Co-op or Corporate | First right of refusal |
+| Geothermal standalone | 65 GW | Co-op | First right of refusal |
+| Geo-coal hybrid | 50 GW | State | Licensed to corporations |
+| Geo-WTE hybrid (geothermal with waste co-firing) | 50 GW | State | Licensed to corporations |
+| Hydro (2 Westflow dams + 10 reservoirs) | 18 GW | State | Co-op concession |
+| Renewables (solar/wind) | 55 GW | Co-op | First right of refusal |
+| WTE standalone | 5 GW | State | Licensed to corporations |
+| **Total** | **413 GW** | | State 181 GW (44%), competitive 232 GW (56%) |
 
 ### 4.2 Power Purchase Agreements (PPAs)
 - Utilities may sell to retail utilities, industrial customers, or direct to citizens.
@@ -259,7 +260,7 @@ A Tier 2 FCL in Region 5 (Heartland Plains) builds a 10 MW solar farm serving 2,
 
 ## Section 7: CME Resilience and Emergency Operations
 
-### 7.1 State Responsibilities (per Energy Act 4.4)
+### 7.1 State Responsibilities (per Energy Act 5.0)
 
 | Asset | CME hardening | Recovery role |
 | :--- | :--- | :--- |
@@ -267,7 +268,7 @@ A Tier 2 FCL in Region 5 (Heartland Plains) builds a 10 MW solar farm serving 2,
 | Buried distribution lines | Already buried | NEB inspects (via concession) |
 | EMP-shielded substations | Faraday cages, GIC-blocking capacitors | Breakers reset |
 | Transformer reserve | Stored in EMP-shielded bunkers | Deployed within 48 hours |
-| Antifragile energy hub SMRs | Islanding capability | NEB operates hubs |
+| Antifragile energy hub SMRs | Islanding capability | NEB oversees hubs (co-op concession operates) |
 
 ### 7.2 Utility Responsibilities During CME
 
@@ -286,7 +287,7 @@ A Tier 2 FCL in Region 5 (Heartland Plains) builds a 10 MW solar farm serving 2,
 ## Section 8: Governance
 
 ### 8.1 National Energy Board (NEB) — Expanded Role
-Per the Energy Act, the NEB (11 members) sets transmission access-fee rates (6/11), issues generation/retail licenses, enforces co-op preference, **owns the grid and sets the Asset Condition Index, tenders and oversees the maintenance concessions (§1.4), and administers the Asset Renewal Fund (§2.4)**, manages CME response, and publishes an annual utility-performance and asset-condition report (transparent, CED).
+Per the Energy Act 5.0, the NEB (11 members) sets transmission access-fee rates (6/11), issues generation/retail licenses, enforces co-op preference, **owns the grid and sets the Asset Condition Index, tenders and oversees the maintenance concessions (§1.4), and administers the Asset Renewal Fund (§2.4)**, manages CME response, and publishes an annual utility-performance and asset-condition report (transparent, CED). **The NEB oversees — it does not perform hands-on maintenance** (co-op concessions do, per §1.4).
 
 ### 8.2 Regional Boards — Retail Oversight
 Per the Chamber Act §3, 20 Regional Boards issue retail licenses (co-op preference), enforce consumer protections, manage low-income enrollment, and investigate complaints (informal complaints anonymous).
@@ -302,7 +303,7 @@ Per the Chamber Act §3, 20 Regional Boards issue retail licenses (co-op prefere
 
 *(CLS officer counts demand-distributed per Credit Union Act §5.1. Loans reference-rate-anchored; no DAI floor.)*
 
-### 8.4 Asymmetric Scrutiny (per Monetary Act 9.8)
+### 8.4 Asymmetric Scrutiny (per Monetary Act 9.9)
 
 | Level | Transaction type | CED treatment (pseudonymized) | Reporting |
 | :--- | :--- | :--- | :--- |
