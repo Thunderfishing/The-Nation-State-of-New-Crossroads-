@@ -1,11 +1,3 @@
----
-title: "New Crossroads — Consolidated Fiscal Model (2025 base)"
-version: "3.1"
-date: "2026-07-21"
-author: "Thunderfish2"
-description: "Single-page derived fiscal model on the $6T GDP base. Contains the five-pot architecture, the who-levies-what table, the rate-band structure, and the SWF's five named functions."
----
-
 # New Crossroads — Consolidated Fiscal Model (2025 Base) — v3.1
 
 **Reading note.** A derived model, not asserted numbers. Sections C–J flow from the base assumptions (Section A). Figures are rounded; illustrative, not precise.
