@@ -41,8 +41,9 @@ The act provides a **$10,000/year voucher** (following the student to any licens
 
 - **Voucher cost:** ~$180B gross at $10,000 × 18M students (scaling with the DLB), net ~$170B after the ~$10B FCL education contribution (commons rescaled — FCL Act §3.2) (FCL Act profit-sharing waterfall). **Funded by general revenue** (Sovereign Functions Act §7.3) — a transfer, not an operation, because the family picks the school (Sovereign Functions Act §7.2).
 
+  > **Not the SWF.** Prior drafts called this an *"Education SWF allocation."* It is the largest single line in the federal budget and it is a **one-way spend**: vouchers do not revolve and are never repaid. **Monetary §2.1:** *"the SWF is the state's revolving lender… it is not the state's capital budget."* Calling it an SWF allocation would have consumed three-quarters of the fund's corpus every year. It was general revenue that had been labelled wrong — the same error as the infrastructure buildout, the grid hardening, and the sustainability line.
 - **Stipends:** $15,000/year professional (service), $12,000/year vocational; paid monthly via credit-union checking.
-- **Revenue support:** the federal tax base (Monetary Act §4; Sovereign Functions Act §7.1 — VAT 5%, income above $100k, profit taxes, tariffs, resources, property, excise = ~$460B against ~$411B of spending); credit-union contribution; 
+- **Revenue support:** the federal tax base (Monetary Act §4; Sovereign Functions Act §7.1 — VAT 5%, income above $100k, profit taxes, tariffs, resources, property, excise = ~$460B against ~$411B of spending); credit-union contribution; **no co-op SWF recharge** (eliminated — co-ops contribute to the commons via the FCL waterfall).
 - **Audits:** system auditors + AI fraud detection, fraud cap, tracked via the **CED** (pseudonymized; no identity).
 - **Data:** PPK holds student identity, credentials, and records; the CED holds only pseudonymized economic flows (voucher value, stipend value). School performance data is published in aggregate.
 
@@ -120,6 +121,7 @@ Co-op clubs (sports, arts, recreation) integrate into school governance with boa
 - **Dropout (age 15+):** a student may leave from age 15. They **disappear into the informal sector** — no penalty, no tracking (Informal Economy Guarantee; Monetary §1A). Estimated **~120,000/year (~10–12% of a cohort).**
 - **The voucher banks, it does not burn.** Because a dropout never drew down their voucher, they hold its unused remainder as a lifelong asset. They may enter the credentialing pipeline (§3.5C) at any time to age 65 — free where the voucher covers it, general-revenue-funded where it does not (§3.5D).
 - **The service duty banks, it does not vanish.** A dropout's 24-month service obligation (§4) is deferred, not cancelled. It is discharged through the pipeline (§3.5C), which *is* the apprenticeship-primary form of mandatory service for the returning cohort.
+- **Adult career switching, self-funded:** anyone who has **already completed the free path** and wishes to **change careers later** may join an apprenticeship program at any time up to 65 — but **on their own dime.** The free entitlement is the once-through 16→20 journey (or its unused remainder); a second career is self-funded.
 
 ### 3.5A The Dropout Pathway (by age)
 
@@ -184,7 +186,15 @@ Costs are met from the citizen's banked voucher first, and from general revenue 
 
 **The one shortfall, and how it closes.** Only one cohort re-enters with a spent voucher: the citizen who completed 16–18 school-primary, drew their voucher for specialization, then evaded or deferred service and returns later. Their shortfall is **~$10,000, one-time** (theory + subsidy) — the stipend is already general revenue. This folds into the general-revenue **mandatory-service budget** that already carries ~1M participants/year (§4). The eligible population is a small subset of the ~120,000 annual dropouts — realistically a few thousand a year — a rounding error against the ~$170B education line, requiring no new appropriation, no loan, and no new instrument.
 
-**If a residual cost is ever charged to the citizen, it uses the plumbing that already exists.** Should policy elect to have a re-entrant nominally bear part of the cost, it runs through the **existing household loss-reserve mechanism (Monetary §1.6A, §1.2)** — the same one that already absorbs unrepaid revolving credit "automatically and arithmetically" (Monetary §4.12). It is a **recoverable grant, not a lien**: no interest schedule, no multi-year balance, no dividend seizure. The citizen may voluntarily route dividend to repay (and qualify for the Monetary §4.82 savings match if they do); what is not repaid is absorbed by the loan loss reserve. **No file is opened, nothing follows the citizen** (Monetary §1A.2).      
+**If a residual cost is ever charged to the citizen, it uses the plumbing that already exists.** Should policy elect to have a re-entrant nominally bear part of the cost, it runs through the **existing household loss-reserve mechanism (Monetary §1.6A, §1.2)** — the same one that already absorbs unrepaid revolving credit "automatically and arithmetically" (Monetary §4.12). It is a **recoverable grant, not a lien**: no interest schedule, no multi-year balance, no dividend seizure. The citizen may voluntarily route dividend to repay (and qualify for the Monetary §4.82 savings match if they do); what is not repaid is absorbed by the loan loss reserve. **No file is opened, nothing follows the citizen** (Monetary §1A.2).
+
+> **Why no bond.** Prior drafts funded the shortfall with a $20,000 bond at ~4%, secured against the citizen's dividend by a 10-year lien. It was removed because it fails on four independent grounds, each traceable to the Monetary Act:
+> - **It lends against future income.** Monetary §1.6A sizes all household credit by *reserve* (savings held), never by income or future cash flow — "credit is extended on savings, not on leverage." A bond against a future dividend stream is the leverage the architecture refuses.
+> - **It cannot run on the arrears flag.** The PPK arrears attribute is a binary qualified/not-qualified check that "records no amount, no counterparty, and no date" (Monetary §1.6A). A 10-year amortizing balance cannot ride a flag that holds no balance, and Monetary §1A.2 prohibits any body from maintaining a credit history that follows a citizen.
+> - **It collides with the retirement mechanism.** The dividend auto-routes to forced savings by default (Monetary §2.3), and the cash-first reduction rule protects that nest egg. A lien seizing 50% of the dividend either raids protected savings or cannot reach 50% of the total.
+> - **The arithmetic never closes.** $20,000 at 4% throws off $800/yr in interest against the ~$680/yr (50% of the $1,359 dividend) the lien would collect — principal never falls.
+>
+> The general-revenue framing above dissolves the problem the bond existed to solve. There is no gap left for a loan to fill.
 
 ### 3.5E Second-Chance Academies (Organic Facility Model)
 
@@ -230,7 +240,8 @@ Every dropout can re-enter. No one borrows to serve. The system pays for itself 
 
 ### 3.6 Junior Integration & Student Ventures
 
-- Student ventures (ages 12–15) supported with small CLS-issued venture loans, loan advice, and operational mentorship from masters or FCL board members. Supplemental and scale-up loans for exceptional ventures.
+- Student ventures (ages 12–15) supported with small **CLS-issued venture loans** ($500, reference + 1.5%, lenient criteria), loan advice, and operational mentorship from masters or FCL board members. Supplemental and scale-up loans for exceptional ventures.
+- **CLS Student-Venture Liaison (Credit Union Act §5.3).** Each Local School Board (§3.2) designates a CLS field agent from the nearest credit union as the school's **venture liaison**. The liaison visits regularly during the school year, reviews applications, provides mentorship, and connects students to masters in their trade. The agent who lends to hempcrete co-ops mentors the student's hempcrete venture — trade knowledge and credit judgment in one person. ~400,000 ventures/year estimated at ~10% participation; absorbed within the existing CLS corps as transaction-count work. No new funding required — the loans come from the loan book, the mentorship comes from agent time already budgeted.
 - **Educational flexibility:** part-time schooling, independent study, or accelerated journeyman credentialing (age 18+ with master endorsement), approved by Regional Boards (6/11).
 - Oversight via aggregate, identity-free metrics; NLC biennial review.
 
