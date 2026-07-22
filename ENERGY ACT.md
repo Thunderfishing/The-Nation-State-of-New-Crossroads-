@@ -416,7 +416,7 @@ All loans reference-rate-anchored (Monetary Act §1.5A).
 The NEB (11 members) is an **independent sector board** on the Chamber Act §7 registry. It **oversees and sets standards** — it does not perform hands-on maintenance, generation, or retail operations.
 
 - **Composition:** 6 representatives from 20 Regional Energy Districts, 4 experts (Chamber Act §8 regional advisory layer), 1 chairman
-- **Appointment:** Territorial Chamber nominates (11/20), both Productive Chambers confirm — the uniform rule for sector boards (Chamber Act §7.1)
+- **Appointment:** Territorial Chamber nominates (11/20), Productive Chamber confirms — the uniform rule for sector boards (Chamber Act §7.1)
 - **Removal:** by the nominating and confirming bodies jointly, or on cause by a Special-Auditor investigation
 - **Voting:** 6/11 operational; 8/11 regulations; strategic shifts require Territorial Chamber ratification (11/20)
 
