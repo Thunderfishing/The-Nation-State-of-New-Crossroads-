@@ -1,8 +1,9 @@
-# Crossroads Housing Act of 2025: Draft 
+# Crossroads Housing Act of 2025: Draft 2.6
 
-**Draft:** 2.5 | **Date:** July 12, 2026
+**Draft:** 2.6 | **Date:** July 22, 2026
 **Author:** Thunderfish2
 
+---
 
 > **Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values.
 
@@ -12,7 +13,7 @@
 
 The Housing Act establishes the shelter foundation of New Crossroads, promoting **Durahomes** — modular homes built with hempcrete and low-carbon concrete, featuring earthship-inspired passive design — to achieve **86% homeownership (96M citizens) by 2085.**
 
-Funded by the **SWF (capped at 12% of GDP, ~$230B → ~$2.28T, per Monetary Act 9.8)**, a **$94B Forced Savings base (scaling with population)**, and **reference-rate-anchored service-sector housing loans**, it facilitates co-op/corporate production of materials and greenhouses (leased to co-ops), transitioning to a free market by 2035.
+Funded by the **SWF (capped at 12% of GDP, ~$230B → ~$2.28T, per Monetary Act 9.9)**, a **$94B Forced Savings base (scaling with population)**, and **reference-rate-anchored service-sector housing loans**, it facilitates co-op/corporate production of materials and greenhouses (leased to co-ops), transitioning to a free market by 2035.
 
 Co-op housing FCLs pay the 5% co-op profit tax on profit over $100,000 (no SWF contribution); **no co-op SWF recharge** (eliminated per Monetary 9.8). No binding sector quotas — co-op preference is first right of refusal; the 65% 2025 figure is a descriptive baseline.
 
@@ -22,15 +23,15 @@ Co-op housing FCLs pay the 5% co-op profit tax on profit over $100,000 (no SWF c
 
 | Act | Integration Point |
 | :--- | :--- |
-| **Monetary Act 9.8** | Reference-rate-anchored service-sector housing loans (Monetary §1.5A); Informal Economy Guarantee; asymmetric scrutiny; SWF capped at 12% GDP; co-op profit tax 5% (no SWF recharge); Forced Savings (~$94B base); no binding quotas |
+| **Monetary Act 9.9** | Reference-rate-anchored service-sector housing loans (Monetary §1.5A); Informal Economy Guarantee; asymmetric scrutiny; SWF capped at 12% GDP; co-op profit tax 5% (no SWF recharge); Forced Savings (~$94B base); no binding quotas |
 | **Credit Union Act 5.8** | Micro-loans/micro-mortgages for informal housing; embedded CLS loan officers (demand-distributed) |
 | **FCL Act 3.4** | Housing co-ops structured as FCLs (Tier 1–3); CCJV provisions for mixed ownership; ~195,100 core FCLs available for housing production |
 | **Sovereign Functions Act** | The NHA is an independent board chartered under the independent board registry; Special Auditors (§3) enforce compliance |
 | **Chamber Act** | Regional Boards (§3) approve projects and verify compliance; independent board registry (§7) |
 | **Municipal & Regional Funding Act** | **Residential land/homes are never taxed** — the guarantee that a homeowner is never taxed back into tenancy; DCLTI applies only to taxable commercial/industrial housing facilities |
-| **Infrastructure Act 2.6** | DCALS/DCLTI dark-corridor standards for housing near elevated insect corridors; retroreflective paint program |
-| **Energy Act 4.3** | Grid powers homes; geothermal heat-pump integration in feasible regions; SMR-hub resilience |
-| **Industry Act 4.4** | Hempcrete, low-carbon concrete, hemp fiberboard, and heat-pump production |
+| **Infrastructure Act 3.0** | DCALS/DCLTI dark-corridor standards for housing near elevated insect corridors; retroreflective paint program |
+| **Energy Act 5.0** | Grid powers homes; geothermal heat-pump integration in feasible regions; SMR-hub resilience |
+| **Industry Act 5.0** | Hempcrete, low-carbon concrete, hemp fiberboard, and heat-pump production |
 
 ---
 
@@ -68,7 +69,7 @@ Informal workers and cash-based citizens have automatic access to micro-loans (~
 
 Housing construction contracts, material-production licenses, and greenhouse leases are issued preferentially to co-ops (first right of refusal). A structural preference, not a binding quota.
 
-### 1.5 Dark Corridor Compliance for Housing (per Infrastructure Act 2.6)
+### 1.5 Dark Corridor Compliance for Housing (per Infrastructure Act 3.0)
 
 Housing developments, geothermal compounds, and material-production facilities within 500m of elevated freeway insect corridors must comply with DCALS: indirect red-spectrum motion lighting only (scaled by square footage), retroreflective markers (no powered edge lighting), retroreflective building paint as an alternative pathway, and no horizon-visible emission.
 
@@ -97,7 +98,7 @@ Durahomes are modular hempcrete/low-carbon-concrete homes with passive design an
 - **Savings:** ~$1,200/year standard; up to ~$3,000/year in geothermal regions (~$30,000/10 years).
 
 ### 2.3 DCALS Compliance for Geothermal Compounds
-Geothermal drilling sites and heat-pump manufacturing facilities within 500m of elevated freeway insect corridors must comply with DCALS (Infrastructure Act 2.6). As commercial/industrial facilities, these are eligible for the DCLTI property-tax reduction (per §1.5).
+Geothermal drilling sites and heat-pump manufacturing facilities within 500m of elevated freeway insect corridors must comply with DCALS (Infrastructure Act 3.0). As commercial/industrial facilities, these are eligible for the DCLTI property-tax reduction (per §1.5).
 
 ---
 
@@ -176,7 +177,7 @@ All housing loans are reference-rate-anchored nominal rates (Monetary §1.5A).
 - Feasible: Regions 4, 9, 16 (Ember Range, <200m depth). Infeasible regions use solar microgrids or electric heating.
 
 ### 5.2 DCALS Compliance
-- Geothermal drilling sites, heat-pump manufacturing, and geothermal-compound housing developments within 500m of elevated insect corridors comply with DCALS (Infrastructure Act 2.6).
+- Geothermal drilling sites, heat-pump manufacturing, and geothermal-compound housing developments within 500m of elevated insect corridors comply with DCALS (Infrastructure Act 3.0).
 
 ### 5.3 Incentives
 - Co-op rebate ~$5,000; private grant ~$2,000; tax credits eliminated (replaced by the 5% profit tax over $100k); loans reference-rate-anchored at the service-sector rate.
@@ -287,4 +288,4 @@ When a family moves into a Durahome, pays a cost-of-living-indexed mortgage they
 
 ---
 
-**End of Draft 2.5**
+**End of Draft 2.6**
