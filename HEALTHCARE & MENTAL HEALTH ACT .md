@@ -1,6 +1,6 @@
 # Crossroads Co-operative Healthcare & Mental Wellness Act of 2025: Draft 6.8
 
-**Draft:** 6.8 | **Date:** July 21, 2026
+**Draft:** 6.8 | **Date:** July 22, 2026
 **Author:** Thunderfish2
 
 ---
@@ -11,7 +11,7 @@
 
 ## Overview
 
-This act establishes **co-op-led, premium-funded universal healthcare and mental wellness for the whole population (112M, scaling to 130M)** within a co-op-dominant economy scaling toward ~$38.94T GDP by 2075. Coverage is universal regardless of payment method; the informal economy retains protected cash access.
+This act establishes **co-op-led, premium-funded universal healthcare and mental wellness for the whole population (112M, scaling to 130M)** within a co-op-dominant economy scaling toward ~$19T GDP by 2075. Coverage is universal regardless of payment method; the informal economy retains protected cash access.
 
 Services are delivered through a **three-tier co-op facility structure** — **10,000 clinics** (primary care + minor surgery), **super hospitals** (200 at start, scaling to ~2,000), and **20 mega hospitals** co-located at the SMR nuclear hubs (Energy Act) — plus an integrated mental-health network (CMHIN) and a permitted **private corporate tier**. Professional FCLs (100% worker-owned cooperatives of physicians and healthcare professionals) provide specialized services within clinics under CCJV agreements, with cost-share or profit-share models and retainer client shares for patients.
 
@@ -24,13 +24,12 @@ The **National Healthcare Board (NHB)** manages operations, supported by the 5,0
 | Act | Integration Point |
 | :--- | :--- |
 | **FCL Act 3.4** | Professional FCLs (worker-owned); clinic ownership as Co-op-Led CCJV (hybrid co-op/corporate); cost-share model; retainer client shares; healthcare contribution via the progressive profit-sharing waterfall |
-| **Monetary Act 9.8** | Reference-rate-anchored service-sector loans (Monetary §1.5A); Informal Economy Guarantee; asymmetric scrutiny; SWF capped at 12% GDP; co-op profit tax 5% (no SWF recharge); PPK/CED; no binding sector quotas |
+| **Monetary Act 9.9** | Reference-rate-anchored service-sector loans (Monetary §1.5A); Informal Economy Guarantee; asymmetric scrutiny; SWF capped at 12% GDP; co-op profit tax 5% (no SWF recharge); PPK/CED; no binding sector quotas |
 | **Credit Union Act 5.8** | Micro-loans for informal healthcare access ($500, 4% nominal, self-attested, 24-hour); low-interest service-sector health loans (co-op and corporate eligible); CLS |
-| **Energy Act** | 20 SMR nuclear hubs host the mega hospitals, co-located with water/sewer treatment and passenger/cargo airports |
-| **Regions Act** | Hospital and clinic ownership governed by regional infrastructure rules (§4); facility siting and regional capacity planning |
+| **Energy Act** | 21 antifragile hubs (20 regional + 1 repository, Energy Act 5.0) host the mega hospitals (20 hubs — the repository hub has no hospital co-location), co-located with water/sewer treatment and passenger/cargo airports |
 | **Chamber Act** | Regional Boards (§3) oversee healthcare facilities and service-sector loans; independent board registry (§7) |
-| **Sovereign Functions Act** | Special Auditors (§3) enforce compliance; judiciary (§4) hears disputes; the ~$45B bottom-tier subsidy is part of the ~$411B Sovereign Functions total |
-| **Education Act 2.3** | Supplies ~90,000 healthcare-proper + ~45,000 mental-health graduates/year; ~100,000/year via mandatory service (50k clinics, 50k CMHIN) |
+| **Sovereign Functions Act** | Special Auditors (§3) enforce compliance; judiciary (§4) hears disputes |
+| **Education Act 2.5** | Supplies ~90,000 healthcare-proper + ~45,000 mental-health graduates/year; ~100,000/year via mandatory service (50k clinics, 50k CMHIN) |
 
 ---
 
@@ -56,6 +55,8 @@ All loans for healthcare facilities (clinics, super hospitals, mega hospitals, C
 | Telehealth infrastructure | **reference + 0.5% to + 1.5%** | ~4–5% |
 
 At a founding reference rate of ~3.5% (Monetary §1.5A), that is **~4–5% against a commercial band of ~5.5%** — a subsidy of ~1.5 points, stated rather than implied. **The subsidy still carries:** against savings at reference − 1% (~2.5%), a healthcare facility loan clears its funding cost by ~1.5–2.5 points. It is cheap money, not free money, and no member subsidizes it silently.
+
+> **This act was already doing it right, and needed only the number.** §1.2 has always said *"set below the reference rate"* rather than hardcoding a figure — which is more than the Credit Union Act §4.2, the FCL Act §3.6, or the Utilities Act §6.2 managed, all of which published fixed percentages beneath headers promising the rates were anchored. The only thing missing here was the reference rate's own value, which appeared nowhere in the corpus until this revision (Monetary §1.5A).
 
 **Corporate facilities are eligible for the same low service-sector rate** (Section 4). *Rationale: the state subsidizes health **capacity** regardless of who builds it — every facility adds beds and treats citizens. Corporate facilities repay the subsidy through full corporate taxation (heavier than co-ops), and refusing them cheap capital would only raise their prices and make them more exclusive, not less.*
 
@@ -122,8 +123,40 @@ The co-op clinic backbone is structured as **Co-op-Led CCJVs** — hybrid co-op/
 | Approval body | Regional Board (6/11) |
 | Corporate partner voting in co-op internal affairs | None |
 | JV board seats | Proportional to ownership; co-op holds ≥1 seat |
-| Facility ownership | Per Regions Act §4 (regional infrastructure rules) |
 | Deadlock resolution | Ad-hoc arbitration (Chamber Act §6.6) |
+
+
+### 2.5 Multi-Specialty Community Clinics (the "Complete Clinic" Incentive)
+
+A Professional FCL with **5+ licensed practitioners across 3+ distinct specialties** (e.g., general practice + general surgery + pediatrics + diagnostics/imaging + oncology) qualifies as a **Multi-Specialty Community Clinic** — the missing middle between the small-town GP office and the super hospital.
+
+**Why this matters.** A 1–3 doctor small-town clinic refers everything beyond primary care upward. A multi-specialty clinic with a GP, a surgeon, a pediatrician, a diagnostician, and an oncologist can handle minor surgery, in-house diagnostics, specialist consultations, and cancer screening without a hospital referral. Every case handled in-clinic is a case the hospital tier doesn't pay for — and the hospital tier is vastly more expensive per procedure.
+
+**The referral pathway this creates:**
+
+Small-town clinic (1–3 GPs, primary care only) → **nearest multi-specialty community clinic** (5–10+ doctors, minor surgery, diagnostics, specialist consultation) → super hospital (complex procedures, inpatient) → mega hospital (apex/quaternary care).
+
+**Three incentives for multi-specialty formation:**
+
+| Incentive | Detail |
+|:---|:---|
+| **Diagnostic equipment grant** | Up to **$500,000** from the NHB for imaging, laboratory, and minor-surgical equipment. Funded from premium administration — it is cheaper to equip 1,000 complete clinics than to refer their patients to hospitals. One-time grant per qualifying clinic, renewable on major equipment replacement (10-year cycle) |
+| **Enhanced reimbursement** | **15% higher per-procedure reimbursement** on cases handled in-clinic that would otherwise be referred to a super hospital. A minor surgery costing the system ~$2,000 at the clinic saves ~$3,000 vs the same procedure at a hospital (~$5,000+ with overhead, beds, staffing). The 15% bonus on the $2,000 is self-funding — the savings upstream exceed the bonus downstream |
+| **Bottom-of-band loan rate** | Multi-specialty clinics access the **lowest service-sector rate** (reference + 0.5%, ~4%) for construction and equipment, vs the standard service-sector range (reference + 0.5% to + 1.5%). Recognizing that a larger facility with surgical capability costs more to build and equip |
+
+**Qualifying criteria (verified by the Regional Board, 6/11):**
+
+| Requirement | Threshold |
+|:---|:---|
+| Licensed practitioners | 5+ (Professional FCL members) |
+| Distinct specialties | 3+ (e.g., GP, surgery, pediatrics, oncology, diagnostics) |
+| Minor-surgical capability | At least one equipped procedure room |
+| Diagnostic capability | On-site imaging or laboratory (grant-funded if needed) |
+| Apprenticeship participation | Accepts mandatory-service apprentices (Education Act §4) — the clinic trains the next generation |
+
+**Where these form.** Multi-specialty clinics emerge naturally in **medium and large cities** where enough specialists practice in proximity to form a Professional FCL together. The incentive makes it economically rational for a GP, a surgeon, a pediatrician, and a diagnostician who already practice in the same city to **join forces rather than refer out** — sharing facility costs, diagnostic equipment, and support staff while broadening what walks in the door and walks out treated.
+
+**Small-town clinics are not penalized.** A 1–2 doctor rural clinic remains essential primary care — it refers to the nearest multi-specialty clinic or super hospital, exactly as it does today. The incentive rewards formation of the middle tier; it does not withdraw anything from the bottom tier. Rural clinics retain full access to standard service-sector loans and the micro-loan program (§1.3).
 
 ---
 
@@ -133,15 +166,15 @@ The co-op system is a **hub-and-spoke hierarchy**: everything radiates outward f
 
 ### 3.1 Tier 1 — Co-op Clinics (10,000)
 
-- **Structure:** 10,000 clinics (~500/region), as Co-op-Led CCJVs (51–99% patient co-op / 1–49% Professional FCL). Ownership per Regions Act §4.
-- **Role:** primary care, pediatrics, geriatrics, **and minor surgery** — larger clinics perform a wider range of minor surgical procedures, taking pressure off the hospital tiers.
+- **Structure:** 10,000 clinics (~500/region), as Co-op-Led CCJVs (51–99% patient co-op / 1–49% Professional FCL).
+- **Role:** primary care, pediatrics, geriatrics, **and minor surgery at qualifying multi-specialty clinics (§2.5).** Small-town clinics (1–3 GPs) provide primary care and refer upward; city-based multi-specialty clinics (5–10+ doctors across 3+ specialties) perform minor surgery, diagnostics, and specialist consultations in-house, offloading the hospital tiers.
 - **Access ratio:** ~1 clinic per ~13,000 people — excellent local coverage.
 - **Workforce:** ~50,000 workers (~2,500/region), including physicians from Professional FCLs.
 - **Funding:** premium revenue (operations) + reference-rate-anchored service-sector loans (build); FCL healthcare contribution.
 
 ### 3.2 Tier 2 — Super Hospitals (200 → ~2,000)
 
-- **Structure:** **200 at start, scaling to ~2,000** (target ~100/region at full scale), co-op-owned (standard FCL or CCJV hybrid). Ownership per Regions Act §4.
+- **Structure:** **200 at start, scaling to ~2,000** (target ~100/region at full scale), co-op-owned (standard FCL or CCJV hybrid).
 - **Scaling rule:** count scales with population at roughly **1 per 65,000 people**, so the network auto-scales past 2,000 if population grows beyond ~130M.
 - **Role:** complex procedures, inpatient care, specialized departments, emergency departments.
 - **Adequacy:** at ~65,000 people per super hospital (full scale), the ratio is comparable to peer nations — and adequate *because* the dense minor-surgery-capable clinic layer offloads routine load.
@@ -211,12 +244,14 @@ Healthcare is funded by **mandatory universal premiums**, not state SWF operatin
 | :--- | :--- | :--- |
 | **Mandatory premiums (net of subsidy)** | **~$383B/year** | Primary funding; whole adult population + children; mental health included |
 | **FCL healthcare contribution** | **~$19B/year** | Progressive profit-sharing waterfall (FCL Act §3.2) — 40% of a ~$48B commons, itself a percentage of ~$400B of co-op net profit |
-| State bottom-tier subsidy | ~$45B/year | The state's main healthcare cost; subsidizes the bottom-20% premiums (part of ~$411B Sovereign Functions total) |
+| State bottom-tier subsidy | ~$45B/year | The state's main healthcare cost; subsidizes the bottom-20% premiums |
 | Reference-rate-anchored service-sector loans | as needed | Facility build/equipment (co-op and corporate eligible) |
 | Partner contributions | ~$1.21B/year | Donations, charitable grants (CMHIN) |
 | Facility profits | reinvested | Co-op clinic/hospital/CMHIN surpluses reinvested |
 
-*Net state healthcare cost ≈ the ~$45B subsidy 
+**Removed:** the Healthcare SWF ($145B) and Mental Health SWF ($35B) operating lines — healthcare no longer draws SWF operating funding. The system is self-funding via premiums + FCL contribution, with the state's role reduced to the targeted bottom-tier subsidy.
+
+*Net state healthcare cost ≈ the ~$45B subsidy (vs. ~$180B of SWF operating funding under Draft 6.4) — a ~$135B reduction in state burden, shifted to a self-funding premium model with universal coverage.*
 
 ---
 
@@ -226,6 +261,10 @@ Healthcare is funded by **mandatory universal premiums**, not state SWF operatin
 - 11 members: 6 regional representatives, 4 experts (drawn from the regional advisory layer, Chamber Act §8), 1 chairman.
 - **Appointment: nominated by the Territorial Chamber (Regional Boards, 11/20), confirmed by both Productive Chambers jointly** — the uniform rule for the seven sector boards (Chamber Act §7.1). **No sovereign role** (Sovereign Functions Act §8.5).
 - **Removal:** by the nominating and confirming bodies jointly, or on cause established by a Special-Auditor investigation.
+
+> **The seventh and last board on the registry, and the seventh to be found running on a rule the registry does not contain.** Prior drafts had the NHB *"appointed by the Sovereign Council (5/7)."* **Chamber Act §7** is explicit: *"The sovereign is barred from domestic regulation, so board appointment is a chamber function."* The Exchange's Co-op Capital Index, the NIB, the NEB, the NHA, the NCB, the NInfraB, and now the NHB — **seven acts, twelve instances, each written independently.** Every act described a board and reached for the nearest executive to appoint it, because that is what boards look like in every other country. **The Municipal & Regional Funding Act is the only one that checked** — and it is the act closest to the ground.
+>
+> The NHB is the sector board whose capture would matter most: it sits over an entrenched guarantee (Chamber Act §12.1) and a ~$448B system. It is the last one that should have been appointed by the executive.
 - Voting: 6/11 routine, 8/11 strategic, 5/11 emergency.
 - Operations: ~$100M/year (funded from premium administration, not SWF).
 - Independence: paired with but subordinate to none; disputes resolved through ad-hoc arbitration (Chamber Act §6.6).
@@ -240,7 +279,7 @@ Healthcare is funded by **mandatory universal premiums**, not state SWF operatin
 - Board of 5–7 worker-owners (one member, one vote); no investor voting; retainer client shares non-voting (2–8% patronage).
 
 ### 6.5 Corporate Facility Governance
-- Corporate hospitals/clinics follow corporate-governance rules (Monetary §4.1, entrenched as Chamber Act §12.3): worker board seats by headcount, transparency above $10M revenue, buyback limits. Licensed (not chartered) by the Regional Board; ownership per Regions Act §4; subject to medical-standards and (near dark corridors) DCALS compliance.
+- Corporate hospitals/clinics follow corporate-governance rules (Monetary §4.1, entrenched as Chamber Act §12.3): worker board seats by headcount, transparency above $10M revenue, buyback limits. Licensed (not chartered) by the Regional Board; subject to medical-standards and (near dark corridors) DCALS compliance.
 
 ---
 
@@ -259,7 +298,8 @@ Healthcare is funded by **mandatory universal premiums**, not state SWF operatin
 | Metric | 2025 | 2075 |
 | :--- | :--- | :--- |
 | Population covered | 112M (universal) | 130M (universal) |
-| Clinics (primary + minor surgery) | 10,000 | 10,000+ |
+| Clinics (total) | 10,000 | 10,000+ |
+| — of which multi-specialty community clinics (§2.5) | emerging | ~1,000–2,000 (projection — cities/medium towns) |
 | Super hospitals | 200 | ~2,000 (~1 per 65,000) |
 | Mega hospitals (at SMR hubs) | phasing in | 20 |
 | CMHIN (CSH / TRC / SLI) | 2,000 / 1,000 / 200 | scaled |
@@ -267,7 +307,7 @@ Healthcare is funded by **mandatory universal premiums**, not state SWF operatin
 | Funding model | **Premium-funded** | Premium-funded |
 | Net premium revenue | ~$383B/year | scaled |
 | FCL healthcare contribution | ~**$19B/year** | scaled |
-| State bottom-tier subsidy | ~$45B/year (part of ~$411B Sovereign Functions total) | scaled |
+| State bottom-tier subsidy | ~$45B/year | scaled |
 | Healthcare SWF / Mental Health SWF | **Removed** | — |
 | Healthcare loans | **service-sector band: reference + 0.5% to + 1.5%** (~4–5%). Corporate eligible at the same rate (§1.2). Reference rate ~3.5% (Monetary §1.5A) | same |
 | NHB | Independent sector board — Territorial Chamber nominates, both Productive Chambers confirm (Chamber Act §7.1). **No sovereign role** | same |
