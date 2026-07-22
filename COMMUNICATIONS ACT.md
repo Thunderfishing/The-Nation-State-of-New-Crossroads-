@@ -1,6 +1,6 @@
-# Crossroads Communications and Media Infrastructure Act of 2025: Draft 4.4
+# Crossroads Communications and Media Infrastructure Act of 2025: Draft 4.5
 
-**Draft:** 4.4 | **Date:** July 12, 2026
+**Draft:** 4.5 | **Date:** July 22, 2026
 **Author:** Thunderfish2
 
 ---
@@ -21,10 +21,10 @@ This model prevents monopoly capture, centralizes CME hardening, generates stead
 
 ## Section 0: Interdependencies
 
-- **Energy Act 4.4:** provides the grid (400 TWh → 1,633 TWh by 2075) and CME hardening (buried lines, EMP-shielded substations); antifragile SMR hubs ensure 99.9% uptime for broadcast and mesh nodes.
-- **Utilities Act 1.3:** the asset/operator separation model (state owns power lines, utilities sell power) is replicated (state owns fiber and towers, ISPs and media companies compete).
-- **Infrastructure Act 2.6:** buried fiber follows the same CME-proof specs as buried transmission lines; rail, ports, and airports distribute communications equipment.
-- **Monetary Act 9.8:** access fees paid in BWC, flow to SWF, subject to standard BWC transaction fees; co-op media pays the 5% co-op profit tax (over $100,000); no binding sector quotas. Loans are reference-rate-anchored (Monetary §1.5A).
+- **Energy Act 5.0:** provides the grid (~805 TWh → ~2,814 TWh by 2075, 413 GW) and CME hardening (buried lines, EMP-shielded substations); 21 antifragile hubs (including repository) ensure 99.9% uptime for broadcast and mesh nodes.
+- **Utilities Act 1.4:** the asset/operator separation model (state owns power lines, utilities sell power) is replicated (state owns fiber and towers, ISPs and media companies compete).
+- **Infrastructure Act 3.0:** buried fiber follows the same CME-proof specs as buried transmission lines; rail, ports, and airports distribute communications equipment.
+- **Monetary Act 9.9:** access fees paid in BWC, flow to SWF, subject to standard BWC transaction fees; co-op media pays the 5% co-op profit tax (over $100,000); no binding sector quotas. Loans are reference-rate-anchored (Monetary §1.5A).
 - **Credit Union Act 5.8:** media co-ops access reference-rate-anchored loans ($50,000–$5M) for studios, transmitters, and mesh nodes; micro-loans ($500, 4% nominal) for community-radio startups.
 - **FCL Act 3.4:** media co-ops operate as Tier 2/3 FCLs under the progressive waterfall; co-op clubs support local content; CCIF (voluntary) may fund expansion.
 - **Sovereign Functions Act:** the NCB is chartered under the independent board registry (Chamber Act §7); Special Auditors (§3) enforce compliance.
@@ -51,13 +51,14 @@ This model prevents monopoly capture, centralizes CME hardening, generates stead
 
 | Asset | 2025 | 2075 | Owner | Maintainer |
 | :--- | :--- | :--- | :--- | :--- |
-| Buried fiber backbone (CME-hardened) | 50,000 km | 150,000 km | State (NCB + Regional Boards) | NCB |
-| Broadcast towers (AM/FM/TV) | 5,000 | 5,000 | State (Regional Boards) | Regional Boards |
+| Buried fiber backbone (CME-hardened) | 50,000 km | 150,000 km | State (NCB + Regional Boards) | Co-op concession (NCB oversight) |
+| Broadcast towers (AM/FM/TV) | 5,000 | 5,000 | State (Regional Boards) | Co-op concession (Regional Board oversight) |
 | Mesh backbone nodes | 50,000 | 100,000 | State + Co-op (50/50) | Shared |
-| Emergency AM transmitters (EMP-hardened) | 2,000 | 2,000 | State (NCB) | NCB |
-| Satellite uplink facilities | 5 | 10 | State (NCB) | NCB |
+| Emergency AM transmitters (EMP-hardened) | 2,000 | 2,000 | State (NCB) | Co-op concession (NCB oversight) |
+| Satellite uplink facilities | 5 | 10 | State (NCB) | Co-op concession (NCB oversight) |
+| Submarine cables (inherited, pre-revolution) | 2–3 routes | Upgraded to high-capacity fiber | State (nationalized at founding) | Foreign tech company partnership (Industry Act §2.14) |
 
-Funded by **general revenue (~$15B, one-time buildout)** and maintained by the NCB and Regional Boards, following grid-hardening in the Energy Act.
+Funded by **general revenue (~$15B, one-time buildout)** and maintained by **co-op concessions under NCB and Regional Board oversight** (Utilities Act §1.4 pattern), following grid-hardening in the Energy Act 5.0. **The NCB oversees — it does not perform hands-on maintenance.**
 
 ### 1.3 What Service Providers Own and Operate
 
@@ -117,10 +118,10 @@ The rural fund ensures 95% rural reach (26.6M of 28M rural citizens) by 2075, fu
 
 | Component | 2025 | 2075 | Cost | Funded by |
 | :--- | :--- | :--- | :--- | :--- |
-| EMP-hardened AM transmitters | 2,000 | 2,000 | ~$2B | SWF |
+| EMP-hardened AM transmitters | 2,000 | 2,000 | ~$2B | General revenue |
 | Vehicle integration mandate | 112M | 130M | ~$5B | Manufacturers (phased) |
-| Buried lines to transmitters | 50,000 km | 50,000 km | ~$5B | SWF (Energy Act hardening) |
-| Backup SMR power (at hubs) | 18 GW | 36 GW | (in Energy Act) | Energy Act SWF |
+| Buried lines to transmitters | 50,000 km | 50,000 km | ~$5B | General revenue (shared with Energy Act grid hardening) |
+| Backup SMR power (at hubs) | 18 GW | 58 GW | (in Energy Act 5.0) | General revenue (Energy Act) |
 
 ### 3.3 AM Radio Network — Licensed Out in Normal Times (New)
 
@@ -144,7 +145,16 @@ The rural fund ensures 95% rural reach (26.6M of 28M rural citizens) by 2075, fu
 | Full recovery | Restore normal operations, resume commercial leases | 72 hours (Energy Act CME protocol) |
 
 ### 3.5 Funding
-- ~$10B SWF allocation ($500M/region) for hardening + vehicle integration; ~$5B from manufacturers (phased 2025–2035); operations funded by transmitter leases in normal times, ~$500M/year from SWF for the backbone/hardening.
+- ~$10B **general revenue** ($500M/region) for hardening + vehicle integration (not the SWF — this is non-revolving infrastructure capital; Monetary §2.1); ~$5B from manufacturers (phased 2025–2035); operations funded by transmitter leases in normal times and access-fee maintenance allocation.
+
+
+### 3.6 Submarine Cable Infrastructure
+
+New Crossroads inherited submarine cable routes from the pre-revolution regime. These are **state-owned sovereign infrastructure**, integrated into the communications backbone under NCB technical standards.
+
+Cable upgrades to high-capacity fiber are funded and executed under the **Industry Act 5.0 §2.14 (Data Center & AI Training Industry)** — the foreign tech companies that want to train AI models on the cheapest nuclear power on Earth fund the cable upgrade as their market-entry cost. The NCB coordinates technical standards, ensures integration with the buried fiber backbone, and manages the 20% sovereign-capacity reservation for government, military, and emergency use.
+
+See Industry Act §2.14 for the full incentive structure (tax holiday, electricity at generation cost, co-op partnership ramp, capacity rights).
 
 ---
 
@@ -202,17 +212,17 @@ All loans are reference-rate-anchored nominal rates per the Monetary Act (Moneta
 | Year | Rural reach | Digital users | Mesh nodes |
 | :--- | :--- | :--- | :--- |
 | 2025 | 90% (25.2M) | 59% (66M) | 50,000 |
-| 2035 | 95% (26.6M) | 66M | 75,000 |
-| 2050 | 95% (26.6M) | 66M | 90,000 |
-| 2075 | 95% (26.6M) | 66M | 100,000 |
+| 2035 | 95% (26.6M) | 80M (~70%) | 75,000 |
+| 2050 | 95% (27.5M) | 100M (~80%) | 90,000 |
+| 2075 | 95% (28M) | 117M (~90%) | 100,000 |
 
 ### 5.4 Funding
 
 | Component | Cost | Funded by |
 | :--- | :--- | :--- |
-| Backbone fiber (buried) | ~$5B | SWF (Energy Act hardening) |
-| Mesh nodes (50,000 → 100,000) | ~$20,000/node | SWF + CCIF |
-| Annual maintenance | ~$500M/year | Access fees + SWF |
+| Backbone fiber (buried) | ~$5B | General revenue (shared with grid hardening) |
+| Mesh nodes (50,000 → 100,000) | ~$20,000/node | General revenue + CCIF |
+| Annual maintenance | ~$500M/year | Access fees (155% recovery) |
 | Rural last-mile subsidies | ~$500M/year | Rural fund (20% of access fees) |
 
 ---
@@ -342,6 +352,7 @@ Cash payments for media services (newspapers, radio subscriptions, mesh internet
 | Loan rates | **service-sector band: reference + 0.5% to + 1.5%** (~4–5%). Reference rate ~3.5% (Monetary §1.5A) | same |
 | Fee allocation | 50% maintenance · 30% SWF · 20% rural fund (§2.3) | same |
 | NCB | Independent sector board — Territorial Chamber nominates, both Productive Chambers confirm (Chamber Act §7.1). **No sovereign role; not the NEB** | same |
+| Submarine cables | Inherited (pre-revolution), state-owned | Upgraded via foreign tech company partnership (Industry Act §2.14) |
 | Data architecture | PPK + CED (no CWD) | PPK + CED |
 
 ---
@@ -351,7 +362,7 @@ Cash payments for media services (newspapers, radio subscriptions, mesh internet
 | Feature | Rail | Communications |
 | :--- | :--- | :--- |
 | Asset owner | State (70%) + Co-op (30%) | State (70%)+Co-op (30%) fiber; State (100%) towers |
-| Maintainer | Cooperative | NCB + Regional Boards |
+| Maintainer | Cooperative | Co-op concession (NCB/Regional Board oversight) |
 | Operator | Train companies | ISPs, broadcasters, media co-ops |
 | Access fee | No tolls | $/Mbps, $/tower/year, $/node/year |
 | Fee recovery target | 100% of maintenance | 155% of hardening + maintenance |
@@ -400,9 +411,11 @@ The Communications Act applies the nation's signature pattern — the state owns
 
 - **The network is neutral and open.** No throttling, no paid fast lanes, open access for any licensed provider, enforced on pseudonymized operational data — never by watching what citizens read or watch.
 
+- **The cables come to us.** The nation inherited submarine cables from the old regime. Foreign tech companies that want the cheapest AI-training power on Earth upgrade them as their entry cost — tax-free until recovery, powered at generation cost. The state keeps 20% of the fiber for sovereign use. The cable specialist is a contractor; the tech company is the partner; the co-op ramp is the toll. (Industry Act §2.14.)
+
 - **Privacy at the kiosk.** A citizen pays cash for a newspaper or mesh subscription and is never recorded. What a person reads, watches, or listens to is never linked to who they are except by a judge under warrant.
 
-The state owns the fiber and towers. Co-ops and corporations compete to inform and connect citizens. Co-ops get first right of refusal and fee discounts. The AM band is alive with talk, music, and debate in peacetime — and the nation's voice in a crisis. And everyone, everywhere, has access — in cash, in BWC, in CMEs, and in daily life.
+The state owns the fiber, towers, and submarine cables. Co-ops and corporations compete to inform and connect citizens. Co-ops get first right of refusal and fee discounts. The AM band is alive with talk, music, and debate in peacetime — and the nation's voice in a crisis. And everyone, everywhere, has access — in cash, in BWC, in CMEs, and in daily life.
 
 ---
 
