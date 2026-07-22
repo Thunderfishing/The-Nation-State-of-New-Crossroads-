@@ -1,6 +1,6 @@
-# Crossroads Corridon River and Parks Act of 2025: Lifeblood of a Nation (Draft 3.5)
+# Crossroads Corridon River and Parks Act of 2025: Lifeblood of a Nation (Draft 3.6)
 
-**Draft:** 3.5 | **Date:** July 12, 2026
+**Draft:** 3.6 | **Date:** July 22, 2026
 **Author:** Thunderfish2
 
 ---
@@ -15,7 +15,7 @@ This act establishes the **1,200 km Corridon River Basin (24,000 km² national p
 
 The act integrates with the Infrastructure Act's elevated freeway insect corridors (3,000 km dark corridors) and DCALS/DCLTI lighting standards. Floods nourish 100,000 km² wetlands, levees protect cities, timber is capped at 10M m³/year, a 750 km CO₂ pipeline absorbs 3.115M tons/year by 2075, and a moisture feedback loop grows the Frostpeak glaciers.
 
-**Funding:** parks receive **general revenue** (~$20B/year, Sovereign Functions Act §7.3), the **Dark Corridor Fund surplus** (~$10.1B/year at mature tolls, Infrastructure Act §4.2), a **~$10B/year Parks Index**, **reference-rate-anchored service-sector loans**, the **recreation co-op clubs** (progressive waterfall + the parks-stewardship levy), the CCIF (~$2.5B/year), and **auctioned foreign cottages/timeshares**. Co-op park management receives preference (first right of refusal). No binding sector quotas apply.
+**Funding:** parks receive **general revenue** (~$20B/year, Sovereign Functions Act §7.3), the **Dark Corridor Fund surplus** (~$1.6B/year at corrected infrastructure revenue, Infrastructure Act 3.0 §4.2), a **~$6B/year Parks Index** (auction-cleared foreign cottages/timeshares), **reference-rate-anchored service-sector loans**, the **recreation co-op clubs** (progressive waterfall + the parks-stewardship levy), the CCIF (~$2.5B/year), and **auctioned foreign cottages/timeshares**. Co-op park management receives preference (first right of refusal). No binding sector quotas apply.
 
 ---
 
@@ -23,13 +23,13 @@ The act integrates with the Infrastructure Act's elevated freeway insect corrido
 
 | Act | Integration Point |
 | :--- | :--- |
-| **Monetary Act 9.8** | SWF capped at 12% GDP; automatic citizen dividends; reference-rate-anchored service-sector loans (Monetary §1.5A); Informal Economy Guarantee (cash park fees protected); auctioned cottages/timeshares (Monetary §6); no binding quotas |
+| **Monetary Act 9.9** | SWF capped at 12% GDP; automatic citizen dividends; reference-rate-anchored service-sector loans (Monetary §1.5A); Informal Economy Guarantee (cash park fees protected); auctioned cottages/timeshares (Monetary §6); no binding quotas |
 | **Credit Union Act 5.8** | Micro-loans for park-adjacent informal businesses ($500, 4% nominal, self-attested, 24hr) |
 | **FCL Act 3.4** | 30,000 recreation co-op clubs on the **progressive waterfall** (5%/15%/~22%, 2:1:2) + the parks-stewardship levy; Co-op Board listing; Freedom Share eligibility |
-| **Infrastructure Act 2.7** | Elevated freeway insect corridors (3,000 km) intersect parkweb; DCALS/DCLTI; retroreflective paint program; Dark Corridor Fund (10% of toll revenue ≈ $11.2B/yr by 2075; **parks receives the ~$10.1B surplus** after ~$1.1B of corridor items) |
-| **Energy Act 4.4** | Grid (nuclear + geothermal) powers park infrastructure; the 20 SMR hubs anchor regional services |
+| **Infrastructure Act 3.0** | Elevated freeway insect corridors (3,000 km) intersect parkweb; DCALS/DCLTI; retroreflective paint program; Dark Corridor Fund (10% of infrastructure access-fee revenue ≈ ~$2.7B/yr by 2075; **parks receives the ~$1.6B surplus** after ~$1.1B of corridor items) |
+| **Energy Act 5.0** | Grid (~2,814 TWh, nuclear + geothermal) powers park infrastructure; 21 antifragile hubs (including repository) anchor regional services |
 | **Healthcare Act 6.6** | Parks and clubs as **preventive-health infrastructure** — green space and recreation feed the Healthcare Act's preventive-care and mental-wellness goals |
-| **Education Act 2.3** | Parkweb and clubs as venues for recreation apprenticeships and the school sports/recreation representative; lifelong-recreation access |
+| **Education Act 2.5** | Parkweb and clubs as venues for recreation apprenticeships and the school sports/recreation representative; lifelong-recreation access |
 | **Sovereign Functions Act** | Special Auditors (§3) enforce biosphere reserve protections and minimum flow compliance |
 | **Chamber Act** | Regional Boards (§3) oversee regional park matters; Territorial Chamber (§3) ratifies biosphere reserve boundaries (11/20) |
 
@@ -102,7 +102,7 @@ The entire Corridon watershed — the **Corridon River, the Westflow, and their 
 - **Riverside power plants** — nuclear and waste-to-energy plants sited on the banks for cooling (point footprints, held to strict riparian and discharge standards since they sit within the protected zone); and
 - **Ports, barge channels, water intakes, and flood works** — the river's own working infrastructure.
 
-**Industry is off the floodplain.** The Industrial Corridors do **not** run along the river. They **radiate inland** from the riverside plants (Infrastructure Act 2.7 §3.7): a nuclear or WTE plant on the bank is the *head* of a corridor that runs perpendicular into the dry uplands, carrying buried warm-water + CO₂ to the inland greenhouses, hemp processing, and hempcrete plants. The sprawling industrial land use is therefore **outside the protected basin entirely** — the riverbank carries only the plants (point sites), the ports, and the protected ecological matrix. Where a corridor or pipeline must cross a riparian zone, it does so at a defined, buffered, DCALS-compliant crossing (like the land bridges, §4.1).
+**Industry is off the floodplain.** The Industrial Corridors do **not** run along the river. They **radiate inland** from the riverside plants (Infrastructure Act 3.0 §3.7): a nuclear or WTE plant on the bank is the *head* of a corridor that runs perpendicular into the dry uplands, carrying buried warm-water + CO₂ to the inland greenhouses, hemp processing, and hempcrete plants. The sprawling industrial land use is therefore **outside the protected basin entirely** — the riverbank carries only the plants (point sites), the ports, and the protected ecological matrix. Where a corridor or pipeline must cross a riparian zone, it does so at a defined, buffered, DCALS-compliant crossing (like the land bridges, §4.1).
 
 **Biosphere zoning (three tiers):**
 
@@ -177,25 +177,36 @@ Net CO₂: −4.32M t/yr (2025) → −21.735M t/yr (2075).
 ## Section 5: Foreign Investment and Parks Index
 
 ### 5.1 Parks Index (CPI)
-- **Revenue:** ~$10B/year.
+- **Revenue:** ~$6B/year at maturity (cottages ~$2B + timeshares ~$4B). See §5.2 for derivation.
 - **Asymmetric scrutiny:** CPI transactions fully tracked (institutional tier).
 
 ### 5.2 Cottages & Timeshares — Auction-Cleared Pricing (Reformed)
 
 *Rationale:* the prior fixed fees ($10,000/year cottages, $5,000/year timeshares) badly **underpriced** the scarcity value of residence in a dark-sky parkweb reserve. Foreign access is now **auctioned**, capturing true value and funding the commons entirely from foreign capital.
 
-- **Cottages — fixed-cap, rising-price (auction-cleared):** a **hard cap of 10,000 cottages (500/region)** on 50-year leases. Because supply is capped, leases are **auctioned** and the clearing price rises with demand — the cap protects the parkweb while the auction captures the scarcity premium. (Replaces the flat $10,000/year fee.)
-- **Timeshares — scaled to carrying capacity, auctioned:** timeshare units **scale with the parkweb's measured carrying capacity** (ecological load limits set by the NHB-equivalent park authority), and are **auctioned** within that limit. The 10% foreign-ownership cap is retained. (Replaces the flat $5,000/year fee.)
+- **Cottages — fixed-cap, rising-price (auction-cleared):** a **hard cap of 10,000 cottages (500/region)** on 50-year leases. Because supply is capped, leases are **auctioned** and the clearing price rises with demand — the cap protects the parkweb while the auction captures the scarcity premium. Realistic auction clearance: ~$150,000/year average at maturity → **~$1.5–2B/year** from cottages alone.
+- **Timeshares — scaled to carrying capacity, auctioned:** timeshare units **scale with the parkweb's measured carrying capacity** (ecological load limits set by the park authority), and are **auctioned** within that limit. The 10% foreign-ownership cap is retained. ~100,000–200,000 timeshare-weeks/year at $20,000–$30,000/week → **~$3–4B/year** at maturity.
+- **Combined Parks Index revenue: ~$6B/year** at maturity (not the prior ~$10B, which underestimated the remoteness barrier — Point Nemo isolation limits the ultra-high-net-worth market to ~100,000 potential buyers globally; filling 10,000 cottages from that pool is achievable but the price ceiling is real).
 - **Proceeds:** flow to parks funding (general revenue) — foreign capital funds the commons; citizens are unaffected.
 - **Scrutiny:** all cottage/timeshare transactions are institutional-tier (full tracking).
+
+**Cottage & timeshare buildout (Model B — state prepares, foreigner builds):**
+
+The state prepares sites (access roads, grid connection or solar micro-grid, water supply, waste management, DCALS-compliant infrastructure). The leaseholder builds to NHA-approved, DCALS-compliant dark-sky designs — the state does not hand a blank cheque on a dark-sky reserve.
+
+| Item | Cost | Funded by |
+|:---|:---|:---|
+| Site preparation (10,000 cottage sites × ~$250k) | ~$2.5B | General revenue → self-funding from auction proceeds |
+| Timeshare lodge infrastructure (shared facilities) | ~$1.5B | General revenue → self-funding |
+| **Total buildout** | **~$4B over 20 years** | **Self-funding from Year 5 onward** |
+
+**Bootstrap:** the first tranche of 1,000 sites (~$250M of preparation) generates ~$300–500M in first-year auction revenue. That funds the next tranche. By year 10, all 10,000 sites are prepared and the annual revenue exceeds the buildout cost. From year 10 onward, the lease revenue (~$2B/year from cottages) is pure parks funding.
 
 ### 5.3 Funding Sources
 
 | Source | Amount | Notes |
 | :--- | :--- | :--- |
-| **Dark Corridor Fund surplus** (Infrastructure Act §4.2) | **~$10.1B/year** (at mature tolls) | The parkweb’s primary funding stream — the surplus after the corridor’s own ~$1.1B of habitat, monitoring, and enforcement items. **Not the whole $11.2B** — the corridor items come first |
-| **Parks Index** (foreign investment, §5.1) | ~$10B/year | Auction-cleared cottage/timeshare revenue |
-| **General revenue** (Sovereign Functions Act §7.3) | ~$20B/year | The sovereign’s parks line — part of the ~$411B federal budget |
+
 | **Parks-stewardship levy** (§6.1) | ~$2B/year (by 2075) | ~5% of club revenue |
 | **CCIF to parks** (§5.4) | ~$2.5B/year | Third priority in the Alliance Network allocation; CCIF rescaled to ~$991B |
 
@@ -256,15 +267,15 @@ Club lodges, campsites, and trailheads within 500m of elevated insect corridors 
 | :--- | :--- | :--- |
 | Population | 112M | 130M |
 | SWF | ~$230B seed (3.8% of GDP) | capped at 12% (~$720B → ~$2.28T) |
-| Parks — general revenue | ~$20B | Sovereign Functions Act §7.3 |
-| Parks Index | ~$10B/yr | ~$10B/yr |
+| Parks — general revenue | ~$20B | Sovereign Functions Act §7.3 (~$424.5B federal budget) |
+| Parks Index (cottages + timeshares) | building | ~$6B/yr (at maturity) |
 | CCIF to parks | ~$2.5B/yr | Third priority |
 | **Club waterfall** | **Progressive (5/15/~22%)** | same |
 | **Parks-stewardship levy** | **~5% of club revenue** | **~$2B/yr by 2075** |
-| Cottages | **Auctioned, cap 10,000** | Auctioned, rising price |
+| Cottages | **Auctioned, cap 10,000** | Auctioned (~$150k/yr avg clearance) |
 | Timeshares | **Auctioned, capacity-scaled** | Auctioned (10% foreign cap) |
 | Loan rates | **service-sector band: reference + 0.5% to + 1.5%** (~4–5%). Reference rate ~3.5% (Monetary §1.5A) | same |
-| **Dark Corridor Fund surplus to parks** | building | **~$10.1B/yr** at mature tolls (Infrastructure Act §4.2 — after ~$1.1B of corridor items) |
+| **Dark Corridor Fund surplus to parks** | building | **~$1.6B/yr** at corrected infrastructure revenue (Infrastructure Act 3.0 — after ~$1.1B of corridor items) |
 | Pollinator agricultural benefit | — | ~$6.8B/yr |
 | Parkweb | 540,000 km² | 540,000 km² |
 | **Corridon Basin Biosphere Reserve** | **Established (source-to-mouth, protected-by-default)** | Connected to Frostpeak/Ember ranges |
@@ -275,6 +286,8 @@ Club lodges, campsites, and trailheads within 500m of elevated insect corridors 
 | CO₂ absorption | 25.68M t/yr | 28.265M t/yr |
 | Net CO₂ | −4.32M t/yr | −21.735M t/yr |
 | Clubs | 27,600 | 30,000 |
+| Cottage/timeshare buildout | ~$4B over 20 years | Self-funding from Year 5 |
+| **Total parks funding** | building | **~$32.1B/yr** |
 | Recreation revenue | ~$20B/yr | ~$40B/yr |
 | Data architecture | PPK + CED (no CWD) | PPK + CED |
 
@@ -311,4 +324,4 @@ A nation that auctions the privilege of its wild places to outsiders, taxes its 
 
 ---
 
-**End of Draft 3.5**
+**End of Draft 3.6**
