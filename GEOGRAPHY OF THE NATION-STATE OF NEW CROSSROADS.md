@@ -1,7 +1,11 @@
-# The Nation-State of New Crossroads — Geography & National Profile
+# The Nation-State of New Crossroads — Geography & National Profile: Draft 3.1
 
 **Draft:** 3.1 | **Date:** July 17, 2026
 **Author:** Thunderfish2
+
+---
+
+> **Cross-reference.** The geographic capstone to the legislative suite: **Monetary Act 9.9**, **Credit Union Act 5.8**, **Sovereign Functions Act v2.3**, **Chamber Act**, **Energy Act 5.0**, **Healthcare Act 6.7**, **Education Act 2.5**, **FCL Act 3.4**, **Infrastructure Act 3.0**, **Communications Act 4.4**, **Industry Act 4.5**, **Housing Act 2.5**, **Parks Act 3.5**, **Utilities Act 1.4**, **Military Act 1.9**, **Municipal & Regional Funding Act 1.3**, and the **Exchange Act 1.6**. Figures are reconciled to the **Consolidated Fiscal Model v3.2**.
 
 > **Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values.
 
@@ -33,11 +37,11 @@ The island's **long axis runs north–south** along its meridian. The **east and
 
 ### 2.2 The Corridon River (Flows North)
 
-The **Corridon River (~1,200 km)** is the nation's lifeblood. It rises in the **glaciers and snowfields of the southern Frostpeak Range**, flows **north** through the temperate Heartland, gathers its tributaries at the central confluence (Crossroads City), and reaches the sea at a broad **equatorial delta in the north.** Glacial headwaters in the cold south, fertile delta in the warm north — the river ties the whole length of the nation together and carries ~50M tons of barge traffic. Its warm-water Industrial Corridors (Energy/Infrastructure Acts) divert nuclear cooling-return flow north to irrigate the Heartland.
+The **Corridon River (~1,200 km)** is the nation's lifeblood. It rises in the **glaciers and snowfields of the southern Frostpeak Range**, flows **north** through the temperate Heartland, gathers its tributaries at the central confluence (Crossroads City), and reaches the sea at a broad **equatorial delta in the north.** Glacial headwaters in the cold south, fertile delta in the warm north — the river ties the whole length of the nation together and carries ~150M tonnes of barge traffic. Its warm-water Industrial Corridors (Energy/Infrastructure Acts) divert nuclear cooling-return flow north to irrigate the Heartland.
 
 ### 2.3 The Westflow River (Dammed)
 
-The **Westflow River (~300 km)** has a **major dam well upstream** — the dam impounds a reservoir and generates hydropower, and serves as the **head of navigation.** Above the dam is reservoir and hydro; **below the dam, the lower Westflow carries a fair amount of barge traffic** (~5M tons) down to its confluence and the coast.
+The **Westflow River (~300 km)** has a **major dam well upstream** — the dam impounds a reservoir and generates hydropower, and serves as the **head of navigation.** Above the dam is reservoir and hydro; **below the dam, the lower Westflow carries a fair amount of barge traffic** (~20M tonnes) down to its confluence and the coast.
 
 ### 2.4 Coasts & Isolation
 
@@ -51,9 +55,9 @@ The **east and west coasts** host the sea-ports, fishing fleets, and coastal tra
 
 The capital sits **inland, at the great confluence where a major tributary joins the Corridon**, in the warm-temperate north-center — the literal *crossroads* where the **north–south river corridor meets the east–west rail and freeway trunk routes.**
 
-- **A massive freshwater river port.** Unlike the coastal sea-ports, Crossroads City's port is a **freshwater inland port** on the Corridon — the central transshipment hub where river barges, the **rail trunk**, and the **freeway trunk** all interconnect. Goods from the whole river-length and both coasts pass through it.
+- **A massive freshwater river port (~80M tonnes/yr transshipment).** Unlike the coastal sea-ports, Crossroads City's port is a **freshwater inland port** on the Corridon — the central transshipment hub where river barges, the **rail trunk**, and the **freeway trunk** all interconnect. Goods from the whole river-length and both coasts pass through it.
 - **Governance & co-op hub:** seat of the three chambers — Territorial, Co-operative Productive, and Corporate Productive (Chamber Act) — and the co-op governance institutions.
-- **An international SMR hub & mega-hospital:** one of the two international antifragile hubs (Energy Act 4.4), anchoring a regional mega-hospital (Healthcare Act 6.7), water treatment, and a cargo airport.
+- **An international SMR hub & mega-hospital:** one of the two international antifragile hubs (Energy Act 5.0), anchoring a regional mega-hospital (Healthcare Act 6.7), water treatment, and a cargo airport.
 - **An Industrial Corridor anchor:** warm-water and CO₂ pipelines (Infrastructure §3.7) radiate from the Corridon nuclear plants here toward the Heartland and the processing clusters.
 
 ### 3.2 Rivergate City (Region 2) — The Equatorial Sea-Gate
@@ -130,7 +134,7 @@ The 2025 split is the documents' baseline. The **2075 column is a projection of 
 - **Informal over-performs — because it is *chosen*, not *escaped*.** In a normal economy informal shrinks with development; New Crossroads inverts that on purpose by constitutionally protecting cash commerce and keeping it frictionless. A growing, financially-literate population can afford to stay small by choice (artisans, journeyman trades, gig). So informal *grows* — but it is capped below ~27% of GDP value by the formal high-value spine: nuclear power, AI/tech, minerals, healthcare, steel, and shipbuilding *cannot* be run out of a cash box. Note informal is a larger share of *people* (perhaps ~35–40% of workers) than of *value* (~25%) — high headcount, modest value-per-head. **Under 5% VAT + the $1,432 citizen dividend, the informal sector nets positive: it pays ~$25–33B of VAT and receives ~$30B of dividend.** It is the only instrument that reaches them, and the only channel that reaches back.
 - **Corporate holds and edges up,** carried by capital-intensive sectors and foreign investment — tempered by the 40% co-op-conversion rule on foreign factories (Industry Act 4.5), which steadily converts pure-corporate into hybrid.
 
-*All shares are descriptive (Monetary Act 9.8); no act enforces them — the composition is an outcome of incentives, not a quota.*
+*All shares are descriptive (Monetary Act 9.9); no act enforces them — the composition is an outcome of incentives, not a quota.*
 
 ### 5.3 Resources (regionally owned — Municipal & Regional Funding Act §2.5)
 
@@ -142,16 +146,16 @@ The 2025 split is the documents' baseline. The **2075 column is a projection of 
 
 Minerals (uranium, coal, metals) dominate, from the southern Frostpeak regions; agriculture from the temperate Heartland; modest gas reserves routed to fertilizer/petrochemicals (Industry Act 4.5), not transport.
 
-### 5.4 Public Finances (Consolidated Fiscal Model v2.0)
+### 5.4 Public Finances (Consolidated Fiscal Model v3.2)
 
 | Metric | 2025 | 2075 |
 | :--- | :--- | :--- |
 | Sovereign Wealth Fund (capped 12% GDP) | ~$230B (3.8% of GDP) | capped at ~$2.28T |
 | National revenue | ~$460B | scaling |
 | National spending — operations | ~$196B (3.3% of GDP, inside the 4% cap) | ~1% of GDP |
-| National spending — transfers | ~$215B | scaling |
-| National surplus | ~$49B → SWF → citizen dividend | scaling |
-| **Citizen dividend (once SWF caps ~2029)** | **~$152B/yr (~$1,359/citizen)** | scaling |
+| National spending — transfers | ~$228.5B | scaling |
+| National surplus | ~$69B → SWF → citizen dividend | scaling |
+| **Citizen dividend (once SWF caps ~2029)** | **~$155B/yr (~$1,380/citizen)** | scaling |
 | Exports | ~$840B (~14% of GDP) | ~$2.7T |
 
 *The national tier runs on VAT (5%, DLB zero-rated), income tax above $100,000, profit taxes (co-op and corporate, federal only), tariffs, resources, property, and excise. No FTT. No sovereign debt at any level. Royalties fund the regions; the SWF lends and backstops — it does not spend.*
@@ -160,13 +164,13 @@ Minerals (uranium, coal, metals) dominate, from the southern Frostpeak regions; 
 
 ## Section 6: Infrastructure
 
-- **Corridon barges:** ~1,200 km, ~50M tons, flowing **north** through Regions 3 → 11/19 → 1/8 → 15 (headwaters to delta). Freshwater inland port at Crossroads City.
-- **Westflow barges:** ~300 km, ~5M tons on the **lower river below the upstream dam** (Region 5).
+- **Corridon barges:** ~1,200 km, ~150M tonnes, flowing **north** through Regions 3 → 11/19 → 1/8 → 15 (headwaters to delta). Freshwater inland port at Crossroads City.
+- **Westflow barges:** ~300 km, ~20M tonnes on the **lower river below the upstream dam** (Region 5).
 - **Rail:** 50,000 km (2025) → 75,000 km (2075), connecting all 20 regions; trunk junction at Crossroads City.
 - **Freeways:** 15,000 km (12,000 km standard + 3,000 km elevated with insect corridors and dark-sky compliance).
-- **Sea-ports:** ~97M tons (2025) → 150M tons (2075) — primary gateways at Rivergate City (north coast), Eastport and Coastwatch (east coast).
+- **Sea-ports:** ~97M tonnes (2025) → 300M tonnes (2075) — primary gateways at Rivergate City (north coast), Eastport and Coastwatch (east coast).
 - **CO₂ pipelines:** ~3,200 km → 4,000 km, part of the **Industrial Corridors** (warm-water + CO₂) radiating from the Corridon nuclear plants (Infrastructure §3.7).
-- **20 SMR hubs:** one per region (2 international — Crossroads City, Rivergate City — + 18 regional), co-locating power, mega-hospital, water treatment, airport, and emergency communications (Energy Act 4.4 / Healthcare Act 6.7 / Communications Act 4.4).
+- **20 SMR hubs:** one per region (2 international — Crossroads City, Rivergate City — + 18 regional), co-locating power, mega-hospital, water treatment, airport, and emergency communications (Energy Act 5.0 / Healthcare Act 6.7 / Communications Act 4.4).
 - **Buried fiber backbone:** 50,000 km (2025) → 150,000 km (2075), CME-hardened (Communications Act 4.4).
 
 ---
@@ -196,14 +200,14 @@ Minerals (uranium, coal, metals) dominate, from the southern Frostpeak regions; 
 | Resource activity | ~$306.4B | scaling |
 | SWF (12% GDP cap) | ~$230B | capped at ~$2.28T |
 | Federal revenue | ~$460B | scaling |
-| Federal spending | ~$411B (operations $196B + transfers $215B) | scaling |
-| Citizen dividend | ~$152B/yr (~$1,359/citizen) | scaling |
+| Federal spending | ~$424.5B (operations $196B + transfers $228.5B) | scaling |
+| Citizen dividend | ~$155B/yr (~$1,380/citizen) | scaling |
 | Exports | ~$840B | ~$2.7T |
-| Corridon River | ~1,200 km, flows north, ~50M tons barges | — |
-| Westflow River | ~300 km, barges on lower river below upstream dam | — |
+| Corridon River | ~1,200 km, flows north, ~150M tonnes barges | — |
+| Westflow River | ~300 km, ~20M tonnes barges on lower river below upstream dam | — |
 | Rail | 50,000 km | 75,000 km |
 | Freeways | 15,000 km (3,000 elevated) | — |
-| Sea-ports | ~97M tons | 150M tons |
+| Sea-ports | ~97M tonnes | 300M tonnes |
 | SMR hubs / mega-hospitals | 20 (one per region) | 20 |
 | Parkweb | 540,000 km² | ~700,000 km² |
 | Regions | 20 | 20 |
