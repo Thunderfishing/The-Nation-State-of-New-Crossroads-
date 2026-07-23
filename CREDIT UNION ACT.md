@@ -2,8 +2,6 @@
 
 ---
 
-**Cross-reference.** Companion to the **Monetary Act 9.9** (the DLB, the issuance anchor §1.5, the Reference Rate Anchor §1.5A, the citizen revolving credit line §1.6A, the Crisis-Management section §1.8, the rolling jubilee §2.2, the Informal Economy Guarantee §1A, the PPK/CED §5), the **Sovereign Functions Act** (the SWF §5, the Judicial Link Box §4.2, the Special Auditors §3, Treasury §6A.1), the **Chamber Act** (the Territorial Chamber / Regional Boards §3, the Productive Chamber §4.1, the Productive Chamber §4.2, the universal citizen vote §2, the oversight committees §6.7, the ad-hoc arbitration process §6.6, the independent board registry §7, the entrenched floors §11, the protected guarantees §12), and the **Exchange Act 1.5** (the Credit-Union Capital Board §3.2, the Co-op Board §3.1). Loan and deposit rates are plain nominal rates set within system bands around the reference rate defined in Monetary Act §1.5A — reset when the reference rate is republished.
-
 **Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values.
 
 ---
