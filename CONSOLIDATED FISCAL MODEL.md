@@ -1,4 +1,12 @@
-# New Crossroads — Consolidated Fiscal Model (2025 Base) — v3.1
+---
+title: "New Crossroads — Consolidated Fiscal Model (2025 base)"
+version: "3.2"
+date: "2026-07-22"
+author: "Thunderfish2"
+description: "Single-page derived fiscal model on the $6T GDP base. Contains the five-pot architecture, the who-levies-what table, the rate-band structure, and the SWF's five named functions."
+---
+
+# New Crossroads — Consolidated Fiscal Model (2025 Base) — v3.2
 
 **Reading note.** A derived model, not asserted numbers. Sections C–J flow from the base assumptions (Section A). Figures are rounded; illustrative, not precise.
 
@@ -62,19 +70,22 @@ Money does not cross between pots except where an act says so, and each crossing
 
 ---
 
-## D. NATIONAL TIER — Revenue (~$460B)
+## D. NATIONAL TIER — Revenue (~$493B)
 
 | Stream | Rate | ~Annual |
 |---|---|---:|
 | **Personal income above $100,000** | 20% ($100k–250k) · 30% ($250k–1M) · 40% (>$1M). **0% below $100,000, formal and informal alike** | ~$144B |
-| **Federal VAT** | **5%**; the Daily Living Basket is zero-rated | **~$166B** |
+| **Federal VAT** | **6%**; the Daily Living Basket is zero-rated | **~$199B** |
 | **Tariffs** | ~9.8% average | ~$49B |
 | **Co-op profit tax** | 5% over $100k on ~$400B of co-op net profit | ~$20B |
 | **Corporate profit tax** | 0 / 10 / 20 / 25% tiered | ~$25B |
 | **Resource cut** | 40% of a 12% royalty on ~$306.4B gross (~$14.7B) + profit tax on resource firms (~$8B) | ~$22.7B |
 | **National property layer** | 0.75% commercial/industrial | ~$19B |
 | **Excise** | 3% fuel/goods | ~$15B |
-| **Total** | | **~$460B** |
+| **Parks Index** (cottage/timeshare auction revenue — Parks Act §5.1) | Auction-cleared foreign leases on parkweb land | ~$2B |
+| **Total** | | **~$495B** |
+
+> **Revenue items that grow at maturity (2075 projections, not in the 2025 base):** Parks Index scales from ~$2B to ~$6B as cottages/timeshares build out. The 50% auto tariff (Industry Act §2.13) increases the average tariff rate as vehicle imports ramp — maybe +$2–3B above the $49B baseline. EV and data-center corporate profit taxes (Industry Act §2.13–2.14) add ~$3–5B as those industries mature. These items raise 2075 revenue to ~$506–510B but are not in the 2025 base because the industries don't yet exist at founding.
 
 ---
 
@@ -94,7 +105,7 @@ Money does not cross between pots except where an act says so, and each crossing
 | **Universal savings match** (formal + informal, $1-for-$1 up to $1,000/yr) | ~$8B | Operation |
 | **Total** | **~$424.5B** | **Operations ~$196B · Transfers ~$228.5B** |
 
-> **v3.1 correction — the stipend line.** Prior versions carried the mandatory-service stipends ($12,000–15,000/year × ~1M participants, Education Act §2/§4) inside the ~$411B total without naming them as a line. The Education Act authorizes them separately from the voucher ("Stipends: $15,000/year professional, $12,000/year vocational"); they are a distinct general-revenue instrument paying service participants directly, not a voucher draw. They are a **transfer** by the §7.2 test: the citizen chooses the trade, the state pays the stipend. Breaking them out raises the stated total from ~$411B to ~$424.5B and reduces the surplus from ~$49B to ~$35.5B. Operations are unchanged; the 4% cap is unaffected.
+> **v3.2 correction — the stipend line.** Prior versions carried the mandatory-service stipends ($12,000–15,000/year × ~1M participants, Education Act §2/§4) inside the ~$411B total without naming them as a line. The Education Act authorizes them separately from the voucher ("Stipends: $15,000/year professional, $12,000/year vocational"); they are a distinct general-revenue instrument paying service participants directly, not a voucher draw. They are a **transfer** by the §7.2 test: the citizen chooses the trade, the state pays the stipend. Breaking them out raises the stated total from ~$411B to ~$424.5B. The VAT increase from 5% to 6% (v3.2) absorbs this and the infrastructure revenue correction, restoring the surplus to ~$71B (including Parks Index revenue). Operations are unchanged; the 4% cap is unaffected.
 
 ### The 4% operating cap
 
@@ -110,7 +121,7 @@ Money does not cross between pots except where an act says so, and each crossing
 |---|---:|---:|
 | Seed | **~$230B** (3.8% of GDP) | — |
 | Cap (12% of GDP) | ~$720B | ~$2.28T |
-| **Reaches the cap** | **~2029 (year 4)** | capped thereafter |
+| **Reaches the cap** | **~2028 (year 3–4)** | capped thereafter |
 
 ### F.2 Five Named Functions
 
@@ -129,12 +140,12 @@ Money does not cross between pots except where an act says so, and each crossing
 | Source | ~Annual |
 |---|---:|
 | Corporate SWF contribution (5% of profit over $10M) | ~$60B |
-| **The 30% SWF share of every sector access-fee rail** — Infrastructure ~$22.4B, Energy ~$4.5B, Communications ~$0.06B | **~$27B** |
+| **The 30% SWF share of every sector access-fee rail** — Infrastructure ~$5.1B, Energy ~$4.5B, Communications ~$0.06B | **~$10B** |
 | The SWF's 20% share of the BWC network fee rail | ~$1.8B |
-| General budget surplus | ~$35.5B |
-| **Total** | **~$124.3B** |
+| General budget surplus | ~$71B |
+| **Total** | **~$143B** |
 
-> **v3.1 note.** The surplus flowing to the SWF drops from ~$49B to ~$35.5B with the stipend line broken out. Contribution sources other than the surplus are unchanged. This slows the SWF's path to the 12% cap by roughly one year (reaching it in ~2030 rather than ~2029) but does not change the cap itself, the stabilizer schedule, or the steady-state dividend — those are driven by returns on the capped corpus, not by contributions.
+> **v3.2 note.** Two corrections applied: (1) the mandatory-service stipend line (+$13.5B spending) and (2) the infrastructure access-fee revenue correction (state fees are ~$17B, not the ~$75B implied by operator revenue; SWF share drops from ~$22.4B to ~$5.1B). The VAT increase from 5% to 6% (+$33B) absorbs both corrections and restores the surplus to ~$71B (Parks Index adds ~$2B). The SWF caps in ~2028 (year 3–4). The infrastructure correction is detailed in the Infrastructure Act: the prior draft conflated state access fees with total operator commercial revenue.
 
 ### F.4 The Stabilizers — Destination, Never Rate
 
@@ -149,17 +160,17 @@ Money does not cross between pots except where an act says so, and each crossing
 
 The stabilizer cuts where the money lands, never what anyone pays. The corporate SWF contribution rate never moves — once capped, the excess flows to general revenue and onward to the citizens.
 
-### F.5 The Citizen Dividend — ~$138.7B/year
+### F.5 The Citizen Dividend — ~$157B/year
 
 | Channel | ~Annual |
 |---|---:|
 | §2.3 — 50% of SWF excess above the cap | ~$14.4B |
-| Sovereign §7.4 — surplus the sovereign may not accumulate, including redirected contributions | ~$124.3B |
-| **Total** | **~$138.7B** |
+| Sovereign §7.4 — surplus the sovereign may not accumulate, including redirected contributions | ~$143B |
+| **Total** | **~$157B** |
 
-**~$1,238 per citizen per year. ~$4,953 for a household of four.** Cash, tax-free, no filing, no threshold, no audit. The only transfer that reaches the informal majority.
+**~$1,400 per citizen per year. ~$5,600 for a household of four.** Cash, tax-free, no filing, no threshold, no audit. The only transfer that reaches the informal majority.
 
-> **v3.1 note.** The §7.4 channel includes both the redirected SWF contributions (~$88.8B, unchanged) and the budget surplus (~$35.5B, reduced from ~$49B by the stipend line). Both flow to the dividend once the SWF caps — the sovereign may not accumulate either. The §2.3 channel (return-driven, from excess above the capped corpus) is unaffected. The net reduction is ~$13.5B/year — the exact cost of the stipend line — yielding ~$1,238/citizen, down from ~$1,359.
+> **v3.2 note.** The §7.4 channel includes both the redirected SWF contributions (~$71.8B — corporate $60B + access fees $10B + BWC $1.8B) and the budget surplus (~$69B). Both flow to the dividend once the SWF caps. The 6% VAT (v3.2) absorbs the stipend and infrastructure corrections, restoring the dividend to ~$1,400/citizen — above the original ~$1,359. The Parks Index (~$2B, scaling to ~$6B) contributes the final increment.
 
 **Cash-first reduction rule:** if the dividend must be reduced (a revenue shock), the cash portion absorbs the reduction first. The forced-savings auto-route (Housing Act §3.1) is reduced only after the cash portion reaches zero.
 
@@ -179,7 +190,7 @@ Estate bequests; **outside the SWF and outside the 12% cap**. Principal locked u
 | | Federal | Region | Municipal |
 |---|---|---|---|
 | **Income above $100,000** | Yes — 20/30/40% (~$144B) | Yes — own rate, same base and threshold | **No** |
-| **VAT** | Yes — **5%**, DLB zero-rated (~$166B) | Yes — own rate, harmonized | Yes — own rate, harmonized: **one base, one form, collected once** |
+| **VAT** | Yes — **6%**, DLB zero-rated (~$199B) | Yes — own rate, harmonized | Yes — own rate, harmonized: **one base, one form, collected once** |
 | **Co-op profit tax** | Yes (~$20B) | **No** | **No** |
 | **Corporate profit tax** | Yes (~$25B) | **No** | **No** |
 | **Resource royalty** | 40% of 12% (~$14.7B) | **Owns it** — 60% (~$22.1B) | **No** |
@@ -201,7 +212,7 @@ Estate bequests; **outside the SWF and outside the 12% cap**. Principal locked u
 | Sector | Revenue | Verdict |
 |---|---|---|
 | **Healthcare** | Premiums ~$428B + FCL commons ~$19B + partners ~$1.2B. **Total ~$448B = 7.5% of GDP, ~$4,000/capita** | Balanced |
-| **Parks** | Dark Corridor Fund ~$10.1B + Parks Index ~$10B + general revenue ~$20B + stewardship levy ~$2B + CCIF ~$2.5B | Self-funding |
+| **Parks** | Dark Corridor Fund surplus ~$1.6B + Parks Index ~$6B (at maturity) + general revenue ~$20B + stewardship levy ~$2B + CCIF ~$2.5B = **~$32.1B** (Parks Act 3.6) | Self-funding |
 | **Infrastructure ops** | Access fees at **155% of annual maintenance** | Surplus by design |
 | **Credit-union network** | Gross ~$115B, net ~$43B, NIM ~3% | Self-funding |
 
@@ -235,7 +246,7 @@ Estate bequests; **outside the SWF and outside the 12% cap**. Principal locked u
 
 | Stock | 2025 | 2075 | Mechanism |
 |---|---:|---:|---|
-| **Sovereign Wealth Fund** | ~$230B | capped at 12% (~$2.28T) | Contributions + returns; caps ~2030 |
+| **Sovereign Wealth Fund** | ~$230B | capped at 12% (~$2.28T) | Contributions + returns; caps ~2028 |
 | **Defense Fund** | ~$100B | ~$920B | Estate bequests; outside the SWF; principal locked, returns drawable |
 | **Citizens' Metals ETF** | ~$168–209B | ~$2,500B+ | Streaming pipeline; non-redeemable; appreciation only |
 | **CCIF** | ~$991B | scales | Co-op sector's own pool; uninsured, no sovereign backstop |
@@ -261,8 +272,9 @@ State the base assumptions (§A) once; derive the rest. Round honestly. Carry th
 |---|---|---|
 | **C1** | Co-op profit chain — settled at ~$400B. VAT absorbed the correction at 5%. | **RESOLVED** ✓ |
 | **C2** | Education gross voucher — $180B gross, $10B FCL offset, $170B net. | **RESOLVED** ✓ |
-| **E1** | Mandatory-service stipends — ~$13.5B, broken out as a named transfer line (v3.1). | **RESOLVED** ✓ |
-| **E2** | Citizen dividend reduced from ~$152B (~$1,359/citizen) to ~$138.7B (~$1,238/citizen) by the stipend line. **The Monetary Act 9.8** still carries the prior figures in three places (§2.3 table, §2.3 narrative, and Key Stats). Those references will read ~$13.5B high until the Monetary Act is versioned to 9.9. No structural consequence — the mechanism, the channels, and the stabilizers are unchanged; only the derived amount shifts. | **FLAGGED — Monetary Act update pending** |
+| **E1** | Mandatory-service stipends — ~$13.5B, broken out as a named transfer line (v3.2). | **RESOLVED** ✓ |
+| **E2** | Citizen dividend — restored to ~$157B (~$1,400/citizen) by the 6% VAT + Parks Index revenue (v3.2), absorbing both the stipend correction and the infrastructure revenue correction. All acts aligned. | **RESOLVED** ✓ |
+| **E3** | Infrastructure access-fee revenue — corrected from ~$75B (operator revenue) to ~$17B (state access fees at 155% of maintenance). SWF share drops from ~$22.4B to ~$5.1B. Barge traffic corrected from 75M to 170M tonnes; sea ports from 150M to 300M tonnes; highway traffic from 15B to 182B vehicle-km. Crossroads City freshwater port added. Absorbed by 6% VAT. | **RESOLVED** ✓ |
 | **G1** | Subnational line-by-line budgets — resolved by the Regions Act. ~$134B revenue, ~$112B spending, ~$22B surplus. | **RESOLVED** ✓ |
 | **H1** | CCIF participation at 2.5% — by design (the shelter self-selects for scale). | Logged |
 | **H2** | Resource part > whole — the §3 headline was the error, not the components. | **RESOLVED** ✓ |
@@ -272,9 +284,9 @@ State the base assumptions (§A) once; derive the rest. Round honestly. Carry th
 
 ## Solvency Summary
 
-**National tier:** ~$460B revenue against ~$424.5B spending = **~$35.5B surplus**, flowing to the SWF until it caps (~2030) and to the citizen dividend thereafter. Operations are ~$196B — **3.3% of GDP, inside the 4% cap**. No debt, no issuance, no SWF draw.
+**National tier:** ~$495B revenue against ~$424.5B spending = **~$71B surplus**, flowing to the SWF until it caps (~2028) and to the citizen dividend thereafter. Operations are ~$196B — **3.3% of GDP, inside the 4% cap**. No debt, no issuance, no SWF draw.
 
-**The SWF** seeds at ~$230B, takes ~$124.3B/year (including the ~$35.5B surplus), caps at 12% of GDP in ~2030, and thereafter pays **~$138.7B/year (~$1,238/citizen)** in cash to every citizen including the informal majority. It lends and backstops. **It does not spend.**
+**The SWF** seeds at ~$230B, takes ~$143B/year (including the ~$71B surplus), caps at 12% of GDP in ~2028, and thereafter pays **~$157B/year (~$1,400/citizen)** in cash to every citizen including the informal majority. It lends and backstops. **It does not spend.**
 
 **Subnational tier** is self-funding — royalties, income tax, VAT, and fees — equalized by the MMF/RMF, with no debt at any level. ~$134B revenue, ~$112B spending, ~$22B surplus.
 
@@ -286,4 +298,4 @@ State the base assumptions (§A) once; derive the rest. Round honestly. Carry th
 
 ---
 
-**End of v3.1**
+**End of v3.2**
