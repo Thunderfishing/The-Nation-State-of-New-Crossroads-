@@ -20,7 +20,7 @@ This model prevents natural-monopoly capture, centralizes CME hardening, generat
 ## Section 0: Interdependencies
 
 - **Energy Act 5.0:** provides the physical grid — 30,000 km buried high-voltage transmission, 150,000 km buried distribution, 750 EMP-shielded substations, a strategic transformer reserve (5,000+ by 2075) — and the 20 antifragile SMR hubs (one per region) as anchor loads and islanding points.
-- **Infrastructure Act 2.7:** the asset/operator separation model is directly replicated; transmission access fees follow the freeway-toll logic (155% recovery over asset life); DCALS applies to utility infrastructure near elevated freeways.
+- **Infrastructure Act 3.0:** the asset/operator separation model is directly replicated; transmission access fees follow the freeway-toll logic (155% recovery over asset life); DCALS applies to utility infrastructure near elevated freeways.
 - **Monetary Act 9.9:** transmission access fees paid in BWC, flow (in part) to the SWF; co-op utilities pay the 5% co-op profit tax on generation profits; no binding quotas.
 - **Credit Union Act 5.8:** co-op utilities access reference-rate-anchored loans and micro-loans (community solar); embedded CLS officers.
 - **FCL Act 3.4:** utility co-ops structured as FCLs; CCIF (voluntary) funds expansion.
@@ -123,7 +123,7 @@ The residential credit is distributed equally to all citizens (50/50 cash/BWC, n
 
 4. **A standing R&D / upgrade slice.** A fixed portion of each Renewal Fund is **earmarked for R&D and upgrades** — not merely like-for-like replacement — funded the same way as maintenance so it never loses the annual budget fight. The NEB publishes a rolling **upgrade roadmap**; the fund guarantees the money to execute it. The grid gets *better* over fifty years (higher capacity, lower losses, better hardening), not just patched.
 
-> **The hockey-rink test.** A 1960s-style public arena, under this act, would be: collected-for by its users into a locked renewal fund; maintained by a co-op concession paid to keep it at a condition standard and penalized if it slips; audited by a prosecutor empowered to charge neglect; and upgraded by an R&D slice. It gets re-roofed on schedule, funded by its own users, with no politician able to raid the fund and no department able to quietly defer the work. The rot does not happen because every structural cause of it has been removed.
+
 
 ---
 
@@ -380,26 +380,26 @@ Per the Chamber Act §3, 20 Regional Boards issue retail licenses (co-op prefere
 
 ---
 
-## Appendix A: Comparison to Rail Model (Infrastructure Act 2.7)
+## Appendix A: Comparison to Rail Model (Infrastructure Act 3.0)
 
 | Feature | Rail | Electricity |
 | :--- | :--- | :--- |
 | Asset owner | State (70%) + Co-op (30%) | State (100%) |
-| Maintained by | Cooperative | Co-op performance concession (§1.4) |
-| Operator | Train companies | Utilities (co-ops/corps) |
-| Access fee | No tolls | \$/MWh transmission fee |
+| Maintained by | Co-op concession (Infrastructure Act 3.0) | Co-op performance concession (§1.4) |
+| Operator | Train co-ops/corporations | Utility co-ops/corporations |
+| Access fee | Track access charge (\$/tonne-km) | \$/MWh transmission fee |
 | Fee recovery target | Maintenance + surplus | **155% of annual hardening + maintenance, annually** |
 | Co-op preference | 30% track ownership | License priority, 20% fee discount |
 | CME hardening | N/A | Buried lines, EMP shields, transformer reserve |
 | Renewal guarantee | Cooperative maintains | Ring-fenced Asset Renewal Fund (§2.4) |
 
-## Appendix B: Comparison to Freeway Model (Infrastructure Act 2.7)
+## Appendix B: Comparison to Freeway Model (Infrastructure Act 3.0)
 
 | Feature | Freeways | Electricity |
 | :--- | :--- | :--- |
 | Asset owner | State | State |
 | Access fee | Toll | \$/MWh transmission fee |
-| Fee recovery target | **155% of annual maintenance** (Infrastructure §4.1 — the freeway does *not* recover construction from tolls; that reading gave a 326-year payback) | **155% of annual hardening + maintenance** |
+| Fee recovery target | **155% of annual maintenance** (Infrastructure Act 3.0 §4.1) | **155% of annual hardening + maintenance** |
 | Revenue use | Maintenance + SWF | Renewal Fund + SWF + residential credit |
 | Co-op discount | None | 20% on transmission fee |
 | CME hardening | N/A | Full hardening |
