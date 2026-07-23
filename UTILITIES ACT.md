@@ -244,13 +244,6 @@ Every citizen and business may choose their retail provider from any licensed ut
 
 All loans are bands around the reference rate (~3.5%, Monetary Act §1.5A) and reset when it is republished. Community/service-sector projects use the subsidized band.
 
-> **Two defects, and the second was fatal to the lender.**
->
-> **1. The rates were hardcoded** — 5%, 4%, 3.5%, 4% — beneath a line stating all loans were reference-rate-anchored. A fixed number is not a band around a published rate: if the reference rate moves, 3.5% does not. The same defect ran through the Credit Union Act §4.2, the FCL Act §3.6, and the special-share step-down.
->
-> **2. The rates inverted with risk, and the inversion is not subtle.** A **\$2B SMR over 30 years** was priced at **3.5%** while a **\$50k solar panel over 10 years** paid **5%**. Term premium and credit risk both run the other way: the largest, longest, most concentrated exposure in the entire co-op economy was the cheapest money in the act. Nothing on earth prices like this. The bands above are monotonic — 4% → 5.5% → 6.5% → 7% — rising with size and term, which is the only direction they can rise.
->
-> **3. And it bankrupted the CCIF on every loan it made.** FCL Act §3.8.4 has the CCIF **paying its depositors 5–7%**. This act had it **lending at 3.5–4%** — a margin of **−1% to −3.5% on every advance.** That is the identical shape as the Credit Union Act's savings bug (5–6% paid against a 5.5% loan yield): an institution paying more for money than it earns on it, and making the difference up from nowhere. At **reference + 3% to + 3.5%** the CCIF lends at 6.5–7% against a 5–7% obligation and clears its cost of funds — which is what makes the 5–7% return in §3.8.4 something the pool can actually pay rather than something it promises.
 
 ### 6.3 Example: Rural Electric Co-op Startup
 
