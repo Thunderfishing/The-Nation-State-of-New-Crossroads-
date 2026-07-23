@@ -140,13 +140,37 @@ Violations: Regional Board sanction, Special Auditor investigation (Sovereign Fu
 
 ### 3.1 Base Shares
 
-- **Cost:** $1/BWC, max 1,000 ($1,000/BWC lifetime; ~$94B system-wide).
-- **Acquisition:** buy ~$100 BWC/year, earn 75% patronage to shares / 25% cash, reinvest 4–8% dividends.
+- **Cost:** $1/BWC par, max 1,000 shares ($1,000/BWC lifetime purchase cap; ~$94B system-wide at par).
+- **Acquisition:** buy at $1 par at any time; earn 75% patronage to shares / 25% cash; reinvest dividends.
 - **Age-20 endowment:** every citizen receives 1 free base share at age 20 as part of the universal citizen endowment (Chamber Act §2.1). Grants full membership and voting rights unconditionally.
 - **Minor incentives (12–19):** 1 share for voting in board elections, 1 for town-hall attendance.
 - **Residency:** base shares are held only in a credit union within the member's field of membership (§1.5); they carry the vote and are the seat of membership. Grandfathered on relocation (§1.5).
-- **Mechanics:** lifetime, non-sellable, estate-transferrable; grants membership, banking, and voting rights.
-- **Credit-line treatment:** base shares count toward the revolving credit line at **par** (Monetary §1.6A). They are non-sellable, so par is the only honest number for them.
+- **Non-sellable, non-redeemable during life.** Base shares may not be sold, traded, or redeemed while the holder is alive. They are permanent CU equity — the most patient capital in the system.
+
+**Pricing — par for purchase, book value for everything else.**
+
+Base shares are *purchased* at $1 par (keeping the entry barrier low), but their **book value** — CU net assets ÷ total base shares outstanding, audited annually and published — is the operative figure for the credit line and for estate transfer. A citizen with 200 base shares in a CU with $100M net assets and 250,000 outstanding shares holds 200 × ($100M ÷ 250,000) = 200 × $400 = $80,000 in book value. That is what sizes their credit line and what transfers at death.
+
+**Dividend:** base shares earn **reference − 2%** (~1.5% at founding rates), paid annually. Below savings (reference − 1%), well below special shares (reference + 2%), but not zero — honest compensation for permanently illiquid capital. Even 1.5% on growing book value compounds meaningfully over a 45-year working life.
+
+**Credit-line treatment:** base shares count toward the revolving credit line at **book value** (Monetary §1.6A), not par. A citizen who patiently accumulates 500 shares over 25 years in a growing CU may hold substantial book value — increasing their borrowing capacity without speculation or trading. The incentive aligns: patient capital accumulation (what the system wants) directly increases borrowing capacity (what the citizen wants).
+
+**Estate rules — inheritance into forced savings.**
+
+Base shares do not redeem at death — they **transfer to the named beneficiary's forced-savings account** (Housing Act §3.1), locked until the beneficiary turns 65. The shares remain outstanding in the CU; the capital stays; the book value keeps growing. The heir owns the wealth but cannot spend it — exactly like every other forced-savings asset.
+
+| Situation | Treatment |
+|---|---|
+| **Heir named, heir under 65** | Shares transfer into the heir's forced-savings account at book value, locked until age 65. Shares remain outstanding in the CU — no redemption, no capital outflow. At 65, the heir may redeem at book value or continue holding (dividend + credit line). **Annual redemption cap: DLB-indexed median personal income** (~$28,000 at founding rates). A $100,000 inheritance redeems over ~3.5 years, giving the CU a smooth, predictable outflow it can see coming decades in advance |
+| **Heir named, heir aged 63–64** | Same — shares enter forced savings, unlock at 65, annual redemption capped at median income. The CU has 1–2 years notice plus the gradual outflow |
+| **Heir named, heir already 65+** | Shares **still enter forced savings first** — no instant cash event. Annual redemption at the median-income cap begins immediately. If the heir's forced savings are already empty (previously redeemed), the CU **pays out quarterly over one year** (4 equal payments at book value) — the gentle release valve for the edge case |
+| **No heir** | Shares split: **50% retired into the CU's permanent capital reserve** (equity per remaining share rises — the institution grows); **50% of book value paid to the Defense Fund** (the same estate-bequest channel that already feeds it, Sovereign Functions Act §5.6) |
+
+*Why the median-income cap.* A $200,000 inheritance unlocking at once is a liquidity shock to a small CU and a lifestyle shock to the heir. Capped at median income (~$28,000/year), the same inheritance pays out over ~7 years — a meaningful retirement supplement, not a windfall. The CU plans for the outflow the way it plans for any other maturing liability: slowly, visibly, over years.
+
+*Why forced savings, even over 65.* The point is not to punish the elderly heir — it is to prevent the inheritance from bypassing the forced-savings architecture entirely. A 70-year-old receiving $100,000 in instant cash might spend it in a year; the same $100,000 flowing at $28,000/year for 3.5 years supplements their retirement income the way the system intends. The quarterly payout for heirs with empty forced savings is the concession to practicality — it recognizes that some heirs are past the point where a lock-up serves them, while still preventing a lump-sum cash event.
+
+*The compounding effect for informal-economy families.* A mechanic who accumulated 500 base shares over a lifetime — purchased at $1 each, now worth $40 book value each = $20,000 — dies and transfers that to a 30-year-old heir's forced savings. At ~4% blended return over 35 years, $20,000 grows to ~$79,000. Combined with the heir's own forced savings, their own base shares, the Metals ETF, special-share dividends, and the Durahome — the heir retires with genuine wealth that the mechanic built one $1 share at a time. Intergenerational wealth transfer without inheritance tax, without a trust, without a lawyer, and without the heir being able to blow it.
 
 ### 3.2 Special Shares — Uninsured Member & Investor Capital
 
