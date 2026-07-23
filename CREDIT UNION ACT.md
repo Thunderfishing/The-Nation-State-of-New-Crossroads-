@@ -2,6 +2,7 @@
 
 ---
 
+**Cross-reference.** Companion to the **Monetary Act 9.9** (the DLB, the issuance anchor §1.5, the Reference Rate Anchor §1.5A, the citizen revolving credit line §1.6A, the Crisis-Management section §1.8, the rolling jubilee §2.2, the Informal Economy Guarantee §1A, the PPK/CED §5), the **Sovereign Functions Act** (the SWF §5, the Judicial Link Box §4.2, the Special Auditors §3, Treasury §6A.1), the **Chamber Act** (the Territorial Chamber / Regional Boards §3, the Productive Chamber §4.1, the Productive Chamber §4.2, the universal citizen vote §2, the oversight committees §6.7, the ad-hoc arbitration process §6.6, the independent board registry §7, the entrenched floors §11, the protected guarantees §12), and the **Exchange Act 1.5** (the Credit-Union Capital Board §3.2, the Co-op Board §3.1). Loan and deposit rates are plain nominal rates set within system bands around the reference rate defined in Monetary Act §1.5A — reset when the reference rate is republished.
 
 **Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values.
 
@@ -102,7 +103,7 @@ Violations: Regional Board sanction, Special Auditor investigation (Sovereign Fu
 
 **Residency-locked control (base shares and voting).** To hold **base shares** and to **vote**, a member must reside within that credit union's field of membership. Base shares carry membership and the vote; locking them keeps each credit union governed by the community it serves. **Special shares are non-voting capital and are *not* residency-locked to hold** — they are local-priority on issue (the 30-day window, §3.2) and freely held and traded nationally thereafter (§3.3). Widening who holds non-voting capital never touches who controls the credit union.
 
-**Portable deposits, ETF, and special-share holding.** Deposits, withdrawals, cash transactions, checking, savings, GICs, retirement, loans, the national Citizens' Metals ETF, and **special-share holding** are all portable/national. A traveler or visitor may deposit, withdraw cash, and transact at any credit union. Only **base shares and the vote** are residency-bound.
+**Portable deposits, ETF, and special-share holding.** Deposits, withdrawals, cash transactions, checking, savings, multi-term GICs, retirement, mutual funds, loans, the national Citizens' Metals ETF, and **special-share holding** are all portable/national. A traveler or visitor may deposit, withdraw cash, and transact at any credit union. Only **base shares and the vote** are residency-bound.
 
 **Overlap eligibility.** Where two or more catchments cover a residence, the resident is eligible to join (take base shares and vote) in any of them. The mild local rate-shopping this permits is the intended competition, not a defect; the flat-and-slow reference band keeps the spread to chase small.
 
@@ -251,7 +252,7 @@ All banking-suite and loan rates below are set within system bands around the re
 |---|---|---|---|---|
 | Checking | $94B | — | 1% fee | Fee product, pays no interest. Waived for earners under $10,000/year BWC |
 | Savings | (the bulk of the ~$1.86T base) | **reference − 1%** | ~2.5% | Counts toward the credit line at nominal (§4.4) |
-| GICs | $5B | reference − 0.5% to reference | 3–3.5% | Term premium over savings |
+| **Multi-term GICs** | $5B | reference − 0.5% (1-yr) to reference + 0.25% (10-yr) | 3–3.75% | DIP-insured; term ladder creates a private-sector yield curve. 1-year, 3-year, 5-year, and 10-year maturities |
 | Bonds / FCL Equity | $5B | reference to reference + 0.5% | 3.5–4% | |
 | Savings Bonds | $47B | reference − 0.5% to reference | 3–3.5% | |
 
@@ -638,7 +639,7 @@ The remaining GDP change is arithmetic: **$6T (2025) → $19T (2075)**, not $38.
 
 | Expense | Derivation | ~Annual |
 |---|---|---|
-| Deposit interest | ~$1.77T interest-bearing × ~2.7% blended (savings at reference − 1%; GICs/bonds at reference ± 0.5%) | ~$48B |
+| Deposit interest | ~$1.77T interest-bearing × ~2.7% blended (savings at reference − 1%; GICs at reference − 0.5% to reference + 0.25%) | ~$48B |
 | Revolving line funding | ~$62B @ ~2.5% | ~$1.6B |
 | Loan loss provision — book (§4.3) | ~$1.86T @ ~1% | ~$18.6B |
 | Loan loss provision — revolving (§4.3) | ~$62B @ ~6% | ~$3.7B |
