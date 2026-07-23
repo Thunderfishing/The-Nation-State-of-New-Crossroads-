@@ -36,7 +36,7 @@ This model prevents natural-monopoly capture, centralizes CME hardening, generat
 | Sector | Asset Owner | Operator | Access Fee |
 | :--- | :--- | :--- | :--- |
 | Rail | State (70%) + Co-op (30%) | Train companies | No tolls (cooperative maintains) |
-| Freeways | State | Any vehicle | Toll (\$0.10/km, 155% of annual maintenance) |
+| Freeways | State | Any vehicle | Toll (\$0.04/km, 155% of annual maintenance) |
 | Electricity Transmission | State (100%) | Utilities pay access fees; **maintained by co-op concession (§1.4)** | \$/MWh transmitted |
 | Electricity Distribution | State (100%) | Utilities pay access fees; **maintained by co-op concession (§1.4)** | \$/MWh delivered |
 | Electricity Generation | Co-op or Corporate | Utility (generator) | No fee (competitive) |
