@@ -1,6 +1,6 @@
 # Crossroads Exchange Act of 2025: Draft 1.7
 
-**Draft: 1.7 | Date: July 12, 2026**
+**Draft: 1.5 | Date: July 12, 2026**
 **Author: Thunderfish2**
 
 ---
@@ -39,11 +39,12 @@ Tranching, derivatives, shorting, and leverage are prohibited outright. The **Gl
 | **Credit-Union Capital Board** | Credit-union special shares | Individual credit unions | Each issuing credit union |
 | **Corporate-Equity Board** | Domestic corporate equity | Individual corporations | Each issuing corporation |
 | **Metals ETF Board** | Citizens' Metals ETF shares | Citizens' Metals ETF | Treasury |
+| **Investment Fund Board** | Credit-union mutual fund ETFs and sector index funds | Pooled GICs, sector equity baskets, blended-return funds | Issuing credit unions or licensed fund managers (Exchange Authority oversight) |
 | **FX Board** | Foreign-currency spot contracts (BWC ↔ major currencies) | No underlying pool — a clearing facility | Exchange Authority under Treasury Capital Markets Bureau oversight |
 
 **What flows through but does not trade as a board:** foreign capital, via the CGCI channel (3.4), during the Industry Act §2.5 conversion ramp.
 
-**What is deliberately *not* on the Exchange (3.5):** the sovereign metals reserve (a strategic state asset, never a security), and any debt instrument (Crossroads issues no bonds and runs no repo — Monetary §1.5A).
+**What is deliberately *not* on the Exchange (3.5):** the sovereign metals reserve (a strategic state asset, never a security), and **sovereign debt instruments** (Crossroads issues no government bonds and runs no repo — Monetary §1.5A). Private-sector debt (corporate or co-op bonds) is not listed by current design choice — all private-sector debt flows through the credit-union network (Credit Union Act §4) and the CCIF (FCL Act §3.8) — but is not constitutionally prohibited.
 
 **What never exists on the Exchange (Section 2.5):** tranched or securitized repackagings, derivatives, short positions, and leveraged/margin positions — in either segment.
 
@@ -72,8 +73,8 @@ Prices anchor to **PPK/CED-audited value** — book value for co-op and corporat
 
 Each board carries dampening rules calibrated to its instrument; the spine is common:
 
-- **Trading bands.** Special shares: 90%–110% of par (CU §3.3). Co-op investor shares: ±10% daily movement around audited book (FCL §2.5.5). Metals ETF: ±5% daily movement around NAV. Corporate equity: a daily limit band set by the Exchange Authority.
-- **Minimum holding periods.** Co-op investor shares: 12-month minimum hold (FCL §2.5.5). Special shares: 3-year sale lock-up from issue (CU §3.2). Metals ETF: 30-day minimum hold. Corporate equity: subject to the §4.1 0.5% short-term trade tax on sales under 365 days, collected at point of sale.
+- **Trading bands.** Special shares: 90%–110% of par (CU §3.3). Co-op investor shares: ±10% daily movement around audited book (FCL §2.5.5). Metals ETF: ±5% daily movement around NAV. Investment Fund ETFs: ±5% daily movement around NAV. Corporate equity: a daily limit band set by the Exchange Authority.
+- **Minimum holding periods.** Co-op investor shares: 12-month minimum hold (FCL §2.5.5). Special shares: 3-year sale lock-up from issue (CU §3.2). Metals ETF: 30-day minimum hold. Investment Fund ETFs: 30-day minimum hold. Corporate equity: subject to the §4.1 0.5% short-term trade tax on sales under 365 days, collected at point of sale.
 - **No intraday churn engine.** There is no high-frequency or algorithmic market-making tier; settlement and registry update on a defined cycle (2.6), not in microseconds.
 
 These are not frictions to be optimized away — they are the point. The Exchange rewards the patient holder and frustrates the fast trader by design.
@@ -85,6 +86,33 @@ A public bid sits beneath certain **domestic** boards so a holder is never wholl
 - Co-op investor shares (Co-op Capital Index): the **CCIF** buys unlisted shares at **90% of audited book** if no buyer is found within 90 days (FCL §2.5.5).
 - Special shares: the **90% floor** of the trading band, plus the co-op-index / member-buyback last-resort paths (CU §3.3).
 - Metals ETF: **no public backstop**. The fund never redeems; the price is discovery, not guaranteed. The band limits the daily fall, and the 30-day minimum hold prevents reflexive panic selling.
+- Investment Fund ETFs: **no public backstop**. Fund NAV is the anchor; daily movement within ±5% of NAV. DIP insurance applies to the underlying GIC components (where applicable) but not to the ETF share price itself.
+
+### 3.7 Investment Fund Board
+
+*Rationale:* the banking suite offers GICs, savings, and the Metals ETF — but no pooled investment vehicle that gives a citizen diversified exposure across the credit-union network or the co-op economy through a single, liquid, Exchange-traded instrument. The Investment Fund Board fills this gap without introducing speculation, leverage, or debt instruments.
+
+**What may list:**
+
+| Fund type | Underlying | Anchor | Who may issue |
+|---|---|---|---|
+| **GIC Ladder Fund** | Pooled multi-term GICs from multiple credit unions | Blended NAV of underlying GICs | Any credit union or consortium of credit unions |
+| **Co-op Sector Index Fund** | Basket of co-op investor shares (Co-op Board) weighted by sector GDP share | Co-op Capital Index (rebalanced quarterly) | Licensed fund managers (Exchange Authority approval) |
+| **Blended-Return Fund** | Mix of GICs, special-share dividends, and co-op investor returns | Blended NAV | Licensed fund managers |
+| **Sector-Specific Fund** | Investor shares from a single sector (e.g., healthcare co-ops, energy co-ops) | Sector sub-index | Licensed fund managers or sector FCL consortia |
+
+**What may NOT list:** any fund containing derivatives, short positions, leveraged positions, tranched or securitized instruments, foreign-listed securities, or sovereign debt of any nation (§2.5 prohibitions apply to all boards equally).
+
+**Listing conditions:**
+
+- **Minimum holding period:** 30 days (same as Metals ETF).
+- **Daily price band:** ±5% of NAV.
+- **NAV audit:** quarterly by the Exchange Authority, published.
+- **DIP pass-through:** where a fund holds DIP-insured GICs, the insurance attaches to the underlying deposits, not the fund share. A fund failure returns the GIC value to holders through the DIP, not the share price.
+- **Short-term trade tax:** 0.5% on sales under 365 days (§4.1), same as corporate equity. Patient capital, not day-trading.
+- **No fund may hold more than 20% of its assets in any single credit union's instruments** — diversification is structural, not optional.
+
+*The flight-to-safety application:* a GIC Ladder Fund pooling 1-year through 10-year GICs from 50+ credit unions creates a **liquid, diversified, DIP-insured fixed-income instrument** — the closest thing to a bond fund in a system that issues no bonds. In a crisis, capital flows from co-op equity and corporate equity into the GIC Ladder Fund, which absorbs the demand without any single credit union bearing the full inflow. The fund's NAV is anchored to the reference rate; its liquidity comes from the Exchange; its safety comes from the DIP. This is the missing middle between "savings account" and "physical cash in a mattress." 
 - The backstop is a haircut exit, not a guarantee of par — it removes the trap without removing the risk.
 
 **The domestic public backstops (CCIF, the 90% floor, and behind them the RLP/SWF/DIP) never extend to the Global Sound-Capital Segment (7.2) nor to the Metals ETF Board.** Global-segment liquidity arrangements, if any, are segment-internal and disclosed; domestic public money never stands behind a foreign listing. The Metals ETF is self-backed by its metal holdings.
