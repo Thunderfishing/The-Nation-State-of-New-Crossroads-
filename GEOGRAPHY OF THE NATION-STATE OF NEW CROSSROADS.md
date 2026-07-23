@@ -5,8 +5,6 @@
 
 ---
 
-> **Cross-reference.** The geographic capstone to the legislative suite: **Monetary Act 9.9**, **Credit Union Act 5.8**, **Sovereign Functions Act v2.3**, **Chamber Act**, **Energy Act 5.0**, **Healthcare Act 6.7**, **Education Act 2.5**, **FCL Act 3.4**, **Infrastructure Act 3.0**, **Communications Act 4.4**, **Industry Act 4.5**, **Housing Act 2.5**, **Parks Act 3.5**, **Utilities Act 1.4**, **Military Act 1.9**, **Municipal & Regional Funding Act 1.3**, and the **Exchange Act 1.6**. Figures are reconciled to the **Consolidated Fiscal Model v3.2**.
-
 > **Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values.
 
 
