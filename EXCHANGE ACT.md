@@ -1,6 +1,6 @@
 # Crossroads Exchange Act of 2025: Draft 1.7
 
-**Draft: 1.5 | Date: July 12, 2026**
+**Draft: 1.7 | Date: July 12, 2026**
 **Author: Thunderfish2**
 
 ---
