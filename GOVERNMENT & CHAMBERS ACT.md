@@ -1,6 +1,6 @@
 # Crossroads Chamber and Citizen Representation Act
 
----
+**Cross-reference.** Companion to the Sovereign Functions Act (defense, the Special Auditors, the judiciary — regional courts, appellate circuits, and Supreme Court — the SWF, the four executive bureaus — Treasury, Foreign Affairs Bureau, National Lands & Commons Bureau, Transport Bureau), the Credit Union Act 5.8, the FCL Act 3.4, the Monetary Act 9.9 (the age-20 endowment, the two-taps rule, the citizen revolving credit line, the PPK/CED), the Municipal & Regional Funding Act 1.3, the Exchange Act 1.6 (the Crossroads Exchange; Treasury's Capital Markets Bureau provides continuous market supervision), the Healthcare Act and Education Act (whose boards set the essential schedules the §12 guarantees bind), and the Military & Intelligence Act 1.9 (the militia and the arms context of Floor 7). The independent boards on the §7 registry are defined operationally in the Energy, Healthcare, Education, Communications, Infrastructure, Industry, and Housing Acts, and — for the CLS Board — in the Credit Union Act §5.5. The Election Integrity Commission (§9.5) supplements the paper-ballot rotation with continuous infrastructure monitoring. The committee-referral mechanism (§6.7) creates the formal accountability link between oversight committees and the Special Auditors.
 
 **This act is deliberately separate from the Sovereign Functions Act.** They are ratified together but are not one document. This act is the source — the chambers and the citizens — beneath which the sovereign is the residue. §11 of this act holds the entrenched floors and §12 holds the protected guarantees; both bind the sovereign and the chambers alike.
 
@@ -8,7 +8,7 @@
 
 ## Abstract
 
-New Crossroads establishes its legislature as a federation of self-governing economic constituencies — the credit-union territorial chamber, the co-op and corporate productive chamber — sitting beneath a supreme universal citizen vote that represents every citizen, including those in the informal economy. The chambers draft and pass law through two-axis satisfaction; the citizens hold initiative, override, and confirmation powers, and are supreme on any matter of individual right. Capital may flow through every chamber but may never become a vote in any of them. Oversight committees chartered by the Territorial Chamber scrutinize the sovereign, the independent boards, the mutual funds, and the Exchange in public session, with a formal referral mechanism linking committee findings to the Special Auditors. Beneath all the counting sit two schedules the counting cannot reach — the entrenched floors of §11 and the protected guarantees of §12.
+New Crossroads establishes its legislature as a federation of self-governing economic constituencies — the credit-union territorial chamber, the co-op and corporate productive chambers — sitting beneath a supreme universal citizen vote that represents every citizen, including those in the informal economy. The chambers draft and pass law through two-axis satisfaction; the citizens hold initiative, override, and confirmation powers, and are supreme on any matter of individual right. Capital may flow through every chamber but may never become a vote in any of them. Oversight committees chartered by the Territorial Chamber scrutinize the sovereign, the independent boards, the mutual funds, and the Exchange in public session, with a formal referral mechanism linking committee findings to the Special Auditors. Beneath all the counting sit two schedules the counting cannot reach — the entrenched floors of §11 and the protected guarantees of §12.
 
 ---
 
@@ -67,8 +67,28 @@ Every chamber seats a bloc of wildcard members elected directly by the universal
 
 - 20 Regional Boards, 11 members each (220 total), one per region.
 - **Split:** 7 credit-union-federated seats + 4 wildcard seats per board (36% wildcard — the Rule of Thirds rounded up). Nationally: 140 federated + 80 wildcard. Eleven is odd, so no tie machinery is needed.
-- The seven federated seats are elected by the region's credit-union membership — one member, one vote, through the federated credit unions.
-- The four wildcard seats are elected directly by the universal vote (§2.3).
+
+**Federated seats (7) — tiered with cross-tier seconding.**
+
+The region's credit unions are classified into two pools by the Regional Board, based on asset size (threshold published annually by the CLS Board, Credit Union Act §5.5):
+
+- **Tier-1 (Large / Urban):** 4 seats.
+- **Tier-2 (Community / Rural):** 3 seats.
+
+*Nomination:* each credit union board may nominate one of its own sitting board members into its tier's candidate pool. To qualify, the nomination must be **seconded by at least one credit union board from the other tier** — a Tier-1 candidate needs a Tier-2 seconder and vice versa. A candidate without a cross-tier second does not enter the pool. *(Credit union count varies by region — Credit Union Act §1.5; the mechanism works at any scale because cross-tier seconding filters for candidates with a reputation beyond their own institution.)*
+
+*Election:* all credit union boards in the region cast an **approval vote** across all qualified candidates in each tier — voting "yes" for every candidate they consider fit, no limit. The top 4 approval-getters in the Tier-1 pool and the top 3 in the Tier-2 pool take the seats. Terms staggered so the full bloc never turns over at once.
+
+*Deadlock fallback:* if fewer qualified candidates emerge than seats available in either tier (because cross-tier seconds were not obtained), the seconding requirement drops to any credit union board in the region for that cycle only. The Election Integrity Commission (§9.5) supervises.
+
+**Wildcard seats (4) — citizen petition and universal vote.**
+
+Any citizen resident in the region may stand for a wildcard seat. To qualify for the ballot, a candidate must gather **zero-knowledge digital signatures (PPK §6.3) equal to 0.1% of the region's registered voters**, with signatures spread across **at least 3 different municipalities or administrative districts** (Municipal & Regional Funding Act §2.6). No municipal council endorsement required — the petition is the filter.
+
+*Election:* all citizens resident in the region vote by **approval voting** (§2.1 universal birthright vote). The top four vote-getters take the seats, subject to a **geographic cap: no municipality may hold more than 2 wildcard seats.** If a third candidate from the same municipality would otherwise qualify, they are skipped in favor of the next-highest candidate from a different municipality.
+
+*The two channels balance without further machinery.* Credit unions are geographically dispersed by statute — every residence sits within at least three fields of membership (Credit Union Act §1.5) — so a slate elected by all CU boards draws from across the whole region. The wildcard seats are population-weighted by design, with the geographic cap ensuring no single city sweeps the citizen channel. Neither channel needs districting beyond the municipal boundaries that already exist.
+
 - **Unit vote.** In any national count requiring a supermajority of Regional Boards (such as 15/20), each board casts a single vote determined by internal majority (6/11). A tied board (impossible at 11) abstains.
 
 ### 3.2 Dual Function
@@ -126,17 +146,33 @@ A single chamber representing all organized economic activity — co-operative a
 |---|---:|---:|---|
 | **Co-operatives** (~65% of GDP) | 65% | ~325 | Delegation shrinks if co-op share shrinks; grows if it grows |
 | **Corporations** (~15% of GDP) | 15% | ~75 | Same — earned by economic weight, not granted by statute |
-| **Wildcards** (Rule of Thirds — citizen-interest seats) | — | ~100 | Fixed — always 25% of the chamber, nominated by the Territorial Chamber |
+| **Wildcards** (Rule of Thirds — citizen-interest seats) | — | ~100 | Fixed — always 25% of the chamber, elected by universal citizen vote via petition (0.1% threshold across 3+ regions) |
 
 *(The informal economy (~20%) holds no productive seats. Informal citizens vote in the Territorial Chamber as citizens — governed as people, not enterprises. §4.3 protects them.)*
 
 **Reapportionment.** Every 5 years, Treasury publishes the measured GDP share of each enterprise form (co-op, corporate). The 300 enterprise seats (400 minus 100 wildcards) are redistributed proportionally. The seat count IS the economic barometer — visible, published, and readable by every citizen. If corporations grow from 15% to 20%, they gain seats. If co-ops drift from 65% to 55%, they lose seats. **The chamber reflects the economy it governs.**
 
-**Delegates:**
-- **Co-op delegates** are chosen by FCL boards. Tier gate: only Tier 2+ co-ops (above $1M profit) send delegates. Tier 1 micro-co-ops acquire a voice when they grow into Tier 2.
-- **Corporate delegates** are elected by corporate boards, which include mandatory worker seats (Monetary §4.1). The delegate speaks for the institution as governed — management and labour together.
-- **Wildcards** are nominated by the Territorial Chamber (Regional Boards) to represent the citizen interest in economic legislation. They sit in the Productive Chamber but answer to the Territorial.
+**Delegates — sector-proportional, cross-regionally seconded:**
+
+The 300 enterprise seats (400 minus 100 wildcards) are allocated by **sector** proportionally within each enterprise form — steel co-ops receive seats proportional to steel's share of co-op GDP, healthcare proportional to healthcare's share, and so on. The same reapportionment mechanism that governs the co-op/corporate split (above) applies one tier down, within each form.
+
+- **Co-op delegates** (~325 seats, allocated by sector):
+  - *Tier gate:* only Tier 2+ FCLs (above $1M profit) participate. Tier 1 micro-co-ops acquire a voice when they grow into Tier 2.
+  - *Nomination:* each qualifying FCL board may nominate one of its own board members into the sector's candidate pool. The nomination must be **seconded by at least one FCL board from a different region** — forcing candidates to have a reputation beyond their own city.
+  - *Election:* all qualifying FCL boards in the sector cast an **approval vote** across all seconded candidates. The top vote-getters fill the sector's allocated seats.
+
+- **Corporate delegates** (~75 seats, allocated by sector):
+  - *Same mechanism:* nominated by corporate boards (which include mandatory worker seats — Monetary §4.1, so the nomination already carries labor's voice), seconded by a corporate board from a different region, elected by sector-wide approval vote.
+  - The delegate speaks for the institution as governed — management and labour together.
+
+- **Wildcards** (~100 seats — the citizen interest in economic legislation):
+  - Any citizen may stand. To qualify for the ballot, a candidate must gather **zero-knowledge digital signatures (PPK §6.3) equal to 0.1% of the national electorate**, with signatures spread across **at least 3 different regions.** No Territorial Chamber nomination required — the petition is the filter.
+  - *Election:* universal citizen vote, approval voting. The top 100 vote-getters take the seats, subject to a **geographic cap: no single region may hold more than 10 wildcard seats** — ensuring all regions have a voice in the citizen channel.
+  - Wildcards answer to the electorate, not to the Territorial Chamber. They sit in the Productive Chamber to represent the citizen interest in economic legislation — the informal worker, the consumer, the retiree, the person no enterprise speaks for.
+
 - **Weight:** each delegate holds one vote. No scaling by size — the proportional allocation already reflects economic weight.
+
+*Cross-regional seconding does for the Productive Chamber what cross-tier seconding does for the Regional Board:* it filters for quality without machinery. A steel co-op chair in Region 12 who cannot get a single steel FCL board in another region to second them probably should not represent the national steel sector.
 
 ### 4.2 The Competitive Neutrality Referral
 
@@ -295,9 +331,9 @@ The active legal code is divided into three independent pools:
 
 | Pool | Contains | Ceiling |
 |---|---|---|
-| **Statutes** | Laws passed by the chambers or citizen initiative | 2,000 |
-| **Regulations** | Rules promulgated by the independent boards under delegated authority | 2,000 |
-| **Ordinances** | Regional and municipal enactments | 2,000 |
+| **Statutes** | Laws passed by the chambers or citizen initiative | 10,000 |
+| **Regulations** | Rules promulgated by the independent boards under delegated authority | 10,000 |
+| **Ordinances** | Regional and municipal enactments | 10,000 |
 
 **Independent triggers.** When a pool exceeds its ceiling, the 2-for-1 activates for that pool only. A 2% petition or the decennial cycle may also trigger it. **Pools are sealed:** a repeal in one pool may never satisfy a 2-for-1 obligation in another.
 
@@ -311,6 +347,20 @@ Laws on the books for **15 years** without challenge, amendment, repeal attempt,
 - **Recall from the codex** requires the **middle bar** (supermajority of the relevant chambers plus a simple-majority universal referendum). The codex is easy to enter and hard to raid.
 - **Strengthening** a codex law (tightening a standard, increasing a penalty) may be done through the ordinary bar without recall. Only weakening, narrowing, or repeal requires recall.
 - The codex is public, searchable, and maintained alongside the active pools.
+
+**Early consolidation — omnibus graduation after year 10.**
+
+A law that has survived **10 years** unchallenged, unamended, and undisputed is eligible for **omnibus consolidation** — bundling with other 10+ year survivors into a single codex entry that graduates immediately, freeing pool slots for new legislation.
+
+| Requirement | Detail |
+|---|---|
+| **Age threshold** | Every component must have individually passed the 10-year unchallenged mark |
+| **Subject-matter coherence** | Every component must originate from the **same sector act or regulatory domain** — energy laws consolidate with energy laws, trade regulations with trade regulations. The test: does every component share the same originating act or the same independent board? An omnibus combining energy provisions with export regulations is void |
+| **No new provisions** | The omnibus may contain only existing, proven law. No new clauses, no amendments, no riders. It is purely a consolidation of already-proven law into a single codex entry |
+| **Challenge drops a component** | If any single component receives a challenge during the consolidation process, that component drops out of the omnibus and restarts its 15-year clock individually. The remaining components may proceed |
+| **Passage** | The omnibus is enacted through the **ordinary bar** — it is not a new law but a consolidation of proven ones. The drafting body declares the consolidation; the judiciary resolves classification disputes (§6.4) |
+
+*Why this exists.* A pool ceiling of 10,000 is generous but finite. A decade of governance across 20+ sector acts, 8+ independent boards, and 20 regions produces law faster than the 15-year codex clock retires it. The omnibus lets proven, unchallenged, domain-coherent law graduate early — freeing room without lowering standards. The subject-matter requirement prevents the classic omnibus abuse of smuggling a controversial provision inside an uncontroversial package: if the laws don't share a domain, they don't share a bill.
 
 **Successor statutes.** When the chambers pass a new statute that strengthens a codex law through the ordinary bar, the new statute **automatically overwrites** the codex version — the old codex entry is superseded and removed from the codex, and the new statute enters the active statute pool. The new statute restarts the 15-year clock for codex graduation. A strengthening amendment does not require recall from the codex; the overwrite is the mechanism by which strengthening is applied. The successor statute must satisfy the same two-axis lawmaking path (§6.1) as any ordinary statute.
 
@@ -717,7 +767,7 @@ Referenced in Sovereign Functions Act §8 alongside the floors.
 | **Citizen dividend** | **~$155B/yr** (~$1,380/citizen) | Once the SWF caps (~2029) — the only channel reaching the informal economy | |
 | **Profit taxation** | **Federal only** | The Co-op Advantage Principle compares two rates; it holds only where one body sets both (Municipal & Regional Funding Act §2.2) | |
 
-**Every chamber is one-third wildcards. Wildcard terms: 5 years, 3-term cap. Territorial Chamber sits quarterly (§3.4). No citizen may hold more than one chamber seat (§2.3). The eight boards are founding instruments; §7.2's charter bar governs the ninth and after.**
+**Every chamber is one-third wildcards. Wildcard terms: 5 years, 3-term cap. Territorial Chamber sits quarterly (§3.4). No citizen may hold more than one chamber seat (§2.3). Federated seats elected by cross-tier-seconded approval vote of CU boards; enterprise seats elected by cross-regionally-seconded sector approval vote; all wildcards elected by universal citizen vote via petition threshold. The eight boards are founding instruments; §7.2's charter bar governs the ninth and after.**
 
 ---
 
