@@ -8,7 +8,7 @@
 
 ## Abstract
 
-New Crossroads establishes its legislature as a federation of self-governing economic constituencies — the credit-union territorial chamber, the co-op/corporate productive chamber — sitting beneath a supreme universal citizen vote that represents every citizen, including those in the informal economy. The chambers draft and pass law through two-axis satisfaction; the citizens hold initiative, override, and confirmation powers, and are supreme on any matter of individual right. Capital may flow through every chamber but may never become a vote in any of them. Oversight committees chartered by the Territorial Chamber scrutinize the sovereign, the independent boards, the mutual funds, and the Exchange in public session, with a formal referral mechanism linking committee findings to the Special Auditors. Beneath all the counting sit two schedules the counting cannot reach — the entrenched floors of §11 and the protected guarantees of §12.
+New Crossroads establishes its legislature as a federation of self-governing economic constituencies — the credit-union territorial chamber, the co-op and corporate productive chambers — sitting beneath a supreme universal citizen vote that represents every citizen, including those in the informal economy. The chambers draft and pass law through two-axis satisfaction; the citizens hold initiative, override, and confirmation powers, and are supreme on any matter of individual right. Capital may flow through every chamber but may never become a vote in any of them. Oversight committees chartered by the Territorial Chamber scrutinize the sovereign, the independent boards, the mutual funds, and the Exchange in public session, with a formal referral mechanism linking committee findings to the Special Auditors. Beneath all the counting sit two schedules the counting cannot reach — the entrenched floors of §11 and the protected guarantees of §12.
 
 ---
 
@@ -366,7 +366,7 @@ A law that has survived **10 years** unchallenged, unamended, and undisputed is 
 
 **The Centennial Review.** Every 100 years, beginning from the date of ratification, a **Codex Review Commission** is convened to examine the Settled Codex for obsolete, redundant, or anachronistic laws that remain on the books solely by virtue of having gone unchallenged.
 
-- **Composition:** 15 commissioners — 5 appointed by the Territorial Chamber, 5 by the Productive Chamber jointly, and 5 by the Supreme Court. 3-year term coinciding with the review period. No commissioner may hold any current chamber seat, board appointment, or Sovereign Council seat.
+- **Composition:** 15 commissioners — 5 appointed by the Territorial Chamber, 5 by the Productive Chamber jointly, and 5 by the Supreme Court (majority vote of 9 justices). 3-year term coinciding with the review period. No commissioner may hold any current chamber seat, board appointment, or Sovereign Council seat.
 - **Power:** The commission **identifies and refers** — it does not repeal. For each law the commission finds obsolete, it publishes a written recommendation with reasoning and refers the law to the relevant chambers for ratification of removal through the **middle bar** (supermajority of the relevant chambers plus a simple-majority universal referendum — the same bar as ordinary codex recall). The chambers may accept, reject, or modify the commission's recommendation. Laws the chambers decline to remove remain in the codex.
 - **Scope:** The commission reviews the codex only. Active-pool statutes, regulations, and ordinances are subject to the ordinary legislative process and the 2-for-1 rule.
 - **Dissolution:** The commission dissolves when its referrals are resolved or at the end of its 3-year term, whichever comes first. It holds no permanent staff, no ongoing budget, and no institutional continuity between centuries.
@@ -628,9 +628,9 @@ Nominated by the Sovereign Council, confirmed by the Territorial Chamber. Citize
 
 The chambers hold the appointment power for all three levels of the judiciary (Sovereign Functions Act §4.1):
 
-- **Regional courts** (200 judges, 10 per region, 10-year terms): Appointed by the Territorial Chamber (6/11 Regional Board vote), confirmed by both Productive Chamber jointly.
-- **Appellate circuits** (5 circuits of 4 regions each, 5 judges per circuit, 25 total, 10-year staggered terms): Appointed by the Territorial Chamber (11/20), confirmed by both Productive Chamber jointly.
-- **Supreme Court** (7 justices, 15-year staggered terms, mandatory retirement at 75): Nominated by the Territorial Chamber, confirmed by both Productive Chamber jointly.
+- **Regional courts** (400 judges, 20 per region, scaling to 500 by 2075; 10-year terms): Appointed by the Territorial Chamber (6/11 Regional Board vote), confirmed by both Productive Chambers jointly.
+- **Appellate circuits** (10 circuits of 2 regions each, 5 judges per circuit, 50 total; 10-year staggered terms): Appointed by the Territorial Chamber (11/20), confirmed by both Productive Chambers jointly.
+- **Supreme Court** (9 justices, 15-year staggered terms, mandatory retirement at 75; decisions by 6/9): Nominated by the Territorial Chamber, confirmed by both Productive Chambers jointly.
 
 Terms, staggering schedules, vacancy rules, and the deadlock rule for rejected nominees are defined in Sovereign Functions Act §4.1. The chambers' appointment power is the democratic check on judicial independence — the judiciary serves long terms once confirmed but is selected by the representative bodies.
 
@@ -752,7 +752,7 @@ Referenced in Sovereign Functions Act §8 alongside the floors.
 | Regulatory | **8 independent boards (§7)** — 7 sector regulators + the CLS Board | Physical/standards commons; loan-officer licensing | Sector boards: Territorial nominates, both productive confirm (default). **CLS Board: elected by its own licensed corps, funded by its own dues, confirmed by nobody (§7.4)** |
 | Advisory | RHAs / RMAs / REAs / Sector Councils (§8) | Expertise | Expertise-weighted; advise and nominate only (CLS Board excepted, §8.1) |
 | Regional justice | Regional prosecutors (§3.5) | Ordinary criminal law | Regional Board appoints, productive confirms |
-| Judiciary | Regional courts (200) + Appellate circuits (25) + Supreme Court (7) | Justice at three levels | Territorial nominates/appoints; both productive confirm; terms and staggering per Sovereign Functions Act §4.1 |
+| Judiciary | Regional courts (400, scaling to 500) + Appellate circuits (50) + Supreme Court (9) | Justice at three levels | Territorial nominates/appoints; both productive confirm; terms and staggering per Sovereign Functions Act §4.1 |
 | Executive | Sovereign Council (7; 6 in two staggered classes + 1 wildcard) | The thin sovereign | Territorial nominates, both productive confirm; wildcard direct; staggered terms per Sovereign Functions Act §6.2 |
 | Election integrity | Election Integrity Commission (11; §9.5) | Continuous election-infrastructure monitoring | Supreme Court nominates; Territorial confirms; scope-creep bar per §7.2 |
 | Arbitration | Ad-hoc tribunals (§6.6) | Deadlock resolution only | Each side picks one; two pick chair; dissolves after; decisions logged (persuasive, not binding) |
