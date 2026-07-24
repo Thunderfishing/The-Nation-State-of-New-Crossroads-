@@ -303,7 +303,7 @@ The Crossroads Loan Service manages reference-rate-anchored industry loans (~$10
 
 | Phase | Years | Key Milestones | Funding |
 | :--- | :--- | :--- | :--- |
-| 1: Foundation | 2025–2035 | 25,000 ha hemp (marginal land), 30,000 ha non-arable greenhouses on corridors, 5 shipyards, ~**$306.4B** resource revenue | ~$155B credit-union loans, ~$205B cumulative SWF lending |
+| 1: Foundation | 2025–2035 | 25,000 ha hemp (marginal land), 30,000 ha non-arable greenhouses on corridors, 5 shipyards, ~**$306.4B** resource revenue | ~$157B credit-union loans, ~$205B cumulative SWF lending |
 | 2: Expansion | 2035–2050 | 27,500 ha hemp, 37,500 ha greenhouses, 1,000 vessels, mining-machinery scale-up | ~$205B credit-union loans, ~$750B cumulative SWF lending |
 | 3: Optimization | 2050–2075 | 30,000 ha hemp, 45,000 ha greenhouses, 2,000 vessels, ~**$570B** resource revenue | ~$405B credit-union loans, ~$1.5–2.0T cumulative SWF lending |
 
