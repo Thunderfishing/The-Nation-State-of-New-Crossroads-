@@ -155,22 +155,24 @@ Base shares are *purchased* at $1 par (keeping the entry barrier low), but their
 
 **Credit-line treatment:** base shares count toward the revolving credit line at **book value** (Monetary §1.6A), not par. A citizen who patiently accumulates 500 shares over 25 years in a growing CU may hold substantial book value — increasing their borrowing capacity without speculation or trading. The incentive aligns: patient capital accumulation (what the system wants) directly increases borrowing capacity (what the citizen wants).
 
-**Estate rules — inheritance into forced savings.**
+**Estate rules — conversion to special shares.**
 
-Base shares do not redeem at death — they **transfer to the named beneficiary's forced-savings account** (Housing Act §3.1), locked until the beneficiary turns 65. The shares remain outstanding in the CU; the capital stays; the book value keeps growing. The heir owns the wealth but cannot spend it — exactly like every other forced-savings asset.
+On death, base shares **convert to special shares at book value.** One equity class swaps for another. The CU's capital is unchanged — no outflow, no redemption, no cash event, no balance-sheet impact. The heir inherits a liquid, income-producing asset. One rule, all cases.
 
 | Situation | Treatment |
 |---|---|
-| **Heir named, heir under 65** | Shares transfer into the heir's forced-savings account at book value, locked until age 65. Shares remain outstanding in the CU — no redemption, no capital outflow. At 65, the heir may redeem at book value or continue holding (dividend + credit line). **Annual redemption cap: DLB-indexed median personal income** (~$28,000 at founding rates). A $100,000 inheritance redeems over ~3.5 years, giving the CU a smooth, predictable outflow it can see coming decades in advance |
-| **Heir named, heir aged 63–64** | Same — shares enter forced savings, unlock at 65, annual redemption capped at median income. The CU has 1–2 years notice plus the gradual outflow |
-| **Heir named, heir already 65+** | Shares **still enter forced savings first** — no instant cash event. Annual redemption at the median-income cap begins immediately. If the heir's forced savings are already empty (previously redeemed), the CU **pays out quarterly over one year** (4 equal payments at book value) — the gentle release valve for the edge case |
-| **No heir** | Shares split: **50% retired into the CU's permanent capital reserve** (equity per remaining share rises — the institution grows); **50% of book value paid to the Defense Fund** (the same estate-bequest channel that already feeds it, Sovereign Functions Act §5.6) |
+| **Heir named** | All base shares convert to **special shares at book value** (par set to book value at date of death). The heir receives the special shares, subject to the standard **3-year sale lock-up** from issuance (§3.2). During the lock-up the heir earns the special-share dividend (reference + 2%, ~5.5%). After 3 years, the heir may sell on the CU Capital Board within the 90–110% trading band, or continue holding for the dividend |
+| **No heir** | Base shares **retire into the CU's permanent capital reserve.** The shares are cancelled — equity per remaining share rises. The institution grows from attrition. No payment to any external party |
 
-*Why the median-income cap.* A $200,000 inheritance unlocking at once is a liquidity shock to a small CU and a lifestyle shock to the heir. Capped at median income (~$28,000/year), the same inheritance pays out over ~7 years — a meaningful retirement supplement, not a windfall. The CU plans for the outflow the way it plans for any other maturing liability: slowly, visibly, over years.
+**Why this works — from every angle:**
 
-*Why forced savings, even over 65.* The point is not to punish the elderly heir — it is to prevent the inheritance from bypassing the forced-savings architecture entirely. A 70-year-old receiving $100,000 in instant cash might spend it in a year; the same $100,000 flowing at $28,000/year for 3.5 years supplements their retirement income the way the system intends. The quarterly payout for heirs with empty forced savings is the concession to practicality — it recognizes that some heirs are past the point where a lock-up serves them, while still preventing a lump-sum cash event.
+*The CU's balance sheet.* Base-share equity is cancelled; special-share equity is issued for the same amount. Net capital change: zero. The CU was lending against the base shares; it is now lending against the special shares. Its capacity is unchanged. No cross-CU outflow problem — special shares trade on the Exchange, not between institutions.
 
-*The compounding effect for informal-economy families.* A mechanic who accumulated 500 base shares over a lifetime — purchased at $1 each, now worth $40 book value each = $20,000 — dies and transfers that to a 30-year-old heir's forced savings. At ~4% blended return over 35 years, $20,000 grows to ~$79,000. Combined with the heir's own forced savings, their own base shares, the Metals ETF, special-share dividends, and the Durahome — the heir retires with genuine wealth that the mechanic built one $1 share at a time. Intergenerational wealth transfer without inheritance tax, without a trust, without a lawyer, and without the heir being able to blow it.
+*The heir.* A mechanic who accumulated 500 base shares over a lifetime — purchased at $1 each, now worth $40 book value each = $20,000 — dies. The heir receives $20,000 in special shares earning ~5.5% = **$1,100/year in dividends from day one.** After the 3-year lock-up, the heir can sell at 90–110% of par ($18,000–$22,000) on the Exchange whenever they choose — or hold indefinitely for the income stream. No forced-savings lock, no age gate, no median-income cap, no quarterly payout schedule. The heir decides.
+
+*The 3-year lock-up is the natural brake.* It prevents a grief-driven fire sale, gives the heir time to make a rational hold-or-sell decision, and ensures the special-share market absorbs the new issuance gradually rather than in a single day. Three years of dividends ($3,300 on a $20,000 inheritance) also demonstrates the income value of holding — many heirs will choose not to sell.
+
+*Intergenerational wealth transfer.* No inheritance tax. No trust. No lawyer. No lock-up until 65. The mechanic's patient $1-per-share accumulation becomes his daughter's $1,100/year income stream or her $20,000 lump sum after three years — her choice, not the system's. The simplest possible mechanism for the most important transfer the system enables.
 
 ### 3.2 Special Shares — Uninsured Member & Investor Capital
 
@@ -274,7 +276,31 @@ All banking-suite and loan rates below are set within system bands around the re
 |---|---|---|---|---|
 | Checking | $94B | — | 1% fee | Fee product, pays no interest. Waived for earners under $10,000/year BWC |
 | Savings | (the bulk of the ~$1.86T base) | **reference − 1%** | ~2.5% | Counts toward the credit line at nominal (§4.4) |
-| **Multi-term GICs** | $5B | reference − 0.5% (1-yr) to reference + 0.25% (10-yr) | 3–3.75% | DIP-insured; term ladder creates a private-sector yield curve. 1-year, 3-year, 5-year, and 10-year maturities |
+| **GIC Term Ladder (1–15 years)** | $5B+ | reference − 0.5% (1-yr) to reference + 0.75% (15-yr) | 3.0–4.25% | DIP-insured; annual maturities 1–10 plus a 15-year institutional term. Creates the system's private-sector yield curve — see ladder table below |
+
+**GIC Term Ladder — the bond-market substitute.**
+
+Annual maturities from 1 to 10 years, plus a 15-year term for institutional use. Each maturity priced at a fixed spread to the reference rate, rising monotonically with term. All DIP-insured. All reference-rate-anchored — if the reference moves, every GIC rate moves with it.
+
+| Maturity | Rate (spread to reference) | Illustrative (~3.5% ref) | Notes |
+|---|---|---|---|
+| 1 year | reference − 0.50% | ~3.00% | Shortest term; barely above savings (reference − 1%) |
+| 2 years | reference − 0.40% | ~3.10% | |
+| 3 years | reference − 0.30% | ~3.20% | |
+| 4 years | reference − 0.20% | ~3.30% | |
+| 5 years | reference − 0.10% | ~3.40% | Mid-curve; popular retirement planning term |
+| 6 years | reference | ~3.50% | At the reference rate — the curve's midpoint |
+| 7 years | reference + 0.10% | ~3.60% | |
+| 8 years | reference + 0.20% | ~3.70% | |
+| 9 years | reference + 0.30% | ~3.80% | |
+| 10 years | reference + 0.50% | ~4.00% | Longest standard retail term; the yield-curve anchor |
+| **15 years** | **reference + 0.75%** | **~4.25%** | **Institutional term** — credit unions, CCIF, co-op treasuries. Available to citizens but designed for entities matching long-term lending (housing mortgages, infrastructure loans). The top of the GIC curve — still below the commercial loan rate (reference + 2%) and well below the CCIF rate (reference + 3% to 3.5%), ensuring the credit-union margin holds |
+
+*Why annual maturities, not just 1/3/5/10.* A bond market's yield curve is continuous — every maturity from 1 month to 30 years trades, and the shape of the curve at every point carries information. This system can't replicate continuous maturities (GICs are fixed contracts, not traded bonds), but annual steps from 1 to 10 give the GIC Maturity Distribution Index (Monetary Act §1.7) ten data points instead of four. The difference between "money fleeing from 5-year to 3-year" and "money fleeing from 10-year to 1-year" tells you very different things about confidence — the full ladder makes those distinctions visible.
+
+*Why the 15-year.* Credit unions lend on 20–25 year mortgages (Housing Act §3.2). A 15-year GIC plus a 10-year GIC rolled over covers the funding side. Without it, the longest CU funding source is 10 years against 25 years of lending — a duration mismatch. The 15-year closes the gap for institutional balance sheets without asking retail citizens to lock cash for two decades. The GIC Ladder Fund ETF on the Exchange (Exchange Act §3.7) provides blended long-term exposure for citizens who want it without individual lock-up.
+
+*The 75-basis-point term premium (1-year to 10-year) is deliberately shallow.* A real-world yield curve might span 200–300 basis points. This one spans 100 points (3.0% to 4.0%) because the curve is not pricing default risk — every GIC is DIP-insured. The premium compensates only for **time preference** (giving up liquidity), not for credit risk. That's why the curve is flatter than any real-world sovereign curve. The 15-year adds another 25 points (to 4.25%) as a genuine institutional premium — recognizing that a 15-year lock-up is qualitatively different from a 10-year one.
 | Bonds / FCL Equity | $5B | reference to reference + 0.5% | 3.5–4% | |
 | Savings Bonds | $47B | reference − 0.5% to reference | 3–3.5% | |
 
@@ -661,7 +687,7 @@ The remaining GDP change is arithmetic: **$6T (2025) → $19T (2075)**, not $38.
 
 | Expense | Derivation | ~Annual |
 |---|---|---|
-| Deposit interest | ~$1.77T interest-bearing × ~2.7% blended (savings at reference − 1%; GICs at reference − 0.5% to reference + 0.25%) | ~$48B |
+| Deposit interest | ~$1.77T interest-bearing × ~2.7% blended (savings at reference − 1%; GICs at reference − 0.5% (1-yr) to reference + 0.75% (15-yr)) | ~$48B |
 | Revolving line funding | ~$62B @ ~2.5% | ~$1.6B |
 | Loan loss provision — book (§4.3) | ~$1.86T @ ~1% | ~$18.6B |
 | Loan loss provision — revolving (§4.3) | ~$62B @ ~6% | ~$3.7B |
