@@ -99,7 +99,7 @@ Violations: Regional Board sanction, Special Auditor investigation (Sovereign Fu
 
 > **Note (the credit-line consequence).** The ≥3 overlap that guarantees competition also means a citizen in arrears at one credit union sits inside two others' fields. The unconditional revolving base would otherwise be drawable three times over with no consequence. This is closed at the identity layer — arrears are a PPK qualified/not-qualified attribute (Monetary §1.6A, §5.1), portable because the PPK is portable — and **not** by building a credit bureau, which remains prohibited. The overlap is a feature; the hop is closed without surveilling anyone.
 
-**Residency-locked control (base shares and voting).** To hold **base shares** and to **vote**, a member must reside within that credit union's field of membership. Base shares carry membership and the vote; locking them keeps each credit union governed by the community it serves. **Special shares are non-voting capital and are *not* residency-locked to hold** — they are local-priority on issue (the 30-day window, §3.2) and freely held and traded nationally thereafter (§3.3). Widening who holds non-voting capital never touches who controls the credit union.
+**Residency-locked control (base shares and voting).** To hold **base shares** and to **vote**, a member must reside within that credit union's field of membership. Base shares carry membership and the vote; locking them keeps each credit union governed by the community it serves. **Special shares are non-voting capital and are *not* residency-locked to hold** — they are local-priority on issue (the 14-day window, §3.2) and freely held and traded nationally thereafter (§3.3). Widening who holds non-voting capital never touches who controls the credit union.
 
 **Portable deposits, ETF, and special-share holding.** Deposits, withdrawals, cash transactions, checking, savings, multi-term GICs, retirement, mutual funds, loans, the national Citizens' Metals ETF, and **special-share holding** are all portable/national. A traveler or visitor may deposit, withdraw cash, and transact at any credit union. Only **base shares and the vote** are residency-bound.
 
@@ -185,7 +185,7 @@ On death, base shares **convert to special shares at book value.** One equity cl
 - **Per series, not cumulative — and this is deliberate.** The $1,000–$25,000 range is the subscription limit **per series**, not a lifetime cap. A citizen may subscribe to every series they can afford; nothing disqualifies a buyer because of what they bought last year, and there is **no cumulative ceiling** on special-share holding. Capital formation is never rationed by a rule about a buyer's past.
   - *This does not collide with the revolving credit line.* Monetary §1.6A counts only the first **24,000 BWC** of reserve toward the line, so unlimited holding and bounded leverage are separate objects: a citizen may keep buying capital forever without their credit line ever growing past 50,000. **Saving is never restricted; leverage is.**
 - **Primary issuance waterfall:**
-  - *Local-priority window* — on a new series, the issuing credit union's field of membership has **first refusal for 30 days, at par**. The series, terms, and window must be posted in advance, in-branch and in-wallet (§1.3), so residents get the full window. The window is a **minimum**; a board may not shorten it to push shares to outside investors.
+  - *Local-priority window* — on a new series, the issuing credit union's field of membership has **first refusal for **14 days**, at par**. The series, terms, and window must be posted in advance, in-branch and in-wallet (§1.3), so residents get the full window. The 14-day window is a **minimum**; a board may not shorten it to push shares to outside investors.
   - *National remainder* — whatever the field of membership does not subscribe within the window lists on the **national market, also at par**. This is how a small credit union that cannot self-fund a full series still capitalizes: the community buys what it can, the nation funds the rest.
 
 **Dividend.**
@@ -193,13 +193,30 @@ On death, base shares **convert to special shares at book value.** One equity cl
 - **Year 4 onward: reference + 2%** (~5.5%) — the **standardized national premium**, floating and reset when the reference rate is republished (Monetary §1.5A). Every post-lock-up share therefore pays one identical current coupon. The premium is a **system constant, not a board choice**: boards decide whether to issue, not what to pay.
 
 
-**Three-year sale lock-up.** A share may not be sold on the secondary market for **3 years from issue** — exactly its step-down period, so a holder is locked precisely as long as the share pays above the steady rate. This is the honest quid pro quo for the 7/6/5 teaser, like a term deposit. The **redemption valve stays open** throughout the lock-up as the hardship exit (see Withdrawals).
+**Three-year sale lock-up.** A share may not be sold on the secondary market for **3 years from issue** — exactly its step-down period, so a holder is locked precisely as long as the share pays above the steady rate. This is the honest quid pro quo for the 7/6/5 teaser. The **holder redemption ramp** (see below) operates throughout the lock-up as the liquidity exit.
 
-**Withdrawals (the redemption door).** $500/BWC/year (1-year cooldown for a $1,000/BWC withdrawal). A withdrawal is a **redemption** — selling the share back to the credit union, which pays cash and cancels it, reducing the credit union's capital and liquidity. This is the **capped** door, open during and after lock-up. For liquidity beyond the cap (after lock-up), holders use the national secondary market (§3.3), which does not de-capitalize the credit union.
+**20-year maturity.** Special shares are **not perpetual.** Every share matures **20 years from issuance** and automatically redeems at par. The CU's dividend obligation on any single issuance is bounded: 20 years × ~5.5% = ~110% of par in total dividends, then the share dies. The aggregate special-share base is naturally self-limiting — old shares roll off as new ones replace them. No perpetual accumulation, no saturation problem.
 
-**Two doors — transfer vs redemption.**
-- **Transfer (secondary sale to another holder):** the credit union pays nothing; the share stays on its books at the same value; only the **share register** changes — who the dividend is owed to. Cash moves wallet-to-wallet, off the credit union's balance sheet. National and open after lock-up (§3.3). The credit union keeps every dollar of its capital; only the dividend recipient changes.
-- **Redemption (sale back to the credit union):** capital and liquidity shrink; this is the capped door above.
+**Holder redemption ramp (the Connect First model).**
+
+The holder may redeem shares back to the CU at par on the following schedule — no approval required, no hardship test:
+
+| Period | Annual redemption allowance | Rationale |
+|---|---|---|
+| **Years 0–3** (lock-up) | **10% of holdings** per year | Hardship exit during lock-up; enough to cover genuine need without de-capitalizing the CU |
+| **Years 3–10** | **10% of holdings** per year, OR sell on the Exchange (§3.3) — holder's choice | The Exchange door opens at year 3; direct redemption stays available for holders who prefer cash over a market sale |
+| **Years 10–20** | **20% of holdings** per year, OR sell on the Exchange | Accelerated redemption as maturity approaches — the CU can plan for the outflow |
+| **Age 60+ (holder)** | **30% of holdings** per year regardless of share age, OR sell on the Exchange | Retirement draw-down — the holder's need for income overtakes the CU's need for capital stability |
+| **Year 20** | **Automatic redemption at par** — any remaining shares mature and redeem in full | The share expires. The CU's obligation dies |
+
+*Why this works.* A holder with $25,000 in special shares earning 5.5% ($1,375/year) can draw $2,500/year from Year 1 through direct redemption — a meaningful income supplement that the CU can plan for. At retirement, the rate accelerates to $7,500/year. And at Year 20, whatever remains redeems automatically. The CU's capital planning becomes predictable: every share has a known maximum lifespan, a known maximum redemption rate, and a known maturity date.
+
+**CU call (issuer-optional redemption after Year 10).** After a share has been outstanding for 10 years, the CU may redeem it at par at its discretion — returning the holder's principal and retiring the share. The call lets overcapitalized CUs shed dividend obligations they no longer need. The holder receives par (no loss) and reinvests in new shares, GICs, or the Exchange. The call is optional — a CU that still needs the capital lets the share run to maturity.
+
+**Three doors — transfer, redemption, and call.**
+- **Transfer (secondary sale to another holder, §3.3):** the credit union pays nothing; the share stays on its books at the same value; only the **share register** changes. National and open after the 3-year lock-up. The credit union keeps every dollar of its capital.
+- **Redemption (holder sells back to the CU):** capital and liquidity shrink; capped by the ramp above. Available from Year 0.
+- **Call (CU redeems from the holder):** capital shrinks by CU choice; available from Year 10. The CU manages its own capital structure.
 
 **Equity treatment — what a special share is on the books.**
 - **Equity, not a liability.** Special shares sit in the **capital** section of the balance sheet — members'/investor capital, not money the credit union owes back on demand.
@@ -214,7 +231,7 @@ On death, base shares **convert to special shares at book value.** One equity cl
 
 **Carry / solvency.** Special-share capital is leveraged ~10× into the loan book under the 10% requirement, so the capital earns the loan spread on a multiple of itself (plus fee, SMSWF, and investment income). At illustrative volumes, **~$8B of annual new special-share capital supports ~$80B of loans**, yielding ~$4.4B gross interest against ~$2.2B of deposit cost — **~$2.2B of net interest income against a ~$440M dividend obligation** (reference + 2% on the year's capital). Coverage: **~5×**. The carry is comfortable at the system level. The carry works comfortably at the system level. If the network's net interest margin ever compresses to where leveraged spreads plus other income cannot cover the dividend, that is a **system-level signal** addressed through the reference-rate review (Monetary §1.5A) and the Territorial Chamber — not a per-board adjustment.
 
-**Recapitalization impact:** each series adds its own value in capital and ~10× that in lending capacity. Over 50 years the capital base grows from **~$186B to ~$589B**, carrying the loan book from **~$1.86T to ~$5.89T**.
+**Recapitalization impact:** each series adds its own value in capital and ~10× that in lending capacity. Shares mature at 20 years, creating a natural roll-off that the CU replaces with new issuance — the capital base is renewed, not accumulated. Over 50 years the capital base grows from **~$186B to ~$589B**, carrying the loan book from **~$1.86T to ~$5.89T**, with old series maturing and new series replacing them in a continuous cycle.
 
 
 ### 3.3 Credit Union Secondary Market (CUSM) — national
@@ -233,6 +250,21 @@ On death, base shares **convert to special shares at book value.** One equity cl
 - **Liquidity waterfall.** The Exchange's Credit-Union Capital Board is the default venue; the co-op index (CGCI / CCIF) and member-buyback paths remain the **last-resort backstop** for genuinely thin or distressed cases, so no holder is ever stuck.
 - **Governance:** CED logs aggregate CUSM volume (quarterly, system-wide) and the per-credit-union member/investor equity split; individual trades are private.
 - **Crisis signal:** because special shares are homogeneous, national, and uninsured, the board's price is a distributed, real-time **bank-soundness signal** — pressure toward the 90% floor is read as institutional stress (Exchange Act §6; Monetary §1.8).
+
+**Global Segment graduation (Exchange Act §7).**
+
+Special shares that have proven themselves domestically may graduate to the Exchange's Global Sound-Capital Segment, opening them to international buyers.
+
+| Requirement | Threshold |
+|---|---|
+| **Domestic seasoning** | Share series must have traded on the domestic CU Capital Board for **5+ years** |
+| **Trading health** | Series must have traded at **95%+ of par** for at least 4 of the last 5 years (proving domestic market acceptance) |
+| **CU qualification** | Issuing CU must hold a **Tier-2 or higher** CLS rating (Credit Union Act §5.1) |
+| **Ratio cap** | A CU may list **up to 40% of its outstanding special-share capital** on the Global Segment. The remaining **60% stays domestically anchored** — ensuring the domestic market retains majority holding and the CU's capital base remains predominantly local |
+
+*Why international buyers want these.* A 5.5%-yield instrument with a 20-year bounded maturity, issued by a DIP-adjacent institution in a zero-sovereign-debt economy with constitutional privacy protections and a 90–110% trading band — that is unlike anything else available in global fixed-income markets. Japanese pension funds, Nordic sovereign funds, and institutional investors seeking stable, non-correlated yield in a constitutionally constrained economy would buy these eagerly.
+
+*Why the 60/40 domestic anchor.* If 100% of a CU's special shares traded globally, the CU's capital base would be held by investors with no connection to the community it serves. The 60% domestic floor ensures the member and local-investor base retains majority ownership of the CU's risk capital. The 40% global ceiling is enough to solve the "running out of domestic buyers" problem without surrendering local control — and it respects the §3.2 principle that capital formation is local-first while capital *holding* extends outward.
 
 ### 3.4 Citizens' Metals ETF — citizen investment (NOT currency backing)
 
@@ -769,7 +801,7 @@ Special-share capital is leveraged ~10× into the loan book (§3.2), so the capi
 | Special-share series sizing | **~$4B** per series, 2/year — derives from the capital path (§1.2) | ~$4B |
 | Special-share subscription cap | $1,000–$25,000 **per series**; no cumulative ceiling | same |
 | Special-share market | Exchange Credit-Union Capital Board; 3-yr lock-up; reference + 2% premium; 90–110% band; risk-priced | same |
-| Special-share issuance | 30-day local-priority window at par → national remainder at par | same |
+| Special-share issuance | 14-day local-priority window at par → national remainder at par | same |
 | Citizens' Metals ETF (investment, not backing) | **~$168–209B** | scaled |
 | **Citizen Savings Pool (CSP)** | Forced savings invested through 5 named channels at ~4–5% blended (vs 2.5% idle). Formula-driven, CU-custodied, outside reserve requirements. Retirement nest egg ~60% larger | same |
 | Citizen revolving credit line | 2,000 base + (2 × countable reserve, capped 24,000); line capped 50,000, both DLB-indexed; reference + 5% (~10%); at issue, no application (§4.4) | same |
@@ -841,7 +873,7 @@ Special shares are the engine: each series adds its own value in capital and **~
 | Dividend (yr 4+) | Reference rate + 2%, standardized & floating — every tradable share pays the same coupon |
 | Lock-up | No secondary sale for 3 years from issue; redemption valve stays open |
 | Subscription cap | $1,000–$25,000 **per series**. No cumulative ceiling; no buyer disqualified by past subscriptions |
-| Primary issuance | 30-day local-priority window at par → national remainder at par |
+| Primary issuance | 14-day local-priority window at par → national remainder at par |
 | Secondary market | Exchange Credit-Union Capital Board (§3.3); transfer = register change, CU balance sheet untouched; 90–110% band, risk-priced |
 | Redemption | Sell back to CU; $500/BWC/yr cap; reduces CU capital (the capped door) |
 | Voting | Non-voting (member or investor); membership requires a residency-locked base share |
