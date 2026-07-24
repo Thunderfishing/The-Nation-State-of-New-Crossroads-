@@ -39,7 +39,7 @@ The act provides a **$10,000/year voucher** (following the student to any licens
 
 ## Section 2: Funding
 
-- **Voucher cost:** ~$180B gross at $10,000 × 18M students (scaling with the DLB), net ~$170B after the ~$10B FCL education contribution (commons rescaled — FCL Act §3.2) (FCL Act profit-sharing waterfall). **Funded by general revenue** (Sovereign Functions Act §7.3) — a transfer, not an operation, because the family picks the school (Sovereign Functions Act §7.2).
+- **Voucher cost:** ~$180B gross at $10,000 × 18M students (scaling with the DLB), net ~$170B after the ~$11B FCL education contribution (commons rescaled — FCL Act §3.2) (FCL Act profit-sharing waterfall). **Funded by general revenue** (Sovereign Functions Act §7.3) — a transfer, not an operation, because the family picks the school (Sovereign Functions Act §7.2).
 
   > **Not the SWF.** Prior drafts called this an *"Education SWF allocation."* It is the largest single line in the federal budget and it is a **one-way spend**: vouchers do not revolve and are never repaid. **Monetary §2.1:** *"the SWF is the state's revolving lender… it is not the state's capital budget."* Calling it an SWF allocation would have consumed three-quarters of the fund's corpus every year. It was general revenue that had been labelled wrong — the same error as the infrastructure buildout, the grid hardening, and the sustainability line.
 - **Stipends:** $15,000/year professional (service), $12,000/year vocational; paid monthly via credit-union checking.
