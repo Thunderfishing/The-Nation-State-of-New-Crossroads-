@@ -1,6 +1,6 @@
 # Crossroads Sovereign Functions Act
 
----
+**Cross-reference.** Companion to the Chamber Act (Territorial Chamber §3, Productive Chamber §4.1, Productive Chamber §4.2, universal citizen vote §2, oversight committees §6.7, the committee-referral mechanism §6.7, the ad-hoc arbitration process §6.6, entrenched floors §11, protected guarantees §12, the Election Integrity Commission §9.5), the Monetary Act 9.8, Credit Union Act 5.8, Exchange Act 1.5, Municipal and Regional Funding Act, FCL Act 3.4, Military and Intelligence Act 1.8, and the Infrastructure and Industry Acts.
 
 **This act is deliberately separate from the Chamber Act.** The sovereign functions are the residue left after everything automatable was automated and everything mutualizable was mutualized; the chambers and citizens are the source of authority the sovereign answers to. They travel together and are ratified together; they are not one document.
 
@@ -324,7 +324,7 @@ Set in full at Monetary Act §4; collected by Treasury (§6A.1); rates set by th
 
 | | ~Annual |
 |---|---|
-| Education vouchers (net of the FCL waterfall) | ~$170B |
+| Education vouchers (net of the ~$11B FCL commons contribution) | ~$170B |
 | Sustainability projects | ~$50B |
 | Healthcare bottom-tier subsidy | ~$45B |
 | Military — **sovereign share only** (§2.1) | ~$46B |
