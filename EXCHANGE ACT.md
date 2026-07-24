@@ -1,9 +1,12 @@
 # Crossroads Exchange Act of 2025: Draft 1.7
 
-**Draft: 1.7 | Date: July 12, 2026**
+**Draft: 1.5 | Date: July 12, 2026**
 **Author: Thunderfish2**
 
 ---
+
+## Cross-reference
+
 
 **Note on figures.** This act is a rulebook: it carries structure, not fiscal magnitudes, and the Consolidated Fiscal Model's rescale therefore leaves it untouched. Where a figure appears it derives from that model.
 
@@ -74,7 +77,7 @@ Prices anchor to **PPK/CED-audited value** — book value for co-op and corporat
 Each board carries dampening rules calibrated to its instrument; the spine is common:
 
 - **Trading bands.** Special shares: 90%–110% of par (CU §3.3). Co-op investor shares: ±10% daily movement around audited book (FCL §2.5.5). Metals ETF: ±5% daily movement around NAV. Investment Fund ETFs: ±5% daily movement around NAV. Corporate equity: a daily limit band set by the Exchange Authority.
-- **Minimum holding periods.** Co-op investor shares: 12-month minimum hold (FCL §2.5.5). Special shares: 3-year sale lock-up from issue (CU §3.2). Metals ETF: 30-day minimum hold. Investment Fund ETFs: 30-day minimum hold. Corporate equity: subject to the §4.1 0.5% short-term trade tax on sales under 365 days, collected at point of sale.
+- **Minimum holding periods.** Co-op investor shares: 12-month minimum hold (FCL §2.5.5). Special shares: 3-year sale lock-up from issue; 20-year maturity (CU §3.2). Metals ETF: 30-day minimum hold. Investment Fund ETFs: 30-day minimum hold. Corporate equity: subject to the §4.1 0.5% short-term trade tax on sales under 365 days, collected at point of sale.
 - **No intraday churn engine.** There is no high-frequency or algorithmic market-making tier; settlement and registry update on a defined cycle (2.6), not in microseconds.
 
 These are not frictions to be optimized away — they are the point. The Exchange rewards the patient holder and frustrates the fast trader by design.
@@ -115,7 +118,9 @@ A public bid sits beneath certain **domestic** boards so a holder is never wholl
 *The flight-to-safety application:* a GIC Ladder Fund pooling 1-year through 10-year GICs from 50+ credit unions creates a **liquid, diversified, DIP-insured fixed-income instrument** — the closest thing to a bond fund in a system that issues no bonds. In a crisis, capital flows from co-op equity and corporate equity into the GIC Ladder Fund, which absorbs the demand without any single credit union bearing the full inflow. The fund's NAV is anchored to the reference rate; its liquidity comes from the Exchange; its safety comes from the DIP. This is the missing middle between "savings account" and "physical cash in a mattress." 
 - The backstop is a haircut exit, not a guarantee of par — it removes the trap without removing the risk.
 
-**The domestic public backstops (CCIF, the 90% floor, and behind them the RLP/SWF/DIP) never extend to the Global Sound-Capital Segment (7.2) nor to the Metals ETF Board.** Global-segment liquidity arrangements, if any, are segment-internal and disclosed; domestic public money never stands behind a foreign listing. The Metals ETF is self-backed by its metal holdings.
+**Global listing of domestic special shares (Credit Union Act §3.3).** Domestic special shares that have traded on the CU Capital Board for 5+ years at 95%+ of par, issued by a Tier-2+ rated CU, may graduate to the Global Sound-Capital Segment — up to **40% of a CU's outstanding special-share capital.** The remaining 60% stays on the domestic board. International buyers access a 5.5%-yield, 20-year-maturity instrument from a zero-debt constitutional economy — unlike anything in global fixed income. The 60/40 domestic anchor ensures the CU's capital base remains predominantly locally held.
+
+**The domestic public backstops (CCIF, the 90% floor, and behind them the RLP/SWF/DIP) never extend to the Global Sound-Capital Segment (7.2) nor to the Metals ETF Board.** Globally listed special shares trade under the Global Segment's rules, not the domestic backstops — international buyers accept the credit risk of the issuing CU, not a sovereign guarantee. Global-segment liquidity arrangements, if any, are segment-internal and disclosed; domestic public money never stands behind a foreign listing. The Metals ETF is self-backed by its metal holdings.
 
 ### 2.5 Transparency and the prohibition on synthetic structuring
 
@@ -171,8 +176,8 @@ The Exchange inherits the PPK/CED architecture and asymmetric scrutiny (Monetary
 
 ### 3.2 Credit-Union Capital Board
 
-- **Lists:** credit-union special shares past their 3-year lock-up (CU §3.2, §3.3) — uninsured, loss-absorbing equity, subordinate to all depositors, and the second rung of the lending loss waterfall behind the loan loss reserve (CU §4.3).
-- **Special shares are issued and managed individually by each issuing credit union.** There is no single pooled index for special shares; each credit union's shares are distinct instruments.
+- **Lists:** credit-union special shares past their 3-year sale lock-up (CU §3.2, §3.3) — uninsured, loss-absorbing equity with a **20-year maturity** (automatic redemption at par at year 20), subordinate to all depositors, and the second rung of the lending loss waterfall behind the loan loss reserve (CU §4.3). Shares are also subject to a **holder redemption ramp** (10% of holdings/year during years 0–10, 20%/year during years 10–20, 30%/year from age 60+) and a **CU call** (issuer-optional redemption at par after year 10).
+- **Special shares are issued and managed individually by each issuing credit union.** Each credit union's shares are distinct instruments with individual maturity dates. The **Special-Share Index Fund** (Investment Fund Board §3.7) pools shares from multiple CUs into a single tradeable ETF for investors seeking diversified exposure.
 - **Homogeneous coupon:** every tradable special share pays the standardized reference + 2% floating dividend (CU §3.2), so the board prices only credit risk, not yield — capital cannot chase a higher coupon because none exists.
 - **Pricing:** par, 90%–110% band; trades above 105% require CLS notification (no approval).
 - **Transfer, not redemption:** a sale changes only the register; the issuing credit union keeps all its capital (CU §3.3).
@@ -334,7 +339,7 @@ In the immediate post-revolution period, before the FX Board is operational:
 
 *Rationale:* a holder who wants to spread risk across many issuers — rather than betting on one credit union or one co-op — needs a diversification vehicle. The safe way to provide it is a **plain, transparent, pass-through index fund**: it holds the actual underlying shares, discloses exactly what it holds, adds no synthetic seniority, and carries no leverage. This delivers the benefit the bundling instinct reaches for (don't sink with one wobbly issuer) without any of the opacity-plus-fake-safety that Section 2.5 prohibits.
 
-- **Special-Share Index:** an equal- or book-weighted fund holding the actual special shares of many credit unions, pass-through, fully transparent. A holder sees precisely which credit unions' risk they own; nothing is repackaged or re-rated. Because it holds the real shares, it does **not** blind the bank-soundness signal (Section 6) — the underlying prices remain visible.
+- **Special-Share Index:** an equal- or book-weighted fund holding the actual special shares of many credit unions, pass-through, fully transparent. A holder sees precisely which credit unions' risk they own; nothing is repackaged or re-rated. Because it holds the real shares, it does **not** blind the bank-soundness signal (Section 6) — the underlying prices remain visible. Fund managers must account for the **20-year maturity roll** — as underlying shares mature and redeem at par, the fund reinvests in newly issued shares, maintaining continuous exposure. The maturity lifecycle creates natural portfolio turnover without manager discretion.
 - **Co-op Index:** the analogous pass-through fund over Co-op Capital Index shares (an evolution of the existing CCI index logic).
 - **Metals ETF Index:** a pass-through fund holding actual ETF shares, reflecting the NAV of the metal pool. Transparent, fully disclosed. May be included in broader investment funds.
 - **Global Sound-Capital Index:** a transparent pass-through fund over qualifying **global-segment** issuers (Section 7), holding the actual underlying shares, fully disclosed. It lets a citizen buy a diversified slice of honestly-run cooperative and mutual enterprises worldwide. It is **flagged as carrying foreign risk outside the domestic backstops** (2.4, 7.2), holds only global-segment instruments, and may never co-mingle with the domestic indices.
