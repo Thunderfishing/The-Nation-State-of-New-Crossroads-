@@ -1,13 +1,11 @@
 # The Nation-State of New Crossroads — Geography & National Profile: Draft 3.1
 
-**Posted to r/Bulwarkomics**
 **Draft:** 3.1 | **Date:** July 17, 2026
 **Author:** Thunderfish2
 
 ---
 
 > **Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values.
-
 
 ---
 
@@ -195,7 +193,7 @@ Minerals (uranium, coal, metals) dominate, from the southern Frostpeak regions; 
 | GDP per capita | ~$53,600 | ~$146,000 |
 | Co-op / corporate / informal | ~65 / 15 / 20 (descriptive) | ~55 / 20 / 25 (projected drift) |
 | Co-op net profit | ~$400B (~10.3% margin) | scaling |
-| Commons (FCL waterfall) | ~$48B ($19B health / $10B edu / $19B charity) | scaling |
+| Commons (FCL waterfall) | ~$60B ($22B health / $11B edu / $22B charity) — marginal 22% on Tier 3 profit above $10M | scaling |
 | Resource activity | ~$306.4B | scaling |
 | SWF (12% GDP cap) | ~$230B | capped at ~$2.28T |
 | Federal revenue | ~$495B | scaling |
