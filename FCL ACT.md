@@ -1,5 +1,5 @@
 # Crossroads Federated Cooperatives Limited (FCL) Structure Act of 2025
-**Draft: 3.5 | Date: July 11, 2026**  
+**Draft: 3.4 | Date: July 11, 2026**  
 **Author: Thunderfish2**
 
 ---
@@ -137,7 +137,7 @@ Three tiers by size, revenue, and loan exposure. All pay the 5% co-op profit tax
 
 > **The charity commons is the retirement safety net the system never names as one.** There is no state pension (Monetary Act Key Stats). Retirement income comes from five independent streams — the dividend, forced savings, the ETF, special shares, and credit-union savings — plus a Durahome that costs nothing to keep. The charity commons is the *sixth*, and it is the communal one: the co-op you spent your working life in funds the aged-care facility you retire into. Not because a statute directs it, but because its members voted for it — and they voted for it because they can see themselves needing it.
 >
-> **Scale:** ~$19B/year across 195,100 FCLs averages ~$97,000 per co-op. But the commons is progressive — large co-ops at 22% contribute millions; small ones at 5% contribute hundreds. A 500-person industrial co-op might direct $2M/year to its local aged-care programme. A 5-person workshop buys supplies for the community centre. The system produces both, without anyone designing it, because the waterfall percentages and the member vote do the work.
+> **Scale:** ~$22B/year across 195,100 FCLs averages ~$113,000 per co-op. But the commons is progressive — large co-ops at 22% contribute millions; small ones at 5% contribute hundreds. A 500-person industrial co-op might direct $2M/year to its local aged-care programme. A 5-person workshop buys supplies for the community centre. The system produces both, without anyone designing it, because the waterfall percentages and the member vote do the work.
 
 - **Distribution:** Standard FCLs 70% workers/30% investors; Professional FCLs 100% worker-partners (investors get non-equity profit-sharing 10–20% or loan interest 5–6%); Tier 1 voluntary.
 - **Co-op Clubs:** same split; excess to member dividends or dues reduction (~$40B/year club profits by 2075).
