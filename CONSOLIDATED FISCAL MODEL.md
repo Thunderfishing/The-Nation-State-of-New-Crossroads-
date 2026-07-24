@@ -55,10 +55,10 @@ Money does not cross between pots except where an act says so, and each crossing
 | Line | ~Annual |
 |---|---:|
 | Co-op profit tax (5%) | ~$20B |
-| Total commons | ~$48B |
-| → Healthcare contribution | ~$19B |
-| → Education contribution | ~$10B |
-| → Charity contribution (co-op-directed, FCL Act §3.2) | ~$19B |
+| Total commons | ~$60B (mandatory ~$54B from Tier 3 + voluntary ~$6B from Tier 2) |
+| → Healthcare contribution | ~$22B |
+| → Education contribution | ~$11B |
+| → Charity contribution (co-op-directed, FCL Act §3.2) | ~$22B |
 
 ---
 
@@ -203,7 +203,7 @@ Estate bequests; **outside the SWF and outside the 12% cap**. Principal locked u
 
 | Sector | Revenue | Verdict |
 |---|---|---|
-| **Healthcare** | Premiums ~$428B + FCL commons ~$19B + partners ~$1.2B. **Total ~$448B = 7.5% of GDP, ~$4,000/capita** | Balanced |
+| **Healthcare** | Premiums ~$428B + FCL commons ~$22B + partners ~$1.2B. **Total ~$451B = 7.5% of GDP, ~$4,000/capita** | Balanced |
 | **Parks** | Dark Corridor Fund surplus ~$1.6B + Parks Index ~$6B (at maturity) + general revenue ~$20B + stewardship levy ~$2B + CCIF ~$2.5B = **~$32.1B** (Parks Act 3.6) | Self-funding |
 | **Infrastructure ops** | Access fees at **155% of annual maintenance** | Surplus by design |
 | **Credit-union network** | Gross ~$115B, net ~$43B, NIM ~3% | Self-funding |
