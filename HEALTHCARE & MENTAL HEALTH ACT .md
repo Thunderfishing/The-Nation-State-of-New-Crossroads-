@@ -1,6 +1,5 @@
 # Crossroads Co-operative Healthcare & Mental Wellness Act of 2025: Draft 6.8
 
-
 **Draft:** 6.8 | **Date:** July 22, 2026
 **Author:** Thunderfish2
 
