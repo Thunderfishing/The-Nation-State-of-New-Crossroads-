@@ -1,5 +1,6 @@
 # Crossroads Co-operative Healthcare & Mental Wellness Act of 2025: Draft 6.8
 
+
 **Draft:** 6.8 | **Date:** July 22, 2026
 **Author:** Thunderfish2
 
@@ -243,7 +244,7 @@ Healthcare is funded by **mandatory universal premiums**, not state SWF operatin
 | Source | Amount | Notes |
 | :--- | :--- | :--- |
 | **Mandatory premiums (net of subsidy)** | **~$383B/year** | Primary funding; whole adult population + children; mental health included |
-| **FCL healthcare contribution** | **~$19B/year** | Progressive profit-sharing waterfall (FCL Act §3.2) — 40% of a ~$48B commons, itself a percentage of ~$400B of co-op net profit |
+| **FCL healthcare contribution** | **~$22B/year** | Progressive profit-sharing waterfall (FCL Act §3.2) — 40% of a ~$60B commons, itself a percentage of ~$400B of co-op net profit |
 | State bottom-tier subsidy | ~$45B/year | The state's main healthcare cost; subsidizes the bottom-20% premiums |
 | Reference-rate-anchored service-sector loans | as needed | Facility build/equipment (co-op and corporate eligible) |
 | Partner contributions | ~$1.21B/year | Donations, charitable grants (CMHIN) |
