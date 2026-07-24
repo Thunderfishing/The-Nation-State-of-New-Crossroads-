@@ -1,10 +1,7 @@
 # New Crossroads — Post-Revolution Transition Timeline: Draft 2.0
 
-**Posted to r/Bulwarkomics**
 **Draft:** 2.0 | **Date:** July 22, 2026
 **Author:** Thunderfish2
-
-> **Reading note.** This document covers the period the founding acts don't — the years between the revolution and the point where the constitutional machinery runs on its own. The sector acts each carry a Phase 1 (2025–2035) timeline; this document provides the connective tissue beneath them. Year 0 is the revolution year. All figures derive from the Consolidated Fiscal Model v3.2.
 
 ---
 
@@ -193,7 +190,7 @@ The informal economy — 25–30% of the working population — receives the div
 | Spending (~$424.5B) | Disbursing — vouchers, subsidies, infrastructure, military, parks, R&D, four functions, mandatory-service stipends |
 | SWF (~$720B+, capped) | Lending and backstopping — not spending |
 | Citizen dividend (~$157B/yr) | Paying — ~$1,400/citizen, cash, universal |
-| Commons (~$48B) | Flowing — healthcare $19B, education $10B, charity $19B |
+| Commons (~$60B) | Flowing — healthcare $22B, education $11B, charity $22B |
 | Healthcare (~$448B) | Self-funding on premiums + commons + subsidy |
 | Credit-union network | Self-funding on NIM (~3%) |
 
