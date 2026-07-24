@@ -1,11 +1,3 @@
----
-title: "New Crossroads — Consolidated Fiscal Model (2025 base)"
-version: "3.2"
-date: "2026-07-22"
-author: "Thunderfish2"
-description: "Single-page derived fiscal model on the $6T GDP base. Contains the five-pot architecture, the who-levies-what table, the rate-band structure, and the SWF's five named functions."
----
-
 # New Crossroads — Consolidated Fiscal Model (2025 Base) — v3.2
 
 **Reading note.** A derived model, not asserted numbers. Sections C–J flow from the base assumptions (Section A). Figures are rounded; illustrative, not precise.
@@ -229,7 +221,7 @@ Estate bequests; **outside the SWF and outside the 12% cap**. Principal locked u
 | Instrument | Band | Illustrative |
 |---|---|---|
 | Savings | reference − 1% | ~2.5% |
-| GICs, bonds, savings bonds | reference ± 0.5% | ~3–4% |
+| GIC Term Ladder (1–15 years) | reference − 0.5% to reference + 0.75% | ~3.0–4.25% |
 | Micro-loans | reference + 0.5% | ~4% |
 | Service-sector (healthcare, education, parks, infrastructure) | reference + 0.5% to + 1.5% | ~4–5% |
 | **Commercial loans (co-op, corporate, informal)** | **reference + 2%** | **~5.5%** |
