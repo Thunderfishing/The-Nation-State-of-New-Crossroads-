@@ -1,6 +1,5 @@
-# Crossroads Federated Cooperatives Limited (FCL) Structure Act of 2025: Draft 3.4
- 
-**Draft: 3.4 | Date: July 11, 2026**  
+# Crossroads Federated Cooperatives Limited (FCL) Structure Act of 2025
+**Draft: 3.5 | Date: July 11, 2026**  
 **Author: Thunderfish2**
 
 ---
@@ -94,23 +93,35 @@ Three tiers by size, revenue, and loan exposure. All pay the 5% co-op profit tax
 
 > **The CCIF deduction is a shelter, it is deliberate, and it is the same principle as the VAT.** Profit routed into the CCIF is deducted **before** the commons share is calculated, and nothing levies the commons on withdrawal. That is not a loophole to be closed — it is the tax architecture being consistent with itself. The federal base taxes **consumption, never capital** (Monetary §4): the VAT does that for citizens, and this deduction does it for co-ops. Capital parked in the CCIF has not been consumed; it is waiting to expand a co-op or absorb a shock. Levying it would punish precisely what every other instrument in this system rewards — the revolving line sized by reserve, the metals ETF, the patient-capital dividend.
 >
-> **What it costs, stated plainly:** the commons' healthcare slice is ~$19B against ~$448B of total healthcare funding, so the shelter's drag on the healthcare guarantee (Chamber Act §12.1) is well under **1%**, not the double digits a naive reading suggests.
+> **What it costs, stated plainly:** the commons' healthcare slice is ~$22B against ~$448B of total healthcare funding, so the shelter's drag on the healthcare guarantee (Chamber Act §12.1) is well under **1%**, not the double digits a naive reading suggests.
 >
 > **And it is exactly why §3.8.6 is not optional.** A voluntary pool that is tax-advantaged is not voluntary in practice: everyone uses it, so it becomes systemically important **by construction**. The shelter guarantees the inflow that makes the CCIF too big to fail. Shelter and prudential rules are one package; neither is safe without the other.
 
-| Annual profit | Healthcare | Education | Charity | Commons total | Members/Investors (remainder) |
-|---|---|---|---|---|---|
-| $100k–$1M | 2% | 1% | 2% | **5%** | ~95% (members ~51% / investors ~44%) |
-| $1M–$10M | 6% | 3% | 6% | **15%** | ~85% (members ~45% / investors ~40%) |
-| > $10M | ~9% | ~4% | ~9% | **~22%** | ~78% (members ~42% / investors ~36%) |
+| Annual profit | Commons obligation | How it works | Members/Investors |
+|---|---|---|---|
+| **Below $1M (Tier 1)** | **None (voluntary donations welcome)** | The micro co-op's entire post-tax profit goes to members and investors. Voluntary commons donations are encouraged but not required — a $300k co-op should be growing, not paying levies | ~100% of remainder (members ~55% / investors ~45%) |
+| **$1M–$10M (Tier 2)** | **None mandatory (voluntary donations welcome)** | Same — the mid-size co-op's effective burden is the 5% profit tax only, giving it a massive advantage over the 10–20% corporate rate at the same level. Voluntary commons donations qualify for the same recognition as mandatory ones (board listing, community goodwill) | ~100% of remainder (members ~51% / investors ~44%) |
+| **Above $10M (Tier 3)** | **22% on the portion of post-tax profit above $10M only (marginal, not flat)** | The commons applies **only to the excess above $10M**, exactly as the income tax applies only to income above $100k. A co-op earning $12M pays commons on $2M of post-tax excess, not on all $12M. The rate phases in gradually — no cliff at the tier boundary | ~78% of remainder above threshold (members ~42% / investors ~36%) |
 
-- **Internal commons ratio:** Healthcare : Education : Charity = **2 : 1 : 2** at every tier.
+- **Internal commons ratio (Tier 3, mandatory portion):** Healthcare : Education : Charity = **2 : 1 : 2**.
 - **Members/investors** split the remainder preserving the ~8:7 (member:investor) proportion, so owner economics are stable while the commons share scales.
-- **Boards may adjust ±5%** of the commons sub-allocations with 75% approval (the tier totals are fixed by the Advantage Principle).
+- **Boards may adjust ±5%** of the commons sub-allocations with 75% approval.
+- **Voluntary commons donations (Tier 1 and 2):** any FCL may contribute to the commons voluntarily at any ratio it chooses. Voluntary contributions are deductible before the CCIF allocation (same treatment as mandatory), publicly listed, and count toward community-benefit criteria for co-op preference in licensing and procurement. Many Tier 2 co-ops will donate — the incentive is reputational, not fiscal.
 
-> **The Co-op Advantage Principle (binding; entrenched as part of Chamber Act §11).** A co-op's effective burden (5% tax + commons contribution) shall **never exceed** an identical-size corporation's effective burden (corporate tax + SWF contribution) at any profit level. The progressive schedule above is set to stay below the corporate curve at every tier — light at the bottom (where small corporations pay ~10%), fuller at the top (where large corporations pay ~30%). If corporate rates change, the waterfall is constitutionally bound to remain below them.
+> **The Co-op Advantage Principle (binding; entrenched as part of Chamber Act §11).** A co-op's effective burden (5% profit tax + commons contribution) shall **never exceed** an identical-size corporation's effective burden (corporate tax + SWF contribution) at any profit level. The **marginal commons** structure ensures this holds everywhere:
+>
+> | Profit | Co-op effective burden | Corporation effective burden | Advantage |
+> |---|---|---|---|
+> | $500k | 5.0% (tax only, no commons) | 8.0% (10% corporate tax) | **Co-op wins by 3pp** |
+> | $5M | 5.0% (tax only, no commons) | 17.8% (10–20% corporate tax) | **Co-op wins by 13pp** |
+> | $10M | 5.0% (tax only, no commons) | 18.9% (10–20% tax + 0% SWF) | **Co-op wins by 14pp** |
+> | $20M | 15.4% (tax + marginal commons on $10M excess) | 24.4% (10–25% tax + 5% SWF) | **Co-op wins by 9pp** |
+> | $50M | 21.7% | 27.8% | **Co-op wins by 6pp** |
+> | $100M | 23.8% | 28.9% | **Co-op wins by 5pp** |
+>
+> The advantage is **largest in the $1M–$10M growth range** (5% vs 15–19%) — exactly where co-ops are scaling from Tier 1 to Tier 2 and need every incentive to stay cooperative rather than converting to corporate form. At the top, the advantage narrows to ~5 percentage points but never inverts. If corporate rates change, the waterfall is constitutionally bound to remain below them.
 
-**System-wide commons funding:** ~**$48B/year** total (~$19B healthcare, ~$10B education, ~$19B charity), concentrated in large co-ops while protecting small ones.
+**System-wide commons funding:** ~**$54B/year** total (~$22B healthcare, ~$11B education, ~$22B charity), generated almost entirely by Tier 3 co-ops with profit above $10M. Voluntary Tier 2 donations add an estimated ~$5–7B, bringing the realistic total to ~$59–61B. The commons is funded by the co-ops that can afford it and subsidised by none that cannot.
 
 **Where the charity slice goes — co-op-directed, by member vote.** Healthcare flows to the healthcare co-ops (Healthcare Act). Education flows to the voucher system (Education Act). The charity slice — **~$19B/year** — flows where **each FCL's members direct it** at the annual meeting. The co-op votes; the money follows. There is no ministry, no bureau, no national allocation formula. 195,100 co-ops each decide for themselves.
 
@@ -260,7 +271,7 @@ Three tiers by size, revenue, and loan exposure. All pay the 5% co-op profit tax
 | Co-op profit tax (5%) | ~**$20B** | scales |
 | Co-op Profit Tax | 5% over $100k | same |
 | SWF Contribution | 0% (co-ops fund commons via §3.2 waterfall) | same |
-| Commons via progressive waterfall | **~$48B/year** (~$19B health / ~$10B edu / ~$19B charity) — a **percentage of ~$400B of co-op net profit**, not a fixed sum; it rescales with the profit pool | scales |
+| Commons via marginal waterfall | **~$60B/year** (~$22B health / ~$11B edu / ~$22B charity mandatory from Tier 3 + ~$6B voluntary from Tier 2) — marginal 22% on post-tax profit above $10M; Tier 1 and 2 commons are voluntary | scales |
 | FCL Loans | ~**$1.21T** (65% of the ~$1.86T network book) | ~$3.83T |
 | CCIF (voluntary, projected) | ~**$991B** (~$811B FCL + ~$180B corporate) | scales |
 | Co-op Exports | ~**$843B** (~14% of GDP) | ~$2.28T |
