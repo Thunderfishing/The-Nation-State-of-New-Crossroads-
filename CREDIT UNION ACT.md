@@ -719,7 +719,7 @@ The remaining GDP change is arithmetic: **$6T (2025) → $19T (2075)**, not $38.
 
 | Expense | Derivation | ~Annual |
 |---|---|---|
-| Deposit interest | ~$1.77T interest-bearing × ~2.7% blended (savings at reference − 1%; GICs at reference − 0.5% (1-yr) to reference + 0.75% (15-yr)) | ~$48B |
+| Deposit interest | ~$1.77T interest-bearing × ~2.7% blended (savings at reference − 1%; GICs at reference − 0.5% (1-yr) to reference + 0.75% (15-yr)) | ~$60B |
 | Revolving line funding | ~$62B @ ~2.5% | ~$1.6B |
 | Loan loss provision — book (§4.3) | ~$1.86T @ ~1% | ~$18.6B |
 | Loan loss provision — revolving (§4.3) | ~$62B @ ~6% | ~$3.7B |
