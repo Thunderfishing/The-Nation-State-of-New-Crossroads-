@@ -52,7 +52,22 @@ Waste collection infrastructure (bins, trucks, transfer stations, MRFs — Mater
 - **The state owns** the physical infrastructure — trucks, bins, sorting facilities, transfer stations
 - **Co-op concessions operate** the collection and sorting, paid on a performance basis with penalties for contamination and bonuses for recovery rates exceeding targets
 - **The NEB oversees** (waste falls under the energy/environment portfolio) — it does not operate. The NEB sets standards, audits performance, and publishes recovery rates. The co-ops do the work
+- **Contamination verification.** The NEB shall establish and publish **standardized, objective verification protocols** for measuring incoming stream contamination at transfer stations — specifying sampling methodology, frequency, measurement equipment, and reporting format. Contamination data from these protocols is the **sole basis** for performance-contract penalties and for the Source-Contamination Exemption (below). No penalty or exemption may rest on subjective assessment or unstandardized measurement
 - **Regional Boards coordinate** collection schedules, facility siting, and inter-municipal logistics
+
+**Source-Contamination Exemption Clause.**
+
+Co-op concession performance contracts include contamination-rate targets — the co-op is penalized if its sorted output exceeds baseline contamination levels (e.g., >3% non-recyclable material in the recyclable stream). This is fair when the co-op controls sorting quality. It is **unfair when the incoming municipal stream is degraded** beyond the co-op's sorting capacity — a large construction project dumping unsorted debris, a commercial district changing waste composition, or a seasonal tourism surge overwhelming sorting lines.
+
+| Element | Detail |
+|---|---|
+| **Baseline** | The NEB publishes a **quarterly municipal contamination baseline** for each collection zone — the expected contamination rate in the incoming stream based on the zone's composition (residential, commercial, industrial, mixed) |
+| **Exemption trigger** | If incoming contamination in a collection zone exceeds the published baseline by **more than 15%** in any reporting period, the co-op's contamination penalty is **suspended** for that zone and that period |
+| **Investigation** | Suspension triggers an **NEB investigation of the source** — the municipality, waste generator, or commercial district responsible for the degraded stream. The co-op is not the subject of the investigation; it is the reporter |
+| **Co-op obligation during exemption** | The co-op continues processing to the best of its sorting capacity. It is not excused from sorting — only from the penalty for sorting results it cannot control. Material that cannot be sorted at the elevated contamination level is diverted to WTE (§3), not to landfill |
+| **Duration** | The exemption lasts until the incoming contamination returns to within 15% of baseline for two consecutive reporting periods, OR until the NEB investigation identifies and remedies the source |
+
+*Why this matters.* Without the exemption, a co-op facing a contaminated incoming stream has two bad choices: spend unsustainable amounts on sorting to avoid the penalty, or accept the penalty and lose its performance bonus. Both weaken the co-op. The exemption creates a third option: process as best you can, report the source problem, and let the NEB fix the upstream failure. The co-op's incentive stays aligned — they still want clean streams (more recovery = more revenue) — they just aren't punished for someone else's failure
 
 ---
 
@@ -98,6 +113,30 @@ All durable goods sold in New Crossroads must be **repairable by the owner or an
 - Software locks that prevent third-party repair are prohibited
 - Warranty may not be voided by third-party repair
 
+### 2.5 Commodity Floor-Price Stabilizer
+
+Recycled-commodity markets (scrap metal, recycled PET, waste paper, cullet) are globally volatile — scrap steel can swing 40% in a single year, tracking virgin commodity prices that have nothing to do with domestic recycling efficiency. A recycling co-op with zero tax and generation-cost power still fails if its output price drops below cost for two consecutive quarters. China's National Sword policy (2018) proved this worldwide — when scrap prices crashed, recycling operations with healthy fundamentals closed because the output was temporarily worthless.
+
+**The CCIF Commodity Stabilization Facility.**
+
+The CCIF (FCL Act §3.8) establishes a **commodity stabilization window** for designated recovered materials:
+
+| Element | Detail |
+|---|---|
+| **Designated materials** | Scrap steel, scrap aluminium, scrap copper, recycled PET, recycled HDPE, waste paper/cardboard, cullet (glass). The NEB designates materials and reviews the list annually |
+| **Floor price** | Set by the NEB at the **weighted-average break-even cost** of the nation's recycling co-ops for that material — calculated from audited operating costs at generation-cost utilities and zero tax. Published quarterly. The floor is not a subsidy price — it is the real cost of processing at New Crossroads' structural advantages |
+| **Trigger** | When the spot market price for a designated material falls **below the published floor for 30 consecutive days**, the stabilization window opens |
+| **Mechanism** | The CCIF purchases output from recycling co-ops at the floor price and **holds inventory** until the market recovers above the floor + 10% (the release threshold). The CCIF sells the inventory at market, recovering its outlay. The facility is **self-liquidating** — commodity prices are cyclical, and the CCIF buys low and sells on the recovery |
+| **Funding** | The CCIF's existing capital pool (~$991B, scaling to ~$3T+). The commodity stabilization draw is capped at **2% of CCIF assets** in any given year — enough to absorb a severe global price crash without endangering the pool's lending capacity |
+| **Duration cap** | The stabilization window may remain open for a maximum of **18 months** per material per cycle. If the market has not recovered above the floor after 18 months, the NEB reviews the floor price — it may be structurally too high, and the co-ops need to adjust costs rather than rely on indefinite stabilization |
+| **Storage** | CCIF inventory holding facilities (warehouses, staging yards, covered storage for purchased commodities) receive the **same zero-property-tax and at-cost utility status** as recycling processing plants (§1.2). Municipal transfer stations shall **reserve zoned land for emergency material staging** — pre-designated, permitted, and available on 48 hours' notice when the stabilization window opens. A floor-price buy is useless without somewhere to put 50,000 tonnes of scrap |
+
+*Why the CCIF and not the SWF.* The SWF may never fund operations (Sovereign Functions Act §5.4 — absolute bar). Commodity stabilization is operational support — buying output from working co-ops to keep them working. The CCIF exists precisely to support co-op viability through difficult periods. The stabilization facility is a natural extension of that mandate.
+
+*Why this isn't a price-support scheme.* A price support pays above-market prices indefinitely — distorting signals and creating dependency. The CCIF stabilization facility buys at cost (not above market), holds temporarily, and sells at market on recovery. It smooths the cycle rather than overriding it. If a material is genuinely uneconomic to recycle (the floor price exceeds the long-run market price), the 18-month cap forces a structural reassessment rather than permanent subsidy.
+
+*What this protects.* The zero-tax, generation-cost-utility advantage makes New Crossroads recyclers the lowest-cost processors on Earth. But "lowest cost" doesn't mean "profitable at any output price." A global commodity crash that pushes scrap aluminium from $1,500/tonne to $600/tonne makes even the cheapest recycler unprofitable. The stabilization facility bridges that gap — keeping the co-ops operational, the workers employed, and the recycling stream flowing while the market recovers. Without it, a 6-month price crash could close co-ops that took years to build, destroying capacity that takes years to rebuild.
+
 ---
 
 ## Section 3: WTE Ash Management — The Closed Loop
@@ -140,6 +179,8 @@ Treated fly ash (heavy metals stabilized through chemical fixation or washing) i
 - **Hempcrete enhancement** — 5–10% fly ash by binder weight improves moisture resistance and compressive strength
 - **CO2-cured products** — fly ash is even more reactive with CO2 than bottom ash. The carbonation is faster and more complete
 - **Soil amendment** — pH-neutralized fly ash (after heavy-metal removal) can improve soil structure in degraded agricultural land
+
+**Residential safety standard.** Fly ash incorporated into residential construction materials (hempcrete, aggregate blocks, interior finishes) shall meet **NEB indoor toxicity and non-leaching standards** — published, testable, and enforced through the Housing Act §2.3 material-specification process. Non-conforming fly ash is **restricted to industrial infrastructure applications** (road base, rail ballast, commercial foundations) **or vitrification** (§3.5). No fly ash enters a Durahome without passing the residential standard. The NEB publishes the testing protocol; the housing co-op's material supplier certifies compliance; the Regional Board spot-audits
 
 ### 3.5 Hazardous Residual → Repository Sealing
 
@@ -248,9 +289,10 @@ All packaging sold or distributed in New Crossroads must be **recyclable through
 All beverage containers (glass, aluminium, PET) carry a **refundable deposit** (~$0.10–$0.25/unit, DLB-indexed):
 
 - Paid at purchase, refunded at return
-- Return points at every credit union branch (they already have foot traffic) and every grocery co-op
-- Unredeemed deposits fund recycling co-op operations
-- Target: **95%+ return rate** (comparable to Germany's 98% return rate on deposit bottles)
+- Return points are **dedicated bottle depots only** — small co-op operations licensed under the recycling FCL structure, receiving the full zero-tax, generation-cost utility, zero-property-tax advantage (§1.2). Depots are sited by Regional Boards to ensure coverage (~1 per 5,000–8,000 residents). Grocery and retail co-ops do not collect containers — they sell beverages, not waste. Keeping the streams separate prevents cross-contamination and keeps retail co-ops focused on their core function
+- Depot co-ops process, sort, and bale returned containers on-site before forwarding to material-specific recycling co-ops. The depot is the **first link in the recycling chain**, not the last link in the retail chain
+- Unredeemed deposits fund depot co-op operations and recycling co-op processing
+- Target: **95%+ return rate** (comparable to Germany's 98% return rate on deposit bottles and Alberta's 85%+ rate through dedicated depots)
 
 ---
 
