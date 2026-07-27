@@ -46,7 +46,7 @@ Any citizen may petition the Supreme Court to review any sovereign act for consi
 ### 2.1 The Military
 
 - **Command:** Civilian command of the standing professional force (~125K + CMIS) vests in the Sovereign Council (Section 6). The Council does NOT command the 9.1M regional militia — that force answers to the Territorial Chamber (Chamber Act §3.3).
-- **Funding:** the recurring operating budget is **~$52B (2025), rising to ~$65–75B (2075)** — a stable **~$40B/year from sovereign revenue (Section 7)**, supplemented by the Defense Fund endowment's returns as it matures (~$4B in 2025 against a ~$100B endowment; ~$15–25B at maturity against ~$920B). Never from issuance; never from the SWF principal.
+- **Funding:** the recurring operating budget is **~$51B (2025), rising to ~$65–71B (2075)** — a stable **~$46B/year from sovereign revenue (Section 7)**, supplemented by the Defense Fund endowment's returns as it matures (~$5B in 2025 against a ~$100B endowment at ~5% blended return; ~$19–25B at maturity against ~$920B). Never from issuance; never from the SWF principal.
 
 
 - **Domestic bar:** The military has no domestic policing, surveillance, or enforcement role. It may not be deployed against citizens, may not access the CED, and holds no jurisdiction inside the border except on declared invasion. Its only domestic presence is the school liaison seat (Chamber Act §8.3), conferring no command or enforcement role.
@@ -61,7 +61,7 @@ Any citizen may petition the Supreme Court to review any sovereign act for consi
 
 ### 2.2 Foreign Affairs
 
-- **Treaties:** Negotiated by the Sovereign Council; ratified by both chambers jointly; universal citizen vote required for any treaty binding domestic law.
+- **Treaties:** Negotiated by the Sovereign Council; ratified by the Territorial Chamber and the Productive Chamber jointly; universal citizen vote required for any treaty binding domestic law.
 - **Treaty-limbo rule:** A treaty binding domestic law takes no effect until the Supreme Court rules or 180 days pass without petition. No treaty slips into force ahead of review.
 - A treaty may not breach any entrenched floor (Chamber §11) or protected guarantee (Chamber §12), create a surveillance obligation, a monetary obligation on the printer, a tax on homes beyond §4.3, or subordinate the Informal Economy Guarantee. Inconsistent treaties are void as domestic law.
 
@@ -122,11 +122,11 @@ Every power in this act is checked by a judge. The judiciary is the load-bearing
 
 ### 4.1 Structure
 
-**Regional courts.** 200 judges (10 per region), 10-year terms. Appointed by the Territorial Chamber (6/11 Regional Board vote), confirmed by both Productive Chambers jointly. First-instance jurisdiction over all civil, criminal, and constitutional questions arising in their region, including the downward-presumption determinations (§1.2), pool-classification disputes (Chamber Act §6.4), floor/guarantee threshold classifications (Chamber Act §6.3), and the pre-enactment advisory rulings on Tier-1/informal obligation (Chamber Act §4.3).
+**Regional courts.** 200 judges (10 per region), 10-year terms. Appointed by the Territorial Chamber (6/11 Regional Board vote), confirmed by the Productive Chamber. First-instance jurisdiction over all civil, criminal, and constitutional questions arising in their region, including the downward-presumption determinations (§1.2), pool-classification disputes (Chamber Act §6.4), floor/guarantee threshold classifications (Chamber Act §6.3), and the pre-enactment advisory rulings on Tier-1/informal obligation (Chamber Act §4.3).
 
-**Appellate circuits.** 5 circuits of 4 regions each, 5 judges per circuit (25 total), 10-year staggered terms. Appointed by the Territorial Chamber (11/20), confirmed by both Productive Chambers jointly. Sit in panels of 3 for routine appeals; sit en banc (all 5) when a panel would overrule circuit precedent or when the question has cross-circuit implications. A circuit split — two circuits reaching opposite conclusions on the same legal question — triggers automatic Supreme Court review.
+**Appellate circuits.** 5 circuits of 4 regions each, 5 judges per circuit (25 total), 10-year staggered terms. Appointed by the Territorial Chamber (11/20), confirmed by the Productive Chamber. Sit in panels of 3 for routine appeals; sit en banc (all 5) when a panel would overrule circuit precedent or when the question has cross-circuit implications. A circuit split — two circuits reaching opposite conclusions on the same legal question — triggers automatic Supreme Court review.
 
-**Supreme Court.** 7 justices, 15-year staggered terms, mandatory retirement at 75, decisions by 5/7 of sitting justices (but never fewer than 4 affirmative votes regardless of vacancies). Nominated by the Territorial Chamber, confirmed by both Productive Chambers jointly. Hears constitutional questions (including floor/guarantee classification, function-assignment under the downward presumption, clarificatory-vs-substantive amendment determinations, and circuit splits), inter-regional disputes, chamber conflicts, fraud-cap appeals, takings appeals (§4.3), and floor/guarantee review (Chamber Act §11, §12).
+**Supreme Court.** 7 justices, 15-year staggered terms, mandatory retirement at 75, decisions by 5/7 of sitting justices (but never fewer than 4 affirmative votes regardless of vacancies). Nominated by the Territorial Chamber, confirmed by the Productive Chamber. Hears constitutional questions (including floor/guarantee classification, function-assignment under the downward presumption, clarificatory-vs-substantive amendment determinations, and circuit splits), inter-regional disputes, chamber conflicts, fraud-cap appeals, takings appeals (§4.3), and floor/guarantee review (Chamber Act §11, §12).
 
 **Staggering.** Supreme Court terms are staggered so that no more than 2 vacancies arise in any 5-year period. Initial seating assigns terms of 15, 13, 11, 9, 7, 5, and 3 years; thereafter all terms are 15 years. Appellate judges are staggered within each circuit on a similar pattern.
 
@@ -158,7 +158,7 @@ The mutuals are the system; the SWF stands behind the system when the system its
 
 - The SWF — **seeded at ~$230B (3.8% of GDP), capped at 12% of GDP (~$720B in 2025, ~$2.28T in 2075)** — and the Defense Fund endowment (~$100B in 2025, ~$920B at maturity, outside the cap).
 - **What the SWF is for:** crisis liquidity (the RLP→SWF line), revolving industrial and housing-construction lending, and the Defense Fund. **It is not the state's capital budget** — education, sustainability, R&D, parks, and the military are general-revenue spending funded under Section 7 (Monetary Act §2.1).
-- The **CCIF (~$991B)** is the co-op sector's own pool, chamber-governed, not a sovereign asset. It is uninsured and carries **no sovereign backstop** — its prudential rules are in FCL Act §3.8.6. The Citizens' Metals ETF backs its shareholders. The sovereign metals reserve is a strategic asset — physical custody with National Lands and Commons (§6A.3), financial management by Treasury (§6A.1) — never listed, never traded.
+- The **CCIF (~$100B at founding, ~$991B at maturity)** is the co-op sector's own pool, chamber-governed, not a sovereign asset. It is uninsured and carries **no sovereign backstop** — its prudential rules are in FCL Act §3.8.6. The Citizens' Metals ETF backs its shareholders. The sovereign metals reserve is a strategic asset — physical custody with National Lands and Commons (§6A.3), financial management by Treasury (§6A.1) — never listed, never traded.
 
 ### 5.2 What Remains Automatic
 
@@ -183,11 +183,11 @@ The nation's foreign and reserve assets — the SWF's foreign allocation and the
 
 1. **Concentration ceiling:** no more than **20%** of total foreign and reserve assets may be held in instruments denominated in, or issued by entities domiciled in, any single foreign nation. No single sovereign may hold enough of New Crossroads' reserves to use as leverage.
 
-2. **Sanctions-resilience floor:** no more than **30%** of total foreign and reserve assets may be held in instruments **freezable by any single foreign sovereign** — bonds, bank deposits, and custodied securities within that nation's jurisdiction. The remaining **70%+** must be in domestically held physical assets (SMSWF metals in domestic vaults, strategic commodity stockpiles in domestic warehouses) or diversified across jurisdictions beyond any single nation's legal reach.
+2. **Sanctions-resilience floor:** no more than **30%** of total foreign and reserve assets may be held in instruments **freezable by any single foreign sovereign** — bonds, bank deposits, and custodied securities within that nation's jurisdiction. The remaining **70%+** must be in domestically held physical assets (SMSF metals in domestic vaults, strategic commodity stockpiles in domestic warehouses) or diversified across jurisdictions beyond any single nation's legal reach.
 
 3. **No exchange-rate intervention:** the SWF and the foreign-currency reserve may participate on the FX Board (Exchange Act §3.7) to build or rebalance holdings, but **may never buy or sell BWC to defend a particular exchange rate** (Exchange Act §3.7.3 — absolute bar).
 
-*Why this is entrenched.* In 2022, a G7 coalition froze ~$300B of a sovereign nation's foreign reserves — approximately 60% of its holdings — because those reserves were concentrated in Western sovereign bonds and Western bank deposits. The nation retained access only to its ~$130B in domestically held physical gold. New Crossroads' reserve architecture is designed from founding to survive the same scenario: **gold-heavy, bond-light, domestically stored, globally diversified.** The 70%+ unfreezeble floor means that even a coordinated freeze by every G7 nation simultaneously would reach less than 30% of the reserve — a manageable loss, not a strategic catastrophe. The SMSWF's one-way accumulation of physical gold in domestic vaults (Exchange Act §3.6 — non-redeemable, never leaving) is the structural foundation of this resilience.
+*Why this is entrenched.* In 2022, a G7 coalition froze ~$300B of a sovereign nation's foreign reserves — approximately 60% of its holdings — because those reserves were concentrated in Western sovereign bonds and Western bank deposits. The nation retained access only to its ~$130B in domestically held physical gold. New Crossroads' reserve architecture is designed from founding to survive the same scenario: **gold-heavy, bond-light, domestically stored, globally diversified.** The 70%+ unfreezeble floor means that even a coordinated freeze by every G7 nation simultaneously would reach less than 30% of the reserve — a manageable loss, not a strategic catastrophe. The SMSF's one-way accumulation of physical gold in domestic vaults (Exchange Act §3.6 — non-redeemable, never leaving) is the structural foundation of this resilience.
 
 These constraints may be amended only at the **middle bar** (Chamber Act §10.5 — supermajorities of the relevant chambers plus a simple-majority universal referendum). A future Treasury that wanted to concentrate reserves in high-yielding US Treasuries for the return would have to clear the same bar that protects the entrenched floors.
 
@@ -208,7 +208,7 @@ The smallest body that can command the military, conduct diplomacy, nominate aud
 
 **Initial seating.** At inauguration, Class A (3 seats) receives full 5-year terms. Class B (3 seats) receives 30-month initial terms, then full 5-year terms thereafter. The wildcard receives a full 5-year term beginning 15 months after Class A. After the initial cycle, all seats carry standard 5-year terms on their staggered schedule. The one-term limit applies per seat: a shortened initial term in Class B counts as the member's one term.
 
-**Selection.** The 6 professional seats: nominated by the Territorial Chamber, confirmed by both Productive Chambers jointly. The 1 wildcard: elected directly by the universal citizen vote.
+**Selection.** The 6 professional seats: nominated by the Territorial Chamber, confirmed by the Productive Chamber. The 1 wildcard: elected directly by the universal citizen vote.
 
 **Vacancy.** A mid-term vacancy is filled through the same nomination-and-confirmation path (wildcard by universal vote). The replacement serves the remainder of the term only. A remainder of 30 months or less does not count as the member's one term — they may be nominated for a subsequent full term. A remainder exceeding 30 months counts as their term.
 
@@ -286,14 +286,15 @@ Set in full at Monetary Act §4; collected by Treasury (§6A.1); rates set by th
 | Source | Rate | ~Annual |
 |---|---|---|
 | **Personal income above $100,000** | 20% ($100k–$250k) · 30% ($250k–$1M) · 40% (>$1M); **0% below $100,000**, formal and informal alike | ~$144B |
-| **Federal VAT** | **5%**; the Daily Living Basket is zero-rated | **~$166B** |
+| **Federal VAT** | **6%**; the Daily Living Basket is zero-rated | **~$199B** |
 | **Tariffs** | ~9.8% average on imports (§2.3) | ~$49B |
 | **Co-op profit tax** | 5% over $100k on ~$400B of co-op net profit | ~$20B |
 | **Corporate profit tax** | 0 / 10 / 20 / 25% tiered | ~$25B |
 | **National property layer** | 0.75% on commercial/industrial (municipal cost-of-service stacks on top) | ~$19B |
 | **Resource cut** | 40% of a 12% regional royalty + profit tax on resource firms; royalties are regional own-source | ~$22.7B |
 | **Excise** | 3% on fuel/goods | ~$15B |
-| **Total** | | **~$460B** |
+| **Parks Index** | Cottage/timeshare auction revenue (Parks Act §5.1) | **~$2B** |
+| **Total** | | **~$495B** |
 
 
 
@@ -313,11 +314,12 @@ Set in full at Monetary Act §4; collected by Treasury (§6A.1); rates set by th
 |---|---:|---|---|---:|
 | Sustainability projects | ~$50B | | Education vouchers (the family picks the school) | ~$170B |
 | Military (sovereign share) | ~$46B | | Healthcare bottom-tier subsidy (the citizen picks the provider) | ~$45B |
-| R&D / Innovation Hubs | ~$30B | | Citizen dividend (§7.4) | (surplus) |
-| National infrastructure buildout | ~$20B | | | |
+| R&D / Innovation Hubs | ~$30B | | **Mandatory-service stipends** (the citizen chooses the trade — Education Act §4) | **~$13.5B** |
+| National infrastructure buildout | ~$20B | | Citizen dividend (§7.4) | (surplus) |
 | Parks | ~$20B | | | |
 | The four functions | ~$20B | | | |
-| **Subtotal** | **~$196B** | | **Subtotal** | **~$215B** |
+| **Universal savings match** | **~$8B** | | | |
+| **Subtotal** | **~$196B** | | **Subtotal** | **~$228.5B** |
 | **= 3.3% of GDP — inside the cap** | | | | |
 
 **Classification is justiciable, and the presumption runs against the sovereign.** Any citizen may petition the Supreme Court (§1.4) to reclassify a line. **Spending is presumed to be an operation unless the sovereign shows a citizen directs it** — the same inverted burden as the downward presumption of §1.2, for the same reason: the body that benefits from a generous reading is the body that must not hold the pen.
@@ -328,7 +330,7 @@ Set in full at Monetary Act §4; collected by Treasury (§6A.1); rates set by th
 >
 > **It is also what makes the falling cap true.** Operations at ~$196B against a ~$19T GDP is **~1.0%** — under the 2% target without any effort, because operations are physically anchored (a judiciary, eight submarines, a rail network) while the economy triples around them. The sovereign shrinks because the nation grew.
 
-**Spending sits at ~$411B total — ~$196B of operations (3.3% of GDP) and ~$215B of transfers.**
+**Spending sits at ~$424.5B total — ~$196B of operations (3.3% of GDP) and ~$228.5B of transfers.**
 
   > **The cap falls because GDP triples, not because the Defense Fund matures.** Operations are physically anchored; the economy grows around them. At ~$19T GDP, operations at ~$196B are ~1%.
 
@@ -344,19 +346,21 @@ Set in full at Monetary Act §4; collected by Treasury (§6A.1); rates set by th
 | **National infrastructure buildout** (§6A.4; Infrastructure, Energy, Communications Acts) | **~$20B** |
 | Parks | ~$20B |
 | The four functions — judiciary, auditors, four bureaus | ~$20B |
-| **Total** | **~$411B (~6.9% of GDP)** |
+| **Mandatory-service stipends** (Education Act §4) | **~$13.5B** |
+| **Universal savings match** | **~$8B** |
+| **Total** | **~$424.5B (~7.1% of GDP)** |
 
 > **The infrastructure line is new, and its absence was doing real damage.** This table had no line for the freeway, the 75,000 km rail network, grid hardening, or the communications backbone — while the Transport Bureau (§6A.4) is charged with building three of the four. **So four acts funded them from the SWF instead**, because it was the only pot with a large number attached. The claims totalled **~$629B against a ~$230B corpus** — the fund liquidated 2.7× over — and since access fees recover only maintenance (Infrastructure §3.2; Communications §2.1), **none of it would ever have returned.** Monetary §2.1 forbids exactly this: *"the SWF is the state's revolving lender... it is not the state's capital budget."*
 >
-> **A budget with no line for a thing the state is building does not stop the building. It just moves the money somewhere nobody is counting.** The line is here now, sized to the front-loaded first phase (~$20B/year through ~2035, declining as the buildout completes). It is what the VAT went to 3% to carry.
+> **A budget with no line for a thing the state is building does not stop the building. It just moves the money somewhere nobody is counting.** The line is here now, sized to the front-loaded first phase (~$20B/year through ~2035, declining as the buildout completes). It is what the VAT increase to 6% helps carry.
 
-> **The military line is the sovereign's share only.** The full military budget (~$52B) includes Defense Fund returns (~$6B). This table carries the sovereign portion.
+> **The military line is the sovereign's share only.** The full military budget (~$51B at founding) includes Defense Fund returns (~$5B). This table carries the sovereign portion.
 
 
 
 ### 7.4 Surplus and the Bars
 
-- Surplus flows to the SWF (within the 12% cap) or to the **citizen dividend**. The sovereign cannot accumulate. Once the SWF is capped — projected ~2029 — Monetary §2.3 redirects SWF contributions to general revenue, and this section sends them onward to the dividend: **~$152B/year, ~$1,359 per citizen**, in cash, tax-free, reaching the informal majority that files nothing.
+- Surplus flows to the SWF (within the 12% cap) or to the **citizen dividend**. The sovereign cannot accumulate. Once the SWF is capped — projected ~2029 (Year 4) — Monetary §2.3 redirects SWF contributions to general revenue, and this section sends them onward to the dividend: **~$157B/year, ~$1,400 per citizen** at founding-era rates, in cash, tax-free, reaching the informal majority that files nothing. No dividend during the build phase (Years 1–3). Both channels scale with GDP: ~$3,500–4,500/citizen at maturity.
 - No issuance, no debt, no SWF-principal draw.
 - The Public Accounts Committee scrutinizes all spending against the cap.
 
@@ -372,7 +376,7 @@ The sovereign may never:
 2. Tax residential land or the primary home; or take a home except under §4.3 (public infrastructure only, market-plus-10%, judicially ratified, never private-to-private).
 3. Surveil the citizen: no sub-threshold cash access, no PPK/CED merger outside the Link Box, no bulk warrant, no domestic surveillance mission, **no audit of any income below $100,000** (§3.4).
 4. Turn CMIS inward: architectural separation is mandatory; any inward capability is void.
-5. Regulate the domestic economy: prices, rates, **exchange rates**, entry, licensure, lending standards, listing standards, and sector policy belong to the rules, mutuals, chambers, and councils. **No organ of the sovereign may target, defend, peg, or band the BWC exchange rate** (Exchange Act §3.7.3). Rural governance is a **regional function** — Regional Boards subdivide into administrative districts and may delegate operational functions to local co-op councils (Municipal & Regional Funding Act §2.6).
+5. Regulate the domestic economy: prices, rates, **exchange rates**, entry, licensure, lending standards, listing standards, and sector policy belong to the rules, mutuals, chambers, and councils. **No organ of the sovereign may target, defend, peg, or impose a permanent band on the BWC exchange rate** (Exchange Act §3.7.3). Rural governance is a **regional function** — Regional Boards subdivide into administrative districts and may delegate operational functions to local co-op councils (Municipal & Regional Funding Act §2.6).
 6. Appoint into, veto, or dissolve any chamber, credit union, mutual fund, municipal council, or the domestic Exchange.
 7. Carry sovereign debt or issue bonds.
 8. Suspend elections, recalls, the citizen vote, or the Informal Economy Guarantee — including under Tier-2 mode.
@@ -388,7 +392,7 @@ A sovereign act inconsistent with this section is void, reviewable by the Suprem
 | Function | Organ | Check |
 |---|---|---|
 | Defense and foreign affairs | Sovereign Council (7, staggered) | Territorial 15/20 war ratification; Defense and Foreign Affairs Committee; continuity floor of 4 |
-| Military budget | ~$52B (2025) → ~$65–75B (2075) | ~$46B sovereign revenue + ~$6B Defense Fund returns |
+| Military budget | ~$51B (2025) → ~$65–71B (2075) | ~$46B sovereign revenue + ~$5B Defense Fund returns (demand-driven draw at ~5% blended) |
 | Independent prosecution | Special Auditors (50-75) | 14-day judicial freeze; joint removal; citizen veto; press floor; Public Accounts Committee; committee-referral obligation; **no audit below $100k** |
 | First-instance judgment | Regional courts (200: 10/region) | Appellate review; constitutional review |
 | Appellate review | 5 circuits, 5 judges each (25 total) | Circuit splits trigger Supreme Court review; en banc for precedent-overrule |
@@ -397,7 +401,7 @@ A sovereign act inconsistent with this section is void, reviewable by the Suprem
 | Takings | Transport Bureau | Public-infra only; market+10%; judicial ratification |
 | Fund of last resort | SWF (~$230B seed, 12% cap) + Defense Fund (~$100B → ~$920B) | Auto stabilizers; Tier-2 sunsets; **no defense exception to §5.4**; Public Accounts Committee |
 | SWF reaches its cap | ~2029 (year 4) | Contributions redirect to general revenue (Monetary §2.3) |
-| Citizen dividend (once capped) | ~$152B/yr — ~$1,359/citizen | Cash, tax-free; the only channel reaching the informal economy |
+| Citizen dividend (post-cap, ~2029 onward) | ~$157B/yr — ~$1,400/citizen at founding-era rates; scaling to ~$3,500–4,500 at maturity | Cash, tax-free; the only channel reaching the informal economy. No dividend during build phase (Years 1–3) |
 | Market supervision | Treasury Capital Markets Bureau | Financial Services Committee; Special Auditors prosecute |
 | Fiscal administration | Treasury | Economic Affairs Committee; Public Accounts Committee |
 | Diplomacy administration | Foreign Affairs Bureau | Defense and Foreign Affairs Committee |
@@ -405,8 +409,8 @@ A sovereign act inconsistent with this section is void, reviewable by the Suprem
 | Transport operations | Transport Bureau | NInfraB standards; Energy and Infrastructure Committee |
 | Election integrity | Election Integrity Commission (11; Chamber Act §9.5) | Ethics & Standards Committee; Supreme Court nominates; referrals to Special Auditors |
 | Foreign-asset resilience | §5.7: 20% concentration ceiling per nation; 30% max freezable; 70%+ in domestic physical assets or globally diversified. Entrenched at middle bar | Treasury Investment Mandate (Monetary §2.1A); Special Auditors |
-| **Revenue** | **~$460B** — VAT 5% $166B · income >$100k $144B · tariffs $49B · corporate profit $25B · resources $22.7B · co-op profit $20B · property $19B · excise $15B | Cap 4% → 2% of GDP; Public Accounts Committee |
-| **Spending** | **~$411B total** — **operations ~$196B (3.3% of GDP, inside the 4% cap)**: sustainability $50B · **military $46B** · R&D $30B · infrastructure $20B · parks $20B · four functions $20B · **savings match $8B**. **Transfers ~$215B**: education vouchers $170B · healthcare subsidy $45B | Cap binds operations only (§7.2); classification justiciable. No debt, no issuance, no SWF draw |
+| **Revenue** | **~$495B** — VAT 6% $199B · income >$100k $144B · tariffs $49B · corporate profit $25B · resources $22.7B · co-op profit $20B · property $19B · excise $15B · Parks Index $2B | Cap 4% → 2% of GDP; Public Accounts Committee |
+| **Spending** | **~$424.5B total** — **operations ~$196B (3.3% of GDP, inside the 4% cap)**: sustainability $50B · **military $46B** · R&D $30B · infrastructure $20B · parks $20B · four functions $20B · **savings match $8B**. **Transfers ~$228.5B**: education vouchers $170B · healthcare subsidy $45B · **mandatory-service stipends $13.5B** | Cap binds operations only (§7.2); classification justiciable. No debt, no issuance, no SWF draw |
 | Profit taxation | **Federal only** | Regions levy income tax and VAT; no level may tax residential land |
 | Domestic force | Not the sovereign | Militia to Territorial; police to municipalities; prosecutors to Regional Boards |
 | Growth | Closed list (§1.1) | Highest bar to add; ordinary bar to shrink |
