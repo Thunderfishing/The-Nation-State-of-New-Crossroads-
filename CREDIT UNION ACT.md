@@ -333,8 +333,6 @@ Annual maturities from 1 to 10 years, plus a 15-year term for institutional use.
 *Why the 15-year.* Credit unions lend on 20–25 year mortgages (Housing Act §3.2). A 15-year GIC plus a 10-year GIC rolled over covers the funding side. Without it, the longest CU funding source is 10 years against 25 years of lending — a duration mismatch. The 15-year closes the gap for institutional balance sheets without asking retail citizens to lock cash for two decades. The GIC Ladder Fund ETF on the Exchange (Exchange Act §3.7) provides blended long-term exposure for citizens who want it without individual lock-up.
 
 *The 75-basis-point term premium (1-year to 10-year) is deliberately shallow.* A real-world yield curve might span 200–300 basis points. This one spans 100 points (3.0% to 4.0%) because the curve is not pricing default risk — every GIC is DIP-insured. The premium compensates only for **time preference** (giving up liquidity), not for credit risk. That's why the curve is flatter than any real-world sovereign curve. The 15-year adds another 25 points (to 4.25%) as a genuine institutional premium — recognizing that a 15-year lock-up is qualitatively different from a 10-year one.
-| Bonds / FCL Equity | $5B | reference to reference + 0.5% | 3.5–4% | |
-| Savings Bonds | $47B | reference − 0.5% to reference | 3–3.5% | |
 
 **Investment products (member-owned; the member takes the risk and receives the return):**
 
@@ -595,7 +593,7 @@ The Monetary Act's **rolling jubilee** (§2.2) converts qualifying debt into Fre
 ### 6.2 Special Shares Oversight
 
 - Each series requires Regional Board approval (6/11). Series tracked via CED at aggregate level; individual purchases private below $10,000.
-- **Local-priority window** compliance (the full 30 days, advance posting) is verified by the Regional Board; a board may not shorten the window or steer the local tranche to outside investors.
+- **Local-priority window** compliance (the full 14 days, advance posting) is verified by the Regional Board; a board may not shorten the window or steer the local tranche to outside investors.
 - **National secondary market** activity is reported to Regional Boards quarterly in aggregate volume, together with each credit union's **member-vs-investor special-share equity split** (the §3.3 disclosure). No cap on outside ownership; transparency is the discipline.
 - **No cumulative subscription cap.** The $1,000–$25,000 range is per series (§3.2). No body may impose a lifetime ceiling on special-share holding, and no citizen is disqualified as a buyer by prior subscriptions.
 
@@ -869,19 +867,23 @@ Special shares are the engine: each series adds its own value in capital and **~
 | Item | Detail |
 |---|---|
 | What it is | Uninsured equity (capital), subordinate to all depositors; loss-absorbing |
-| Dividend (yrs 1–3) | 7% / 6% / 5% step-down (paid for committing through the lock-up) |
+| **Maturity** | **20 years from issuance — automatic redemption at par. Not perpetual** |
+| Dividend (yrs 1–3) | 7% / 6.5% / 6% step-down (paid for committing through the lock-up) |
 | Dividend (yr 4+) | Reference rate + 2%, standardized & floating — every tradable share pays the same coupon |
-| Lock-up | No secondary sale for 3 years from issue; redemption valve stays open |
+| Lock-up | No secondary sale for 3 years from issue; holder redemption ramp operates throughout |
+| **Holder redemption ramp** | **Years 0–3: 10%/yr. Years 3–10: 10%/yr or sell on Exchange. Years 10–20: 20%/yr or sell. Age 60+: 30%/yr. Year 20: automatic full redemption at par** |
+| **CU call** | **After Year 10, the CU may redeem at par at its discretion — shedding dividend obligations it no longer needs** |
 | Subscription cap | $1,000–$25,000 **per series**. No cumulative ceiling; no buyer disqualified by past subscriptions |
-| Primary issuance | 14-day local-priority window at par → national remainder at par |
+| Primary issuance | **14-day** local-priority window at par → national remainder at par |
 | Secondary market | Exchange Credit-Union Capital Board (§3.3); transfer = register change, CU balance sheet untouched; 90–110% band, risk-priced |
-| Redemption | Sell back to CU; $500/BWC/yr cap; reduces CU capital (the capped door) |
+| **Three doors** | **Transfer** (Exchange, no CU impact) · **Redemption** (holder sells back, capped by ramp) · **Call** (CU redeems, its choice after Year 10) |
 | Voting | Non-voting (member or investor); membership requires a residency-locked base share |
 | Insurance | None — the premium is the compensation for being uninsured |
 | Credit-line treatment | Counted at **par**, never market; only the first 24,000 BWC of total reserve counts (§4.4) |
 | Ownership disclosure | Member vs investor equity split published quarterly; no cap on outside ownership |
+| **Global Segment** | **After 5 years domestic trading at 95%+ par, up to 40% listable on Exchange Global Sound-Capital Segment. 60% stays domestic. International buyers accept CU credit risk — no sovereign guarantee** |
 | Loss position | Second rung: after the loan loss reserve, before the DIP (§4.3) |
-| Carry coverage | ~4.6× at system level (leveraged NII vs dividend obligation) |
+| Carry coverage | ~5× at system level (leveraged NII vs dividend obligation) |
 
 ---
 
