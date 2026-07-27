@@ -1,4 +1,4 @@
-# Crossroads Credit Union Act of 2025: Draft 5.9
+# Crossroads Credit Union Act of 2025: Draft 6.0
 
 ---
 
@@ -37,7 +37,7 @@ BWC is fiat. Not redeemable for metal, not backed by a metal reserve. Its value 
 
 Reserve = the ceiling; judgment and formula = the brakes beneath it, one per channel.
 
-- **Features:** real-time wallet status; the monthly BWC Purchasing Power Index (Section 1.4) on every wallet; CME-resilient via hardened grid and EMP-proof vaults.
+- **Features:** real-time wallet status; the monthly BWC Purchasing Power Index (Section 1.4) on every wallet; coronal mass ejection (CME)-resilient via hardened grid and EMP-proof vaults.
 
 *Rationale:* a fiat BWC disciplined by an explicit issuance anchor (Monetary Act §1.5), a 10% reserve, CLS credit judgment, and a published credit-line formula can fund a growing co-op economy without the credit scarcity a metal standard imposes. Trust comes from a transparent purchasing-power index and sound institutions, not from a redemption promise the system could not universally honor.
 
@@ -49,13 +49,13 @@ Credit unions self-recapitalize through:
 - **Fees:** transaction fees (Monetary §1.3 — 1% under 500 BWC; 0.3% from 500 to 10,000; a flat per-transaction fee above 10,000), checking fees, and liquidity fees.
   - **The cash swap is free in both directions and is no longer a revenue line** (Monetary §1.1). The ~$14.5B it notionally carried is gone, and gone deliberately: a state whose stated goal is that no citizen is penalized for using cash may not toll the only door into the cash layer. That revenue is **not** replaced by the sub-500 band — a nudge that raises what it was projected to raise has failed at its job, and the sub-500 band should collect little if it works. It is replaced by the transaction bands proper and by the revolving line's spread (§4.4).
 - **Loan interest:** anchored to the reference rate (Monetary Act §1.5A); micro and service-sector rates set deliberately below it (§4.2).
-- **Revolving credit line interest:** reference + 5% (~10%), on the line built into every wallet (§4.4). This is a real revenue line and the largest new one: the facility must fund itself out of its own spread, not out of the members' patronage.
-- **SMSWF profits:** ~$1.736B/year to credit unions.
+- **Revolving credit line interest:** reference + 5% (~8.5% at founding rates), on the line built into every wallet (§4.4). This is a real revenue line and the largest new one: the facility must fund itself out of its own spread, not out of the members' patronage.
+- **Sovereign Metals Streaming Facility (SMSF) profits:** ~$1.736B/year to credit unions.
 - **Citizens' Metals ETF & SWF investment returns:** grow member savings (not credit-union operating revenue; the ETF backs its shareholders, not the credit unions).
 
 **Recapitalization cycle:** each series raises ~$4B → at 2 series/year, ~$8B/year of new capital → **leveraged ~10× (§3.2)** and deployed as reference-rate-anchored co-op, corporate, and informal loans → loan interest and fees fund special-share dividends → strong performance attracts the next series.
 
-**Metal allocation for physical cash:** ~40% of the SMSWF gold/silver stream is allocated to minting the ~5% standardized metal flecks in polymer notes (Monetary Act), so the cash supply and its catastrophe floor grow organically with mining as GDP rises.
+**Metal allocation for physical cash:** ~40% of the SMSF gold/silver stream is allocated to minting the ~5% standardized metal flecks in polymer notes (Monetary Act), so the cash supply and its catastrophe floor grow organically with mining as GDP rises.
 
 ### 1.3 Informal Sector Mandate
 
@@ -64,7 +64,7 @@ Credit unions self-recapitalize through:
 Credit unions and CLS **must**:
 
 - **Extend the revolving credit line at wallet issue** (§4.4; Monetary §1.6A), sized by the published formula and by nothing else. No application, no income verification, no documentation, no cash-history review, no waiting — the line is there when the wallet is. Because Cash→BWC is free, a cash-earning citizen builds the reserve that grows the line on exactly the same terms as a salaried one, disclosing nothing to anyone.
-- Accept self-attested cash income as sufficient for micro-loan approval ($500–$5,000, 4% nominal — ventures and small-business capital, §4.2). No documentation, no income verification, no cash-history review.
+- Accept self-attested cash income as sufficient for micro-loan approval ($500–$5,000, reference + 0.5% (~4% at founding rates) — ventures and small-business capital, §4.2). No documentation, no income verification, no cash-history review.
 - Process micro-loan applications within **5 business days**. *(The former 24-hour rule was written for a $500 facility requiring no judgment. That facility is now the revolving line, which takes no time at all because nothing is processed. A venture or small-business loan up to $5,000 rests on an agent's actual credit judgment; a 24-hour promise on that would either be broken or make the judgment a formality. The speed commitment moves to where speed is free.)*
 - Post the current DLB threshold, the monthly BWC Purchasing Power Index, the reference rate, the loan rate table, the revolving-line formula, and any open special-share series and its local-priority window (§3.2) in all branches (physical and digital), updated as published.
 
@@ -101,7 +101,7 @@ Violations: Regional Board sanction, Special Auditor investigation (Sovereign Fu
 
 **Residency-locked control (base shares and voting).** To hold **base shares** and to **vote**, a member must reside within that credit union's field of membership. Base shares carry membership and the vote; locking them keeps each credit union governed by the community it serves. **Special shares are non-voting capital and are *not* residency-locked to hold** — they are local-priority on issue (the 14-day window, §3.2) and freely held and traded nationally thereafter (§3.3). Widening who holds non-voting capital never touches who controls the credit union.
 
-**Portable deposits, ETF, and special-share holding.** Deposits, withdrawals, cash transactions, checking, savings, multi-term GICs, retirement, mutual funds, loans, the national Citizens' Metals ETF, and **special-share holding** are all portable/national. A traveler or visitor may deposit, withdraw cash, and transact at any credit union. Only **base shares and the vote** are residency-bound.
+**Portable deposits, ETF, and special-share holding.** Deposits, withdrawals, cash transactions, checking, savings, multi-term Guaranteed Investment Certificates (GICs), retirement, mutual funds, insurance products, cryptocurrency (closed-loop, §4.1), loans, the national Citizens' Metals ETF, and **special-share holding** are all portable/national. A traveler or visitor may deposit, withdraw cash, and transact at any credit union. Only **base shares and the vote** are residency-bound.
 
 **Overlap eligibility.** Where two or more catchments cover a residence, the resident is eligible to join (take base shares and vote) in any of them. The mild local rate-shopping this permits is the intended competition, not a defect; the flat-and-slow reference band keeps the spread to chase small.
 
@@ -124,9 +124,9 @@ Violations: Regional Board sanction, Special Auditor investigation (Sovereign Fu
 
 | Tier | Requirements | Wallet ETF Investment Cap | Key Benefits & Bonuses |
 |---|---|---|---|
-| **Base** | 1–1,000 base shares ($1,000/BWC) | ~$300/BWC | 75% patronage to shares, full banking, voting rights |
-| **Silver** | + special shares | ~$15,000/BWC | +$50/BWC bonus, 80% patronage, +5% activity bonus, silver card |
-| **Gold** | $25,000/BWC special shares + 1,000 base | ~$20,000/BWC | +$200/BWC bonus, 0% savings fees, 0.5 advisory vote on non-SWF loans, 85% patronage, gold card |
+| **Base** | 1–1,000 base shares ($1,000/BWC) | ~$5,000/BWC | 75% patronage to shares, full banking, voting rights |
+| **Silver** | + special shares | ~$25,000/BWC | +$50/BWC bonus, 80% patronage, +5% activity bonus, silver card |
+| **Gold** | $25,000/BWC special shares + 1,000 base | ~$50,000/BWC | +$200/BWC bonus, 0% savings fees, 0.5 advisory vote on non-SWF loans, 85% patronage, gold card |
 
 *(Tier benefits require membership — a residency-locked base share in that credit union. ETF cap is an investment ceiling per tier — member protection — not a backing figure.)*
 
@@ -229,7 +229,7 @@ The holder may redeem shares back to the CU at par on the following schedule —
 - After issue, special shares are freely held and traded **nationally** and are **not residency-locked**. A holder outside the issuing credit union's field of membership is a **non-voting, non-member capital holder** — no vote, no membership, no tier benefits. Membership still requires a residency-locked base share (§3.1).
 - **Non-voting** (capital never buys board control — §6.1), except Gold-tier members' 0.5 advisory vote on ~$50B non-SWF loans.
 
-**Carry / solvency.** Special-share capital is leveraged ~10× into the loan book under the 10% requirement, so the capital earns the loan spread on a multiple of itself (plus fee, SMSWF, and investment income). At illustrative volumes, **~$8B of annual new special-share capital supports ~$80B of loans**, yielding ~$4.4B gross interest against ~$2.2B of deposit cost — **~$2.2B of net interest income against a ~$440M dividend obligation** (reference + 2% on the year's capital). Coverage: **~5×**. The carry is comfortable at the system level. The carry works comfortably at the system level. If the network's net interest margin ever compresses to where leveraged spreads plus other income cannot cover the dividend, that is a **system-level signal** addressed through the reference-rate review (Monetary §1.5A) and the Territorial Chamber — not a per-board adjustment.
+**Carry / solvency.** Special-share capital is leveraged ~10× into the loan book under the 10% requirement, so the capital earns the loan spread on a multiple of itself (plus fee, SMSF, and investment income). At illustrative volumes, **~$8B of annual new special-share capital supports ~$80B of loans**, yielding ~$4.4B gross interest against ~$2.2B of deposit cost — **~$2.2B of net interest income against a ~$440M dividend obligation** (reference + 2% on the year's capital). Coverage: **~5×**. The carry is comfortable at the system level. If the network's net interest margin ever compresses to where leveraged spreads plus other income cannot cover the dividend, that is a **system-level signal** addressed through the reference-rate review (Monetary §1.5A) and the Territorial Chamber — not a per-board adjustment.
 
 **Recapitalization impact:** each series adds its own value in capital and ~10× that in lending capacity. Shares mature at 20 years, creating a natural roll-off that the CU replaces with new issuance — the capital base is renewed, not accumulated. Over 50 years the capital base grows from **~$186B to ~$589B**, carrying the loan book from **~$1.86T to ~$5.89T**, with old series maturing and new series replacing them in a continuous cycle.
 
@@ -270,7 +270,7 @@ Special shares that have proven themselves domestically may graduate to the Exch
 
 *Rationale:* citizens should have a sound, inflation-resistant savings vehicle. The Citizens' Metals ETF provides one — and grows a national metals reserve as a byproduct — without that reserve backing the currency.
 
-- **Mechanism:** members invest part of their wallet into the BWC-administered metals ETF (gold/silver, plus SMSWF ETF). The ETF holds physical metal; returns accrue to the member's savings.
+- **Mechanism:** members invest part of their wallet into the BWC-administered metals ETF (gold/silver, plus SMSF ETF). The ETF holds physical metal; returns accrue to the member's savings.
 - **What it backs:** the ETF's metal backs the ETF's shareholders — an investment position, like any commodity fund. It does not back BWC, sets no oz-per-BWC ratio, and creates no redemption claim on the currency.
 - **National benefit:** the aggregate metal strengthens the state's balance sheet and external position and stands as a sovereign reserve — but it is investment-owned, not currency-backing.
 - **National, not residency-locked:** the ETF is a national investment vehicle and is not subject to the field-of-membership lock (§1.5); any citizen may hold it from any wallet.
@@ -342,6 +342,8 @@ Annual maturities from 1 to 10 years, plus a 15-year term for institutional use.
 | Crypto | $23.5B | 5–10% | Return on invested assets |
 | Retirement | $94B | 6–8% | Return on invested assets |
 | Citizens' Metals ETF | (§3.4) | market | Backs its shareholders, not the institution |
+| **Insurance products** | auto, tenant, life, private health (for corporate health facilities) | — | CU board governs product offerings; fee-generating member service |
+| **Cryptocurrency (closed-loop)** | BWC↔crypto buy/sell/hold | market | Closed-loop investment facility — no external transfer to or from off-network wallets. CU board governs which coins are offered and any position limits. Private below $10k (§3.5); CED-logged above. No capital flight: the closed loop is what keeps the capital account intact |
 
 > **These are not deposit costs, and Appendix A used to treat them as though they were.** A retirement fund earning 7% pays that from what it invested in, not from the credit union's spread. Listing them as interest expense charged the network for returns it never funded — the mirror image of the pre-fiat draft that credited it with ETF returns it never earned. **A member-owned fund's return is neither the institution's revenue nor its cost.**
 
@@ -373,10 +375,10 @@ These are not binding targets; the system fosters a co-op-dominant productive ec
 
 **Asymmetric Scrutiny for Loans:**
 
-- Below $500,000: streamlined, minimal documentation, CLS-issued within 48 hours.
-- $500,000–$1M: standard review, Regional Board notification.
-- $1M–$10M: full audit, CED logging, Regional Board approval (6/11), public disclosure.
-- Above $10M: Territorial Chamber review (15/20 Regional Boards), published.
+- Below $500,000: streamlined approval, minimal documentation, 48-hour issuance.
+- $500,000–$1M: standard review.
+- $1M–$10M: standard review, CED logging.
+- Above $10M: full audit/review, CED logging, Regional Board notification, published in the annual transparency report.
 
 **Micro-Loan Special Rules:**
 
@@ -408,7 +410,7 @@ These are not binding targets; the system fosters a co-op-dominant productive ec
 
 ### 4.4 Citizen Revolving Credit Line — Administration
 
-The line's **substance** is Monetary Act §1.6A: built into every wallet at issue; **2,000 BWC base + (2 × countable reserve), capped at 50,000**; countable reserve capped at 24,000; priced at **reference + 5%** (~10%); sized by a single published national formula. This section governs what a credit union actually does with it.
+The line's **substance** is Monetary Act §1.6A: built into every wallet at issue; **2,000 BWC base + (2 × countable reserve), capped at 50,000**; countable reserve capped at 24,000; priced at **reference + 5%** (~8.5% at founding rates); sized by a single published national formula. This section governs what a credit union actually does with it.
 
 - **No application, no officer, no file, no waiting.** The line exists because the wallet exists. There is nothing to approve, so there is nothing to process, and no one to persuade.
 - **The formula is not a board decision.** It is published nationally by Treasury alongside the reference rate. A credit-union board does not set it, vary it, tighten it, or interpret it. Five thousand boards each writing their own credit policy would be five thousand unpublished rules governing the second tap of the money supply — and every one of them a place for the politics to go.
@@ -434,7 +436,7 @@ The line's **substance** is Monetary Act §1.6A: built into every wallet at issu
 |---|---|---:|---|
 | CU lending book (the default floor) | 30% | ~2.5% | Existing co-op and personal lending |
 | Co-op shares (via the Exchange) | 20% | ~5–7% | Co-op expansion — the citizen's savings fund the co-ops the citizen works in |
-| MMF/RMF capital lending (Municipal & Regional Funding Act §3.7) | 20% | ~4% | School buildings, hospitals, clinics, bridges — community infrastructure |
+| Municipal Monetary Fund / Regional Monetary Fund (MMF/RMF) capital lending (Municipal & Regional Funding Act §3.7) | 20% | ~4% | School buildings, hospitals, clinics, bridges — community infrastructure |
 | Metals ETF | 15% | appreciation | Physical metal in the vault — the same streaming pipeline that feeds the currency |
 | Housing construction pool (SWF revolving, Housing Act §3.4) | 15% | ~4–5% | Durahomes — the citizen's savings build the houses citizens live in |
 | **Blended return** | | **~4–5%** | |
@@ -514,7 +516,7 @@ This **helps** the credit union: $94B/year of inflows that create no reserve obl
 
 - **Load:** the 12–15 age cohort is ~4M students. At ~10% venture participation, ~400,000 applications per year. At ~25 ventures per agent per year (alongside regular portfolio work), ~16,000 agent-equivalents — absorbed within the existing ~127,000 mature corps as part of each field agent's transaction-count work, not a separate cadre. The most natural mentor is the agent who already lends in the student's trade — the agent serving hempcrete co-ops mentors the student's hempcrete venture.
 - **Funding:** no new funding required. The $500 loans are micro-loans from the credit union's loan book at the student-venture rate. The mentorship time is part of the agent's existing salary (paid by the credit union). The Academy already trains agents in student-venture mentorship (§5.3). The liaison visits are regular-duty hours, not overtime.
-- **Coordination:** the CLS Board (§5.5) publishes liaison-program standards; Regional Boards (Education Act, Chamber Act §3) coordinate school assignments; the NLC (Education Act) tracks venture outcomes in aggregate (identity-free, via the CED).
+- **Coordination:** the CLS Board (§5.5) publishes liaison-program standards; Regional Boards (Education Act, Chamber Act §3) coordinate school assignments; the National Learning Council (NLC, Education Act) tracks venture outcomes in aggregate (identity-free, via the CED).
 - **Cost & funding — three flows, deliberately separate:**
   - **Salaries** (~$4B founding, ~$12.7B at maturity — scales with the corps, §5.1) are paid by the **employing credit unions**. Employment is not the conflict; employing your own loan officer is ordinary.
   - **The Academy** is funded by a **network levy** assessed as a published share of deposits and **pooled nationally** across all credit unions — never per-agent, never by the credit union an agent serves. Training money is thereby never a lever over the trainee.
@@ -644,7 +646,7 @@ The data architecture is the PPK/CED split, operational from inception (Monetary
 | Informal | At/below DLB (cash) | Never collected | None. Constitutionally protected (Chamber Act §11, Floor 1). |
 | Citizen | Under $10k/year BWC | Pseudonymized; no detail | None |
 | Middle | $10k–$100k/year | Pseudonymized aggregates | Annual summary |
-| Elite | Above $1M assets | Full pseudonymized detail | Quarterly audits; public above $10M |
+| Elite | Above $100k/year; above $1M assets | Full pseudonymized detail | Quarterly audits; public above $10M |
 | Institutional | Credit unions >$10M revenue | Full transparency | Public annual reports; Regional Board audit |
 
 - **Treasury:** administers BWC issuance under the Monetary Act §1.5 anchor, the reference rate (§1.5A), and the Citizens' Metals ETF. Publishes the monthly BWC Purchasing Power Index, the annual DLB (by January 15), the reference rate, the loan rate table, the loan loss reserve minimums (§4.3), and the revolving-credit-line formula (§4.4).
@@ -656,7 +658,7 @@ The data architecture is the PPK/CED split, operational from inception (Monetary
 ### 6.7 Sustainability
 
 - ~$50B/year of national sustainability projects — **general revenue** (Sovereign Functions Act §7.3), not an SWF allocation (Monetary §2.1).
-- SMSWF mining FCLs feed profits to credit unions (~$1.736B/year) and the Citizens' Metals ETF; ~40% of the SMSWF metal stream is allocated to the ~5% standardized cash flecks, keeping the velocity layer supplied and the catastrophe floor intact as GDP grows.
+- SMSF mining Federated Cooperative Limited (FCL) operations feed profits to credit unions (~$1.736B/year) and the Citizens' Metals ETF; ~40% of the SMSF metal stream is allocated to the ~5% standardized cash flecks, keeping the velocity layer supplied and the catastrophe floor intact as GDP grows.
 - Loan affordability is maintained by the issuance anchor holding the PPI stable and by the flat-and-slow reference rate — not by any appreciation-adjustment mechanism.
 - RLPs and DIPs provide self-insurance without a central bank, preserving the decentralized, anti-concentration character of the system while enabling sound lending growth.
 - The corps, the academy, and the loan book scale together (§5.1), so the network's largest cost line tracks the revenue that funds it rather than straining a founding book.
@@ -707,9 +709,9 @@ The remaining GDP change is arithmetic: **$6T (2025) → $19T (2075)**, not $38.
 |---|---|---|
 | **Gross loan interest** | ~$1.86T loan book × ~5.5% (reference + 2%) | **~$102B** |
 | **Transaction fee income** | the network's **50% share** of the ~$6B fee rail (Monetary §1.3) | ~$3B |
-| **Revolving credit line interest** | ~$62B drawn × ~8.5% (reference + 5%) | ~$5.3B |
+| **Revolving credit line interest** | ~$62B drawn × ~8.5% (reference + 5%). Assumes ~55% utilization at ~$1,000 avg drawn balance; in a cash-heavy informal economy, actual utilization may run lower (~15–20%), reducing this line to ~$3B without materially affecting network solvency | ~$5.3B |
 | **Checking fees** | 1% on $94B | ~$0.9B |
-| **SMSWF profits** | Mining FCL profit share to credit unions | ~$1.7B |
+| **SMSF profits** | Mining FCL profit share to credit unions | ~$1.7B |
 | **Investment income** | Returns on reserves and capital in short-term instruments | ~$1.5B |
 | **Gross revenue** | | **~$115B** |
 
@@ -717,7 +719,7 @@ The remaining GDP change is arithmetic: **$6T (2025) → $19T (2075)**, not $38.
 
 | Expense | Derivation | ~Annual |
 |---|---|---|
-| Deposit interest | ~$1.77T interest-bearing × ~2.7% blended (savings at reference − 1%; GICs at reference − 0.5% (1-yr) to reference + 0.75% (15-yr)) | ~$60B |
+| Deposit interest | ~$1.77T interest-bearing × ~2.7% blended (savings at reference − 1%; GICs at reference − 0.5% (1-yr) to reference + 0.75% (15-yr)) | ~$48B |
 | Revolving line funding | ~$62B @ ~2.5% | ~$1.6B |
 | Loan loss provision — book (§4.3) | ~$1.86T @ ~1% | ~$18.6B |
 | Loan loss provision — revolving (§4.3) | ~$62B @ ~6% | ~$3.7B |
@@ -802,7 +804,7 @@ Special-share capital is leveraged ~10× into the loan book (§3.2), so the capi
 | Special-share issuance | 14-day local-priority window at par → national remainder at par | same |
 | Citizens' Metals ETF (investment, not backing) | **~$168–209B** | scaled |
 | **Citizen Savings Pool (CSP)** | Forced savings invested through 5 named channels at ~4–5% blended (vs 2.5% idle). Formula-driven, CU-custodied, outside reserve requirements. Retirement nest egg ~60% larger | same |
-| Citizen revolving credit line | 2,000 base + (2 × countable reserve, capped 24,000); line capped 50,000, both DLB-indexed; reference + 5% (~10%); at issue, no application (§4.4) | same |
+| Citizen revolving credit line | 2,000 base + (2 × countable reserve, capped 24,000); line capped 50,000, both DLB-indexed; reference + 5% (~8.5%); at issue, no application (§4.4) | same |
 | Credit bureau / score / file | **None. Prohibited (Monetary §1A.2)** | none |
 | Loan loss reserve | ~1% secured/co-op/corporate; ~5% micro; ~5–7% revolving. Under-reserving prosecutable (§4.3) | same |
 | **Physical Cash in Circulation** | **~$720B (~12% of GDP)** | ~$2.28T (~12% of GDP) |
@@ -813,11 +815,11 @@ Special-share capital is leveraged ~10× into the loan book (§3.2), so the capi
 | CLS employment / licence | Salaried by employing credit union; licensed by the CLS Board (§5.5) | same |
 | CLS Board | 11 commissioners; elected by the corps (one agent, one vote); funded by agent dues; Chamber Act §7 registry | same |
 | CLS corps cost | ~$4B salaries + ~$1B Academy | ~$12.7B + ~$3.3B |
-| Micro-loans | $500–$5,000 at 4%; ventures and small-business capital only; 5 business days | same |
+| Micro-loans | $500–$5,000 at reference + 0.5% (~4%); ventures and small-business capital only; 5 business days | same |
 | **Network gross revenue** | **~$115B/year** | scaled |
 | Network net revenue | **~$43B/year** (after deposit costs and provisions) | scaled |
 | Board compensation (network) | ~$3.3B/year (~2.9% of gross) | ~$3.3B (falling as a share) |
-| Governance | Sovereign Council (7) + Territorial Chamber (220) + Productive Chamber (400) + Productive Chamber (100) + universal citizen vote | same |
+| Governance | Sovereign Council (7) + Territorial Chamber (220) + Productive Chamber (500 — 325 co-op, 75 corporate, 100 wildcard) + universal citizen vote | same |
 | Deposit Insurance (voting) | $250,000 BWC | DLB-indexed |
 | Deposit Insurance (non-voting) | $50,000 BWC | DLB-indexed |
 | RLP target | 5–10% of regional deposits | same |
@@ -835,7 +837,7 @@ Loan growth from **~$1.86T to ~$5.89T** by 2075 rests on capital growth from **~
 | Stream | Annual Amount | Cumulative by 2075 | Purpose |
 |---|---|---|---|
 | Special Shares (1–2 series/year; uninsured equity; local-first then national; per-series cap, no cumulative ceiling) | **~$4B/series · ~$8B/year** | **~$403B of net new capital** | Primary capital for loan expansion |
-| SMSWF profits to credit unions | ~$1.736B/year | ~$87B | Secondary capital, dividend support |
+| SMSF profits to credit unions | ~$1.736B/year | ~$87B | Secondary capital, dividend support |
 | Citizens' Metals ETF & SWF returns | (reinvested) | (member savings + capital) | Member wealth & capital growth — not currency backing |
 
 Special shares are the engine: each series adds its own value in capital and **~10× that in lending capacity**. Per-region series sizing is derived off the actual catchment distribution (§1.5).
@@ -868,8 +870,8 @@ Special shares are the engine: each series adds its own value in capital and **~
 |---|---|
 | What it is | Uninsured equity (capital), subordinate to all depositors; loss-absorbing |
 | **Maturity** | **20 years from issuance — automatic redemption at par. Not perpetual** |
-| Dividend (yrs 1–3) | 7% / 6.5% / 6% step-down (paid for committing through the lock-up) |
-| Dividend (yr 4+) | Reference rate + 2%, standardized & floating — every tradable share pays the same coupon |
+| Dividend (yrs 1–3) | Reference + 3.5% / + 3% / + 2.5% (~7% / ~6.5% / ~6% at founding rates) step-down (paid for committing through the lock-up) |
+| Dividend (yr 4+) | Reference + 2% (~5.5% at founding rates), standardized & floating — every tradable share pays the same coupon |
 | Lock-up | No secondary sale for 3 years from issue; holder redemption ramp operates throughout |
 | **Holder redemption ramp** | **Years 0–3: 10%/yr. Years 3–10: 10%/yr or sell on Exchange. Years 10–20: 20%/yr or sell. Age 60+: 30%/yr. Year 20: automatic full redemption at par** |
 | **CU call** | **After Year 10, the CU may redeem at par at its discretion — shedding dividend obligations it no longer needs** |
@@ -933,7 +935,7 @@ Special shares are the engine: each series adds its own value in capital and **~
 | Who sets the formula? | Treasury, by published national rule. Not credit-union boards (§4.4) |
 | Does income matter? | Not up to the ceiling. A citizen *may* volunteer verified income to go beyond it. Disclosure only ever helps |
 | Is the reserve pledged? | No. It is a signal, not collateral. Spend your savings freely — the line simply re-reads smaller |
-| Rate? | Reference + 5% (~10%). Roughly a third of a real card, with no cash-advance fee and no penalty spiral |
+| Rate? | Reference + 5% (~8.5% at founding rates). Roughly a third of a real card, with no cash-advance fee and no penalty spiral |
 | What happens if I don't pay? | Ordinary collections; the PPK arrears attribute scales the base toward 0 until it clears. **Nothing is recorded and nothing follows you** |
 | Credit score? | **None exists.** No bureau, file, rating, or history, anywhere (Monetary §1A.2) |
 | Can I hop to another credit union? | The arrears attribute is in your PPK, which is portable. The ≥3-catchment overlap does not become a loophole |
@@ -945,4 +947,4 @@ Special shares are the engine: each series adds its own value in capital and **~
 
 ---
 
-End of Draft 5.9
+End of Draft 6.0
