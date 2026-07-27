@@ -651,7 +651,7 @@ The data architecture is the PPK/CED split, operational from inception (Monetary
 
 - **Treasury:** administers BWC issuance under the Monetary Act §1.5 anchor, the reference rate (§1.5A), and the Citizens' Metals ETF. Publishes the monthly BWC Purchasing Power Index, the annual DLB (by January 15), the reference rate, the loan rate table, the loan loss reserve minimums (§4.3), and the revolving-credit-line formula (§4.4).
 - **CED:** tracks CLS performance, FCL metrics, aggregate loan/sector data, RLP/DIP aggregate health, CUSM volume, and the member/investor special-share equity split — all pseudonymized. Cash data is never collected. **No credit bureau, score, file, or history exists** (Monetary §1A.2). Identity is reachable only via the Link Box (2-region warrant). Audited by the Special Auditors (Sovereign Functions Act §3) + AI systems; fraud cap ~$2.5B; appeals to judiciary.
-- **Regional Boards** (Chamber Act §3): 20 boards (11 members each — 7 credit-union-federated + 4 wildcard) approve special-share series, verify the local-priority window, oversee the national CUSM, approve major loans and FCL opt-ins, run RLP/DIP operations; verify board-candidate field eligibility (§6.1); investigate Informal Sector Mandate violations; report annually on informal-access and RLP/DIP solvency. **They do not license, discipline, or oversee CLS agents** (§5.5, §6.1), and they do not set the revolving-line formula (§4.4).
+- **Regional Boards** (Chamber Act §3): 20 boards (11 members each — 7 credit-union-federated + 4 wildcard) approve special-share series, verify the local-priority window, oversee the national CUSM, approve FCL opt-ins, run RLP/DIP operations; verify board-candidate field eligibility (§6.1); investigate Informal Sector Mandate violations; report annually on informal-access and RLP/DIP solvency. **They do not license, discipline, or oversee CLS agents** (§5.5, §6.1), and they do not set the revolving-line formula (§4.4).
 - **CLS Board** (§5.5): licenses, disciplines, and governs the CLS corps; runs the Academy; adjudicates jubilee determinations; funded by agent dues alone; scope-barred from loan policy, rates, allocation, and the line formula.
 - **Special Auditors** (Sovereign Functions Act §3): 50–75 independent, self-initiating prosecutors; may charge under-reserving against the published loan loss minimums (§4.3); may not request, subpoena, or receive individual cash transaction records.
 
@@ -685,19 +685,7 @@ The data architecture is the PPK/CED split, operational from inception (Monetary
 
 ---
 
-### A.1 What the previous draft flagged, and what resolved it
-
-Draft 5.7 ended this appendix with an admission: *"The loan book does not reconcile with the rest of the system, and nothing here fixes that."* It named three symptoms. All three had **one cause**, and all three now close:
-
-| Symptom (Draft 5.7) | Cause | Resolved |
-|---|---|---|
-| Loan book **1.2% of GDP** (vs 50–150% real-world) | The "loan book" was the **special-share capital**; §3.2's ~10× leverage was never applied to it | **~31% of GDP**, both columns |
-| Broad money **13% of GDP** (vs ~70%) | Downstream of the same number | **~43% of GDP** |
-| Multiplier running at **0.08×** against a 10× ceiling | Downstream again — and the ceiling was never 10× anyway | **~2.9×**, which is what a 12%-of-GDP cash drain produces |
-
----
-
-### A.2 Revenue and expense (illustrative, 2025)
+### A.1 Revenue and expense (illustrative, 2025)
 
 **Revenue:**
 
@@ -731,7 +719,7 @@ Draft 5.7 ended this appendix with an admission: *"The loan book does not reconc
 
 ---
 
-### A.3 The deposit base — closed
+### A.2 The deposit base — closed
 
 **Loans create deposits (§1.1).** The network writes ~$1.86T of loans, so it creates ~$1.86T of deposits. **The deposit base is the loan book**, and the balance sheet closes on that identity:
 
@@ -746,7 +734,7 @@ Draft 5.7 ended this appendix with an admission: *"The loan book does not reconc
 
 ---
 
-### A.4 Governance and corps cost
+### A.3 Governance and corps cost
 
 | Cost | ~Annual (founding, ~40,000 agents) | ~Annual (mature, ~127,000) |
 |---|---|---|
@@ -757,7 +745,7 @@ Draft 5.7 ended this appendix with an admission: *"The loan book does not reconc
 
 ---
 
-### A.5 Special-share carry
+### A.4 Special-share carry
 
 Special-share capital is leveraged ~10× into the loan book (§3.2), so the capital earns the loan spread on a multiple of itself. **~$8B of annual new capital supports ~$80B of loans**, yielding ~$4.4B gross interest against ~$2.2B of deposit cost — **~$2.2B of net interest income against a ~$440M dividend obligation** (reference + 2%). Coverage: **~5×**. The carry is comfortable, and it is comfortable because the spread is real: at Draft 5.7's rates the same capital produced *negative* net interest income and the dividend was paid out of fees.
 
