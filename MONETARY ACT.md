@@ -372,8 +372,6 @@ Informal-sector GDP is measured only by anonymized voluntary surveys, DLB price 
 
   - **The resource cut flows to sovereign revenue** (§4; Sovereign Functions Act §7). 
 
-
-- **No co-op recharge.** Co-ops contribute to the commons through the FCL profit-sharing waterfall (Section 3), not through the SWF.
 - **What the SWF is for — and what it is not.** The SWF is the **fund of last resort and the state's revolving lender**: crisis liquidity (the RLP→SWF line), industrial loans (Industry Act §6), co-op construction lending (Housing Act §3.4), the Defense Fund, and a **foreign-currency reserve** (~6 months of essential imports, Exchange Act §3.7.4 — trade-continuity insurance, **never exchange-rate intervention**). **Loans revolve; the corpus survives.** It is **not** the state's capital budget. Prior drafts, and several sector acts, labelled roughly **$315B/year** of ordinary spending as "SWF allocations" — education vouchers, sustainability projects, R&D, parks, and the military. Against a corpus of $230B that is not a draw, it is a liquidation, and the arithmetic gave it away: a fund earning 6% that grows at 2.6% across fifty years is paying out more than it takes in, every year, by construction. **Those five lines are general-revenue spending and are named as such in Section 4.** The relabel costs nothing and buys two things: the corpus stops draining, and the state's spending becomes visible instead of sheltered inside a savings vehicle.
 - **Functions (five, named and exhaustive):**
     1. **Crisis Backstop** — the RLP→SWF liquidity line, automatic at reference + 2% on a §1.8 systemic-freeze trigger. Lent and repaid. No vote, no discretion.
