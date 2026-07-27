@@ -1,4 +1,4 @@
-# New Crossroads — Consolidated Fiscal Model (2025 Base) — v3.2
+# New Crossroads — Consolidated Fiscal Model (2025 Base) — v3.3
 
 **Reading note.** A derived model, not asserted numbers. Sections C–J flow from the base assumptions (Section A). Figures are rounded; illustrative, not precise.
 
@@ -87,7 +87,7 @@ Money does not cross between pots except where an act says so, and each crossing
 |---|---:|---|
 | Education vouchers (net of the FCL contribution) | ~$170B | **Transfer** — the family picks the school |
 | Sustainability projects | ~$50B | Operation |
-| Military (sovereign share; Defense Fund adds ~$6B) | ~$46B | Operation |
+| Military (sovereign share; Defense Fund adds ~$5B) | ~$46B | Operation |
 | Healthcare bottom-tier subsidy | ~$45B | **Transfer** — the citizen picks the provider |
 | R&D / Innovation Hubs | ~$30B | Operation |
 | **National infrastructure buildout** | ~$20B | Operation |
@@ -171,9 +171,11 @@ The stabilizer cuts where the money lands, never what anyone pays. The corporate
 | | 2025 | 2075 |
 |---|---:|---:|
 | Corpus | ~$100B | ~$920B |
-| Returns (~6%) | ~$6B | ~$55B+ |
+| Returns (~5%) | ~$5B | ~$46B |
 
-Estate bequests; **outside the SWF and outside the 12% cap**. Principal locked until total war; returns drawable annually for the military budget. Invested through five domestic channels (40% CU lending, 20% Metals ETF, 15% co-op shares, 15% MMF/RMF, 10% housing). No foreign exposure.
+Estate bequests; **outside the SWF and outside the 12% cap**. Principal locked until total war; returns drawable annually for the military budget — the draw is **demand-driven** (set by the chambers' appropriation, not a fixed percentage of returns); what is not drawn stays in the fund and compounds alongside new bequests. Invested through five domestic channels (40% CU lending, 20% Metals ETF, 15% co-op shares, 15% MMF/RMF, 10% housing). No foreign exposure.
+
+> **v3.3 note.** Return assumption corrected from ~6% to ~5%, consistent with the blended yield of the five domestic channels (40% CU lending at ~5.5%, 20% Metals ETF at ~3–5% appreciation, 15% co-op shares at ~5–7%, 15% Municipal Monetary Fund / Regional Monetary Fund at ~4%, 10% housing construction at ~4–5%). Mature returns: ~$46B on ~$920B, of which the military draws ~$19–25B and the remainder compounds.
 
 ---
 
@@ -239,7 +241,7 @@ Estate bequests; **outside the SWF and outside the 12% cap**. Principal locked u
 | Stock | 2025 | 2075 | Mechanism |
 |---|---:|---:|---|
 | **Sovereign Wealth Fund** | ~$230B | capped at 12% (~$2.28T) | Contributions + returns; caps ~2028 |
-| **Defense Fund** | ~$100B | ~$920B | Estate bequests; outside the SWF; principal locked, returns drawable |
+| **Defense Fund** | ~$100B | ~$920B | Estate bequests; outside the SWF; principal locked, returns (~5%) drawable on demand |
 | **Citizens' Metals ETF** | ~$168–209B | ~$2,500B+ | Streaming pipeline; non-redeemable; appreciation only |
 | **CCIF** | ~$991B | scales | Co-op sector's own pool; uninsured, no sovereign backstop |
 | **Credit-union loan book** | ~$1.86T (31% of GDP) | ~$5.89T | 10× leverage on special-share capital |
@@ -261,7 +263,7 @@ The nation holds foreign and reserve assets across two pools, governed by the Tr
 | Asset class | Target | ~Value (2025) | Freezable? |
 |---|---|---|---|
 | G7 sovereign bonds (5 currencies) | ~30% | ~$82B | Yes — but ~$16B per nation max |
-| Physical gold/metals (SMSWF, domestic vaults) | ~25% | ~$69B | No — domestic soil |
+| Physical gold/metals (SMSF, domestic vaults) | ~25% | ~$69B | No — domestic soil |
 | Foreign equities (broad index) | ~25% | ~$69B | Partially — diversified across 30+ nations |
 | Strategic commodity stockpiles (domestic) | ~10% | ~$27B | No — physical goods, domestic warehouses |
 | Foreign-currency deposits (diversified) | ~10% | ~$27B | Partially — spread across jurisdictions |
@@ -274,7 +276,7 @@ The nation holds foreign and reserve assets across two pools, governed by the Tr
 | Foreign infrastructure | ~15% | ~$43B → ~$137B |
 | Foreign real estate | ~10% | ~$29B → ~$91B |
 | G7 sovereign bonds | ~10% | ~$29B → ~$91B |
-| Physical gold/metals (SMSWF) | ~10% | ~$29B → ~$91B |
+| Physical gold/metals (SMSF) | ~10% | ~$29B → ~$91B |
 | Strategic investments (supply-chain stakes) | ~5% | ~$14B → ~$46B |
 
 **Binding constraints (Sovereign Functions Act §5.7):**
@@ -282,9 +284,9 @@ The nation holds foreign and reserve assets across two pools, governed by the Tr
 - No more than 20% in any single nation's instruments
 - No more than 30% freezable by any single foreign sovereign
 - No exchange-rate intervention — absolute bar
-- Combined gold/metals (SMSWF vault, domestic): 70%+ of reserve and foreign assets unfreezeble by any foreign power
+- Combined gold/metals (SMSF vault, domestic): 70%+ of reserve and foreign assets unfreezable by any foreign power
 
-**By 2075:** the SMSWF vault (one stockpile — sovereign reserve and citizen ETF certificates against the same metal) likely holds ~7,000–10,500 tonnes of gold, ~150,000+ tonnes of silver, and significant platinum-group metals — potentially the **2nd or 3rd largest gold reserve on Earth.** All domestic. All non-redeemable. All accumulating through the one-way streaming valve.
+**By 2075:** the SMSF vault (one stockpile — sovereign reserve and citizen ETF certificates against the same metal) likely holds ~7,000–10,500 tonnes of gold, ~150,000+ tonnes of silver, and significant platinum-group metals — potentially the **2nd or 3rd largest gold reserve on Earth.** All domestic. All non-redeemable. All accumulating through the one-way streaming valve.
 
 > **These are illustrative targets, not binding figures.** The Treasury Investment Mandate (published annually, Special Auditor-audited) sets the actual composition within the binding constraints. The figures here show the intended shape, not the required numbers. Global conditions change; the mandate adapts; the constraints hold.
 
@@ -311,6 +313,7 @@ State the base assumptions (§A) once; derive the rest. Round honestly. Carry th
 | **H1** | CCIF participation at 2.5% — by design (the shelter self-selects for scale). | Logged |
 | **H2** | Resource part > whole — the §3 headline was the error, not the components. | **RESOLVED** ✓ |
 | **J1** | SWF internal routing — moot; the five named functions define the routing. | **RESOLVED** ✓ |
+| **F1** | Defense Fund return — corrected from ~6% to ~5% (v3.3). Consistent with the blended yield of the five domestic investment channels. | **RESOLVED** ✓ |
 
 ---
 
@@ -331,4 +334,4 @@ State the base assumptions (§A) once; derive the rest. Round honestly. Carry th
 
 ---
 
-**End of v3.2**
+**End of v3.3**
