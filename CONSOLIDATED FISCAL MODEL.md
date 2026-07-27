@@ -135,8 +135,6 @@ Money does not cross between pots except where an act says so, and each crossing
 | General budget surplus | ~$71B |
 | **Total** | **~$143B** |
 
-> **v3.2 note.** Two corrections applied: (1) the mandatory-service stipend line (+$13.5B spending) and (2) the infrastructure access-fee revenue correction (state fees are ~$17B, not the ~$75B implied by operator revenue; SWF share drops from ~$22.4B to ~$5.1B). The VAT increase from 5% to 6% (+$33B) absorbs both corrections and restores the surplus to ~$71B (Parks Index adds ~$2B). The SWF caps in ~2028 (year 3–4). The infrastructure correction is detailed in the Infrastructure Act: the prior draft conflated state access fees with total operator commercial revenue.
-
 ### F.4 The Stabilizers — Destination, Never Rate
 
 | SWF/GDP | Automatic action |
@@ -172,8 +170,6 @@ The stabilizer cuts where the money lands, never what anyone pays. The corporate
 | Returns (~5%) | ~$5B | ~$46B |
 
 Estate bequests; **outside the SWF and outside the 12% cap**. Principal locked until total war; returns drawable annually for the military budget — the draw is **demand-driven** (set by the chambers' appropriation, not a fixed percentage of returns); what is not drawn stays in the fund and compounds alongside new bequests. Invested through five domestic channels (40% CU lending, 20% Metals ETF, 15% co-op shares, 15% MMF/RMF, 10% housing). No foreign exposure.
-
-> **v3.3 note.** Return assumption corrected from ~6% to ~5%, consistent with the blended yield of the five domestic channels (40% CU lending at ~5.5%, 20% Metals ETF at ~3–5% appreciation, 15% co-op shares at ~5–7%, 15% Municipal Monetary Fund / Regional Monetary Fund at ~4%, 10% housing construction at ~4–5%). Mature returns: ~$46B on ~$920B, of which the military draws ~$19–25B and the remainder compounds.
 
 ---
 
