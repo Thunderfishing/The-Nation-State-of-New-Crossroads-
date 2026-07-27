@@ -1,4 +1,4 @@
-# Crossroads Monetary Reform & Economic Stabilization Act of 2025: Draft 9.9
+# Crossroads Monetary Reform & Economic Stabilization Act of 2025: Draft 9.9.1
 
 ---
 
@@ -98,10 +98,10 @@ Credit unions operate under the Credit Union Act 5.7, which establishes Regional
 
 - Below $500,000: streamlined approval, minimal documentation, 48-hour issuance.
 - $500,000–$1M: standard review, Regional Board notification.
-- $1M–$10M: CED logging, Regional Board notification.
-- Above $10M: Full Audit, CED logging, Regional Board notification.
+- $1M–$10M: full audit, CED logging, Regional Board approval (6/11), public disclosure.
+- Above $10M: Territorial Chamber review (15/20 Regional Boards), published in the annual transparency report.
 
-- **Banking Suite:** checking (fee product), savings (**reference − 1%**, ~2.5%), Guaranteed Investment Certificates (GICs),plus member-owned investment products (mutual funds, Bitcoin/crypto) whose returns come  invested assets rather than the network's spread — all reachable through the wallet (Section 1.6). **Deposit and loan rates share one anchor but sit on opposite sides of it:** savings at reference − 1%, loans at reference + 2%, a ~3% net interest margin (Credit Union Act §4.1). The anchor is the centre; the bands are the spread.
+- **Banking Suite:** checking (fee product), savings (**reference − 1%**, ~2.5%), Guaranteed Investment Certificates (GICs), bonds, and savings bonds, plus member-owned investment products (mutual funds, retirement, crypto) whose returns come from invested assets rather than the network's spread — all reachable through the wallet (Section 1.6). **Deposit and loan rates share one anchor but sit on opposite sides of it:** savings at reference − 1%, loans at reference + 2%, a ~3% net interest margin (Credit Union Act §4.1). The anchor is the centre; the bands are the spread.
 - **Shares:** base shares (up to 1,000 per citizen, ~4–8% dividends, residency-locked, carry the vote); special shares (uninsured member and investor capital, non-voting, national secondary market — see Credit Union Act §3.2, §3.3).
 - **Crossroads Loan Service (CLS):** a licensed corps of loan officers that **scales with the loan book across the 50-year plan** — the founding corps is proportionately smaller than the mature one, and headcount tracks lending demand rather than a flat per-region quota or a fixed national figure (Credit Union Act §5.1). **~40,000 at founding, ~127,000 at maturity.** The corps sizes off loans per agent — a real commercial loan officer carries ~$20–50M — applied to the book. Against the ~$5.89T mature book, ~127,000 agents carry ~$46M each: the figure the sector acts already allocate between them (Energy 42,000; Housing 22,000; Industry 22,000; Communications 22,000; Infrastructure 19,000). Prior drafts published ~60,000, sized against a loan book ten times too small, which would leave each agent carrying ~$98M. **The corps was undersized, not oversubscribed** — the sector acts were closer to right than the act defining the corps. Agents administer loans, student ventures, bankruptcy recovery, and informal-sector engagement, with discretion tiered by loan size. They are **employed and salaried by the credit unions they serve** but **licensed and disciplined by the CLS Board** — an independent board (Chamber Act §7) governed by the corps itself and funded by agent dues, not by the credit unions. The credit union pays the wage; the corps holds the licence. Full detail in Credit Union Act §5.
 
@@ -391,7 +391,7 @@ Informal-sector GDP is measured only by anonymized voluntary surveys, DLB price 
     2. **Revolving Co-op Lending** — industrial, commercial, and defense-industry co-ops. The SWF does not care what the co-op makes; it cares that the loan revolves. (Industry Act §6, and any qualifying co-op.)
     3. **Housing Construction Lending** — revolving on 18-month build cycles. ~$9B founding → ~$88B mature. 3.8% of the fund in both columns. (Housing Act §3.4.)
     4. **Metals Streaming Purchases** — funds the ~$9.2B/year streaming-pipeline purchases (ETF ~$8.5B + mint ~$0.7B) from the SWF's returns, via the Sovereign Metals Streaming Facility (SMSF) — a Silver Wheaton-style arrangement in which the SWF provides upfront capital to mining FCLs in exchange for the right to purchase their gold, silver, and platinum-group output at a preset below-market price for the life of each mine. The metal flows into domestic vaults, where it feeds both the Citizens' Metals ETF and the ~5% standardized metal flecks in physical cash. The pipeline is a one-way accumulation valve: metal enters the vault and does not leave. (Metals & Currency Design §2.)
-    5. **Foreign-Currency Reserve** — ~6 months of essential imports (~$275B). Trade-continuity insurance, **never exchange-rate intervention.** (Exchange Act §3.7.4.)
+    5. **Foreign-Currency Reserve** — target: ~6 months of essential imports (~$275B at maturity). Built from trade surpluses, resource-export earnings, and SMSF metal accumulation during the contribution phase (Years 1–4); **near zero at founding** (the prior regime defaulted and held negligible foreign reserves — see Post-Revolution Timeline §Inheritance). Trade-continuity insurance, **never exchange-rate intervention.** (Exchange Act §3.7.4.)
   
 
 **SWF as ultimate backstop:** the SWF reinsures Regional DIPs and acts as lender of last resort to exhausted RLPs only after 5 Regional Boards jointly certify an emergency (5/20) — except under an automatic systemic-freeze trigger, where certification is pre-cleared (§1.8) — preserving the anti-bailout ethos with systemic resilience. It is never the backstop for revolving-credit losses (§1.6A).
@@ -401,26 +401,30 @@ Informal-sector GDP is measured only by anonymized voluntary surveys, DLB price 
 
 The SWF's foreign allocation and the foreign-currency reserve collectively represent the nation's exposure to foreign financial systems. **The Treasury Investment Mandate** is a published, annually reviewed, Special Auditor-audited document that governs the composition of both.
 
-**Foreign-currency reserve (~$275B, 6 months essential imports):**
+**Foreign-currency reserve — target: ~$275B (6 months essential imports at maturity):**
 
-| Asset class | Target share | Rationale |
+> **Founding condition.** The prior regime defaulted on ~120% of GDP in sovereign debt and held negligible foreign reserves at the revolution (Post-Revolution Timeline §Inheritance). The reserve starts near zero and builds during the SWF contribution phase (Years 1–4) from three sources: (1) resource-export earnings (~$14.7B/year royalty revenue from mining co-ops, plus resource-firm exports earning foreign currency), (2) trade surpluses as domestic production ramps, and (3) SMSF metal accumulation (domestic gold/silver counts as reserve from Day 1 — it sits in domestic vaults, unfreezing by any foreign power). The target composition below is reached progressively as the SWF approaches its ~$720B cap (~Year 4). During the build phase, the domestic-vault metal allocation (SMSF + commodity stockpiles) will be disproportionately large relative to foreign-held assets, because domestic assets are what the new state controls.
+
+| Asset class | Target share (at ~$275B) | Rationale |
 |---|---|---|
 | G7 sovereign bonds (USD, EUR, JPY, GBP, CHF) | ~30% (~$82B) | Liquidity buffer. Spread across 5 currencies so no single sovereign can freeze more than ~$16B |
-| Physical gold/silver/platinum (domestic vaults, via the SMSF) | ~25% (~$69B) | The reserve asset no foreign government can freeze, sanction, or devalue |
+| Physical gold/silver/platinum (domestic vaults, via the SMSF) | ~25% (~$69B) | The reserve asset no foreign government can freeze, sanction, or devalue. **Available from Day 1** — the Frostpeak mines are inherited and operational |
 | Foreign equities (broad index, no single-country concentration) | ~25% (~$69B) | Productive assets — ownership, not debt claims |
 | Strategic commodity stockpiles (domestic warehouses) | ~10% (~$27B) | Physical stockpiles of critical imports — semiconductor-grade silicon, photolithography chemicals, specialty battery materials, pharmaceutical precursors |
 | Foreign-currency cash deposits (diversified banks, diversified jurisdictions) | ~10% (~$27B) | Operating liquidity in trade currencies (USD, EUR, CNY, JPY, AUD) |
 
-**SWF foreign allocation (~40% of corpus = ~$900B at maturity):**
+**SWF foreign allocation (~40% of corpus at target composition):**
 
-| Asset class | Target share | Rationale |
+> **At the ~$230B seed (2025), 40% foreign = ~$92B** — predominantly domestic SMSF metal and commodity stockpiles in the early years, with foreign equities and bonds building as trade earnings accumulate. **At the ~$720B cap (~2029), ~$288B.** **At the ~$2.28T mature cap (2075), ~$912B.** The table shows the target share at maturity; the build path is front-loaded on domestic assets and back-loaded on foreign ones.
+
+| Asset class | Target share (at maturity: ~$912B) | Rationale |
 |---|---|---|
-| Global equities (broad index) | ~50% (~$450B) | The Norway model — own productive companies worldwide. No single-country concentration above 20% |
-| Foreign infrastructure (ports, toll roads, power grids, water systems) | ~15% (~$135B) | Real assets with inflation-protected returns in stable jurisdictions |
-| Foreign real estate (commercial, income-producing) | ~10% (~$90B) | Inflation-hedged, income-producing |
-| G7 sovereign bonds | ~10% (~$90B) | Liquidity sleeve for crisis deployment |
-| Physical gold and metals (via the SMSF) | ~10% (~$90B) | Long-term store of value, additional to the reserve allocation |
-| Strategic investments (minority stakes in semiconductor fabs, rare-earth processors, submarine cable operators) | ~5% (~$45B) | Influence over critical supply-chain dependencies |
+| Global equities (broad index) | ~50% (~$456B) | The Norway model — own productive companies worldwide. No single-country concentration above 20% |
+| Foreign infrastructure (ports, toll roads, power grids, water systems) | ~15% (~$137B) | Real assets with inflation-protected returns in stable jurisdictions |
+| Foreign real estate (commercial, income-producing) | ~10% (~$91B) | Inflation-hedged, income-producing |
+| G7 sovereign bonds | ~10% (~$91B) | Liquidity sleeve for crisis deployment |
+| Physical gold and metals (via the SMSF) | ~10% (~$91B) | Long-term store of value, additional to the reserve allocation. **Available from Day 1** |
+| Strategic investments (minority stakes in semiconductor fabs, rare-earth processors, submarine cable operators) | ~5% (~$46B) | Influence over critical supply-chain dependencies |
 
 **Binding constraints (entrenched at the middle bar — Sovereign Functions Act §5.7):**
 
@@ -506,7 +510,9 @@ The CLS is also, by the same logic, a brake on the debt that makes jubilees nece
 | Sovereign Functions §7.4 | surplus the sovereign may not accumulate — including redirected contributions | ~$143B |
 | **Total** | | **~$157B** |
 
-That is **~$1,400 per citizen per year**, ~$5,600 for a household of four — paid in cash, tax-free, asking nothing of anyone. It is the largest single transfer in the system and the only one with no form attached.
+That is **~$1,400 per citizen per year** at founding-era rates, ~$5,600 for a household of four — paid in cash, tax-free, asking nothing of anyone. It is the largest single transfer in the system and the only one with no form attached.
+
+> **Timing and scaling.** The dividend begins when the SWF caps (~2028–2029, Year 4). During Years 1–3, the ~$71B surplus and the ~$72B in other contributions flow *into* the fund — no dividend is paid. Both channels scale with GDP: revenue grows roughly with output while operations fall from ~3.3% toward ~2% of GDP as buildout completes, widening the surplus faster than population grows. At 2075 rates (~$19T GDP, 130M citizens), the dividend could reach **~$3,500–4,500/citizen** — but the precise figure depends on fifty years of spending decisions. The structure guarantees the dividend; the level is the economy's output.
 
 **Dividend auto-routing (the informal-economy savings mechanism).** For citizens without a payroll-deducted forced-savings contribution (Housing Act §3.1), the dividend is split **by default:**
 
@@ -560,6 +566,8 @@ The commons share splits Healthcare : Education : Charity in a 2:1:2 ratio. **To
 
 
 - **Co-op Capital Investment Fund (CCIF):** a **voluntary** pool in which co-ops and corporate participants may store up to 15% of profits for returns until the capital is needed to expand or to survive a shock; ~7.5% returns; allocated by the **CCIF Alliance Network** (FCL Act §3.8.7 — the voluntary federation of CCIF depositors; 9-seat board, Productive Chamber oversight). The CCIF is the co-op sector's own pool, chamber-governed, and is **not a sovereign asset** (Sovereign Functions Act §5.1).
+
+> **Founding context and scale.** Most founding co-ops are converted state enterprises — the state divested all non-utility, non-sovereign assets to newly formed FCLs to avoid the oligarchic capture that destroyed other post-socialist transitions (Post-Revolution Timeline §Year 0–5). These enterprises bring inherited working capital (liquid reserves, receivables, inventories denominated in BWC at conversion). The CCIF seeds at **~$100B (2025)** — roughly the liquid fraction of inherited enterprise capital deposited voluntarily in Year 1 — and builds to **~$991B by ~Year 15** through annual deposits of ~$40–60B/year (half the eligible co-ops depositing ~15% of ~$400B net profit), compounding at ~7.5%. At 2075 (~$19T GDP, co-op value-added ~$12.4T), the CCIF reaches **~$2.5–3T**.
 
 > **The CCIF's three questions, resolved in the FCL Act (Draft 3.4).** (1) **The shelter is kept, deliberately** — the waterfall deducts CCIF before the commons share because this system taxes consumption, never capital (§4); the deduction is the VAT principle one layer up. (2) **The mismatch is closed** by FCL §3.8.6: the CCIF must hold liquid assets at least equal to its callable window, so the door is bounded by what the fund can pay. It gets no sovereign backstop — insuring it would remove the depositor's exposure, which is the only thing restraining the door. (3) **The vote is compressed** — FCL §3.8.7 replaces one-vote-per-$1M with 1 / 2 / 3 votes at any deposit / $10M / $100M, and corporate depositors do not vote at all (Chamber Act §11, Floor 5).
 - **Asymmetric Scrutiny:** simplified reporting for small FCLs; full CED disclosure above $100M.
@@ -628,7 +636,7 @@ Competition between regions on income tax and VAT is a feature of the design, no
 
 ### 4.1 Corporate Governance Listing Requirements
 
-*Rational:* corporations are subject to structural limits aligning behavior with long-term stakeholder value. These requirements are listing conditions for the Exchange's Corporate-Equity Board (Exchange Act §3.3) and a protected guarantee (Chamber Act §12.3); they may be weakened only at the middle amendment bar.
+*Rationale:* in place of a GDP cap, corporations are subject to structural limits aligning behavior with long-term stakeholder value. These requirements are listing conditions for the Exchange's Corporate-Equity Board (Exchange Act §3.3) and a protected guarantee (Chamber Act §12.3); they may be weakened only at the middle amendment bar.
 
 1. **Short-Term Trade Tax:** 0.5% on sales of corporate shares held under 365 days; collected at point of sale regardless of trader location. This is also a listing condition for the Exchange's Domestic Corporate-Equity Board (Exchange Act §3.3).
 2. **Quarterly Guidance Ban:** annual guidance only. Violations: fines up to $10M, then trading suspension.
@@ -719,11 +727,13 @@ Competition between regions on income tax and VAT is a feature of the design, no
 | **SWF** | **~$230B seed (3.8% of GDP)** | building toward the cap |
 | SWF cap (12% of GDP) | ~$720B | ~$2.28T |
 | **SWF reaches the cap** | **~2029 (year 4)** | capped thereafter |
-| **Citizen dividend (once capped)** | **~$157B/yr — ~$1,400/citizen** (§2.3 excess $14.4B + §7.4 surplus $143B) | scaled |
+| **Citizen dividend (post-cap, ~2029 onward)** | **~$157B/yr — ~$1,400/citizen** (§2.3 excess $14.4B + §7.4 surplus $143B). No dividend during build phase (Years 1–3). Scales with GDP: ~$3,500–4,500/citizen at maturity | **~$3,500–4,500/citizen** |
 | **Federal revenue** | **~$495B** (VAT 6% $199B + income >$100k $144B + tariffs $49B + corporate $25B + resources $22.7B + co-op $20B + property $19B + excise $15B + Parks Index $2B) | same structure |
 | **Federal spending** | **~$424.5B (~7.1% of GDP)** — **operations ~$196B (3.3%, inside the 4% cap)**: sustainability $50B, military $46B, R&D $30B, infrastructure $20B, parks $20B, sovereign functions $20B, **savings match $8B**. **Transfers ~$228.5B**: education vouchers $170B, healthcare subsidy $45B, **mandatory-service stipends $13.5B** | ~2% of GDP (buildout completes) |
 | SWF annual contributions | **~$143B** (corporate $60B + sector access-fee rails $10B + BWC fee rail $1.8B + surplus $71B) | redirected to general revenue once capped (§2.3) |
 | **SWF's role** | **Crisis backstop + revolving lender (industrial, housing construction) + metals streaming (SMSF) + foreign-currency reserve. Not the capital budget (§2.1)** | same |
+| Foreign-currency reserve (inside SWF) | **Target ~$275B (6 months imports); near zero at founding, builds during contribution phase. Domestic SMSF metal counts from Day 1** | ~$275B+ (scaling with imports) |
+| **CCIF** | **~$100B** (inherited enterprise liquid capital from Soviet divestiture) | **~$2.5–3T** |
 | Defense Fund (separate endowment) | ~$100B | ~$920B |
 | Defense Fund return | ~5% blended; demand-driven draw | same |
 | Citizens' Metals ETF (investment, not backing) | **~$168–209B** | scaled |
@@ -780,4 +790,4 @@ Cash is beautiful and resilient. BWC is honest. Identity is sovereign. The syste
 
 ---
 
-End of Draft 9.9
+End of Draft 9.9.1
