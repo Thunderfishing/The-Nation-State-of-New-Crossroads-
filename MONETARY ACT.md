@@ -97,11 +97,11 @@ Credit unions operate under the Credit Union Act 5.7, which establishes Regional
 **Asymmetric Scrutiny:**
 
 - Below $500,000: streamlined approval, minimal documentation, 48-hour issuance.
-- $500,000–$1M: standard review, Regional Board notification.
-- $1M–$10M: full audit, CED logging, Regional Board approval (6/11), public disclosure.
-- Above $10M: Territorial Chamber review (15/20 Regional Boards), published in the annual transparency report.
+- $500,000–$1M: standard review.
+- $1M–$10M: Standard review, CED logging.
+- Above $10M: Full Audit/Review, CED logging, Regional Board notification, published in the annual transparency report.
 
-- **Banking Suite:** checking (fee product), savings (**reference − 1%**, ~2.5%), Guaranteed Investment Certificates (GICs), bonds, and savings bonds, plus member-owned investment products (mutual funds, retirement, crypto) whose returns come from invested assets rather than the network's spread — all reachable through the wallet (Section 1.6). **Deposit and loan rates share one anchor but sit on opposite sides of it:** savings at reference − 1%, loans at reference + 2%, a ~3% net interest margin (Credit Union Act §4.1). The anchor is the centre; the bands are the spread.
+- **Banking Suite:** checking (fee product), savings (**reference − 1%**, ~2.5%), Guaranteed Investment Certificates (GICs), plus member-owned investment products (mutual funds, Insurance, Bitcoin/Crypto) whose returns come from invested assets rather than the network's spread — all reachable through the wallet (Section 1.6). **Deposit and loan rates share one anchor but sit on opposite sides of it:** savings at reference − 1%, loans at reference + 2%, a ~3% net interest margin (Credit Union Act §4.1). The anchor is the centre; the bands are the spread.
 - **Shares:** base shares (up to 1,000 per citizen, ~4–8% dividends, residency-locked, carry the vote); special shares (uninsured member and investor capital, non-voting, national secondary market — see Credit Union Act §3.2, §3.3).
 - **Crossroads Loan Service (CLS):** a licensed corps of loan officers that **scales with the loan book across the 50-year plan** — the founding corps is proportionately smaller than the mature one, and headcount tracks lending demand rather than a flat per-region quota or a fixed national figure (Credit Union Act §5.1). **~40,000 at founding, ~127,000 at maturity.** The corps sizes off loans per agent — a real commercial loan officer carries ~$20–50M — applied to the book. Against the ~$5.89T mature book, ~127,000 agents carry ~$46M each: the figure the sector acts already allocate between them (Energy 42,000; Housing 22,000; Industry 22,000; Communications 22,000; Infrastructure 19,000). Prior drafts published ~60,000, sized against a loan book ten times too small, which would leave each agent carrying ~$98M. **The corps was undersized, not oversubscribed** — the sector acts were closer to right than the act defining the corps. Agents administer loans, student ventures, bankruptcy recovery, and informal-sector engagement, with discretion tiered by loan size. They are **employed and salaried by the credit unions they serve** but **licensed and disciplined by the CLS Board** — an independent board (Chamber Act §7) governed by the corps itself and funded by agent dues, not by the credit unions. The credit union pays the wage; the corps holds the licence. Full detail in Credit Union Act §5.
 
@@ -110,10 +110,6 @@ Credit unions operate under the Credit Union Act 5.7, which establishes Regional
 ### 1.3 Transaction Fees & Liquidity Pool
 
 *Rationale:* fees exist to keep daily commerce in cash and to recover the cost of moving formal money — not to raise revenue from ordinary life. The schedule therefore does three different jobs with three different instruments, because one instrument cannot do all three honestly.
-
-**The cash swap is free in both directions (§1.1).** The prior 1% on BWC→Cash contradicted the cash rationale outright and has been removed rather than exempted case by case. Its removal is what makes the sub-500 band legitimate: a citizen nudged out of small digital spending now has a **costless** exit to the layer they are being nudged toward. A nudge with a free opt-out is a nudge; a nudge with a tolled opt-out is a trap.
-
-**Why flat above 10,000 — the cascade.** A percentage fee on every large transfer is a turnover tax, and turnover taxes compound down a supply chain. Ore → smelter → mill → fabricator → assembler → retailer is five transfers; at 2% each, roughly a tenth of the value is extracted in fees before anything reaches a customer. A vertically integrated corporation pays it once. A chain of independent co-ops pays it five times. That is a structural penalty on precisely the decentralized supply chains this system exists to favour. Above consumer scale the cost of moving money is **fixed, not proportional**; the fee is therefore fixed too, and says what it is.
 
 **Bands:**
 
