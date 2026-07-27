@@ -1,12 +1,9 @@
 # Crossroads Exchange Act of 2025: Draft 1.7
 
-**Draft: 1.5 | Date: July 12, 2026**
+**Draft: 1.7 | Date: July 22, 2026**
 **Author: Thunderfish2**
 
 ---
-
-## Cross-reference
-
 
 **Note on figures.** This act is a rulebook: it carries structure, not fiscal magnitudes, and the Consolidated Fiscal Model's rescale therefore leaves it untouched. Where a figure appears it derives from that model.
 
@@ -42,12 +39,11 @@ Tranching, derivatives, shorting, and leverage are prohibited outright. The **Gl
 | **Credit-Union Capital Board** | Credit-union special shares | Individual credit unions | Each issuing credit union |
 | **Corporate-Equity Board** | Domestic corporate equity | Individual corporations | Each issuing corporation |
 | **Metals ETF Board** | Citizens' Metals ETF shares | Citizens' Metals ETF | Treasury |
-| **Investment Fund Board** | Credit-union mutual fund ETFs and sector index funds | Pooled GICs, sector equity baskets, blended-return funds | Issuing credit unions or licensed fund managers (Exchange Authority oversight) |
 | **FX Board** | Foreign-currency spot contracts (BWC ↔ major currencies) | No underlying pool — a clearing facility | Exchange Authority under Treasury Capital Markets Bureau oversight |
 
 **What flows through but does not trade as a board:** foreign capital, via the CGCI channel (3.4), during the Industry Act §2.5 conversion ramp.
 
-**What is deliberately *not* on the Exchange (3.5):** the sovereign metals reserve (a strategic state asset, never a security), and **sovereign debt instruments** (Crossroads issues no government bonds and runs no repo — Monetary §1.5A). Private-sector debt (corporate or co-op bonds) is not listed by current design choice — all private-sector debt flows through the credit-union network (Credit Union Act §4) and the CCIF (FCL Act §3.8) — but is not constitutionally prohibited.
+**What is deliberately *not* on the Exchange (3.5):** the sovereign metals reserve (a strategic state asset, never a security), and any debt instrument (Crossroads issues no bonds and runs no repo — Monetary §1.5A).
 
 **What never exists on the Exchange (Section 2.5):** tranched or securitized repackagings, derivatives, short positions, and leveraged/margin positions — in either segment.
 
@@ -76,8 +72,8 @@ Prices anchor to **PPK/CED-audited value** — book value for co-op and corporat
 
 Each board carries dampening rules calibrated to its instrument; the spine is common:
 
-- **Trading bands.** Special shares: 90%–110% of par (CU §3.3). Co-op investor shares: ±10% daily movement around audited book (FCL §2.5.5). Metals ETF: ±5% daily movement around NAV. Investment Fund ETFs: ±5% daily movement around NAV. Corporate equity: a daily limit band set by the Exchange Authority.
-- **Minimum holding periods.** Co-op investor shares: 12-month minimum hold (FCL §2.5.5). Special shares: 3-year sale lock-up from issue; 20-year maturity (CU §3.2). Metals ETF: 30-day minimum hold. Investment Fund ETFs: 30-day minimum hold. Corporate equity: subject to the §4.1 0.5% short-term trade tax on sales under 365 days, collected at point of sale.
+- **Trading bands.** Special shares: 90%–110% of par (CU §3.3). Co-op investor shares: ±10% daily movement around audited book (FCL §2.5.5). Metals ETF: ±5% daily movement around NAV. Corporate equity: a daily limit band set by the Exchange Authority.
+- **Minimum holding periods.** Co-op investor shares: 12-month minimum hold (FCL §2.5.5). Special shares: 3-year sale lock-up from issue (CU §3.2). Metals ETF: 30-day minimum hold. Corporate equity: subject to the §4.1 0.5% short-term trade tax on sales under 365 days, collected at point of sale.
 - **No intraday churn engine.** There is no high-frequency or algorithmic market-making tier; settlement and registry update on a defined cycle (2.6), not in microseconds.
 
 These are not frictions to be optimized away — they are the point. The Exchange rewards the patient holder and frustrates the fast trader by design.
@@ -89,38 +85,9 @@ A public bid sits beneath certain **domestic** boards so a holder is never wholl
 - Co-op investor shares (Co-op Capital Index): the **CCIF** buys unlisted shares at **90% of audited book** if no buyer is found within 90 days (FCL §2.5.5).
 - Special shares: the **90% floor** of the trading band, plus the co-op-index / member-buyback last-resort paths (CU §3.3).
 - Metals ETF: **no public backstop**. The fund never redeems; the price is discovery, not guaranteed. The band limits the daily fall, and the 30-day minimum hold prevents reflexive panic selling.
-- Investment Fund ETFs: **no public backstop**. Fund NAV is the anchor; daily movement within ±5% of NAV. DIP insurance applies to the underlying GIC components (where applicable) but not to the ETF share price itself.
-
-### 3.7 Investment Fund Board
-
-*Rationale:* the banking suite offers GICs, savings, and the Metals ETF — but no pooled investment vehicle that gives a citizen diversified exposure across the credit-union network or the co-op economy through a single, liquid, Exchange-traded instrument. The Investment Fund Board fills this gap without introducing speculation, leverage, or debt instruments.
-
-**What may list:**
-
-| Fund type | Underlying | Anchor | Who may issue |
-|---|---|---|---|
-| **GIC Ladder Fund** | Pooled multi-term GICs from multiple credit unions | Blended NAV of underlying GICs | Any credit union or consortium of credit unions |
-| **Co-op Sector Index Fund** | Basket of co-op investor shares (Co-op Board) weighted by sector GDP share | Co-op Capital Index (rebalanced quarterly) | Licensed fund managers (Exchange Authority approval) |
-| **Blended-Return Fund** | Mix of GICs, special-share dividends, and co-op investor returns | Blended NAV | Licensed fund managers |
-| **Sector-Specific Fund** | Investor shares from a single sector (e.g., healthcare co-ops, energy co-ops) | Sector sub-index | Licensed fund managers or sector FCL consortia |
-
-**What may NOT list:** any fund containing derivatives, short positions, leveraged positions, tranched or securitized instruments, foreign-listed securities, or sovereign debt of any nation (§2.5 prohibitions apply to all boards equally).
-
-**Listing conditions:**
-
-- **Minimum holding period:** 30 days (same as Metals ETF).
-- **Daily price band:** ±5% of NAV.
-- **NAV audit:** quarterly by the Exchange Authority, published.
-- **DIP pass-through:** where a fund holds DIP-insured GICs, the insurance attaches to the underlying deposits, not the fund share. A fund failure returns the GIC value to holders through the DIP, not the share price.
-- **Short-term trade tax:** 0.5% on sales under 365 days (§4.1), same as corporate equity. Patient capital, not day-trading.
-- **No fund may hold more than 20% of its assets in any single credit union's instruments** — diversification is structural, not optional.
-
-*The flight-to-safety application:* a GIC Ladder Fund pooling 1-year through 10-year GICs from 50+ credit unions creates a **liquid, diversified, DIP-insured fixed-income instrument** — the closest thing to a bond fund in a system that issues no bonds. In a crisis, capital flows from co-op equity and corporate equity into the GIC Ladder Fund, which absorbs the demand without any single credit union bearing the full inflow. The fund's NAV is anchored to the reference rate; its liquidity comes from the Exchange; its safety comes from the DIP. This is the missing middle between "savings account" and "physical cash in a mattress." 
 - The backstop is a haircut exit, not a guarantee of par — it removes the trap without removing the risk.
 
-**Global listing of domestic special shares (Credit Union Act §3.3).** Domestic special shares that have traded on the CU Capital Board for 5+ years at 95%+ of par, issued by a Tier-2+ rated CU, may graduate to the Global Sound-Capital Segment — up to **40% of a CU's outstanding special-share capital.** The remaining 60% stays on the domestic board. International buyers access a 5.5%-yield, 20-year-maturity instrument from a zero-debt constitutional economy — unlike anything in global fixed income. The 60/40 domestic anchor ensures the CU's capital base remains predominantly locally held.
-
-**The domestic public backstops (CCIF, the 90% floor, and behind them the RLP/SWF/DIP) never extend to the Global Sound-Capital Segment (7.2) nor to the Metals ETF Board.** Globally listed special shares trade under the Global Segment's rules, not the domestic backstops — international buyers accept the credit risk of the issuing CU, not a sovereign guarantee. Global-segment liquidity arrangements, if any, are segment-internal and disclosed; domestic public money never stands behind a foreign listing. The Metals ETF is self-backed by its metal holdings.
+**The domestic public backstops (CCIF, the 90% floor, and behind them the RLP/SWF/DIP) never extend to the Global Sound-Capital Segment (7.2) nor to the Metals ETF Board.** Global-segment liquidity arrangements, if any, are segment-internal and disclosed; domestic public money never stands behind a foreign listing. The Metals ETF is self-backed by its metal holdings.
 
 ### 2.5 Transparency and the prohibition on synthetic structuring
 
@@ -176,8 +143,8 @@ The Exchange inherits the PPK/CED architecture and asymmetric scrutiny (Monetary
 
 ### 3.2 Credit-Union Capital Board
 
-- **Lists:** credit-union special shares past their 3-year sale lock-up (CU §3.2, §3.3) — uninsured, loss-absorbing equity with a **20-year maturity** (automatic redemption at par at year 20), subordinate to all depositors, and the second rung of the lending loss waterfall behind the loan loss reserve (CU §4.3). Shares are also subject to a **holder redemption ramp** (10% of holdings/year during years 0–10, 20%/year during years 10–20, 30%/year from age 60+) and a **CU call** (issuer-optional redemption at par after year 10).
-- **Special shares are issued and managed individually by each issuing credit union.** Each credit union's shares are distinct instruments with individual maturity dates. The **Special-Share Index Fund** (Investment Fund Board §3.7) pools shares from multiple CUs into a single tradeable ETF for investors seeking diversified exposure.
+- **Lists:** credit-union special shares past their 3-year lock-up (CU §3.2, §3.3) — uninsured, loss-absorbing equity, subordinate to all depositors, and the second rung of the lending loss waterfall behind the loan loss reserve (CU §4.3).
+- **Special shares are issued and managed individually by each issuing credit union.** There is no single pooled index for special shares; each credit union's shares are distinct instruments.
 - **Homogeneous coupon:** every tradable special share pays the standardized reference + 2% floating dividend (CU §3.2), so the board prices only credit risk, not yield — capital cannot chase a higher coupon because none exists.
 - **Pricing:** par, 90%–110% band; trades above 105% require CLS notification (no approval).
 - **Transfer, not redemption:** a sale changes only the register; the issuing credit union keeps all its capital (CU §3.3).
@@ -240,6 +207,7 @@ When a rolling jubilee (Monetary §2.2) converts a corporation's forgiven debt i
 
 - **Citizens' Metals ETF:** is now listed on the Exchange (see §3.6). It is no longer off-exchange.
 - **Sovereign metals reserve:** the SMSWF holdings and the metal backing the cash flecks are a **strategic state asset and the system's catastrophe floor — never a security, never listed, never traded** (Sovereign Functions Act §5.1).
+- **Strategic commodity stockpiles** — semiconductor-grade silicon, photolithography chemicals, specialty battery materials, pharmaceutical precursors — held in domestic warehouses as insurance inventory under the **Treasury Investment Mandate** (Monetary Act §2.1A). State assets, not securities.
 - **Debt:** there is no debt board. Crossroads issues no sovereign bonds and runs no repo (Monetary §1.5A); the tradable universe is ownership and (now on-exchange) the metals ETF — never debt or rates. Household credit is likewise not an instrument: the citizen revolving credit line (Monetary §1.6A) is a facility in a wallet, not a claim, and it may never be sold, pooled, securitized, or listed. **A country that will not securitize a mortgage will not securitize a credit card balance.**
 
 ### 3.6 Metals ETF Board
@@ -281,7 +249,7 @@ When a rolling jubilee (Monetary §2.2) converts a corporation's forgiven debt i
 - **Exporters** deposit foreign-currency proceeds and sell for BWC.
 - **Importers** buy foreign currency with BWC to pay foreign suppliers.
 - **The credit unions** act as intermediaries for members — a small co-op that needs $50,000 of euros doesn't trade on the board directly; its credit union does it for them at cost.
-- **The SWF** holds a foreign-currency reserve as a natural consequence of its crisis-liquidity function (Monetary §2.1). It may participate on the FX Board to build or rebalance that reserve, but **it may not intervene to defend a particular exchange rate.** The SWF is a reserve holder, not a central bank. If the BWC weakens, the SWF's job is to have foreign currency available for essential imports — not to burn reserves propping up a number.
+- **The SWF** holds a foreign-currency reserve as a natural consequence of its crisis-liquidity function (Monetary §2.1). It may participate on the FX Board to build or rebalance that reserve, but **it may not intervene to defend a particular exchange rate** (§3.7.3 — absolute bar). The **Treasury Investment Mandate** (Monetary Act §2.1A) governs the composition of both the SWF's foreign allocation and the foreign-currency reserve — specifying concentration ceilings (20% per nation), sanctions-resilience floors (70%+ unfreezeble), and asset-class targets. Trade-surplus foreign currency flows through the FX Board to Treasury for allocation under the Mandate. The SWF is a reserve holder, not a central bank. If the BWC weakens, the SWF's job is to have foreign currency available for essential imports — not to burn reserves propping up a number.
 - **Citizens** may buy foreign currency for travel or personal use, subject to the same CED visibility threshold as any other transaction (below $10,000 — anonymous; above — CED-logged).
 
 **Who may NOT participate:**
@@ -302,7 +270,7 @@ The §1.8 systemic-freeze telemetry (Monetary Act) watches the FX Board's volume
 
 The SWF maintains a **foreign-currency reserve** — a pool of USD, EUR, and other major currencies held for trade continuity and crisis imports. This reserve:
 
-- Is funded by a share of the SWF's returns, invested offshore. It is NOT funded by domestic tax revenue or by intervention profits.
+- Is funded by a share of the SWF's returns, invested offshore. It is NOT funded by domestic tax revenue or by intervention profits. Composition (asset-class targets, concentration ceilings, sanctions-resilience floor) is governed by the **Treasury Investment Mandate** (Monetary Act §2.1A).
 - Targets a **prudential floor** — enough to cover ~6 months of essential imports (~$275B at founding). The floor is published; the actual holdings are published quarterly.
 - **May never be used to defend the exchange rate.** It exists so that if trade credit dries up (as it did in the post-default squeeze), the nation can still buy fuel, components, and medicines on the world market. It is an insurance policy, not a weapon.
 - Is governed by the same §5.4 absolute bar as the rest of the SWF: no defense carve-out, no sovereign-operations draw.
@@ -339,7 +307,7 @@ In the immediate post-revolution period, before the FX Board is operational:
 
 *Rationale:* a holder who wants to spread risk across many issuers — rather than betting on one credit union or one co-op — needs a diversification vehicle. The safe way to provide it is a **plain, transparent, pass-through index fund**: it holds the actual underlying shares, discloses exactly what it holds, adds no synthetic seniority, and carries no leverage. This delivers the benefit the bundling instinct reaches for (don't sink with one wobbly issuer) without any of the opacity-plus-fake-safety that Section 2.5 prohibits.
 
-- **Special-Share Index:** an equal- or book-weighted fund holding the actual special shares of many credit unions, pass-through, fully transparent. A holder sees precisely which credit unions' risk they own; nothing is repackaged or re-rated. Because it holds the real shares, it does **not** blind the bank-soundness signal (Section 6) — the underlying prices remain visible. Fund managers must account for the **20-year maturity roll** — as underlying shares mature and redeem at par, the fund reinvests in newly issued shares, maintaining continuous exposure. The maturity lifecycle creates natural portfolio turnover without manager discretion.
+- **Special-Share Index:** an equal- or book-weighted fund holding the actual special shares of many credit unions, pass-through, fully transparent. A holder sees precisely which credit unions' risk they own; nothing is repackaged or re-rated. Because it holds the real shares, it does **not** blind the bank-soundness signal (Section 6) — the underlying prices remain visible.
 - **Co-op Index:** the analogous pass-through fund over Co-op Capital Index shares (an evolution of the existing CCI index logic).
 - **Metals ETF Index:** a pass-through fund holding actual ETF shares, reflecting the NAV of the metal pool. Transparent, fully disclosed. May be included in broader investment funds.
 - **Global Sound-Capital Index:** a transparent pass-through fund over qualifying **global-segment** issuers (Section 7), holding the actual underlying shares, fully disclosed. It lets a citizen buy a diversified slice of honestly-run cooperative and mutual enterprises worldwide. It is **flagged as carrying foreign risk outside the domestic backstops** (2.4, 7.2), holds only global-segment instruments, and may never co-mingle with the domestic indices.
@@ -439,8 +407,8 @@ Same building, sealed rooms. Capital and ideas may pass between the segments onl
 | Element | Detail |
 |---|---|
 | Venue | Single national Crossroads Exchange; two firewalled segments (Domestic Core / Global) |
-| Domestic trading boards | Co-op Board · Credit-Union Capital Board · Corporate-Equity Board · Metals ETF Board · **FX Board** |
-| Underlying indexes/pools | Co-op Capital Index (managed by CCIF Alliance Network) · Special shares (managed by each credit union) · Corporate equity (managed by each corporation) · Metals ETF (managed by Treasury) |
+| Domestic trading boards | Co-op Board · Credit-Union Capital Board · Corporate-Equity Board · Metals ETF Board · **Investment Fund Board** · **FX Board** (6 boards) |
+| Underlying indexes/pools | Co-op Capital Index (managed by CCIF Alliance Network) · Special shares (managed by each credit union) · Corporate equity (managed by each corporation) · Metals ETF (managed by Treasury) · Investment Fund ETFs — GIC Ladder, Co-op Sector Index, Blended-Return, Sector-Specific (managed by issuing CUs or licensed fund managers) |
 | Channel (not a board) | CGCI (foreign capital, during Industry §2.5 conversion ramp) |
 | **FX Board** | Spot BWC ↔ foreign-currency conversion. Discovered rate (never defended); batched auctions; ±3% daily band; no derivatives/margin/shorting; no foreign participants; SWF holds a ~6-month import reserve but may not intervene. ~$5.5B/day trade volume at founding |
 | Global segment | Foreign co-ops/mutuals/disciplined corporations listing under the Crossroads rulebook (Section 7) |
