@@ -97,8 +97,6 @@ Money does not cross between pots except where an act says so, and each crossing
 | **Universal savings match** (formal + informal, $1-for-$1 up to $1,000/yr) | ~$8B | Operation |
 | **Total** | **~$424.5B** | **Operations ~$196B · Transfers ~$228.5B** |
 
-> **v3.2 correction — the stipend line.** Prior versions carried the mandatory-service stipends ($12,000–15,000/year × ~1M participants, Education Act §2/§4) inside the ~$411B total without naming them as a line. The Education Act authorizes them separately from the voucher ("Stipends: $15,000/year professional, $12,000/year vocational"); they are a distinct general-revenue instrument paying service participants directly, not a voucher draw. They are a **transfer** by the §7.2 test: the citizen chooses the trade, the state pays the stipend. Breaking them out raises the stated total from ~$411B to ~$424.5B. The VAT increase from 5% to 6% (v3.2) absorbs this and the infrastructure revenue correction, restoring the surplus to ~$71B (including Parks Index revenue). Operations are unchanged; the 4% cap is unaffected.
-
 ### The 4% operating cap
 
 **The cap binds operations, not transfers.** 4% of $6T is $240B; operations are **~$196B = 3.3% of GDP** — inside it. Transfers (~$228.5B) sit outside, and the test is **who chooses the recipient**: citizen → transfer, state → operation. Classification is justiciable and the presumption runs against the sovereign (Sovereign Functions Act §7.2).
