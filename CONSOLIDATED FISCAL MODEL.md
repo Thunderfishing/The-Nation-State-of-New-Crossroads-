@@ -1,4 +1,4 @@
-# New Crossroads — Consolidated Fiscal Model (2025 Base) — v3.3
+# New Crossroads — Consolidated Fiscal Model (2025 Base) — v3.3.1
 
 **Reading note.** A derived model, not asserted numbers. Sections C–J flow from the base assumptions (Section A). Figures are rounded; illustrative, not precise.
 
@@ -156,9 +156,9 @@ The stabilizer cuts where the money lands, never what anyone pays. The corporate
 | Sovereign §7.4 — surplus the sovereign may not accumulate, including redirected contributions | ~$143B |
 | **Total** | **~$157B** |
 
-**~$1,400 per citizen per year. ~$5,600 for a household of four.** Cash, tax-free, no filing, no threshold, no audit. The only transfer that reaches the informal majority.
+**~$1,400 per citizen per year at founding-era rates. ~$5,600 for a household of four.** Cash, tax-free, no filing, no threshold, no audit. The only transfer that reaches the informal majority.
 
-> **v3.2 note.** The §7.4 channel includes both the redirected SWF contributions (~$71.8B — corporate $60B + access fees $10B + BWC $1.8B) and the budget surplus (~$71B). Both flow to the dividend once the SWF caps. The 6% VAT (v3.2) absorbs the stipend and infrastructure corrections, restoring the dividend to ~$1,400/citizen — above the original ~$1,359. The Parks Index (~$2B, scaling to ~$6B) contributes the final increment.
+> **Timing and scaling.** The dividend begins when the SWF caps (~2028–2029, Year 4). During Years 1–3, the surplus and contributions flow into the fund — no dividend is paid. Both channels scale with GDP: revenue grows roughly with output while operations fall from ~3.3% toward ~2% of GDP, widening the surplus faster than population grows. At 2075 rates, the dividend could reach ~$3,500–4,500/citizen.
 
 **Cash-first reduction rule:** if the dividend must be reduced (a revenue shock), the cash portion absorbs the reduction first. The forced-savings auto-route (Housing Act §3.1) is reduced only after the cash portion reaches zero.
 
@@ -170,6 +170,8 @@ The stabilizer cuts where the money lands, never what anyone pays. The corporate
 | Returns (~5%) | ~$5B | ~$46B |
 
 Estate bequests; **outside the SWF and outside the 12% cap**. Principal locked until total war; returns drawable annually for the military budget — the draw is **demand-driven** (set by the chambers' appropriation, not a fixed percentage of returns); what is not drawn stays in the fund and compounds alongside new bequests. Invested through five domestic channels (40% CU lending, 20% Metals ETF, 15% co-op shares, 15% MMF/RMF, 10% housing). No foreign exposure.
+
+> **v3.3 note.** Return assumption corrected from ~6% to ~5%, consistent with the blended yield of the five domestic channels (40% CU lending at ~5.5%, 20% Metals ETF at ~3–5% appreciation, 15% co-op shares at ~5–7%, 15% Municipal Monetary Fund / Regional Monetary Fund at ~4%, 10% housing construction at ~4–5%). Mature returns: ~$46B on ~$920B, of which the military draws ~$19–25B and the remainder compounds.
 
 ---
 
@@ -237,7 +239,7 @@ Estate bequests; **outside the SWF and outside the 12% cap**. Principal locked u
 | **Sovereign Wealth Fund** | ~$230B | capped at 12% (~$2.28T) | Contributions + returns; caps ~2028 |
 | **Defense Fund** | ~$100B | ~$920B | Estate bequests; outside the SWF; principal locked, returns (~5%) drawable on demand |
 | **Citizens' Metals ETF** | ~$168–209B | ~$2,500B+ | Streaming pipeline; non-redeemable; appreciation only |
-| **CCIF** | ~$991B | scales | Co-op sector's own pool; uninsured, no sovereign backstop |
+| **CCIF** | ~$100B (inherited enterprise capital from Soviet divestiture; builds to ~$991B by ~Year 15) | ~$2.5–3T | Co-op sector's own pool; uninsured, no sovereign backstop |
 | **Credit-union loan book** | ~$1.86T (31% of GDP) | ~$5.89T | 10× leverage on special-share capital |
 | **Deposit base** | ~$1.86T | ~$5.89T | Equals the loan book — loans create deposits |
 | **Citizen Savings Pool** | ~$94B/yr inflow | scales | Forced savings invested through 5 channels at ~4–5% blended |
@@ -252,12 +254,14 @@ Estate bequests; **outside the SWF and outside the 12% cap**. Principal locked u
 
 The nation holds foreign and reserve assets across two pools, governed by the Treasury Investment Mandate with binding constraints entrenched in the Sovereign Functions Act §5.7.
 
-**Foreign-currency reserve (~$275B, scaling with imports):**
+**Foreign-currency reserve — target: ~$275B (6 months essential imports at maturity):**
 
-| Asset class | Target | ~Value (2025) | Freezable? |
+> **Near zero at founding.** The prior regime defaulted on ~120% of GDP in sovereign debt and held negligible foreign reserves (Post-Revolution Timeline §Inheritance). The reserve builds during the SWF contribution phase (Years 1–4) from resource-export earnings, trade surpluses, and SMSF metal accumulation. Domestic SMSF metal counts from Day 1 (it sits in domestic vaults). The target composition below is reached progressively as the SWF approaches its cap.
+
+| Asset class | Target | ~Value (at target) | Freezable? |
 |---|---|---|---|
 | G7 sovereign bonds (5 currencies) | ~30% | ~$82B | Yes — but ~$16B per nation max |
-| Physical gold/metals (SMSF, domestic vaults) | ~25% | ~$69B | No — domestic soil |
+| Physical gold/metals (SMSF, domestic vaults) | ~25% | ~$69B | No — domestic soil. **Available from Day 1** |
 | Foreign equities (broad index) | ~25% | ~$69B | Partially — diversified across 30+ nations |
 | Strategic commodity stockpiles (domestic) | ~10% | ~$27B | No — physical goods, domestic warehouses |
 | Foreign-currency deposits (diversified) | ~10% | ~$27B | Partially — spread across jurisdictions |
@@ -294,29 +298,11 @@ State the base assumptions (§A) once; derive the rest. Round honestly. Carry th
 
 ---
 
-## M. Open Items
-
-| # | Item | Status |
-|---|---|---|
-| **C1** | Co-op profit chain — settled at ~$400B. VAT absorbed the correction at 5%. | **RESOLVED** ✓ |
-| **C2** | Education gross voucher — $180B gross, $11B FCL offset, ~$170B net. | **RESOLVED** ✓ |
-| **E1** | Mandatory-service stipends — ~$13.5B, broken out as a named transfer line (v3.2). | **RESOLVED** ✓ |
-| **E2** | Citizen dividend — restored to ~$157B (~$1,400/citizen) by the 6% VAT + Parks Index revenue (v3.2), absorbing both the stipend correction and the infrastructure revenue correction. All acts aligned. | **RESOLVED** ✓ |
-| **E3** | Infrastructure access-fee revenue — corrected from ~$75B (operator revenue) to ~$17B (state access fees at 155% of maintenance). SWF share drops from ~$22.4B to ~$5.1B. Barge traffic corrected from 75M to 170M tonnes; sea ports from 150M to 300M tonnes; highway traffic from 15B to 182B vehicle-km. Crossroads City freshwater port added. Absorbed by 6% VAT. | **RESOLVED** ✓ |
-| **G1** | Subnational line-by-line budgets — resolved by the Regions Act. ~$134B revenue, ~$112B spending, ~$22B surplus. | **RESOLVED** ✓ |
-| **H1** | CCIF participation at 2.5% — by design (the shelter self-selects for scale). | Logged |
-| **H2** | Resource part > whole — the §3 headline was the error, not the components. | **RESOLVED** ✓ |
-| **J1** | SWF internal routing — moot; the five named functions define the routing. | **RESOLVED** ✓ |
-| **F1** | Defense Fund return — corrected from ~6% to ~5% (v3.3). Consistent with the blended yield of the five domestic investment channels. | **RESOLVED** ✓ |
-
----
-
-
 ## Solvency Summary
 
 **National tier:** ~$495B revenue against ~$424.5B spending = **~$71B surplus**, flowing to the SWF until it caps (~2028) and to the citizen dividend thereafter. Operations are ~$196B — **3.3% of GDP, inside the 4% cap**. No debt, no issuance, no SWF draw.
 
-**The SWF** seeds at ~$230B, takes ~$143B/year (including the ~$71B surplus), caps at 12% of GDP in ~2028, and thereafter pays **~$157B/year (~$1,400/citizen)** in cash to every citizen including the informal majority. It lends and backstops. **It does not spend.**
+**The SWF** seeds at ~$230B, takes ~$143B/year (including the ~$71B surplus), caps at 12% of GDP in ~2028, and thereafter (from ~Year 4) pays **~$157B/year (~$1,400/citizen at founding-era rates, scaling to ~$3,500–4,500 at maturity)** in cash to every citizen including the informal majority. No dividend during the build phase (Years 1–3). It lends and backstops. **It does not spend.**
 
 **Subnational tier** is self-funding — royalties, income tax, VAT, and fees — equalized by the MMF/RMF, with no debt at any level. ~$134B revenue, ~$112B spending, ~$22B surplus.
 
@@ -328,4 +314,4 @@ State the base assumptions (§A) once; derive the rest. Round honestly. Carry th
 
 ---
 
-**End of v3.3**
+**End of v3.3.1**
