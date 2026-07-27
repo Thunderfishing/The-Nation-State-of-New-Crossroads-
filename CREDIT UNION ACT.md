@@ -695,10 +695,6 @@ Draft 5.7 ended this appendix with an admission: *"The loan book does not reconc
 | Broad money **13% of GDP** (vs ~70%) | Downstream of the same number | **~43% of GDP** |
 | Multiplier running at **0.08×** against a 10× ceiling | Downstream again — and the ceiling was never 10× anyway | **~2.9×**, which is what a 12%-of-GDP cash drain produces |
 
-The appendix was right that its own figures were internally consistent and inconsistent with everything else. It was one error, propagated — and the note at the bottom of the old §3.2 carry paragraph ("$25B of new capital supports ~$250B of loans") had the multiplication correct the whole time. **One paragraph knew; the tables did not.**
-
-The remaining GDP change is arithmetic: **$6T (2025) → $19T (2075)**, not $38.94T. See the Consolidated Fiscal Model.
-
 ---
 
 ### A.2 Revenue and expense (illustrative, 2025)
@@ -730,7 +726,6 @@ The remaining GDP change is arithmetic: **$6T (2025) → $19T (2075)**, not $38.
 | **Net revenue** | **~$43B** |
 | **Net interest margin** | **~2.9%** |
 
-**Fee income is ~3% of gross, not 62%.** Draft 5.7 concluded from that 62% that *"the network is a payments utility with a lending arm attached, not a bank with a payments arm."* That was a real structural claim drawn from two broken numbers: fees looked dominant because the loan book was understated tenfold, and they looked larger still because the fee rail was priced to a revenue target rather than to the cost of moving money. **New Crossroads' credit-union network is a bank.** The old conclusion is withdrawn.
 
 *(Checking deposits ($94B) are a fee product paying no interest — revenue-positive, not interest-expense.)*
 
@@ -749,10 +744,6 @@ The remaining GDP change is arithmetic: **$6T (2025) → $19T (2075)**, not $38.
 | Special-share capital | ~$186B |
 | **Liabilities + capital** | **~$2.05T** |
 
-> **What this corrects.** Draft 5.7 carried a banking-suite figure of **~$372.5B** — a per-citizen number (~$3,300 each) that reads as real-economy and does not scale. Against a ~$1.86T book it left **~$1.5T unexplained**. The parenthetical that papered over it — *"the marginal cost of a newly created deposit is ~0 at the moment of lending"* — is true at the moment of lending and false every moment after: the deposit lands in someone's account and starts earning. **A fractional-reserve network cannot hold fewer deposits than it has lent.**
-
-**And the spread now clears.** §4.1 sets savings at **reference − 1%** against loans at **reference + 2%** — a **~2.9% net interest margin**, which is what a real credit union runs. Draft 5.7 paid 5–6% on savings against a 5.5% loan yield: it lost money on every deposit it held and made it back on fees. The margin comes from the **bands** around the reference rate, not the anchor — the anchor is the same number on both sides (Monetary §1.5A). That is what the bands are for, and this act had never said so.
-
 ---
 
 ### A.4 Governance and corps cost
@@ -763,12 +754,6 @@ The remaining GDP change is arithmetic: **$6T (2025) → $19T (2075)**, not $38.
 | CLS salaries (§5.1) | ~$4B | ~$12.7B |
 | CLS Academy (§5.3) | ~$1B | ~$3.3B |
 | **Total** | **~$8.3B (~7% of gross)** | **~$19.3B** |
-
-**The corps costs more than Draft 5.7 said, and the reason is not pay.** That draft costed a ~30,000/60,000 corps at ~$3.25B/~$6.5B and called the problem solved. But §5.1 shows 60,000 agents would carry **~$98M of loans each** against the real mature book — roughly double any commercial loan officer's portfolio. A corps sized honestly to the book is **~40,000 founding and ~127,000 mature**, and its salary line scales with it.
-
-It is still comfortably affordable — ~7% of gross at founding. But it is not the number this act published, and the difference is not a rounding error.
-
-**On Draft 5.7's claim that "the corps stopped being a cost problem":** half stands. The fee line really was missing from this appendix, and adding it really did fix the arithmetic. The other half — that the founding corps is small — is inverted. The corps *does* scale with the loan book. **The loan book was ten times larger than anyone had written down.**
 
 ---
 
@@ -841,8 +826,6 @@ Loan growth from **~$1.86T to ~$5.89T** by 2075 rests on capital growth from **~
 | Citizens' Metals ETF & SWF returns | (reinvested) | (member savings + capital) | Member wealth & capital growth — not currency backing |
 
 Special shares are the engine: each series adds its own value in capital and **~10× that in lending capacity**. Per-region series sizing is derived off the actual catchment distribution (§1.5).
-
-> **What this table used to say.** Draft 5.7 opened with *"Loan growth from ~$452.5B to ~$1.2084T"* and listed cumulative special shares at *"$625B–$1.25T"* — the same order of magnitude as the loan book it was supposed to be building. That was the tell: **capital and the book it supports cannot be the same number.** One is ten times the other, by this act's own §3.2. The capital figures were right; the loan figures were the capital figures wearing the wrong label.
 
 ---
 
