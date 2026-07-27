@@ -628,7 +628,7 @@ Competition between regions on income tax and VAT is a feature of the design, no
 
 ### 4.1 Corporate Governance Listing Requirements
 
-*Rationale:* in place of a GDP cap, corporations are subject to structural limits aligning behavior with long-term stakeholder value. These requirements are listing conditions for the Exchange's Corporate-Equity Board (Exchange Act §3.3) and a protected guarantee (Chamber Act §12.3); they may be weakened only at the middle amendment bar.
+*Rational:* corporations are subject to structural limits aligning behavior with long-term stakeholder value. These requirements are listing conditions for the Exchange's Corporate-Equity Board (Exchange Act §3.3) and a protected guarantee (Chamber Act §12.3); they may be weakened only at the middle amendment bar.
 
 1. **Short-Term Trade Tax:** 0.5% on sales of corporate shares held under 365 days; collected at point of sale regardless of trader location. This is also a listing condition for the Exchange's Domestic Corporate-Equity Board (Exchange Act §3.3).
 2. **Quarterly Guidance Ban:** annual guidance only. Violations: fines up to $10M, then trading suspension.
