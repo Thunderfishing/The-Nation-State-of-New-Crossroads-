@@ -1,6 +1,6 @@
-# Crossroads Exchange Act of 2025: Draft 1.7
+# Crossroads Exchange Act of 2025: Draft 1.8
 
-**Draft: 1.5 | Date: July 12, 2026**
+**Draft: 1.8 | Date: July 27, 2026**
 **Author: Thunderfish2**
 
 ---
@@ -40,6 +40,7 @@ Tranching, derivatives, shorting, and leverage are prohibited outright. The **Gl
 | **Corporate-Equity Board** | Domestic corporate equity | Individual corporations | Each issuing corporation |
 | **Metals ETF Board** | Citizens' Metals ETF shares | Citizens' Metals ETF | Treasury |
 | **FX Board** | Foreign-currency spot contracts (BWC ↔ major currencies) | No underlying pool — a clearing facility | Exchange Authority under Treasury Capital Markets Bureau oversight |
+| **Investment Fund Board** | GIC Ladder, Co-op Sector Index, Blended-Return, and Sector-Specific fund shares | Various pooled vehicles | Licensed fund managers / CU consortia |
 
 **What flows through but does not trade as a board:** foreign capital, via the CGCI channel (3.4), during the Industry Act §2.5 conversion ramp.
 
@@ -72,8 +73,8 @@ Prices anchor to **PPK/CED-audited value** — book value for co-op and corporat
 
 Each board carries dampening rules calibrated to its instrument; the spine is common:
 
-- **Trading bands.** Special shares: 90%–110% of par (CU §3.3). Co-op investor shares: ±10% daily movement around audited book (FCL §2.5.5). Metals ETF: ±5% daily movement around NAV. Investment Fund ETFs: ±5% daily movement around NAV. Corporate equity: a daily limit band set by the Exchange Authority.
-- **Minimum holding periods.** Co-op investor shares: 12-month minimum hold (FCL §2.5.5). Special shares: 3-year sale lock-up from issue; 20-year maturity (CU §3.2). Metals ETF: 30-day minimum hold. Investment Fund ETFs: 30-day minimum hold. Corporate equity: subject to the §4.1 0.5% short-term trade tax on sales under 365 days, collected at point of sale.
+- **Trading bands.** Special shares: 90%–110% of par (CU §3.3). Co-op investor shares: ±10% daily movement around audited book (FCL §2.5.5). Metals ETF: ±5% daily movement around NAV. Corporate equity: a daily limit band set by the Exchange Authority. (Investment Fund Board bands — ±5% of NAV — are specified in §3.8.)
+- **Minimum holding periods.** Co-op investor shares: 12-month minimum hold (FCL §2.5.5). Special shares: 3-year sale lock-up from issue; 20-year maturity (CU §3.2). Metals ETF: 30-day minimum hold. Corporate equity: subject to the §4.1 0.5% short-term trade tax on sales under 365 days, collected at point of sale. Investment Fund Board dampening (30-day minimum hold, 0.5% short-term trade tax) is specified in §3.8.
 - **No intraday churn engine.** There is no high-frequency or algorithmic market-making tier; settlement and registry update on a defined cycle (2.6), not in microseconds.
 
 These are not frictions to be optimized away — they are the point. The Exchange rewards the patient holder and frustrates the fast trader by design.
@@ -161,7 +162,7 @@ The Exchange inherits the PPK/CED architecture and asymmetric scrutiny (Monetary
   - *Votes follow the §4.1 framework:* one share, one vote with the long-term tenure multiplier (2 votes/share at 5+ years, 3 at 10+), and **no separate share classes** (§4.1). The 51% insider equity floor plus the tenure multiplier together keep working control with insiders without resorting to dual-class structures. This clause is exhaustive: **there is no non-voting corporate instrument in the system**, because a non-voting corporate share would be a class, and classes are banned. Any corporate equity — including Freedom Shares (below) — is plain equity that votes and counts against the cap.
 - **Listing conditions (inherited from §4.1):** the 0.5% short-term trade tax (sales under 365 days), the quarterly-guidance ban (annual guidance only), worker board representation by headcount, and the stock-buyback limits. A corporation lists **only** by accepting these — there is no "clean" corporate listing that escapes the disciplines. The Productive Chamber (Chamber Act §4.2) oversees enforcement, with ad-hoc arbitration (Chamber Act §6.6) and procedural appeal to the Supreme Court (Sovereign Functions Act §4).
 - **Pricing:** audited book anchor with a daily limit band set by the Exchange Authority.
-- **Approval to list:** Regional Board (6/11) → relevant Productive Chamber → Territorial Chamber (simple majority).
+- **Approval to list:** Regional Board (6/11) → the Corporate and Exchange Commission (recommendation) → Territorial Chamber (simple majority).
 
 ---
 
@@ -171,10 +172,14 @@ The 49% cap can be exceeded in exactly two circumstances, and never otherwise: a
 
 **The common rails.**
 
-- **Approval:** **Regional Board (6/11) → the relevant Productive Chamber (supermajority) → Territorial Chamber (15/20)**, plus a **Community Benefit Agreement** and a **Labor Peace Agreement**. This is deliberately a higher bar than an ordinary listing (which clears the Territorial Chamber at simple majority), because it is an exception to the control rule rather than an application of it.
+- **Approval:** **Regional Board (6/11) → the Corporate and Exchange Commission (recommendation) → the full Productive Chamber (supermajority) → Territorial Chamber (15/20)**, plus a **Community Benefit Agreement** and a **Labor Peace Agreement**. This is deliberately a higher bar than an ordinary listing (which clears the Territorial Chamber at simple majority), because it is an exception to the control rule rather than an application of it.
 - **No sovereign approval, and this matters.** Earlier drafts routed the capital-intensive exception through the Sovereign Council at 5/7. That contradicted Section 5's own opening sentence — *the sovereign is barred from domestic regulation (Sovereign Functions Act §8), so domestic Exchange oversight is a chamber function* — and handed the Council a domestic-economy lever in the same paragraph that denied it one. A firm's ownership structure is the Productive Chamber's business and the Territorial Chamber's check. The Council has no business in it and now holds none: its only role anywhere in this act is the global segment's statecraft powers (Section 7).
 - **The Territorial Chamber at 15/20 is the check on the Productive Chamber.** A chamber of corporations voting on a corporation's ownership structure is an obvious conflict; the answer is not to move the decision to the sovereign but to require the place axis to concur at a supermajority, as it does for every other structural question in the order.
 - **The hard 33% insider floor.** No exception, of either kind, may take insiders below **33%**. This is not waivable at any bar available in this act.
+
+**Community Benefit Agreement (CBA) — minimum requirements.** The corporation seeking the cap exception commits to specific, measurable community obligations: minimum local employment ratios, co-op supply-chain preferences, infrastructure contributions to the municipality, and environmental standards above the baseline. The Regional Board (which approves at 6/11) is the community's representative — it negotiates the CBA and enforces it. If the company breaches, the Regional Board may refer to the Corporate and Exchange Commission to revoke the exception.
+
+**Labor Peace Agreement (LPA) — minimum requirements.** The corporation commits to maintaining the §4.1 worker-board seats, not retaliating against worker organizing, and accepting binding arbitration (Chamber Act §6.6) on labor disputes during the exception period. The workers commit to exhausting arbitration before any work stoppage. Since worker-board representation is already a listing condition, the LPA locks those protections in place and adds a no-retaliation clause for the duration of the cap exception.
 
 **A. The capital-intensive exception (appetite).**
 
@@ -206,7 +211,7 @@ When a rolling jubilee (Monetary §2.2) converts a corporation's forgiven debt i
 ### 3.5 Off the Exchange (by design)
 
 - **Citizens' Metals ETF:** is now listed on the Exchange (see §3.6). It is no longer off-exchange.
-- **Sovereign metals reserve:** the SMSWF holdings and the metal backing the cash flecks are a **strategic state asset and the system's catastrophe floor — never a security, never listed, never traded** (Sovereign Functions Act §5.1).
+- **Sovereign metals reserve:** the Sovereign Metals Streaming Facility (SMSF) holdings and the metal backing the cash flecks are a **strategic state asset and the system's catastrophe floor — never a security, never listed, never traded** (Sovereign Functions Act §5.1).
 - **Debt:** there is no debt board. Crossroads issues no sovereign bonds and runs no repo (Monetary §1.5A); the tradable universe is ownership and (now on-exchange) the metals ETF — never debt or rates. Household credit is likewise not an instrument: the citizen revolving credit line (Monetary §1.6A) is a facility in a wallet, not a claim, and it may never be sold, pooled, securitized, or listed. **A country that will not securitize a mortgage will not securitize a credit card balance.**
 
 ### 3.6 Metals ETF Board
@@ -217,7 +222,7 @@ When a rolling jubilee (Monetary §2.2) converts a corporation's forgiven debt i
 - **Nature:** the shares are not a debt instrument; they represent proportional ownership of the metal pool. No redemption right exists against the fund.
 - **Pricing:** anchored to net asset value (NAV) of the underlying metal, calculated daily and published by Treasury. Movement band: ±5% of NAV per day.
 - **Minimum holding period:** 30 days, to discourage short-term flipping.
-- **Tier caps apply to total holdings:** a citizen may not hold ETF shares (primary and secondary combined) exceeding their tier cap (CU §2.2: Base ~$300, Silver ~$15,000, Gold ~$20,000). The Exchange enforces this via the share register; CED audits quarterly. Excess holdings must be divested within 90 days or are subject to forced sale.
+- **Tier caps apply to total holdings:** a citizen may not hold ETF shares (primary and secondary combined) exceeding their tier cap (CU §2.2: Base ~$5,000, Silver ~$25,000, Gold ~$50,000). The Exchange enforces this via the share register; CED audits quarterly. Excess holdings must be divested within 90 days or are subject to forced sale.
 - **Cost basis is the credit-line value.** For the citizen revolving credit line (Monetary §1.6A; CU §4.4), ETF shares count toward countable reserve at **cost basis** — never at NAV and never at this board's price. Counting at cost encourages the ETF without importing metal volatility into household credit: a citizen's line does not swing with the gold price, in either direction. The ETF is the one genuinely free price in the system, and household credit is deliberately deaf to it.
 - **Backstop:** no public backstop. No RLP/SWF/DIP support. Price is discovery; no one is guaranteed a floor. The ±5% daily band provides stability, but there is no institutional buyer of last resort. This makes the ETF a true market, not an insured instrument.
 - **Transparency:** total ETF shares outstanding and metal holdings are published daily. Large holdings above $10M are publicly disclosed (pseudonymously).
@@ -255,11 +260,13 @@ When a rolling jubilee (Monetary §2.2) converts a corporation's forgiven debt i
 
 - **No foreign participants on the FX Board.** The FX Board is a domestic facility. Foreign counterparties settle through the Exchange's global-segment infrastructure (§7) or through bilateral correspondent arrangements. This prevents foreign speculative capital from entering the BWC market directly.
 
+> **How foreign currency actually clears.** The FX Board is a domestic matching facility; foreign currency reaches it through **bilateral correspondent banking arrangements** — standing accounts between Crossroads credit unions and foreign banks. An exporter receiving yen from a Japanese buyer deposits the yen into the correspondent account; the credit union credits BWC to the exporter's wallet and offers the yen on the FX Board to a domestic importer who needs it. Where domestic demand for a given currency falls short of supply — a persistent trade surplus with one country — the surplus flows to the SWF's foreign-currency reserve (§3.7.4) or is rebalanced through cross-currency correspondent transactions. The correspondent channel is not a workaround; it is the standing plumbing connecting the domestic FX Board to the world's currency markets, operating continuously alongside the board. The §3.7.7 transition-period bilateral arrangements mature into this permanent correspondent infrastructure rather than disappearing.
+
 #### 3.7.3 Rate discovery and the anti-intervention rule
 
 **The BWC exchange rate is discovered, not administered.** The FX Board publishes a market-clearing rate for each currency pair at the close of each trading session. This is the reference exchange rate for all official purposes (tariff valuation, royalty conversion, trade statistics).
 
-**No person, board, bureau, or organ of the state may target, defend, peg, or band the BWC exchange rate.** The rate is an output of trade flows and the economy beneath them. If the BWC weakens, it weakens; if it strengthens, it strengthens. The state's job is to run a sound economy, not to choose a number.
+**No person, board, bureau, or organ of the state may target, defend, peg, or impose a permanent band on the BWC exchange rate.** The rate is an output of trade flows and the economy beneath them. If the BWC weakens, it weakens; if it strengthens, it strengthens. The state's job is to run a sound economy, not to choose a number. The §3.7.5 session circuit breaker limits the *speed* of movement within a single session; it does not constrain the *direction* or *destination* of the rate across sessions.
 
 > **Why this rule exists, and why it is absolute.** Exchange-rate intervention is the single largest source of discretionary monetary power in any economy. A central bank that defends a peg can burn through foreign reserves in weeks, impose capital controls overnight, and distort the entire price system — all without a vote. New Crossroads has no central bank because it has no tolerance for that power. **The FX Board discovers a rate. Nobody defends it.**
 
@@ -270,7 +277,7 @@ The §1.8 systemic-freeze telemetry (Monetary Act) watches the FX Board's volume
 The SWF maintains a **foreign-currency reserve** — a pool of USD, EUR, and other major currencies held for trade continuity and crisis imports. This reserve:
 
 - Is funded by a share of the SWF's returns, invested offshore. It is NOT funded by domestic tax revenue or by intervention profits.
-- Targets a **prudential floor** — enough to cover ~6 months of essential imports (~$275B at founding). The floor is published; the actual holdings are published quarterly.
+- Targets a **prudential floor** — enough to cover ~6 months of essential imports (target ~$275B at maturity; near zero at founding, builds during the SWF contribution phase — see Monetary Act §2.1A). The floor is published; the actual holdings are published quarterly.
 - **May never be used to defend the exchange rate.** It exists so that if trade credit dries up (as it did in the post-default squeeze), the nation can still buy fuel, components, and medicines on the world market. It is an insurance policy, not a weapon.
 - Is governed by the same §5.4 absolute bar as the rest of the SWF: no defense carve-out, no sovereign-operations draw.
 
@@ -279,8 +286,9 @@ The SWF maintains a **foreign-currency reserve** — a pool of USD, EUR, and oth
 The equity boards use minimum holding periods and daily price caps. The FX Board uses different tools for the same purpose:
 
 - **Batched auctions** (e.g. hourly or per-session) rather than continuous matching. This prevents high-frequency front-running and slows speculative momentum.
-- **Daily movement band:** the BWC may not move more than **±3%** against any single currency in one trading session. If the band is hit, the session closes early and reopens next session. This is a circuit breaker, not a peg — the rate can move 3% every day for a week if the fundamentals warrant it, but it cannot move 15% in an hour.
+- **Session circuit breaker:** the BWC may not move more than **±3%** against any single currency in one trading session. If the breaker is hit, the session closes early and reopens next session. This is a speed limit, not a band — the rate may move 3% every session indefinitely if fundamentals warrant it, but it cannot move 15% in an hour. The breaker limits the pace of adjustment, never its direction or cumulative extent.
 - **Position limits:** no single participant (including the SWF) may hold an open FX position exceeding **1% of the board's trailing 30-day volume** without Exchange Authority approval (6/11). This prevents cornering.
+- **Launch-period rule.** For the first 30 trading days of any currency pair, position limits are set by the Exchange Authority at a fixed BWC amount rather than a percentage of trailing volume.
 - **No short selling of BWC.** You cannot sell BWC you do not hold. This is the Section 2.5 shorting prohibition applied to currency — a speculator cannot bet against the BWC without first acquiring it.
 
 #### 3.7.6 Conversion requirements and the CED
@@ -342,7 +350,7 @@ In the immediate post-revolution period, before the FX Board is operational:
 *Rationale:* a holder who wants to spread risk across many issuers — rather than betting on one credit union or one co-op — needs a diversification vehicle. The safe way to provide it is a **plain, transparent, pass-through index fund**: it holds the actual underlying shares, discloses exactly what it holds, adds no synthetic seniority, and carries no leverage. This delivers the benefit the bundling instinct reaches for (don't sink with one wobbly issuer) without any of the opacity-plus-fake-safety that Section 2.5 prohibits.
 
 - **Special-Share Index:** an equal- or book-weighted fund holding the actual special shares of many credit unions, pass-through, fully transparent. A holder sees precisely which credit unions' risk they own; nothing is repackaged or re-rated. Because it holds the real shares, it does **not** blind the bank-soundness signal (Section 6) — the underlying prices remain visible.
-- **Co-op Index:** the analogous pass-through fund over Co-op Capital Index shares (an evolution of the existing CCI index logic).
+- **Co-op Index:** the analogous pass-through fund over Co-op Capital Index shares (an evolution of the existing Co-op Capital Index (CCI) logic).
 - **Metals ETF Index:** a pass-through fund holding actual ETF shares, reflecting the NAV of the metal pool. Transparent, fully disclosed. May be included in broader investment funds.
 - **Global Sound-Capital Index:** a transparent pass-through fund over qualifying **global-segment** issuers (Section 7), holding the actual underlying shares, fully disclosed. It lets a citizen buy a diversified slice of honestly-run cooperative and mutual enterprises worldwide. It is **flagged as carrying foreign risk outside the domestic backstops** (2.4, 7.2), holds only global-segment instruments, and may never co-mingle with the domestic indices.
 - **Rules:** index funds are themselves transparent and pass-through only — no fund-of-funds leverage, no synthetic replication, no tranching of the index. Domestic indices hold only Domestic-Core instruments; the Global index holds only global-segment instruments; **no fund co-mingles the two segments (7.2).** They list and trade under the same Section 2 spine.
@@ -358,14 +366,17 @@ In the immediate post-revolution period, before the FX Board is operational:
 - **Index/Pool stewards:** the **CCIF Alliance Network** manages the Co-op Capital Index under **Productive Chamber oversight** (FCL Act §3.8.7); **Treasury** manages the Citizens' Metals ETF and provides NAV calculations; **individual credit unions** manage their own special shares; **individual corporations** manage their own equity.
 
 - **Trading venue operators:** the **Exchange Authority** operates all trading venues (Co-op Board, Credit-Union Capital Board, Corporate-Equity Board, Metals ETF Board, Investment Fund Board, FX Board) under Territorial Chamber oversight.
-- **Listing approval chain (domestic):** Regional Board (6/11) → relevant Productive Chamber → Territorial Chamber (simple majority).
-- **The two cap exceptions (3.3)** — capital-intensive and jubilee — run **Regional Board (6/11) → the relevant Productive Chamber (supermajority) → Territorial Chamber (15/20)**, plus the Community Benefit and Labor Peace Agreements, with a hard 33% insider floor. **No sovereign approval at any step.** The Metals ETF Board is listed by Treasury in consultation with the Exchange Authority; no discretionary approval is required beyond rulebook compliance.
+- **Listing approval chain (domestic):** Regional Board (6/11) → the Corporate and Exchange Commission (recommendation) → Territorial Chamber (simple majority).
+- **The two cap exceptions (3.3)** — capital-intensive and jubilee — run **Regional Board (6/11) → the Corporate and Exchange Commission (recommendation) → the full Productive Chamber (supermajority) → Territorial Chamber (15/20)**, plus the Community Benefit and Labor Peace Agreements, with a hard 33% insider floor. **No sovereign approval at any step.**
 - **The sovereign holds one power in this act and it is external.** Global-segment governance: the Sovereign Council holds the statecraft powers (Sovereign Functions Act §2.4) — accrediting auditors, approving/suspending foreign listings on foreign-policy or national-security grounds, and the phase-two activation determination — with citizen oversight via the 1% petition mechanism. That is a foreign-relations power over a foreign venue, which is on the Council's closed list. Nothing on the Domestic Core is.
 - **Audit & data:** the CED logs aggregate board volume and per-issuer ownership splits, all pseudonymized; the Special Auditors (Sovereign Functions Act §3) and system auditors review listings and may not request individual cash records. Identity reaches a position only via the Judicial Link Box (Sovereign Functions Act §4.2).
-- **Enforcement:** violations of the Section 2.5 prohibitions (attempting to tranche, create derivatives, short, or leverage listed instruments) are **void as transactions**. **Treasury's Capital Markets Bureau** (Sovereign Functions Act §6A.1) supervises the market continuously and refers violations to the **Special Auditors** (§3), who prosecute before the judiciary. Corporate-governance violations (Monetary §4.1) are handled by the **Corporate Governance Enforcement Unit** under Productive Chamber oversight. Appeal to ad-hoc arbitration (Chamber Act §6.6) and, on procedural grounds, the Supreme Court (Sovereign Functions Act §4).
+- **Enforcement:** violations of the Section 2.5 prohibitions (attempting to tranche, create derivatives, short, or leverage listed instruments) are **void as transactions**. **Treasury's Capital Markets Bureau** — a standing supervisory unit within Treasury responsible for continuous market monitoring, listed-instrument compliance, and referral of suspected violations to the Special Auditors (Sovereign Functions Act §6A.1) — supervises the market continuously and refers violations to the **Special Auditors** (§3), who prosecute before the judiciary. Corporate-governance violations (Monetary §4.1) are handled by the **Corporate Governance Enforcement Unit** under the Corporate and Exchange Commission (a standing 15-member commission of the Productive Chamber — 10 co-op, 5 corporate). Appeal to ad-hoc arbitration (Chamber Act §6.6) and, on procedural grounds, the Supreme Court (Sovereign Functions Act §4).
 
 - **Committee oversight:** the **Financial Services & Mutual Funds Committee** (Chamber Act §6.7) scrutinizes the Exchange, the Exchange Authority, and Treasury's Capital Markets Bureau in public session, and may refer findings to the Special Auditors under the §6.7 referral mechanism.
-- **Amendments:** require a 75% Territorial Chamber vote (15/20 Regional Boards) plus concurrence from both Productive Chambers and a simple-majority universal referendum, matching the Chamber Act §10.5 middle bar for structural changes.
+
+- **Operational parameters** — including band widths, session timing, auction frequency, position limits, and settlement-cycle length — are **delegated to the Exchange Authority** subject to Territorial Chamber oversight and may be adjusted without the legislative amendment process. The amendment bar below governs the structural rulebook (Section 2 prohibitions, board definitions, the firewall, governance); the Exchange Authority governs the dials within that rulebook.
+
+- **Amendments:** structural changes to this act (Section 2 prohibitions, board definitions, the firewall, governance rules) require a simple majority of the Territorial Chamber (11/20 Regional Boards) and a simple majority of the Productive Chamber. Operational parameters are delegated to the Exchange Authority (above).
 
 ---
 
@@ -459,7 +470,7 @@ Same building, sealed rooms. Capital and ideas may pass between the segments onl
 | Dampening | 90–110% / ±10% / ±5% daily bands; 12-month (co-op) & 3-year (special-share) & 30-day (ETF) holds; §4.1 short-term trade tax |
 | Backstop | CCIF at 90% of book; special-share 90% floor; index/buyback last resort — **domestic only**; Metals ETF has no backstop |
 | Corporate cap | ≤49% outside ownership / ≥51% insider; §4.1 disciplines as listing conditions (entrenched as §12.3) |
-| **Corporate cap exceptions** | **Two: capital-intensive (appetite, renewable 5-yearly) and jubilee (distress, recovery-window only). Both: Regional Board 6/11 → relevant Productive Chamber (supermajority) → Territorial Chamber 15/20, + CBA + Labor Peace. Hard 33% insider floor. NO SOVEREIGN APPROVAL. Neither available to global-segment issuers** |
+| **Corporate cap exceptions** | **Two: capital-intensive (appetite, renewable 5-yearly) and jubilee (distress, recovery-window only). Both: Regional Board 6/11 → Corporate and Exchange Commission (recommendation) → Productive Chamber (supermajority) → Territorial Chamber 15/20, + CBA + LPA. Hard 33% insider floor. NO SOVEREIGN APPROVAL. Neither available to global-segment issuers** |
 | **Corporate Freedom Shares** | **Plain equity — no class exists to put them in. Count against the 49% cap. No tenure-multiplier accrual while a credit union holds them. Exit via Corporate-Equity Board restores the cap. Below the 33% floor: converts to FCL, credit union exits via Co-op Board instead** |
 | Credit-line values (Monetary §1.6A) | Special shares at **par**, never board price. ETF at **cost basis**, never NAV. Index funds at the underlying's value. Global segment: **zero** |
 | Sovereign's role | **Global segment statecraft only** (Sovereign Functions Act §2.4). Nothing on the Domestic Core |
@@ -472,7 +483,7 @@ Same building, sealed rooms. Capital and ideas may pass between the segments onl
 | Privacy | Individual trades private; aggregate volume in CED; >$10M holdings disclosed; identity only via Link Box; **no credit bureau, score, or file exists** |
 | Domestic operator | Exchange Authority (non-profit clearing/registry) under Territorial Chamber; indexes/pools managed by their own stewards |
 | Committee oversight | Financial Services & Mutual Funds Committee (Chamber Act §6.7), public session, referral to Special Auditors |
-| Amendments | 75% Territorial Chamber (15/20 Regional Boards) + both Productive Chambers + simple-majority universal referendum (Chamber Act §10.5 middle bar) |
+| Amendments | Simple majority Territorial Chamber (11/20) + simple majority Productive Chamber. Operational parameters delegated to Exchange Authority |
 
 ---
 
@@ -512,4 +523,4 @@ That is the Exchange Act.
 
 ---
 
-**End of Draft 1.7**
+**End of Draft 1.8**
