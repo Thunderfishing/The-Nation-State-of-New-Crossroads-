@@ -44,11 +44,11 @@ Money does not cross between pots except where an act says so, and each crossing
 
 **Co-op Advantage Principle:** a co-op's effective burden (profit tax + commons) never exceeds an identical corporation's (profit tax + SWF contribution) at any profit level. Entrenched (Chamber Act §11). Profit taxation is exclusively federal (§G) — the comparison holds only where one body sets both.
 
-| Profit tier | Commons share of remaining profit |
+| Profit level | Commons obligation |
 |---|---|
-| < $1M | 5% |
-| $1M–$10M | 15% |
-| > $10M | ~22% |
+| Below $1M (Tier 1) | **None mandatory** (voluntary donations welcome) |
+| $1M–$10M (Tier 2) | **None mandatory** (voluntary — effective burden is 5% profit tax only) |
+| Above $10M (Tier 3) | **Marginal 22% on the portion of post-tax profit above $10M only** |
 
 **Co-op net profit: ~$400B** (~10.3% margin on ~$3.9T of co-op value-added). Confirmed by two independent methods: the margin derivation (9.5% of $3.9T) and the labour-share cross-check (value-added × 45% capital share × ~25% net ≈ ~$440B).
 
@@ -62,7 +62,7 @@ Money does not cross between pots except where an act says so, and each crossing
 
 ---
 
-## D. NATIONAL TIER — Revenue (~$493B)
+## D. NATIONAL TIER — Revenue (~$495B)
 
 | Stream | Rate | ~Annual |
 |---|---|---:|
@@ -127,7 +127,7 @@ Money does not cross between pots except where an act says so, and each crossing
 
 **The SWF may never fund sovereign operations** (Monetary §5.4 — absolute bar).
 
-### F.3 Contributions — ~$138B/year
+### F.3 Contributions — ~$143B/year
 
 | Source | ~Annual |
 |---|---:|
@@ -162,7 +162,7 @@ The stabilizer cuts where the money lands, never what anyone pays. The corporate
 
 **~$1,400 per citizen per year. ~$5,600 for a household of four.** Cash, tax-free, no filing, no threshold, no audit. The only transfer that reaches the informal majority.
 
-> **v3.2 note.** The §7.4 channel includes both the redirected SWF contributions (~$71.8B — corporate $60B + access fees $10B + BWC $1.8B) and the budget surplus (~$69B). Both flow to the dividend once the SWF caps. The 6% VAT (v3.2) absorbs the stipend and infrastructure corrections, restoring the dividend to ~$1,400/citizen — above the original ~$1,359. The Parks Index (~$2B, scaling to ~$6B) contributes the final increment.
+> **v3.2 note.** The §7.4 channel includes both the redirected SWF contributions (~$71.8B — corporate $60B + access fees $10B + BWC $1.8B) and the budget surplus (~$71B). Both flow to the dividend once the SWF caps. The 6% VAT (v3.2) absorbs the stipend and infrastructure corrections, restoring the dividend to ~$1,400/citizen — above the original ~$1,359. The Parks Index (~$2B, scaling to ~$6B) contributes the final increment.
 
 **Cash-first reduction rule:** if the dividend must be reduced (a revenue shock), the cash portion absorbs the reduction first. The forced-savings auto-route (Housing Act §3.1) is reduced only after the cash portion reaches zero.
 
@@ -252,18 +252,58 @@ Estate bequests; **outside the SWF and outside the 12% cap**. Principal locked u
 
 ---
 
-## K. Derive-Don't-Assert Rule
+## K. Foreign-Asset Allocation (Illustrative — Treasury Investment Mandate, Monetary Act §2.1A)
+
+The nation holds foreign and reserve assets across two pools, governed by the Treasury Investment Mandate with binding constraints entrenched in the Sovereign Functions Act §5.7.
+
+**Foreign-currency reserve (~$275B, scaling with imports):**
+
+| Asset class | Target | ~Value (2025) | Freezable? |
+|---|---|---|---|
+| G7 sovereign bonds (5 currencies) | ~30% | ~$82B | Yes — but ~$16B per nation max |
+| Physical gold/metals (SMSWF, domestic vaults) | ~25% | ~$69B | No — domestic soil |
+| Foreign equities (broad index) | ~25% | ~$69B | Partially — diversified across 30+ nations |
+| Strategic commodity stockpiles (domestic) | ~10% | ~$27B | No — physical goods, domestic warehouses |
+| Foreign-currency deposits (diversified) | ~10% | ~$27B | Partially — spread across jurisdictions |
+
+**SWF foreign allocation (~40% of corpus):**
+
+| Asset class | Target | ~Value (at $720B cap: ~$288B; at $2.28T cap: ~$912B) |
+|---|---|---|
+| Global equities | ~50% | ~$144B → ~$456B |
+| Foreign infrastructure | ~15% | ~$43B → ~$137B |
+| Foreign real estate | ~10% | ~$29B → ~$91B |
+| G7 sovereign bonds | ~10% | ~$29B → ~$91B |
+| Physical gold/metals (SMSWF) | ~10% | ~$29B → ~$91B |
+| Strategic investments (supply-chain stakes) | ~5% | ~$14B → ~$46B |
+
+**Binding constraints (Sovereign Functions Act §5.7):**
+
+- No more than 20% in any single nation's instruments
+- No more than 30% freezable by any single foreign sovereign
+- No exchange-rate intervention — absolute bar
+- Combined gold/metals (SMSWF vault, domestic): 70%+ of reserve and foreign assets unfreezeble by any foreign power
+
+**By 2075:** the SMSWF vault (one stockpile — sovereign reserve and citizen ETF certificates against the same metal) likely holds ~7,000–10,500 tonnes of gold, ~150,000+ tonnes of silver, and significant platinum-group metals — potentially the **2nd or 3rd largest gold reserve on Earth.** All domestic. All non-redeemable. All accumulating through the one-way streaming valve.
+
+> **These are illustrative targets, not binding figures.** The Treasury Investment Mandate (published annually, Special Auditor-audited) sets the actual composition within the binding constraints. The figures here show the intended shape, not the required numbers. Global conditions change; the mandate adapts; the constraints hold.
+
+---
+
+---
+
+## L. Derive-Don't-Assert Rule
 
 State the base assumptions (§A) once; derive the rest. Round honestly. Carry the disclaimer: *"Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values."*
 
 ---
 
-## L. Open Items
+## M. Open Items
 
 | # | Item | Status |
 |---|---|---|
 | **C1** | Co-op profit chain — settled at ~$400B. VAT absorbed the correction at 5%. | **RESOLVED** ✓ |
-| **C2** | Education gross voucher — $180B gross, $10B FCL offset, $170B net. | **RESOLVED** ✓ |
+| **C2** | Education gross voucher — $180B gross, $11B FCL offset, ~$170B net. | **RESOLVED** ✓ |
 | **E1** | Mandatory-service stipends — ~$13.5B, broken out as a named transfer line (v3.2). | **RESOLVED** ✓ |
 | **E2** | Citizen dividend — restored to ~$157B (~$1,400/citizen) by the 6% VAT + Parks Index revenue (v3.2), absorbing both the stipend correction and the infrastructure revenue correction. All acts aligned. | **RESOLVED** ✓ |
 | **E3** | Infrastructure access-fee revenue — corrected from ~$75B (operator revenue) to ~$17B (state access fees at 155% of maintenance). SWF share drops from ~$22.4B to ~$5.1B. Barge traffic corrected from 75M to 170M tonnes; sea ports from 150M to 300M tonnes; highway traffic from 15B to 182B vehicle-km. Crossroads City freshwater port added. Absorbed by 6% VAT. | **RESOLVED** ✓ |
@@ -274,6 +314,7 @@ State the base assumptions (§A) once; derive the rest. Round honestly. Carry th
 
 ---
 
+
 ## Solvency Summary
 
 **National tier:** ~$495B revenue against ~$424.5B spending = **~$71B surplus**, flowing to the SWF until it caps (~2028) and to the citizen dividend thereafter. Operations are ~$196B — **3.3% of GDP, inside the 4% cap**. No debt, no issuance, no SWF draw.
@@ -282,7 +323,7 @@ State the base assumptions (§A) once; derive the rest. Round honestly. Carry th
 
 **Subnational tier** is self-funding — royalties, income tax, VAT, and fees — equalized by the MMF/RMF, with no debt at any level. ~$134B revenue, ~$112B spending, ~$22B surplus.
 
-**Major services self-fund:** healthcare on premiums (~$448B, 7.5% of GDP), infrastructure on maintenance-recovery fees, the credit-union network on a ~3% net interest margin.
+**Major services self-fund:** healthcare on premiums (~$451B, 7.5% of GDP), infrastructure on maintenance-recovery fees, the credit-union network on a ~3% net interest margin.
 
 **Combined state spending (federal + subnational): ~$536.5B = 8.9% of GDP.**
 
