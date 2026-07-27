@@ -119,9 +119,6 @@ Credit unions operate under the Credit Union Act 5.7, which establishes Regional
 | 500 – 10,000 BWC | 0.3% | Cost recovery |
 | Above 10,000 BWC | **$30 flat per transaction**, DLB-indexed | Cost recovery; no cascade; no cliff |
 
-> **Why $30, and why it is not a choice.** A 9,999 BWC transfer pays 0.3% — **exactly $30**. Any flat fee above $30 therefore means crossing 10,000 costs *more* than staying under it, and 10,000 is already the CED transparency threshold (§1.1). A fee cliff stacked on a privacy cliff, at the one number citizens already have reason to stay beneath, is an engine for splitting transactions — and splitting is precisely the transaction-count work this system exists not to generate. At $100 the jump is 3.3×; at $165 it is 5.5×. **At $30 there is no jump at all, and the schedule is continuous through the boundary.**
->
-> The figure is therefore derived from the band beneath it rather than from a revenue target — which is why it needed no transaction count. It also means network fee revenue lands nearer **0.1% of GDP than 0.15%**: the target moves to the fee, not the fee to the target. That is the correct direction. A fee set to hit a revenue number is a tax; a fee set to price a service is a fee.
 
 **Exemptions (fixed list).** Utilities, tax, rent, and loan repayment in BWC carry no transaction fee. The list is stated here and may be changed only through the ordinary lawmaking path (Chamber Act §6). Carve-out lists grow and acquire constituencies; this one is pinned in the act so that growing it is a public act rather than an administrative one.
 
@@ -181,8 +178,6 @@ In plain terms: print to meet cash demand, but never so much that the basket inf
 
 **The level (illustrative): ~3.5%** — a ~2% target real return plus ~1.5% trailing DLB inflation, against the 1–2% band of §1.5. This is the rule's output at founding, not a fixed value; it moves as the DLB moves.
 
-> **Why this section now states a level.** Every rate in this corpus is expressed as a band around the reference rate — savings at reference − 1%, loans at reference + 2%, RLP at + 1%, SWF backstop at + 2%, special-share dividend at + 2%, the revolving line at + 5%. That is **eighty-three cross-references across two acts to a number that appeared nowhere.** An anchor with no value cannot be checked, and every rate hanging off it was therefore unfalsifiable: a reader could not tell whether savings paid 2.5% or 4%, whether the micro-loan subsidy cleared its funding cost, or whether the special-share dividend beat an insured deposit. It did not — at the ~5% the old draft implied, the micro-loan's carry was **zero** and the service-sector loan's was **negative**. The level is stated here so the bands mean something.
-
 **Flat-and-slow mandate.** The reference rate changes only **gradually** and only in response to **sustained** DLB/PPI drift — never to short-term noise. Stability is chosen over responsiveness deliberately, matching the monthly-not-daily temperament of the PPI (Credit Union Act §1.4). A flat, slow rate keeps every downstream rate (savings, loans, special-share dividends, revolving credit, backstop pricing) steady.
 
 **Decoupling clause (load-bearing).** The **intra-credit-union / interbank (peer-lending) rate floats freely** — it is the short-end liquidity price and the fastest crisis-detection signal (a spike *is* a freeze; see §1.8). The **published reference rate does not track interbank stress.** In a freeze, interbank rates may blow out, but the reference rate — and therefore the RLP backstop at reference + 1% and the SWF backstop at reference + 2% (Credit Union Act §6.4) — stays stable, keeping the lender of last resort cheap precisely when it is needed. The moving part detects the crisis; the stable part anchors the system through it.
@@ -197,8 +192,6 @@ In plain terms: print to meet cash demand, but never so much that the basket inf
 
 **Consumers of the reference rate (wiring).** Loan and deposit bands (Credit Union Act §4); the citizen revolving credit line at reference + 5% (§1.6A); the special-share dividend premium, reference + 2% after the 7/6/5 step-down (Credit Union Act §3.2); RLP loans at reference + 1% and SWF backstop at reference + 2% (Credit Union Act §6.4); DIP short-term instruments (Credit Union Act §6.5).
 
-> **Anchoring means anchoring.** Several sector acts still carry hardcoded rates — Utilities §6.2 sets SMR loans at 3.5% and CCIF at 4% — beneath headers declaring those same loans reference-rate-anchored. A fixed number is not a band around a published rate; if the reference rate moves, 3.5% does not. Those figures are bands to be expressed as `reference ± n`, and the Utilities pair additionally inverts risk pricing: the uninsured voluntary pool prices **below** the DIP-insured credit union. Both are logged in the Consolidated Fiscal Model for correction in those acts.
-
 **Relationship to §1.5.** §1.5 governs the **quantity** of base money — the macro lever. §1.5A sets the **price** of credit — administrative and distributive. They are separate jobs with separate instruments; neither substitutes for the other. Because demand management is handled by §1.5, the reference rate is explicitly **not** the crisis lever (see §1.8): a crisis flows through the automatic liquidity (quantity) channel, not through a rate move there is no bond market to transmit.
 
 ---
@@ -207,7 +200,7 @@ In plain terms: print to meet cash demand, but never so much that the basket inf
 
 A citizen's wallet is one interface with separate, never-blended compartments:
 
-1. **Spendable BWC** — fiat money for daily use, transfers, business, and government payment; 1:1 swappable with cash, **free in both directions**. Reports to the CED pseudonymously; identity authentication comes from the PPK, never from the money layer.
+1. **Banking Suite** — fiat money for daily use, transfers, business, and government payment; 1:1 swappable with cash, **free in both directions**. Reports to the CED pseudonymously; identity authentication comes from the PPK, never from the money layer.
 2. **Citizens' Metals ETF position** — an optional investment in the national gold/silver fund. Earns returns for the holder; grows the metals reserve as a byproduct. This is savings, not currency — the metal backs ETF shareholders, not BWC. National vehicle, not residency-bound.
 3. **Credit-union shares** — membership/ownership stake and dividends. Base shares are held within the member's field of membership (Credit Union Act §1.5) and carry the vote; special shares are non-voting and freely held and traded nationally (Credit Union Act §3.2, §3.3).
 4. **Banking gateway** — access to savings, GICs, retirement, loans, and micro-loans at reference-rate-anchored rates (§1.5A).
