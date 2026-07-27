@@ -1,4 +1,4 @@
-# Crossroads Monetary Reform & Economic Stabilization Act of 2025: Draft 9.8
+# Crossroads Monetary Reform & Economic Stabilization Act of 2025: Draft 9.9
 
 ---
 
@@ -58,7 +58,7 @@ Cash and digital BWC are the same unit at 1:1 parity — cash is simply BWC in p
 - **Swap Fee (Cash → BWC):** **Free.** No fee to enter the formal layer.
 - **Swap Fee (BWC → Cash):** **Free.** No fee to leave it either. The rationale above is the reason: a state whose stated goal is that *no citizen is penalized for using cash* may not toll the only door into the cash layer. A wage earner paid in BWC would otherwise pay to obtain the protected medium, which is the penalty in a different coat. The swap is free in both directions, and the automatic floor above therefore delivers the full top-up, not the top-up less a fee. See §1.3.
 - **Legal Export:** prohibited. Cash may not cross national borders; customs enforcement at all ports and crossings (Sovereign Functions Act §2.3).
-- **Foreign-currency interface:** the BWC converts to and from foreign currencies through the **FX Board** on the Crossroads Exchange (Exchange Act §3.7) — a transparent, rule-based, market-clearing facility. The exchange rate is **discovered, not administered**; no person, board, bureau, or organ of the state may target, defend, peg, or band it (Exchange Act §3.7.3). Violations: seizure and fines up to 10× face value.
+- **Foreign-currency interface:** the BWC converts to and from foreign currencies through the **FX Board** on the Crossroads Exchange (Exchange Act §3.7) — a transparent, rule-based, market-clearing facility. The exchange rate is **discovered, not administered**; no person, board, bureau, or organ of the state may target, defend, peg, or impose a permanent band on it (Exchange Act §3.7.3). Violations: seizure and fines up to 10× face value.
 - **Cost:** note production ~$500M/year. (The embedded metal is a one-time value carried in the note and recirculated, not an annual expense; only net new issuance consumes new metal.)
 
 ---
@@ -76,7 +76,7 @@ Cash and digital BWC are the same unit at 1:1 parity — cash is simply BWC in p
 - **The multiplier is ~2.9×, and that is a choice, not a shortfall.** A 10% reserve implies a 10× multiplier **only if no currency leaks out of the banking system.** With a currency drain the multiplier is `(1+c)/(r+c)`, not `1/r` — and this nation deliberately stuffs its velocity layer with physical cash at ~12% of GDP. Running the arithmetic on the figures in this act: base ~$720B, deposits ~$1.86T, broad money ~**$2.6T ≈ 43% of GDP**, multiplier ≈ **2.9×**. Prior drafts asserted "broad money ≈ base × ~10," which is the textbook figure for a cashless banking system and cannot describe this one. **Cash in a pocket is money that cannot be levered.** A cash-heavy society is choosing a low multiplier, and that low multiplier is one of the reasons the credit system is hard to break. The reserve requirement is the ceiling; the cash drain is what holds the system well beneath it.
 - **Transaction Fees:** 1% under 500 BWC; 0.3% from 500 to 10,000; a **flat per-transaction fee** above 10,000. See §1.3.
 - **Transparency Threshold:** $10,000. Digital BWC transactions below it carry no transaction-level detail; transactions above it are logged pseudonymously in the CED (transparent to the system, never tied to identity absent a warrant). Cash is never recorded.
-- **Features:** real-time wallet status; CME-resilient via hardened grid and EMP-proof vaults.
+- **Features:** real-time wallet status; coronal mass ejection (CME)-resilient via hardened grid and EMP-proof vaults.
 
 ---
 
@@ -91,7 +91,7 @@ Credit unions operate under the Credit Union Act 5.7, which establishes Regional
 - **Loan loss reserve — the missing middle layer.** Every credit union holds a published minimum provision against expected losses, set by loan class and taken against earnings before patronage (Credit Union Act §4.3). It is distinct from both of its neighbours: the **10% liquidity reserve** is an *asset* held against deposits and funds nothing; **special-share capital** is the cushion for *unexpected* losses. Three layers, in order: the provision absorbs expected losses, capital absorbs unexpected ones, the DIP absorbs failure. Under-reserving is a violation prosecutable by the Special Auditors, not a matter of board judgment — on the same logic as deferred maintenance under the Utilities Act: the failure is invisible until it is a crisis, so the number is published, measured, and chargeable.
 - **Structure:** ~5,000 credit unions, chartered by population/deposits with field-of-membership coverage — catchments drawn so every residence falls within at least 3 credit unions' fields of membership; no fixed per-region count (Credit Union Act §1.5). ~5,000 is a derived illustrative headline.
 - **Loan Allocation:** by creditworthiness and productive use; reported by sector for monitoring; no binding quotas. The 2025 baseline (~65% co-op, 15% corporate, 20% informal) is descriptive, not prescriptive.
-- **Micro-loans:** $500–$5,000, 4% interest, self-attested income, no verification — for **student ventures and small-business capital only**. Set below the reference rate by design. Everyday household credit is **not** a micro-loan and never was: it is the revolving line built into every wallet (§1.6A), which needs no application, no officer, and no file.
+- **Micro-loans:** $500–$5,000, 4% interest (reference + 0.5%), self-attested income, no verification — for **student ventures and small-business capital only**. Set below the standard lending rate by design. Everyday household credit is **not** a micro-loan and never was: it is the revolving line built into every wallet (§1.6A), which needs no application, no officer, and no file.
 - **Citizen revolving credit line:** built into every wallet at issue; sized by published formula off the citizen's reserve (§1.6A). It carries no officer, no processing time, and no discretion, and it is therefore outside the asymmetric-scrutiny ladder below, which governs *loans*.
 
 **Asymmetric Scrutiny:**
@@ -101,7 +101,7 @@ Credit unions operate under the Credit Union Act 5.7, which establishes Regional
 - $1M–$10M: full audit, CED logging, Regional Board approval (6/11), public disclosure.
 - Above $10M: Territorial Chamber review (15/20 Regional Boards), published in the annual transparency report.
 
-- **Banking Suite:** checking (fee product), savings (**reference − 1%**, ~2.5%), GICs, bonds, and savings bonds, plus member-owned investment products (mutual funds, retirement, crypto) whose returns come from invested assets rather than the network's spread — all reachable through the wallet (Section 1.6). **Deposit and loan rates share one anchor but sit on opposite sides of it:** savings at reference − 1%, loans at reference + 2%, a ~3% net interest margin (Credit Union Act §4.1). The anchor is the centre; the bands are the spread.
+- **Banking Suite:** checking (fee product), savings (**reference − 1%**, ~2.5%), Guaranteed Investment Certificates (GICs), bonds, and savings bonds, plus member-owned investment products (mutual funds, retirement, crypto) whose returns come from invested assets rather than the network's spread — all reachable through the wallet (Section 1.6). **Deposit and loan rates share one anchor but sit on opposite sides of it:** savings at reference − 1%, loans at reference + 2%, a ~3% net interest margin (Credit Union Act §4.1). The anchor is the centre; the bands are the spread.
 - **Shares:** base shares (up to 1,000 per citizen, ~4–8% dividends, residency-locked, carry the vote); special shares (uninsured member and investor capital, non-voting, national secondary market — see Credit Union Act §3.2, §3.3).
 - **Crossroads Loan Service (CLS):** a licensed corps of loan officers that **scales with the loan book across the 50-year plan** — the founding corps is proportionately smaller than the mature one, and headcount tracks lending demand rather than a flat per-region quota or a fixed national figure (Credit Union Act §5.1). **~40,000 at founding, ~127,000 at maturity.** The corps sizes off loans per agent — a real commercial loan officer carries ~$20–50M — applied to the book. Against the ~$5.89T mature book, ~127,000 agents carry ~$46M each: the figure the sector acts already allocate between them (Energy 42,000; Housing 22,000; Industry 22,000; Communications 22,000; Infrastructure 19,000). Prior drafts published ~60,000, sized against a loan book ten times too small, which would leave each agent carrying ~$98M. **The corps was undersized, not oversubscribed** — the sector acts were closer to right than the act defining the corps. Agents administer loans, student ventures, bankruptcy recovery, and informal-sector engagement, with discretion tiered by loan size. They are **employed and salaried by the credit unions they serve** but **licensed and disciplined by the CLS Board** — an independent board (Chamber Act §7) governed by the corps itself and funded by agent dues, not by the credit unions. The credit union pays the wage; the corps holds the licence. Full detail in Credit Union Act §5.
 
@@ -135,7 +135,7 @@ Credit unions operate under the Credit Union Act 5.7, which establishes Regional
 
 **Fee revenue allocation — 50 / 30 / 20.** Network fee revenue splits **50% network operation · 30% Deposit Insurance Pool · 20% SWF**, following the house pattern every other access-fee rail in the corpus already runs (Energy §2.3, Infrastructure §4.2, Utilities §2.3). This replaces the prior arrangement in which fee revenue accrued entirely to the credit unions while a separate percentage tax rode the same transactions. The transaction fee was the only rail in the system that had not inherited the pattern; now it has.
 
-**Fee bands** may be adjusted biennially by both chambers jointly (Territorial + relevant Productive), ratified by the universal citizen vote where the adjustment touches informal-sector activity (Chamber Act §4.3 small-actor protection).
+**Fee bands** may be adjusted biennially by both chambers jointly (Territorial + Productive), ratified by the universal citizen vote where the adjustment touches informal-sector activity (Chamber Act §4.3 small-actor protection).
 
 - **Wartime Fee:** 10% on BWC transactions above $10,000 (5-year cap; renewal requires the Sovereign Council to propose and the Territorial Chamber to ratify at 15/20); cash and cash-to-BWC swaps exempt entirely. This is the state's crisis fee power and it is already sufficient — no further emergency fee authority is created anywhere in this act. The Wartime-Fee pattern — high-quorum, hard sunset, forced re-authorization — is the model for the Tier-2 emergency mode (§1.8).
 - **National Liquidity Pool:** funded from the network's 50% share of the fee rail above; supports rural families and projects. Distinct from the Regional Liquidity Pools (Credit Union Act): RLPs are the first line of defense, the national pool handles systemic shocks. *(The prior "0.5% fee (1% if liquidity tight)" is removed: it was a percentage charge of undefined base riding the same transactions as the flat fee, and it cascaded for the same reason §1.3 abolished the percentage band above 10,000.)*
@@ -181,7 +181,7 @@ In plain terms: print to meet cash demand, but never so much that the basket inf
 
 *Rationale:* New Crossroads issues no sovereign bonds, runs no repo market, and has no central bank setting a policy rate. There is therefore no market to *discover* the price of credit — it must be **administered by an explicit, published rule**, in the same spirit as the §1.5 quantity anchor. Crucially, the interest rate here is relieved of its usual macro job: money-supply and inflation control are already done by the §1.5 quantity anchor, the 10% reserve, CLS credit judgment on the loan book, and the published line formula on the revolving channel (§1.6A). Freed from demand management, the reference rate can be set for **fairness, predictability, and solvency** rather than to clear a market. This section defines the single "reference rate" the Credit Union Act consumes throughout.
 
-**Definition.** The **reference rate** is one published system rate set by rule off the DLB/PPI — a target real return plus trailing DLB inflation, held within a narrow band. Treasury publishes it (quarterly) alongside the DLB and the PPI.
+**Definition.** The **reference rate** is one published system rate set by rule off the DLB and the BWC Purchasing Power Index (PPI — Credit Union Act §1.4) — a target real return plus trailing DLB inflation, held within a narrow band. Treasury publishes it (quarterly) alongside the DLB and the PPI.
 
 **The level (illustrative): ~3.5%** — a ~2% target real return plus ~1.5% trailing DLB inflation, against the 1–2% band of §1.5. This is the rule's output at founding, not a fixed value; it moves as the DLB moves.
 
@@ -288,7 +288,7 @@ One hole remains, and it is closed with the identity layer rather than a new one
 - Corporate GDP share (annual tax data)
 - Informal GDP share (estimated via quarterly household sampling, not CED tracking)
 - BWC velocity (credit-union transaction data, pseudonymized)
-- New FCL formation rate
+- New Federated Cooperative Limited (FCL) formation rate
 - FCL maturation success (5-year cohorts)
 - Informal → formal transition rate (first revolving-line draw; micro-loan originations)
 - Rent, fuel, and staple prices, jobs, and digital adoption — tracked against the BWC Purchasing Power Index (Credit Union Act §1.4), not a backing ratio
@@ -309,9 +309,9 @@ No automatic policy response is triggered by GDP shares alone. There are no auto
 - **Sovereign-debt crisis:** near-immune by construction. New Crossroads issues no sovereign debt (nothing to roll over), pegs BWC to nothing (no peg to defend, no reserves to burn), and free-floats its external value (the float is itself a shock absorber). Foreign capital is structurally illiquid (non-voting CGCI units, 50-year leases, cash-export ban), so it cannot stampede. Exposure is real-economy only (trade/commodity shocks).
 - **GFC-2.0-style event:** this is the real exposure. The interbank market here is peer-credit-union lending plus the RLP, and it can freeze the way 2008 did (credit unions hoarding reserves); the asset leg hits the ETF/CGCI; the credit-crunch leg hits co-ops needing rollover. Crisis design concentrates here.
 
-**Detection telemetry — institutional plumbing only.** Systemic-stress triggers are read entirely from the institutional-transparency layer, **never from citizen activity**: the inter-credit-union (peer-lending) rate, RLP draw velocity, reserve dispersion across credit unions, BWC→cash swap volume, CUSM price pressure toward the 90% floor, DIP/RLP utilization, and ETF/CGCI drawdowns. These streams are inherently real-time and sit entirely on the elite/institutional side of the asymmetry. No citizen surveillance is used or permitted to detect a crisis.
+**Detection telemetry — institutional plumbing only.** Systemic-stress triggers are read entirely from the institutional-transparency layer, **never from citizen activity**: the inter-credit-union (peer-lending) rate, RLP draw velocity, reserve dispersion across credit unions, BWC→cash swap volume, Credit Union Secondary Market (CUSM) price pressure toward the 90% floor, DIP/RLP utilization, and ETF/CGCI drawdowns. These streams are inherently real-time and sit entirely on the elite/institutional side of the asymmetry. No citizen surveillance is used or permitted to detect a crisis.
 
-**CCIF telemetry (FCL Act §3.8.6).** Withdrawal velocity, liquid-ratio dispersion, and project-book concentration in the **CCIF** are part of this section's trigger set. The CCIF is the largest pool of capital in the country and structurally a bank — deposits earning 5–7%, a 30-day redemption window, lending into illiquid national-scale projects — and it is therefore the GFC-2.0 leg this section names as the system's real exposure. FCL Act §3.8.6 gives it a liquidity requirement bounding the window to what the fund can actually pay, a published loss provision, and no sovereign backstop; this section watches it. The pool is institutional, so the telemetry sits entirely on the elite side of the asymmetry and reaches no citizen.
+**Co-op Capital Investment Fund (CCIF) telemetry (FCL Act §3.8.6).** Withdrawal velocity, liquid-ratio dispersion, and project-book concentration in the **CCIF** are part of this section's trigger set. The CCIF is the largest pool of capital in the country and structurally a bank — deposits earning 5–7%, a 30-day redemption window, lending into illiquid national-scale projects — and it is therefore the GFC-2.0 leg this section names as the system's real exposure. FCL Act §3.8.6 gives it a liquidity requirement bounding the window to what the fund can actually pay, a published loss provision, and no sovereign backstop; this section watches it. The pool is institutional, so the telemetry sits entirely on the elite side of the asymmetry and reaches no citizen.
 
 **Trigger definitions (illustrative thresholds).** A *systemic-freeze trigger* is declared automatically when objective institutional signals breach pre-set bands — e.g., the interbank rate exceeds the reference rate by more than a set spread for several consecutive days; or RLP draws exceed a set share of the pool within a short window; or the aggregate reserve ratio breaches the 10% floor system-wide. (Precise bands set by rule and published; calibrated in the Consolidated Fiscal Model.)
 
@@ -376,9 +376,9 @@ Informal-sector GDP is measured only by anonymized voluntary surveys, DLB price 
 - **Cap:** **12% of GDP** — ~$720B (2025), ~$2.28T (2075).
 - **Contributions are carved out of general revenue (not additional),** to avoid double-counting. The federal tax base (Section 4) funds the sovereign's capped operations first (Sovereign Functions Act §7); the surplus seeds the SWF:
   - Corporate SWF contribution (5% of profit over the threshold): **~$60B/year**
-  - **The 30% SWF share of every sector access-fee rail: ~$27B/year** — Infrastructure ~$22.4B (Infrastructure Act §4.2), Energy ~$4.5B (Energy Act §2.3), Communications ~$0.06B (Communications Act §2.3)
+  - **The 30% SWF share of every sector access-fee rail: ~$10B/year** — Infrastructure ~$5.1B (Infrastructure Act §4.2), Energy ~$4.5B (Energy Act §2.3), Communications ~$0.06B (Communications Act §2.3)
   - The SWF's 20% share of the BWC network fee rail (§1.3): **~$1.8B/year**
-  - Plus the general budget surplus: **~$49B/year**
+  - Plus the general budget surplus: **~$71B/year**
   - **Total annual contributions: ~$143B.**
 
   - **The resource cut flows to sovereign revenue** (§4; Sovereign Functions Act §7). 
@@ -390,7 +390,7 @@ Informal-sector GDP is measured only by anonymized voluntary surveys, DLB price 
     1. **Crisis Backstop** — the RLP→SWF liquidity line, automatic at reference + 2% on a §1.8 systemic-freeze trigger. Lent and repaid. No vote, no discretion.
     2. **Revolving Co-op Lending** — industrial, commercial, and defense-industry co-ops. The SWF does not care what the co-op makes; it cares that the loan revolves. (Industry Act §6, and any qualifying co-op.)
     3. **Housing Construction Lending** — revolving on 18-month build cycles. ~$9B founding → ~$88B mature. 3.8% of the fund in both columns. (Housing Act §3.4.)
-    4. **Metals Streaming Purchases** — funds the ~$9.2B/year streaming-pipeline purchases (ETF ~$8.5B + mint ~$0.7B) from the SWF's returns. The metal appreciates in the vault; the investment grows in value. (Metals & Currency Design §2.)
+    4. **Metals Streaming Purchases** — funds the ~$9.2B/year streaming-pipeline purchases (ETF ~$8.5B + mint ~$0.7B) from the SWF's returns, via the Sovereign Metals Streaming Facility (SMSF) — a Silver Wheaton-style arrangement in which the SWF provides upfront capital to mining FCLs in exchange for the right to purchase their gold, silver, and platinum-group output at a preset below-market price for the life of each mine. The metal flows into domestic vaults, where it feeds both the Citizens' Metals ETF and the ~5% standardized metal flecks in physical cash. The pipeline is a one-way accumulation valve: metal enters the vault and does not leave. (Metals & Currency Design §2.)
     5. **Foreign-Currency Reserve** — ~6 months of essential imports (~$275B). Trade-continuity insurance, **never exchange-rate intervention.** (Exchange Act §3.7.4.)
   
 
@@ -406,7 +406,7 @@ The SWF's foreign allocation and the foreign-currency reserve collectively repre
 | Asset class | Target share | Rationale |
 |---|---|---|
 | G7 sovereign bonds (USD, EUR, JPY, GBP, CHF) | ~30% (~$82B) | Liquidity buffer. Spread across 5 currencies so no single sovereign can freeze more than ~$16B |
-| Physical gold/silver/platinum (domestic vaults, via the SMSWF) | ~25% (~$69B) | The reserve asset no foreign government can freeze, sanction, or devalue |
+| Physical gold/silver/platinum (domestic vaults, via the SMSF) | ~25% (~$69B) | The reserve asset no foreign government can freeze, sanction, or devalue |
 | Foreign equities (broad index, no single-country concentration) | ~25% (~$69B) | Productive assets — ownership, not debt claims |
 | Strategic commodity stockpiles (domestic warehouses) | ~10% (~$27B) | Physical stockpiles of critical imports — semiconductor-grade silicon, photolithography chemicals, specialty battery materials, pharmaceutical precursors |
 | Foreign-currency cash deposits (diversified banks, diversified jurisdictions) | ~10% (~$27B) | Operating liquidity in trade currencies (USD, EUR, CNY, JPY, AUD) |
@@ -419,22 +419,22 @@ The SWF's foreign allocation and the foreign-currency reserve collectively repre
 | Foreign infrastructure (ports, toll roads, power grids, water systems) | ~15% (~$135B) | Real assets with inflation-protected returns in stable jurisdictions |
 | Foreign real estate (commercial, income-producing) | ~10% (~$90B) | Inflation-hedged, income-producing |
 | G7 sovereign bonds | ~10% (~$90B) | Liquidity sleeve for crisis deployment |
-| Physical gold and metals (via the SMSWF) | ~10% (~$90B) | Long-term store of value, additional to the reserve allocation |
+| Physical gold and metals (via the SMSF) | ~10% (~$90B) | Long-term store of value, additional to the reserve allocation |
 | Strategic investments (minority stakes in semiconductor fabs, rare-earth processors, submarine cable operators) | ~5% (~$45B) | Influence over critical supply-chain dependencies |
 
 **Binding constraints (entrenched at the middle bar — Sovereign Functions Act §5.7):**
 
 - **Concentration ceiling:** no more than **20%** of total foreign and reserve assets in instruments denominated in, or issued by entities domiciled in, any single foreign nation
-- **Sanctions-resilience floor:** no more than **30%** of total foreign and reserve assets may be held in instruments **freezable by any single foreign sovereign** (bonds, bank deposits, custodied securities in that nation's jurisdiction). The remaining 70%+ must be in domestically held physical assets (SMSWF metals, strategic commodity stockpiles) or diversified across jurisdictions beyond any single nation's reach
+- **Sanctions-resilience floor:** no more than **30%** of total foreign and reserve assets may be held in instruments **freezable by any single foreign sovereign** (bonds, bank deposits, custodied securities in that nation's jurisdiction). The remaining 70%+ must be in domestically held physical assets (SMSF metals, strategic commodity stockpiles) or diversified across jurisdictions beyond any single nation's reach
 - **No exchange-rate intervention:** the SWF and the reserve may participate on the FX Board to build or rebalance holdings, but **may never buy or sell BWC to defend a particular exchange rate** (Exchange Act §3.7.3 — absolute bar)
 - **No sovereign debt issuance:** the Mandate governs what foreign assets the state *holds*, not what it *issues*. The constitutional prohibition on sovereign debt (§1.5, Sovereign Functions Act §5.4) is unaffected
 
 **Governance:**
 
 - **Set by Treasury** annually, based on global market conditions, trade patterns, and the sanctions-resilience assessment
-- **Reviewed by the Productive Chambers** (economic oversight committee) — the chambers may amend the mandate through the ordinary bar, but may not breach the binding constraints without the middle bar
+- **Reviewed by the Productive Chamber** (economic oversight committee) — the chamber may amend the mandate through the ordinary bar, but may not breach the binding constraints without the middle bar
 - **Audited by the Special Auditors** — published in full annually. The mandate is public
-- **The SMSWF gold held domestically is counted as a reserve asset in both the foreign-currency reserve AND the SWF foreign allocation.** It is one vault, one accumulating stockpile, partially allocated to the reserve and partially to the SWF — but physically the same metal in the same domestic vaults. Citizens hold fractional certificates against it through the Metals ETF (Exchange Act §3.4). The metal never leaves
+- **The SMSF gold held domestically is counted as a reserve asset in both the foreign-currency reserve AND the SWF foreign allocation.** It is one vault, one accumulating stockpile, partially allocated to the reserve and partially to the SWF — but physically the same metal in the same domestic vaults. Citizens hold fractional certificates against it through the Metals ETF (Exchange Act §3.4). The metal never leaves
 
 ### 2.2 Debt Jubilee, Freedom Shares & the Crossroads Loan Service
 
@@ -464,7 +464,7 @@ When an enterprise's debt is forgiven, the forgiven amount is not simply written
 
 A corporation's Freedom Shares are **plain corporate equity**. There is no separate class and none may be created — §4.1 permits one share, one vote with the tenure multiplier and no share classes, and the Exchange's Corporate-Equity Board lists nothing else (Exchange Act §3.3). Credit-union Freedom Shares in a corporation therefore count as outside equity against the 49% cap, and the arithmetic decides what happens next:
 
-- **Insiders remain at or above 33% after conversion → the firm is saved as a corporation.** Outside ownership may exceed the 49% cap for the duration of the recovery window under the Exchange Act §3.3 **jubilee cap exception**, on that section's terms — Regional Board (6/11) → relevant Productive Chamber (supermajority) → Territorial Chamber (15/20), plus a Community Benefit Agreement and a Labor Peace Agreement, with **no sovereign approval at any step**. The credit union exits into the Corporate-Equity Board, restoring the cap as it sells. The chamber chain authorizes the **cap exception**, never the relief; eligibility remains the CLS determination alone.
+- **Insiders remain at or above 33% after conversion → the firm is saved as a corporation.** Outside ownership may exceed the 49% cap for the duration of the recovery window under the Exchange Act §3.3 **jubilee cap exception**, on that section's terms — Regional Board (6/11) → the Productive Chamber (supermajority) → Territorial Chamber (15/20), plus a Community Benefit Agreement and a Labor Peace Agreement, with **no sovereign approval at any step**. The credit union exits into the Corporate-Equity Board, restoring the cap as it sells. The chamber chain authorizes the **cap exception**, never the relief; eligibility remains the CLS determination alone.
 - **The tenure multiplier does not accrue while the credit union holds them.** §4.1's multiplier rewards patient ownership; a credit union holding Freedom Shares is a lender in a temporary position it is required to exit. Left unqualified, the multiplier would hand the rescuing lender escalating control of the firm it was saving (Exchange Act §3.3).
 - **Insiders would fall below 33% → the firm cannot be saved in this form.** The debt is too large relative to the equity. The corporation converts to an FCL under the Industry Act, and the ordinary co-op mechanics then apply: the credit union takes FCL investor shares and exits via the Co-op Board; worker-members take base shares. Insider ownership rises rather than falls, and the cap question disappears with the form. If the workers will not have it, the firm liquidates.
 
@@ -503,10 +503,10 @@ The CLS is also, by the same logic, a brake on the debt that makes jubilees nece
 | Channel | Source | ~Annual |
 |---|---|---:|
 | §2.3 | 50% of SWF excess above the cap | ~$14.4B |
-| Sovereign Functions §7 | surplus the sovereign may not accumulate — including redirected contributions above | ~$79B |
-| **Total** | | **~$152B** |
+| Sovereign Functions §7.4 | surplus the sovereign may not accumulate — including redirected contributions | ~$143B |
+| **Total** | | **~$157B** |
 
-That is **~$1,359 per citizen per year**, ~$5,436 for a household of four — paid in cash, tax-free, asking nothing of anyone. It is the largest single transfer in the system and the only one with no form attached.
+That is **~$1,400 per citizen per year**, ~$5,600 for a household of four — paid in cash, tax-free, asking nothing of anyone. It is the largest single transfer in the system and the only one with no form attached.
 
 **Dividend auto-routing (the informal-economy savings mechanism).** For citizens without a payroll-deducted forced-savings contribution (Housing Act §3.1), the dividend is split **by default:**
 
@@ -532,10 +532,10 @@ The Defense Fund is a distinct sovereign endowment, **not part of the SWF and no
 
 **The endowment supplements; it does not replace.** The military's operating budget is funded from two streams (Military Act §9.1):
 
-- **Sovereign revenue (Section 4; Sovereign Functions Act §7): ~$40B/year, stable.** This allocation does not decline.
-- **Defense Fund draw:** the endowment's returns supplement the baseline — ~$4B in 2025 against a ~$100B endowment, rising to ~$15–25B at maturity against ~$920B and a ~4% return.
+- **Sovereign revenue (Section 4; Sovereign Functions Act §7): ~$46B/year, stable.** This allocation does not decline.
+- **Defense Fund draw:** the endowment's returns supplement the baseline. The draw is **demand-driven** — set by the chambers' appropriation, not a fixed percentage of returns. What is not drawn stays in the fund and compounds alongside new bequests. At ~5% blended return (consistent with the fund's five domestic investment channels — 40% CU lending at ~5.5%, 20% Metals ETF at ~3–5% appreciation, 15% co-op shares at ~5–7%, 15% Municipal Monetary Fund / Regional Monetary Fund (MMF/RMF) at ~4%, 10% housing construction at ~4–5%): ~$5B in 2025 against a ~$100B endowment, rising to ~$19–25B at maturity against ~$920B.
 
-Total: **~$52B (2025) → ~$65–75B (2075).** One-time base buildout (~$77.56B) is funded separately and is not a recurring figure.
+Total: **~$51B (2025) → ~$65–71B (2075).** One-time base buildout (~$77.56B) is funded separately and is not a recurring figure.
 
 
 ---
@@ -559,7 +559,7 @@ Total: **~$52B (2025) → ~$65–75B (2075).** One-time base buildout (~$77.56B)
 The commons share splits Healthcare : Education : Charity in a 2:1:2 ratio. **Total commons funding ≈ ~$60B** (Healthcare ~$22B : Education ~$11B : Charity ~$22B). Generated almost entirely by Tier 3 co-ops with profit above $10M; Tier 1 and 2 commons are voluntary. The Co-op Advantage Principle holds at every profit level because the commons is marginal on the excess above $10M, not flat (see FCL Act §3.2).
 
 
-- **Capital Investment Fund (CCIF):** a **voluntary** pool in which co-ops and corporate participants may store up to 15% of profits for returns until the capital is needed to expand or to survive a shock; ~7.5% returns; allocated by the **CCIF Alliance Network** (FCL Act §3.8.7 — the voluntary federation of CCIF depositors; 9-seat board, Productive Chamber oversight). The CCIF is the co-op sector's own pool, chamber-governed, and is **not a sovereign asset** (Sovereign Functions Act §5.1).
+- **Co-op Capital Investment Fund (CCIF):** a **voluntary** pool in which co-ops and corporate participants may store up to 15% of profits for returns until the capital is needed to expand or to survive a shock; ~7.5% returns; allocated by the **CCIF Alliance Network** (FCL Act §3.8.7 — the voluntary federation of CCIF depositors; 9-seat board, Productive Chamber oversight). The CCIF is the co-op sector's own pool, chamber-governed, and is **not a sovereign asset** (Sovereign Functions Act §5.1).
 
 > **The CCIF's three questions, resolved in the FCL Act (Draft 3.4).** (1) **The shelter is kept, deliberately** — the waterfall deducts CCIF before the commons share because this system taxes consumption, never capital (§4); the deduction is the VAT principle one layer up. (2) **The mismatch is closed** by FCL §3.8.6: the CCIF must hold liquid assets at least equal to its callable window, so the door is bounded by what the fund can pay. It gets no sovereign backstop — insuring it would remove the depositor's exposure, which is the only thing restraining the door. (3) **The vote is compressed** — FCL §3.8.7 replaces one-vote-per-$1M with 1 / 2 / 3 votes at any deposit / $10M / $100M, and corporate depositors do not vote at all (Chamber Act §11, Floor 5).
 - **Asymmetric Scrutiny:** simplified reporting for small FCLs; full CED disclosure above $100M.
@@ -576,7 +576,7 @@ The commons share splits Healthcare : Education : Charity in a 2:1:2 ratio. **To
 
 | Tax Type | Rate / Threshold | ~Yield/year | Scrutiny |
 |---|---|---|---|
-| **Federal VAT** | **5%**; **the Daily Living Basket is zero-rated (§1.4)** | **~$166B** | Point of sale; no individual tracking |
+| **Federal VAT** | **6%**; **the Daily Living Basket is zero-rated (§1.4)** | **~$199B** | Point of sale; no individual tracking |
 | **Personal income** | **0% below $100,000. 20% ($100k–$250k) · 30% ($250k–$1M) · 40% (above $1M)** — formal and informal alike | **~$144B** | Auto-withholding (formal); self-attested (informal) |
 | Co-op profit tax | 5% over $100k; no SWF recharge | **~$20B** | Full CED disclosure for co-ops >$1M |
 | Corporate profit tax | 0% / 10% / 20% / 25% tiered | ~$25B | Full CED disclosure |
@@ -584,11 +584,12 @@ The commons share splits Healthcare : Education : Charity in a 2:1:2 ratio. **To
 | Property (national layer) | 0.75% on commercial/industrial | ~$19B | Public record |
 | Tariffs | ~9.8% avg on imports | ~$49B | Collected at port (Sovereign Functions Act §2.3) |
 | Resources (national cut) | **40% of a 12% regional royalty** + profit tax on resource firms | **~$22.7B** | Royalties are regional own-source (Municipal & Regional Funding Act §2.5); this line is the national portion only. Full CED tracking for extractive industries |
+| Parks Index | Cottage/timeshare auction revenue (Parks Act §5.1) | **~$2B** | Auction-cleared; scaling to ~$6B at maturity |
 
-**Total federal revenue: ~$460B against ~$411B of spending.** The VAT is the balancing item. For scale: Canada's federal GST is 5%; the EU averages 21% — and neither zero-rates a defined basket or returns the proceeds as a dividend.
+**Total federal revenue: ~$495B against ~$424.5B of spending.** The VAT is the balancing item. For scale: Canada's federal GST is 5%; the EU averages 21% — Crossroads sits at 6%, above Canada but well below Europe, and zero-rates a defined basket that neither does.
 
 
-**What the federal state spends on.** Education vouchers (~$170B net), sustainability projects (~$50B), the healthcare bottom-tier subsidy (~$45B), the military baseline (~$46B — §2.5), R&D (~$30B), parks (~$20B), and the sovereign's own four functions. **These are general-revenue lines.** Several sector acts still label them "SWF allocations"; they are not, and cannot be — see §2.1.
+**What the federal state spends on.** Education vouchers (~$170B net), sustainability projects (~$50B), the military baseline (~$46B — §2.5), the healthcare bottom-tier subsidy (~$45B), R&D (~$30B), national infrastructure buildout (~$20B), parks (~$20B), the sovereign's own four functions (~$20B), mandatory-service stipends (~$13.5B — Education Act §4), and the universal savings match (~$8B). **These are general-revenue lines.** Several sector acts still label them "SWF allocations"; they are not, and cannot be — see §2.1.
 
 **Why the income tax starts at $100,000, and why it starts there for everyone.**
 
@@ -602,7 +603,7 @@ The informal economy cannot be reached by an income tax and should not be. It ca
 
 It also stops the tax code arguing with the rest of the design. Every capital instrument here points at saving — the revolving line is sized by reserve (§1.6A), the metals ETF rewards accumulation, the CCIF rewards retained earnings, the special-share dividend rewards patient capital. **A tax on income punishes exactly what those instruments reward.** A tax on consumption does not.
 
-**Zero-rating the DLB is what makes it fair.** The basket that defines protected informal commerce and anchors the currency also defines what the VAT may not touch. A household spending at subsistence pays almost nothing; consumption above the basket carries the state. That is more progressive in effect than the flat 5% income tax it replaces — and it needs no forms from anyone.
+**Zero-rating the DLB is what makes it fair.** The basket that defines protected informal commerce and anchors the currency also defines what the VAT may not touch. A household spending at subsistence pays almost nothing; consumption above the basket carries the state. That is more progressive in effect than a flat income tax — and it needs no forms from anyone.
 
 **The federal / regional / municipal stack.**
 
@@ -625,9 +626,9 @@ Competition between regions on income tax and VAT is a feature of the design, no
 
 - **Asymmetric Scrutiny:** government allocations above $1M administered automatically with sampling audits.
 
-### 4.1 Corporate Governance Requirements
+### 4.1 Corporate Governance Listing Requirements
 
-*Rationale:* in place of a GDP cap, corporations are subject to structural limits aligning behavior with long-term stakeholder value. These requirements are a protected guarantee (Chamber Act §12.3); they may be weakened only at the middle amendment bar.
+*Rationale:* in place of a GDP cap, corporations are subject to structural limits aligning behavior with long-term stakeholder value. These requirements are listing conditions for the Exchange's Corporate-Equity Board (Exchange Act §3.3) and a protected guarantee (Chamber Act §12.3); they may be weakened only at the middle amendment bar.
 
 1. **Short-Term Trade Tax:** 0.5% on sales of corporate shares held under 365 days; collected at point of sale regardless of trader location. This is also a listing condition for the Exchange's Domestic Corporate-Equity Board (Exchange Act §3.3).
 2. **Quarterly Guidance Ban:** annual guidance only. Violations: fines up to $10M, then trading suspension.
@@ -635,7 +636,7 @@ Competition between regions on income tax and VAT is a feature of the design, no
 4. **Long-Term Voting Multiplier:** 2 votes/share at 5+ years, 3 at 10+ (cap); shares sold within 90 days of a vote forfeit voting rights for that meeting; no separate share classes. **The multiplier does not accrue to Freedom Shares while a credit union holds them** (§2.2; Exchange Act §3.3) — it rewards patient ownership, and a lender in a position it is required to exit is not a patient owner.
 5. **Stock Buyback Limits:** permitted only if the prior-year capex target was met, post-buyback equity ≥150% of long-term debt, annual buybacks ≤50% of net income, and worker board members approve by majority.
 
-**Enforcement:** a Corporate Governance Enforcement Unit (~$150M/year), overseen by the Productive Chamber with appeal through ad-hoc arbitration (Chamber Act §6.6), conducts random audits and may levy fines up to 5% of revenue for willful violations.
+**Enforcement:** a Corporate Governance Enforcement Unit (~$150M/year), overseen by the Corporate and Exchange Commission (a standing 15-member commission of the Productive Chamber — see Exchange Act §5), conducts random audits and may levy fines up to 5% of revenue for willful violations. Appeal through ad-hoc arbitration (Chamber Act §6.6).
 
 ---
 
@@ -662,7 +663,7 @@ Competition between regions on income tax and VAT is a feature of the design, no
 
 ### 5.3 Bodies & Treasury
 
-- **Bodies:** the Sovereign Council (7 members — Sovereign Functions Act §6), the Territorial Chamber (20 Regional Boards × 11 members — Chamber Act §3), the Productive Chamber (400 — Chamber Act §4), the Productive Chamber (100 — Chamber Act §4.2), the judiciary (400 regional judges scaling to 500 by 2075 + 50 appellate across 10 circuits + 9 Supreme Court justices — Sovereign Functions Act §4.1), and the Special Auditors (50–75 — Sovereign Functions Act §3).
+- **Bodies:** the Sovereign Council (7 members — Sovereign Functions Act §6), the Territorial Chamber (20 Regional Boards × 11 members — Chamber Act §3), the Productive Chamber (500 — 325 co-op delegates, 75 corporate delegates, 100 wildcard — Chamber Act §4), the judiciary (400 regional judges scaling to 500 by 2075 + 50 appellate across 10 circuits + 9 Supreme Court justices — Sovereign Functions Act §4.1), and the Special Auditors (50–75 — Sovereign Functions Act §3).
 - **Treasury:** administers BWC issuance under the Section 1.5 anchor, the reference rate (Section 1.5A), the SWF, and the Citizens' Metals ETF. Publishes the annual DLB, cash-adequacy figures, base-issuance reports, the reference rate, and the revolving-credit-line formula (§1.6A). Treasury does not publish a backing ratio — BWC is fiat; there is no per-coin metal backing.
 - **Data cost:** CED + PPK ≈ ~$450M/year (CED ~$250M/year), a net saving versus prior centralized data systems.
 
@@ -707,31 +708,31 @@ Competition between regions on income tax and VAT is a feature of the design, no
 | Financial transactions tax | **Abolished (§2.1)** | — |
 | **Reference rate** | **~3.5%** (~2% real + ~1.5% DLB inflation) — flat-and-slow, rule-based (Section 1.5A) | rule's output |
 | Rate bands (all anchored to it) | savings −1% · loans +2% · RLP +1% · SWF backstop +2% · special-share dividend +2% · revolving line +5% | same |
-| Citizen revolving credit line | 2,000 base + (2 × countable reserve, capped 24,000), line capped 50,000, both DLB-indexed; reference + 5% (~10%); no application, no officer, no file (§1.6A) | same |
-| Micro-loans | $500–$5,000 at 4%; student ventures and small-business capital only | same |
+| Citizen revolving credit line | 2,000 base + (2 × countable reserve, capped 24,000), line capped 50,000, both DLB-indexed; reference + 5% (~8.5%); no application, no officer, no file (§1.6A) | same |
+| Micro-loans | $500–$5,000 at reference + 0.5% (~4%); student ventures and small-business capital only | same |
 | Credit bureau / score / file | **None. Prohibited (§1A.2)** | none |
 | Loan loss reserve | Published minimum provision by loan class; under-reserving prosecutable (Credit Union Act §4.3) | same |
 | Crisis framework | Two-tier: auto stabilizers + time-boxed emergency mode (Section 1.8) | same |
 | Jubilee | Rolling, on application; ≤50% co-op / ≤10% corporate debt per rolling 25-year window; CLS-judged; enterprises only (Section 2.2) | same |
 | CLS | **~40,000** — scales with the loan book at ~$46M/agent (Credit Union Act §5) | **~127,000** |
-| Governance | Sovereign Council (7) + Territorial Chamber (220) + Productive Chamber (400) + Productive Chamber (100) + universal citizen vote | same structure |
+| Governance | Sovereign Council (7) + Territorial Chamber (220) + Productive Chamber (500) + universal citizen vote | same structure |
 | **SWF** | **~$230B seed (3.8% of GDP)** | building toward the cap |
 | SWF cap (12% of GDP) | ~$720B | ~$2.28T |
 | **SWF reaches the cap** | **~2029 (year 4)** | capped thereafter |
-| **Citizen dividend (once capped)** | **~$152B/yr — ~$1,359/citizen** (§2.3 excess $14.4B + §7 surplus $138B) | scaled |
-| **Federal spending** | **~$411B (~6.9% of GDP)** — **operations ~$196B (3.3%, inside the 4% cap)**: sustainability $50B, military $46B, R&D $30B, infrastructure $20B, parks $20B, sovereign functions $20B, **savings match $8B**. **Transfers ~$215B**: education vouchers $170B, healthcare subsidy $45B | ~2% of GDP (buildout completes) |
-| SWF annual contributions | **~$143B** (corporate $60B + sector access-fee rails $27B + BWC fee rail $1.8B + surplus $49B) | redirected to general revenue once capped (§2.3) |
-| **SWF's role** | **Crisis backstop + revolving lender (industrial, housing construction) + Defense Fund. Not the capital budget (§2.1)** | same |
+| **Citizen dividend (once capped)** | **~$157B/yr — ~$1,400/citizen** (§2.3 excess $14.4B + §7.4 surplus $143B) | scaled |
+| **Federal revenue** | **~$495B** (VAT 6% $199B + income >$100k $144B + tariffs $49B + corporate $25B + resources $22.7B + co-op $20B + property $19B + excise $15B + Parks Index $2B) | same structure |
+| **Federal spending** | **~$424.5B (~7.1% of GDP)** — **operations ~$196B (3.3%, inside the 4% cap)**: sustainability $50B, military $46B, R&D $30B, infrastructure $20B, parks $20B, sovereign functions $20B, **savings match $8B**. **Transfers ~$228.5B**: education vouchers $170B, healthcare subsidy $45B, **mandatory-service stipends $13.5B** | ~2% of GDP (buildout completes) |
+| SWF annual contributions | **~$143B** (corporate $60B + sector access-fee rails $10B + BWC fee rail $1.8B + surplus $71B) | redirected to general revenue once capped (§2.3) |
+| **SWF's role** | **Crisis backstop + revolving lender (industrial, housing construction) + metals streaming (SMSF) + foreign-currency reserve. Not the capital budget (§2.1)** | same |
 | Defense Fund (separate endowment) | ~$100B | ~$920B |
+| Defense Fund return | ~5% blended; demand-driven draw | same |
 | Citizens' Metals ETF (investment, not backing) | **~$168–209B** | scaled |
 | Credit Unions | ~5,000 (chartered by population/deposits; ≥3-catchment coverage; no fixed per-region count) | ~5,000 |
-| Exchange | Crossroads Exchange: 6 domestic boards (Co-op Capital, Special-Share, Corporate-Equity, Metals ETF, Investment Fund, FX) + CGCI channel + Global Sound-Capital Segment (Exchange Act 1.5) | same |
-| **Federal tax base** | **VAT 5% $166B + income >$100k $144B + tariffs $49B + corporate $25B + resources $22.7B + co-op $20B + property $19B + excise $15B = ~$460B** | same structure |
-| **Income tax threshold** | **$100,000 — formal and informal alike. 20% / 30% / 40% (§4)** | same |
+| Exchange | Crossroads Exchange: 6 domestic boards (Co-op Capital, Special-Share, Corporate-Equity, Metals ETF, Investment Fund, FX) + CGCI channel + Global Sound-Capital Segment (Exchange Act §1) | same |
 | **Sovereign operating cap** | **4% of GDP; falls toward ~2% as GDP triples, not as the Defense Fund matures** | ~2% |
-| **Military (operating)** | **~$52B ($46B sovereign + ~$6B Defense Fund)** | **~$65–75B ($46B + $15–25B endowment)** |
+| **Military (operating)** | **~$51B ($46B sovereign + ~$5B Defense Fund)** | **~$65–71B ($46B + $19–25B endowment)** |
 | Commons via FCL waterfall | **~$60B** (~$22B health / ~$11B edu / ~$22B charity) — marginal 22% on Tier 3 post-tax profit above $10M; Tier 1/2 voluntary | scaled |
-| **Retirement income** | No state pension. Five independent streams: **(1)** citizen dividend $1,359/yr forever, **(2)** forced savings (~$55,000 formal / ~$20,000 informal at 65, unlocked — Housing Act §3.1), **(3)** Metals ETF shares (45 years of structural appreciation, sold on the Exchange), **(4)** special-share dividends at ~5.5% + sale on the CU Capital Board (no cap), **(5)** credit-union savings at ~2.5%. Plus: a Durahome owned outright ($0 housing cost, untaxable), healthcare at the subsidised tier, and the charity commons (~$22B/yr, co-op-directed, aged care as the likely largest category — FCL Act §3.2). | same |
+| **Retirement income** | No state pension. Five independent streams: **(1)** citizen dividend $1,400/yr forever, **(2)** forced savings (~$55,000 formal / ~$20,000 informal at 65, unlocked — Housing Act §3.1), **(3)** Metals ETF shares (45 years of structural appreciation, sold on the Exchange), **(4)** special-share dividends at ~5.5% + sale on the CU Capital Board (no cap), **(5)** credit-union savings at ~2.5%. Plus: a Durahome owned outright ($0 housing cost, untaxable), healthcare at the subsidised tier, and the charity commons (~$22B/yr, co-op-directed, aged care as the likely largest category — FCL Act §3.2). | same |
 | Data architecture | PPK + CED (no CWD) | PPK + CED |
 | Entrenched floors / guarantees | **12 floors (Chamber Act §11) + 4 protected guarantees (§12)** | same |
 | Corporate GDP cap | None (replaced by §4.1, guaranteed as §12.3) | None |
@@ -773,10 +774,10 @@ The informal economy is not a gap to be closed, a tax base to be captured, or a 
 
 - **Corporations are disciplined** — by a speculation tax, a guidance ban, worker board seats, a patient-ownership voting multiplier, and buyback limits. A corporation may grow as large as the market allows, but it will act more like a co-op along the way. And it speaks in the legislature only through its workers.
 
-- **The legislature is the economy governing itself.** Credit unions become the territorial chamber; co-ops and corporate workers become the productive chambers; the informal majority speaks through the universal citizen vote that outranks them all. Capital may flow through every chamber but may never become a vote. And beneath all the counting, twelve entrenched floors and four protected guarantees stand outside the reach of every majority.
+- **The legislature is the economy governing itself.** Credit unions become the territorial chamber; co-ops and corporate workers become the productive chamber; the informal majority speaks through the universal citizen vote that outranks them all. Capital may flow through every chamber but may never become a vote. And beneath all the counting, twelve entrenched floors and four protected guarantees stand outside the reach of every majority.
 
 Cash is beautiful and resilient. BWC is honest. Identity is sovereign. The system is legible. The informal economy is free. The SWF is capped. The sovereign is thin. Corporations are disciplined. The legislature belongs to its members. And the elite have nowhere to hide.
 
 ---
 
-End of Draft 9.8
+End of Draft 9.9
