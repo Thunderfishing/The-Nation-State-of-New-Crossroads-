@@ -8,7 +8,7 @@
 
 ## Abstract
 
-New Crossroads establishes its legislature as a federation of self-governing economic constituencies — the credit-union territorial chamber, the co-op and corporate productive chambers — sitting beneath a supreme universal citizen vote that represents every citizen, including those in the informal economy. The chambers draft and pass law through two-axis satisfaction; the citizens hold initiative, override, and confirmation powers, and are supreme on any matter of individual right. Capital may flow through every chamber but may never become a vote in any of them. Oversight committees chartered by the Territorial Chamber scrutinize the sovereign, the independent boards, the mutual funds, and the Exchange in public session, with a formal referral mechanism linking committee findings to the Special Auditors. Beneath all the counting sit two schedules the counting cannot reach — the entrenched floors of §11 and the protected guarantees of §12.
+New Crossroads establishes its legislature as a federation of self-governing economic constituencies — the credit-union territorial chamber, the co-op and corporate Productive Chamber — sitting beneath a supreme universal citizen vote that represents every citizen, including those in the informal economy. The chambers draft and pass law through two-axis satisfaction; the citizens hold initiative, override, and confirmation powers, and are supreme on any matter of individual right. Capital may flow through every chamber but may never become a vote in any of them. Oversight committees chartered by the Territorial Chamber scrutinize the sovereign, the independent boards, the mutual funds, and the Exchange in public session, with a formal referral mechanism linking committee findings to the Special Auditors. Beneath all the counting sit two schedules the counting cannot reach — the entrenched floors of §11 and the protected guarantees of §12.
 
 ---
 
@@ -26,7 +26,7 @@ New Crossroads establishes its legislature as a federation of self-governing eco
 ### 1.2 The Two Axes
 
 - **Place.** The credit unions, federated by region, are the territorial chamber. Because credit-union membership is residency-locked and universal, "the region's credit unions" and "the region's people" are the same body.
-- **Form.** The co-ops and corporations, organized by ownership type rather than by geography, are the productive chambers. They speak for what you do and how it is owned.
+- **Form.** The co-ops and corporations, organized by ownership type rather than by geography, are the Productive Chamber. They speak for what you do and how it is owned.
 
 A national law must satisfy both axes and must never override the universal vote above them (§5, §6).
 
@@ -55,7 +55,9 @@ Every chamber seats a bloc of wildcard members elected directly by the universal
 
 **Terms.** 5-year terms, maximum 3 terms (15 years). The 5-year term aligns with the mandatory legislative cycle (§6.2). The 3-term cap ensures generational turnover without sacrificing institutional knowledge.
 
-**The Rule of Thirds.** Every chamber is one-third wildcards, uniformly. At one-third, the citizens' bloc plus a small minority of defecting enterprise delegates can block any measure — but the citizens cannot pass a measure alone, so the enterprise structure still matters. Where a chamber's size does not divide evenly, the wildcard fraction rounds up — toward the citizen, never away.
+**The Rule of Thirds (Territorial Chamber).** The Territorial Chamber is one-third wildcards (80 of 220, rounded up toward the citizen). At one-third, the citizens' bloc plus a small minority of defecting enterprise delegates can block any measure — but the citizens cannot pass a measure alone, so the enterprise structure still matters. Where the chamber's size does not divide evenly, the wildcard fraction rounds up — toward the citizen, never away.
+
+**Productive Chamber wildcard ratio.** The Productive Chamber seats 100 wildcards out of 500 (**20%**). The lower ratio reflects the chamber's proportional-representation design: the 400 enterprise seats are reapportioned every 5 years to match measured GDP shares (§4.1), and scaling wildcards to one-third would dilute the proportionality that makes the chamber's economic barometer legible. The Territorial Chamber — the more powerful body, holding the war power, treaty ratification, and constitutional keys — carries the higher citizen ratio.
 
 **The one-seat rule.** No citizen may simultaneously hold more than one chamber seat — whether federated, delegate, or wildcard — across the Territorial and Productive Chambers. Accepting a second seat vacates the first.
 
@@ -113,13 +115,13 @@ Regional Boards govern their regions full-time from regional capitals. As the na
 - **Emergency recall:** the full Territorial Chamber may be recalled within **48 hours** for war ratification, crisis triggers, or urgent confirmations.
 - **Oversight committees sit during sessions** (§6.7). Committee chairs prepare between sessions by remote communication.
 
-The productive chambers (400 seats) handle the daily legislative workload full-time in the capital. The territorial chamber reviews what they produce, confirms appointments, ratifies treaties, and holds the government to account through committees.
+The Productive Chamber (500 seats) handles the daily legislative workload full-time in the capital. The territorial chamber reviews what they produce, confirms appointments, ratifies treaties, and holds the government to account through committees.
 
 ### 3.5 Regional Prosecution
 
 The Special Auditors (Sovereign Functions Act §3) prosecute institutional and financial crimes. Ordinary criminal law — murder, assault, theft, arson — requires a separate, community-accountable prosecutorial function.
 
-- **Regional prosecutors** handle ordinary criminal prosecution. Appointed by the Regional Board (6/11), confirmed by the relevant productive chamber(s).
+- **Regional prosecutors** handle ordinary criminal prosecution. Appointed by the Regional Board (6/11), confirmed by the Productive Chamber.
 - Independent of the municipal police they rely on for investigation.
 - Operate through the regular judiciary (regional courts → appellate circuits → Supreme Court), subject to the due-process floor (§11, Floor 11) and the search-and-seizure floor (Floor 10).
 - **Recall:** by the appointing Regional Board at 2/3 supermajority (§9.3).
@@ -140,21 +142,21 @@ Fire, ambulance/EMS, and disaster response are community services, not military 
 
 A single chamber representing all organized economic activity — co-operative and corporate — with delegation sizes proportional to measured economic share. Reapportioned every 5 years.
 
-### 4.1 Composition — 400 Seats, Proportional
+### 4.1 Composition — 500 Seats, Proportional
 
 | Enterprise form | 2025 share | Seats (2025) | Reapportioned as the economy evolves |
 |---|---:|---:|---|
 | **Co-operatives** (~65% of GDP) | 65% | ~325 | Delegation shrinks if co-op share shrinks; grows if it grows |
 | **Corporations** (~15% of GDP) | 15% | ~75 | Same — earned by economic weight, not granted by statute |
-| **Wildcards** (Rule of Thirds — citizen-interest seats) | — | ~100 | Fixed — always 25% of the chamber, elected by universal citizen vote via petition (0.1% threshold across 3+ regions) |
+| **Wildcards** (citizen-interest seats) | — | ~100 | Fixed — always 20% of the chamber, elected by universal citizen vote via petition (0.1% threshold across 3+ regions) |
 
 *(The informal economy (~20%) holds no productive seats. Informal citizens vote in the Territorial Chamber as citizens — governed as people, not enterprises. §4.3 protects them.)*
 
-**Reapportionment.** Every 5 years, Treasury publishes the measured GDP share of each enterprise form (co-op, corporate). The 300 enterprise seats (400 minus 100 wildcards) are redistributed proportionally. The seat count IS the economic barometer — visible, published, and readable by every citizen. If corporations grow from 15% to 20%, they gain seats. If co-ops drift from 65% to 55%, they lose seats. **The chamber reflects the economy it governs.**
+**Reapportionment.** Every 5 years, Treasury publishes the measured GDP share of each enterprise form (co-op, corporate). The 400 enterprise seats (500 minus 100 wildcards) are redistributed proportionally. The seat count IS the economic barometer — visible, published, and readable by every citizen. If corporations grow from 15% to 20%, they gain seats. If co-ops drift from 65% to 55%, they lose seats. **The chamber reflects the economy it governs.**
 
 **Delegates — sector-proportional, cross-regionally seconded:**
 
-The 300 enterprise seats (400 minus 100 wildcards) are allocated by **sector** proportionally within each enterprise form — steel co-ops receive seats proportional to steel's share of co-op GDP, healthcare proportional to healthcare's share, and so on. The same reapportionment mechanism that governs the co-op/corporate split (above) applies one tier down, within each form.
+The 400 enterprise seats (500 minus 100 wildcards) are allocated by **sector** proportionally within each enterprise form — steel co-ops receive seats proportional to steel's share of co-op GDP, healthcare proportional to healthcare's share, and so on. The same reapportionment mechanism that governs the co-op/corporate split (above) applies one tier down, within each form.
 
 - **Co-op delegates** (~325 seats, allocated by sector):
   - *Tier gate:* only Tier 2+ FCLs (above $1M profit) participate. Tier 1 micro-co-ops acquire a voice when they grow into Tier 2.
@@ -183,7 +185,7 @@ If **60% of the minority enterprise delegation** (whichever form — co-op or co
 | Outcome | Effect |
 |---|---|
 | **No malice found** | Bill returns to the Productive Chamber and passes on its original vote. The referral cost the majority 30 days and nothing else |
-| **Malice found** | Bill returns at a **60% threshold** (240 of 400 seats) instead of simple majority. Still passable — but the majority must hold its coalition against a finding of malice. The finding enters the §3.6 arbitration registry as precedent |
+| **Malice found** | Bill returns at a **60% threshold** (300 of 500 seats) instead of simple majority. Still passable — but the majority must hold its coalition against a finding of malice. The finding enters the §3.6 arbitration registry as precedent |
 
 **Why §6.6 arbitration and not a standing committee.** The Territorial Chamber sits in seasonal sessions. A permanent committee would require regional members in the capital between sessions — which they aren't. The arbitration tribunal assembles from the existing registry (retired judges, legal scholars, chamber-nominated neutrals), meets, rules in 30 days, and dissolves. No scheduling problem, no travel burden, no new institution.
 
@@ -205,7 +207,7 @@ Any measure imposing an obligation on Tier-1 micro-co-ops or on informal-sector 
 
 ### 4.4 Size and Structure
 
-- Productive Chamber: **400** (300 proportional enterprise seats + 100 wildcards). Territorial Chamber: **220** (20 Regional Boards × 11).
+- Productive Chamber: **500** (400 proportional enterprise seats + 100 wildcards). Territorial Chamber: **220** (20 Regional Boards × 11).
 - The Territorial Chamber is smaller in headcount but larger in constitutional weight — it holds the war power, the militia, the treaty ratification, the board confirmations, and the final word on rates. The Productive Chamber proposes and legislates within its domain; the Territorial Chamber confirms, ratifies, and holds the constitutional keys.
 
 
@@ -244,14 +246,14 @@ If the Competitive Neutrality Referral (§4.2) is triggered repeatedly, the mino
 | Chamber | Represents | Size | Constitutional weight |
 |---|---|---|---|
 | **Territorial Chamber** (§3) | Citizens, by geography — 20 Regional Boards of 11 | 220 seats | Highest — holds the war power, treaty ratification, board confirmations, the militia, and the final word on rates and formulas |
-| **Productive Chamber** (§4) | All organized economic activity — co-ops and corporations together, proportional to economic share | 400 seats (reapportioned every 5 years) | Economic legislation; subject to the Competitive Neutrality Referral (§4.2) and the Territorial Chamber's primacy |
+| **Productive Chamber** (§4) | All organized economic activity — co-ops and corporations together, proportional to economic share | 500 seats (reapportioned every 5 years) | Economic legislation; subject to the Competitive Neutrality Referral (§4.2) and the Territorial Chamber's primacy |
 
 **How a bill becomes law — two paths depending on what it does:**
 
 **Path 1 — Ordinary economic legislation** (sector regulation, fee rates, programme funding, board charters):
 - **Introduced** in either chamber.
 - **Passed** by simple majority in **both chambers independently.**
-- **Competitive Neutrality Referral:** if 60% of the minority enterprise delegation votes to refer, the bill goes to §6.6 arbitration for a 30-day malice test. If malice is found, the bill returns at a 60% threshold (240/400). If not, it passes on its original vote.
+- **Competitive Neutrality Referral:** if 60% of the minority enterprise delegation votes to refer, the bill goes to §6.6 arbitration for a 30-day malice test. If malice is found, the bill returns at a 60% threshold (300/500). If not, it passes on its original vote.
 - **Deadlock:** if one chamber passes and the other blocks, §6.6 ad-hoc arbitration assembles. The tribunal's decision is binding for that bill.
 
 **Path 2 — Matters touching individual rights, the entrenched floors (§11), or the protected guarantees (§12):**
@@ -269,7 +271,6 @@ If the Competitive Neutrality Referral (§4.2) is triggered repeatedly, the mino
 **The Territorial Chamber's primacy.** On a conflict between the Productive Chamber and the Territorial Chamber, the Territorial prevails — because it represents citizens by geography (universal) rather than enterprises by form (selective). The Productive Chamber proposes and legislates within its domain; the Territorial Chamber confirms, ratifies, and holds the constitutional keys.
 
 **Why co-ops and corporations sit together.** A separate corporate chamber gave a 15% minority an absolute veto — any bill that passed the co-op majority and the Territorial Chamber could die at 100 corporate votes. That is power out of all proportion to economic weight. The unified Productive Chamber gives corporations exactly their weight: 75 seats at 15% share, growing to 100 if they grow to 20%. Proportional voice, not a chokepoint. And the Competitive Neutrality Referral (§4.2) protects against malice — if the co-op majority writes a bill to hurt corporations, the minority can trigger arbitration and raise the bar to 60%. That is a shield, not a veto.
-
 ### 5.1 The Plutocracy Firewall
 
 - The chambers represent entities' collective interests, never their members' aggregated wealth.
@@ -288,9 +289,9 @@ If the Competitive Neutrality Referral (§4.2) is triggered repeatedly, the mino
 
 ### 6.1 The Ordinary Path
 
-A national law is drafted in the chambers and must satisfy both axes — the territorial chamber (the places it touches) and the relevant productive chamber(s) (the forms it governs). A law that satisfies both axes passes without a national referendum.
+A national law is drafted in the chambers and must satisfy both axes — the territorial chamber (the places it touches) and the Productive Chamber (the forms it governs). A law that satisfies both axes passes without a national referendum.
 
-- Where a law governs both co-ops and corporations, or governs neither exclusively, both Productive Chamber must pass it. Where a law exclusively governs one ownership form, only that chamber is required. Classification disputes are decided by the **judiciary** (regional court, appealable through the appellate circuits to the Supreme Court), with the default presumption favoring both chambers.
+- Where a law governs both co-ops and corporations, or governs neither exclusively, the Productive Chamber must pass it. Where a law exclusively governs one ownership form, the Productive Chamber still votes but the Competitive Neutrality Referral (§4.2) provides the minority protection. Classification disputes are decided by the **judiciary** (regional court, appealable through the appellate circuits to the Supreme Court).
 - Explanatory materials are published publicly.
 - A vetting period of no fewer than 90 days applies before a final chamber vote, except under a declared emergency (Monetary Act §1.8), in which case the minimum is 14 days.
 
@@ -366,7 +367,7 @@ A law that has survived **10 years** unchallenged, unamended, and undisputed is 
 
 **The Centennial Review.** Every 100 years, beginning from the date of ratification, a **Codex Review Commission** is convened to examine the Settled Codex for obsolete, redundant, or anachronistic laws that remain on the books solely by virtue of having gone unchallenged.
 
-- **Composition:** 15 commissioners — 5 appointed by the Territorial Chamber, 5 by the Productive Chamber jointly, and 5 by the Supreme Court (majority vote of 9 justices). 3-year term coinciding with the review period. No commissioner may hold any current chamber seat, board appointment, or Sovereign Council seat.
+- **Composition:** 15 commissioners — 5 appointed by the Territorial Chamber, 5 by the Productive Chamber, and 5 by the Supreme Court (majority vote of 9 justices). 3-year term coinciding with the review period. No commissioner may hold any current chamber seat, board appointment, or Sovereign Council seat.
 - **Power:** The commission **identifies and refers** — it does not repeal. For each law the commission finds obsolete, it publishes a written recommendation with reasoning and refers the law to the relevant chambers for ratification of removal through the **middle bar** (supermajority of the relevant chambers plus a simple-majority universal referendum — the same bar as ordinary codex recall). The chambers may accept, reject, or modify the commission's recommendation. Laws the chambers decline to remove remain in the codex.
 - **Scope:** The commission reviews the codex only. Active-pool statutes, regulations, and ordinances are subject to the ordinary legislative process and the 2-for-1 rule.
 - **Dissolution:** The commission dissolves when its referrals are resolved or at the end of its 3-year term, whichever comes first. It holds no permanent staff, no ongoing budget, and no institutional continuity between centuries.
@@ -403,7 +404,7 @@ A legislative or regulatory deadlock — two bodies stuck, unable to reach agree
 
 The Special Auditors are prosecutors — they investigate wrongdoing after the fact. Committees watch the machinery while it runs and ask the people operating it hard questions in public, before anything goes wrong.
 
-**Where they sit.** Committees are chartered by and report to the Territorial Chamber. They may draw up to one-third of their members from the relevant productive chamber(s) — co-opted members with full committee participation but no vote on territorial-chamber-internal business outside the committee.
+**Where they sit.** Committees are chartered by and report to the Territorial Chamber. They may draw up to one-third of their members from the Productive Chamber — co-opted members with full committee participation but no vote on territorial-chamber-internal business outside the committee.
 
 **Sizing.** Each committee seats between 9 and 15 members. The chartering resolution sets the size; changes require a simple Territorial Chamber majority. The one-third productive-chamber draw is calculated against the set size.
 
@@ -419,7 +420,7 @@ The Special Auditors are prosecutors — they investigate wrongdoing after the f
 
 **The committees:**
 
-**Public Accounts Committee.** All public spending — the sovereign’s **operations** budget against the 4% cap (§7.2 defines “operating” — operations ~$188B at 3.1% of GDP; transfers ~$215B are outside it), SWF deployments, commons-waterfall allocations, equalization-fund draws, and the Defense Fund. Paired with the Special Auditors — the auditors investigate and report, the committee interrogates and publishes.
+**Public Accounts Committee.** All public spending — the sovereign’s **operations** budget against the 4% cap (§7.2 defines “operating” — operations ~$196B at 3.3% of GDP; transfers ~$228.5B are outside it), SWF deployments, commons-waterfall allocations, equalization-fund draws, and the Defense Fund. Paired with the Special Auditors — the auditors investigate and report, the committee interrogates and publishes.
 
 **Defense & Foreign Affairs Committee.** Military command, treaty negotiations, the CMIS wall, the global-segment statecraft powers, and defense-fund spending.
 
@@ -428,6 +429,8 @@ The Special Auditors are prosecutors — they investigate wrongdoing after the f
 **Economic Affairs Committee.** The reference rate, the DLB methodology, the PPI, the issuance anchor, and Treasury's conduct. The monetary-policy oversight body. The revolving-credit-line formula (Monetary Act §1.6A) is Treasury's published rule and is scrutinized here.
 
 **Financial Services & Mutual Funds Committee.** The credit-union network, RLP/DIP, the loan loss reserve minimums (Credit Union Act §4.3), MMF/RMF, **the CCIF and its §3.8.6 prudential rules** (FCL Act), the Exchange, Treasury's Capital Markets Bureau, the CLS corps, and **the CLS Board** (§7.4). CLS integrity monitoring lives here — both the corps' conduct and the conduct of the board that licenses it.
+
+**Corporate and Exchange Commission.** A standing 15-member commission of the Productive Chamber — **10 elected by the co-op delegates, 5 by the corporate delegates** — handling routine Exchange and corporate-governance matters delegated by the full chamber. The commission recommends on listing approvals and cap exceptions (Exchange Act §3.3), oversees the Corporate Governance Enforcement Unit (Monetary Act §4.1), and may refer Regional Board complaints about CBA/LPA breaches (Exchange Act §3.3) to the Special Auditors. Structural decisions (board definitions, Section 2 prohibitions, the firewall) remain with the full Productive Chamber. The commission reports to the Financial Services & Mutual Funds Committee for oversight purposes.
 
 **Health & Education Committee.** The NHB and NLC, the §12.1 and §12.2 guarantee verification, and the commons-waterfall allocation to healthcare and education.
 
@@ -482,7 +485,7 @@ The sovereign is barred from domestic regulation (Sovereign Functions Act §8), 
 
 - Composition: 11 members — 6 regional representatives, 4 experts, 1 chairman.
 - Experts drawn from the regional advisory layer (§8).
-- Appointment: nominated by the Territorial Chamber (Regional Boards, 11/20), confirmed by both Productive Chamber jointly. Where a board's domain exclusively governs one ownership form, only that chamber confirms; the default is both.
+- Appointment: nominated by the Territorial Chamber (Regional Boards, 11/20), confirmed by the Productive Chamber.
 - Removal: by the nominating and confirming bodies jointly, or on cause established by a Special-Auditor investigation.
 - Independence: each board is paired with its department but subordinate to none; the board sets standards, the department implements; disputes resolved through the ad-hoc arbitration process (§6.6).
 
@@ -490,7 +493,7 @@ The sovereign is barred from domestic regulation (Sovereign Functions Act §8), 
 
 **The founding set.** The eight boards on this registry are **founding instruments**, established operationally in their defining acts and ratified with the order itself. This section governs boards chartered **after** founding. It is a proliferation brake, not a retrospective condition: the founding eight were not chartered by referendum and require none.
 
-**New boards.** A new board may be chartered only for a genuine natural-monopoly, standards-setting, or professional-licensing domain, by supermajority of the territorial chamber and the relevant productive chamber(s), plus a simple-majority national referendum. The registry lists all chartered boards; the list is public; collisions are resolved at charter. The supermajority-plus-referendum bar is sufficient discipline against proliferation.
+**New boards.** A new board may be chartered only for a genuine natural-monopoly, standards-setting, or professional-licensing domain, by supermajority of the territorial chamber and the Productive Chamber, plus a simple-majority national referendum. The registry lists all chartered boards; the list is public; collisions are resolved at charter. The supermajority-plus-referendum bar is sufficient discipline against proliferation.
 
 **Scope expansion.** An existing board that seeks to act beyond its chartered domain must clear the same bar. A board may not grow into a new domain by interpretation.
 
@@ -510,7 +513,7 @@ The CLS Board (Credit Union Act §5.5) sits on this registry but does not follow
 
 - **Composition:** 11 commissioners, staggered terms. **No regional-representative seats and no expert seats** — because the electorate *is* the expertise: every voter is a licensed practitioner. The Board elects its own chair annually (the §9.5 pattern).
 - **Selection — the corps elects its own.** Licensed agents elect the commissioners: **one licensed agent, one vote**, regardless of grade. Candidacy is credential-gated against the published standard, verified as a yes/no eligibility check.
-- **No chamber nomination or confirmation.** The §7.1 appointment chain does not apply, and its absence is the point. A licensing body nominated by the Territorial Chamber and confirmed by the productive chambers answers to the legislature — and the whole value of the licence is that it answers to nobody who gains from how it is used. Nor may credit-union boards nominate: five thousand employers collectively selecting the body that licenses their employees is the same conflict with a longer chain.
+- **No chamber nomination or confirmation.** The §7.1 appointment chain does not apply, and its absence is the point. A licensing body nominated by the Territorial Chamber and confirmed by the Productive Chamber answers to the legislature — and the whole value of the licence is that it answers to nobody who gains from how it is used. Nor may credit-union boards nominate: five thousand employers collectively selecting the body that licenses their employees is the same conflict with a longer chain.
 - **Funding: agent dues only.** No chamber appropriation, no SWF line, no credit-union levy (Credit Union Act §5.5). Its budget cannot be starved by any institution it disciplines nor by any body it might rule against. The §6.2 biennial review of board fee structures does not reach it: there are no fees, only dues, and the dues are set by a board whose entire electorate pays them — an inflated due is a self-inflicted wound on the voters who levy it.
 - **Removal and recall:** the §9.3 standard applies unchanged — the electing body may recall by 2/3 supermajority. Here the electing body is the corps. Removal is also available on cause established by a Special-Auditor investigation, as with any board.
 - **Scope bar (load-bearing).** Standards, academy, licensing, discipline, and jubilee adjudication. **Never** loan policy, deposit or loan rates, sector allocation, lending targets, or the revolving-credit-line formula — those stay with the ~5,000 credit-union boards and, for the line formula, with Treasury by published national rule (Credit Union Act §4.4, §5.5, §6.1). Expansion requires the §7.2 bar. Without this, a board licensing every loan officer in the country becomes a national credit-allocation authority — precisely what a decentralized network of 5,000 institutions exists to prevent.
@@ -615,7 +618,7 @@ Nominated by the Sovereign Council, confirmed by the Territorial Chamber. Citize
 
 ### 10.4 The Sovereign Council
 
-6 professional seats in two staggered classes: Territorial Chamber nominates, both Productive Chamber confirm jointly. 1 wildcard: universal citizen vote. Size: 7. Staggered terms, vacancy rules, and the continuity floor are defined in Sovereign Functions Act §6.2.
+6 professional seats in two staggered classes: Territorial Chamber nominates, the Productive Chamber confirms. 1 wildcard: universal citizen vote. Size: 7. Staggered terms, vacancy rules, and the continuity floor are defined in Sovereign Functions Act §6.2.
 
 ### 10.5 Amendment Thresholds
 
@@ -628,9 +631,9 @@ Nominated by the Sovereign Council, confirmed by the Territorial Chamber. Citize
 
 The chambers hold the appointment power for all three levels of the judiciary (Sovereign Functions Act §4.1):
 
-- **Regional courts** (400 judges, 20 per region, scaling to 500 by 2075; 10-year terms): Appointed by the Territorial Chamber (6/11 Regional Board vote), confirmed by both Productive Chambers jointly.
-- **Appellate circuits** (10 circuits of 2 regions each, 5 judges per circuit, 50 total; 10-year staggered terms): Appointed by the Territorial Chamber (11/20), confirmed by both Productive Chambers jointly.
-- **Supreme Court** (9 justices, 15-year staggered terms, mandatory retirement at 75; decisions by 6/9): Nominated by the Territorial Chamber, confirmed by both Productive Chambers jointly.
+- **Regional courts** (400 judges, 20 per region, scaling to 500 by 2075; 10-year terms): Appointed by the Territorial Chamber (6/11 Regional Board vote), confirmed by the Productive Chamber.
+- **Appellate circuits** (10 circuits of 2 regions each, 5 judges per circuit, 50 total; 10-year staggered terms): Appointed by the Territorial Chamber (11/20), confirmed by the Productive Chamber.
+- **Supreme Court** (9 justices, 15-year staggered terms, mandatory retirement at 75; decisions by 6/9): Nominated by the Territorial Chamber, confirmed by the Productive Chamber.
 
 Terms, staggering schedules, vacancy rules, and the deadlock rule for rejected nominees are defined in Sovereign Functions Act §4.1. The chambers' appointment power is the democratic check on judicial independence — the judiciary serves long terms once confirmed but is selected by the representative bodies.
 
@@ -745,15 +748,14 @@ Referenced in Sovereign Functions Act §8 alongside the floors.
 |---|---|---|---|
 | Supreme individual | Universal Citizen Vote + wildcard seats | Every citizen; the informal economy | Birthright at 20; wildcards directly elected (5yr/3-term); one-seat rule applies |
 | Territorial (place) | Regional Boards (20 x 11 = 220; 7 federated + 4 wildcard) | Where you live | Credit-union membership + wildcards; unit vote by 6/11 internal majority |
-| Productive (form) | Productive Chamber — co-op delegation (~325 seats at 65% share, reapportioned) | The favored co-op economy | Co-op boards (Tier 2+) |
-| Productive (form) | Productive Chamber — corporate delegation (~75 seats at 15% share, reapportioned) | The disciplined corporate economy | Corporate boards (w/ worker seats) |
-| Productive routing | Both chambers default; single if exclusive | Two-axis satisfaction | Judiciary classifies disputes; presumption favors both |
+| Productive (form) | Productive Chamber — co-op delegation (~325 seats at 65% share, reapportioned) + corporate delegation (~75 seats at 15% share) + 100 wildcards = **500** | The organized economy | Co-op boards (Tier 2+), corporate boards (w/ worker seats), universal citizen vote |
+| Productive routing | One Productive Chamber; Competitive Neutrality Referral protects the minority (§4.2) | Two-axis satisfaction | Judiciary classifies disputes |
 | Oversight | 8 committees (9–15 members each; open registry, §6.7) | Scrutiny of sovereign, boards, funds, Exchange | Chartered by Territorial; up to 1/3 from productive; referral mechanism to Special Auditors |
-| Regulatory | **8 independent boards (§7)** — 7 sector regulators + the CLS Board | Physical/standards commons; loan-officer licensing | Sector boards: Territorial nominates, both productive confirm (default). **CLS Board: elected by its own licensed corps, funded by its own dues, confirmed by nobody (§7.4)** |
+| Regulatory | **8 independent boards (§7)** — 7 sector regulators + the CLS Board | Physical/standards commons; loan-officer licensing | Sector boards: Territorial nominates, Productive Chamber confirms (default). **CLS Board: elected by its own licensed corps, funded by its own dues, confirmed by nobody (§7.4)** |
 | Advisory | RHAs / RMAs / REAs / Sector Councils (§8) | Expertise | Expertise-weighted; advise and nominate only (CLS Board excepted, §8.1) |
 | Regional justice | Regional prosecutors (§3.5) | Ordinary criminal law | Regional Board appoints, productive confirms |
-| Judiciary | Regional courts (400, scaling to 500) + Appellate circuits (50) + Supreme Court (9) | Justice at three levels | Territorial nominates/appoints; both productive confirm; terms and staggering per Sovereign Functions Act §4.1 |
-| Executive | Sovereign Council (7; 6 in two staggered classes + 1 wildcard) | The thin sovereign | Territorial nominates, both productive confirm; wildcard direct; staggered terms per Sovereign Functions Act §6.2 |
+| Judiciary | Regional courts (400, scaling to 500) + Appellate circuits (50) + Supreme Court (9) | Justice at three levels | Territorial nominates/appoints; Productive Chamber confirms; terms and staggering per Sovereign Functions Act §4.1 |
+| Executive | Sovereign Council (7; 6 in two staggered classes + 1 wildcard) | The thin sovereign | Territorial nominates, Productive Chamber confirms; wildcard direct; staggered terms per Sovereign Functions Act §6.2 |
 | Election integrity | Election Integrity Commission (11; §9.5) | Continuous election-infrastructure monitoring | Supreme Court nominates; Territorial confirms; scope-creep bar per §7.2 |
 | Arbitration | Ad-hoc tribunals (§6.6) | Deadlock resolution only | Each side picks one; two pick chair; dissolves after; decisions logged (persuasive, not binding) |
 | Election integrity (rotation) | Paper-ballot rotation (§9.4) | Continuous live audit of electronic voting | 1 region/year on paper; all 20 maintain permanent fallback; Election Integrity Commission supplements |
@@ -762,12 +764,12 @@ Referenced in Sovereign Functions Act §8 alongside the floors.
 | Small-actor protection | Universal vote required for Tier-1/informal obligations (§4.3) | The informal economy and micro-co-ops | Burden on enacting body; pre-enactment certification; severability; prospective standing |
 | Outer limit | Entrenched Floors (§11; 12 floors) | What no majority may touch | 75% referendum to breach |
 | Protected | Guarantees (§12; 4 items) | What the state must always provide | Middle bar to weaken |
-| **Federal revenue** | **~$460B** | VAT 5% + income >$100k + corporate profit + tariffs + resources + co-op profit + property + excise | |
+| **Federal revenue** | **~$495B** | VAT 6% + income >$100k + corporate profit + tariffs + resources + co-op profit + property + excise + Parks Index | |
 | **Federal spending** | **~$424.5B** | **Operations ~$196B** (3.3% of GDP, inside the 4% cap) + **Transfers ~$228.5B** (outside it; §7.2 test: who chooses the recipient?) | |
 | **Citizen dividend** | **~$157B/yr** (~$1,400/citizen) | Once the SWF caps (~2028) — the only channel reaching the informal economy | |
 | **Profit taxation** | **Federal only** | The Co-op Advantage Principle compares two rates; it holds only where one body sets both (Municipal & Regional Funding Act §2.2) | |
 
-**Every chamber is one-third wildcards. Wildcard terms: 5 years, 3-term cap. Territorial Chamber sits quarterly (§3.4). No citizen may hold more than one chamber seat (§2.3). Federated seats elected by cross-tier-seconded approval vote of CU boards; enterprise seats elected by cross-regionally-seconded sector approval vote; all wildcards elected by universal citizen vote via petition threshold. The eight boards are founding instruments; §7.2's charter bar governs the ninth and after.**
+**The Territorial Chamber is one-third wildcards (Rule of Thirds). The Productive Chamber seats 100 wildcards (20%) — the lower ratio preserves the proportional-representation barometer. Wildcard terms: 5 years, 3-term cap. Territorial Chamber sits quarterly (§3.4). No citizen may hold more than one chamber seat (§2.3). Federated seats elected by cross-tier-seconded approval vote of CU boards; enterprise seats elected by cross-regionally-seconded sector approval vote; all wildcards elected by universal citizen vote via petition threshold. The eight boards are founding instruments; §7.2's charter bar governs the ninth and after.**
 
 ---
 
@@ -775,7 +777,7 @@ Referenced in Sovereign Functions Act §8 alongside the floors.
 
 New Crossroads builds its legislature from the economy's own self-governing institutions: who owns what, and where do they live?
 
-- **The economy is the electorate.** Credit unions become the chamber of places. Co-ops and corporations become the chambers of form. The informal economy speaks through the one vote every citizen carries for being one.
+- **The economy is the electorate.** Credit unions become the chamber of places. Co-ops and corporations become the chamber of form. The informal economy speaks through the one vote every citizen carries for being one.
 
 - **The citizen outranks the enterprise.** The human vote is supreme wherever a right is at stake. Money becomes a vote in no chamber.
 
