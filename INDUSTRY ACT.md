@@ -222,6 +222,69 @@ The cable upgrade is the **foreign tech company's entry cost**, not a state infr
 
 ---
 
+
+### 2.15 Semiconductor Manufacturing (Mature-Node Fabs)
+
+**Strategic rationale.** The ~$400–500B annual semiconductor import bill is the single largest trade dependency in the economy. Every EV control module, every Exchange terminal, every CED server, every military guidance system, every power-grid controller — all imported silicon. This section targets **mature-node fabs** (28nm and above) that serve the automotive, industrial, military, and power-electronics segments — the volume chips that don't require bleeding-edge process knowledge.
+
+New Crossroads is not competing with TSMC on 3nm leading-edge chips. That requires decades of institutional knowledge, thousands of PhD-level process engineers, and $40B per fab for equipment only ASML makes. Mature-node fabs cost $3–8B each, use proven, widely available equipment, and the process knowledge is well-understood. China, India, and the US are all building them. New Crossroads has something none of them have: the cheapest nuclear baseload power on Earth, unlimited freshwater, and a constitutional labor pipeline.
+
+**What a fab needs vs what New Crossroads offers:**
+
+| Requirement | New Crossroads advantage |
+|---|---|
+| Electricity (100+ MW, 24/7) | Generation-cost nuclear power (cents/kWh). A fab spending $200M/year on power elsewhere spends $50M here. The margin compounds every year for 30 years |
+| Ultra-pure water (~10M gallons/day per fab) | Multiple river systems, Westflow dams, abundant freshwater — no drought risk, no rationing, no competition with agriculture |
+| Skilled labor (thousands of technicians per fab) | Mandatory-service apprenticeship pipeline — retool for fab technicians in 2–3 cohorts (~50,000 trained technicians per year capacity) |
+| Capital ($3–8B per fab) | Tax holiday until cost recovery (§2.14 precedent); CCIF co-op lending at reference + 3% for qualifying ventures |
+| Seismic stability | Heartland plateau — geologically stable (unlike Taiwan's Pacific Ring of Fire position) |
+
+**Partnership model (same template as §2.13 and §2.14):**
+
+- **Invite mature-node fab partnerships** — Samsung, GlobalFoundries, SMIC, UMC, or TSMC mature-node subsidiaries. They bring the process knowledge. New Crossroads brings the power, water, labor, and incentive package
+- **Co-op integration ramp:** 20%→40% worker ownership over the first decade (§2.5 standard ramp). The fab becomes a domestic co-op within 20 years — the engineers who trained under Korean or Taiwanese specialists in 2035 are the masters training mandatory-service apprentices in 2055
+
+**Incentive structure:**
+
+| Incentive | Detail |
+|---|---|
+| Tax holiday | Zero tax of any kind until the investing company has recovered its fab construction cost (same pattern as §2.14 submarine cable provision) |
+| Electricity at generation cost | Fab receives nuclear power at generation cost (not the access-fee rate) — the single largest operating cost advantage available anywhere on Earth |
+| Water at cost | Ultra-pure water supply at treatment cost, priority allocation from regional water infrastructure |
+| Co-op partnership | Domestic workforce under the 20%→40% co-op integration ramp (§2.5) |
+| Military procurement guarantee | The defense establishment commits to purchasing all radiation-hardened and military-grade chips domestically once production qualifies — a captive market worth ~$5–10B/year |
+
+**Tariff and production targets:**
+
+| Measure | Detail |
+|---|---|
+| Tariff on covered nodes (28nm+) | **50% on finished-chip imports** within the covered node ranges, matching the EV tariff. Chips below 28nm (leading-edge) are tariff-free — no penalty on what the nation cannot yet produce |
+| Import-to-production ratio | 1:3 → 1:5 over 15 years (same ramp as §2.13 EV). Initial domestic content of 25%, rising to 50%+ as the supply chain domesticates |
+| Fab target | 3–5 mature-node fabs by 2060, producing ~$60–80B in semiconductors annually |
+| Node coverage | 28nm, 40nm, 65nm, 90nm — automotive, industrial controls, military/defense, power electronics, IoT/sensors |
+
+**What this does NOT target:** leading-edge nodes (sub-14nm). Those remain imported tariff-free from Taiwan, Korea, and the US. The strategic dependency narrows from "everything" to "leading edge only" — and leading-edge chips are the ones nobody will embargo because the customers who buy them also supply the raw materials for making them.
+
+**Supply chain domestication path (20-year horizon):**
+
+- **Years 1–5:** foreign-operated fabs producing on imported equipment with imported chemicals. Domestic contribution: power, water, labor, facility
+- **Years 5–10:** specialty chemical and gas production begins domestically (some precursors derivable from Frostpeak chemistry — silicon from quartz, specialty metals from the mineral endowment). Equipment maintenance domesticates
+- **Years 10–15:** co-op integration reaches 30–40%. Process engineering knowledge transfers to domestic workforce. Second-generation fabs designed and built with domestic engineering
+- **Years 15–20:** mature-node capability is fully domestic. Import dependency limited to photolithography equipment (ASML monopoly — no nation domesticates this) and leading-edge chips
+
+**Estimated impact by 2075:**
+
+| Metric | Value |
+|---|---|
+| Domestic semiconductor production | ~$60–80B/year |
+| Semiconductor import reduction | ~$100–150B/year (from ~$400–500B to ~$300–350B) |
+| Employment | ~30,000–50,000 direct + ~100,000 supply chain |
+| Current account improvement | ~$150B+ (import substitution + modest exports) |
+| Strategic dependency reduction | From "all chips imported" to "leading-edge only imported" |
+
+**Facilitation:** ~$2B reference-rate-anchored SWF revolving loans (standard rate) for domestic supply-chain development. Fab construction capital is the **foreign partner's investment** — same principle as §2.14 submarine cables. The state provides the incentive; the partner provides the capital.
+---
+
 ## Section 3: Resource Management
 
 Resources generate ~**$306.4B**/year (2025), scaling to ~**$570B** by 2075. **Resources are regionally owned** — regions levy royalties/stumpage as own-source revenue; the national government takes **40% of a 12% royalty, plus profit tax on resource firms** (Municipal & Regional Funding Act §2.5; Monetary Act §4; Sovereign Functions Act §7.1).
@@ -263,7 +326,7 @@ Resources generate ~**$306.4B**/year (2025), scaling to ~**$570B** by 2075. **Re
 
 ## Section 4: Innovation Hubs
 
-Hubs drive ~$40B AI/data center/tech (§2.14), ~$25B electric vehicles (§2.13), ~$20B heavy equipment (mining machinery), ~$20B steel, ~$15B jewelry, ~$12B aerospace, ~$18B military/missile, ~$10B nuclear, ~$3B aviation, ~$10B petrochemicals, ~$3.75B hemp, ~$5B transformers, ~$275M CO₂, and ~$10B shipbuilding — funded by **~$30B/year R&D** from **general revenue** (Sovereign Functions Act §7.3; no co-op recharge) — **not the SWF** — the SWF lends and backstops; it does not fund programmes (Monetary §2.1). Hub loans are reference-rate-anchored (service-sector rate for climate-related research, standard otherwise).
+Hubs drive ~$60–80B semiconductors (§2.15), ~$40B AI/data center/tech (§2.14), ~$25B electric vehicles (§2.13), ~$20B heavy equipment (mining machinery), ~$20B steel, ~$15B jewelry, ~$12B aerospace, ~$18B military/missile, ~$10B nuclear, ~$3B aviation, ~$10B petrochemicals, ~$3.75B hemp, ~$5B transformers, ~$275M CO₂, and ~$10B shipbuilding — funded by **~$30B/year R&D** from **general revenue** (Sovereign Functions Act §7.3; no co-op recharge) — **not the SWF** — the SWF lends and backstops; it does not fund programmes (Monetary §2.1). Hub loans are reference-rate-anchored (service-sector rate for climate-related research, standard otherwise).
 
 ---
 
