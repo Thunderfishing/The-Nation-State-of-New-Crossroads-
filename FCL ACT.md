@@ -1,5 +1,5 @@
 # Crossroads Federated Cooperatives Limited (FCL) Structure Act of 2025
-**Draft: 3.4 | Date: July 11, 2026**  
+**Draft: 3.5 | Date: July 27, 2026**  
 **Author: Thunderfish2**
 
 ---
@@ -9,7 +9,7 @@
 - **Role:** Produce goods and services across retail, manufacturing, agriculture, energy, technology, professional services, and recreation — empowering workers, customers, and investors via cooperative ownership, patronage returns, and profit-sharing.
 - **Distinction from corporations:** Corporations are permitted and subject to corporate-governance requirements (Monetary §4.1, entrenched as Chamber Act §12.3). FCLs prioritize member ownership with capped investor participation and receive favorable tax treatment (5% profit tax over $100k vs. corporate tiers up to 25%).
 - **Tax:** FCLs pay 5% profit tax on profit over $100,000 (Monetary §4) and **no SWF contribution**; they fund the commons via the §3.2 waterfall.
-- **Amendments:** require a 75% Territorial Chamber vote (15/20 Regional Boards) plus concurrence from both Productive Chambers.
+- **Amendments:** require a 75% Territorial Chamber vote (15/20 Regional Boards) plus concurrence from the Productive Chamber.
 
 ---
 
@@ -36,11 +36,11 @@
 
 Three tiers by size, revenue, and loan exposure. All pay the 5% co-op profit tax and no SWF contribution. A ladder from informal-sector startups to full-scale FCLs.
 
-- **Tier 1 (Micro):** no board required (founder approval suffices); patronage voluntary; **CCIF fully exempt**; loans at the low service/micro nominal rate (reference-rate-anchored, set below the reference rate by design — Monetary §1.5A).
+- **Tier 1 (Micro):** no board required (founder approval suffices); patronage voluntary; **CCIF fully exempt**; loans at **reference + 1.5%** (~5% at founding rates) — slightly below the standard commercial band (reference + 2%), a modest subsidy for the smallest co-ops.
 - **Tier 2 (Mid):** 3–5 member board; patronage required (§3.1); CCIF optional; loans at standard nominal rate (reference-rate-anchored).
 - **Tier 3 (Full):** 5–7 member board with 70/30 member/investor voting; patronage, profit-sharing, full audits; CCIF optional.
 
-**Productive Chamber representation:** Tier-2+ FCLs — those that have formed a governing board — are eligible to participate in the **collective election** of the 200 co-op delegates to the Productive Chamber (Chamber Act §4). The remaining 100 seats are wildcards elected directly by the universal citizen vote (Chamber Act §2.3). A Tier 1 micro-co-op has no board and no delegate to send; it acquires a voice in the electoral pool when it grows into Tier 2 and forms its board. The tier ladder is self-enforcing.
+**Productive Chamber representation:** Tier-2+ FCLs — those that have formed a governing board — are eligible to participate in the **collective election** of the 325 co-op delegates to the Productive Chamber (Chamber Act §4). The remaining seats are 75 corporate delegates (elected by corporate worker boards, Chamber Act §4.2) and 100 wildcards elected directly by the universal citizen vote (Chamber Act §2.3). A Tier 1 micro-co-op has no board and no delegate to send; it acquires a voice in the electoral pool when it grows into Tier 2 and forms its board. The tier ladder is self-enforcing.
 
 **Heavy Industry Clause (Tier 3, for nuclear/auto/aerospace/heavy infrastructure):**
 
@@ -51,12 +51,12 @@ Three tiers by size, revenue, and loan exposure. All pay the 5% co-op profit tax
 | Minimum member ownership | 70% | 51% |
 | Maximum investor ownership | 30% | 49% |
 | Board size | 5–7 | 7–11 (min 5 worker/customer seats) |
-| Sovereign Council oversight | No | Yes (annual review) |
+| Sovereign Council oversight | No | No (arms-proliferation veto only) |
 | Community Benefit Agreement | Recommended | Required |
 | Labor peace agreement | No | Required for projects >1,000 workers |
 | CCIF | Optional | Optional |
 
-**Approval:** Regional Board (6/11) → Productive Chamber → Sovereign Council (5/7); renewal every 5 years. This is the same approval chain as the Exchange's capital-intensive corporate exception (Exchange Act §3.3).
+**Approval:** Regional Board (6/11) → the Corporate and Exchange Commission (recommendation) → the full Productive Chamber (supermajority) → Territorial Chamber (15/20); renewal every 5 years. **The Sovereign Council holds no approval role** — its only intervention power is a **national-security veto on arms-proliferation grounds** (Sovereign Functions Act §8), exercisable only where a Heavy Industry FCL's activity falls within the sovereign's defense/security closed list. A firm's ownership structure is the chambers' business.
 
 **Downgrade:** an FCL may downgrade if below all thresholds for two consecutive years (Regional Board simple majority), preventing yo-yo transitions.
 
@@ -123,7 +123,7 @@ Three tiers by size, revenue, and loan exposure. All pay the 5% co-op profit tax
 
 **System-wide commons funding:** ~**$54B/year** total (~$22B healthcare, ~$11B education, ~$22B charity), generated almost entirely by Tier 3 co-ops with profit above $10M. Voluntary Tier 2 donations add an estimated ~$5–7B, bringing the realistic total to ~$59–61B. The commons is funded by the co-ops that can afford it and subsidised by none that cannot.
 
-**Where the charity slice goes — co-op-directed, by member vote.** Healthcare flows to the healthcare co-ops (Healthcare Act). Education flows to the voucher system (Education Act). The charity slice — **~$19B/year** — flows where **each FCL's members direct it** at the annual meeting. The co-op votes; the money follows. There is no ministry, no bureau, no national allocation formula. 195,100 co-ops each decide for themselves.
+**Where the charity slice goes — co-op-directed, by member vote.** Healthcare flows to the healthcare co-ops (Healthcare Act). Education flows to the voucher system (Education Act). The charity slice — **~$22B/year** — flows where **each FCL's members direct it** at the annual meeting. The co-op votes; the money follows. There is no ministry, no bureau, no national allocation formula. 195,100 co-ops each decide for themselves.
 
 **Likely categories (co-ops self-sort by community need):**
 
@@ -145,7 +145,7 @@ Three tiers by size, revenue, and loan exposure. All pay the 5% co-op profit tax
 
 ### 3.3 Funding
 
-- **Loans:** ~**$1.21T** from credit unions (Credit Union Act 5.8) — 65% of the ~$1.86T network loan book: business loans $50,000–$5M at **reference + 2%** (~5.5%). Energy FCLs funded per region. *(Rescaled: the prior ~$294.125B was 65% of a loan book that had been reported as the credit unions' special-share capital rather than the book it supports — Credit Union Act §3.2.)*
+- **Loans:** ~**$1.21T** from credit unions (Credit Union Act 6.0) — 65% of the ~$1.86T network loan book: business loans $50,000–$5M at **reference + 2%** (~5.5%). Energy FCLs funded per region. *(Rescaled: the prior ~$294.125B was 65% of a loan book that had been reported as the credit unions' special-share capital rather than the book it supports — Credit Union Act §3.2.)*
 - **Capital investments:** 10–20% profit reinvestment; non-equity loans for professional FCLs.
 - **Revenue context:** total government revenue and the consolidated picture per the Consolidated Fiscal Model; FCLs contribute via the 5% profit tax **and** the §3.2 commons waterfall (no SWF recharge).
 
@@ -168,14 +168,14 @@ Three tiers by size, revenue, and loan exposure. All pay the 5% co-op profit tax
 
 ### 3.6 Tiered Funding Access
 
-- **Tier 1 (Micro):** microloans $1,000–$50,000 via the Regional Co-op Stabilization Fund (**reference − 3.5% to reference − 1.5%**, ~0–2%, unsecured — the deepest subsidy in the system, and a stated one); no CCIF; informal-sector transition grants ($5,000–$25,000, match required).
+- **Tier 1 (Micro):** microloans $1,000–$50,000 via the Regional Co-op Stabilization Fund (**reference + 1.5%**, ~5% at founding rates, unsecured — a modest subsidy below the standard commercial band); no CCIF; informal-sector transition grants ($5,000–$25,000, match required).
 - **Tier 2 (Mid):** business loans $50,000–$2M (**reference + 2%**, ~5.5%) or Stabilization Fund (**reference − 0.5% to reference + 0.5%**, ~3–4%); CCIF optional; Redemption Reserve matching grants (up to $50,000/year).
 - **Tier 3 (Full):** full credit-union access; Co-op Board listing eligibility (Exchange Act §3.1); co-op bonds up to 200% of equity (Productive Chamber approval).
 
 ### 3.7 Co-op/Corporate Joint Ventures (CCJV)
 
 - **3.7.1 Authorization:** FCLs may enter JVs with registered corporations for projects, licensing, or time-limited production; CCJVs are separate legal entities.
-- **3.7.2 Ownership tiers:** Co-op Led (51–99% co-op, 20 yrs, Regional Board 6/11); Corporate Led (30–49% co-op, 15 yrs, Productive Chamber + Productive Chamber jointly); Strategic Infrastructure (40% min co-op, 25 yrs, Sovereign Council 5/7 + Territorial Chamber 15/20).
+- **3.7.2 Ownership tiers:** Co-op Led (51–99% co-op, 20 yrs, Regional Board 6/11); Corporate Led (30–49% co-op, 15 yrs, Productive Chamber); Strategic Infrastructure (40% min co-op, 25 yrs, Sovereign Council 5/7 + Territorial Chamber 15/20).
 - **3.7.3 Governance protections:** corporate partners have no vote in FCL internal affairs outside the JV; FCL members keep home-FCL base-share rights; board seats proportional (co-op holds ≥1); disputes resolved through ad-hoc arbitration (Chamber Act §6.6), with procedural appeals to the Supreme Court (Sovereign Functions Act §4).
 - **3.7.4 Financial rules:** JV profits taxed at corporate rate unless co-op portion >50% (then 5% on that portion); patronage applies only to the co-op share; CCIF deposits allowed if co-op portion >50%.
 - **3.7.5 Exit/buyout:** assets distributed by ownership; co-op right of first refusal at appraised value; corporate partner may sell to another corporation only with co-op consent.
@@ -185,7 +185,7 @@ Three tiers by size, revenue, and loan exposure. All pay the 5% co-op profit tax
 
 - **3.8.1 Nature:** a **voluntary** liquidity pool where FCLs and corporate participants deposit unspent capital, earn 5–7%, and fund national-scale SWF-aligned projects. Not a tax or mandatory contribution.
 - **3.8.2 Participation:** Tier 1 exempt; Tiers 2/3 optional; corporations by Productive Chamber approval.
-- **3.8.3 Projected scale:** ~**$811B** (FCLs) + ~**$180B** (corporate) ≈ ~**$991B** system-wide (assumes 5–7% returns; depends on voluntary participation). *(Rescaled from ~$2.395T: the prior figure was a financial stock derived off a GDP of $38.94T. Per the Consolidated Fiscal Model, 2025 GDP is ~$6T.)*
+- **3.8.3 Projected scale (2075):** ~**$811B** (FCLs) + ~**$180B** (corporate) ≈ ~**$991B** system-wide (assumes 5–7% returns; depends on voluntary participation). **At founding (2025), ~$100B** — inherited enterprise working capital from Soviet divestiture deposited voluntarily. Builds over 50 years as co-ops accumulate and deposit profits.
 - **3.8.4 Returns:** 5–7%, paid in BWC (50/50 cash/credits default; 100% cash electable); accrues daily, paid quarterly.
 - **3.8.5 Withdrawals:** on 30 days' notice, up to 20% of deposit **per §3.8.6's liquidity rule** — the gate is bounded by what the fund can actually pay, not by a fixed percentage of what it holds.
 
@@ -240,9 +240,9 @@ Three tiers by size, revenue, and loan exposure. All pay the 5% co-op profit tax
 
 - **Regional Boards** (Chamber Act §3 — 20 boards, 11 members each: 7 credit-union-federated + 4 wildcard, 220 total): approve loans, manage the ~$500M/region Co-op Stabilization Fund, oversee compliance, verify investor eligibility, approve tier changes and Heavy Industry applications, oversee CCJVs. Dual function: each region's state legislature and the nation's territorial upper body.
 
-- **Productive Chamber** (Chamber Act §4 — 400 seats, proportional to economic share): the legislative voice of the cooperative sector. The 200 co-op delegates are **collectively elected** by the boards of Tier-2+ FCLs (one vote per FCL board, or weighted by membership — method set by the co-op electoral rules under Chamber oversight). The 100 wildcards are elected directly by the universal citizen vote (Chamber Act §2.3). Approves professional FCL structures, major co-op sector rules, and CCIF participation by corporations. Oversees the Co-op Board (Exchange Act §3.1), the CCIF Alliance Network, and co-op sector operations. Confirms CCIF Alliance Network board appointments.
+- **Productive Chamber** (Chamber Act §4 — 500 seats: 325 co-op, 75 corporate, 100 wildcard): the legislative voice of the productive economy. The 325 co-op delegates are **collectively elected** by the boards of Tier-2+ FCLs (one vote per FCL board, or weighted by membership — method set by the co-op electoral rules under Chamber oversight). The 75 corporate delegates are elected by corporate worker boards (Chamber Act §4.2). The 100 wildcards are elected directly by the universal citizen vote (Chamber Act §2.3). The **Corporate and Exchange Commission** (15 members: 10 co-op, 5 corporate) handles routine Exchange and corporate-governance matters. Approves professional FCL structures, major co-op sector rules, and CCIF participation by corporations. Oversees the Co-op Board (Exchange Act §3.1), the CCIF Alliance Network, and co-op sector operations. Confirms CCIF Alliance Network board appointments.
 
-- **Sovereign Council** (Sovereign Functions Act §6 — 7 members): final Heavy Industry approval (5/7), Strategic Infrastructure CCJV approval, and CCJV renewal beyond 25 years. Holds no other domestic regulatory role (Sovereign Functions Act §8).
+- **Sovereign Council** (Sovereign Functions Act §6 — 7 members): **arms-proliferation veto only** on Heavy Industry FCLs whose activity falls within the defense/security closed list; Strategic Infrastructure CCJV approval; and CCJV renewal beyond 25 years. Holds no other domestic regulatory role over FCLs (Sovereign Functions Act §8).
 
 - **Special Auditors** (Sovereign Functions Act §3 — 50–75 independent prosecutors): enforce voting caps via CED/AI audits on their own initiative; may investigate co-op governance violations, fraud, and financial misconduct; may not access sub-DLB cash records. ~$2.5B fraud cap; Tier 1 exempt unless flagged.
 
@@ -254,7 +254,7 @@ Three tiers by size, revenue, and loan exposure. All pay the 5% co-op profit tax
 
 - **Sustainability:** FCLs implement ~$50B/year of national sustainability projects (greenhouses, recycling hubs, CO₂ pipelines, renewables, eco-zones), funded by **general revenue** (Sovereign Functions Act §7.3) and voluntary CCIF deposits. Co-op housing construction is separate and is **revolving SWF lending** — ~$9B at founding, ~$88B at maturity (Housing Act §3.4, §8).
 
-- **SMSWF:** funds 25 mining FCLs (Region 3; ~250,000 oz gold, ~2.5M oz silver/year; ~$470M profit, scaling toward ~$5B), feeding credit unions (~$1.736B/year) and the Citizens' Metals ETF.
+- **Sovereign Metals Streaming Facility (SMSF):** funds 25 mining FCLs (Region 3; ~250,000 oz gold, ~2.5M oz silver/year; ~$470M profit, scaling toward ~$5B), feeding credit unions (~$1.736B/year) and the Citizens' Metals ETF.
 - **Regional roles:** retail (R1), nuclear (R2), mining (R3), agriculture (R5), timber/glaciers (R7), plains (R9–12) — integrated with the parkweb and infrastructure.
 
 ---
@@ -273,18 +273,18 @@ Three tiers by size, revenue, and loan exposure. All pay the 5% co-op profit tax
 | SWF Contribution | 0% (co-ops fund commons via §3.2 waterfall) | same |
 | Commons via marginal waterfall | **~$60B/year** (~$22B health / ~$11B edu / ~$22B charity mandatory from Tier 3 + ~$6B voluntary from Tier 2) — marginal 22% on post-tax profit above $10M; Tier 1 and 2 commons are voluntary | scales |
 | FCL Loans | ~**$1.21T** (65% of the ~$1.86T network book) | ~$3.83T |
-| CCIF (voluntary, projected) | ~**$991B** (~$811B FCL + ~$180B corporate) | scales |
+| CCIF (voluntary, projected) | ~**$100B** (inherited enterprise capital from Soviet divestiture) | ~$991B |
 | Co-op Exports | ~**$843B** (~14% of GDP) | ~$2.28T |
 | Co-op Resources | ~$274B — **see note** | ~$740B |
 | Patronage Returns | ~$862.5M/year | ~$2.3B/year |
-| Loan rates | **reference + 2%** (~5.5%) standard; Tier 1 micro at reference − 3.5% to − 1.5%. Reference rate ~3.5% (Monetary §1.5A) | same |
+| Loan rates | **reference + 2%** (~5.5%) standard; Tier 1 micro at **reference + 1.5%** (~5% at founding rates). Reference rate ~3.5% (Monetary §1.5A) | same |
 | Corporate tax | 0/10/20/25% (Monetary §4) | same |
 | Co-op Board (Exchange) | Exchange Act §3.1 | same |
-| Productive Chamber | 300 members: 200 co-op delegates (collectively elected by Tier-2+ FCL boards) + 100 wildcards (directly elected by universal citizen vote) — Chamber Act §4 | same |
-| Productive Chamber | corporate delegation within the Productive Chamber (seats proportional to GDP share) — Chamber Act §4.2 | same |
+| Productive Chamber | 500 members: 325 co-op delegates (collectively elected by Tier-2+ FCL boards) + 75 corporate delegates (elected by corporate worker boards) + 100 wildcards (directly elected by universal citizen vote) — Chamber Act §4 | same |
+| Corporate and Exchange Commission | 15-member standing commission of the Productive Chamber (10 co-op, 5 corporate) — handles routine Exchange and corporate-governance matters | same |
 | Data architecture | PPK + CED (no CWD) | PPK + CED |
 | Entrenched floors | 12 (Chamber Act §11); protected guarantees: 4 (Chamber Act §12); corporate governance = §12.3 | same |
-| Governance | Sovereign Council (7) + Territorial Chamber (220) + Productive Chamber (400) + Productive Chamber (100) + universal citizen vote | same |
+| Governance | Sovereign Council (7) + Territorial Chamber (220) + Productive Chamber (500 — 325 co-op, 75 corporate, 100 wildcard) + universal citizen vote | same |
 
 > **Note — this figure caught an error in another act, and it has been fixed there.** This act reports ~$274B of co-op resource activity. The Industry Act's §3 headline stated the whole resource sector grossed ~$213.28B — so a part exceeded its whole. Industry §3.1–3.5 sum to **~$306.4B**, which the $274B fits inside at ~89%, plausible for a co-op-dominant economy. Two witnesses against one: **the headline was the error.** Industry Act §3 (Draft 5.0) now reads ~$306.4B, and the national resource cut rises accordingly to **~$22.7B** (Monetary §4; Sovereign Functions §7.1). This act's figure stands unchanged.
 
@@ -296,7 +296,7 @@ Three tiers by size, revenue, and loan exposure. All pay the 5% co-op profit tax
 
 | Tier | Est. FCLs | Governance | Patronage | CCIF | Loan rate | Chamber representation |
 |---|---|---|---|---|---|---|
-| Tier 1 (Micro) | ~150,000 | No board | Voluntary | Exempt | reference − 3.5% to − 1.5% (~0–2%) | Via universal citizen vote only |
+| Tier 1 (Micro) | ~150,000 | No board | Voluntary | Exempt | reference + 1.5% (~5%) | Via universal citizen vote only |
 | Tier 2 (Mid) | ~35,000 | 3–5 board | Required | Optional | Standard (ref-rate-anchored) | Participates in collective election of Productive Chamber delegates |
 | Tier 3 (Base) | ~9,100 | 5–7 board | Required | Optional | Standard (ref-rate-anchored) | Participates in collective election of Productive Chamber delegates |
 | Tier 3 (Heavy Industry) | ~1,000 | 7–11 board | Required | Optional | Standard (ref-rate-anchored) | Participates in collective election of Productive Chamber delegates |
@@ -310,15 +310,15 @@ The FCL Structure Act is the productive engine of the New Crossroads economy. Th
 
 - **Tiers are ladders, not hierarchies.** A micro-co-op grows to Tier 2 without a governance cliff; a Tier 3 co-op can downsize without penalty. The tier ladder is also the path to legislative voice: form a board, and your co-op joins the electoral pool for the Productive Chamber. Before that, the citizen vote carries you.
 
-- **The commons is funded progressively — and co-ops always stay ahead.** Small co-ops contribute lightly (5% of remaining profit); large co-ops carry the commons (~22%). At every tier, the co-op's all-in burden stays below an identical corporation's — that is the Co-op Advantage Principle, and it is constitutionally entrenched. The waterfall funds healthcare, education, and charity (~$125B/year) without ever making cooperation cost more than incorporation — and the healthcare and education allocations are bound to satisfy the entrenched guarantees before any other distribution.
+- **The commons is funded progressively — and co-ops always stay ahead.** Small co-ops contribute lightly (5% of remaining profit); large co-ops carry the commons (~22%). At every tier, the co-op's all-in burden stays below an identical corporation's — that is the Co-op Advantage Principle, and it is constitutionally entrenched. The waterfall funds healthcare, education, and charity (~$60B/year) without ever making cooperation cost more than incorporation — and the healthcare and education allocations are bound to satisfy the entrenched guarantees before any other distribution.
 
 - **Voluntary CCIF, not mandatory extraction.** The CCIF is a voluntary liquidity pool — deposit when it suits, withdraw when capital is needed, earn market returns. Cooperation, not taxation.
 
 - **The 5% profit tax keeps co-ops advantaged.** Corporations pay up to 25% plus behavioral constraints. The gap is intentional — it rewards cooperative ownership and keeps wealth distributed. And corporations speak in the legislature through the Productive Chamber, via delegates elected by their boards (which already include worker representation) — not through shareholders.
 
-- **Low loan rates for the smallest enterprises.** Tier 1 micro-co-ops, many emerging from the informal economy, borrow at the low service/micro rate — credit affordability through the issuance anchor and reference-rate anchoring, not a deflation-adjustment mechanism.
+- **Modest rate advantage for the smallest enterprises.** Tier 1 micro-co-ops, many emerging from the informal economy, borrow at reference + 1.5% (~5%) — slightly below the standard commercial band (reference + 2%, ~5.5%), a modest subsidy for co-ops that need every margin to grow.
 
-- **Heavy Industry Clause balances scale and democracy.** A nuclear plant cannot be financed with $5M investor caps; the clause permits larger participation (49% ownership, 15% voting) while preserving member control (51% minimum, 5 worker/customer seats), with Community Benefit and Labor Peace Agreements and Sovereign Council oversight.
+- **Heavy Industry Clause balances scale and democracy.** A nuclear plant cannot be financed with $5M investor caps; the clause permits larger participation (49% ownership, 15% voting) while preserving member control (51% minimum, 5 worker/customer seats), with Community Benefit and Labor Peace Agreements and chamber oversight. The Sovereign Council's only role is an arms-proliferation veto where a co-op's activity touches the defense closed list.
 
 - **The Co-op Board provides liquidity without exit.** Non-voting investor shares trade on the Crossroads Exchange; worker base shares cannot. This preserves the cooperative core — and provides the exit path into which stabilized Freedom Shares flow after a jubilee, and into which converting foreign firms' growing worker stakes are listed.
 
@@ -330,4 +330,4 @@ That is the FCL Act.
 
 ---
 
-**End of Draft 3.4**
+**End of Draft 3.5**
