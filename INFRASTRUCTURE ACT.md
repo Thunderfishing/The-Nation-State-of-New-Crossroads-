@@ -1,8 +1,8 @@
-# New Crossroads Infrastructure Act of 2025: Draft 3.0
+# New Crossroads Infrastructure Act of 2025: Draft 3.1
 
 ---
 
-**Draft:** 3.0 | **Date:** July 22, 2026
+**Draft:** 3.1 | **Date:** July 22, 2026
 **Author:** Thunderfish2
 
 ---
@@ -15,7 +15,7 @@
 
 The New Crossroads Infrastructure Act of 2025 establishes New Crossroads' transportation and logistics framework, post-2025 revolution, serving 112 million citizens with a ~$19T GDP (2075).
 
-It delivers a cooperative rail system (75,000 km, 750M tons/year by 2075), elevated inter-regional freeway system (15,000 km, with insect-friendly elevated sections and dark corridor adjacency lighting standards), merchant marine fleet (2,000 vessels, 200M tons/year), ports (150M tons/year), barges (75M tons/year), and CO2 pipelines (4,000 km, 8M tons/year), centered on Crossroads City (Region 1) as the rail and road hub on the Corridon River.
+It delivers a cooperative rail system (75,000 km, 750M tons/year by 2075), elevated inter-regional freeway system (15,000 km, with insect-friendly elevated sections and Dark Corridor and Active Lighting System (DCALS) adjacency standards), merchant marine fleet (2,000 vessels, 200M tons/year), ports (150M tons/year), barges (75M tons/year), and CO2 pipelines (4,000 km, 8M tons/year), centered on Crossroads City (Region 1) as the rail and road hub on the Corridon River.
 
 Following the asset/operator separation model from the Utilities Act:
 - State owns: Rail tracks, freeway pavement and bridges, ports, barge channels, CO2 pipelines
@@ -23,7 +23,7 @@ Following the asset/operator separation model from the Utilities Act:
 
 The act scales to support 130M citizens and a ~$19T GDP by 2075, with infrastructure **construction funded by general revenue** (Sovereign Functions Act §7.3 — not the SWF, per Monetary §2.1) and access fees (tolls, track access charges) recovering **155% of annual maintenance**, the margin funding the SWF contribution, the Dark Corridor Fund, and the rural subsidy.
 
-The system is designed to foster a co-op dominant transportation sector through incentives, not binding quotas. Co-ops receive license priority and fee discounts; the 65% co-op share of operating licenses in 2025 is a descriptive baseline, not an enforcement target.
+The system is designed to foster a co-op dominant transportation sector through incentives, not binding quotas. Co-ops (Federated Cooperative Limiteds, FCLs) receive license priority and fee discounts; the 65% co-op share of operating licenses in 2025 is a descriptive baseline, not an enforcement target.
 
 ---
 
@@ -35,7 +35,7 @@ The Infrastructure Act integrates with the Energy Act, Utilities Act, Industry A
 - **Utilities Act 1.4:** Transmission access fees ($49B/year by 2075) fund grid hardening that powers rail electrification. The asset/operator separation model is directly replicated.
 - **Industry Act:** Rail, freeways, ports, barges, and cargo airports distribute hemp ($2B), heavy equipment ($20B), steel ($2B).
 - **Housing Act:** Infrastructure supports 500,000 Durahomes/year by 2075, transporting CO2-cured hempcrete (450,000 tons/year), low-carbon concrete (10M tons/year), hemp 2x4s (50,000 tons/year), and insulation (50,000 tons/year).
-- **Monetary Act 9.9:** Infrastructure access fees (tolls, track access, port fees) are paid in BWC, flow to SWF (30% of revenue), and are subject to standard BWC transaction fees. Co-op operators pay 5% co-op profit tax on profits over $100,000 (no SWF contribution). No binding sector quotas apply. Loans are reference-rate-anchored (Monetary §1.5A).
+- **Monetary Act 9.9.1:** Infrastructure access fees (tolls, track access, port fees) are paid in BWC, flow to SWF (30% of revenue), and are subject to standard BWC transaction fees. Co-op operators pay 5% co-op profit tax on profits over $100,000 (no SWF contribution). No binding sector quotas apply. Loans are reference-rate-anchored (Monetary §1.5A).
 - **Sovereign Functions Act:** The National Infrastructure Board (NInfraB) is an independent board chartered under the independent board registry; Special Auditors (§3) enforce compliance.
 - **Chamber Act:** Regional Boards (§3) oversee regional infrastructure matters; independent board registry (§7).
 
@@ -521,13 +521,15 @@ Dark Corridor Compliance: Elevated sections have no lighting. Enforcement by Reg
 
 | Allocation | 2025 ($B) | 2075 ($B) | Notes |
 | :--- | :--- | :--- | :--- |
-| Infrastructure maintenance | 37.3 | 55.9 | 50% of revenue |
-| SWF (per Monetary Act 9.9) | 22.4 | 33.6 | 30% of revenue — **redirected to general revenue once the fund is capped (~2029, Monetary §2.3)** |
-| Dark Corridor Fund (incl. the parkweb, Parks Act §8) | 7.5 | 11.2 | 10% of revenue |
-| Rural infrastructure subsidy | 7.5 | 11.2 | 10% of revenue |
-| **Total** | **74.6** | **111.8** | |
+| Infrastructure maintenance / Asset Renewal Fund | ~$8.5 | ~$13.5 | 50% of state access-fee revenue |
+| SWF (per Monetary Act 9.9.1) | ~$5.1 | ~$8.2 | 30% of state access-fee revenue — **redirected to general revenue once the fund is capped (~2029, Monetary §2.3)** |
+| Dark Corridor Fund (incl. the parkweb, Parks Act §8) | ~$1.7 | ~$2.7 | 10% of state access-fee revenue |
+| Rural infrastructure subsidy | ~$1.7 | ~$2.7 | 10% of state access-fee revenue |
+| **Total** | **~$17B** | **~$27B** | **State access fees only — matches §4.1** |
 
-> **This rail is the largest single SWF contributor in the corpus.** At ~$22.4B/year (2025), the Infrastructure access-fee rail exceeds the corporate SWF contribution for any single sector. Monetary §2.1 counts all access-fee rails (this act's ~$22.4B, Energy's ~$4.5B, Communications' ~$0.06B) in the total contribution stream of **~$138B/year.** The fund caps in **~2029 (year 4)**; the stabilisers redirect contributions to general revenue above the cap, and Sovereign §7.4 sends the surplus to the citizen dividend — **~$152B/year, ~$1,359/citizen.**
+> **v3.1 correction.** Prior drafts showed allocations of ~$74.6B / ~$111.8B, which were 50/30/10/10 splits of total operator commercial revenue plus state fees rather than of the state access-fee revenue alone. The SWF's 30% share is ~$5.1B (2025), consistent with the Fiscal Model v3.3.1 and Monetary Act §2.1. Operator commercial revenue is private revenue taxed through the standard profit tax — it does not flow through the access-fee allocation.
+
+> **The access-fee rails, combined, are a significant SWF contributor.** Infrastructure ~$5.1B + Energy ~$4.5B + Communications ~$0.06B = ~$10B/year (Monetary §2.1). The corporate SWF contribution (~$60B) is larger. Total contributions: ~$143B/year. The fund caps in **~2029 (Year 4)**; the stabilisers redirect contributions to general revenue above the cap, and Sovereign §7.4 sends the surplus to the citizen dividend — **~$157B/year, ~$1,400/citizen** (post-cap, scaling with GDP).
 
 The Dark Corridor Fund finances:
 
@@ -541,8 +543,8 @@ The Dark Corridor Fund finances:
 | Retroreflective Building Paint Program | $500M | Dark Corridor Fund |
 | DCLTI tax incentive offset (reimbursement to regions) | $400M | Dark Corridor Fund |
 | Public education (dark sky + pollinator awareness) | $15M | Dark Corridor Fund |
-| **Parkweb, biosphere reserves, and dark-sky corridors (Parks Act §8)** | **~$10.1B** | Dark Corridor Fund |
-| **Total allocated** | **~$11.2B** | **= the fund's full 10% share** |
+| **Parkweb, biosphere reserves, and dark-sky corridors (Parks Act §8)** | **~$1.6B** | Dark Corridor Fund |
+| **Total allocated** | **~$2.7B** | **= the fund's full 10% share of state access-fee revenue** |
 
 
 ---
@@ -554,7 +556,7 @@ The Dark Corridor Fund finances:
 The National Infrastructure Board (NInfraB), an 11-member body, manages rail, freeways (including elevated insect corridors), shipbuilding, ports, barges, CO2 pipelines, and access fees.
 
 - **Composition:** 6 representatives from 20 Regional Infrastructure Districts, 4 experts (drawn from the regional advisory layer, Chamber Act §8), 1 chairman.
-- **Appointment:** **nominated by the Territorial Chamber (Regional Boards, 11/20), confirmed by both Productive Chambers jointly** — the uniform rule for the seven sector boards (Chamber Act §7.1). **No sovereign role** (Sovereign Functions Act §8.5).
+- **Appointment:** **nominated by the Territorial Chamber (Regional Boards, 11/20), confirmed by the Productive Chamber** — the uniform rule for the seven sector boards (Chamber Act §7.1). **No sovereign role** (Sovereign Functions Act §8.5).
 - **Removal:** by the nominating and confirming bodies jointly, or on cause established by a Special-Auditor investigation.
 
 
@@ -592,7 +594,7 @@ The Crossroads Loan Service (CLS) manages infrastructure loans:
 
 *(CLS officer counts are demand-distributed per Credit Union Act §5.1. Infrastructure loans are reference-rate-anchored at the low service-sector nominal rate.)*
 
-### 5.4 Asymmetric Scrutiny (Per Monetary Act 9.9)
+### 5.4 Asymmetric Scrutiny (Per Monetary Act 9.9.1)
 
 | Level | Transaction type | CED treatment (pseudonymized) | Reporting |
 | :--- | :--- | :--- | :--- |
@@ -676,7 +678,7 @@ Cash toll payments are accepted at credit union kiosks with no fee and no survei
 | CO2 pipelines | 3,200 km | 4,000 km |
 | CO2 transported | 5.5M tons/year | 8M tons/year |
 | Total infrastructure access-fee revenue | ~$17B/year | ~$27B/year |
-| SWF contribution (30% of revenue) | ~$5.1B/year; redirected to general revenue once capped (~2029) | ~$8.2B/year |
+| SWF contribution (30% of state access-fee revenue) | ~$5.1B/year; redirected to general revenue once capped (~2029) | ~$8.2B/year |
 | Dark Corridor Fund (10% of revenue) | ~$1.7B/year | ~$2.7B/year |
 | DCALS-certified compounds | 0 | 5,000+ |
 | Retroreflective-certified buildings | 0 | 100,000+ (80% of eligible) |
@@ -801,4 +803,4 @@ That is the Infrastructure Act.
 
 ---
 
-**End of Draft 3.0**
+**End of Draft 3.1**
