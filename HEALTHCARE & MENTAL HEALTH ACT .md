@@ -1,6 +1,6 @@
-# Crossroads Co-operative Healthcare & Mental Wellness Act of 2025: Draft 6.8
+# Crossroads Co-operative Healthcare & Mental Wellness Act of 2025
 
-**Draft:** 6.8 | **Date:** July 22, 2026
+**Draft:** 6.9 | **Date:** July 22, 2026
 **Author:** Thunderfish2
 
 ---
@@ -24,12 +24,12 @@ The **National Healthcare Board (NHB)** manages operations, supported by the 5,0
 | Act | Integration Point |
 | :--- | :--- |
 | **FCL Act 3.4** | Professional FCLs (worker-owned); clinic ownership as Co-op-Led CCJV (hybrid co-op/corporate); cost-share model; retainer client shares; healthcare contribution via the progressive profit-sharing waterfall |
-| **Monetary Act 9.9** | Reference-rate-anchored service-sector loans (Monetary §1.5A); Informal Economy Guarantee; asymmetric scrutiny; SWF capped at 12% GDP; co-op profit tax 5% (no SWF recharge); PPK/CED; no binding sector quotas |
-| **Credit Union Act 5.8** | Micro-loans for informal healthcare access ($500, 4% nominal, self-attested, 24-hour); low-interest service-sector health loans (co-op and corporate eligible); CLS |
+| **Monetary Act 9.9.1** | Reference-rate-anchored service-sector loans (Monetary §1.5A); Informal Economy Guarantee; asymmetric scrutiny; SWF capped at 12% GDP; co-op profit tax 5% (no SWF recharge); PPK/CED; no binding sector quotas |
+| **Credit Union Act 6.0** | Micro-loans for informal healthcare access ($500, reference + 0.5% (~4%), self-attested, 24-hour); low-interest service-sector health loans (co-op and corporate eligible); CLS |
 | **Energy Act** | 21 antifragile hubs (20 regional + 1 repository, Energy Act 5.0) host the mega hospitals (20 hubs — the repository hub has no hospital co-location), co-located with water/sewer treatment and passenger/cargo airports |
 | **Chamber Act** | Regional Boards (§3) oversee healthcare facilities and service-sector loans; independent board registry (§7) |
 | **Sovereign Functions Act** | Special Auditors (§3) enforce compliance; judiciary (§4) hears disputes |
-| **Education Act 2.5** | Supplies ~90,000 healthcare-proper + ~45,000 mental-health graduates/year; ~100,000/year via mandatory service (50k clinics, 50k CMHIN) |
+| **Education Act 2.6** | Supplies ~90,000 healthcare-proper + ~45,000 mental-health graduates/year; ~100,000/year via mandatory service (50k clinics, 50k CMHIN) |
 
 ---
 
@@ -63,7 +63,7 @@ At a founding reference rate of ~3.5% (Monetary §1.5A), that is **~4–5% again
 ### 1.3 Informal Sector Healthcare Access (per Credit Union Act §1.3)
 
 - Cash payment accepted at all co-op facilities for care below the DLB threshold; no PPK presentation required, no income disclosure.
-- Micro-loans ($500, 4% nominal, self-attested, 24-hour) cover informal-sector medical needs.
+- Micro-loans ($500, reference + 0.5% (~4%), self-attested, 24-hour) cover informal-sector medical needs.
 - No citizen may be denied care for declining to disclose cash income or for lacking BWC transaction history.
 
 ### 1.4 Tax Framework for Healthcare (per Monetary Act §4)
@@ -259,12 +259,12 @@ Healthcare is funded by **mandatory universal premiums**, not state SWF operatin
 
 ### 6.1 National Healthcare Board (NHB)
 - 11 members: 6 regional representatives, 4 experts (drawn from the regional advisory layer, Chamber Act §8), 1 chairman.
-- **Appointment: nominated by the Territorial Chamber (Regional Boards, 11/20), confirmed by both Productive Chambers jointly** — the uniform rule for the seven sector boards (Chamber Act §7.1). **No sovereign role** (Sovereign Functions Act §8.5).
+- **Appointment: nominated by the Territorial Chamber (Regional Boards, 11/20), confirmed by the Productive Chamber** — the uniform rule for the seven sector boards (Chamber Act §7.1). **No sovereign role** (Sovereign Functions Act §8.5).
 - **Removal:** by the nominating and confirming bodies jointly, or on cause established by a Special-Auditor investigation.
 
 > **The seventh and last board on the registry, and the seventh to be found running on a rule the registry does not contain.** Prior drafts had the NHB *"appointed by the Sovereign Council (5/7)."* **Chamber Act §7** is explicit: *"The sovereign is barred from domestic regulation, so board appointment is a chamber function."* The Exchange's Co-op Capital Index, the NIB, the NEB, the NHA, the NCB, the NInfraB, and now the NHB — **seven acts, twelve instances, each written independently.** Every act described a board and reached for the nearest executive to appoint it, because that is what boards look like in every other country. **The Municipal & Regional Funding Act is the only one that checked** — and it is the act closest to the ground.
 >
-> The NHB is the sector board whose capture would matter most: it sits over an entrenched guarantee (Chamber Act §12.1) and a ~$448B system. It is the last one that should have been appointed by the executive.
+> The NHB is the sector board whose capture would matter most: it sits over an entrenched guarantee (Chamber Act §12.1) and a ~$451B system. It is the last one that should have been appointed by the executive.
 - Voting: 6/11 routine, 8/11 strategic, 5/11 emergency.
 - Operations: ~$100M/year (funded from premium administration, not SWF).
 - Independence: paired with but subordinate to none; disputes resolved through ad-hoc arbitration (Chamber Act §6.6).
@@ -279,7 +279,7 @@ Healthcare is funded by **mandatory universal premiums**, not state SWF operatin
 - Board of 5–7 worker-owners (one member, one vote); no investor voting; retainer client shares non-voting (2–8% patronage).
 
 ### 6.5 Corporate Facility Governance
-- Corporate hospitals/clinics follow corporate-governance rules (Monetary §4.1, entrenched as Chamber Act §12.3): worker board seats by headcount, transparency above $10M revenue, buyback limits. Licensed (not chartered) by the Regional Board; subject to medical-standards and (near dark corridors) DCALS compliance.
+- Corporate hospitals/clinics follow corporate-governance rules (Monetary §4.1, entrenched as Chamber Act §12.3): worker board seats by headcount, transparency above $10M revenue, buyback limits. Licensed (not chartered) by the Regional Board; subject to medical-standards and (near dark corridors) Dark Corridor and Active Lighting System (DCALS) compliance.
 
 ---
 
@@ -306,12 +306,12 @@ Healthcare is funded by **mandatory universal premiums**, not state SWF operatin
 | Corporate facilities (organic, est.) | emerging | ~5–15% (projection, not quota) |
 | Funding model | **Premium-funded** | Premium-funded |
 | Net premium revenue | ~$383B/year | scaled |
-| FCL healthcare contribution | ~**$19B/year** | scaled |
+| FCL healthcare contribution | ~**$22B/year** | scaled |
 | State bottom-tier subsidy | ~$45B/year | scaled |
 | Healthcare SWF / Mental Health SWF | **Removed** | — |
 | Healthcare loans | **service-sector band: reference + 0.5% to + 1.5%** (~4–5%). Corporate eligible at the same rate (§1.2). Reference rate ~3.5% (Monetary §1.5A) | same |
-| NHB | Independent sector board — Territorial Chamber nominates, both Productive Chambers confirm (Chamber Act §7.1). **No sovereign role** | same |
-| Total healthcare funding | **~$448B** — premiums $428B gross + FCL commons $19B + partners $1.2B (the $45B state subsidy pays the bottom tier's premiums, already inside the $428B) | scaled |
+| NHB | Independent sector board — Territorial Chamber nominates, the Productive Chamber confirms (Chamber Act §7.1). **No sovereign role** | same |
+| Total healthcare funding | **~$451B** — premiums $428B gross + FCL commons $22B + partners $1.2B (the $45B state subsidy pays the bottom tier's premiums, already inside the $428B) | scaled |
 | As % of GDP | **~7.5%** (OECD ~9%; US 17%; UK 11%) | declining as GDP triples |
 | Per capita | **~$4,000** (US ~$13,000; Canada ~$6,300; UK ~$5,500) | rising with the economy |
 | Data architecture | PPK + CED (no CWD) | PPK + CED |
@@ -337,4 +337,4 @@ Universal coverage, a lean state, capacity radiating from the hubs, a private ti
 
 ---
 
-**End of Draft 6.8**
+**End of Draft 6.9**
