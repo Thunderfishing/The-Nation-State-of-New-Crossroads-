@@ -1,6 +1,6 @@
-# New Crossroads Utilities Act of 2025: Draft 1.4
+# New Crossroads Utilities Act of 2025: Draft 1.5
 
-**Draft:** 1.3 | **Date:** July 12, 2026
+**Draft:** 1.5 | **Date:** July 27, 2026
 **Author:** Thunderfish2
 
 ---
@@ -13,18 +13,18 @@
 
 Establishes a competitive utilities market built on **state-owned transmission and distribution infrastructure**, following the asset/operator separation model of the cooperative rail system. The state **owns** the physical grid (poles, wires, substations, transformers); **maintenance and upgrades are contracted out** to co-ops under performance concessions; and **licensed utilities — primarily co-ops** — compete to generate and sell electricity, paying transmission access fees for use of the state grid.
 
-This model prevents natural-monopoly capture, centralizes CME hardening, generates steady SWF revenue, lets co-ops enter the market without billions in capital — and, with the anti-rot architecture, guarantees the grid is continuously renewed and improved rather than built once and neglected.
+This model prevents natural-monopoly capture, centralizes coronal mass ejection (CME) hardening, generates steady SWF revenue, lets co-ops enter the market without billions in capital — and, with the anti-rot architecture, guarantees the grid is continuously renewed and improved rather than built once and neglected.
 
 ---
 
 ## Section 0: Interdependencies
 
 - **Energy Act 5.0:** provides the physical grid — 30,000 km buried high-voltage transmission, 150,000 km buried distribution, 750 EMP-shielded substations, a strategic transformer reserve (5,000+ by 2075) — and the 20 antifragile SMR hubs (one per region) as anchor loads and islanding points.
-- **Infrastructure Act 3.0:** the asset/operator separation model is directly replicated; transmission access fees follow the freeway-toll logic (155% recovery over asset life); DCALS applies to utility infrastructure near elevated freeways.
-- **Monetary Act 9.9:** transmission access fees paid in BWC, flow (in part) to the SWF; co-op utilities pay the 5% co-op profit tax on generation profits; no binding quotas.
-- **Credit Union Act 5.8:** co-op utilities access reference-rate-anchored loans and micro-loans (community solar); embedded CLS officers.
-- **FCL Act 3.4:** utility co-ops structured as FCLs; CCIF (voluntary) funds expansion.
-- **Sovereign Functions Act:** the NEB is an independent board; Special Auditors (§3) enforce the anti-rot guarantees.
+- **Infrastructure Act 3.0:** the asset/operator separation model is directly replicated; transmission access fees follow the freeway-toll logic (155% recovery over asset life); the Dark Corridor and Active Lighting System (DCALS) applies to utility infrastructure near elevated freeways.
+- **Monetary Act 9.9.1:** transmission access fees paid in BWC, flow (in part) to the SWF; co-op utilities pay the 5% co-op profit tax on generation profits; no binding quotas.
+- **Credit Union Act 6.0:** co-op utilities access reference-rate-anchored loans and micro-loans (community solar); embedded Crossroads Loan Service (CLS) officers.
+- **FCL Act 3.4:** utility co-ops structured as Federated Cooperative Limiteds (FCLs); Co-op Capital Investment Fund (CCIF, voluntary) funds expansion.
+- **Sovereign Functions Act:** the National Energy Board (NEB) is an independent board; Special Auditors (§3) enforce the anti-rot guarantees.
 - **Chamber Act:** Regional Boards (§3) handle retail oversight; the NEB is chartered under the independent board registry (§7).
 
 ---
@@ -105,7 +105,7 @@ Utilities pay the NEB for access to state-owned transmission and distribution. F
 | Allocation | 2025 (\$B) | 2075 (\$B) | Notes |
 | :--- | :--- | :--- | :--- |
 | **Asset Renewal Fund** (ring-fenced: maintenance + reinvestment + R&D) | 7.5 | 24.5 | 50% of revenue — locked (§2.4) |
-| SWF (per Monetary Act 9.9) | 4.5 | 14.7 | 30% of revenue |
+| SWF (per Monetary Act 9.9.1) | 4.5 | 14.7 | 30% of revenue |
 | Residential electricity bill credit (direct to citizens) | 3.0 | 9.8 | 20% of revenue |
 | **Total** | **15.0** | **49.0** | |
 
@@ -247,7 +247,7 @@ All loans are bands around the reference rate (~3.5%, Monetary Act §1.5A) and r
 
 ### 6.3 Example: Rural Electric Co-op Startup
 
-A Tier 2 FCL in Region 5 (Heartland Plains) builds a 10 MW solar farm serving 2,000 residential customers: forms a utility co-op (~\$1,000 member shares); obtains a generation license (co-op priority, \$10,000/year) and retail license (\$5,000/year); builds the 10 MW farm (~\$10M via CCIF loan, 4%, 20 years, reference-rate-anchored); connects to state distribution lines (\$0 — state owns lines — paying the \$10/MWh transmission access fee); signs up customers via credit-union kiosks (cash accepted). The co-op pays 80% of the standard transmission fee, has priority during shortages, and qualifies for the lower service-sector rate on community-solar micro-loans.
+A Tier 2 FCL in Region 5 (Heartland Plains) builds a 10 MW solar farm serving 2,000 residential customers: forms a utility co-op (~\$1,000 member shares); obtains a generation license (co-op priority, \$10,000/year) and retail license (\$5,000/year); builds the 10 MW farm (~\$10M via credit-union loan, reference + 2% (~5.5%), 20 years, reference-rate-anchored); connects to state distribution lines (\$0 — state owns lines — paying the \$10/MWh transmission access fee); signs up customers via credit-union kiosks (cash accepted). The co-op pays 80% of the standard transmission fee, has priority during shortages, and qualifies for the lower service-sector rate on community-solar micro-loans.
 
 ---
 
@@ -257,7 +257,7 @@ A Tier 2 FCL in Region 5 (Heartland Plains) builds a 10 MW solar farm serving 2,
 
 | Asset | CME hardening | Recovery role |
 | :--- | :--- | :--- |
-| Buried transmission lines | Already buried (GIC-resistant) | NEB inspects (via concession) |
+| Buried transmission lines | Already buried (geomagnetically induced current (GIC)-resistant) | NEB inspects (via concession) |
 | Buried distribution lines | Already buried | NEB inspects (via concession) |
 | EMP-shielded substations | Faraday cages, GIC-blocking capacitors | Breakers reset |
 | Transformer reserve | Stored in EMP-shielded bunkers | Deployed within 48 hours |
@@ -296,7 +296,7 @@ Per the Chamber Act §3, 20 Regional Boards issue retail licenses (co-op prefere
 
 *(CLS officer counts demand-distributed per Credit Union Act §5.1. Loans reference-rate-anchored; no DAI floor.)*
 
-### 8.4 Asymmetric Scrutiny (per Monetary Act 9.9)
+### 8.4 Asymmetric Scrutiny (per Monetary Act 9.9.1)
 
 | Level | Transaction type | CED treatment (pseudonymized) | Reporting |
 | :--- | :--- | :--- | :--- |
@@ -368,7 +368,7 @@ Per the Chamber Act §3, 20 Regional Boards issue retail licenses (co-op prefere
 | Loan rates | **Bands around the reference rate (~3.5%)**: community solar +0.5% (~4%) · generation small +2% (~5.5%) · generation large +3% (~6.5%) · SMR +3.5% (~7%). **Monotonic with term and size** (§6.2) | same |
 | CCIF carry | Lends at reference +3% to +3.5% (~6.5–7%) against a 5–7% depositor obligation (FCL §3.8.4) — **positive** | same |
 | Grid capital | **General revenue** (~$200B, Sovereign Functions §7.3) — **not the SWF** (Monetary §2.1) | amortized |
-| NEB | Independent sector board — Territorial Chamber nominates, both Productive Chambers confirm (Chamber Act §7.1). **No sovereign role** | same |
+| NEB | Independent sector board — Territorial Chamber nominates, the Productive Chamber confirms (Chamber Act §7.1). **No sovereign role** | same |
 | Data architecture | PPK + CED (no CWD) | PPK + CED |
 
 ---
@@ -439,4 +439,4 @@ A nation that owns its grid, rents its upkeep to those who must keep it in good 
 
 ---
 
-**End of Draft 1.4**
+**End of Draft 1.5**
