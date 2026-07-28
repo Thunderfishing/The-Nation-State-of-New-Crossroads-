@@ -1,6 +1,6 @@
-# New Crossroads Energy Act of 2025: Draft 5.0
+# New Crossroads Energy Act of 2025: Draft 5.1
 
-**Draft:** 5.0 | **Date:** July 21, 2026
+**Draft:** 5.1 | **Date:** July 21, 2026
 **Author:** Thunderfish2
 
 ---
@@ -21,7 +21,7 @@ The system is built on the asset/operator separation model:
 
 The grid is hardened against CME over a **70-year phased program (2025–2095)**, built outward from the 21 antifragile hubs — the survivable core first, the last rural mile last. Generation reaches full capacity by 2075; grid hardening completes by 2095.
 
-Managed by the **National Energy Board (NEB)** under Sovereign Council oversight. No binding sector quotas apply. Co-op generation receives license priority and fee discounts.
+Managed by the **National Energy Board (NEB)**, an independent sector board (Chamber Act §7). The Sovereign Council holds no domestic regulatory role over energy (Sovereign Functions Act §8); its nuclear oversight applies only to weapons-grade material (Military Act §8). No binding sector quotas apply. Co-op generation receives license priority and fee discounts.
 
 ---
 
@@ -32,11 +32,11 @@ Managed by the **National Energy Board (NEB)** under Sovereign Council oversight
 | **Utilities Act 1.4** | Asset/operator separation; co-op maintenance concessions (ACI-tied, §1.4); Asset Renewal Fund (§2.4); transmission access fees (155% of annual maintenance); anti-rot guarantees |
 | **Industry Act** | 2,814 TWh grid powers 30,000 ha hemp, 45,000 ha greenhouses, transformer production, heavy equipment, steel, and foreign factories |
 | **Infrastructure Act 2.4** | Buried lines connect to 75,000 km rail (80% electrified, 20 GW), ports, barges, and 4,000 km CO₂ pipelines. Industrial Corridors (§3.7) radiate inland from riverside plants |
-| **Monetary Act 9.9** | Transmission access fees paid in BWC; 30% of access-fee revenue to SWF. Co-op generators pay 5% profit tax on profits over $100k. Loans reference-rate-anchored (§1.5A) |
-| **Credit Union Act 5.8** | Generation co-ops access reference-rate-anchored loans; CLS officers demand-distributed |
+| **Monetary Act 9.9.1** | Transmission access fees paid in BWC; 30% of access-fee revenue to SWF. Co-op generators pay 5% profit tax on profits over $100k. Loans reference-rate-anchored (§1.5A) |
+| **Credit Union Act 6.0** | Generation co-ops access reference-rate-anchored loans; CLS officers demand-distributed |
 | **FCL Act 3.4** | Generation utilities operate as Tier 2/3 FCLs. Heavy Industry Clause applies to nuclear SMRs and large geothermal (51% member ownership minimum) |
 | **Parks Act 3.5** | Wind-sited reservoir hydro (§4.3) — dams permitted only on tributaries whose evaporated moisture returns to the glacial catchment. Minimum environmental flow (§2.5) — no withdrawal may take the river below the protected minimum. The Corridon Basin Biosphere Reserve (§2.4) keeps industry off the floodplain |
-| **Education Act 2.5** | ~50,000–75,000 mandatory-service apprentices/year in energy-related trades (§3.5C), stipend-paid by general revenue. Structural labor-cost reduction for the buildout (§8.3) |
+| **Education Act 2.6** | ~50,000–75,000 mandatory-service apprentices/year in energy-related trades (§3.5C), stipend-paid by general revenue. Structural labor-cost reduction for the buildout (§8.3) |
 | **Sovereign Functions Act 2.2** | NEB is an independent board; Special Auditors (§3) enforce compliance |
 | **Chamber Act** | Regional Boards (§3) oversee regional energy; independent board registry (§7) |
 
@@ -110,7 +110,7 @@ The $/MWh rates below are illustrative at stated volumes. The NEB adjusts bienni
 | Allocation | 2025 ($B) | 2075 ($B) | Notes |
 |:---|:---|:---|:---|
 | Grid maintenance / Asset Renewal Fund (Utilities §2.4) | 7.5 | 24.5 | 50% of revenue (ring-fenced) |
-| SWF (per Monetary Act 9.9) | 4.5 | 14.7 | 30% of revenue |
+| SWF (per Monetary Act 9.9.1) | 4.5 | 14.7 | 30% of revenue |
 | Residential electricity bill credit | 3.0 | 9.8 | 20% of revenue |
 | **Total** | **15.0** | **49.0** | |
 
@@ -368,7 +368,7 @@ A consortium of **all Frostpeak uranium mining enterprises** — co-op and corpo
 | Repository (Frostpeak) | 1 | 2 GW | — | — | — |
 | **Total** | **21** | **58 GW** | **56M tons/yr** | **46,000 beds** | **1,000M gal/day** |
 
-Each hub co-locates an SMR, a cargo/passenger airport, a **mega hospital** (Healthcare Act 6.6), and a sewer/water treatment plant — the antifragile anchor from which regional services radiate. The repository hub is purpose-built for the fuel cycle, without airport/hospital co-location.
+Each hub co-locates an SMR, a cargo/passenger airport, a **mega hospital** (Healthcare Act 6.9), and a sewer/water treatment plant — the antifragile anchor from which regional services radiate. The repository hub is purpose-built for the fuel cycle, without airport/hospital co-location.
 
 ### 5.2 Hub Funding
 
@@ -416,7 +416,7 @@ All loans reference-rate-anchored (Monetary Act §1.5A).
 The NEB (11 members) is an **independent sector board** on the Chamber Act §7 registry. It **oversees and sets standards** — it does not perform hands-on maintenance, generation, or retail operations.
 
 - **Composition:** 6 representatives from 20 Regional Energy Districts, 4 experts (Chamber Act §8 regional advisory layer), 1 chairman
-- **Appointment:** Territorial Chamber nominates (11/20), both Productive Chambers confirm — the uniform rule for sector boards (Chamber Act §7.1)
+- **Appointment:** Territorial Chamber nominates (11/20), the Productive Chamber confirms — the uniform rule for sector boards (Chamber Act §7.1)
 - **Removal:** by the nominating and confirming bodies jointly, or on cause by a Special-Auditor investigation
 - **Voting:** 6/11 operational; 8/11 regulations; strategic shifts require Territorial Chamber ratification (11/20)
 
@@ -428,7 +428,7 @@ The NEB (11 members) is an **independent sector board** on the Chamber Act §7 r
 
 ~22,000 industry-focused CLS officers (demand-distributed per Credit Union Act §5.1) manage energy loans — solar/wind, geothermal, community solar micro-loans, and CME recovery loans. All reference-rate-anchored at the service-sector band.
 
-### 7.3 Asymmetric Scrutiny (per Monetary Act 9.9)
+### 7.3 Asymmetric Scrutiny (per Monetary Act 9.9.1)
 
 | Level | Transaction type | CED treatment | Reporting |
 |:---|:---|:---|:---|
@@ -594,4 +594,4 @@ That is the Energy Act.
 
 ---
 
-**End of Draft 5.0**
+**End of Draft 5.1**
