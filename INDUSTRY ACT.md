@@ -1,6 +1,6 @@
-# New Crossroads Industry Act of 2025: Draft 5.0
+# New Crossroads Industry Act of 2025: Draft 5.1
 
-**Draft:** 5.0 | **Date:** July 22, 2026
+**Draft:** 5.1 | **Date:** July 22, 2026
 **Author:** Thunderfish2
 
 ---
@@ -23,13 +23,13 @@ Standards set by the **National Industry Board (NIB)** — an independent sector
 
 | Act | Integration Point |
 | :--- | :--- |
-| **Monetary Act 9.9** | Reference-rate-anchored service-sector loans (Monetary §1.5A); Informal Economy Guarantee (cash industrial transactions protected); asymmetric scrutiny (private under $100k); SWF capped at 12% GDP; co-op profit tax 5% (no SWF recharge); no binding quotas |
-| **Credit Union Act 5.8** | Micro-loans for informal industrial workers ($500, 4% nominal, self-attested, 24hr); embedded CLS officers (demand-distributed) |
+| **Monetary Act 9.9.1** | Reference-rate-anchored service-sector loans (Monetary §1.5A); Informal Economy Guarantee (cash industrial transactions protected); asymmetric scrutiny (private under $100k); SWF capped at 12% GDP; co-op profit tax 5% (no SWF recharge); no binding quotas |
+| **Credit Union Act 6.0** | Micro-loans for informal industrial workers ($500, reference + 0.5% (~4%), self-attested, 24hr); embedded CLS officers (demand-distributed) |
 | **Sovereign Functions Act** | NIB is an independent board chartered under the independent board registry; Special Auditors (§3) enforce compliance |
 | **Chamber Act** | Regional Boards (§3) oversee regional industry matters; independent board registry (§7) |
 | **Energy Act 5.0** | ~2,814 TWh grid (413 GW, nuclear + geothermal backbone) provides the cheapest baseload power of any major nation (~21.6 MWh/capita); 21 antifragile hubs (including repository) ensure CME-proof operations; nuclear/coal/WTE feed the Industrial Corridors |
-| **Housing Act 2.5** | 500,000 Durahomes/year use CO₂-cured hempcrete, low-carbon concrete, hemp 2x4s, and hemp insulation — all supplied by this act's hemp and forestry sectors |
-| **Infrastructure Act 3.0** | Rail, freeways, ports, barges, and CO₂ pipelines distribute goods; the **Industrial Corridors (§3.7)** carry warm-water + CO₂ to greenhouses, hemp processing, and hempcrete plants; DCALS applies to industrial compounds |
+| **Housing Act 2.6** | 500,000 Durahomes/year use CO₂-cured hempcrete, low-carbon concrete, hemp 2x4s, and hemp insulation — all supplied by this act's hemp and forestry sectors |
+| **Infrastructure Act 3.1** | Rail, freeways, ports, barges, and CO₂ pipelines distribute goods; the **Industrial Corridors (§3.7)** carry warm-water + CO₂ to greenhouses, hemp processing, and hempcrete plants; DCALS applies to industrial compounds |
 | **Municipal & Regional Funding Act** | Corridor plants/greenhouses receive the DCALS-contingent land-tax holiday (construction-cost recovery); resources are regionally owned (royalties regional) |
 
 ---
@@ -59,9 +59,9 @@ All industrial loans are reference-rate-anchored (Monetary Act §1.5A). **Servic
 | Heavy equipment / mining machinery | Standard |
 | Steel / shipbuilding | Standard |
 
-### 1.3 Informal Sector Industrial Access (per Credit Union Act 5.8)
+### 1.3 Informal Sector Industrial Access (per Credit Union Act 6.0)
 
-Informal industrial workers (artisans, small farmers, local processors) access micro-loans ($500, 4% nominal, self-attested income, 24hr CLS approval). Credit unions may not require disclosure of cash transaction history for loans under $500,000.
+Informal industrial workers (artisans, small farmers, local processors) access micro-loans ($500, reference + 0.5% (~4%), self-attested income, 24hr CLS approval). Credit unions may not require disclosure of cash transaction history for loans under $500,000.
 
 ### 1.4 Co-op Industrial Preference
 
@@ -74,7 +74,7 @@ Industrial licenses, land leases, and greenhouse allocations are issued preferen
 ### 2.1 Hemp Industry (Full-Spectrum)
 
 New Crossroads runs a **full-spectrum hemp industry** — one crop feeding construction, shipping, and textiles:
-- **Construction (→ Housing Act 2.5):** CO₂-cured **hempcrete**, **hemp 2x4s**, hemp **insulation**, and hemp fiberboard for Durahomes.
+- **Construction (→ Housing Act 2.6):** CO₂-cured **hempcrete**, **hemp 2x4s**, hemp **insulation**, and hemp fiberboard for Durahomes.
 - **Shipping (→ Shipbuilding §2.12):** hemp **cordage and rope** for the merchant marine.
 - **Textiles, paper, bioplastics, and seed/oil** for food and industry.
 
@@ -210,7 +210,7 @@ The cable upgrade is the **foreign tech company's entry cost**, not a state infr
 
 | Incentive | Detail |
 |:---|:---|
-| Tax holiday | **Zero tax of any kind** until the investing company has recovered its cable construction cost (same corridor land-tax holiday pattern as Infrastructure Act 3.0 §3.7) |
+| Tax holiday | **Zero tax of any kind** until the investing company has recovered its cable construction cost (same corridor land-tax holiday pattern as Infrastructure Act 3.1 §3.7) |
 | Electricity at cost | Landing stations, repeater infrastructure, and the co-located data center receive **electricity at generation cost** (not the access-fee rate) up to a capped draw per route. On a nuclear grid: cents per kWh — the lowest cable-operations cost on Earth |
 | Co-op partnership | Domestic maintenance and operations workforce under the 20%→40% co-op integration ramp (§2.5) |
 | Capacity rights | The investing company retains commercial capacity rights on the fiber it funded; the state retains a **20% sovereign-capacity reservation** for government, military, and emergency use at no charge |
@@ -293,7 +293,7 @@ Resources generate ~**$306.4B**/year (2025), scaling to ~**$570B** by 2075. **Re
 >
 > The 2075 figure carries the act's own growth ratio (1.86×) forward from the corrected base.
 >
-> **This moves money in two other acts.** The national resource cut rises from ~$18B to **~$22.7B** (40% of 12% of $306.4B, plus ~$8B of resource-firm profit tax), taking federal revenue to ~$385.7B against ~$380B of spending — Monetary §4 and Sovereign Functions §7.1 carry the corrected line.
+> **This moves money in two other acts.** The national resource cut rises from ~$18B to **~$22.7B** (40% of 12% of $306.4B, plus ~$8B of resource-firm profit tax), taking federal revenue to **~$495B** against **~$424.5B** of spending (Monetary §4 and Sovereign Functions §7.1 carry the corrected line; the VAT increase to 6% absorbs the infrastructure revenue correction and the mandatory-service stipend line).
 
 ### 3.1 Minerals
 - **Scale:** ~$200B — the nation's largest resource sector, anchored by **massive mineral deposits and operations** (the reason the mining-machinery industry §2.3 is fostered).
@@ -335,7 +335,7 @@ Hubs drive ~$60–80B semiconductors (§2.15), ~$40B AI/data center/tech (§2.14
 ### 5.1 NIB Structure
 The **National Industry Board (NIB)** — 11 members — sets standards for all industrial sectors, district loans, and revenue. It is an **independent sector board** on the Chamber Act §7 registry and reports to no sovereign organ.
 - **Composition:** 6 representatives from 20 Regional Industry Districts, 4 experts (drawn from the regional advisory layer, Chamber Act §8), 1 chairman.
-- **Appointment:** **nominated by the Territorial Chamber (Regional Boards, 11/20), confirmed by both Productive Chambers jointly** — the uniform rule for the seven sector boards (Chamber Act §7.1).
+- **Appointment:** **nominated by the Territorial Chamber (Regional Boards, 11/20), confirmed by the Productive Chamber** — the uniform rule for the seven sector boards (Chamber Act §7.1).
 - **Removal:** by the nominating and confirming bodies jointly, or on cause established by a Special-Auditor investigation.
 - **Voting:** 6/11 operational, 8/11 regulations
 - **Scrutiny:** NIB operations fully transparent (institutional level, CED)
@@ -346,7 +346,7 @@ The **National Industry Board (NIB)** — 11 members — sets standards for all 
 ### 5.2 Regional Industry Districts
 20 Regional Industry Districts (e.g., Region 5: Heartland Plains) manage local industrial development, greenhouse buybacks, and corridor siting, reporting via Regional Boards (Chamber Act §3). District transactions below $10k are private; above $100k tracked via the pseudonymized CED.
 
-### 5.3 Dark Corridor Compliance for Industrial Compounds (per Infrastructure Act 3.0)
+### 5.3 Dark Corridor Compliance for Industrial Compounds (per Infrastructure Act 3.1)
 Industrial compounds within 500m of elevated freeway insect corridors must comply with DCALS: indirect red-spectrum motion lighting (scaled by floor area), retroreflective markers (no powered edge lighting), retroreflective paint as an alternative pathway, no horizon-visible emission. **DCLTI incentive:** certified compounds receive the property-tax reduction (0.75% → 0.70%, or 0.68% for full retroreflective). **Corridor land-tax holiday:** plants and greenhouses built on the Industrial Corridors pay no commercial land tax until construction (or lease-to-own purchase) cost is recovered, contingent on DCALS compliance (Infrastructure §3.7; Municipal & Regional Funding Act corridor carve-out).
 
 ---
@@ -395,7 +395,7 @@ The Crossroads Loan Service manages reference-rate-anchored industry loans (~$10
 | Auto tariff (finished vehicles) | **50%** | same (factory-forcing) |
 | Import-to-production ratio | 1:3 (years 1–10) → 1:5 (year 10+) | 1:5 (steady state) |
 | Loan rates | **reference + 2%** (~5.5%) standard; service-sector below it. Reference rate ~3.5% (Monetary §1.5A) | same |
-| NIB | Independent sector board — Territorial Chamber nominates, both Productive Chambers confirm (Chamber Act §7.1). **No sovereign role** | same |
+| NIB | Independent sector board — Territorial Chamber nominates, the Productive Chamber confirms (Chamber Act §7.1). **No sovereign role** | same |
 | Data architecture | PPK + CED (no CWD) | PPK + CED |
 
 ---
@@ -420,4 +420,4 @@ A nation that grows its houses, feeds its own soil, builds its own machines, and
 
 ---
 
-**End of Draft 5.0**
+**End of Draft 5.1**
