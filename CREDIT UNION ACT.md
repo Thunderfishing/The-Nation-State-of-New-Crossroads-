@@ -377,8 +377,8 @@ These are not binding targets; the system fosters a co-op-dominant productive ec
 
 - Below $500,000: streamlined approval, minimal documentation, 48-hour issuance.
 - $500,000–$1M: standard review.
-- $1M–$10M: standard review, CED logging.
-- Above $10M: full audit/review, CED logging, Regional Board notification, published in the annual transparency report.
+- $1M–$10M: Basic Audit, Credit Union Board Approval, CED logging.
+- Above $10M: full audit/review, Credit Union Board Approval, CED logging, Regional Board notification, published in the annual transparency report.
 
 **Micro-Loan Special Rules:**
 
