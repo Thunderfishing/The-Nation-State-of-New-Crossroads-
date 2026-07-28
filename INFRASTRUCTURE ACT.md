@@ -529,7 +529,7 @@ Dark Corridor Compliance: Elevated sections have no lighting. Enforcement by Reg
 
 > **v3.1 correction.** Prior drafts showed allocations of ~$74.6B / ~$111.8B, which were 50/30/10/10 splits of total operator commercial revenue plus state fees rather than of the state access-fee revenue alone. The SWF's 30% share is ~$5.1B (2025), consistent with the Fiscal Model v3.3.1 and Monetary Act §2.1. Operator commercial revenue is private revenue taxed through the standard profit tax — it does not flow through the access-fee allocation.
 
-> **The access-fee rails, combined, are a significant SWF contributor.** Infrastructure ~$5.1B + Energy ~$4.5B + Communications ~$0.06B = ~$10B/year (Monetary §2.1). The corporate SWF contribution (~$60B) is larger. Total contributions: ~$143B/year. The fund caps in **~2029 (Year 4)**; the stabilisers redirect contributions to general revenue above the cap, and Sovereign §7.4 sends the surplus to the citizen dividend — **~$157B/year, ~$1,400/citizen** (post-cap, scaling with GDP).
+> **The access-fee rails, combined, are a significant SWF contributor.** Infrastructure ~$5.1B + Energy ~$4.5B + Communications ~$0.06B = ~$10B/year (Monetary §2.1). The corporate SWF contribution (~$60B) is larger. Total contributions: ~$143B/year. The fund caps in **~2029 (Year 4)** the stabilisers redirect contributions to general revenue above the cap, and Sovereign §7.4 sends the surplus to the citizen dividend — **~$157B/year, ~$1,400/citizen** (post-cap, scaling with GDP).
 
 The Dark Corridor Fund finances:
 
