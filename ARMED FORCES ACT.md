@@ -1,6 +1,6 @@
-# Crossroads Military Intelligence and Defense Act of 2025: Draft 2.1
+# Crossroads Military Intelligence and Defense Act of 2025: Draft 2.2
 
-**Draft:** 2.1 | **Date:** July 22, 2026
+**Draft:** 2.2 | **Date:** July 22, 2026
 **Author:** Thunderfish2
 
 ---
@@ -29,13 +29,14 @@
 | Active forces | 100,000 | All-male combat personnel |
 | **Air Cavalry** | 10,000 | Helicopter-borne assault — **80 organic assault/transport helicopters** (§2.3, not Air Force assets). Wave insertion: 80 helos × ~20 troops = ~1,600/wave, full division in ~6 waves. Vertical envelopment, rapid reaction, special operations |
 | **Airborne Division** | 10,000 | Parachute insertion via 106 Air Force transport aircraft. **2-wave drop:** 53 aircraft × ~95 paratroopers = ~5,000/wave, full division in 2 lifts. Seize airfields, hold ground, link up with follow-on |
-| Support / logistics | 20,000 | Engineering, medical, communications |
+| **Medical Battalion** | ~1,000 (within Support) | **12 medevac Black Hawks** (organic to Ground Forces, §2.3A) + field surgical teams, forward aid stations, casualty evacuation. Ensures golden-hour capability across the battlespace |
+| Support / logistics | 20,000 | Engineering, medical (including the Medical Battalion), communications |
 | **Total Army (active)** | **100,000** | *Navy, Air Force, CMIS, and Space Command personnel are additional — see §§3–6* |
 | **Reserves (3-tier, 1,000,000 total):** | | |
 | — Tier 1: Ready Reserve | 200,000 | Assigned to active Army units; 1 month/year training; deployable in **72 hours**. Recent veterans, first 5 years post-service. The first surge — doubles the professional force overnight |
 | — Tier 2: Standard Reserve | 500,000 | 20 **Regional Defense Battalions** (~25,000/region); 2 weeks/year training; deployable in **30 days**. Train in their own region, on their own terrain, integrated with regional infrastructure. The bulk homeland-defense force |
 | — Tier 3: Individual Ready Reserve | 300,000 | Specialists (engineers, medics, signals, logistics); 2 weeks/biennial; deployable in **90 days**. Skills-matched: a mining engineer is a combat engineer, a telecom technician is a signals specialist |
-| Militia (armed males) | 9,100,000 | Armed through mandatory service (Education Act 2.5 §4); answers to the **Territorial Chamber** (Regional Boards), not the Sovereign Council |
+| Militia (armed males) | 9,100,000 | Armed through mandatory service (Education Act 2.6 §4); answers to the **Territorial Chamber** (Regional Boards), not the Sovereign Council |
 
 ### 2.5 Militia Training Programme (Voluntary)
 
@@ -120,9 +121,17 @@
 
 | Aircraft | Count | Role |
 |---|---:|---|
-| Assault/transport helicopters | 80 | Troop insertion (wave doctrine — ~1,600/wave, ~6 waves), medevac, resupply, special operations |
+| Assault/transport helicopters | 80 | Troop insertion (wave doctrine — ~1,600/wave, ~6 waves), resupply, special operations. **Medevac is handled by the Medical Battalion's 12 dedicated Black Hawks (§2.3A)**, not the assault fleet |
 
 > **Army assets, not Air Force.** The Air Cavalry's 80 helicopters deploy with the Cavalry, are maintained by Cavalry ground crews, and answer to the Cavalry commander. The Air Force provides fixed-wing transports (Airborne) and SAR helicopters (Aid Operations). Three air-mobile forces, three aircraft pools.
+
+### 2.3A Medical Battalion — Organic Medevac Aviation
+
+| Aircraft | Count | Role |
+|---|---:|---|
+| Medevac Black Hawks | 12 | Dedicated casualty evacuation — litter-configured, medical crew, golden-hour response. Distributed across forward operating areas; 2 on standby at each of the 4 naval bases + 4 distributed with deployed ground formations |
+
+> **Army medical assets, same logic as Air Cavalry.** The 12 medevac Black Hawks belong to the Medical Battalion (§2.1), not the Air Force. They deploy forward with the ground force, are crewed by medical personnel, and answer to the Medical Battalion commander. The Air Force's 30 SAR helicopters (§4.1 / Aid Operations §7) handle peacetime search-and-rescue and humanitarian deployment; the medevac birds handle battlefield casualty evacuation — different mission, different chain, different aircraft pool. The Medical Battalion's ~1,000 personnel (carved from the 20,000 support allocation) include flight crews, paramedics, field surgical teams, and forward aid station staff.
 
 ### 2.3 Ground Forces Budget: **$8–10B/year**
 - Personnel: ~$3B
@@ -205,7 +214,7 @@
 | Training/logistics/command | — | ~1,500 |
 | **Total Air Force** | | **~15,500–16,500** |
 
-> **The 80 Air Cavalry helicopters are not listed here.** They are **organic aviation** belonging to the Air Cavalry (§2.1), not Air Force assets. The Air Cavalry's helicopters deploy with the Cavalry, are maintained by Cavalry ground crews, and answer to the Cavalry commander — the same model as US Army Aviation. The Air Force provides **fixed-wing transport** (tasked to the Airborne Division for parachute insertion) and **SAR helicopters** (tasked to Aid Operations for humanitarian deployment). Three air-mobile forces, three separate aircraft pools, no confusion about who owns what.
+> **The 80 Air Cavalry helicopters and 12 medevac Black Hawks are not listed here.** They are **organic aviation** belonging to the Ground Forces — the Air Cavalry's helicopters (§2.3) and the Medical Battalion's medevac birds (§2.3A). The Air Force provides **fixed-wing transport** (tasked to the Airborne Division for parachute insertion) and **SAR helicopters** (tasked to Aid Operations for humanitarian deployment). Four air-mobile forces, four separate aircraft pools, no confusion about who owns what.
 
 > **Why 300 combat aircraft, and why this mix.** New Crossroads is a large island — 2.7M km² with a maritime zone many times that. The threat model is **anti-access/area denial**, not expeditionary warfare: prevent hostile fleets from approaching, maintain air superiority over the island, and strike amphibious groups at range. **150 multi-role fighters** handle QRA (quick reaction alert), escort, and BVR (beyond visual range) dominance — the backbone, high commonality to reduce training and logistics costs. **70 anti-ship/maritime strike** aircraft carry stand-off missiles against enemy fleets — elevated priority for island survival, and the single largest specialised allocation. **50 ground attack/strike** aircraft handle SEAD (suppression of enemy air defences) and coastal defence, with significant multi-role overlap. **30 specialised** aircraft provide electronic warfare, jamming, reconnaissance pods, tanker support for range extension over ocean, and a small AWACS fleet for airborne early warning. Japan's JASDF, defending a similar island geography with ~300 combat aircraft, is the closest real-world analogue.
 
@@ -359,7 +368,7 @@ The **civilian** enrichment and fuel fabrication plants are co-op-operated, fund
 | Military Training Academy | ~$100M | Core military training, pilot, naval, and cyber recruitment |
 | Pilot training | ~$30M | ~1K pilots/year |
 | Naval training (Andrew Reed Westport Naval Academy) | ~$30M | ~2K crew/year |
-| Cyber warfare training | ~$30M | Integrated with tech curriculum (Education Act 2.5) |
+| Cyber warfare training | ~$30M | Integrated with tech curriculum (Education Act 2.6) |
 | Reserve refreshers | ~$3.5B | 3-month refreshers every 5 years, 70% uptake |
 
 ### 8.2 Procurement
@@ -376,7 +385,7 @@ The **civilian** enrichment and fuel fabrication plants are co-op-operated, fund
 
 ## Section 9: Funding — Reconciled Expanded Budget
 
-**The mature military annual budget: $65–75B/year (2075). At founding it is ~$52B.**
+**The mature military annual budget: $65–71B/year (2075). At founding it is ~$51B.**
 
 | Branch | Annual Budget (mature) | Personnel |
 |--------|---------------|-----------|
@@ -387,7 +396,7 @@ The **civilian** enrichment and fuel fabrication plants are co-op-operated, fund
 | **CSI (Space Command)** | $2.25B | 3K → 6K |
 | **Aid Operations** | $2B | 10K |
 | **Training + R&D** | $5–6B | — |
-| **Total** | **$65–75B** | **~178K active** (Army 100K + Navy ~18K + Air Force ~21K + CMIS 25K + Nuclear Directorate ~12.5K + Space 2K) |
+| **Total** | **$65–71B** | **~178K active** (Army 100K + Navy ~18K + Air Force ~21K + CMIS 25K + Nuclear Directorate ~12.5K + Space 2K) |
 
 
 ### 9.1 Funding Sources — Two Distinct Streams
@@ -397,16 +406,16 @@ The **civilian** enrichment and fuel fabrication plants are co-op-operated, fund
 - **This allocation does not decrease.** It remains constant as the baseline annual contribution.
 
 
-**Stream 2 — Defense Fund Endowment Supplement (~$4B founding → $15–25B mature):**
+**Stream 2 — Defense Fund Endowment Supplement (~$5B founding → ~$19–25B mature draw):**
 - The **Defense Fund** (citizen-bequest endowment, outside the SWF and outside the 12% cap) provides a **supplemental draw from its returns** to cover the expanded force's additional cost.
-- It compounds from **~$100B (2025) to ~$920B (2075)**. At ~4%, that is **~$4B at founding and ~$37B at maturity** — the latter fully covering the $15–25B supplemental draw with the endowment intact.
-- **The endowment supplements the sovereign allocation** — it does not replace it. Total: **~$52B (2025) → $65–75B (2075)**.
+- It compounds from **~$100B (2025) to ~$920B (2075)**. At ~5% blended return (Monetary Act §2.5), that is **~$5B at founding and ~$46B at maturity** — of which the military draws ~$19–25B and the remainder compounds — the latter fully covering the $15–25B supplemental draw with the endowment intact.
+- **The endowment supplements the sovereign allocation** — it does not replace it. Total: **~$51B (2025) → $65–71B (2075)**.
 
 
 ### 9.2 Defense Fund Mechanics
 - **Source:** Citizen estate bequests (not state revenue).
 - **Total:** ~$100B (2025) → ~$920B by 2075 (~$1T by 2100).
-- **Investment returns:** ~4%/year — ~$4B at founding, ~$37B at maturity.
+- **Investment returns:** ~5%/year blended — ~$5B at founding, ~$46B at maturity (of which the military draws ~$19–25B; the remainder compounds).
 - **The principal is locked; the returns are drawable.**
   - **Principal — locked until total war.** Release of capital requires the supermajority unlock vote (Chamber Act §10.5 middle bar). The corpus is not a budget line and may not be spent down to buy ships.
   - **Returns — drawable annually**, without a vote, up to the §9.1 supplement (~$4B founding, $15–25B mature). The draw may never exceed the year's returns: the endowment funds the expansion **out of its yield, in perpetuity**, and is never consumed by it.
@@ -476,7 +485,7 @@ Crossroads ranks alongside:
 | CMIS | 25K | 50K |
 | CSI | 3K | 6K |
 | Defense Fund | building | ~$920B |
-| Annual budget | **~$52B** ($46B sovereign revenue + ~$6B endowment returns) | **$65–75B** (declining sovereign share + growing endowment returns) |
+| Annual budget | **~$51B** ($46B sovereign + ~$5B endowment returns) | **$65–71B** (declining sovereign share + growing endowment returns) |
 
 ---
 
@@ -490,9 +499,9 @@ Crossroads ranks alongside:
 | CMIS personnel | 25K | 50K |
 | CSI personnel | 3K | 6K |
 | Ground Forces | 100K active, 1M reserves, 9.1M militia | same |
-| **Total annual budget** | **~$52B** ($46B sovereign + ~$6B Defense Fund returns) | **$65–75B** (Defense Fund returns eventually cover the full budget) |
+| **Total annual budget** | **~$51B** ($46B sovereign + ~$5B Defense Fund returns) | **$65–71B** (Defense Fund returns eventually cover the full budget) |
 | **Sovereign revenue allocation** (Sovereign Functions Act §7) | ~$46B | declining — as Defense Fund returns grow, the sovereign share shrinks |
-| Defense Fund supplement (**returns only; principal locked**) | ~$4B | $15–25B |
+| Defense Fund supplement (**returns only; principal locked**) | ~$5B (draw) | ~$19–25B (draw); returns ~$46B, remainder compounds |
 | Defense Fund endowment (outside the SWF and its 12% cap) | ~$100B | ~$920B |
 | One-time buildout | ~$77.56B | amortized |
 | Destroyers | 6 | 6 |
@@ -549,4 +558,4 @@ A lean military, funded by a stable allocation and a growing endowment, that def
 
 ---
 
-**End of Draft 2.0**
+**End of Draft 2.2**
