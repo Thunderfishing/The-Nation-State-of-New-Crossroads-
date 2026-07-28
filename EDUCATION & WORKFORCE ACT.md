@@ -1,8 +1,8 @@
-# Crossroads Education and Workforce Act of 2025: Draft 2.5
+# Crossroads Education and Workforce Act of 2025: Draft 2.6
 
 ---
 
-**Draft:** 2.5 | **Date:** July 21, 2026
+**Draft:** 2.6 | **Date:** July 21, 2026
 **Author:** Thunderfish2
 
 ---
@@ -13,7 +13,7 @@
 
 ## Overview
 
-This act establishes a **debt-free, front-loaded education and workforce system** for **18 million students (ages 5–20)** and ~13 million journeymen, within a co-op-dominant economy scaling toward ~$38.94T GDP by 2075. It fosters a co-op education sector through incentives while supporting Teacher Professional FCLs and protecting school choice.
+This act establishes a **debt-free, front-loaded education and workforce system** for **18 million students (ages 5–20)** and ~13 million journeymen, within a co-op-dominant economy scaling toward ~$19T GDP by 2075. It fosters a co-op education sector through incentives while supporting Teacher Professional FCLs and protecting school choice.
 
 **Governance innovation:** each public school is a hybrid FCL — **70% Local School Board** (parents, PTA, military liaison, sports representative) and **30% Teacher Professional FCL** (all licensed teachers at the school).
 
@@ -43,7 +43,7 @@ The act provides a **$10,000/year voucher** (following the student to any licens
 
   > **Not the SWF.** Prior drafts called this an *"Education SWF allocation."* It is the largest single line in the federal budget and it is a **one-way spend**: vouchers do not revolve and are never repaid. **Monetary §2.1:** *"the SWF is the state's revolving lender… it is not the state's capital budget."* Calling it an SWF allocation would have consumed three-quarters of the fund's corpus every year. It was general revenue that had been labelled wrong — the same error as the infrastructure buildout, the grid hardening, and the sustainability line.
 - **Stipends:** $15,000/year professional (service), $12,000/year vocational; paid monthly via credit-union checking.
-- **Revenue support:** the federal tax base (Monetary Act §4; Sovereign Functions Act §7.1 — VAT 5%, income above $100k, profit taxes, tariffs, resources, property, excise = ~$460B against ~$411B of spending); credit-union contribution; **no co-op SWF recharge** (eliminated — co-ops contribute to the commons via the FCL waterfall).
+- **Revenue support:** the federal tax base (Monetary Act §4; Sovereign Functions Act §7.1 — VAT 6%, income above $100k, profit taxes, tariffs, resources, property, excise, Parks Index = ~$495B against ~$424.5B of spending); credit-union contribution; **no co-op SWF recharge** (eliminated — co-ops contribute to the commons via the FCL waterfall).
 - **Audits:** system auditors + AI fraud detection, fraud cap, tracked via the **CED** (pseudonymized; no identity).
 - **Data:** PPK holds student identity, credentials, and records; the CED holds only pseudonymized economic flows (voucher value, stipend value). School performance data is published in aggregate.
 
@@ -192,7 +192,7 @@ Costs are met from the citizen's banked voucher first, and from general revenue 
 > - **It lends against future income.** Monetary §1.6A sizes all household credit by *reserve* (savings held), never by income or future cash flow — "credit is extended on savings, not on leverage." A bond against a future dividend stream is the leverage the architecture refuses.
 > - **It cannot run on the arrears flag.** The PPK arrears attribute is a binary qualified/not-qualified check that "records no amount, no counterparty, and no date" (Monetary §1.6A). A 10-year amortizing balance cannot ride a flag that holds no balance, and Monetary §1A.2 prohibits any body from maintaining a credit history that follows a citizen.
 > - **It collides with the retirement mechanism.** The dividend auto-routes to forced savings by default (Monetary §2.3), and the cash-first reduction rule protects that nest egg. A lien seizing 50% of the dividend either raids protected savings or cannot reach 50% of the total.
-> - **The arithmetic never closes.** $20,000 at 4% throws off $800/yr in interest against the ~$680/yr (50% of the $1,359 dividend) the lien would collect — principal never falls.
+> - **The arithmetic never closes.** $20,000 at 4% throws off $800/yr in interest against the ~$700/yr (50% of the ~$1,400 dividend) the lien would collect — principal never falls.
 >
 > The general-revenue framing above dissolves the problem the bond existed to solve. There is no gap left for a loan to fill.
 
@@ -261,7 +261,7 @@ Every dropout can re-enter. No one borrows to serve. The system pays for itself 
   - **Men:** 3-month combat boot camp (weapons, fitness, survival) + ~21 months vocational/professional apprenticeship; retain rifle and pistol.
   - **Women:** 24-month apprenticeship (e.g., healthcare, cybersecurity); optional 3-month boot camp (retain weapons if proficient).
   - **Financial literacy:** a master-delivered module teaching budgeting and investment (e.g., the Citizens' Metals ETF), tracked via the CED (pseudonymized). This module builds on the personal finance curriculum from §3.1.
-- **Healthcare assignment:** ~100,000/year assigned to the health systems — **~50,000 to clinics (healthcare proper)** and **~50,000 to CMHIN (mental health)** — feeding both systems equally (see §5.4 for the full pipeline).
+- **Healthcare assignment:** ~100,000/year assigned to the health systems — **~50,000 to clinics (healthcare proper)** and **~50,000 to the Community Mental Health Integration Network (CMHIN, mental health)** — feeding both systems equally (see §5.4 for the full pipeline).
 - **Stipends:** $15,000/year professional, $12,000/year vocational; paid monthly via credit-union checking; single-parent exemptions and supports apply.
 - **Hours:** workforce hours (host-site schedule), not school hours.
 - **Refreshers:** periodic combat refreshers for men (partial uptake), funded via checking.
@@ -348,7 +348,7 @@ Notes:
 | Students (ages 5–20) | 18M | scaled |
 | Voucher | $10,000/year | DLB-indexed (~$13,500+) |
 | Education funding (net of FCL contribution) | ~$170B — **general revenue** (Sovereign Functions Act §7.3), classified as a **transfer** (§7.2 — the family chooses the school) | scaled |
-| NLC (National Learning Council) | Independent sector board — Territorial Chamber nominates, both Productive Chambers confirm (Chamber Act §7.1). **No sovereign role** | same |
+| NLC (National Learning Council) | Independent sector board — Territorial Chamber nominates, the Productive Chamber confirms (Chamber Act §7.1). **No sovereign role** | same |
 | Funding source | **Not the SWF** — vouchers do not revolve and are never repaid (Monetary §2.1) | same |
 | Journeymen credentialed/year | ~1,000,000 | scaled |
 | Healthcare-proper graduates/year | ~90,000 | scaled |
@@ -393,4 +393,4 @@ The young are trusted with a choice, trained without debt, and welcomed back whe
 
 ---
 
-**End of Draft 2.5**
+**End of Draft 2.6**
