@@ -56,8 +56,6 @@ All loans for healthcare facilities (clinics, super hospitals, mega hospitals, C
 
 At a founding reference rate of ~3.5% (Monetary §1.5A), that is **~4–5% against a commercial band of ~5.5%** — a subsidy of ~1.5 points, stated rather than implied. **The subsidy still carries:** against savings at reference − 1% (~2.5%), a healthcare facility loan clears its funding cost by ~1.5–2.5 points. It is cheap money, not free money, and no member subsidizes it silently.
 
-> **This act was already doing it right, and needed only the number.** §1.2 has always said *"set below the reference rate"* rather than hardcoding a figure — which is more than the Credit Union Act §4.2, the FCL Act §3.6, or the Utilities Act §6.2 managed, all of which published fixed percentages beneath headers promising the rates were anchored. The only thing missing here was the reference rate's own value, which appeared nowhere in the corpus until this revision (Monetary §1.5A).
-
 **Corporate facilities are eligible for the same low service-sector rate** (Section 4). *Rationale: the state subsidizes health **capacity** regardless of who builds it — every facility adds beds and treats citizens. Corporate facilities repay the subsidy through full corporate taxation (heavier than co-ops), and refusing them cheap capital would only raise their prices and make them more exclusive, not less.*
 
 ### 1.3 Informal Sector Healthcare Access (per Credit Union Act §1.3)
@@ -249,8 +247,6 @@ Healthcare is funded by **mandatory universal premiums**, not state SWF operatin
 | Partner contributions | ~$1.21B/year | Donations, charitable grants (CMHIN) |
 | Facility profits | reinvested | Co-op clinic/hospital/CMHIN surpluses reinvested |
 
-**Removed:** the Healthcare SWF ($145B) and Mental Health SWF ($35B) operating lines — healthcare no longer draws SWF operating funding. The system is self-funding via premiums + FCL contribution, with the state's role reduced to the targeted bottom-tier subsidy.
-
 *Net state healthcare cost ≈ the ~$45B subsidy (vs. ~$180B of SWF operating funding under Draft 6.4) — a ~$135B reduction in state burden, shifted to a self-funding premium model with universal coverage.*
 
 ---
@@ -262,11 +258,9 @@ Healthcare is funded by **mandatory universal premiums**, not state SWF operatin
 - **Appointment: nominated by the Territorial Chamber (Regional Boards, 11/20), confirmed by the Productive Chamber** — the uniform rule for the seven sector boards (Chamber Act §7.1). **No sovereign role** (Sovereign Functions Act §8.5).
 - **Removal:** by the nominating and confirming bodies jointly, or on cause established by a Special-Auditor investigation.
 
-> **The seventh and last board on the registry, and the seventh to be found running on a rule the registry does not contain.** Prior drafts had the NHB *"appointed by the Sovereign Council (5/7)."* **Chamber Act §7** is explicit: *"The sovereign is barred from domestic regulation, so board appointment is a chamber function."* The Exchange's Co-op Capital Index, the NIB, the NEB, the NHA, the NCB, the NInfraB, and now the NHB — **seven acts, twelve instances, each written independently.** Every act described a board and reached for the nearest executive to appoint it, because that is what boards look like in every other country. **The Municipal & Regional Funding Act is the only one that checked** — and it is the act closest to the ground.
 >
-> The NHB is the sector board whose capture would matter most: it sits over an entrenched guarantee (Chamber Act §12.1) and a ~$451B system. It is the last one that should have been appointed by the executive.
 - Voting: 6/11 routine, 8/11 strategic, 5/11 emergency.
-- Operations: ~$100M/year (funded from premium administration, not SWF).
+- Operations: ~$100M/year (funded from premium administration).
 - Independence: paired with but subordinate to none; disputes resolved through ad-hoc arbitration (Chamber Act §6.6).
 
 ### 6.2 Regional Health Assemblies (RHAs)
