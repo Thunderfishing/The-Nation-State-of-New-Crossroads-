@@ -495,8 +495,6 @@ Not every defense function is suitable for a Heavy Industry FCL or a CCJV. Engin
 
 **The Complete Flow:**
 
-```
-
 Citizens bequeath → Defense Fund ($920B, 5% returns)
 ↓
 15% → Co-op Shares (Exchange Act §3.1)
@@ -523,8 +521,6 @@ Co-op profits → CCIF deposits ($991B by 2075)
 ↓
 CCIF → More defense modernization
 (CYCLE REPEATS)
-
-```
 
 ---
 
@@ -689,6 +685,3 @@ New Crossroads builds a military that is **lean by design and well-funded by two
 A lean military, funded by a stable allocation and a growing endowment, supplied by a worker-owned defense industrial base, that defends the homeland, helps in disaster, guards against proliferation, and never escapes civilian control.
 
 ---
-
-**End of Draft 2.4**
-```
