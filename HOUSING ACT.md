@@ -1,5 +1,3 @@
-# Crossroads Housing Act of 2025: Draft 2.7
-
 **Draft:** 2.7 | **Date:** July 22, 2026
 **Author:** Thunderfish2
 
@@ -254,16 +252,6 @@ Housing transactions follow the tiered privacy model in §1.1. Cash rent and mic
 | Residential land/home tax | **None, at any level** — federal, regional, or municipal (Chamber Act §11, Floor 2; Sovereign Functions Act §8.2) | None |
 | NHA | Independent sector board — Territorial Chamber nominates, the Productive Chamber confirms (Chamber Act §7.1). **No sovereign role** | same |
 | Data architecture | PPK + CED (no CWD) | PPK + CED |
-
-> **The Housing SWF, derived — and the three figures it replaces.** Prior drafts stated the allocation three ways: §3.2 said co-op housing funding was **~$50B/year**; §7.1 called it a **~$150B fund**; §8 called it a **~$150B/year allocation**. A fund and a flow are not the same object, and none of the three survived contact with what actually gets built.
->
-> **The derivation uses only figures this act already carried.** 50,000 Durahomes × $180,000 = **~$9B of total housing output** in 2025. The SWF funds only **co-op construction** — private mortgages come from credit unions (§3.4) — so its share is the co-op portion, **65%** under the §1.4 first right of refusal: **~$5.9B/year**. Construction capital revolves on an ~18-month build cycle, so the fund needs **~1.5× the annual flow: ~$9B**. At the 2075 build rate of 500,000 homes, the same arithmetic gives **~$58.5B/year of flow against an ~$88B fund**.
->
-> **The tell that this is right:** the fund lands at **~3.8% of the SWF in both columns** — $9B of $230B, $88B of $2.28T. A revolving construction fund should track the build rate, and the build rate tracks the economy. A figure that holds its share across fifty years without being made to is a figure that was derived rather than chosen.
->
-> **What the old numbers were.** Both were **mature-scale figures that had migrated into the founding column** — the same error that produced the fictional 2025 column across the corpus. §3.2's ~$50B/year is the 2075 co-op *flow* (~$58.5B) in a section with no year label. §7.1's ~$150B is a mature *fund* — at the 2075 flow it implies a 2.6-year build cycle, which is defensible for a full development cycle including land and permitting, but is not an 18-month build. Neither was ever a 2025 number. Read as one, **~$150B/year was 17× the nation's entire housing output and 65% of the whole SWF corpus every year** — a liquidation, not an allocation.
->
-> **What did not change:** 50,000 and 500,000 Durahomes, $180,000 per home, and the co-op preference. The physical figures were right the whole time. **They are what caught the financial one.**
 
 ---
 
