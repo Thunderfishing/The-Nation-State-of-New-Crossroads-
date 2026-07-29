@@ -51,10 +51,10 @@ This model prevents monopoly capture, centralizes CME hardening, generates stead
 
 | Asset | 2025 | 2075 | Owner | Maintainer |
 | :--- | :--- | :--- | :--- | :--- |
-| Buried fiber backbone (CME-hardened) | 50,000 km | 150,000 km | State (NCB + Regional Boards) | Co-op concession (NCB oversight) |
-| Broadcast towers (AM/FM/TV) | 5,000 | 5,000 | State (Regional Boards) | Co-op concession (Regional Board oversight) |
-| Mesh backbone nodes | 50,000 | 100,000 | State + Co-op (50/50) | Shared |
-| Emergency AM transmitters (EMP-hardened) | 2,000 | 2,000 | State (NCB) | Co-op concession (NCB oversight) |
+| Buried fiber backbone (CME-hardened) | ~5,000 km inherited (unhardened copper/fiber from the old regime; hardening and expansion begins Year 1) | 150,000 km | State (NCB + Regional Boards) | Co-op concession (NCB oversight) |
+| Broadcast towers (AM/FM/TV) | ~5,000 (inherited from the old regime) | 5,000 | State (Regional Boards) | Co-op concession (Regional Board oversight) |
+| Mesh backbone nodes | ~5,000 (initial urban deployment) | 100,000 | State + Co-op (50/50) | Shared |
+| Emergency AM transmitters (EMP-hardened) | 0 (build program begins Year 1) | 2,000 | State (NCB) | Co-op concession (NCB oversight) |
 | Satellite uplink facilities | 5 | 10 | State (NCB) | Co-op concession (NCB oversight) |
 | Submarine cables (inherited, pre-revolution) | 2–3 routes | Upgraded to high-capacity fiber | State (nationalized at founding) | Foreign tech company partnership (Industry Act §2.14) |
 
@@ -69,7 +69,7 @@ Funded by **general revenue (~$15B, one-time buildout)** and maintained by **co-
 | Local mesh node extensions | Co-op or Corporate | Yes | Must connect to state backbone |
 | Content (news, entertainment) | Co-op or Corporate | No (protected speech) | 33% local-content mandate |
 
-**Co-op Preference:** broadcast licenses are issued preferentially to co-ops (first right of refusal if requirements are met). Structural preference, not a quota; the 65% 2025 figure (3,250 of 5,000 radio, 1,300 of 2,000 TV) is a descriptive baseline.
+**Co-op Preference:** broadcast licenses are issued preferentially to co-ops (first right of refusal if requirements are met). Structural preference, not a quota. The old regime operated ~1,000 state-run broadcast stations (~700 radio, ~300 TV), which are converted to co-op or corporate licenses at founding. The targets — 5,000 radio and 2,000 TV stations — are built out over the 50-year plan as the economy grows and new entrants are licensed. The 65% co-op share is a descriptive target, not a binding quota.
 
 ---
 
@@ -81,13 +81,13 @@ Providers pay the NCB or Regional Boards for access to state infrastructure. Fee
 
 | Asset | Fee | Annual revenue (2025) | (2075) |
 | :--- | :--- | :--- | :--- |
-| Buried fiber backbone | $/Mbps | ~$150M | ~$450M |
-| Broadcast tower lease | $10,000/tower/year | ~$20M | ~$20M |
-| Mesh node access | per-node | ~$10M | ~$20M |
+| Buried fiber backbone | $/Mbps | ~$15M (on inherited unhardened network) | ~$450M |
+| Broadcast tower lease | $10,000/tower/year | ~$20M (on ~5,000 inherited towers) | ~$20M |
+| Mesh node access | per-node | ~$5M (~5,000 initial nodes) | ~$20M |
 | Satellite uplink | $1M/facility/year | ~$5M | ~$10M |
-| **Total** | | **~$185M/year** | **~$500M/year** |
+| **Total** | | **~$45M/year** | **~$500M/year** |
 
-*(Fees are small relative to energy transmission because communications infrastructure is less capital-intensive — the value is in content and service competition, not access fees.)*
+> **Founding-year revenue is low** because the hardened fiber backbone, mesh network, and AM transmitter network are build programs, not inherited assets. Revenue scales with buildout: ~$45M (Year 1) → ~$185M (Year 10, when hardened fiber reaches ~50,000 km and mesh reaches ~50,000 nodes) → ~$500M (2075).
 
 
 ### 2.2 Fee Adjustment
@@ -112,15 +112,15 @@ The rural fund ensures 95% rural reach (26.6M of 28M rural citizens) by 2075, fu
 
 ### 3.1 Mandate
 - AM radio required in all vehicles and devices by 2035; 95% rural reach by 2075.
-- EMP-hardened transmitters at 2,000 locations (100/region); backup power from antifragile SMR hubs (Energy Act).
+- EMP-hardened transmitters at **2,000 locations (100/region) — built over the first 10 years** (~200/year); backup power from antifragile SMR hubs (Energy Act). None exist at founding; the build program is a Year 1 priority funded from general revenue.
 
 ### 3.2 Infrastructure
 
 | Component | 2025 | 2075 | Cost | Funded by |
 | :--- | :--- | :--- | :--- | :--- |
-| EMP-hardened AM transmitters | 2,000 | 2,000 | ~$2B | General revenue |
+| EMP-hardened AM transmitters | 0 → 2,000 (built over Years 1–10, ~200/yr) | 2,000 | ~$2B | General revenue |
 | Vehicle integration mandate | 112M | 130M | ~$5B | Manufacturers (phased) |
-| Buried lines to transmitters | 50,000 km | 50,000 km | ~$5B | General revenue (shared with Energy Act grid hardening) |
+| Buried lines to transmitters | 0 → 50,000 km (built alongside transmitters, Years 1–10) | 50,000 km | ~$5B | General revenue (shared with Energy Act grid hardening) |
 | Backup SMR power (at hubs) | 18 GW | 58 GW | (in Energy Act 5.0) | General revenue (Energy Act) |
 
 ### 3.3 AM Radio Network — Licensed Out in Normal Times (New)
@@ -164,8 +164,8 @@ See Industry Act §2.14 for the full incentive structure (tax holiday, electrici
 
 | Medium | Total stations | Co-op share (2025 baseline) | Notes |
 | :--- | :--- | :--- | :--- |
-| Radio | 5,000 | ~3,250 (65%, descriptive) | Co-op preference |
-| TV | 2,000 | ~1,300 (65%, descriptive) | Co-op preference |
+| Radio | ~700 (inherited, converting) → 5,000 target | ~3,250 target (65%, descriptive) | Co-op preference |
+| TV | ~300 (inherited, converting) → 2,000 target | ~1,300 target (65%, descriptive) | Co-op preference |
 
 **Co-op Preference Rule:** co-op applicants receive priority if they meet all technical/content requirements; if no qualified co-op applies, a corporate applicant may be licensed. No binding quota.
 
@@ -199,7 +199,7 @@ All loans are reference-rate-anchored nominal rates per the Monetary Act (Moneta
 | Layer | Owner | Operator | Access |
 | :--- | :--- | :--- | :--- |
 | Backbone fiber (buried, CME-hardened) | State (100%) | NCB maintains | Any ISP pays access fee |
-| Mesh backbone nodes (50,000 → 100,000) | State + Co-op (50/50) | Shared maintenance | Any ISP pays per-node fee |
+| Mesh backbone nodes (~5,000 initial → 100,000) | State + Co-op (50/50) | Shared maintenance | Any ISP pays per-node fee |
 | Last-mile connections | ISP (co-op or corp) | ISP | Competitive market |
 | Customer equipment | ISP or citizen | ISP or citizen | Competitive market |
 
@@ -211,7 +211,7 @@ All loans are reference-rate-anchored nominal rates per the Monetary Act (Moneta
 
 | Year | Rural reach | Digital users | Mesh nodes |
 | :--- | :--- | :--- | :--- |
-| 2025 | 90% (25.2M) | 59% (66M) | 50,000 |
+| 2025 | 90% (25.2M) | 59% (66M) | ~5,000 (initial urban) |
 | 2035 | 95% (26.6M) | 80M (~70%) | 75,000 |
 | 2050 | 95% (27.5M) | 100M (~80%) | 90,000 |
 | 2075 | 95% (28M) | 117M (~90%) | 100,000 |
@@ -221,7 +221,7 @@ All loans are reference-rate-anchored nominal rates per the Monetary Act (Moneta
 | Component | Cost | Funded by |
 | :--- | :--- | :--- |
 | Backbone fiber (buried) | ~$5B | General revenue (shared with grid hardening) |
-| Mesh nodes (50,000 → 100,000) | ~$20,000/node | General revenue + CCIF |
+| Mesh nodes (~5,000 initial → 50,000 by Year 10 → 100,000) | ~$20,000/node | General revenue + CCIF |
 | Annual maintenance | ~$500M/year | Access fees (155% recovery) |
 | Rural last-mile subsidies | ~$500M/year | Rural fund (20% of access fees) |
 
@@ -253,7 +253,7 @@ All loans are reference-rate-anchored nominal rates (Monetary §1.5A). Community
 
 ### 6.3 Example: Rural Radio Co-op Startup
 
-A Tier 2 FCL in Region 3 (Frostpeak Mountains) starts a community radio station serving 50,000 rural citizens: forms a media co-op (member base shares); obtains a license with co-op priority (~$5,000/year); leases a state tower (~$10,000, at the 80% co-op rate); builds studio/transmitter (~$500,000 via 0% rural credit, 20 years); produces 33% local content (~$200,000/year via advertising + patronage); connects to the mesh backbone for simulcast. The co-op pays 20% less for tower and mesh access, qualifies for 0% rural credit, has license and emergency-broadcast priority.
+A Tier 2 FCL in Region 3 (Frostpeak Mountains) starts a community radio station serving 50,000 rural citizens: forms a media co-op (member base shares); obtains a license with co-op priority (~$5,000/year); leases a state tower (~$10,000, at the 80% co-op rate); builds studio/transmitter (~$500,000 via 0% rural credit, 20 years); produces 33% local content (~$200,000/year via advertising + listener donations); connects to the mesh backbone for simulcast. The co-op pays 20% less for tower and mesh access, qualifies for 0% rural credit, has license and emergency-broadcast priority.
 
 ---
 
@@ -326,7 +326,7 @@ Cash payments for media services (newspapers, radio subscriptions, mesh internet
 
 ## Section 9: Implementation Timeline (2025–2075)
 
-**Phase 1: Foundation (2025–2035)** — declare fiber backbone state-owned; harden 50,000 km buried fiber (~$5B shared); mandate AM radio in vehicles (~$5B); deploy 50,000 mesh nodes (~$1B); issue first broadcast licenses (co-op preference); license AM transmitters to talk-radio operators; achieve 90% rural reach. Revenue by 2035: ~$150M/year.
+**Phase 1: Foundation (2025–2035)** — declare inherited fiber/copper backbone state-owned; begin hardening and expansion program (inherited ~5,000 km → 50,000 km buried CME-hardened fiber, ~$5B shared with Energy Act); begin AM transmitter build (0 → ~2,000 over Years 1–10); mandate AM radio in vehicles (~$5B, phased to manufacturers); deploy mesh nodes (~5,000 initial urban → 50,000 by Year 10, ~$1B); convert ~1,000 inherited state broadcast stations to co-op/corporate licenses (co-op preference); license AM transmitters to talk-radio operators as they come online; achieve 90% rural reach. Revenue by 2035: ~$185M/year (as infrastructure completes).
 
 **Phase 2: Expansion (2035–2050)** — scale mesh to 75,000 nodes; 95% rural reach; AM radio in all vehicles.
 
@@ -343,14 +343,15 @@ Cash payments for media services (newspapers, radio subscriptions, mesh internet
 | Local content value | ~$19.25B | ~$50B |
 | Local content mandate | 33% | 33% |
 | Buildout (one-time, **general revenue** — not the SWF, §2.1) | ~$15B | amortized |
-| Buried fiber backbone | 50,000 km | 150,000 km |
-| Mesh network nodes | 50,000 | 100,000 |
-| AM emergency transmitters | 2,000 | 2,000 |
-| AM transmitter commercial leases | Licensed out (talk radio encouraged) | same |
-| Access fee revenue | ~**$185M/year** (155% of ~$119M annual maintenance) | ~**$500M/year** |
+| Buried fiber backbone | ~5,000 km inherited (unhardened; hardening/expansion begins Year 1) | 150,000 km |
+| Mesh network nodes | ~5,000 (initial urban deployment) | 100,000 |
+| AM emergency transmitters | 0 (build program begins Year 1; ~2,000 by Year 10) | 2,000 |
+| AM transmitter commercial leases | Licensed out as transmitters come online (talk radio encouraged) | same |
+| Broadcast stations | ~1,000 inherited (converting: ~700 radio, ~300 TV) → targets: 5,000 radio, 2,000 TV | 5,000 radio / 2,000 TV |
+| Access fee revenue | ~**$45M/year** (on inherited infrastructure; scales to ~$185M by Year 10 as buildout completes) | ~**$500M/year** |
 | Co-op broadcast preference | First right of refusal | First right of refusal |
 | Loan rates | **service-sector band: reference + 0.5% to + 1.5%** (~4–5%). Reference rate ~3.5% (Monetary §1.5A) | same |
-| Fee allocation | 50% maintenance · 30% SWF · 20% rural fund (§2.3) | same |
+| Fee allocation | 50% maintenance · 30% SWF · 20% rural fund (§2.3). SWF share: ~$14M at founding, scaling to ~$150M by 2075 | same |
 | NCB | Independent sector board — Territorial Chamber nominates, the Productive Chamber confirms (Chamber Act §7.1). **No sovereign role; not the NEB** | same |
 | Submarine cables | Inherited (pre-revolution), state-owned | Upgraded via foreign tech company partnership (Industry Act §2.14) |
 | Data architecture | PPK + CED (no CWD) | PPK + CED |
@@ -388,12 +389,14 @@ Cash payments for media services (newspapers, radio subscriptions, mesh internet
 
 | Revenue | Amount | | Expense | Amount |
 | :--- | :--- | :--- | :--- | :--- |
-| Advertising | ~$200,000 | | Tower lease (80% co-op rate) | ~$8,000 |
+| Advertising | ~$250,000 | | Tower lease (80% co-op rate) | ~$8,000 |
 | Listener donations (BWC) | ~$100,000 | | Studio/transmitter maintenance | ~$100,000 |
-| Patronage returns (FCL members) | ~$50,000 | | Staff (5 @ $40,000) | ~$200,000 |
+| Member dues / subscriptions | ~$20,000 | | Staff (5 @ $40,000) | ~$200,000 |
 | Rural communications fund subsidy | ~$50,000 | | Content production | ~$50,000 |
 | | | | CLS loan repayment (reference-rate-anchored) | ~$20,000 |
-| **Total revenue** | **~$400,000** | | **Total expenses** | **~$378,000** |
+| **Total revenue** | **~$420,000** | | **Total expenses** | **~$378,000** |
+
+> **The station runs at a small operating loss (~$8,000/year)**, which is realistic for a rural community station serving 50,000 citizens on subsidized 0% rural credit. The loss is absorbed by retained earnings or covered by adjusting the rural communications fund subsidy in lean years. **Patronage is a return of surplus to members, not revenue** — it is paid from profit after expenses. A station that needs patronage to cover operating costs is not generating a surplus to return. If the station grows its advertising base or adds subscribers, it moves into surplus and patronage begins. The 0% rural credit and co-op tower discount are what make the loss small enough to sustain.
 
 ---
 
