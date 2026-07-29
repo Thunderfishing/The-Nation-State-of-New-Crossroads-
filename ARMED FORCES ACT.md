@@ -493,37 +493,6 @@ Not every defense function is suitable for a Heavy Industry FCL or a CCJV. Engin
 
 ---
 
-**The Complete Flow:**
-
-Citizens bequeath → Defense Fund ($920B, 5% returns)
-↓
-15% → Co-op Shares (Exchange Act §3.1)
-↓
-Co-op Board → Non-voting investor shares
-↓
-Heavy Industry FCLs (51% worker-owned)
-• Shipyards • Aerospace • Missile plants • Arms
-↓
-CCJVs for capital-intensive projects
-• Corporate Led (30-49%) for R&D
-• Strategic (40% min) for nuclear
-↓
-Professional FCL Contractors (100% worker-owned)
-• Engineering • Legal • Medical
-↓
-MILITARY PROCUREMENT ($65-71B/year)
-↓
-Co-op profits → Patronage to workers
-↓
-Worker savings → Credit unions → More loans
-↓
-Co-op profits → CCIF deposits ($991B by 2075)
-↓
-CCIF → More defense modernization
-(CYCLE REPEATS)
-
----
-
 **What This Ecosystem Achieves:**
 
 | Principle | How It Works |
