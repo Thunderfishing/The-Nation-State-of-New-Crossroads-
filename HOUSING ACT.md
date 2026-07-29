@@ -1,3 +1,6 @@
+Crossroads Durahome Housing Act of 2025
+
+
 **Draft:** 2.7 | **Date:** July 22, 2026
 **Author:** Thunderfish2
 
@@ -71,7 +74,7 @@ Housing construction contracts, material-production licenses, and greenhouse lea
 
 Housing developments, geothermal compounds, and material-production facilities within 500m of Dark Corridor Elevated freeways, parkland, wildlife & insect corridors must comply with DCALS: indirect red-spectrum motion lighting only (scaled by square footage), retroreflective markers (no powered edge lighting), retroreflective building paint as an alternative pathway, and no horizon-visible emission.
 
-**DCLTI tax incentive (clarified).** The DCLTI property-tax reduction (0.75% → 0.70%, or 0.68% for full retroreflective compliance) applies to **commercial/industrial housing-related facilities** — hempcrete and concrete factories, heat-pump plants, geothermal drilling sites — which **are** subject to commercial property tax (Municipal & Regional Funding Act §2.1). It does **not** apply to owner-occupied homes, because **residential land and homes are never taxed at all** (Municipal & Regional Funding Act §1.2) — there is no residential property tax to reduce. The home is protected absolutely; the incentive operates only where a tax exists.
+**DCLTI tax incentive (clarified).** The DCLTI property-tax reduction (0.75% → 0.70%, or 0.68% for full retroreflective compliance) applies to **commercial/industrial housing-related facilities** — hempcrete and concrete factories, heat-pump plants, geothermal drilling sites — which **are** subject to commercial property tax (Municipal & Regional Funding Act §2.1). It does **not** apply to owner-occupied homes, because **residential land and homes are never taxed at all** (Municipal & Regional Funding Act §1.2) — there is no residential property tax to reduce, however home owners adopting voluntary compliance receive a 5% electricity rebate.
 
 ---
 
@@ -95,9 +98,6 @@ Durahomes are modular hempcrete/low-carbon-concrete homes with passive design an
 - **System:** ground-source heat pumps (3–5 kW, ~$10,000/home), 400–600% efficient.
 - **Savings:** ~$1,200/year standard; up to ~$3,000/year in geothermal regions (~$30,000/10 years).
 
-### 2.3 DCALS Compliance for Geothermal Compounds
-Geothermal drilling sites and heat-pump manufacturing facilities within 500m of elevated freeway, parkland wildlife & insect corridors must comply with DCALS (Infrastructure Act 3.1). As commercial/industrial facilities, these are eligible for the DCLTI property-tax reduction (per §1.5).
-
 ---
 
 ## Section 3: Financial Mechanisms
@@ -110,7 +110,7 @@ Geothermal drilling sites and heat-pump manufacturing facilities within 500m of 
 - **Formal workers:** ~$5,000/year, payroll-deducted.
 - **Informal workers:** ~$600/year auto-routed from the citizen dividend by default (Monetary Act §2.3 — opt-out, not opt-in). Plus the universal savings match: voluntary contributions matched $1-for-$1 up to $1,000/year from general revenue.
 - **Accumulates at the credit-union savings rate** (~2.5%, reference − 1%).
-- **Withdrawal: ~$25,000** for the Durahome down payment. One withdrawal, verified by the credit union against a purchase contract.
+- **Withdrawal: ~$25,000 - %75,000** for the Durahome down payment. One withdrawal, verified by the credit union against a purchase contract.
 - At $5,000/year for 5 years at 2.5%, a formal worker accumulates ~$26,300 — enough for the withdrawal. An informal worker on the dividend default alone accumulates ~$3,200; with the match and own contributions, ~$8,000–12,000. The co-op housing structure (§3.2, first right of refusal) bridges the gap through shared-equity arrangements.
 
 **Phase 2 — Retirement Accumulation (post-house purchase until age 65):**
@@ -121,8 +121,6 @@ Geothermal drilling sites and heat-pump manufacturing facilities within 500m of 
 
 **Retirement unlock at age 65:** the full balance is available for withdrawal — lump sum or scheduled drawdown, at the citizen's choice, through their credit union. No penalty, no conditions, no means test.
 
-> **Why two phases, and why the rate falls.** A young citizen needs capital *now* — for the down payment that makes them an owner. An older citizen needs capital *later* — for the retirement that the system provides through five other streams (Monetary Act Key Stats). Front-loading the savings rate before the house and lowering it after means the forced-savings mechanism serves both purposes from a single account, without requiring the citizen to make a choice or understand the design. The account does the right thing at the right time because the rate schedule does it for them.
-
 **Base amount (system-wide):** ~$94B/year (scales with population — ~$1,000/adult average across both phases, weighted toward the larger Phase 1 contributions of formal workers in the early years).
 
 **Mortgage payments:** reference-rate-anchored at the service-sector band (reference + 0.5% to + 1.5%, ~4–5% — Monetary §1.5A).
@@ -130,7 +128,7 @@ Geothermal drilling sites and heat-pump manufacturing facilities within 500m of 
 ### 3.2 Co-op Housing
 - **Funding (co-op construction flow):** ~**$5.9B/year (2025)**, rising to ~**$58.5B/year (2075)** — the co-op share (65%, per the §1.4 first right of refusal) of national housing output.
 - **Subsidies:** ~$7,000 per home.
-- **Withdrawals:** ~$75,000.
+- **Withdrawals:** ~$25,000 - $75,000
 - **Geothermal rebate:** ~$5,000.
 - **Co-op tax rate:** 5% profit tax over $100k (per Monetary 9.9.1). **SWF contribution: $0 (eliminated).**
 
