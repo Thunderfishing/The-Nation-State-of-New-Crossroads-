@@ -482,15 +482,29 @@ Crossroads ranks alongside:
 
 ### 11.2 2075 Force Projection
 
-| Branch | 2025 | 2075 |
+| Branch | 2025 (Inherited) | 2075 (Target) |
 |--------|------|------|
 | Active forces (all branches) | **~178K** | ~200K |
-| Navy vessels | **Inherited:** 4 destroyers, 8 frigates, 16 corvettes, 20 patrol boats, 10 minesweepers, 4 SSBNs (older SLBMs), 8 SSNs (torpedo-only) — ~70 vessels. **Target (2075):** 6 destroyers, 12 frigates, 24 corvettes, 30 patrol boats, 14 minesweepers, **8 SSBNs (hypersonic MIRV ICBMs), 16 SSNs (VLS hypersonic/10kt tactical)** — 110 vessels, **all submarines nuclear-powered** | 110 vessels (with upgrades) |
-| Air Force | **Inherited:** ~200 combat aircraft (older generation), ~60 transports, ~15 SAR helicopters, ~2,000 basic drones. **Target (2075):** 300 combat aircraft (150 multi-role, 70 anti-ship, 50 strike, 30 specialised), 106 transport, 30 SAR helicopters, **10K drones**, 10 drone carriers. **80 Air Cavalry helicopters + 12 medevac Black Hawks are organic to Ground Forces §2.3/§2.3A** | same (with upgrades) |
+| Destroyers | 4 | 6 |
+| Frigates | 8 | 12 |
+| Corvettes | 16 | 24 |
+| Patrol boats | 20 | 30 |
+| Minesweepers | 10 | 14 |
+| SSBNs (nuclear, ICBM) | 4 (older SLBMs) | 8 (hypersonic MIRVed ICBMs) |
+| SSNs (nuclear) | 8 (torpedo-only) | 16 (VLS hypersonic/10kt tactical) |
+| **Navy total** | **~70 vessels** | **110 vessels** |
+| Combat aircraft | ~200 (older generation) | 300 (150 multi-role, 70 anti-ship, 50 strike, 30 specialised) |
+| Transport aircraft | ~60 | 106 |
+| SAR helicopters | ~15 | 30 |
+| Combat drones (all branches) | ~2,000 (basic) | 10,000+ (advanced) |
+| Flying drone carriers | 0 | 10 |
+| Army helicopters (Air Cavalry) | ~40 | 80 |
+| Medevac Black Hawks | 0 | 12 |
 | CMIS | 25K | 50K |
 | CSI | 3K | 6K |
-| Defense Fund | building | ~$920B |
-| Annual budget | **~$51B** ($46B sovereign + ~$5B endowment returns) | **$65–71B** (declining sovereign share + growing endowment returns) |
+| Satellites | 10 | 75 |
+| Defense Fund | ~$100B (building) | ~$920B |
+| Annual budget | **~$51B** ($46B sovereign + ~$5B endowment draw) | **~$65–71B** ($46B sovereign + ~$19–25B endowment draw) |
 
 ---
 
