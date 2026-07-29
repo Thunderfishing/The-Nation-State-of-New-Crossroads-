@@ -90,20 +90,26 @@ Credit unions operate under the Credit Union Act 5.7, which establishes Regional
 - **The loan book and the leverage that builds it.** Credit-union capital supports roughly **10× its value in loans** (Credit Union Act §3.2). Applying that leverage to the special-share capital base gives a loan book of **~$1.86T (2025)**, growing to **~$5.89T (2075)** — **~31% of GDP in both columns**, held constant across the fifty-year plan by design.
 - **Loan loss reserve — the missing middle layer.** Every credit union holds a published minimum provision against expected losses, set by loan class and taken against earnings before patronage (Credit Union Act §4.3). It is distinct from both of its neighbours: the **10% liquidity reserve** is an *asset* held against deposits and funds nothing; **special-share capital** is the cushion for *unexpected* losses. Three layers, in order: the provision absorbs expected losses, capital absorbs unexpected ones, the DIP absorbs failure. Under-reserving is a violation prosecutable by the Special Auditors, not a matter of board judgment — on the same logic as deferred maintenance under the Utilities Act: the failure is invisible until it is a crisis, so the number is published, measured, and chargeable.
 - **Structure:** ~5,000 credit unions, chartered by population/deposits with field-of-membership coverage — catchments drawn so every residence falls within at least 3 credit unions' fields of membership; no fixed per-region count (Credit Union Act §1.5). ~5,000 is a derived illustrative headline.
-- **Loan Allocation:** by creditworthiness and productive use; reported by sector for monitoring; no binding quotas. The 2025 baseline (~65% co-op, 15% corporate, 20% informal) is descriptive, not prescriptive.
+- **Loan Allocation:** by ability to service, repayment history and productive use; reported by sector for monitoring. 
 - **Micro-loans:** $500–$5,000, 4% interest (reference + 0.5%), self-attested income, no verification — for **student ventures and small-business capital only**. Set below the standard lending rate by design. Everyday household credit is **not** a micro-loan and never was: it is the revolving line built into every wallet (§1.6A), which needs no application, no officer, and no file.
 - **Citizen revolving credit line:** built into every wallet at issue; sized by published formula off the citizen's reserve (§1.6A). It carries no officer, no processing time, and no discretion, and it is therefore outside the asymmetric-scrutiny ladder below, which governs *loans*.
 
-**Asymmetric Scrutiny:**
+**Asymmetric Scrutiny:** Loan issuance Thresholds:
 
 - Below $500,000: streamlined approval, minimal documentation, 48-hour issuance.
 - $500,000–$1M: standard review.
 - $1M–$10M: basic audit, Credit Union Board approval, CED logging.
 - Above $10M: full audit/review, Credit Union Board approval, CED logging, Regional Board notification, published in the annual transparency report.
 
-- **Banking Suite:** checking (fee product), savings (**reference − 1%**, ~2.5%), Guaranteed Investment Certificates (GICs), plus member-owned investment products (mutual funds, retirement, insurance (auto, tenant, life, private health), cryptocurrency (closed-loop — no external transfer to or from off-network wallets; CU board governs)) whose returns come from invested assets rather than the network's spread — all reachable through the wallet (Section 1.6). **Deposit and loan rates share one anchor but sit on opposite sides of it:** savings at reference − 1%, loans at reference + 2%, a ~3% net interest margin (Credit Union Act §4.1). The anchor is the centre; the bands are the spread.
+- **Banking Suite:** checking (fee product), savings (**reference − 1%**, ~2.5%), Guaranteed Investment Certificates (GICs), plus member-owned investment products (mutual funds, retirement, insurance (auto, tenant, life, private health), cryptocurrency (closed-loop — no external transfer to or from off-network wallets; CU board governs)) whose returns come from invested assets rather than the network's spread — all reachable through the wallet (Section 1.6).
+
+- **Deposit and loan rates share one anchor but sit on opposite sides of it:** savings at reference − 1%, loans at reference + 2%, a ~3% net interest margin (Credit Union Act §4.1). The anchor is the centre; the bands are the spread.
+
 - **Shares:** base shares (up to 1,000 per citizen, ~4–8% dividends, residency-locked, carry the vote); special shares (uninsured member and investor capital, non-voting, national secondary market — see Credit Union Act §3.2, §3.3).
-- **Crossroads Loan Service (CLS):** a licensed corps of loan officers that **scales with the loan book across the 50-year plan** — the founding corps is proportionately smaller than the mature one, and headcount tracks lending demand rather than a flat per-region quota or a fixed national figure (Credit Union Act §5.1). **~40,000 at founding, ~127,000 at maturity.** The corps sizes off loans per agent — a real commercial loan officer carries ~$20–50M — applied to the book. Against the ~$5.89T mature book, ~127,000 agents carry ~$46M each: the figure the sector acts already allocate between them (Energy 42,000; Housing 22,000; Industry 22,000; Communications 22,000; Infrastructure 19,000). Prior drafts published ~60,000, sized against a loan book ten times too small, which would leave each agent carrying ~$98M. **The corps was undersized, not oversubscribed** — the sector acts were closer to right than the act defining the corps. Agents administer loans, student ventures, bankruptcy recovery, and informal-sector engagement, with discretion tiered by loan size. They are **employed and salaried by the credit unions they serve** but **licensed and disciplined by the CLS Board** — an independent board (Chamber Act §7) governed by the corps itself and funded by agent dues, not by the credit unions. The credit union pays the wage; the corps holds the licence. Full detail in Credit Union Act §5.
+
+---
+
+- **Crossroads Loan Service (CLS):** a licensed corps of loan officers that **scales with the loan book across the 50-year plan** — the founding corps is proportionately smaller than the mature one, and headcount tracks lending demand rather than a flat per-region quota or a fixed national figure (Credit Union Act §5.1). **~40,000 at founding, ~127,000 at maturity.** The corps sizes off loans per agent — a real commercial loan officer carries ~$20–50M — applied to the book. Against the ~$5.89T mature book, ~127,000 agents carry ~$46M each: the figure the sector acts already allocate between them (Energy 42,000; Housing 22,000; Industry 22,000; Communications 22,000; Infrastructure 19,000). Agents administer loans, student ventures, bankruptcy recovery, and informal-sector engagement, with discretion tiered by loan size. They are **employed and salaried by the credit unions they serve** but **licensed and disciplined by the CLS Board** — an independent board (Chamber Act §7) governed by the corps itself and funded by agent dues, not by the credit unions. The credit union pays the wage; the corps holds the licence. Full detail in Credit Union Act §5.
 
 ---
 
@@ -123,11 +129,9 @@ Credit unions operate under the Credit Union Act 5.7, which establishes Regional
 | 500 – 10,000 BWC | 0.3% | Cost recovery |
 | Above 10,000 BWC | **$30 flat per transaction**, DLB-indexed | Cost recovery; no cascade; no cliff |
 
-> **Why $30, and why it is not a choice.** A 9,999 BWC transfer pays 0.3% — **exactly $30**. Any flat fee above $30 therefore means crossing 10,000 costs *more* than staying under it, and 10,000 is already the CED transparency threshold (§1.1). A fee cliff stacked on a privacy cliff, at the one number citizens already have reason to stay beneath, is an engine for splitting transactions — and splitting is precisely the transaction-count work this system exists not to generate. At $100 the jump is 3.3×; at $165 it is 5.5×. **At $30 there is no jump at all, and the schedule is continuous through the boundary.**
->
-> The figure is therefore derived from the band beneath it rather than from a revenue target — which is why it needed no transaction count. It also means network fee revenue lands nearer **0.1% of GDP than 0.15%**: the target moves to the fee, not the fee to the target. That is the correct direction. A fee set to hit a revenue number is a tax; a fee set to price a service is a fee.
 
-**Exemptions (fixed list).** Utilities, tax, rent, and loan repayment in BWC carry no transaction fee. The list is stated here and may be changed only through the ordinary lawmaking path (Chamber Act §6). Carve-out lists grow and acquire constituencies; this one is pinned in the act so that growing it is a public act rather than an administrative one.
+
+**Exemptions** Utilities, tax, rent, and loan repayment in BWC carry no transaction fee. The list is stated here and may be changed only through the ordinary lawmaking path (Chamber Act §6). Carve-out lists grow and acquire constituencies; this one is pinned in the act so that growing it is a public act rather than an administrative one.
 
 **Design target.** The schedule targets network fee revenue at roughly **0.1% of GDP** — the landing produced by the $30 flat fee derived from boundary continuity at 10,000 BWC (above), not from a revenue quota. The benchmark is deliberate: real-world card payments cost their economies ~0.65% of GDP, of which the largest share is issuer interchange funding rewards, plus network rent and acquirer markup — none of which exist here. Strip those and what remains is the cost of moving a number between two ledgers. Anything approaching the real-world figure would mean the system costs its citizens more than the arrangement it replaced, which is not a design, it is a failure.
 
@@ -666,7 +670,7 @@ Competition between regions on income tax and VAT is a feature of the design, no
 | Informal (DLB and below, cash) | Never recorded. Constitutionally protected (Chamber Act §11, Floor 1). Sampling only. |
 | Citizen (under $10k/year BWC) | Pseudonymized; no transaction-level detail. |
 | Middle ($10k–$100k/year) | Pseudonymized aggregates; annual summary. |
-| Elite (above $100k/year; above $1M assets) | Full pseudonymized detail; quarterly audits; holdings above $10M publicly disclosed. **This is the line the income tax starts at (§4).** |
+| Elite (above $100k/year; above $1M assets) | Full pseudonymized detail; holdings above $10M publicly disclosed. **This is the line the income tax starts at (§4).** |
 | Institutional (FCLs, corporations, credit unions >$10M revenue) | Full transparency; public annual reports. |
 
 ### 5.3 Bodies & Treasury
