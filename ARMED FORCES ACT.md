@@ -1,8 +1,6 @@
-The Nation-State of New Crossroads - Military Intelligence and Defense Forces
+# Crossroads Military Intelligence and Defense Act of 2025: Draft 2.4
 
-# Crossroads Military Intelligence and Defense Act of 2025: Draft 2.3
-
-**Draft:** 2.3 | **Date:** July 22, 2026
+**Draft:** 2.4 | **Date:** July 28, 2026
 **Author:** Thunderfish2
 
 ---
@@ -32,12 +30,13 @@ The Nation-State of New Crossroads - Military Intelligence and Defense Forces
 > **What the old regime had at founding (2025):** ~80,000 ground troops (reorganized to 100,000 with reserves restructured), ~200 older combat aircraft, ~60 transports, ~15 SAR helicopters, ~500–1,000 basic drones, 3 older destroyers, 6 frigates, 12 corvettes, 15 patrol boats, 8 minesweepers, 4 older SSBNs (with older SLBMs — credible deterrent from Day 1), 6 older SSNs (torpedo-only, no VLS), ~30 older helicopters, 4 naval bases, 3 airbases, ~10 satellites. No Air Cavalry (new formation), no medevac Black Hawks (new program), no drone carriers (new platform), no hypersonic missiles (new development program).
 
 ### 2.1 Structure
+
 | Component | Headcount | Notes |
 |-----------|-----------|-------|
 | Active forces | 100,000 | All-male combat personnel |
-| **Air Cavalry** | 10,000 | Helicopter-borne assault — **80 organic assault/transport helicopters** (§2.3, not Air Force assets). Wave insertion: 80 helos × ~20 troops = ~1,600/wave, full division in ~6 waves. Vertical envelopment, rapid reaction, special operations |
-| **Airborne Division** | 10,000 | Parachute insertion via 106 Air Force transport aircraft. **2-wave drop:** 53 aircraft × ~95 paratroopers = ~5,000/wave, full division in 2 lifts. Seize airfields, hold ground, link up with follow-on |
-| **Medical Battalion** | ~1,000 (within Support) | **12 medevac Black Hawks** (organic to Ground Forces, §2.3A) + field surgical teams, forward aid stations, casualty evacuation. Ensures golden-hour capability across the battlespace |
+| **Air Cavalry** | 10,000 | Helicopter-borne assault — 80 organic assault/transport helicopters (§2.3, not Air Force assets). Wave insertion: 80 helos × ~20 troops = ~1,600/wave, full division in ~6 waves. Vertical envelopment, rapid reaction, special operations |
+| **Airborne Division** | 10,000 | Parachute insertion via 106 Air Force transport aircraft. 2-wave drop: 53 aircraft × ~95 paratroopers = ~5,000/wave, full division in 2 lifts. Seize airfields, hold ground, link up with follow-on |
+| **Medical Battalion** | ~1,000 (within Support) | 12 medevac Black Hawks (organic to Ground Forces, §2.3A) + field surgical teams, forward aid stations, casualty evacuation. Ensures golden-hour capability across the battlespace |
 | Support / logistics | 20,000 | Engineering, medical (including the Medical Battalion), communications |
 | **Total Army (active)** | **100,000** | *Navy, Air Force, CMIS, and Space Command personnel are additional — see §§3–6* |
 | **Reserves (3-tier, 1,000,000 total):** | | |
@@ -61,6 +60,7 @@ The Nation-State of New Crossroads - Military Intelligence and Defense Forces
 | **Total war integration** | Under full mobilisation (Sovereign Functions Act §2.1), the Territorial Chamber may integrate militia units into the Army's command structure. In peacetime, militia answer to their Regional Board, not the Army |
 
 > **Why voluntary, and why the stipend is small.** Compulsory militia training would turn 9.1 million armed citizens into conscripts — the opposite of what the right to bear arms means. The training is an *offer*, not an order. And the $1,500 stipend is deliberately modest: it covers the 2 weeks without making it a job. The people who show up come because they want to be ready, not because they need the money. **That self-selection is the quality filter.** A volunteer militia member who trains annually alongside professional reservists is worth ten conscripts who resent being there.
+
 | **Total Ground Force** | **10.2M** | |
 
 **Surge capacity — two tables, two thresholds:**
@@ -176,12 +176,12 @@ The Nation-State of New Crossroads - Military Intelligence and Defense Forces
 > **All 24 submarines are nuclear-powered.** The SSBNs carry 14 ICBMs each (112 total) — the strategic deterrent. The SSNs carry **vertical launch systems (VLS) for hypersonic cruise missiles, including tactical 10-kiloton nuclear warheads** — the anti-access/area denial weapon. A single SSN can destroy a carrier battle group at 1,000+ km with nuclear-tipped hypersonics before the fleet knows it's under attack.
 >
 > **Two layers of nuclear deterrence:**
->
-> | Layer | Platform | Weapon | Purpose |
-> |---|---|---|---|
-> | **Strategic** | 8 SSBNs | ICBMs (112 total) | Assured second strike — MAD deterrent. The reason no rational actor invades |
-> | **Tactical** | 16 SSNs | Hypersonic cruise missiles (VLS), conventional and **10kt nuclear** | Anti-ship, fleet denial, area denial. The reason no fleet approaches |
->
+
+| Layer | Platform | Weapon | Purpose |
+|---|---|---|---|
+| **Strategic** | 8 SSBNs | ICBMs (112 total) | Assured second strike — MAD deterrent. The reason no rational actor invades |
+| **Tactical** | 16 SSNs | Hypersonic cruise missiles (VLS), conventional and **10kt nuclear** | Anti-ship, fleet denial, area denial. The reason no fleet approaches |
+
 > The tactical nuclear capability is the island's A2/AD answer. At Point Nemo, an invasion fleet must cross thousands of kilometres of open ocean. Sixteen nuclear-powered attack submarines, each carrying VLS hypersonic missiles with tactical nuclear warheads, make that crossing a suicide mission. **The submarines do not need to win a naval battle. They need to make the battle not worth starting.**
 >
 > **Blue/Gold crewing.** Every submarine maintains two full crews — one at sea, one ashore resting, training, and maintaining the boat. This allows continuous deployment without burning out the crews. The US Navy's Ohio-class SSBNs pioneered this model; New Crossroads applies it to the entire submarine fleet.
@@ -283,6 +283,9 @@ The Nation-State of New Crossroads - Military Intelligence and Defense Forces
 | **Total** | **~75** | | |
 
 > **Why sovereign GPS.** Relying on a foreign nation's GPS (US, Chinese, Russian, European) means that nation can deny positioning to New Crossroads at will — blinding the submarine fleet, the merchant marine, and precision agriculture simultaneously. A sovereign constellation of 24–30 satellites provides global coverage (the US GPS minimum) and eliminates a single-point strategic dependency. The civilian benefit (navigation for every ship, aircraft, farmer, and vehicle in the country) is a permanent peacetime return on a military investment.
+
+| Asset | Count | Notes |
+|---|---:|---|
 | Combat drones | 5,000 | Self-guiding and fiber-optic; multi-role — ISR, strike, EW relay |
 | Flying drone carriers | 10 | Airborne launch/recovery platforms extending drone range over ocean |
 | Anti-satellite missiles | 100 | Kinetic kill; ASAT capability is the space-layer deterrent |
@@ -380,9 +383,9 @@ The **civilian** enrichment and fuel fabrication plants are co-op-operated, fund
 
 ---
 
-## Section 9: Training, Procurement, and R&D
+## Section 9: Training, Procurement, R&D, and the Defense-Industrial Ecosystem
 
-### 8.1 Training
+### 9.1 Training
 | Program | Annual Cost | Notes |
 |----------|-------------|-------|
 | Military Training Academy | ~$100M | Core military training, pilot, naval, and cyber recruitment |
@@ -391,19 +394,159 @@ The **civilian** enrichment and fuel fabrication plants are co-op-operated, fund
 | Cyber warfare training | ~$30M | Integrated with tech curriculum (Education Act 2.6) |
 | Reserve refreshers | ~$3.5B | 3-month refreshers every 5 years, 70% uptake |
 
-### 8.2 Procurement
+### 9.2 Procurement
 - **Annual procurement:** ~$5B/year, contracting ~1K co-op FCLs for component production (with co-op preference, first right of refusal).
 - **One-time buildout (bases + initial equipment):** ~$77.56B (amortized over early years).
 
-### 8.3 R&D
+### 9.3 R&D
 - **Annual R&D:** ~$5B/year, focused on self-guiding/fiber-optic drones, EW systems, missile technology, and space launch.
 - **Drone doctrine:** Emphasizes swarms of inexpensive, in-house drones over large capital platforms.
 
-### 8.4 Training + R&D Total Budget: **$5–6B/year**
+### 9.4 The Defense-Industrial Ecosystem — How It All Connects
+
+*Rationale:* This section ties the Military Act's funding and procurement to the broader economic architecture — the FCL Act's cooperative ownership model, the Exchange Act's trading venues, and the CCJV framework for corporate partnerships. The defense industrial base is not state-owned; it is worker-owned, funded by a citizen endowment, and operates through the same cooperative structures as the rest of the economy.
 
 ---
 
-## Section 9: Funding — Reconciled Expanded Budget
+**The Defense Fund (§9.2 of this Act) provides the capital.**
+
+The Defense Fund is a citizen-bequest endowment — ~$100B at founding, growing to ~$920B by 2075. It returns ~5%/year (~$46B at maturity), of which the military draws $19–25B to supplement the sovereign allocation. The remaining returns compound, growing the fund while funding the military.
+
+The Fund invests **100% domestically** through five channels:
+
+| Channel | Allocation | Rationale |
+|---|---:|---|
+| Credit-union lending book | 40% | Safe, liquid, broadly diversified |
+| Citizens' Metals ETF | 20% | Hard asset — survives crises |
+| Co-op shares (via the Exchange) | 15% | Productive domestic equity |
+| MMF/RMF capital lending | 15% | Community infrastructure |
+| Housing construction pool | 10% | Durahomes for the population |
+
+**The 15% co-op share allocation is the defense-industry channel.** These returns flow to the **Co-op Board** of the Crossroads Exchange (Exchange Act §3.1), purchasing **non-voting FCL investor shares** in defense-industrial co-ops. The shares are held in the **Co-op Capital Index**, managed by the CCIF Alliance Network (FCL Act §3.8.7). The Defense Fund receives dividends and patronage returns on its holdings — which then compound back into the Fund. This is a self-reinforcing cycle.
+
+---
+
+**The Defense Industrial Base is structured as Heavy Industry FCLs.**
+
+The old regime's military-industrial complex — shipyards, aircraft factories, missile plants, arms manufacturers — was converted to **Federated Cooperatives Limited (FCLs)** under the FCL Act. Defense co-ops are **Heavy Industry FCLs** (FCL Act §2.4.3):
+
+| Provision | Requirement |
+|---|---|
+| Worker ownership | 51% minimum |
+| Investor ownership | 49% maximum |
+| Investor voting | 15% cap per investor |
+| Board size | 7–11 members (min 5 worker/customer seats) |
+| Community Benefit Agreement | Required |
+| Labor Peace Agreement | Required |
+| Sovereign Council role | Arms-proliferation veto only |
+
+These are the enterprises that build the target force:
+
+- **Shipyards** → submarine and surface-vessel co-ops. Build all 110 vessels, including 8 SSBNs and 16 SSNs with domestically developed nuclear propulsion.
+- **Aerospace** → aircraft and drone co-ops. Design the common airframe family, produce 300 combat aircraft, 106 transports, 10,000 drones, and 10 drone carriers.
+- **Missile plants** → hypersonic missile co-ops. Develop VLS hypersonic cruise missiles (conventional and 10kt tactical nuclear) and MIRVed ICBMs for the SSBNs.
+- **Arms manufacturers** → small arms, ammunition, vehicle, and electronics co-ops. Modernize ground-force equipment and produce the Air Cavalry's 80 helicopters and 12 medevac Black Hawks.
+
+**Workers own 51%** of these enterprises. They elect the majority of the board. They receive patronage returns on profits. They cannot be diluted below majority control by investor capital. The 49% investor ownership cap ensures the Defense Fund, credit unions, and other institutional investors can provide capital without capturing the enterprise.
+
+---
+
+**Corporate Capital Partners Enter Through CCJVs.**
+
+Some defense projects require deeper capital, specialized expertise, or technology partnerships that exceed what the 49% investor cap can accommodate. The **Co-op/Corporate Joint Venture (CCJV) framework** (FCL Act §3.7) provides the mechanism:
+
+| Tier | Co-op Ownership | Corporate Ownership | Term | Approval |
+|---|---|---|---|---|
+| **Co-op Led** | 51–99% | 1–49% | 20 years | Regional Board (6/11) |
+| **Corporate Led** | 30–49% | 51–70% | 15 years | Productive Chamber |
+| **Strategic Infrastructure** | 40% min | Up to 60% | 25 years | Sovereign Council (5/7) + Territorial Chamber (15/20) |
+
+**Key protections built into the CCJV framework:**
+- Corporate partners have **no vote** in the FCL's internal affairs outside the JV.
+- FCL members keep their base-share rights and patronage eligibility.
+- Board seats are proportional; the co-op holds at least one seat.
+- Disputes go to ad-hoc arbitration (Chamber Act §6.6), with procedural appeals to the Supreme Court.
+- On exit, the co-op has right of first refusal at appraised value.
+- No CCJV may exceed 25 years without Sovereign Council renewal.
+
+**Where CCJVs apply in defense:**
+- **Co-op Led (51%+):** Most production — shipbuilding, aircraft assembly, small arms manufacturing.
+- **Corporate Led (30–49%):** Hypersonic R&D, advanced materials, avionics — areas where corporate patent pools and specialized engineering are valuable.
+- **Strategic Infrastructure (40% min):** Nuclear reactor production, submarine propulsion systems — national-security sensitive, requiring sovereign oversight.
+
+The CCJV framework lets corporate capital participate without corporate control. The 51% co-op floor (or 40% for strategic) ensures workers retain the decisive voice.
+
+---
+
+**Professional FCLs Provide Specialized Expertise.**
+
+Not every defense function is suitable for a Heavy Industry FCL or a CCJV. Engineering design, legal services, medical research, and other professional functions require professional independence.
+
+**Professional FCLs** (FCL Act §2.3) are **100% worker-owned** by licensed professionals — doctors, lawyers, engineers, architects, and other regulated professions. They hold equal shares; voting control remains 100% with the worker-owners. They may issue retainer client shares (non-voting, 2–8% patronage, capped at 20% of firm equity), but governance never leaves the professionals.
+
+**Professional FCLs in defense:**
+- **Engineering firms** → design naval architecture, aerospace structures, missile guidance systems, and electronic warfare suites.
+- **Legal firms** → procurement contracts, export compliance, arms-control verification, and national-security law.
+- **Medical firms** → occupational health, trauma research, battlefield medicine, and psychological support for service members.
+
+**Professional FCLs are contractors, not JV partners.** They are hired by defense co-ops, CCJVs, and the military directly. They bring expertise; they do not bring equity. This preserves professional independence — a doctor's clinical judgment cannot be overruled by a corporate board, a lawyer's professional obligations cannot be compromised by a shareholder vote.
+
+---
+
+**The Complete Flow:**
+
+```
+
+Citizens bequeath → Defense Fund ($920B, 5% returns)
+↓
+15% → Co-op Shares (Exchange Act §3.1)
+↓
+Co-op Board → Non-voting investor shares
+↓
+Heavy Industry FCLs (51% worker-owned)
+• Shipyards • Aerospace • Missile plants • Arms
+↓
+CCJVs for capital-intensive projects
+• Corporate Led (30-49%) for R&D
+• Strategic (40% min) for nuclear
+↓
+Professional FCL Contractors (100% worker-owned)
+• Engineering • Legal • Medical
+↓
+MILITARY PROCUREMENT ($65-71B/year)
+↓
+Co-op profits → Patronage to workers
+↓
+Worker savings → Credit unions → More loans
+↓
+Co-op profits → CCIF deposits ($991B by 2075)
+↓
+CCIF → More defense modernization
+(CYCLE REPEATS)
+
+```
+
+---
+
+**What This Ecosystem Achieves:**
+
+| Principle | How It Works |
+|---|---|
+| **No sovereign ownership** | The state procures from co-ops; it does not own the means of production. |
+| **No hostile takeovers** | 51% worker ownership floor; 15% investor voting cap; non-voting investor shares. |
+| **Corporate capital without control** | CCJVs let corporations invest up to 49-60%; co-ops retain voting control. |
+| **Professional independence** | Engineering, legal, medical firms are 100% worker-owned; hired as contractors. |
+| **Self-reinforcing investment** | Fund returns → co-op modernization → better products → profits → more investment. |
+| **Workers have skin in the game** | Patronage returns, board representation, and 51% ownership floor. |
+| **Citizens own the capital** | The Defense Fund is citizen-bequests; the economy it defends is worker-owned. |
+
+---
+
+### 9.5 Training + R&D Total Budget: **$5–6B/year**
+
+---
+
+## Section 10: Funding — Reconciled Expanded Budget
 
 **The mature military annual budget: $65–71B/year (2075). At founding it is ~$51B.**
 
@@ -418,43 +561,27 @@ The **civilian** enrichment and fuel fabrication plants are co-op-operated, fund
 | **Training + R&D** | $5–6B | — |
 | **Total** | **$65–71B** | **~178K active** (Army 100K + Navy ~18K + Air Force ~21K + CMIS 25K + Nuclear Directorate ~12.5K + Space 2K) |
 
-
-### 9.1 Funding Sources — Two Distinct Streams
+### 10.1 Funding Sources — Two Distinct Streams
 
 **Stream 1 — Sovereign Revenue Allocation (~$46B/year at founding):**
 - The baseline is paid from **sovereign revenue** (Sovereign Functions Act §7; Monetary Act §4) — the federal tax base, alongside the judiciary, the auditors, and the four bureaus.
 - **This allocation does not decrease.** It remains constant as the baseline annual contribution.
 
-
 **Stream 2 — Defense Fund Endowment Supplement (~$5B founding → ~$19–25B mature draw):**
 - The **Defense Fund** (citizen-bequest endowment, outside the SWF and outside the 12% cap) provides a **supplemental draw from its returns** to cover the expanded force's additional cost.
-- It compounds from **~$100B (2025) to ~$920B (2075)**. At ~5% blended return (Monetary Act §2.5), that is **~$5B at founding and ~$46B at maturity** — of which the military draws ~$19–25B and the remainder compounds — the latter fully covering the $15–25B supplemental draw with the endowment intact.
+- It compounds from **~$100B (2025) to ~$920B (2075)**. At ~5% blended return (Monetary Act §2.5), that is **~$5B at founding and ~$46B at maturity** — of which the military draws ~$19–25B and the remainder compounds.
 - **The endowment supplements the sovereign allocation** — it does not replace it. Total: **~$51B (2025) → $65–71B (2075)**.
 
-
-### 9.2 Defense Fund Mechanics
+### 10.2 Defense Fund Mechanics
 - **Source:** Citizen estate bequests (not state revenue).
 - **Total:** ~$100B (2025) → ~$920B by 2075 (~$1T by 2100).
 - **Investment returns:** ~5%/year blended — ~$5B at founding, ~$46B at maturity (of which the military draws ~$19–25B; the remainder compounds).
 - **The principal is locked; the returns are drawable.**
   - **Principal — locked until total war.** Release of capital requires the supermajority unlock vote (Chamber Act §10.5 middle bar). The corpus is not a budget line and may not be spent down to buy ships.
-  - **Returns — drawable annually**, without a vote, up to the §9.1 supplement (~$4B founding, $15–25B mature). The draw may never exceed the year's returns: the endowment funds the expansion **out of its yield, in perpetuity**, and is never consumed by it.
-- **Use:** Supplements the sovereign-revenue allocation (§9.1). The sovereign baseline is ~$46B at founding; the endowment funds the growth. **As the fund matures, its returns absorb an ever-larger share of the total budget — eventually covering it entirely, freeing the sovereign's allocation for the citizen dividend.**
+  - **Returns — drawable annually**, without a vote, up to the §10.1 supplement (~$5B founding, $19–25B mature). The draw may never exceed the year's returns: the endowment funds the expansion **out of its yield, in perpetuity**, and is never consumed by it.
+- **Use:** Supplements the sovereign-revenue allocation (§10.1). The sovereign baseline is ~$46B at founding; the endowment funds the growth. **As the fund matures, its returns absorb an ever-larger share of the total budget — eventually covering it entirely, freeing the sovereign's allocation for the citizen dividend.**
 
-- **Investment mandate.** The Defense Fund invests exclusively in the domestic economy through five named channels, formula-allocated and weighted toward safety and liquidity:
-
-  | Channel | Allocation | Rationale |
-  |---|---:|---|
-  | Credit-union lending book | 40% | Safe, liquid, broadly diversified across 5,000 CUs |
-  | Citizens' Metals ETF | 20% | Hard asset — survives everything the fund exists to protect against |
-  | Co-op shares (via the Exchange) | 15% | Productive domestic equity |
-  | MMF/RMF capital lending | 15% | Community infrastructure — the schools, clinics, and bridges the fund's returns help build |
-  | Housing construction pool (SWF revolving) | 10% | Durahomes — the homes the population lives in |
-
-  **All domestic. No foreign exposure.** The fund's returns come from the economy it exists to defend. The allocation is published, reviewed annually by the Financial Services Committee (Chamber Act §6.7), and may not be altered by the Sovereign Council — the same anti-discretion rule as every other formula in the system. The channels are the same five as the Citizen Savings Pool (Credit Union Act §4.5), weighted differently: more lending book and metals (safety), less co-op equity and housing (the fund must be liquid enough to survive a mobilisation without fire-selling assets).
-
-
-### 9.3 One-Time Buildout & Military-Industrial Conversion
+### 10.3 One-Time Buildout & Military-Industrial Conversion
 - The **$77.56B** buildout is a **one-time capital expense** for bases (naval, air, regular forces, border forts) and initial procurement, amortized over the early years.
 
 **Military-industrial conversion (Post-Revolution Timeline §Year 0–5).** The old regime's military-industrial complex — shipyards, aircraft factories, engine plants, missile manufacturers, electronics shops, ammunition plants — is converted to **co-op/corporate joint ventures** under the same divestiture model as all other non-sovereign state assets. Workers become co-op members; engineering partnerships with domestic and (where necessary) foreign corporate partners bring modern design capability. The converted enterprises then build the entire target force domestically:
@@ -468,15 +595,15 @@ The **civilian** enrichment and fuel fabrication plants are co-op-operated, fund
 
 ---
 
-## Section 10: Arms & Aerospace Export — National-Security Veto
+## Section 11: Arms & Aerospace Export — National-Security Veto
 
-### 10.1 Veto Mechanism
+### 11.1 Veto Mechanism
 - **Trigger:** Military High Command + CMIS determine that a proposed sale or export of arms, weapons systems, military or dual-use aerospace technology, or sensitive defense components poses a national-security or proliferation risk.
 - **Effect:** High Command + CMIS may **compel the Sovereign Council to issue a veto** of the sale. The Sovereign Council must issue the veto — it cannot decline.
 - **Override (civilian supremacy):** The veto is **subject to override** by the standard supermajority (Chamber Act §10.5 — supermajority of relevant chambers + simple-majority universal referendum). The military can force the veto; the elected bodies retain the final word.
 - **Scope:** Applies to foreign sales/exports and sensitive transfers of arms and aerospace systems.
 
-### 10.2 Process
+### 11.2 Process
 1. High Command + CMIS file a classified national-security finding.
 2. Sovereign Council issues the veto within a defined window.
 3. The seller and relevant bodies are notified.
@@ -485,9 +612,9 @@ The **civilian** enrichment and fuel fabrication plants are co-op-operated, fund
 
 ---
 
-## Section 11: Global Power Rating & 2075 Outcomes
+## Section 12: Global Power Rating & 2075 Outcomes
 
-### 11.1 Global Power Rating: Tier‑2 Major Power (8.6/10)
+### 12.1 Global Power Rating: Tier‑2 Major Power (8.6/10)
 Crossroads ranks alongside:
 - France
 - United Kingdom
@@ -503,8 +630,9 @@ Crossroads ranks alongside:
 - $920B Defense Fund → long-term financial independence.
 - **~178K active military** (Army 100K + Navy ~18K + Air Force ~21K + CMIS 25K + Nuclear Directorate ~12.5K + Space 2K) — lean professional force backed by 1M tiered reserves and 9.1M militia.
 - CMIS (25K → 50K) → strong cyber, EW, satellite control.
+- **Worker-owned defense industrial base** → no sovereign liability, no privatization profiteering, self-reinforcing investment cycle.
 
-### 11.2 2075 Force Projection
+### 12.2 2075 Force Projection
 
 | Branch | 2025 (Inherited) | 2075 (All New-Build Target Force) |
 |--------|------|------|
@@ -524,14 +652,19 @@ Crossroads ranks alongside:
 
 | Term | Definition |
 |------|------------|
+| **CCIF** | Co-operative Capital Investment Fund (FCL Act §3.8) — voluntary liquidity pool for co-ops and corporations |
+| **CCJV** | Co-op/Corporate Joint Venture (FCL Act §3.7) — partnership structure allowing corporate capital without corporate control |
+| **CED** | Crossroads Economic Database — pseudonymized audit and statistics backbone |
 | **CMIS** | Crossroads Military Intelligence Service (25K→50K personnel) |
+| **Co-op Board** | Trading board on the Crossroads Exchange for non-voting FCL investor shares (Exchange Act §3.1) |
 | **CSI** | Crossroads Space Initiative (Space Command) |
-| **SWF** | Sovereign Wealth Fund (capped at 12% GDP, ~$720B → ~$2.28T). **Never funds the military** (Sovereign Functions Act §5.4 — absolute bar) |
-| **Defense Fund** | ~$920B citizen-bequest endowment, outside SWF cap; supplements the ~$46B **sovereign revenue** allocation (not the SWF) |
-| **BWC** | Bulwark Coin — the national fiat currency (not metal-backed) |
-| **Citizens' Metals ETF** | Citizen investment fund ($125–504B); backs its shareholders, not the currency |
+| **Defense Fund** | ~$920B citizen-bequest endowment, outside SWF cap; supplements the ~$46B sovereign revenue allocation |
+| **FCL** | Federated Cooperatives Limited — the cooperative enterprise structure defined in the FCL Act |
+| **Heavy Industry FCL** | FCL with 51% worker ownership, 49% investor cap, 15% investor voting cap (FCL Act §2.4.3) |
 | **High Command** | Military High Command — Chairman of the Joint Chiefs, service chiefs, CMIS chief |
+| **Professional FCL** | 100% worker-owned FCL for licensed professionals (doctors, lawyers, engineers) — FCL Act §2.3 |
 | **Sovereign Council** | 7-member executive (Sovereign Functions Act §6) — civilian control of military |
+| **SWF** | Sovereign Wealth Fund (capped at 12% GDP, ~$720B → ~$2.28T). **Never funds the military** (Sovereign Functions Act §5.4 — absolute bar) |
 | **Territorial Chamber** | 220 Regional Board members (Chamber Act §3) — militia command, war ratification |
 | **Chamber Act §10.5** | Amendment thresholds — supermajority + simple-majority universal referendum |
 
@@ -539,7 +672,7 @@ Crossroads ranks alongside:
 
 ## Design Philosophy (Informative)
 
-New Crossroads builds a military that is **lean by design and well-funded by two streams.**
+New Crossroads builds a military that is **lean by design and well-funded by two streams** — sovereign revenue and a citizen-endowed Defense Fund.
 
 - **Cheap to lose, expensive to face.** The doctrine avoids the giant capital platforms a drone can sink or down for pennies. Swarms of in-house drones, fiber-optic guidance, commercial components, and a vast trained militia make the nation costly to invade and cheap to defend.
 
@@ -547,12 +680,15 @@ New Crossroads builds a military that is **lean by design and well-funded by two
 
 - **A navy and air force built from scratch in 15 years.** The old regime's aging fleet provides the bridge; the converted military-industrial co-ops build the replacement. By 2040: 8 SSBNs with 112 ICBMs, 16 VLS-equipped SSNs, 6 destroyers, 12 frigates, 24 corvettes, 30 patrol boats, 14 minesweepers, 10,000 advanced drones, 300 modern combat aircraft, 106 transports, 80 Air Cavalry helicopters, and 12 medevac Black Hawks — all domestically designed, domestically built, and nothing inherited still in service. Pragmatic procurement, platform families, and co-op production lines keep the cost at $77.56B — less than two years of the mature military budget.
 
+- **The defense industrial base is worker-owned.** The old regime's Soviet-style military plants are converted to Heavy Industry FCLs (51% worker ownership) and CCJVs where corporate capital is needed. Professional FCLs (100% worker-owned) provide engineering, legal, and medical expertise as contractors. The Defense Fund's returns flow through the Co-op Board (Exchange Act §3.1) into co-op investor shares — a self-reinforcing cycle where the Fund's returns modernize the industries that supply the military, and those industries' profits flow back to the Fund.
+
 - **The military can stop a dangerous sale — but not the people's will.** High Command and intelligence can force a veto on any arms or aerospace export they judge a proliferation risk, keeping advanced weapons out of adversaries' hands. But that veto is overridable by the elected bodies exactly like any other. Expertise informs; democracy decides.
 
 - **Aid, not empire.** Force projects outward only to save lives — 72 hours in, 90 days out, no reconstruction, no extensions.
 
-A lean military, funded by a stable allocation and a growing endowment, that defends the homeland, helps in disaster, guards against proliferation, and never escapes civilian control.
+A lean military, funded by a stable allocation and a growing endowment, supplied by a worker-owned defense industrial base, that defends the homeland, helps in disaster, guards against proliferation, and never escapes civilian control.
 
 ---
 
-**End of Draft 2.3**
+**End of Draft 2.4**
+```
