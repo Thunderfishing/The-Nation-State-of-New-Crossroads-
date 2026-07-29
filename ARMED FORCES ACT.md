@@ -1,6 +1,6 @@
-# Crossroads Military Intelligence and Defense Act of 2025: Draft 2.4
+# Crossroads Military Intelligence and Defense Act of 2025: Draft 2.5
 
-**Draft:** 2.4 | **Date:** July 28, 2026
+**Draft:** 2.5 | **Date:** July 28, 2026
 **Author:** Thunderfish2
 
 ---
@@ -8,93 +8,79 @@
 ## Section 1: Unified Command & Governance
 
 ### 1.1 Military High Command
-- **Composition:** The Chairman of the Joint Chiefs (civilian-military hybrid), service chiefs for each branch (Navy, Air Force, Ground Forces, CMIS, CSI), and the Chief of the Crossroads Military Intelligence Service.
-- **Role:** Advises the Sovereign Council on defense matters; directs joint operations; oversees procurement, training, and readiness.
-- **Veto power (arms/aerospace exports):** High Command + CMIS may compel the Sovereign Council to issue a national-security veto on any arms or aerospace export deemed a proliferation risk. The Sovereign Council must issue the veto; it may be overridden by the standard supermajority (Chamber Act §10.5 — supermajority of relevant chambers + simple-majority universal referendum). *Expertise informs; democracy decides.*
+- **Composition:** Chairman of the Joint Chiefs (civilian-military hybrid), service chiefs (Navy, Air Force, Ground Forces, CMIS, CSI), Chief of CMIS.
+- **Role:** Advises Sovereign Council on defense; directs joint operations; oversees procurement, training, readiness.
+- **Veto power (arms/aerospace exports):** High Command + CMIS may compel Sovereign Council to issue national-security veto on any arms/aerospace export deemed a proliferation risk. Veto overridable by standard supermajority (Chamber Act §10.5). *Expertise informs; democracy decides.*
 
 ### 1.2 Sovereign Council — Defense Oversight
-- **Role:** Civilian control of the military; approves major deployments (offensive war requires Territorial Chamber 15/20), declares emergencies, and holds final authority over the armed forces.
-- **Veto override:** The Sovereign Council's veto may be overridden by the standard supermajority (Chamber Act §10.5), preserving civilian supremacy.
+- Civilian control of military; approves major deployments (offensive war requires Territorial Chamber 15/20); declares emergencies; final authority over armed forces.
 
 ### 1.3 Regional Boards — Militia Command
-- The 9.1M militia answers to the **Territorial Chamber** (Regional Boards), not the Sovereign Council (Chamber Act §3.3). The Sovereign Council commands only the standing professional force (~125K).
+- 9.1M militia answers to Territorial Chamber (Regional Boards), not Sovereign Council. Sovereign Council commands only standing professional force (~125K).
 
 ---
 
 ## Section 2: Ground Forces
 
-> **Founding context — inherited force and modernization.** New Crossroads inherits the old regime's Soviet-style military: a large conscript ground force with aging but serviceable equipment (tanks, APCs, artillery, air defence), a nuclear navy with older submarine and surface platforms, an air force of ~200 older-generation combat aircraft, and a small drone inventory. The military-industrial base — shipyards, aircraft factories, missile plants, arms manufacturers — is converted to co-op/corporate joint ventures under the same divestiture model as all other state assets (Post-Revolution Timeline §Year 0–5), retaining their workforce and institutional knowledge while gaining the co-op sector's capital access and the corporate sector's engineering partnerships.
->
-> **The $77.56B one-time buildout** (§9.3) funds a pragmatic 15-year modernization: retire aging Soviet platforms as domestically designed and built replacements come online. The philosophy is **off-the-shelf domestic procurement wherever possible, innovation where it matters** (hypersonic missiles, drone swarms, submarine quieting), and learning from others' mistakes (avoid the F-22 Raptor's cost spiral — a $66B program that produced 187 aircraft at $350M each when a modernized F-15 could have done 80% of the job at a quarter of the price). Every platform in the §3–§4 tables is the **target force (2075)** — the end product of the buildout, not the inherited fleet.
->
-> **What the old regime had at founding (2025):** ~80,000 ground troops (reorganized to 100,000 with reserves restructured), ~200 older combat aircraft, ~60 transports, ~15 SAR helicopters, ~500–1,000 basic drones, 3 older destroyers, 6 frigates, 12 corvettes, 15 patrol boats, 8 minesweepers, 4 older SSBNs (with older SLBMs — credible deterrent from Day 1), 6 older SSNs (torpedo-only, no VLS), ~30 older helicopters, 4 naval bases, 3 airbases, ~10 satellites. No Air Cavalry (new formation), no medevac Black Hawks (new program), no drone carriers (new platform), no hypersonic missiles (new development program).
+**Founding context (2025):** Inherits Soviet-style military: ~80,000 conscript ground troops, ~200 older combat aircraft, ~60 transports, ~15 SAR helicopters, ~500–1,000 basic drones, 3 older destroyers, 6 frigates, 12 corvettes, 15 patrol boats, 8 minesweepers, 4 older SSBNs (credible deterrent), 6 older SSNs (torpedo-only), ~30 helicopters, 4 naval bases, 3 airbases, ~10 satellites. No Air Cavalry, no medevac aviation, no drone carriers, no hypersonic missiles.
+
+**The $77.56B one-time buildout** (§9.3) funds modernization: retire aging Soviet platforms as domestically designed replacements come online. Philosophy: off-the-shelf domestic procurement where possible, innovation where it matters (hypersonics, drone swarms, submarine quieting). Target force is 2075—end product, not inherited fleet.
 
 ### 2.1 Structure
 
 | Component | Headcount | Notes |
-|-----------|-----------|-------|
+|---|---|---|
 | Active forces | 100,000 | All-male combat personnel |
-| **Air Cavalry** | 10,000 | Helicopter-borne assault — 80 organic assault/transport helicopters (§2.3, not Air Force assets). Wave insertion: 80 helos × ~20 troops = ~1,600/wave, full division in ~6 waves. Vertical envelopment, rapid reaction, special operations |
-| **Airborne Division** | 10,000 | Parachute insertion via 106 Air Force transport aircraft. 2-wave drop: 53 aircraft × ~95 paratroopers = ~5,000/wave, full division in 2 lifts. Seize airfields, hold ground, link up with follow-on |
-| **Medical Battalion** | ~1,000 (within Support) | 12 medevac Black Hawks (organic to Ground Forces, §2.3A) + field surgical teams, forward aid stations, casualty evacuation. Ensures golden-hour capability across the battlespace |
-| Support / logistics | 20,000 | Engineering, medical (including the Medical Battalion), communications |
-| **Total Army (active)** | **100,000** | *Navy, Air Force, CMIS, and Space Command personnel are additional — see §§3–6* |
-| **Reserves (3-tier, 1,000,000 total):** | | |
-| — Tier 1: Ready Reserve | 200,000 | Assigned to active Army units; 1 month/year training; deployable in **72 hours**. Recent veterans, first 5 years post-service. The first surge — doubles the professional force overnight |
-| — Tier 2: Standard Reserve | 500,000 | 20 **Regional Defense Battalions** (~25,000/region); 2 weeks/year training; deployable in **30 days**. Train in their own region, on their own terrain, integrated with regional infrastructure. The bulk homeland-defense force |
-| — Tier 3: Individual Ready Reserve | 300,000 | Specialists (engineers, medics, signals, logistics); 2 weeks/biennial; deployable in **90 days**. Skills-matched: a mining engineer is a combat engineer, a telecom technician is a signals specialist |
-| Militia (armed males) | 9,100,000 | Armed through mandatory service (Education Act 2.6 §4); answers to the **Territorial Chamber** (Regional Boards), not the Sovereign Council |
+| Air Cavalry | 10,000 | 80 assault/transport helicopters. Wave insertion: 80 helos × ~20 troops = ~1,600/wave, full division in ~6 waves |
+| Airborne Division | 10,000 | Parachute insertion via 106 Air Force transports. 2-wave drop: 53 aircraft × ~95 paratroopers = ~5,000/wave |
+| Medical Battalion | ~1,000 | 12 medevac helicopters + field surgical teams, forward aid stations |
+| Support/logistics | 20,000 | Engineering, medical, communications |
+| Total Army (active) | 100,000 | |
+| Reserves (1,000,000 total): | | |
+| — Tier 1: Ready Reserve | 200,000 | Deployable in 72 hours. Recent veterans, first 5 years post-service |
+| — Tier 2: Standard Reserve | 500,000 | 20 Regional Defense Battalions (~25,000/region). Deployable in 30 days |
+| — Tier 3: Individual Ready Reserve | 300,000 | Specialists (engineers, medics, signals, logistics). Deployable in 90 days |
+| Militia (armed males) | 9,100,000 | Armed through mandatory service; answers to Territorial Chamber |
 
-### 2.5 Militia Training Programme (Voluntary)
+### 2.2 Militia Training Programme (Voluntary)
 
-**Opt-in annual training** — 2 weeks, paid stipend (~$1,500), run alongside Tier 2 and Tier 3 reserve exercises in the Regional Defense Battalions. Estimated participation: **~910,000** (~10% of the militia), at a cost of **~$1.4B/year** from military operations.
+Opt-in annual training: 2 weeks, paid stipend (~$1,500), run alongside Tier 2/3 reserve exercises. Estimated participation: ~910,000 (~10% of militia), cost ~$1.4B/year.
 
 | Element | Detail |
 |---|---|
-| **Duration** | 2 weeks/year, voluntary opt-in |
-| **Where** | Regional Defense Battalion facilities — same ranges, same exercises, same instructors as Tier 2/3 reserves |
-| **Integration** | Militia trainees slot into reserve units as auxiliary personnel during exercises. They see formed-unit operations; the reserves get extra bodies for realistic training |
-| **Stipend** | ~$1,500 per participant, paid through their credit union |
-| **Employer protection** | No employer, co-op, or contractor may terminate, demote, reduce hours, or otherwise discriminate against a citizen for participating. The 2-week absence is treated as equivalent to annual leave. Violations investigated by Special Auditors |
-| **Homeland Defender status** | Formal designation after **3 consecutive annual trainings.** CED-recorded (visible, not sensitive). Carries one tangible benefit: **priority consideration for Tier 3 Individual Ready Reserve enlistment** — the pipeline from militia into the formal reserve structure |
-| **Total war integration** | Under full mobilisation (Sovereign Functions Act §2.1), the Territorial Chamber may integrate militia units into the Army's command structure. In peacetime, militia answer to their Regional Board, not the Army |
+| Duration | 2 weeks/year, voluntary opt-in |
+| Where | Regional Defense Battalion facilities |
+| Stipend | ~$1,500 per participant |
+| Employer protection | No termination, demotion, or discrimination for participating. 2-week absence treated as equivalent to annual leave |
+| Homeland Defender status | After 3 consecutive annual trainings. Priority consideration for Tier 3 enlistment |
+| Total war integration | Territorial Chamber may integrate militia into Army command structure under full mobilisation |
 
-> **Why voluntary, and why the stipend is small.** Compulsory militia training would turn 9.1 million armed citizens into conscripts — the opposite of what the right to bear arms means. The training is an *offer*, not an order. And the $1,500 stipend is deliberately modest: it covers the 2 weeks without making it a job. The people who show up come because they want to be ready, not because they need the money. **That self-selection is the quality filter.** A volunteer militia member who trains annually alongside professional reservists is worth ten conscripts who resent being there.
+> **Why voluntary:** Compulsory militia training would turn 9.1M armed citizens into conscripts. The $1,500 stipend is deliberately modest—covers 2 weeks without making it a job. Self-selection is the quality filter.
 
-| **Total Ground Force** | **10.2M** | |
-
-**Surge capacity — two tables, two thresholds:**
-
-**Table 1: Professional and trained surge (the force that fights)**
+**Surge capacity:**
 
 | Stage | Timeline | Cumulative strength |
 |---|---|---:|
-| Peacetime (active military, all branches) | standing | **~178,000** |
+| Peacetime (all branches) | standing | ~178,000 |
 | + Tier 1 Ready Reserve | 72 hours | ~378,000 |
-| + **Trained Militia (Homeland Defenders, ~900,000)** | **7–14 days** | **~1,278,000** |
+| + Trained Militia (~900,000 Homeland Defenders) | 7–14 days | ~1,278,000 |
 | + Tier 2 Standard Reserve | 30 days | ~1,778,000 |
 | + Tier 3 Individual Ready Reserve | 90 days | ~2,078,000 |
 
-> **Why the trained militia integrate before Tier 2.** The ~900,000 Homeland Defenders (§2.5 — militia members who have completed 3+ consecutive annual trainings alongside Tier 2/3 reserve units) know the procedures, have fired the weapons, and have trained in formed-unit exercises in their own region. They slot into the Regional Defense Battalions they already train with. A Homeland Defender who ran the range last month is ready faster than a Tier 2 reservist who last trained six months ago. They are not professional soldiers, but they are **trained, familiar, and regionally embedded** — the natural first surge after the Ready Reserve.
-
-**Table 2: Total-war mobilisation (the nation under arms)**
-
 | Stage | Timeline | Cumulative strength | Authority |
 |---|---|---:|---|
-| All of Table 1 | as above | ~2,078,000 | Standing military authority |
-| + **Remaining militia (~8.2M untrained)** | weeks to months | ~10,278,000 | **Territorial Chamber declaration (15/20)** — total war only |
+| All of above | as above | ~2,078,000 | Standing military authority |
+| + Remaining militia (~8.2M untrained) | weeks to months | ~10,278,000 | Territorial Chamber declaration (15/20) — total war only |
 
-> **The 8.2M untrained militia are armed citizens, not soldiers.** They own rifles and pistols from mandatory service (Education Act §4) and have completed the 3-month boot camp, but they have not trained since. In total war, the Territorial Chamber integrates them into the Army's command structure (§2.5); in any lesser crisis, they are a population that can be armed and dispersed but not a force that can be deployed. The two tables exist because these are two different things — a trained surge force and a national last resort — and presenting them as one number ("~10.2M") obscures the difference between 2 million people who can fight in a month and 8 million who cannot.
+### 2.3 Equipment (Ground Forces — Target Force)
 
-### 2.2 Equipment (Ground Forces — Target Force)
-
-> **Ground equipment is largely inherited at or near these levels.** Soviet-style states over-equipped their ground forces. The counts below are the target force — most items are inherited and serviceable at founding, with selective modernization (electronics, comms, fire-control) over the buildout period rather than wholesale replacement. The Air Cavalry's 80 helicopters and 12 medevac Black Hawks are entirely new-build — the Air Cavalry does not exist at founding and is stood up during Years 1–10 as the domestically produced helicopters come off the line.
+Ground equipment largely inherited at or near these levels. Counts below are target force—most items inherited and serviceable, with selective modernization. Air Cavalry's 80 helicopters and 12 medevac helicopters are new-build.
 
 **Armour & Vehicles:**
 
 | Equipment | Count | Notes |
 |---|---:|---|
-| Main battle tanks | 100 | Light/medium, terrain-adapted for island geography — jungle, mountain, coastal |
+| Main battle tanks | 100 | Light/medium, terrain-adapted |
 | APCs / IFVs | 2,000 | Armoured personnel carriers and infantry fighting vehicles |
 | MRAPs / utility vehicles | 1,500 | Mine-resistant patrol, logistics, command |
 
@@ -102,333 +88,252 @@
 
 | Equipment | Count | Notes |
 |---|---:|---|
-| Self-propelled howitzers (155mm) | 120 | Mobile fire support — the primary artillery arm. Self-propelled for rapid displacement |
-| Towed howitzers (105mm/155mm) | 80 | Regional Defense Battalion allocation — one battery per region for Tier 2 reserve training |
-| Multiple-launch rocket systems (MLRS) | 40 | Area denial, coastal defense, counter-landing fire. Elevated priority for anti-invasion |
-| Heavy mortars (120mm) | 300 | Battalion-level organic fire support — every infantry battalion carries a mortar platoon |
-| Anti-tank guided missiles (ATGM) | 800 | Man-portable and vehicle-mounted. Distributed to forward units and Regional Defense Battalions |
+| Self-propelled howitzers (155mm) | 120 | Mobile fire support |
+| Towed howitzers (105mm/155mm) | 80 | Regional Defense Battalion allocation |
+| Multiple-launch rocket systems (MLRS) | 40 | Area denial, coastal defense |
+| Heavy mortars (120mm) | 300 | Battalion-level organic fire support |
+| Anti-tank guided missiles (ATGM) | 800 | Man-portable and vehicle-mounted |
 
 **Air Defence:**
 
 | Equipment | Count | Notes |
 |---|---:|---|
-| Medium-range SAM batteries (mobile) | 40 | Area air defence — protects SMR hubs, ports, airbases. Mobile for redeployment |
-| Short-range SAM / MANPADS | 400 | Point defence — every battalion has organic SHORAD. Distributed to Regional Defense Battalions |
-| Counter-drone systems | 200 | Dedicated C-UAS — jamming, interception, directed energy. Co-developed with CMIS |
-| Radar / early-warning arrays | 20 | One per region — feeds into the national air picture (Air Force §4 / CMIS §5) |
+| Medium-range SAM batteries (mobile) | 40 | Area air defence |
+| Short-range SAM / MANPADS | 400 | Point defence—every battalion has organic SHORAD |
+| Counter-drone systems | 200 | Dedicated C-UAS—jamming, interception, directed energy |
+| Radar / early-warning arrays | 20 | One per region—feeds national air picture |
 
-**Electronic Warfare (Tactical / Battlefield):**
+**Electronic Warfare (Tactical):**
 
 | Equipment | Count | Notes |
 |---|---:|---|
-| EW vehicles (jamming / SIGINT) | 150 | Brigade-level EW platoons — spectrum dominance, comms jamming, signals intercept |
-| Counter-battery radar | 40 | Locates enemy artillery by tracking incoming fire. Paired with MLRS for counter-fire |
-| Tactical comms suites (CME-hardened) | 500 | Encrypted, mesh-networked. Every company has one; every Regional Defense Battalion has a reserve set |
+| EW vehicles (jamming / SIGINT) | 150 | Brigade-level EW platoons |
+| Counter-battery radar | 40 | Locates enemy artillery by tracking incoming fire |
+| Tactical comms suites | 500 | Encrypted, mesh-networked. Every company has one |
 
-> **Why the equipment scales beyond peacetime.** 200 howitzers and 40 MLRS serve the 856,000-strong 30-day surge force, not the 100,000-strong peacetime army. The 80 towed howitzers are allocated to the 20 Regional Defense Battalions — reservists train on them during annual exercises. A reserve artilleryman who fires his region's guns once a year is functional on day 31; one who hasn't touched a gun in five years is a liability. **The equipment is the integration mechanism.**
-
-### 2.3 Air Cavalry — Organic Aviation
-
-| Aircraft | Count | Role |
-|---|---:|---|
-| Assault/transport helicopters | 80 | Troop insertion (wave doctrine — ~1,600/wave, ~6 waves), resupply, special operations. **Medevac is handled by the Medical Battalion's 12 dedicated Black Hawks (§2.3A)**, not the assault fleet |
-
-> **Army assets, not Air Force.** The Air Cavalry's 80 helicopters deploy with the Cavalry, are maintained by Cavalry ground crews, and answer to the Cavalry commander. The Air Force provides fixed-wing transports (Airborne) and SAR helicopters (Aid Operations). Three air-mobile forces, three aircraft pools.
-
-### 2.3A Medical Battalion — Organic Medevac Aviation
-
-| Aircraft | Count | Role |
-|---|---:|---|
-| Medevac Black Hawks | 12 | Dedicated casualty evacuation — litter-configured, medical crew, golden-hour response. Distributed across forward operating areas; 2 on standby at each of the 4 naval bases + 4 distributed with deployed ground formations |
-
-> **Army medical assets, same logic as Air Cavalry.** The 12 medevac Black Hawks belong to the Medical Battalion (§2.1), not the Air Force. They deploy forward with the ground force, are crewed by medical personnel, and answer to the Medical Battalion commander. The Air Force's 30 SAR helicopters (§4.1 / Aid Operations §7) handle peacetime search-and-rescue and humanitarian deployment; the medevac birds handle battlefield casualty evacuation — different mission, different chain, different aircraft pool. The Medical Battalion's ~1,000 personnel (carved from the 20,000 support allocation) include flight crews, paramedics, field surgical teams, and forward aid station staff.
-
-### 2.3 Ground Forces Budget: **$8–10B/year**
-- Personnel: ~$3B
-- Procurement/maintenance: ~$2B
-- Training: ~$1.5B
-- Reserves/militia readiness: ~$1.5B
-- Logistics/support: ~$1B
+### 2.4 Ground Forces Budget: $8–10B/year
+- Personnel: ~$3B | Procurement/maintenance: ~$2B | Training: ~$1.5B | Reserves/militia readiness: ~$1.5B | Logistics/support: ~$1B
 
 ---
 
 ## Section 3: Navy
 
+**Legacy (2025):** 3 older destroyers, 6 frigates, 12 corvettes, 15 patrol boats, 8 minesweepers, 4 SSBNs (older SLBMs), 6 SSNs (torpedo-only)—~54 vessels. Aging but operational.
+
+**Transition:** Old fleet serves through buildout. Inherited destroyers decommissioned as 6 new-build replace (~Years 5–15). Frigates: 6 inherited → 12 new-build. Corvettes: 12 → 24. 4 inherited SSBNs upgraded (Years 1–5); 4 additional new-build SSBNs with hypersonic MIRVed ICBMs commission (~Years 8–15). 6 inherited SSNs → 16 new-build SSNs with VLS hypersonic capability. By ~Year 20, no inherited hull remains. Domestic shipyards (converted to co-op/corporate JVs) build every vessel.
+
 ### 3.1 Structure (Target Force — 2075)
 
-> **What the old regime's navy looked like (2025).** 3 older destroyers, 6 frigates, 12 corvettes, 15 patrol boats, 8 minesweepers, 4 SSBNs (older SLBMs — credible nuclear deterrent from Day 1), 6 SSNs (torpedo-only, no VLS capability) — ~54 vessels total, plus 4 inherited naval bases. Aging but operational. The inherited submarines provide the nuclear umbrella while the modernization builds the target fleet below.
->
-> **The transition.** The old fleet serves through the buildout. Inherited destroyers are decommissioned as the 6 new-build replacements commission (~Years 5–15). Frigates: 6 inherited serve while 12 new-build replace and expand. Corvettes: 12 inherited, 24 new-build. The 4 inherited SSBNs receive missile system upgrades (Years 1–5) while 4 additional new-build SSBNs with hypersonic MIRVed ICBMs commission (~Years 8–15). The 6 inherited SSNs serve as torpedo boats while 16 new-build SSNs with VLS hypersonic capability replace and expand the attack submarine fleet (~Years 5–15). By ~Year 20, no inherited hull remains in service — the target fleet below is entirely new-build. The domestic shipyards (converted to co-op/corporate joint ventures at founding) build every vessel.
-
 | Ship Type | Count | Crew/Ship | Shore Support | Total Personnel |
-|-----------|-------|-----------|---------------|-----------------|
+|---|---:|---:|---:|---:|
 | Destroyers | 6 | ~250 | +40% | ~2,100 |
 | Frigates | 12 | ~150 | +40% | ~2,520 |
 | Corvettes | 24 | ~70 | +30% | ~2,184 |
 | Patrol boats | 30 | ~15 | +20% | ~540 |
 | Minesweepers | 14 | ~40 | +30% | ~728 |
-| **SSBNs (nuclear-powered, ICBM)** | **8** | ~155 | +100% (Blue/Gold crews + reactor shore support) | ~3,720 |
-| **SSNs (nuclear-powered, VLS-equipped)** | **16** | ~80 | +100% (Blue/Gold crews + reactor shore support) | ~2,560 |
+| SSBNs (nuclear, ICBM) | 8 | ~155 | +100% (Blue/Gold crews + reactor support) | ~3,720 |
+| SSNs (nuclear, VLS) | 16 | ~80 | +100% (Blue/Gold crews + reactor support) | ~2,560 |
 | Naval bases (4) + submarine base | — | — | — | ~3,000 |
-| Submarine reactor maintenance facility | — | — | — | ~870 |
-| **Total Navy** | **110 vessels** | | | **~18,222** |
+| Submarine reactor maintenance | — | — | — | ~870 |
+| Total Navy | 110 vessels | | | ~18,222 |
 
-> **All 24 submarines are nuclear-powered.** The SSBNs carry 14 ICBMs each (112 total) — the strategic deterrent. The SSNs carry **vertical launch systems (VLS) for hypersonic cruise missiles, including tactical 10-kiloton nuclear warheads** — the anti-access/area denial weapon. A single SSN can destroy a carrier battle group at 1,000+ km with nuclear-tipped hypersonics before the fleet knows it's under attack.
->
-> **Two layers of nuclear deterrence:**
+**All 24 submarines nuclear-powered.** SSBNs: 14 ICBMs each (112 total)—strategic deterrent. SSNs: VLS for hypersonic cruise missiles, conventional and tactical 10kt nuclear—anti-access/area denial.
 
 | Layer | Platform | Weapon | Purpose |
 |---|---|---|---|
-| **Strategic** | 8 SSBNs | ICBMs (112 total) | Assured second strike — MAD deterrent. The reason no rational actor invades |
-| **Tactical** | 16 SSNs | Hypersonic cruise missiles (VLS), conventional and **10kt nuclear** | Anti-ship, fleet denial, area denial. The reason no fleet approaches |
+| Strategic | 8 SSBNs | ICBMs (112 total) | Assured second strike |
+| Tactical | 16 SSNs | Hypersonic VLS, 10kt nuclear | Anti-ship, fleet denial |
 
-> The tactical nuclear capability is the island's A2/AD answer. At Point Nemo, an invasion fleet must cross thousands of kilometres of open ocean. Sixteen nuclear-powered attack submarines, each carrying VLS hypersonic missiles with tactical nuclear warheads, make that crossing a suicide mission. **The submarines do not need to win a naval battle. They need to make the battle not worth starting.**
->
-> **Blue/Gold crewing.** Every submarine maintains two full crews — one at sea, one ashore resting, training, and maintaining the boat. This allows continuous deployment without burning out the crews. The US Navy's Ohio-class SSBNs pioneered this model; New Crossroads applies it to the entire submarine fleet.
+**Blue/Gold crewing:** Two full crews per submarine—one at sea, one ashore. Continuous deployment without burnout.
 
 ### 3.2 Naval Bases
 | Base | Region | Notes |
-|------|--------|-------|
+|---|---|---|
 | Eastport Naval Base | Region 12 | Primary Atlantic fleet |
 | Westport Naval Base | Region 18 | Primary Pacific fleet |
 | Rivergate City Naval Station | Region 2 | Riverine & coastal defense |
 | Desert Port Naval Facility | Region 7 | Southern patrol & space launch support |
 
-### 3.3 Strategic Deterrence (SSBNs)
-- **8 SSBNs** carrying **112 hypersonic 15Mt MIRV ICBMs** (14 per submarine).
-- **Strategic nuclear deterrent:** independent, unilateral second-strike capability.
-- **Funding:** Included in Navy budget; nuclear warhead maintenance is a separate line item (~$1B/year).
-
-### 3.4 Navy Budget: **$12–15B/year**
-- Personnel: ~$4B
-- Vessel maintenance: ~$3.5B
-- Procurement/construction: ~$2B
-- Fuel/operations: ~$1.5B
-- Nuclear submarine support (SSBNs + SSNs): ~$1.5B
-- Base operations: ~$1B
+### 3.3 Navy Budget: $12–15B/year
+- Personnel: ~$4B | Vessel maintenance: ~$3.5B | Procurement/construction: ~$2B | Fuel/operations: ~$1.5B | Nuclear submarine support: ~$1.5B | Base operations: ~$1B
 
 ---
 
-## Section 4: Air Force (Expanded)
+## Section 4: Air Force
+
+**Legacy (2025):** ~200 older combat aircraft (MiG-29/Su-27 class), ~60 transports, ~15 SAR helicopters, ~500–1,000 basic drones, 3 airbases. No drone carriers, no AWACS.
+
+**Transition:** Phased replacement over ~15 years. Domestic aerospace co-ops design common airframe family—multi-role, anti-ship, strike variants sharing 70%+ commonality. ~200 inherited aircraft retired as 300 modern replacements deliver. Transports scale ~60→106 (Airborne Division's 2-wave doctrine requires 53 per wave). Drone program builds from near zero to 10,000 advanced units, with 10 flying drone carriers.
 
 ### 4.1 Structure (Target Force — 2075)
 
-> **What the old regime's air force looked like (2025).** ~200 older-generation combat aircraft (comparable to late-Soviet MiG-29/Su-27 class — capable but not stealth, not networked, aging avionics), ~60 transports, ~15 SAR helicopters, ~500–1,000 basic reconnaissance drones, 3 airbases. No drone carriers, no AWACS capability, no precision-guided standoff munitions. The old airframes keep QRA (quick reaction alert) running and maintain air sovereignty while the domestic aerospace co-ops design and produce the target fleet below.
->
-> **The transition.** Phased replacement over ~15 years. The domestic aircraft industry (old Soviet aerospace factories converted to co-op/corporate joint ventures) designs a common airframe family — multi-role, anti-ship, and strike variants sharing 70%+ commonality (avoiding the F-22 mistake of a bespoke airframe with no family). The ~200 inherited aircraft are retired as the 300 modern replacements deliver. Transports scale from ~60 to 106 (the Airborne Division's 2-wave doctrine requires 53 aircraft per wave). The drone program — the largest single procurement line — starts from near zero and builds to 10,000 advanced self-guiding/fiber-optic units, with 10 flying drone carriers (an entirely new platform designed domestically). By ~Year 15, no inherited airframe remains in frontline service.
-
-| Asset | Count | Personnel Estimate |
-|-------|-------|--------------------|
-| **Combat aircraft (300 total):** | | |
+| Asset | Count | Personnel |
+|---|---|---:|
+| Combat aircraft (300 total): | | |
 | — Multi-role / air superiority | 150 | ~3,750 |
 | — Anti-ship / maritime strike | 70 | ~1,750 |
 | — Ground attack / strike | 50 | ~1,250 |
-| — Specialised (EW/jamming, recon, tankers, AWACS) | 30 | ~750 |
+| — Specialised (EW, recon, tankers, AWACS) | 30 | ~750 |
 | Transport aircraft | 106 | ~2,500 |
-| SAR helicopters (tasked to Aid Operations §7) | 30 | ~450 |
+| SAR helicopters | 30 | ~450 |
 | Combat drones | 5,000 | ~2,000 |
 | Flying drone carriers | 10 | ~1,500 |
 | Airbases (3) | — | ~2,000 |
 | Training/logistics/command | — | ~1,500 |
-| **Total Air Force** | | **~15,500–16,500** |
+| Total Air Force | | ~15,500–16,500 |
 
-> **The 80 Air Cavalry helicopters and 12 medevac Black Hawks are not listed here.** They are **organic aviation** belonging to the Ground Forces — the Air Cavalry's helicopters (§2.3) and the Medical Battalion's medevac birds (§2.3A). The Air Force provides **fixed-wing transport** (tasked to the Airborne Division for parachute insertion) and **SAR helicopters** (tasked to Aid Operations for humanitarian deployment). Four air-mobile forces, four separate aircraft pools, no confusion about who owns what.
-
-> **Why 300 combat aircraft, and why this mix.** New Crossroads is a large island — 2.7M km² with a maritime zone many times that. The threat model is **anti-access/area denial**, not expeditionary warfare: prevent hostile fleets from approaching, maintain air superiority over the island, and strike amphibious groups at range. **150 multi-role fighters** handle QRA (quick reaction alert), escort, and BVR (beyond visual range) dominance — the backbone, high commonality to reduce training and logistics costs. **70 anti-ship/maritime strike** aircraft carry stand-off missiles against enemy fleets — elevated priority for island survival, and the single largest specialised allocation. **50 ground attack/strike** aircraft handle SEAD (suppression of enemy air defences) and coastal defence, with significant multi-role overlap. **30 specialised** aircraft provide electronic warfare, jamming, reconnaissance pods, tanker support for range extension over ocean, and a small AWACS fleet for airborne early warning. Japan's JASDF, defending a similar island geography with ~300 combat aircraft, is the closest real-world analogue.
+**Note:** 80 Air Cavalry helicopters and 12 medevac helicopters are organic to Ground Forces (§2.1)—not Air Force assets.
 
 ### 4.2 Air Bases
 | Base | Location | Notes |
-|------|----------|-------|
+|---|---|---|
 | Durant B. Cooper Air Base | Region 1 | Primary fighter base |
 | New Tech City Air Station | Region 6 | Drone command & R&D |
 | Rivergate City Air Base | Region 2 | Strategic airlift & joint ops |
 
-### 4.3 Air Force Budget: **$8–10B/year**
-- Personnel: ~$3B
-- Aircraft maintenance: ~$2B
-- Drone operations: ~$1.5B
-- Fuel/operations: ~$1B
-- Procurement: ~$1B
-- Base operations: ~$1B
+### 4.3 Air Force Budget: $8–10B/year
+- Personnel: ~$3B | Aircraft maintenance: ~$2B | Drone operations: ~$1.5B | Fuel/operations: ~$1B | Procurement: ~$1B | Base operations: ~$1B
 
 ---
 
 ## Section 5: Crossroads Military Intelligence Service (CMIS)
 
 ### 5.1 Structure
-- **Personnel:** 25,000 (2025) → 50,000 (2075).
-- **Mission:** Monitor external threats, secure borders, support aid operations, manage anti-satellite assets, conduct cyber defense.
-- **Divisions:**
-  - **Cyber Warfare Division (5K personnel):** Defense of national banking suite, satellite communications, and infrastructure.
-  - **Threat Monitoring Division (7K analysts):** External threat intelligence, early warning.
-  - **Border Security Division (5K field ops):** Patrol 20 border forts, supported by drones and satellites.
-  - **Aid Support Division (5K field ops):** Escort 10K aid troops, manage logistics.
-  - **Counterintelligence Division (3K personnel):** Internal security, counter-espionage.
+- **Personnel:** 25,000 (2025) → 50,000 (2075)
+- **Mission:** External threats, border security, aid support, cyber defense, anti-satellite assets
+- **Divisions:** Cyber Warfare (5K), Threat Monitoring (7K analysts), Border Security (5K field ops), Aid Support (5K), Counterintelligence (3K)
 
-### 5.2 Equipment & Capabilities (Target Force — 2075)
+### 5.2 Equipment & Capabilities (Target Force)
 
-> **At founding (2025):** ~10 inherited satellites (older reconnaissance/comms), ~500–1,000 basic drones (shared with Air Force count above), no drone carriers, ~50 anti-satellite missiles (inherited), ~20 older EW suites, 10 signals intelligence stations (inherited, modernized in Phase 1). The satellite constellation scales from 10 to 75 as the domestic space program (CSI §6) builds launch capability.
+**Legacy (2025):** ~10 inherited satellites, ~500–1,000 basic drones, ~50 anti-satellite missiles, ~20 EW suites, 10 signals intelligence stations.
 
-| Asset | Count | Notes |
-|---|---:|---|
-| **National satellite constellation** | **10 → 75** | **Split across three roles (see below)** |
-
-**Satellite constellation breakdown (75 at maturity):**
+**Satellite constellation (10 → 75):**
 
 | Role | Count | Function | Controlled by |
 |---|---:|---|---|
-| **Sovereign GPS/PNT** | 24–30 | Global positioning, navigation, and timing — required for submarine operations worldwide, precision agriculture, maritime navigation, and civilian transport. Shared military/civilian asset | CSI (operations); NCB coordinates civilian access |
-| **Military** | 20–25 | ISR/reconnaissance, encrypted military satcom, submarine communication, missile early warning (infrared launch detection) | CSI + CMIS |
-| **Civilian** | 10–15 | Weather and earth observation, agricultural monitoring, disaster early warning, backup communications, emergency broadcast relay | State-owned; operated under NCB/NEB oversight, not military command |
-| **Total** | **~75** | | |
+| Sovereign GPS/PNT | 24–30 | Global positioning, navigation, timing | CSI; NCB coordinates civilian access |
+| Military | 20–25 | ISR, encrypted satcom, missile early warning | CSI + CMIS |
+| Civilian | 10–15 | Weather, agriculture, disaster warning, emergency broadcast | State-owned; NCB/NEB oversight |
+| Total | ~75 | | |
 
-> **Why sovereign GPS.** Relying on a foreign nation's GPS (US, Chinese, Russian, European) means that nation can deny positioning to New Crossroads at will — blinding the submarine fleet, the merchant marine, and precision agriculture simultaneously. A sovereign constellation of 24–30 satellites provides global coverage (the US GPS minimum) and eliminates a single-point strategic dependency. The civilian benefit (navigation for every ship, aircraft, farmer, and vehicle in the country) is a permanent peacetime return on a military investment.
+**Other assets:**
 
-| Asset | Count | Notes |
-|---|---:|---|
-| Combat drones | 5,000 | Self-guiding and fiber-optic; multi-role — ISR, strike, EW relay |
-| Flying drone carriers | 10 | Airborne launch/recovery platforms extending drone range over ocean |
-| Anti-satellite missiles | 100 | Kinetic kill; ASAT capability is the space-layer deterrent |
-| Strategic EW suites | 50 | Offensive and defensive — national-level spectrum dominance, network defence. **Separate from tactical EW (§2.2):** CMIS handles strategic/national; the Army handles battlefield |
-| Signals intelligence stations | 10 | 5 east coast, 5 west coast — maritime surveillance, COMINT, threat picture |
+| Asset | Count |
+|---|---:|
+| Combat drones | 5,000 |
+| Flying drone carriers | 10 |
+| Anti-satellite missiles | 100 |
+| Strategic EW suites | 50 |
+| Signals intelligence stations | 10 |
 
-### 5.3 CMIS Budget: **$5.5B/year**
-- Personnel: ~$2B
-- Cyber defense: ~$1B
-- Border security: ~$1B
-- Threat monitoring: ~$0.5B
-- R&D/equipment: ~$1B
+### 5.3 CMIS Budget: $5.5B/year
+- Personnel: ~$2B | Cyber defense: ~$1B | Border security: ~$1B | Threat monitoring: ~$0.5B | R&D/equipment: ~$1B
 
 ---
 
 ## Section 6: Crossroads Space Initiative (CSI) — Space Command
 
 ### 6.1 Structure
-- **Personnel:** ~3,000 (2025) → ~6,000 (2075).
-- **Mission:** Space domain awareness, satellite operations, anti-satellite defense, space-based intelligence, and eventual asteroid mining.
-- **Divisions:**
-  - **Satellite Operations (1,000 personnel):** Manage the national satellite constellation (75 satellites by 2075 — military, GPS, and civilian).
-  - **Space Surveillance (500 personnel):** Track orbital threats and debris.
-  - **Anti-Satellite Defense (500 personnel):** Operate the 100 anti-satellite missiles.
-  - **Space Launch (500 personnel):** Launch facilities at Desert Port and Frostpeak.
-  - **R&D / Asteroid Mining (500 personnel):** Priming the resource-extraction capability.
+- **Personnel:** ~3,000 (2025) → ~6,000 (2075)
+- **Divisions:** Satellite Operations (1K), Space Surveillance (500), Anti-Satellite Defense (500), Space Launch (500), R&D/Asteroid Mining (500)
 
 ### 6.2 Assets
 | Asset | Count |
-|-------|-------|
-| National satellite constellation | 10 → 75 (military ~25, GPS ~30, civilian ~15) |
+|---|---|
+| Satellite constellation | 10 → 75 |
 | Ground stations | 5 |
 | Launch facilities | 2 (Desert Port 2035, Frostpeak 2050) |
 | Anti-satellite missiles | 100 |
 
-### 6.3 CSI Budget: **$2.25B/year**
-- Personnel: ~$0.5B
-- Satellite operations: ~$0.5B
-- Space surveillance: ~$0.3B
-- Launch facilities: ~$0.5B
-- R&D: ~$0.45B
+### 6.3 CSI Budget: $2.25B/year
+- Personnel: ~$0.5B | Satellite operations: ~$0.5B | Space surveillance: ~$0.3B | Launch facilities: ~$0.5B | R&D: ~$0.45B
 
 ---
 
 ## Section 7: Aid Operations
 
 ### 7.1 Structure
-- **Personnel:** 10,000 troops (regular, CMIS, air force) dedicated to humanitarian aid.
-- **Scope:** ~$2B/year for earthquake/hurricane relief; aircraft, **30 SAR helicopters** (Air Force §4.1), transport aircraft, patrol boats, and drone carriers deployed within 72 hours globally, supported by ~95K volunteers.
-- **Logistics:** Rail + ports; ~$500M/year pre-positioned supplies; volunteer coordination with mental-health counseling.
-- **Policy:** Aid only, no reconstruction, withdraw within 90 days, no extensions (requires Territorial Chamber 15/20).
+- **Personnel:** 10,000 troops dedicated to humanitarian aid
+- **Scope:** ~$2B/year for earthquake/hurricane relief; 30 SAR helicopters, transport aircraft, patrol boats, drone carriers deployed within 72 hours globally, supported by ~95K volunteers
+- **Policy:** Aid only, no reconstruction, withdraw within 90 days, no extensions (requires Territorial Chamber 15/20)
 
-### 7.2 Aid Budget: **$2B/year**
+### 7.2 Aid Budget: $2B/year
 
 ---
 
 ## Section 8: The Nuclear Directorate
 
-**The fuel cycle that powers the nation and arms its submarines.** New Crossroads operates 170 GW of civilian nuclear capacity (58 GW state-owned across 21 hubs including the repository, plus 112 GW competitive; Energy Act 5.0) and 24 nuclear submarine reactors, all fuelled by domestically mined uranium from the Frostpeak. The nuclear fuel cycle — from raw ore to spent fuel — is the single most sensitive industrial operation in the country, and the one place where civilian and military nuclear programmes physically intersect.
+**The fuel cycle:** New Crossroads operates 170 GW civilian nuclear capacity (58 GW state-owned across 21 hubs, 112 GW competitive) and 24 submarine reactors, all fuelled by domestically mined uranium from Frostpeak. The nuclear fuel cycle is the single most sensitive industrial operation—where civilian and military nuclear programmes physically intersect.
 
 ### 8.1 The Hard Wall
 
-The **civilian fuel cycle** (low-enriched uranium, <5% U-235, for SMR fuel rods) sits on one side. The **naval fuel cycle** (highly enriched uranium, >90% U-235, for submarine reactor cores) sits on the other. **The wall between them is physical, not administrative:** separate facilities, separate personnel, separate security clearances, air-gapped information systems. A civilian enrichment technician cannot access the naval wing. A naval reactor engineer cannot access the civilian production line.
-
-The NEB (Energy Act 5.0) governs civilian reactors. The Nuclear Directorate governs naval reactors and weapons-grade material. Chamber Act §7.3 states the wall; this section implements it.
+**Civilian fuel cycle** (low-enriched uranium, <5% U-235) sits on one side. **Naval fuel cycle** (highly enriched uranium, >90% U-235) sits on the other. **Physical wall:** separate facilities, personnel, security clearances, air-gapped systems. A civilian technician cannot access the naval wing; a naval engineer cannot access civilian production.
 
 ### 8.2 Facilities and Personnel
 
 | Facility | Function | Personnel | Security |
 |---|---|---:|---|
-| **Civilian enrichment plant** | Low-enriched uranium for 170 GW of civilian SMRs | ~1,500 | NEB oversight, CED-transparent |
-| **Naval enrichment plant** | Highly enriched uranium for 24 submarine reactor cores | ~1,500 | Military classification, air-gapped |
-| **Fuel fabrication** — civilian | Assemble fuel rods for SMR fleet (standardised across 21 hubs and competitive fleet) | ~1,000 | NEB + co-op operated |
-| **Fuel fabrication** — naval | Assemble reactor cores for SSBN/SSN fleet | ~500 | Military classification |
-| **Submarine reactor servicing** | Refuelling (~10-year cycle), overhaul, defuelling, reactor-compartment maintenance | ~3,000 | Dedicated naval shipyard, co-located with submarine base |
-| **Spent fuel management** | Cooling ponds → **reprocessing** (Energy Act §4A.2 — 96% recovered as reusable fuel) → geological repository for the 4% high-level waste (Energy Act §4A.3 — played-out Frostpeak mine, engineered barriers, Stewardship Endowment) | ~1,500 | Long-term — the repository operates for centuries; the reprocessing facility for as long as the reactors run |
-| **R&D — next-generation reactors** | Next-gen submarine propulsion, advanced SMR designs, fuel efficiency, waste reduction | ~2,500 | Mixed civilian/military; the wall applies within the lab |
-| **Nuclear security force** | Physical security for enrichment facilities, weapons-grade material transport, the hard wall | ~1,000 | Military police, highest clearance |
-| **Total Nuclear Directorate** | | **~12,500** | |
+| Civilian enrichment | LEU for 170 GW SMRs | ~1,500 | NEB oversight |
+| Naval enrichment | HEU for 24 submarine cores | ~1,500 | Military classified, air-gapped |
+| Fuel fabrication—civilian | Fuel rods for SMR fleet | ~1,000 | NEB + co-op operated |
+| Fuel fabrication—naval | Reactor cores for submarines | ~500 | Military classified |
+| Submarine reactor servicing | Refuelling (~10-year cycle), overhaul | ~3,000 | Dedicated naval shipyard |
+| Spent fuel management | Cooling → reprocessing (96% recovery) → geological repository | ~1,500 | Long-term—repository operates for centuries |
+| R&D—next-generation reactors | Advanced propulsion, SMR designs | ~2,500 | Mixed civilian/military; wall applies |
+| Nuclear security force | Physical security, weapons-grade material transport | ~1,000 | Military police, highest clearance |
+| Total Nuclear Directorate | | ~12,500 | |
 
 ### 8.3 Weapons-Grade Material
 
-The naval enrichment plant and the warhead fabrication facility (for the SSBNs' ICBM warheads and the SSNs' **tactical 10-kiloton cruise missile warheads**) are the most sensitive sites in the nation. They are:
-
-- **Sovereign assets** — owned by the state, not co-op-operated. One of the very few things the sovereign owns directly (alongside the grid, the rail, and the fiber backbone).
-- **Under Sovereign Council authority** for security classification — the one domestic function the sovereign holds (Sovereign Functions Act §6.3 — the sovereign commands and negotiates; nuclear weapons are the command function).
-- **Inspected by the Special Auditors** for financial integrity, but operational details are classified. The auditors verify that money was spent; they do not see what it was spent on.
-- **Located in the Frostpeak** — remote, cold, underground, co-located with the uranium source. The ore travels metres, not hundreds of kilometres.
+Naval enrichment plant and warhead fabrication facility (SSBN ICBM warheads + SSN tactical 10kt cruise missile warheads) are:
+- **Sovereign assets**—owned by state, not co-op-operated. One of few things sovereign owns directly.
+- **Under Sovereign Council authority** for security classification.
+- **Inspected by Special Auditors** for financial integrity; operational details classified.
+- **Located in Frostpeak**—remote, cold, underground, co-located with uranium source.
 
 ### 8.4 Funding
 
-The Nuclear Directorate's ~$5B/year operating budget is military spending (§9 below). The **reprocessing facility and geological repository** are funded separately through general revenue (capital) and a $5/MWh fuel-cycle surcharge (operations) — see Energy Act §4A.5. The Nuclear Directorate operates the naval side of the reprocessing facility; the NEB operates the civilian side. Capital for new enrichment capacity, reactor servicing infrastructure, and the geological repository comes from the sovereign's infrastructure buildout line (Sovereign Functions §7.3).
-
-The **civilian** enrichment and fuel fabrication plants are co-op-operated, funded by the NEB's access-fee revenue (Energy Act §2.3) — the 155% maintenance-recovery model. **The military pays the civilian plant for low-enriched feedstock** at a transfer price, then enriches it further in the naval plant. This keeps the civilian plant commercially viable and the military plant focused on its classified work.
+Nuclear Directorate's ~$5B/year operating budget is military spending. Reprocessing facility and geological repository funded separately through general revenue (capital) and $5/MWh fuel-cycle surcharge (operations). Civilian enrichment/fuel fabrication plants are co-op-operated, funded by NEB access-fee revenue. Military pays civilian plant for low-enriched feedstock at transfer price, then enriches further in naval plant.
 
 ---
 
-## Section 9: Training, Procurement, R&D, and the Defense-Industrial Ecosystem
+## Section 9: Training, Procurement, R&D, and Defense-Industrial Ecosystem
 
 ### 9.1 Training
+
 | Program | Annual Cost | Notes |
-|----------|-------------|-------|
-| Military Training Academy | ~$100M | Core military training, pilot, naval, and cyber recruitment |
+|---|---|---:|
+| Military Training Academy | ~$100M | Core training, pilot, naval, cyber recruitment |
 | Pilot training | ~$30M | ~1K pilots/year |
-| Naval training (Andrew Reed Westport Naval Academy) | ~$30M | ~2K crew/year |
-| Cyber warfare training | ~$30M | Integrated with tech curriculum (Education Act 2.6) |
+| Naval training | ~$30M | ~2K crew/year |
+| Cyber warfare training | ~$30M | Integrated with tech curriculum |
 | Reserve refreshers | ~$3.5B | 3-month refreshers every 5 years, 70% uptake |
 
 ### 9.2 Procurement
-- **Annual procurement:** ~$5B/year, contracting ~1K co-op FCLs for component production (with co-op preference, first right of refusal).
-- **One-time buildout (bases + initial equipment):** ~$77.56B (amortized over early years).
+- **Annual procurement:** ~$5B/year, contracting ~1K co-op FCLs (co-op preference, first right of refusal)
+- **One-time buildout (bases + initial equipment):** ~$77.56B amortized over early years
 
 ### 9.3 R&D
-- **Annual R&D:** ~$5B/year, focused on self-guiding/fiber-optic drones, EW systems, missile technology, and space launch.
-- **Drone doctrine:** Emphasizes swarms of inexpensive, in-house drones over large capital platforms.
+- **Annual R&D:** ~$5B/year focused on self-guiding/fiber-optic drones, EW systems, hypersonic missile technology, space launch
+- **Drone doctrine:** swarms of inexpensive in-house drones over large capital platforms
 
-### 9.4 The Defense-Industrial Ecosystem — How It All Connects
+### 9.4 The Defense-Industrial Ecosystem
 
-*Rationale:* This section ties the Military Act's funding and procurement to the broader economic architecture — the FCL Act's cooperative ownership model, the Exchange Act's trading venues, and the CCJV framework for corporate partnerships. The defense industrial base is not state-owned; it is worker-owned, funded by a citizen endowment, and operates through the same cooperative structures as the rest of the economy.
+**The Defense Fund provides the capital.** Citizen-bequest endowment: ~$100B at founding → ~$920B by 2075. Returns ~5%/year (~$46B at maturity), of which military draws $19–25B to supplement sovereign allocation. Remaining returns compound.
 
----
-
-**The Defense Fund (§9.2 of this Act) provides the capital.**
-
-The Defense Fund is a citizen-bequest endowment — ~$100B at founding, growing to ~$920B by 2075. It returns ~5%/year (~$46B at maturity), of which the military draws $19–25B to supplement the sovereign allocation. The remaining returns compound, growing the fund while funding the military.
-
-The Fund invests **100% domestically** through five channels:
+**Fund invests 100% domestically through five channels:**
 
 | Channel | Allocation | Rationale |
 |---|---:|---|
 | Credit-union lending book | 40% | Safe, liquid, broadly diversified |
-| Citizens' Metals ETF | 20% | Hard asset — survives crises |
-| Co-op shares (via the Exchange) | 15% | Productive domestic equity |
+| Citizens' Metals ETF | 20% | Hard asset—survives crises |
+| Co-op shares (via Exchange) | 15% | Productive domestic equity |
 | MMF/RMF capital lending | 15% | Community infrastructure |
-| Housing construction pool | 10% | Durahomes for the population |
+| Housing construction pool | 10% | Durahomes |
 
-**The 15% co-op share allocation is the defense-industry channel.** These returns flow to the **Co-op Board** of the Crossroads Exchange (Exchange Act §3.1), purchasing **non-voting FCL investor shares** in defense-industrial co-ops. The shares are held in the **Co-op Capital Index**, managed by the CCIF Alliance Network (FCL Act §3.8.7). The Defense Fund receives dividends and patronage returns on its holdings — which then compound back into the Fund. This is a self-reinforcing cycle.
+**15% co-op share allocation is defense-industry channel.** Flows to Co-op Board of Crossroads Exchange (Exchange Act §3.1), purchasing non-voting FCL investor shares in defense-industrial co-ops. Held in Co-op Capital Index, managed by CCIF Alliance Network (FCL Act §3.8.7). Defense Fund receives dividends and patronage returns—compounding back into Fund. Self-reinforcing cycle.
 
----
-
-**The Defense Industrial Base is structured as Heavy Industry FCLs.**
-
-The old regime's military-industrial complex — shipyards, aircraft factories, missile plants, arms manufacturers — was converted to **Federated Cooperatives Limited (FCLs)** under the FCL Act. Defense co-ops are **Heavy Industry FCLs** (FCL Act §2.4.3):
+**Defense Industrial Base = Heavy Industry FCLs.** Old regime's military-industrial complex converted to Federated Cooperatives Limited (FCLs) under FCL Act. Defense co-ops are Heavy Industry FCLs (FCL Act §2.4.3):
 
 | Provision | Requirement |
 |---|---|
@@ -440,217 +345,161 @@ The old regime's military-industrial complex — shipyards, aircraft factories, 
 | Labor Peace Agreement | Required |
 | Sovereign Council role | Arms-proliferation veto only |
 
-These are the enterprises that build the target force:
+**Enterprises building target force:**
+- Shipyards → submarine/surface-vessel co-ops (110 vessels, 8 SSBNs, 16 SSNs)
+- Aerospace → aircraft/drone co-ops (300 combat aircraft, 106 transports, 10K drones, 10 drone carriers)
+- Missile plants → hypersonic co-ops (VLS cruise missiles, ICBMs)
+- Arms manufacturers → small arms, vehicles, electronics, helicopters
 
-- **Shipyards** → submarine and surface-vessel co-ops. Build all 110 vessels, including 8 SSBNs and 16 SSNs with domestically developed nuclear propulsion.
-- **Aerospace** → aircraft and drone co-ops. Design the common airframe family, produce 300 combat aircraft, 106 transports, 10,000 drones, and 10 drone carriers.
-- **Missile plants** → hypersonic missile co-ops. Develop VLS hypersonic cruise missiles (conventional and 10kt tactical nuclear) and MIRVed ICBMs for the SSBNs.
-- **Arms manufacturers** → small arms, ammunition, vehicle, and electronics co-ops. Modernize ground-force equipment and produce the Air Cavalry's 80 helicopters and 12 medevac Black Hawks.
+**Workers own 51%.** They elect board majority, receive patronage returns, cannot be diluted below majority control.
 
-**Workers own 51%** of these enterprises. They elect the majority of the board. They receive patronage returns on profits. They cannot be diluted below majority control by investor capital. The 49% investor ownership cap ensures the Defense Fund, credit unions, and other institutional investors can provide capital without capturing the enterprise.
-
----
-
-**Corporate Capital Partners Enter Through CCJVs.**
-
-Some defense projects require deeper capital, specialized expertise, or technology partnerships that exceed what the 49% investor cap can accommodate. The **Co-op/Corporate Joint Venture (CCJV) framework** (FCL Act §3.7) provides the mechanism:
+**Corporate Capital Partners via CCJVs (FCL Act §3.7):**
 
 | Tier | Co-op Ownership | Corporate Ownership | Term | Approval |
-|---|---|---|---|---|
-| **Co-op Led** | 51–99% | 1–49% | 20 years | Regional Board (6/11) |
-| **Corporate Led** | 30–49% | 51–70% | 15 years | Productive Chamber |
-| **Strategic Infrastructure** | 40% min | Up to 60% | 25 years | Sovereign Council (5/7) + Territorial Chamber (15/20) |
+|---|---:|---:|---:|---|
+| Co-op Led | 51–99% | 1–49% | 20 years | Regional Board (6/11) |
+| Corporate Led | 30–49% | 51–70% | 15 years | Productive Chamber |
+| Strategic Infrastructure | 40% min | Up to 60% | 25 years | Sovereign Council (5/7) + Territorial Chamber (15/20) |
 
-**Key protections built into the CCJV framework:**
-- Corporate partners have **no vote** in the FCL's internal affairs outside the JV.
-- FCL members keep their base-share rights and patronage eligibility.
-- Board seats are proportional; the co-op holds at least one seat.
-- Disputes go to ad-hoc arbitration (Chamber Act §6.6), with procedural appeals to the Supreme Court.
-- On exit, the co-op has right of first refusal at appraised value.
-- No CCJV may exceed 25 years without Sovereign Council renewal.
+**CCJV protections:**
+- Corporate partners have no vote in FCL internal affairs outside JV
+- FCL members keep base-share rights and patronage eligibility
+- Board seats proportional; co-op holds ≥1 seat
+- Co-op right of first refusal on exit
+- No CCJV beyond 25 years without Sovereign Council renewal
 
-**Where CCJVs apply in defense:**
-- **Co-op Led (51%+):** Most production — shipbuilding, aircraft assembly, small arms manufacturing.
-- **Corporate Led (30–49%):** Hypersonic R&D, advanced materials, avionics — areas where corporate patent pools and specialized engineering are valuable.
-- **Strategic Infrastructure (40% min):** Nuclear reactor production, submarine propulsion systems — national-security sensitive, requiring sovereign oversight.
+**Where CCJVs apply:**
+- Co-op Led: shipbuilding, aircraft assembly, small arms
+- Corporate Led: hypersonic R&D, advanced materials, avionics
+- Strategic: nuclear reactors, submarine propulsion
 
-The CCJV framework lets corporate capital participate without corporate control. The 51% co-op floor (or 40% for strategic) ensures workers retain the decisive voice.
+**Professional FCLs (100% worker-owned, FCL Act §2.3):** Licensed professionals—doctors, lawyers, engineers. Equal shares; voting control 100% with worker-owners. Retainer client shares (non-voting, 2–8% patronage, capped at 20% equity).
 
----
+**Professional FCLs in defense (as contractors, not JV partners):**
+- Engineering firms: naval architecture, aerospace structures, missile guidance, EW
+- Legal firms: procurement, export compliance, arms-control verification
+- Medical firms: occupational health, trauma research, battlefield medicine
 
-**Professional FCLs Provide Specialized Expertise.**
-
-Not every defense function is suitable for a Heavy Industry FCL or a CCJV. Engineering design, legal services, medical research, and other professional functions require professional independence.
-
-**Professional FCLs** (FCL Act §2.3) are **100% worker-owned** by licensed professionals — doctors, lawyers, engineers, architects, and other regulated professions. They hold equal shares; voting control remains 100% with the worker-owners. They may issue retainer client shares (non-voting, 2–8% patronage, capped at 20% of firm equity), but governance never leaves the professionals.
-
-**Professional FCLs in defense:**
-- **Engineering firms** → design naval architecture, aerospace structures, missile guidance systems, and electronic warfare suites.
-- **Legal firms** → procurement contracts, export compliance, arms-control verification, and national-security law.
-- **Medical firms** → occupational health, trauma research, battlefield medicine, and psychological support for service members.
-
-**Professional FCLs are contractors, not JV partners.** They are hired by defense co-ops, CCJVs, and the military directly. They bring expertise; they do not bring equity. This preserves professional independence — a doctor's clinical judgment cannot be overruled by a corporate board, a lawyer's professional obligations cannot be compromised by a shareholder vote.
+**The Complete Flow:**
+Citizens bequeath → Defense Fund ($920B, 5% returns) → 15% co-op shares (Exchange Act §3.1) → Co-op Board → Heavy Industry FCLs (51% worker-owned) → CCJVs for capital-intensive projects → Professional FCL contractors → MILITARY PROCUREMENT ($65-71B/year) → Co-op profits → Patronage to workers → Worker savings → Credit unions → More loans → Co-op profits → CCIF deposits ($991B by 2075) → CCIF → More defense modernization (CYCLE REPEATS)
 
 ---
 
-**What This Ecosystem Achieves:**
+## Section 10: Funding — Reconciled Budget
 
-| Principle | How It Works |
-|---|---|
-| **No sovereign ownership** | The state procures from co-ops; it does not own the means of production. |
-| **No hostile takeovers** | 51% worker ownership floor; 15% investor voting cap; non-voting investor shares. |
-| **Corporate capital without control** | CCJVs let corporations invest up to 49-60%; co-ops retain voting control. |
-| **Professional independence** | Engineering, legal, medical firms are 100% worker-owned; hired as contractors. |
-| **Self-reinforcing investment** | Fund returns → co-op modernization → better products → profits → more investment. |
-| **Workers have skin in the game** | Patronage returns, board representation, and 51% ownership floor. |
-| **Citizens own the capital** | The Defense Fund is citizen-bequests; the economy it defends is worker-owned. |
-
----
-
-### 9.5 Training + R&D Total Budget: **$5–6B/year**
-
----
-
-## Section 10: Funding — Reconciled Expanded Budget
-
-**The mature military annual budget: $65–71B/year (2075). At founding it is ~$51B.**
+**Mature military annual budget: $65–71B/year (2075). At founding: ~$51B.**
 
 | Branch | Annual Budget (mature) | Personnel |
-|--------|---------------|-----------|
-| **Ground Forces** | $8–10B | 100K active, 1M reserves, 9.1M militia |
-| **Navy (expanded)** | $12–15B | ~12,800–13,500 |
-| **Air Force (expanded)** | $8–10B | ~15,000–16,000 |
-| **CMIS (Intelligence)** | $5.5B | 25K → 50K |
-| **CSI (Space Command)** | $2.25B | 3K → 6K |
-| **Aid Operations** | $2B | 10K |
-| **Training + R&D** | $5–6B | — |
-| **Total** | **$65–71B** | **~178K active** (Army 100K + Navy ~18K + Air Force ~21K + CMIS 25K + Nuclear Directorate ~12.5K + Space 2K) |
+|---|---:|---:|
+| Ground Forces | $8–10B | 100K active, 1M reserves, 9.1M militia |
+| Navy | $12–15B | ~18,222 |
+| Air Force | $8–10B | ~15,500–16,500 |
+| CMIS | $5.5B | 25K → 50K |
+| CSI | $2.25B | 3K → 6K |
+| Aid Operations | $2B | 10K |
+| Training + R&D | $5–6B | — |
+| Total | $65–71B | ~178K active |
 
-### 10.1 Funding Sources — Two Distinct Streams
+### 10.1 Funding Sources — Two Streams
 
-**Stream 1 — Sovereign Revenue Allocation (~$46B/year at founding):**
-- The baseline is paid from **sovereign revenue** (Sovereign Functions Act §7; Monetary Act §4) — the federal tax base, alongside the judiciary, the auditors, and the four bureaus.
-- **This allocation does not decrease.** It remains constant as the baseline annual contribution.
+**Stream 1 — Sovereign Revenue Allocation (~$46B/year at founding):** Paid from sovereign revenue (Sovereign Functions Act §7; Monetary Act §4). This allocation does not decrease—remains constant as baseline.
 
-**Stream 2 — Defense Fund Endowment Supplement (~$5B founding → ~$19–25B mature draw):**
-- The **Defense Fund** (citizen-bequest endowment, outside the SWF and outside the 12% cap) provides a **supplemental draw from its returns** to cover the expanded force's additional cost.
-- It compounds from **~$100B (2025) to ~$920B (2075)**. At ~5% blended return (Monetary Act §2.5), that is **~$5B at founding and ~$46B at maturity** — of which the military draws ~$19–25B and the remainder compounds.
-- **The endowment supplements the sovereign allocation** — it does not replace it. Total: **~$51B (2025) → $65–71B (2075)**.
+**Stream 2 — Defense Fund Endowment Supplement (~$5B founding → $19–25B mature draw):** Citizen-bequest endowment outside SWF and outside 12% cap. Compounds from ~$100B (2025) to ~$920B (2075). At ~5% blended return, ~$5B at founding, ~$46B at maturity—military draws $19–25B, remainder compounds.
 
 ### 10.2 Defense Fund Mechanics
-- **Source:** Citizen estate bequests (not state revenue).
-- **Total:** ~$100B (2025) → ~$920B by 2075 (~$1T by 2100).
-- **Investment returns:** ~5%/year blended — ~$5B at founding, ~$46B at maturity (of which the military draws ~$19–25B; the remainder compounds).
-- **The principal is locked; the returns are drawable.**
-  - **Principal — locked until total war.** Release of capital requires the supermajority unlock vote (Chamber Act §10.5 middle bar). The corpus is not a budget line and may not be spent down to buy ships.
-  - **Returns — drawable annually**, without a vote, up to the §10.1 supplement (~$5B founding, $19–25B mature). The draw may never exceed the year's returns: the endowment funds the expansion **out of its yield, in perpetuity**, and is never consumed by it.
-- **Use:** Supplements the sovereign-revenue allocation (§10.1). The sovereign baseline is ~$46B at founding; the endowment funds the growth. **As the fund matures, its returns absorb an ever-larger share of the total budget — eventually covering it entirely, freeing the sovereign's allocation for the citizen dividend.**
+- **Source:** Citizen estate bequests (not state revenue)
+- **Principal locked until total war:** Release requires supermajority unlock vote (Chamber Act §10.5 middle bar). Corpus not a budget line; may not be spent down to buy ships.
+- **Returns drawable annually:** Up to $19–25B at maturity. Draw may never exceed year's returns—endowment funds expansion out of yield, in perpetuity.
+- **Use:** Supplements sovereign allocation. As fund matures, returns absorb ever-larger share of total budget—eventually covering it entirely, freeing sovereign allocation for citizen dividend.
 
 ### 10.3 One-Time Buildout & Military-Industrial Conversion
-- The **$77.56B** buildout is a **one-time capital expense** for bases (naval, air, regular forces, border forts) and initial procurement, amortized over the early years.
 
-**Military-industrial conversion (Post-Revolution Timeline §Year 0–5).** The old regime's military-industrial complex — shipyards, aircraft factories, engine plants, missile manufacturers, electronics shops, ammunition plants — is converted to **co-op/corporate joint ventures** under the same divestiture model as all other non-sovereign state assets. Workers become co-op members; engineering partnerships with domestic and (where necessary) foreign corporate partners bring modern design capability. The converted enterprises then build the entire target force domestically:
+**$77.56B one-time capital expense** for bases (naval, air, regular forces, border forts) and initial equipment procurement, amortized over early years.
 
-- **Shipyards** → submarine and surface-vessel co-ops. Build all 110 target vessels over 15 years, including 8 SSBNs and 16 SSNs with domestically developed nuclear propulsion (the naval reactor program, §8, is sovereign — the hulls are co-op-built around it).
-- **Aerospace** → aircraft and drone co-ops. Design the common airframe family (multi-role/anti-ship/strike), produce 300 combat aircraft and 106 transports, and build the 10,000-drone fleet and 10 drone carriers.
-- **Missile plants** → hypersonic missile co-ops. Develop and produce the VLS hypersonic cruise missiles (conventional and 10kt tactical nuclear) for the SSN fleet and the MIRVed ICBMs for the SSBNs. The hypersonic program is the single highest-priority development effort.
-- **Arms manufacturers** → small arms, ammunition, vehicle, and electronics co-ops. Modernize ground-force equipment (fire control, comms, sensors) and produce the Air Cavalry's 80 helicopters and 12 medevac Black Hawks.
+**Military-industrial conversion (Year 0–5):** Old regime's military-industrial complex converted to co-op/corporate joint ventures under divestiture model. Workers become co-op members; engineering partnerships bring modern design capability.
 
-**Procurement philosophy: pragmatic, domestic, off-the-shelf where possible.** The F-22 Raptor cost $350M per aircraft because Lockheed built a bespoke airframe with no variants, no export, and no commonality. New Crossroads designs platform families — a common hull for frigates and corvettes, a common airframe for three fighter roles, a common drone chassis for ISR/strike/EW. Commonality reduces unit cost, simplifies logistics, and lets the co-op factories run longer production lines. Where a proven foreign design can be licensed and built domestically rather than developed from scratch, it is — the goal is a modern force in 15 years, not a prestige engineering project in 30.
+**Procurement philosophy:** Pragmatic, domestic, off-the-shelf where possible. Platform families—common hull for frigates/corvettes, common airframe for fighter roles, common drone chassis for ISR/strike/EW. Commonality reduces unit cost, simplifies logistics. Where proven foreign design can be licensed and built domestically rather than developed from scratch, it is. Goal: modern force in 15 years, not prestige engineering project in 30.
 
 ---
 
 ## Section 11: Arms & Aerospace Export — National-Security Veto
 
 ### 11.1 Veto Mechanism
-- **Trigger:** Military High Command + CMIS determine that a proposed sale or export of arms, weapons systems, military or dual-use aerospace technology, or sensitive defense components poses a national-security or proliferation risk.
-- **Effect:** High Command + CMIS may **compel the Sovereign Council to issue a veto** of the sale. The Sovereign Council must issue the veto — it cannot decline.
-- **Override (civilian supremacy):** The veto is **subject to override** by the standard supermajority (Chamber Act §10.5 — supermajority of relevant chambers + simple-majority universal referendum). The military can force the veto; the elected bodies retain the final word.
-- **Scope:** Applies to foreign sales/exports and sensitive transfers of arms and aerospace systems.
+- **Trigger:** High Command + CMIS determine proposed sale/export of arms, weapons systems, dual-use aerospace tech, or sensitive defense components poses proliferation risk.
+- **Effect:** High Command + CMIS compel Sovereign Council to issue veto. Council must issue—cannot decline.
+- **Override:** Veto subject to override by standard supermajority (Chamber Act §10.5). Military can force veto; elected bodies retain final word.
 
 ### 11.2 Process
-1. High Command + CMIS file a classified national-security finding.
-2. Sovereign Council issues the veto within a defined window.
-3. The seller and relevant bodies are notified.
-4. Any override proceeds under the standard procedure (Chamber Act §10.5).
-5. Determinations are logged (redacted) for oversight.
+1. High Command + CMIS file classified national-security finding
+2. Sovereign Council issues veto within defined window
+3. Seller and relevant bodies notified
+4. Any override proceeds under Chamber Act §10.5
+5. Determinations logged (redacted) for oversight
 
 ---
 
 ## Section 12: Global Power Rating & 2075 Outcomes
 
 ### 12.1 Global Power Rating: Tier‑2 Major Power (8.6/10)
-Crossroads ranks alongside:
-- France
-- United Kingdom
-- Japan
-- South Korea
+Ranks alongside France, UK, Japan, South Korea. Below only US, China.
 
-**Below only:** United States, China.
-
-**Why Tier‑2?**
-- 4 inherited SSBNs (credible deterrent from Day 1), scaling to 8 with 112 hypersonic 15Mt MIRV ICBMs → strategic deterrence equal to major nuclear powers.
-- 6 inherited SSNs scaling to 16 VLS-equipped → serious underwater warfare capability.
-- ~1,000 inherited drones scaling to 10,000+ advanced → drone-centric doctrine; cheap to lose, expensive to attack.
-- $920B Defense Fund → long-term financial independence.
-- **~178K active military** (Army 100K + Navy ~18K + Air Force ~21K + CMIS 25K + Nuclear Directorate ~12.5K + Space 2K) — lean professional force backed by 1M tiered reserves and 9.1M militia.
-- CMIS (25K → 50K) → strong cyber, EW, satellite control.
-- **Worker-owned defense industrial base** → no sovereign liability, no privatization profiteering, self-reinforcing investment cycle.
+**Why Tier‑2:**
+- 4 inherited SSBNs scaling to 8 with 112 hypersonic 15Mt MIRV ICBMs
+- 6 inherited SSNs scaling to 16 VLS-equipped
+- ~1,000 inherited drones scaling to 10,000+ advanced
+- $920B Defense Fund
+- ~178K active military backed by 1M tiered reserves and 9.1M militia
+- CMIS 25K→50K: strong cyber, EW, satellite control
+- Worker-owned defense industrial base
 
 ### 12.2 2075 Force Projection
 
-| Branch | 2025 (Inherited) | 2075 (All New-Build Target Force) |
-|--------|------|------|
-| Active forces (all branches) | **~178K** | ~200K |
-| Navy | ~54 vessels: 3 destroyers, 6 frigates, 12 corvettes, 15 patrol boats, 8 minesweepers, 4 SSBNs (older SLBMs), 6 SSNs (torpedo-only) | 110 vessels (all new-build): 6 destroyers, 12 frigates, 24 corvettes, 30 patrol boats, 14 minesweepers, **8 SSBNs (hypersonic MIRV ICBMs), 16 SSNs (VLS hypersonic/10kt tactical)** — all submarines nuclear-powered |
-| Air Force | ~200 older combat aircraft, ~60 transports, ~15 SAR helos, ~1,000 basic drones, 0 drone carriers | 300 combat aircraft (all new-build: 150 multi-role, 70 anti-ship, 50 strike, 30 specialised), 106 transport, 30 SAR helicopters, **10K advanced drones**, 10 drone carriers |
-| Ground Forces aviation | ~30 older helicopters (inherited); no Air Cavalry, no medevac | **80 Air Cavalry helicopters + 12 medevac Black Hawks** (all new-build, organic to Ground Forces §2.3/§2.3A) |
+| Branch | 2025 (Inherited) | 2075 (Target Force) |
+|---|---|---|
+| Active forces | ~178K | ~200K |
+| Navy | ~54 vessels: 3 destroyers, 6 frigates, 12 corvettes, 15 patrol boats, 8 minesweepers, 4 SSBNs, 6 SSNs | 110 vessels: 6 destroyers, 12 frigates, 24 corvettes, 30 patrol boats, 14 minesweepers, 8 SSBNs (hypersonic MIRV), 16 SSNs (VLS hypersonic/10kt) — all nuclear |
+| Air Force | ~200 older combat aircraft, ~60 transports, ~15 SAR, ~1,000 basic drones, 0 drone carriers | 300 combat aircraft (150 multi-role, 70 anti-ship, 50 strike, 30 specialised), 106 transports, 30 SAR, 10K advanced drones, 10 drone carriers |
+| Ground Forces aviation | ~30 older helicopters; no Air Cavalry, no medevac | 80 Air Cavalry helicopters + 12 medevac helicopters |
 | CMIS | 25K | 50K |
 | CSI | 3K | 6K |
-| Satellites | ~10 (inherited) | 75 (all new-build: ~25 military, ~30 GPS, ~15 civilian) |
-| Defense Fund | ~$100B (building) | ~$920B |
-| Annual budget | **~$51B** ($46B sovereign + ~$5B endowment draw) | **~$65–71B** ($46B sovereign + ~$19–25B endowment draw) |
+| Satellites | ~10 | 75 (~25 military, ~30 GPS, ~15 civilian) |
+| Defense Fund | ~$100B | ~$920B |
+| Annual budget | ~$51B | ~$65–71B |
 
 ---
 
 ## Appendix: Glossary
 
 | Term | Definition |
-|------|------------|
-| **CCIF** | Co-operative Capital Investment Fund (FCL Act §3.8) — voluntary liquidity pool for co-ops and corporations |
-| **CCJV** | Co-op/Corporate Joint Venture (FCL Act §3.7) — partnership structure allowing corporate capital without corporate control |
-| **CED** | Crossroads Economic Database — pseudonymized audit and statistics backbone |
-| **CMIS** | Crossroads Military Intelligence Service (25K→50K personnel) |
-| **Co-op Board** | Trading board on the Crossroads Exchange for non-voting FCL investor shares (Exchange Act §3.1) |
-| **CSI** | Crossroads Space Initiative (Space Command) |
-| **Defense Fund** | ~$920B citizen-bequest endowment, outside SWF cap; supplements the ~$46B sovereign revenue allocation |
-| **FCL** | Federated Cooperatives Limited — the cooperative enterprise structure defined in the FCL Act |
-| **Heavy Industry FCL** | FCL with 51% worker ownership, 49% investor cap, 15% investor voting cap (FCL Act §2.4.3) |
-| **High Command** | Military High Command — Chairman of the Joint Chiefs, service chiefs, CMIS chief |
-| **Professional FCL** | 100% worker-owned FCL for licensed professionals (doctors, lawyers, engineers) — FCL Act §2.3 |
-| **Sovereign Council** | 7-member executive (Sovereign Functions Act §6) — civilian control of military |
-| **SWF** | Sovereign Wealth Fund (capped at 12% GDP, ~$720B → ~$2.28T). **Never funds the military** (Sovereign Functions Act §5.4 — absolute bar) |
-| **Territorial Chamber** | 220 Regional Board members (Chamber Act §3) — militia command, war ratification |
-| **Chamber Act §10.5** | Amendment thresholds — supermajority + simple-majority universal referendum |
+|---|---|
+| CCIF | Co-operative Capital Investment Fund—voluntary liquidity pool for co-ops and corporations (FCL Act §3.8) |
+| CCJV | Co-op/Corporate Joint Venture—partnership structure allowing corporate capital without corporate control (FCL Act §3.7) |
+| CED | Crossroads Economic Database—pseudonymized audit and statistics backbone |
+| CMIS | Crossroads Military Intelligence Service (25K→50K) |
+| Co-op Board | Trading board on Crossroads Exchange for non-voting FCL investor shares (Exchange Act §3.1) |
+| CSI | Crossroads Space Initiative (Space Command) |
+| Defense Fund | ~$920B citizen-bequest endowment, outside SWF cap; supplements sovereign revenue allocation |
+| FCL | Federated Cooperatives Limited—cooperative enterprise structure (FCL Act) |
+| Heavy Industry FCL | FCL with 51% worker ownership, 49% investor cap, 15% investor voting cap (FCL Act §2.4.3) |
+| High Command | Military High Command—Chairman of Joint Chiefs, service chiefs, CMIS chief |
+| Professional FCL | 100% worker-owned FCL for licensed professionals (FCL Act §2.3) |
+| Sovereign Council | 7-member executive—civilian control of military |
+| SWF | Sovereign Wealth Fund—never funds military (Sovereign Functions Act §5.4) |
+| Territorial Chamber | 220 Regional Board members—militia command, war ratification |
 
 ---
 
 ## Design Philosophy (Informative)
 
-New Crossroads builds a military that is **lean by design and well-funded by two streams** — sovereign revenue and a citizen-endowed Defense Fund.
+New Crossroads builds a military lean by design, funded by two streams, supplied by worker-owned industry.
 
-- **Cheap to lose, expensive to face.** The doctrine avoids the giant capital platforms a drone can sink or down for pennies. Swarms of in-house drones, fiber-optic guidance, commercial components, and a vast trained militia make the nation costly to invade and cheap to defend.
-
-- **Funded twice — a stable allocation plus a growing endowment.** Sovereign revenue provides a stable ~$46B/year baseline that never decreases. The citizen-bequest Defense Fund builds over fifty years to ~$920B, whose returns supplement the baseline to fund the expanded force. **The ~$46B sovereign allocation stays steady; the endowment pays for the expansion.** The SWF may never fund military operations (Sovereign Functions Act §5.4 — no defense exception).
-
-- **A navy and air force built from scratch in 15 years.** The old regime's aging fleet provides the bridge; the converted military-industrial co-ops build the replacement. By 2040: 8 SSBNs with 112 ICBMs, 16 VLS-equipped SSNs, 6 destroyers, 12 frigates, 24 corvettes, 30 patrol boats, 14 minesweepers, 10,000 advanced drones, 300 modern combat aircraft, 106 transports, 80 Air Cavalry helicopters, and 12 medevac Black Hawks — all domestically designed, domestically built, and nothing inherited still in service. Pragmatic procurement, platform families, and co-op production lines keep the cost at $77.56B — less than two years of the mature military budget.
-
-- **The defense industrial base is worker-owned.** The old regime's Soviet-style military plants are converted to Heavy Industry FCLs (51% worker ownership) and CCJVs where corporate capital is needed. Professional FCLs (100% worker-owned) provide engineering, legal, and medical expertise as contractors. The Defense Fund's returns flow through the Co-op Board (Exchange Act §3.1) into co-op investor shares — a self-reinforcing cycle where the Fund's returns modernize the industries that supply the military, and those industries' profits flow back to the Fund.
-
-- **The military can stop a dangerous sale — but not the people's will.** High Command and intelligence can force a veto on any arms or aerospace export they judge a proliferation risk, keeping advanced weapons out of adversaries' hands. But that veto is overridable by the elected bodies exactly like any other. Expertise informs; democracy decides.
-
-- **Aid, not empire.** Force projects outward only to save lives — 72 hours in, 90 days out, no reconstruction, no extensions.
-
-A lean military, funded by a stable allocation and a growing endowment, supplied by a worker-owned defense industrial base, that defends the homeland, helps in disaster, guards against proliferation, and never escapes civilian control.
+- **Cheap to lose, expensive to face.** Swarms of inexpensive drones, fiber-optic guidance, commercial components, vast trained militia.
+- **Funded twice:** Stable ~$46B/year sovereign baseline never decreases. Citizen-bequest Defense Fund grows to ~$920B; returns supplement baseline. SWF never funds military.
+- **15-year modernization:** Old regime's fleet provides bridge; converted co-ops build replacement. Pragmatic procurement, platform families, co-op production lines keep cost at $77.56B.
+- **Worker-owned defense industrial base:** Heavy Industry FCLs (51% worker) and CCJVs where corporate capital needed. Professional FCLs (100% worker) provide expertise as contractors. Defense Fund returns flow through Co-op Board into co-op investor shares—self-reinforcing cycle.
+- **Military can stop dangerous sale—but not people's will.** High Command + CMIS can force veto on arms exports; overridable by elected bodies.
+- **Aid, not empire.** Force projects outward only to save lives—72 hours in, 90 days out, no reconstruction, no extensions.
 
 ---
+
+**End of Draft 2.5**
