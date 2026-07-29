@@ -1,6 +1,6 @@
-# Crossroads Communications and Media Infrastructure Act of 2025: Draft 4.5
+# Crossroads Communications and Media Infrastructure Act of 2025: Draft 4.6
 
-**Draft:** 4.5 | **Date:** July 22, 2026
+**Draft:** 4.6 | **Date:** July 22, 2026
 **Author:** Thunderfish2
 
 ---
@@ -23,9 +23,9 @@ This model prevents monopoly capture, centralizes CME hardening, generates stead
 
 - **Energy Act 5.0:** provides the grid (~805 TWh → ~2,814 TWh by 2075, 413 GW) and CME hardening (buried lines, EMP-shielded substations); 21 antifragile hubs (including repository) ensure 99.9% uptime for broadcast and mesh nodes.
 - **Utilities Act 1.4:** the asset/operator separation model (state owns power lines, utilities sell power) is replicated (state owns fiber and towers, ISPs and media companies compete).
-- **Infrastructure Act 3.0:** buried fiber follows the same CME-proof specs as buried transmission lines; rail, ports, and airports distribute communications equipment.
-- **Monetary Act 9.9:** access fees paid in BWC, flow to SWF, subject to standard BWC transaction fees; co-op media pays the 5% co-op profit tax (over $100,000); no binding sector quotas. Loans are reference-rate-anchored (Monetary §1.5A).
-- **Credit Union Act 5.8:** media co-ops access reference-rate-anchored loans ($50,000–$5M) for studios, transmitters, and mesh nodes; micro-loans ($500, 4% nominal) for community-radio startups.
+- **Infrastructure Act 3.1:** buried fiber follows the same CME-proof specs as buried transmission lines; rail, ports, and airports distribute communications equipment.
+- **Monetary Act 9.9.1:** access fees paid in BWC, flow to SWF, subject to standard BWC transaction fees; co-op media pays the 5% co-op profit tax (over $100,000); no binding sector quotas. Loans are reference-rate-anchored (Monetary §1.5A).
+- **Credit Union Act 6.0:** media co-ops access reference-rate-anchored loans ($50,000–$5M) for studios, transmitters, and mesh nodes; micro-loans ($500, reference + 0.5% (~4%)) for community-radio startups.
 - **FCL Act 3.4:** media co-ops operate as Tier 2/3 FCLs under the progressive waterfall; co-op clubs support local content; CCIF (voluntary) may fund expansion.
 - **Sovereign Functions Act:** the NCB is chartered under the independent board registry (Chamber Act §7); Special Auditors (§3) enforce compliance.
 - **Chamber Act:** Regional Boards (§3) oversee regional media matters; independent board registry (§7).
@@ -101,7 +101,7 @@ Providers pay the NCB or Regional Boards for access to state infrastructure. Fee
 | Allocation | Share | Notes |
 | :--- | :--- | :--- |
 | Infrastructure maintenance and hardening | 50% | |
-| SWF (per Monetary 9.8, carved-out contribution) | 30% | |
+| SWF (per Monetary 9.9.1, carved-out contribution) | 30% | |
 | Rural communications fund | 20% | subsidizes remote areas |
 
 The rural fund ensures 95% rural reach (26.6M of 28M rural citizens) by 2075, funding last-mile connections in remote areas.
@@ -152,7 +152,7 @@ The rural fund ensures 95% rural reach (26.6M of 28M rural citizens) by 2075, fu
 
 New Crossroads inherited submarine cable routes from the pre-revolution regime. These are **state-owned sovereign infrastructure**, integrated into the communications backbone under NCB technical standards.
 
-Cable upgrades to high-capacity fiber are funded and executed under the **Industry Act 5.0 §2.14 (Data Center & AI Training Industry)** — the foreign tech companies that want to train AI models on the cheapest nuclear power on Earth fund the cable upgrade as their market-entry cost. The NCB coordinates technical standards, ensures integration with the buried fiber backbone, and manages the 20% sovereign-capacity reservation for government, military, and emergency use.
+Cable upgrades to high-capacity fiber are funded and executed under the **Industry Act 5.1 §2.14 (Data Center & AI Training Industry)** — the foreign tech companies that want to train AI models on the cheapest nuclear power on Earth fund the cable upgrade as their market-entry cost. The NCB coordinates technical standards, ensures integration with the buried fiber backbone, and manages the 20% sovereign-capacity reservation for government, military, and emergency use.
 
 See Industry Act §2.14 for the full incentive structure (tax holiday, electricity at generation cost, co-op partnership ramp, capacity rights).
 
@@ -289,7 +289,7 @@ A Tier 2 FCL in Region 3 (Frostpeak Mountains) starts a community radio station 
 The **National Communications Board (NCB)** — 11 members — sets access-fee rates (6/11), oversees the buried fiber backbone, the mesh network, and AM emergency transmitters, coordinates CME emergency broadcast response with the NEB, and publishes an annual communications infrastructure report.
 
 - **Composition:** 6 regional representatives, 4 experts (drawn from the regional advisory layer, Chamber Act §8), 1 chairman.
-- **Appointment:** **nominated by the Territorial Chamber (Regional Boards, 11/20), confirmed by both Productive Chambers jointly** — the uniform rule for the seven sector boards (Chamber Act §7.1). **No sovereign role** (Sovereign Functions Act §8.5).
+- **Appointment:** **nominated by the Territorial Chamber (Regional Boards, 11/20), confirmed by the Productive Chamber** — the uniform rule for the seven sector boards (Chamber Act §7.1). **No sovereign role** (Sovereign Functions Act §8.5).
 - **Removal:** by the nominating and confirming bodies jointly, or on cause established by a Special-Auditor investigation.
 - **Voting:** 6/11 operational (fee rates, licences), 8/11 regulations. Fee rates are ratified by the Territorial Chamber (11/20) — never set by the board alone.
 - **Independence:** paired with its department but subordinate to none; disputes resolved through ad-hoc arbitration (Chamber Act §6.6).
@@ -351,7 +351,7 @@ Cash payments for media services (newspapers, radio subscriptions, mesh internet
 | Co-op broadcast preference | First right of refusal | First right of refusal |
 | Loan rates | **service-sector band: reference + 0.5% to + 1.5%** (~4–5%). Reference rate ~3.5% (Monetary §1.5A) | same |
 | Fee allocation | 50% maintenance · 30% SWF · 20% rural fund (§2.3) | same |
-| NCB | Independent sector board — Territorial Chamber nominates, both Productive Chambers confirm (Chamber Act §7.1). **No sovereign role; not the NEB** | same |
+| NCB | Independent sector board — Territorial Chamber nominates, the Productive Chamber confirms (Chamber Act §7.1). **No sovereign role; not the NEB** | same |
 | Submarine cables | Inherited (pre-revolution), state-owned | Upgraded via foreign tech company partnership (Industry Act §2.14) |
 | Data architecture | PPK + CED (no CWD) | PPK + CED |
 
@@ -419,4 +419,4 @@ The state owns the fiber, towers, and submarine cables. Co-ops and corporations 
 
 ---
 
-**End of Draft 4.4**
+**End of Draft 4.6**
