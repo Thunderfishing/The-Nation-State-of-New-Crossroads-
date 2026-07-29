@@ -1,6 +1,8 @@
-# Crossroads Military Intelligence and Defense Act of 2025: Draft 2.2
+The Nation-State of New Crossroads - Military Intelligence and Defense Forces
 
-**Draft:** 2.2 | **Date:** July 22, 2026
+# Crossroads Military Intelligence and Defense Act of 2025: Draft 2.3
+
+**Draft:** 2.3 | **Date:** July 22, 2026
 **Author:** Thunderfish2
 
 ---
@@ -22,6 +24,12 @@
 ---
 
 ## Section 2: Ground Forces
+
+> **Founding context — inherited force and modernization.** New Crossroads inherits the old regime's Soviet-style military: a large conscript ground force with aging but serviceable equipment (tanks, APCs, artillery, air defence), a nuclear navy with older submarine and surface platforms, an air force of ~200 older-generation combat aircraft, and a small drone inventory. The military-industrial base — shipyards, aircraft factories, missile plants, arms manufacturers — is converted to co-op/corporate joint ventures under the same divestiture model as all other state assets (Post-Revolution Timeline §Year 0–5), retaining their workforce and institutional knowledge while gaining the co-op sector's capital access and the corporate sector's engineering partnerships.
+>
+> **The $77.56B one-time buildout** (§9.3) funds a pragmatic 15-year modernization: retire aging Soviet platforms as domestically designed and built replacements come online. The philosophy is **off-the-shelf domestic procurement wherever possible, innovation where it matters** (hypersonic missiles, drone swarms, submarine quieting), and learning from others' mistakes (avoid the F-22 Raptor's cost spiral — a $66B program that produced 187 aircraft at $350M each when a modernized F-15 could have done 80% of the job at a quarter of the price). Every platform in the §3–§4 tables is the **target force (2075)** — the end product of the buildout, not the inherited fleet.
+>
+> **What the old regime had at founding (2025):** ~80,000 ground troops (reorganized to 100,000 with reserves restructured), ~200 older combat aircraft, ~60 transports, ~15 SAR helicopters, ~500–1,000 basic drones, 3 older destroyers, 6 frigates, 12 corvettes, 15 patrol boats, 8 minesweepers, 4 older SSBNs (with older SLBMs — credible deterrent from Day 1), 6 older SSNs (torpedo-only, no VLS), ~30 older helicopters, 4 naval bases, 3 airbases, ~10 satellites. No Air Cavalry (new formation), no medevac Black Hawks (new program), no drone carriers (new platform), no hypersonic missiles (new development program).
 
 ### 2.1 Structure
 | Component | Headcount | Notes |
@@ -78,9 +86,9 @@
 
 > **The 8.2M untrained militia are armed citizens, not soldiers.** They own rifles and pistols from mandatory service (Education Act §4) and have completed the 3-month boot camp, but they have not trained since. In total war, the Territorial Chamber integrates them into the Army's command structure (§2.5); in any lesser crisis, they are a population that can be armed and dispersed but not a force that can be deployed. The two tables exist because these are two different things — a trained surge force and a national last resort — and presenting them as one number ("~10.2M") obscures the difference between 2 million people who can fight in a month and 8 million who cannot.
 
-### 2.2 Equipment (Ground Forces)
+### 2.2 Equipment (Ground Forces — Target Force)
 
-> **Largely inherited at or near target levels.** Soviet-style states over-equipped their ground forces. The counts below are what the founding army fields — mostly inherited from the old regime, serviceable, and requiring maintenance and selective modernization rather than wholesale replacement. The Air Cavalry's 80 helicopters include ~40 inherited and ~40 new-build (Phase 1). The 12 medevac Black Hawks (§2.3A) are entirely new-build.
+> **Ground equipment is largely inherited at or near these levels.** Soviet-style states over-equipped their ground forces. The counts below are the target force — most items are inherited and serviceable at founding, with selective modernization (electronics, comms, fire-control) over the buildout period rather than wholesale replacement. The Air Cavalry's 80 helicopters and 12 medevac Black Hawks are entirely new-build — the Air Cavalry does not exist at founding and is stood up during Years 1–10 as the domestically produced helicopters come off the line.
 
 **Armour & Vehicles:**
 
@@ -146,22 +154,24 @@
 
 ## Section 3: Navy
 
-### 3.1 Structure
+### 3.1 Structure (Target Force — 2075)
 
-> **Founding inventory vs. target force.** The old regime operated a significant navy — nuclear submarines, surface combatants, and coastal patrol vessels. At founding, the fleet is inherited but aging: older reactor designs, older missile systems, and deferred maintenance from the regime's final years of fiscal collapse. The **$77.56B one-time buildout** (§9) funds a 15-year modernization and expansion program — new-build submarines with modern hypersonic missile systems, additional surface combatants, and reactor refuelling. The table below shows inherited (2025) and target (2075) force structures.
+> **What the old regime's navy looked like (2025).** 3 older destroyers, 6 frigates, 12 corvettes, 15 patrol boats, 8 minesweepers, 4 SSBNs (older SLBMs — credible nuclear deterrent from Day 1), 6 SSNs (torpedo-only, no VLS capability) — ~54 vessels total, plus 4 inherited naval bases. Aging but operational. The inherited submarines provide the nuclear umbrella while the modernization builds the target fleet below.
+>
+> **The transition.** The old fleet serves through the buildout. Inherited destroyers are decommissioned as the 6 new-build replacements commission (~Years 5–15). Frigates: 6 inherited serve while 12 new-build replace and expand. Corvettes: 12 inherited, 24 new-build. The 4 inherited SSBNs receive missile system upgrades (Years 1–5) while 4 additional new-build SSBNs with hypersonic MIRVed ICBMs commission (~Years 8–15). The 6 inherited SSNs serve as torpedo boats while 16 new-build SSNs with VLS hypersonic capability replace and expand the attack submarine fleet (~Years 5–15). By ~Year 20, no inherited hull remains in service — the target fleet below is entirely new-build. The domestic shipyards (converted to co-op/corporate joint ventures at founding) build every vessel.
 
-| Ship Type | Inherited (2025) | Target (2075) | Crew/Ship | Shore Support | Notes |
-|-----------|---:|---:|-----------|---------------|-------|
-| Destroyers | 4 | 6 | ~250 | +40% | Inherited vessels serviceable; 2 new-build in Phase 1 |
-| Frigates | 8 | 12 | ~150 | +40% | 4 new-build across Phases 1–2 |
-| Corvettes | 16 | 24 | ~70 | +30% | 8 new-build across Phases 1–2 |
-| Patrol boats | 20 | 30 | ~15 | +20% | 10 new-build; inherited boats adequate for coastal patrol |
-| Minesweepers | 10 | 14 | ~40 | +30% | 4 new-build |
-| **SSBNs (nuclear-powered, ICBM)** | **4** (older SLBMs) | **8** (hypersonic MIRVed ICBMs) | ~155 | +100% (Blue/Gold) | 4 inherited with older missile systems; 4 new-build + missile modernization across Phases 1–2. Full hypersonic MIRV capability by ~Year 15 |
-| **SSNs (nuclear-powered, VLS-equipped)** | **8** (torpedo-only) | **16** (VLS hypersonic/10kt tactical) | ~80 | +100% (Blue/Gold) | 8 inherited torpedo boats; 8 new-build with VLS + retrofit program for inherited hulls |
-| Naval bases (4) + submarine base | 4 bases (inherited) | 4 + dedicated sub base | — | — | Submarine base is new construction (Phase 1) |
-| Submarine reactor maintenance facility | — | 1 | — | — | New construction (Phase 1 priority) |
-| **Total Navy** | **~70 vessels** | **110 vessels** | | | |
+| Ship Type | Count | Crew/Ship | Shore Support | Total Personnel |
+|-----------|-------|-----------|---------------|-----------------|
+| Destroyers | 6 | ~250 | +40% | ~2,100 |
+| Frigates | 12 | ~150 | +40% | ~2,520 |
+| Corvettes | 24 | ~70 | +30% | ~2,184 |
+| Patrol boats | 30 | ~15 | +20% | ~540 |
+| Minesweepers | 14 | ~40 | +30% | ~728 |
+| **SSBNs (nuclear-powered, ICBM)** | **8** | ~155 | +100% (Blue/Gold crews + reactor shore support) | ~3,720 |
+| **SSNs (nuclear-powered, VLS-equipped)** | **16** | ~80 | +100% (Blue/Gold crews + reactor shore support) | ~2,560 |
+| Naval bases (4) + submarine base | — | — | — | ~3,000 |
+| Submarine reactor maintenance facility | — | — | — | ~870 |
+| **Total Navy** | **110 vessels** | | | **~18,222** |
 
 > **All 24 submarines are nuclear-powered.** The SSBNs carry 14 ICBMs each (112 total) — the strategic deterrent. The SSNs carry **vertical launch systems (VLS) for hypersonic cruise missiles, including tactical 10-kiloton nuclear warheads** — the anti-access/area denial weapon. A single SSN can destroy a carrier battle group at 1,000+ km with nuclear-tipped hypersonics before the fleet knows it's under attack.
 >
@@ -185,8 +195,8 @@
 | Desert Port Naval Facility | Region 7 | Southern patrol & space launch support |
 
 ### 3.3 Strategic Deterrence (SSBNs)
-- **4 SSBNs inherited** (with older SLBMs), scaling to **8 SSBNs** carrying **112 hypersonic 15Mt MIRV ICBMs** (14 per submarine) by ~Year 15.
-- **Strategic nuclear deterrent:** independent, unilateral second-strike capability. The inherited 4 SSBNs provide a credible deterrent from Day 1; the buildout doubles the fleet and modernizes the missile systems.
+- **8 SSBNs** carrying **112 hypersonic 15Mt MIRV ICBMs** (14 per submarine).
+- **Strategic nuclear deterrent:** independent, unilateral second-strike capability.
 - **Funding:** Included in Navy budget; nuclear warhead maintenance is a separate line item (~$1B/year).
 
 ### 3.4 Navy Budget: **$12–15B/year**
@@ -201,23 +211,26 @@
 
 ## Section 4: Air Force (Expanded)
 
-### 4.1 Structure
+### 4.1 Structure (Target Force — 2075)
 
-> **Founding inventory vs. target force.** The old regime operated an air force of ~200 combat aircraft (older generation), ~60 transports, and ~15 SAR helicopters. The $77.56B buildout funds modernization — replacing older airframes with modern multi-role fighters, expanding the transport fleet for the Airborne Division's 2-wave doctrine, and building the drone fleet and drone carrier program from near zero. Ground equipment (§2.2) is largely inherited at or near target levels — Soviet-style states over-equipped their ground forces.
+> **What the old regime's air force looked like (2025).** ~200 older-generation combat aircraft (comparable to late-Soviet MiG-29/Su-27 class — capable but not stealth, not networked, aging avionics), ~60 transports, ~15 SAR helicopters, ~500–1,000 basic reconnaissance drones, 3 airbases. No drone carriers, no AWACS capability, no precision-guided standoff munitions. The old airframes keep QRA (quick reaction alert) running and maintain air sovereignty while the domestic aerospace co-ops design and produce the target fleet below.
+>
+> **The transition.** Phased replacement over ~15 years. The domestic aircraft industry (old Soviet aerospace factories converted to co-op/corporate joint ventures) designs a common airframe family — multi-role, anti-ship, and strike variants sharing 70%+ commonality (avoiding the F-22 mistake of a bespoke airframe with no family). The ~200 inherited aircraft are retired as the 300 modern replacements deliver. Transports scale from ~60 to 106 (the Airborne Division's 2-wave doctrine requires 53 aircraft per wave). The drone program — the largest single procurement line — starts from near zero and builds to 10,000 advanced self-guiding/fiber-optic units, with 10 flying drone carriers (an entirely new platform designed domestically). By ~Year 15, no inherited airframe remains in frontline service.
 
-| Asset | Inherited (2025) | Target (2075) | Notes |
-|-------|---:|---:|-------|
-| **Combat aircraft:** | **~200** (older generation) | **300** (modern) | Phased replacement across 15 years |
-| — Multi-role / air superiority | ~100 | 150 | Backbone — high commonality |
-| — Anti-ship / maritime strike | ~40 | 70 | Elevated priority for island A2/AD |
-| — Ground attack / strike | ~40 | 50 | Multi-role overlap |
-| — Specialised (EW/jamming, recon, tankers, AWACS) | ~20 | 30 | AWACS is a new capability |
-| Transport aircraft | ~60 | 106 | 46 new-build for Airborne 2-wave doctrine |
-| SAR helicopters (tasked to Aid Operations §7) | ~15 | 30 | 15 new-build |
-| Combat drones | ~1,000 (basic) | 10,000 (advanced, self-guiding/fiber-optic) | The largest procurement program in the buildout |
-| Flying drone carriers | 0 | 10 | New platform — no inherited equivalent |
-| Airbases (3) | 3 (inherited) | 3 (modernized) | |
-| Training/logistics/command | — | — | |
+| Asset | Count | Personnel Estimate |
+|-------|-------|--------------------|
+| **Combat aircraft (300 total):** | | |
+| — Multi-role / air superiority | 150 | ~3,750 |
+| — Anti-ship / maritime strike | 70 | ~1,750 |
+| — Ground attack / strike | 50 | ~1,250 |
+| — Specialised (EW/jamming, recon, tankers, AWACS) | 30 | ~750 |
+| Transport aircraft | 106 | ~2,500 |
+| SAR helicopters (tasked to Aid Operations §7) | 30 | ~450 |
+| Combat drones | 5,000 | ~2,000 |
+| Flying drone carriers | 10 | ~1,500 |
+| Airbases (3) | — | ~2,000 |
+| Training/logistics/command | — | ~1,500 |
+| **Total Air Force** | | **~15,500–16,500** |
 
 > **The 80 Air Cavalry helicopters and 12 medevac Black Hawks are not listed here.** They are **organic aviation** belonging to the Ground Forces — the Air Cavalry's helicopters (§2.3) and the Medical Battalion's medevac birds (§2.3A). The Air Force provides **fixed-wing transport** (tasked to the Airborne Division for parachute insertion) and **SAR helicopters** (tasked to Aid Operations for humanitarian deployment). Four air-mobile forces, four separate aircraft pools, no confusion about who owns what.
 
@@ -252,7 +265,9 @@
   - **Aid Support Division (5K field ops):** Escort 10K aid troops, manage logistics.
   - **Counterintelligence Division (3K personnel):** Internal security, counter-espionage.
 
-### 5.2 Equipment & Capabilities
+### 5.2 Equipment & Capabilities (Target Force — 2075)
+
+> **At founding (2025):** ~10 inherited satellites (older reconnaissance/comms), ~500–1,000 basic drones (shared with Air Force count above), no drone carriers, ~50 anti-satellite missiles (inherited), ~20 older EW suites, 10 signals intelligence stations (inherited, modernized in Phase 1). The satellite constellation scales from 10 to 75 as the domestic space program (CSI §6) builds launch capability.
 
 | Asset | Count | Notes |
 |---|---:|---|
@@ -268,8 +283,8 @@
 | **Total** | **~75** | | |
 
 > **Why sovereign GPS.** Relying on a foreign nation's GPS (US, Chinese, Russian, European) means that nation can deny positioning to New Crossroads at will — blinding the submarine fleet, the merchant marine, and precision agriculture simultaneously. A sovereign constellation of 24–30 satellites provides global coverage (the US GPS minimum) and eliminates a single-point strategic dependency. The civilian benefit (navigation for every ship, aircraft, farmer, and vehicle in the country) is a permanent peacetime return on a military investment.
-| Combat drones | ~1,000 (inherited) → 5,000 target | Self-guiding and fiber-optic; multi-role — ISR, strike, EW relay. Combined with Air Force drones: ~2,000 inherited → 10,000 target |
-| Flying drone carriers | 0 → 10 target | Airborne launch/recovery platforms extending drone range over ocean. New-build program |
+| Combat drones | 5,000 | Self-guiding and fiber-optic; multi-role — ISR, strike, EW relay |
+| Flying drone carriers | 10 | Airborne launch/recovery platforms extending drone range over ocean |
 | Anti-satellite missiles | 100 | Kinetic kill; ASAT capability is the space-layer deterrent |
 | Strategic EW suites | 50 | Offensive and defensive — national-level spectrum dominance, network defence. **Separate from tactical EW (§2.2):** CMIS handles strategic/national; the Army handles battlefield |
 | Signals intelligence stations | 10 | 5 east coast, 5 west coast — maritime surveillance, COMINT, threat picture |
@@ -439,8 +454,17 @@ The **civilian** enrichment and fuel fabrication plants are co-op-operated, fund
   **All domestic. No foreign exposure.** The fund's returns come from the economy it exists to defend. The allocation is published, reviewed annually by the Financial Services Committee (Chamber Act §6.7), and may not be altered by the Sovereign Council — the same anti-discretion rule as every other formula in the system. The channels are the same five as the Citizen Savings Pool (Credit Union Act §4.5), weighted differently: more lending book and metals (safety), less co-op equity and housing (the fund must be liquid enough to survive a mobilisation without fire-selling assets).
 
 
-### 9.3 One-Time Buildout
+### 9.3 One-Time Buildout & Military-Industrial Conversion
 - The **$77.56B** buildout is a **one-time capital expense** for bases (naval, air, regular forces, border forts) and initial procurement, amortized over the early years.
+
+**Military-industrial conversion (Post-Revolution Timeline §Year 0–5).** The old regime's military-industrial complex — shipyards, aircraft factories, engine plants, missile manufacturers, electronics shops, ammunition plants — is converted to **co-op/corporate joint ventures** under the same divestiture model as all other non-sovereign state assets. Workers become co-op members; engineering partnerships with domestic and (where necessary) foreign corporate partners bring modern design capability. The converted enterprises then build the entire target force domestically:
+
+- **Shipyards** → submarine and surface-vessel co-ops. Build all 110 target vessels over 15 years, including 8 SSBNs and 16 SSNs with domestically developed nuclear propulsion (the naval reactor program, §8, is sovereign — the hulls are co-op-built around it).
+- **Aerospace** → aircraft and drone co-ops. Design the common airframe family (multi-role/anti-ship/strike), produce 300 combat aircraft and 106 transports, and build the 10,000-drone fleet and 10 drone carriers.
+- **Missile plants** → hypersonic missile co-ops. Develop and produce the VLS hypersonic cruise missiles (conventional and 10kt tactical nuclear) for the SSN fleet and the MIRVed ICBMs for the SSBNs. The hypersonic program is the single highest-priority development effort.
+- **Arms manufacturers** → small arms, ammunition, vehicle, and electronics co-ops. Modernize ground-force equipment (fire control, comms, sensors) and produce the Air Cavalry's 80 helicopters and 12 medevac Black Hawks.
+
+**Procurement philosophy: pragmatic, domestic, off-the-shelf where possible.** The F-22 Raptor cost $350M per aircraft because Lockheed built a bespoke airframe with no variants, no export, and no commonality. New Crossroads designs platform families — a common hull for frigates and corvettes, a common airframe for three fighter roles, a common drone chassis for ISR/strike/EW. Commonality reduces unit cost, simplifies logistics, and lets the co-op factories run longer production lines. Where a proven foreign design can be licensed and built domestically rather than developed from scratch, it is — the goal is a modern force in 15 years, not a prestige engineering project in 30.
 
 ---
 
@@ -473,73 +497,26 @@ Crossroads ranks alongside:
 **Below only:** United States, China.
 
 **Why Tier‑2?**
-- 4 inherited SSBNs scaling to 8 with 112 hypersonic 15Mt MIRV ICBMs → strategic deterrence equal to major nuclear powers.
-- 16 SSNs → serious underwater warfare capability.
-- ~2,000 inherited drones scaling to 10,000+ → drone-centric doctrine; cheap to lose, expensive to attack.
+- 4 inherited SSBNs (credible deterrent from Day 1), scaling to 8 with 112 hypersonic 15Mt MIRV ICBMs → strategic deterrence equal to major nuclear powers.
+- 6 inherited SSNs scaling to 16 VLS-equipped → serious underwater warfare capability.
+- ~1,000 inherited drones scaling to 10,000+ advanced → drone-centric doctrine; cheap to lose, expensive to attack.
 - $920B Defense Fund → long-term financial independence.
 - **~178K active military** (Army 100K + Navy ~18K + Air Force ~21K + CMIS 25K + Nuclear Directorate ~12.5K + Space 2K) — lean professional force backed by 1M tiered reserves and 9.1M militia.
 - CMIS (25K → 50K) → strong cyber, EW, satellite control.
 
 ### 11.2 2075 Force Projection
 
-| Branch | 2025 (Inherited) | 2075 (Target) |
+| Branch | 2025 (Inherited) | 2075 (All New-Build Target Force) |
 |--------|------|------|
 | Active forces (all branches) | **~178K** | ~200K |
-| Destroyers | 4 | 6 |
-| Frigates | 8 | 12 |
-| Corvettes | 16 | 24 |
-| Patrol boats | 20 | 30 |
-| Minesweepers | 10 | 14 |
-| SSBNs (nuclear, ICBM) | 4 (older SLBMs) | 8 (hypersonic MIRVed ICBMs) |
-| SSNs (nuclear) | 8 (torpedo-only) | 16 (VLS hypersonic/10kt tactical) |
-| **Navy total** | **~70 vessels** | **110 vessels** |
-| Combat aircraft | ~200 (older generation) | 300 (150 multi-role, 70 anti-ship, 50 strike, 30 specialised) |
-| Transport aircraft | ~60 | 106 |
-| SAR helicopters | ~15 | 30 |
-| Combat drones (all branches) | ~2,000 (basic) | 10,000+ (advanced) |
-| Flying drone carriers | 0 | 10 |
-| Army helicopters (Air Cavalry) | ~40 | 80 |
-| Medevac Black Hawks | 0 | 12 |
+| Navy | ~54 vessels: 3 destroyers, 6 frigates, 12 corvettes, 15 patrol boats, 8 minesweepers, 4 SSBNs (older SLBMs), 6 SSNs (torpedo-only) | 110 vessels (all new-build): 6 destroyers, 12 frigates, 24 corvettes, 30 patrol boats, 14 minesweepers, **8 SSBNs (hypersonic MIRV ICBMs), 16 SSNs (VLS hypersonic/10kt tactical)** — all submarines nuclear-powered |
+| Air Force | ~200 older combat aircraft, ~60 transports, ~15 SAR helos, ~1,000 basic drones, 0 drone carriers | 300 combat aircraft (all new-build: 150 multi-role, 70 anti-ship, 50 strike, 30 specialised), 106 transport, 30 SAR helicopters, **10K advanced drones**, 10 drone carriers |
+| Ground Forces aviation | ~30 older helicopters (inherited); no Air Cavalry, no medevac | **80 Air Cavalry helicopters + 12 medevac Black Hawks** (all new-build, organic to Ground Forces §2.3/§2.3A) |
 | CMIS | 25K | 50K |
 | CSI | 3K | 6K |
-| Satellites | 10 | 75 |
+| Satellites | ~10 (inherited) | 75 (all new-build: ~25 military, ~30 GPS, ~15 civilian) |
 | Defense Fund | ~$100B (building) | ~$920B |
 | Annual budget | **~$51B** ($46B sovereign + ~$5B endowment draw) | **~$65–71B** ($46B sovereign + ~$19–25B endowment draw) |
-
----
-
-## Key Stats (2025–2075)
-
-| Metric | 2025 | 2075 |
-|--------|------|------|
-| Active military (all branches) | **~178K** | ~200K |
-| Navy personnel | ~12,800–13,500 | ~12,800–13,500+ |
-| Air Force personnel | ~15,000–16,000 | ~15,000–16,000+ |
-| CMIS personnel | 25K | 50K |
-| CSI personnel | 3K | 6K |
-| Ground Forces | 100K active, 1M reserves, 9.1M militia | same |
-| **Total annual budget** | **~$51B** ($46B sovereign + ~$5B Defense Fund returns) | **$65–71B** (Defense Fund returns eventually cover the full budget) |
-| **Sovereign revenue allocation** (Sovereign Functions Act §7) | ~$46B | declining — as Defense Fund returns grow, the sovereign share shrinks |
-| Defense Fund supplement (**returns only; principal locked**) | ~$5B (draw) | ~$19–25B (draw); returns ~$46B, remainder compounds |
-| Defense Fund endowment (outside the SWF and its 12% cap) | ~$100B | ~$920B |
-| One-time buildout | ~$77.56B | amortized |
-| Destroyers | 4 (inherited) | 6 |
-| Frigates | 8 (inherited) | 12 |
-| Corvettes | 16 (inherited) | 24 |
-| Patrol boats | 20 (inherited) | 30 |
-| Minesweepers | 10 (inherited) | 14 |
-| SSBNs (ICBM submarines) | 4 (inherited, older SLBMs) | 8 (hypersonic MIRVed ICBMs) |
-| SSNs (nuclear-powered) | 8 (inherited, torpedo-only) | 16 (VLS hypersonic/10kt tactical) |
-| Combat aircraft | ~200 (inherited, older generation) | 300 (150 multi-role, 70 anti-ship, 50 strike, 30 specialised) |
-| Transport aircraft | ~60 (inherited) | 106 |
-| Combat drones | ~2,000 (inherited, basic) | 10,000+ (advanced, self-guiding/fiber-optic) |
-| Flying drone carriers | 0 | 10 |
-| Army helicopters (Air Cavalry) | ~40 (inherited) + 12 medevac Black Hawks (new) | 80 + 12 medevac |
-| National satellite constellation (military/GPS/civilian) | 10 (inherited) | 75 (~25 military, ~30 GPS, ~15 civilian) |
-| Anti-satellite missiles | 100 | 100 |
-| Doctrine | Lean, drone-focused | Lean, drone-focused |
-| Global power rating | Tier‑2 | Tier‑2 (8.6/10) |
-| Funding bar | **Never the SWF** (Sovereign Functions Act §5.4 — no defense exception); never issuance; never debt | same |
 
 ---
 
@@ -568,7 +545,7 @@ New Crossroads builds a military that is **lean by design and well-funded by two
 
 - **Funded twice — a stable allocation plus a growing endowment.** Sovereign revenue provides a stable ~$46B/year baseline that never decreases. The citizen-bequest Defense Fund builds over fifty years to ~$920B, whose returns supplement the baseline to fund the expanded force. **The ~$46B sovereign allocation stays steady; the endowment pays for the expansion.** The SWF may never fund military operations (Sovereign Functions Act §5.4 — no defense exception).
 
-- **A navy and air force that matter.** Inherited: 4 SSBNs, 8 SSNs, ~70 surface vessels, ~200 combat aircraft, ~2,000 drones. Target: 8 SSBNs with 112 ICBMs, 16 VLS-equipped SSNs, 110 surface vessels, 10,000 drones, 300 modern combat aircraft, and 106 transport aircraft — enough to make any adversary think twice. The $77.56B buildout closes the gap over 15 years.
+- **A navy and air force built from scratch in 15 years.** The old regime's aging fleet provides the bridge; the converted military-industrial co-ops build the replacement. By 2040: 8 SSBNs with 112 ICBMs, 16 VLS-equipped SSNs, 6 destroyers, 12 frigates, 24 corvettes, 30 patrol boats, 14 minesweepers, 10,000 advanced drones, 300 modern combat aircraft, 106 transports, 80 Air Cavalry helicopters, and 12 medevac Black Hawks — all domestically designed, domestically built, and nothing inherited still in service. Pragmatic procurement, platform families, and co-op production lines keep the cost at $77.56B — less than two years of the mature military budget.
 
 - **The military can stop a dangerous sale — but not the people's will.** High Command and intelligence can force a veto on any arms or aerospace export they judge a proliferation risk, keeping advanced weapons out of adversaries' hands. But that veto is overridable by the elected bodies exactly like any other. Expertise informs; democracy decides.
 
@@ -578,4 +555,4 @@ A lean military, funded by a stable allocation and a growing endowment, that def
 
 ---
 
-**End of Draft 2.2**
+**End of Draft 2.3**
