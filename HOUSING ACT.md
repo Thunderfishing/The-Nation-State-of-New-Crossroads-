@@ -211,9 +211,6 @@ All housing loans are reference-rate-anchored nominal rates (Monetary §1.5A).
 - **Independence & pairing:** the NHA is an **independent board paired, in consultation, with the Industry & Infrastructure department** — it sets housing standards and administers the Housing SWF; the department implements. Neither is subordinate to the other; disputes resolved through ad-hoc arbitration (Chamber Act §6.6).
 - **Voting:** 6/11 routine, 8/11 strategic; **major investments ratified by the Territorial Chamber (11/20)** — not the sovereign.
 
-> **The fourth board found running on a rule the registry does not contain.** Prior drafts had the NHA *"appointed by the Sovereign Council (5/7)"* with *"Sovereign Council approval for major investments."* **Sovereign Functions Act §8.5** bars the sovereign from domestic sector policy; **Chamber Act §7** states it directly: *"board appointment is a chamber function."* The NHA is the seventh board on that registry. The Exchange (Co-op Capital Index), Industry (NIB), and Energy (NEB) carried the same defect — **four acts, nine instances, each written independently and none checked against the bar.** The pattern is worth naming: sector acts describe a board and reach for the nearest executive to appoint it, because that is what boards look like in every other country.
-- **Functions:** manage the Housing SWF — ~**$9B (2025)** rising to ~**$88B (2075)** of **revolving** co-op construction capital (§8) — reference-rate-anchored housing loans, geothermal rebates, and DCALS compliance.
-
 ### 7.2 Regional Boards
 - 20 boards (220 members) per Chamber Act §3; approve FCL/corporate projects (co-op preference), distribute subsidies, enforce mandates, verify DCALS compliance.
 
