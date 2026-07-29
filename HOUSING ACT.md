@@ -1,6 +1,6 @@
-# Crossroads Housing Act of 2025: Draft 2.6
+# Crossroads Housing Act of 2025: Draft 2.7
 
-**Draft:** 2.6 | **Date:** July 22, 2026
+**Draft:** 2.7 | **Date:** July 22, 2026
 **Author:** Thunderfish2
 
 ---
@@ -13,9 +13,9 @@
 
 The Housing Act establishes the shelter foundation of New Crossroads, promoting **Durahomes** — modular homes built with hempcrete and low-carbon concrete, featuring earthship-inspired passive design — to achieve **86% homeownership (96M citizens) by 2085.**
 
-Funded by the **SWF (capped at 12% of GDP, ~$230B → ~$2.28T, per Monetary Act 9.9)**, a **$94B Forced Savings base (scaling with population)**, and **reference-rate-anchored service-sector housing loans**, it facilitates co-op/corporate production of materials and greenhouses (leased to co-ops), transitioning to a free market by 2035.
+Funded by the **SWF (capped at 12% of GDP, ~$230B → ~$2.28T, per Monetary Act 9.9.1)**, a **$94B Forced Savings base (scaling with population)**, and **reference-rate-anchored service-sector housing loans**, it facilitates co-op/corporate production of materials and greenhouses (leased to co-ops), transitioning to a free market by 2035.
 
-Co-op housing FCLs pay the 5% co-op profit tax on profit over $100,000 (no SWF contribution); **no co-op SWF recharge** (eliminated per Monetary 9.8). No binding sector quotas — co-op preference is first right of refusal; the 65% 2025 figure is a descriptive baseline.
+Co-op housing FCLs pay the 5% co-op profit tax on profit over $100,000 (no SWF contribution); **no co-op SWF recharge** (eliminated per Monetary 9.9.1). No binding sector quotas — co-op preference is first right of refusal; the 65% 2025 figure is a descriptive baseline.
 
 ---
 
@@ -23,15 +23,15 @@ Co-op housing FCLs pay the 5% co-op profit tax on profit over $100,000 (no SWF c
 
 | Act | Integration Point |
 | :--- | :--- |
-| **Monetary Act 9.9** | Reference-rate-anchored service-sector housing loans (Monetary §1.5A); Informal Economy Guarantee; asymmetric scrutiny; SWF capped at 12% GDP; co-op profit tax 5% (no SWF recharge); Forced Savings (~$94B base); no binding quotas |
-| **Credit Union Act 5.8** | Micro-loans/micro-mortgages for informal housing; embedded CLS loan officers (demand-distributed) |
+| **Monetary Act 9.9.1** | Reference-rate-anchored service-sector housing loans (Monetary §1.5A); Informal Economy Guarantee; asymmetric scrutiny; SWF capped at 12% GDP; co-op profit tax 5% (no SWF recharge); Forced Savings (~$94B base); no binding quotas |
+| **Credit Union Act 6.0** | Micro-loans/micro-mortgages for informal housing; embedded CLS loan officers (demand-distributed) |
 | **FCL Act 3.4** | Housing co-ops structured as FCLs (Tier 1–3); CCJV provisions for mixed ownership; ~195,100 core FCLs available for housing production |
 | **Sovereign Functions Act** | The NHA is an independent board chartered under the independent board registry; Special Auditors (§3) enforce compliance |
 | **Chamber Act** | Regional Boards (§3) approve projects and verify compliance; independent board registry (§7) |
 | **Municipal & Regional Funding Act** | **Residential land/homes are never taxed** — the guarantee that a homeowner is never taxed back into tenancy; DCLTI applies only to taxable commercial/industrial housing facilities |
-| **Infrastructure Act 3.0** | DCALS/DCLTI dark-corridor standards for housing near elevated insect corridors; retroreflective paint program |
-| **Energy Act 5.0** | Grid powers homes; geothermal heat-pump integration in feasible regions; SMR-hub resilience |
-| **Industry Act 5.0** | Hempcrete, low-carbon concrete, hemp fiberboard, and heat-pump production |
+| **Infrastructure Act 3.1** | DCALS/DCLTI dark-corridor standards for housing near elevated insect corridors; retroreflective paint program |
+| **Energy Act 5.1** | Grid powers homes; geothermal heat-pump integration in feasible regions; SMR-hub resilience |
+| **Industry Act 5.1** | Hempcrete, low-carbon concrete, hemp fiberboard, and heat-pump production |
 
 ---
 
@@ -51,25 +51,25 @@ Cash housing payments are accepted at all credit-union kiosks with no fee and no
 
 ### 1.2 Reference-Rate-Anchored Loans for Housing
 
-All housing loans (construction, mortgages, geothermal retrofits, material production) receive the **low service-sector nominal rate**. There is no DAI or BAR mechanism.
+All housing loans (construction, mortgages, geothermal retrofits, material production) receive the **service-sector band: reference + 0.5% to + 1.5% (~4–5% at founding rates)** — below the standard commercial band (reference + 2%, ~5.5%) by design. There is no DAI or BAR mechanism.
 
 | Loan Type | Service-sector rate |
 | :--- | :--- |
-| Durahome construction (co-op) | Set below the reference rate (Monetary §1.5A) |
-| Geothermal retrofit | Set below the reference rate |
-| Hempcrete plant (co-op) | Set below the reference rate |
-| Mortgage (primary residence) | Set below the reference rate |
-| Non-Durahome construction | Set below the reference rate |
+| Durahome construction (co-op) | Reference + 0.5% to + 1.5% (~4–5%), the service-sector band (Monetary §1.5A) |
+| Geothermal retrofit | Service-sector band: reference + 0.5% to + 1.5% (~4–5%) |
+| Hempcrete plant (co-op) | Service-sector band: reference + 0.5% to + 1.5% (~4–5%) |
+| Mortgage (primary residence) | Service-sector band: reference + 0.5% to + 1.5% (~4–5%) |
+| Non-Durahome construction | Service-sector band: reference + 0.5% to + 1.5% (~4–5%) |
 
-### 1.3 Informal Sector Housing Access (per Credit Union Act 5.8)
+### 1.3 Informal Sector Housing Access (per Credit Union Act 6.0)
 
-Informal workers and cash-based citizens have automatic access to micro-loans (~$500, 4% nominal, self-attested income, no documentation, 24hr CLS approval) for housing expenses; the Basic Wallet (BWC access without formal income history); and a rule that credit unions may not require disclosure of cash transaction history for housing loans under $500,000.
+Informal workers and cash-based citizens have automatic access to micro-loans (~$500, reference + 0.5% (~4%), self-attested income, no documentation, 24hr CLS approval) for housing expenses; the Basic Wallet (BWC access without formal income history); and a rule that credit unions may not require disclosure of cash transaction history for housing loans under $500,000.
 
 ### 1.4 Co-op Housing Preference
 
 Housing construction contracts, material-production licenses, and greenhouse leases are issued preferentially to co-ops (first right of refusal). A structural preference, not a binding quota.
 
-### 1.5 Dark Corridor Compliance for Housing (per Infrastructure Act 3.0)
+### 1.5 Dark Corridor Compliance for Housing (per Infrastructure Act 3.1)
 
 Housing developments, geothermal compounds, and material-production facilities within 500m of elevated freeway insect corridors must comply with DCALS: indirect red-spectrum motion lighting only (scaled by square footage), retroreflective markers (no powered edge lighting), retroreflective building paint as an alternative pathway, and no horizon-visible emission.
 
@@ -98,7 +98,7 @@ Durahomes are modular hempcrete/low-carbon-concrete homes with passive design an
 - **Savings:** ~$1,200/year standard; up to ~$3,000/year in geothermal regions (~$30,000/10 years).
 
 ### 2.3 DCALS Compliance for Geothermal Compounds
-Geothermal drilling sites and heat-pump manufacturing facilities within 500m of elevated freeway insect corridors must comply with DCALS (Infrastructure Act 3.0). As commercial/industrial facilities, these are eligible for the DCLTI property-tax reduction (per §1.5).
+Geothermal drilling sites and heat-pump manufacturing facilities within 500m of elevated freeway insect corridors must comply with DCALS (Infrastructure Act 3.1). As commercial/industrial facilities, these are eligible for the DCLTI property-tax reduction (per §1.5).
 
 ---
 
@@ -134,7 +134,7 @@ Geothermal drilling sites and heat-pump manufacturing facilities within 500m of 
 - **Subsidies:** ~$7,000 per home.
 - **Withdrawals:** ~$75,000.
 - **Geothermal rebate:** ~$5,000.
-- **Co-op tax rate:** 5% profit tax over $100k (per Monetary 9.8). **SWF contribution: $0 (eliminated).**
+- **Co-op tax rate:** 5% profit tax over $100k (per Monetary 9.9.1). **SWF contribution: $0 (eliminated).**
 
 ### 3.3 Private Property Grants
 - 10,000 grants, supporting ~200,000 private Durahomes/year by 2035; geothermal grants ~$2,000 for private homes in feasible regions.
@@ -143,10 +143,10 @@ Geothermal drilling sites and heat-pump manufacturing facilities within 500m of 
 
 | Loan Type | Source | Service-sector rate |
 | :--- | :--- | :--- |
-| Co-op construction | SWF | Set below the reference rate |
-| Private mortgage | Credit unions | Set below the reference rate |
-| Geothermal retrofit | CLS | Set below the reference rate |
-| Non-Durahome | Credit unions | Set below the reference rate |
+| Co-op construction | SWF | Service-sector band: reference + 0.5% to + 1.5% (~4–5%) |
+| Private mortgage | Credit unions | Service-sector band: reference + 0.5% to + 1.5% (~4–5%) |
+| Geothermal retrofit | CLS | Service-sector band: reference + 0.5% to + 1.5% (~4–5%) |
+| Non-Durahome | Credit unions | Service-sector band: reference + 0.5% to + 1.5% (~4–5%) |
 
 All housing loans are reference-rate-anchored nominal rates (Monetary §1.5A).
 
@@ -177,7 +177,7 @@ All housing loans are reference-rate-anchored nominal rates (Monetary §1.5A).
 - Feasible: Regions 4, 9, 16 (Ember Range, <200m depth). Infeasible regions use solar microgrids or electric heating.
 
 ### 5.2 DCALS Compliance
-- Geothermal drilling sites, heat-pump manufacturing, and geothermal-compound housing developments within 500m of elevated insect corridors comply with DCALS (Infrastructure Act 3.0).
+- Geothermal drilling sites, heat-pump manufacturing, and geothermal-compound housing developments within 500m of elevated insect corridors comply with DCALS (Infrastructure Act 3.1).
 
 ### 5.3 Incentives
 - Co-op rebate ~$5,000; private grant ~$2,000; tax credits eliminated (replaced by the 5% profit tax over $100k); loans reference-rate-anchored at the service-sector rate.
@@ -206,7 +206,7 @@ All housing loans are reference-rate-anchored nominal rates (Monetary §1.5A).
 *(Renamed from "National Housing Board / NHB" to resolve the acronym collision with the National Healthcare Board.)*
 
 - **Composition:** 11 members (6 Regional Board reps, 4 experts, 1 chair).
-- **Appointment:** **nominated by the Territorial Chamber (Regional Boards, 11/20), confirmed by both Productive Chambers jointly** — the uniform rule for the seven sector boards (Chamber Act §7.1).
+- **Appointment:** **nominated by the Territorial Chamber (Regional Boards, 11/20), confirmed by the Productive Chamber** — the uniform rule for the seven sector boards (Chamber Act §7.1).
 - **Removal:** by the nominating and confirming bodies jointly, or on cause established by a Special-Auditor investigation.
 - **Independence & pairing:** the NHA is an **independent board paired, in consultation, with the Industry & Infrastructure department** — it sets housing standards and administers the Housing SWF; the department implements. Neither is subordinate to the other; disputes resolved through ad-hoc arbitration (Chamber Act §6.6).
 - **Voting:** 6/11 routine, 8/11 strategic; **major investments ratified by the Territorial Chamber (11/20)** — not the sovereign.
@@ -255,7 +255,7 @@ Housing transactions follow the tiered privacy model in §1.1. Cash rent and mic
 | CO₂ offset | 100,000 tons/year | 450,000 tons/year |
 | DCALS-certified developments | 0 | 10,000+ |
 | Residential land/home tax | **None, at any level** — federal, regional, or municipal (Chamber Act §11, Floor 2; Sovereign Functions Act §8.2) | None |
-| NHA | Independent sector board — Territorial Chamber nominates, both Productive Chambers confirm (Chamber Act §7.1). **No sovereign role** | same |
+| NHA | Independent sector board — Territorial Chamber nominates, the Productive Chamber confirms (Chamber Act §7.1). **No sovereign role** | same |
 | Data architecture | PPK + CED (no CWD) | PPK + CED |
 
 > **The Housing SWF, derived — and the three figures it replaces.** Prior drafts stated the allocation three ways: §3.2 said co-op housing funding was **~$50B/year**; §7.1 called it a **~$150B fund**; §8 called it a **~$150B/year allocation**. A fund and a flow are not the same object, and none of the three survived contact with what actually gets built.
@@ -288,4 +288,4 @@ When a family moves into a Durahome, pays a cost-of-living-indexed mortgage they
 
 ---
 
-**End of Draft 2.6**
+**End of Draft 2.7**
