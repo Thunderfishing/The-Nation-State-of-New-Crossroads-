@@ -80,6 +80,8 @@
 
 ### 2.2 Equipment (Ground Forces)
 
+> **Largely inherited at or near target levels.** Soviet-style states over-equipped their ground forces. The counts below are what the founding army fields — mostly inherited from the old regime, serviceable, and requiring maintenance and selective modernization rather than wholesale replacement. The Air Cavalry's 80 helicopters include ~40 inherited and ~40 new-build (Phase 1). The 12 medevac Black Hawks (§2.3A) are entirely new-build.
+
 **Armour & Vehicles:**
 
 | Equipment | Count | Notes |
@@ -146,18 +148,20 @@
 
 ### 3.1 Structure
 
-| Ship Type | Count | Crew/Ship | Shore Support | Total Personnel |
-|-----------|-------|-----------|---------------|-----------------|
-| Destroyers | 6 | ~250 | +40% | ~2,100 |
-| Frigates | 12 | ~150 | +40% | ~2,520 |
-| Corvettes | 24 | ~70 | +30% | ~2,184 |
-| Patrol boats | 30 | ~15 | +20% | ~540 |
-| Minesweepers | 14 | ~40 | +30% | ~728 |
-| **SSBNs (nuclear-powered, ICBM)** | **8** | ~155 | +100% (Blue/Gold crews + reactor shore support) | ~3,720 |
-| **SSNs (nuclear-powered, VLS-equipped)** | **16** | ~80 | +100% (Blue/Gold crews + reactor shore support) | ~2,560 |
-| Naval bases (4) + submarine base | — | — | — | ~3,000 |
-| Submarine reactor maintenance facility | — | — | — | ~870 |
-| **Total Navy** | **110 vessels** | | | **~18,222** |
+> **Founding inventory vs. target force.** The old regime operated a significant navy — nuclear submarines, surface combatants, and coastal patrol vessels. At founding, the fleet is inherited but aging: older reactor designs, older missile systems, and deferred maintenance from the regime's final years of fiscal collapse. The **$77.56B one-time buildout** (§9) funds a 15-year modernization and expansion program — new-build submarines with modern hypersonic missile systems, additional surface combatants, and reactor refuelling. The table below shows inherited (2025) and target (2075) force structures.
+
+| Ship Type | Inherited (2025) | Target (2075) | Crew/Ship | Shore Support | Notes |
+|-----------|---:|---:|-----------|---------------|-------|
+| Destroyers | 4 | 6 | ~250 | +40% | Inherited vessels serviceable; 2 new-build in Phase 1 |
+| Frigates | 8 | 12 | ~150 | +40% | 4 new-build across Phases 1–2 |
+| Corvettes | 16 | 24 | ~70 | +30% | 8 new-build across Phases 1–2 |
+| Patrol boats | 20 | 30 | ~15 | +20% | 10 new-build; inherited boats adequate for coastal patrol |
+| Minesweepers | 10 | 14 | ~40 | +30% | 4 new-build |
+| **SSBNs (nuclear-powered, ICBM)** | **4** (older SLBMs) | **8** (hypersonic MIRVed ICBMs) | ~155 | +100% (Blue/Gold) | 4 inherited with older missile systems; 4 new-build + missile modernization across Phases 1–2. Full hypersonic MIRV capability by ~Year 15 |
+| **SSNs (nuclear-powered, VLS-equipped)** | **8** (torpedo-only) | **16** (VLS hypersonic/10kt tactical) | ~80 | +100% (Blue/Gold) | 8 inherited torpedo boats; 8 new-build with VLS + retrofit program for inherited hulls |
+| Naval bases (4) + submarine base | 4 bases (inherited) | 4 + dedicated sub base | — | — | Submarine base is new construction (Phase 1) |
+| Submarine reactor maintenance facility | — | 1 | — | — | New construction (Phase 1 priority) |
+| **Total Navy** | **~70 vessels** | **110 vessels** | | | |
 
 > **All 24 submarines are nuclear-powered.** The SSBNs carry 14 ICBMs each (112 total) — the strategic deterrent. The SSNs carry **vertical launch systems (VLS) for hypersonic cruise missiles, including tactical 10-kiloton nuclear warheads** — the anti-access/area denial weapon. A single SSN can destroy a carrier battle group at 1,000+ km with nuclear-tipped hypersonics before the fleet knows it's under attack.
 >
@@ -181,8 +185,8 @@
 | Desert Port Naval Facility | Region 7 | Southern patrol & space launch support |
 
 ### 3.3 Strategic Deterrence (SSBNs)
-- **8 SSBNs** carrying **112 hypersonic 15Mt MIRV ICBMs** (14 per submarine).
-- **Strategic nuclear deterrent:** independent, unilateral second-strike capability.
+- **4 SSBNs inherited** (with older SLBMs), scaling to **8 SSBNs** carrying **112 hypersonic 15Mt MIRV ICBMs** (14 per submarine) by ~Year 15.
+- **Strategic nuclear deterrent:** independent, unilateral second-strike capability. The inherited 4 SSBNs provide a credible deterrent from Day 1; the buildout doubles the fleet and modernizes the missile systems.
 - **Funding:** Included in Navy budget; nuclear warhead maintenance is a separate line item (~$1B/year).
 
 ### 3.4 Navy Budget: **$12–15B/year**
@@ -199,20 +203,21 @@
 
 ### 4.1 Structure
 
-| Asset | Count | Personnel Estimate |
-|-------|-------|--------------------|
-| **Combat aircraft (300 total):** | | |
-| — Multi-role / air superiority | 150 | ~3,750 |
-| — Anti-ship / maritime strike | 70 | ~1,750 |
-| — Ground attack / strike | 50 | ~1,250 |
-| — Specialised (EW/jamming, recon, tankers, AWACS) | 30 | ~750 |
-| Transport aircraft | 106 | ~2,500 |
-| SAR helicopters (tasked to Aid Operations §7) | 30 | ~450 |
-| Combat drones | 5,000 | ~2,000 |
-| Flying drone carriers | 10 | ~1,500 |
-| Airbases (3) | — | ~2,000 |
-| Training/logistics/command | — | ~1,500 |
-| **Total Air Force** | | **~15,500–16,500** |
+> **Founding inventory vs. target force.** The old regime operated an air force of ~200 combat aircraft (older generation), ~60 transports, and ~15 SAR helicopters. The $77.56B buildout funds modernization — replacing older airframes with modern multi-role fighters, expanding the transport fleet for the Airborne Division's 2-wave doctrine, and building the drone fleet and drone carrier program from near zero. Ground equipment (§2.2) is largely inherited at or near target levels — Soviet-style states over-equipped their ground forces.
+
+| Asset | Inherited (2025) | Target (2075) | Notes |
+|-------|---:|---:|-------|
+| **Combat aircraft:** | **~200** (older generation) | **300** (modern) | Phased replacement across 15 years |
+| — Multi-role / air superiority | ~100 | 150 | Backbone — high commonality |
+| — Anti-ship / maritime strike | ~40 | 70 | Elevated priority for island A2/AD |
+| — Ground attack / strike | ~40 | 50 | Multi-role overlap |
+| — Specialised (EW/jamming, recon, tankers, AWACS) | ~20 | 30 | AWACS is a new capability |
+| Transport aircraft | ~60 | 106 | 46 new-build for Airborne 2-wave doctrine |
+| SAR helicopters (tasked to Aid Operations §7) | ~15 | 30 | 15 new-build |
+| Combat drones | ~1,000 (basic) | 10,000 (advanced, self-guiding/fiber-optic) | The largest procurement program in the buildout |
+| Flying drone carriers | 0 | 10 | New platform — no inherited equivalent |
+| Airbases (3) | 3 (inherited) | 3 (modernized) | |
+| Training/logistics/command | — | — | |
 
 > **The 80 Air Cavalry helicopters and 12 medevac Black Hawks are not listed here.** They are **organic aviation** belonging to the Ground Forces — the Air Cavalry's helicopters (§2.3) and the Medical Battalion's medevac birds (§2.3A). The Air Force provides **fixed-wing transport** (tasked to the Airborne Division for parachute insertion) and **SAR helicopters** (tasked to Aid Operations for humanitarian deployment). Four air-mobile forces, four separate aircraft pools, no confusion about who owns what.
 
@@ -263,8 +268,8 @@
 | **Total** | **~75** | | |
 
 > **Why sovereign GPS.** Relying on a foreign nation's GPS (US, Chinese, Russian, European) means that nation can deny positioning to New Crossroads at will — blinding the submarine fleet, the merchant marine, and precision agriculture simultaneously. A sovereign constellation of 24–30 satellites provides global coverage (the US GPS minimum) and eliminates a single-point strategic dependency. The civilian benefit (navigation for every ship, aircraft, farmer, and vehicle in the country) is a permanent peacetime return on a military investment.
-| Combat drones | 5,000 | Self-guiding and fiber-optic; multi-role — ISR, strike, EW relay |
-| Flying drone carriers | 10 | Airborne launch/recovery platforms extending drone range over ocean |
+| Combat drones | ~1,000 (inherited) → 5,000 target | Self-guiding and fiber-optic; multi-role — ISR, strike, EW relay. Combined with Air Force drones: ~2,000 inherited → 10,000 target |
+| Flying drone carriers | 0 → 10 target | Airborne launch/recovery platforms extending drone range over ocean. New-build program |
 | Anti-satellite missiles | 100 | Kinetic kill; ASAT capability is the space-layer deterrent |
 | Strategic EW suites | 50 | Offensive and defensive — national-level spectrum dominance, network defence. **Separate from tactical EW (§2.2):** CMIS handles strategic/national; the Army handles battlefield |
 | Signals intelligence stations | 10 | 5 east coast, 5 west coast — maritime surveillance, COMINT, threat picture |
@@ -468,9 +473,9 @@ Crossroads ranks alongside:
 **Below only:** United States, China.
 
 **Why Tier‑2?**
-- 8 SSBNs with 112 hypersonic 15Mt MIRV ICBMs → strategic deterrence equal to major nuclear powers.
+- 4 inherited SSBNs scaling to 8 with 112 hypersonic 15Mt MIRV ICBMs → strategic deterrence equal to major nuclear powers.
 - 16 SSNs → serious underwater warfare capability.
-- 5,000+ drones → drone‑centric doctrine; cheap to lose, expensive to attack.
+- ~2,000 inherited drones scaling to 10,000+ → drone-centric doctrine; cheap to lose, expensive to attack.
 - $920B Defense Fund → long-term financial independence.
 - **~178K active military** (Army 100K + Navy ~18K + Air Force ~21K + CMIS 25K + Nuclear Directorate ~12.5K + Space 2K) — lean professional force backed by 1M tiered reserves and 9.1M militia.
 - CMIS (25K → 50K) → strong cyber, EW, satellite control.
@@ -480,8 +485,8 @@ Crossroads ranks alongside:
 | Branch | 2025 | 2075 |
 |--------|------|------|
 | Active forces (all branches) | **~178K** | ~200K |
-| Navy vessels | 6 destroyers, 12 frigates, 24 corvettes, 30 patrol boats, 14 minesweepers, **8 SSBNs (nuclear, ICBM), 16 SSNs (nuclear, VLS hypersonic/10kt tactical)** — 110 vessels, **all submarines nuclear-powered** | same (with upgrades) |
-| Air Force | 300 combat aircraft (150 multi-role, 70 anti-ship, 50 strike, 30 specialised), 106 transport, 30 SAR helicopters, **10K drones**, 10 drone carriers. **80 Air Cavalry helicopters are organic to Ground Forces §2.3** | same (with upgrades) |
+| Navy vessels | **Inherited:** 4 destroyers, 8 frigates, 16 corvettes, 20 patrol boats, 10 minesweepers, 4 SSBNs (older SLBMs), 8 SSNs (torpedo-only) — ~70 vessels. **Target (2075):** 6 destroyers, 12 frigates, 24 corvettes, 30 patrol boats, 14 minesweepers, **8 SSBNs (hypersonic MIRV ICBMs), 16 SSNs (VLS hypersonic/10kt tactical)** — 110 vessels, **all submarines nuclear-powered** | 110 vessels (with upgrades) |
+| Air Force | **Inherited:** ~200 combat aircraft (older generation), ~60 transports, ~15 SAR helicopters, ~2,000 basic drones. **Target (2075):** 300 combat aircraft (150 multi-role, 70 anti-ship, 50 strike, 30 specialised), 106 transport, 30 SAR helicopters, **10K drones**, 10 drone carriers. **80 Air Cavalry helicopters + 12 medevac Black Hawks are organic to Ground Forces §2.3/§2.3A** | same (with upgrades) |
 | CMIS | 25K | 50K |
 | CSI | 3K | 6K |
 | Defense Fund | building | ~$920B |
@@ -504,18 +509,19 @@ Crossroads ranks alongside:
 | Defense Fund supplement (**returns only; principal locked**) | ~$5B (draw) | ~$19–25B (draw); returns ~$46B, remainder compounds |
 | Defense Fund endowment (outside the SWF and its 12% cap) | ~$100B | ~$920B |
 | One-time buildout | ~$77.56B | amortized |
-| Destroyers | 6 | 6 |
-| Frigates | 12 | 12 |
-| Corvettes | 24 | 24 |
-| Patrol boats | 30 | 30 |
-| Minesweepers | 14 | 14 |
-| SSBNs (ICBM submarines) | 8 | 8 |
-| SSNs (nuclear-powered, VLS hypersonic) | **16** | 16 |
-| Combat aircraft | 300 (150 multi-role, 70 anti-ship, 50 strike, 30 specialised) | 300 |
-| Transport aircraft | 106 | 106 |
-| Combat drones | **10,000** | 10,000+ |
-| Flying drone carriers | 10 | 10 |
-| National satellite constellation (military/GPS/civilian) | 10 | 75 (~25 military, ~30 GPS, ~15 civilian) |
+| Destroyers | 4 (inherited) | 6 |
+| Frigates | 8 (inherited) | 12 |
+| Corvettes | 16 (inherited) | 24 |
+| Patrol boats | 20 (inherited) | 30 |
+| Minesweepers | 10 (inherited) | 14 |
+| SSBNs (ICBM submarines) | 4 (inherited, older SLBMs) | 8 (hypersonic MIRVed ICBMs) |
+| SSNs (nuclear-powered) | 8 (inherited, torpedo-only) | 16 (VLS hypersonic/10kt tactical) |
+| Combat aircraft | ~200 (inherited, older generation) | 300 (150 multi-role, 70 anti-ship, 50 strike, 30 specialised) |
+| Transport aircraft | ~60 (inherited) | 106 |
+| Combat drones | ~2,000 (inherited, basic) | 10,000+ (advanced, self-guiding/fiber-optic) |
+| Flying drone carriers | 0 | 10 |
+| Army helicopters (Air Cavalry) | ~40 (inherited) + 12 medevac Black Hawks (new) | 80 + 12 medevac |
+| National satellite constellation (military/GPS/civilian) | 10 (inherited) | 75 (~25 military, ~30 GPS, ~15 civilian) |
 | Anti-satellite missiles | 100 | 100 |
 | Doctrine | Lean, drone-focused | Lean, drone-focused |
 | Global power rating | Tier‑2 | Tier‑2 (8.6/10) |
@@ -548,7 +554,7 @@ New Crossroads builds a military that is **lean by design and well-funded by two
 
 - **Funded twice — a stable allocation plus a growing endowment.** Sovereign revenue provides a stable ~$46B/year baseline that never decreases. The citizen-bequest Defense Fund builds over fifty years to ~$920B, whose returns supplement the baseline to fund the expanded force. **The ~$46B sovereign allocation stays steady; the endowment pays for the expansion.** The SWF may never fund military operations (Sovereign Functions Act §5.4 — no defense exception).
 
-- **A navy and air force that matter.** 8 SSBNs with 112 ICBMs, 16 VLS-equipped SSNs, 6 destroyers, 12 frigates, 24 corvettes, 30 patrol boats, 14 minesweepers, 10,000 drones, 300 combat aircraft, and 106 transport aircraft give New Crossroads strategic deterrence, underwater warfare capability, naval presence, and air dominance — enough to make any adversary think twice.
+- **A navy and air force that matter.** Inherited: 4 SSBNs, 8 SSNs, ~70 surface vessels, ~200 combat aircraft, ~2,000 drones. Target: 8 SSBNs with 112 ICBMs, 16 VLS-equipped SSNs, 110 surface vessels, 10,000 drones, 300 modern combat aircraft, and 106 transport aircraft — enough to make any adversary think twice. The $77.56B buildout closes the gap over 15 years.
 
 - **The military can stop a dangerous sale — but not the people's will.** High Command and intelligence can force a veto on any arms or aerospace export they judge a proliferation risk, keeping advanced weapons out of adversaries' hands. But that veto is overridable by the elected bodies exactly like any other. Expertise informs; democracy decides.
 
