@@ -1,11 +1,7 @@
-# Crossroads Communications and Media Infrastructure Act of 2025: Draft 4.6
+# Crossroads Communications and Media Infrastructure Act of 2025: Draft 4.7
 
-**Draft:** 4.6 | **Date:** July 22, 2026
+**Draft:** 4.7 | **Date:** July 22, 2026
 **Author:** Thunderfish2
-
----
-
-> **Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values.
 
 ---
 
@@ -16,19 +12,6 @@ Establishes a competitive communications and media market built on **state-owned
 The state owns and maintains the physical infrastructure (buried fiber, broadcast towers, EMP-hardened emergency AM transmitters). Licensed service providers — primarily co-ops, but also corporations — compete to offer internet, phone, and media services, paying **infrastructure access fees** for use of state assets.
 
 This model prevents monopoly capture, centralizes CME hardening, generates steady SWF revenue, and lets co-ops enter the market without billions in capital. It also establishes co-op media preference, a 33% local-content mandate, AM-radio resilience (EMP-hardened, in all vehicles by 2035), and a net-neutral mesh network with open access — a co-op-dominant media landscape through incentives, not quotas. The AM radio network, rather than sitting idle in peacetime, is licensed out to enterprises wanting to start radio stations — particularly talk radio, where robust political and social commentary ("shit talk") is explicitly encouraged as part of a free and lively public sphere.
-
----
-
-## Section 0: Interdependencies
-
-- **Energy Act 5.0:** provides the grid (~805 TWh → ~2,814 TWh by 2075, 413 GW) and CME hardening (buried lines, EMP-shielded substations); 21 antifragile hubs (including repository) ensure 99.9% uptime for broadcast and mesh nodes.
-- **Utilities Act 1.4:** the asset/operator separation model (state owns power lines, utilities sell power) is replicated (state owns fiber and towers, ISPs and media companies compete).
-- **Infrastructure Act 3.1:** buried fiber follows the same CME-proof specs as buried transmission lines; rail, ports, and airports distribute communications equipment.
-- **Monetary Act 9.9.1:** access fees paid in BWC, flow to SWF, subject to standard BWC transaction fees; co-op media pays the 5% co-op profit tax (over $100,000); no binding sector quotas. Loans are reference-rate-anchored (Monetary §1.5A).
-- **Credit Union Act 6.0:** media co-ops access reference-rate-anchored loans ($50,000–$5M) for studios, transmitters, and mesh nodes; micro-loans ($500, reference + 0.5% (~4%)) for community-radio startups.
-- **FCL Act 3.4:** media co-ops operate as Tier 2/3 FCLs under the progressive waterfall; co-op clubs support local content; CCIF (voluntary) may fund expansion.
-- **Sovereign Functions Act:** the NCB is chartered under the independent board registry (Chamber Act §7); Special Auditors (§3) enforce compliance.
-- **Chamber Act:** Regional Boards (§3) oversee regional media matters; independent board registry (§7).
 
 ---
 
@@ -71,6 +54,30 @@ Funded by **general revenue (~$15B, one-time buildout)** and maintained by **co-
 
 **Co-op Preference:** broadcast licenses are issued preferentially to co-ops (first right of refusal if requirements are met). Structural preference, not a quota. The old regime operated ~1,000 state-run broadcast stations (~700 radio, ~300 TV), which are converted to co-op or corporate licenses at founding. The targets — 5,000 radio and 2,000 TV stations — are built out over the 50-year plan as the economy grows and new entrants are licensed. The 65% co-op share is a descriptive target, not a binding quota.
 
+### 1.4 Asymmetric Scrutiny (per Monetary Act §5)
+
+| Level | Transaction type | CED treatment (pseudonymized) | Reporting |
+| :--- | :--- | :--- | :--- |
+| Informal | Cash payments for media subscriptions | Never collected | None |
+| Citizen | Residential BWC payments under $10,000/year | No detail | None |
+| Middle | Residential BWC payments $10k–$100k/year | Aggregate totals | Annual summary |
+| Elite | Media corporate transactions above $100k | Full pseudonymized detail | Quarterly audits |
+| Institutional | NCB communications infrastructure operations | Full transparency | Public annual reports |
+
+Cash payments for media services (newspapers, radio subscriptions, mesh internet) are accepted at credit-union kiosks with no fee and no surveillance (Monetary §1A). No media-consumption record is ever linked to identity except via the warranted Judicial Link Box (Sovereign Functions Act §4.2).
+
+### 1.5 Reference-Rate-Anchored Loans for Communications
+
+All loans for communications infrastructure, broadcast startup, and mesh deployment receive the **service-sector band** when serving healthcare, education, or emergency-communications functions. Standard commercial media loans use the standard nominal rate.
+
+| Loan Type | Rate |
+| :--- | :--- |
+| Radio station startup (co-op) | Standard rate (reference + 2%, ~5.5%) |
+| TV station startup (co-op) | Standard rate (reference + 2%, ~5.5%) |
+| Community radio micro-loan (healthcare/education/emergency) | Service-sector band: reference + 0.5% to + 1.5% (~4–5%) |
+| Mesh node deployment | Standard rate (reference + 2%, ~5.5%) |
+| Rural media co-op | 0% (rural credit) |
+
 ---
 
 ## Section 2: Infrastructure Access Fees
@@ -88,7 +95,6 @@ Providers pay the NCB or Regional Boards for access to state infrastructure. Fee
 | **Total** | | **~$45M/year** | **~$500M/year** |
 
 > **Founding-year revenue is low** because the hardened fiber backbone, mesh network, and AM transmitter network are build programs, not inherited assets. Revenue scales with buildout: ~$45M (Year 1) → ~$185M (Year 10, when hardened fiber reaches ~50,000 km and mesh reaches ~50,000 nodes) → ~$500M (2075).
-
 
 ### 2.2 Fee Adjustment
 - Biennial NCB review (6/11), **ratified by the Territorial Chamber (11/20 Regional Boards)** — an access fee is a rate, and rates are barred to the sovereign (Sovereign Functions Act §8.5).
@@ -123,7 +129,7 @@ The rural fund ensures 95% rural reach (26.6M of 28M rural citizens) by 2075, fu
 | Buried lines to transmitters | 0 → 50,000 km (built alongside transmitters, Years 1–10) | 50,000 km | ~$5B | General revenue (shared with Energy Act grid hardening) |
 | Backup SMR power (at hubs) | 18 GW | 58 GW | (in Energy Act 5.0) | General revenue (Energy Act) |
 
-### 3.3 AM Radio Network — Licensed Out in Normal Times (New)
+### 3.3 AM Radio Network — Licensed Out in Normal Times
 
 *Rationale:* a nationwide AM transmitter network is expensive to maintain if it sits idle waiting for a CME. New Crossroads **licenses the AM radio network out to enterprises** in normal times — talk radio, music, news, local coverage — so the network is **live, maintained, and vibrant** when the emergency comes. The state retains **emergency override authority** on all frequencies (the network remains state-owned spectrum with public-safety priority).
 
@@ -131,7 +137,7 @@ The rural fund ensures 95% rural reach (26.6M of 28M rural citizens) by 2075, fu
 
 **Licensing structure:**
 - AM transmitters are **leased to licensed broadcasters** (co-op or corporate) at the standard tower-lease rate ($10,000/tower/year, with the 20% co-op discount).
-- In a CME or declared emergency, **state emergency broadcast overrides all commercial content** — the network becomes the emergency alert system within minutes (per §7.3).
+- In a CME or declared emergency, **state emergency broadcast overrides all commercial content** — the network becomes the emergency alert system within minutes (per §3.4).
 - The transmitters remain EMP-hardened and SMR-backed; the commercial licensee maintains the equipment (paid through their lease), keeping it in working order at no cost to the state.
 - **Net effect:** the emergency broadcast network is live, maintained, and ready — and in normal times, it is a lively, diverse, and opinionated public forum.
 
@@ -146,7 +152,6 @@ The rural fund ensures 95% rural reach (26.6M of 28M rural citizens) by 2075, fu
 
 ### 3.5 Funding
 - ~$10B **general revenue** ($500M/region) for hardening + vehicle integration (not the SWF — this is non-revolving infrastructure capital; Monetary §2.1); ~$5B from manufacturers (phased 2025–2035); operations funded by transmitter leases in normal times and access-fee maintenance allocation.
-
 
 ### 3.6 Submarine Cable Infrastructure
 
@@ -295,7 +300,6 @@ The **National Communications Board (NCB)** — 11 members — sets access-fee r
 - **Independence:** paired with its department but subordinate to none; disputes resolved through ad-hoc arbitration (Chamber Act §6.6).
 - **Coordination with the NEB, not subordination to it.** Comms infrastructure shares physical corridors with the grid — buried conduit, tower sites, CME hardening — so the two boards coordinate on the emergency-broadcast hierarchy (§7.3) and on shared hardening standards. Coordination is a duty; it is not a chain of command.
 
-
 ### 8.2 Regional Boards — Media and ISP Oversight
 20 Regional Boards (11 members each) issue broadcast/ISP licenses (co-op preference), enforce the 33% local-content mandate, manage the rural communications fund, and investigate complaints (including anonymous informal-sector complaints). **Regional Media Assemblies (RMAs):** 100–200 members/region (50% media professionals with 5+ years, 30% journeymen, 20% citizens) nominate candidates for Regional Board media seats.
 
@@ -309,18 +313,6 @@ The **National Communications Board (NCB)** — 11 members — sets access-fee r
 | Mesh node deployment | 5,000 (250/region) | 48 hours |
 
 CLS agents receive specialized training at the CLS Academy (Regions 1, 6) in media finance, broadcast licensing, and CME emergency procedures. *(CLS officer counts here are demand-distributed per Credit Union Act §5.1.)*
-
-### 8.4 Asymmetric Scrutiny (per Monetary Act §5)
-
-| Level | Transaction type | CED treatment (pseudonymized) | Reporting |
-| :--- | :--- | :--- | :--- |
-| Informal | Cash payments for media subscriptions | Never collected | None |
-| Citizen | Residential BWC payments under $10,000/year | No detail | None |
-| Middle | Residential BWC payments $10k–$100k/year | Aggregate totals | Annual summary |
-| Elite | Media corporate transactions above $100k | Full pseudonymized detail | Quarterly audits |
-| Institutional | NCB communications infrastructure operations | Full transparency | Public annual reports |
-
-Cash payments for media services (newspapers, radio subscriptions, mesh internet) are accepted at credit-union kiosks with no fee and no surveillance (Monetary §1A). No media-consumption record is ever linked to identity except via the warranted Judicial Link Box (Sovereign Functions Act §4.2).
 
 ---
 
@@ -358,6 +350,21 @@ Cash payments for media services (newspapers, radio subscriptions, mesh internet
 
 ---
 
+## Section 11: Interdependencies (Harmonized) — Reference
+
+| Act | Integration Point |
+| :--- | :--- |
+| **Energy Act 5.0:** | provides the grid (~805 TWh → ~2,814 TWh by 2075, 413 GW) and CME hardening (buried lines, EMP-shielded substations); 21 antifragile hubs (including repository) ensure 99.9% uptime for broadcast and mesh nodes. |
+| **Utilities Act 1.4:** | the asset/operator separation model (state owns power lines, utilities sell power) is replicated (state owns fiber and towers, ISPs and media companies compete). |
+| **Infrastructure Act 3.1:** | buried fiber follows the same CME-proof specs as buried transmission lines; rail, ports, and airports distribute communications equipment. |
+| **Monetary Act 9.9.1:** | access fees paid in BWC, flow to SWF, subject to standard BWC transaction fees; co-op media pays the 5% co-op profit tax (over $100,000); no binding sector quotas. Loans are reference-rate-anchored (Monetary §1.5A). |
+| **Credit Union Act 6.0:** | media co-ops access reference-rate-anchored loans ($50,000–$5M) for studios, transmitters, and mesh nodes; micro-loans ($500, reference + 0.5% (~4%)) for community-radio startups. |
+| **FCL Act 3.4:** | media co-ops operate as Tier 2/3 FCLs under the progressive waterfall; co-op clubs support local content; CCIF (voluntary) may fund expansion. |
+| **Sovereign Functions Act:** | the NCB is chartered under the independent board registry (Chamber Act §7); Special Auditors (§3) enforce compliance. |
+| **Chamber Act:** | Regional Boards (§3) oversee regional media matters; independent board registry (§7). |
+
+---
+
 ## Appendix A: Comparison to Rail Model (Infrastructure Act)
 
 | Feature | Rail | Communications |
@@ -387,16 +394,14 @@ Cash payments for media services (newspapers, radio subscriptions, mesh internet
 
 **Community Radio Co-op (Region 3, Frostpeak Mountains)**
 
-| Revenue | Amount | | Expense | Amount |
+| Revenue | Amount | Expense | Amount |
 | :--- | :--- | :--- | :--- | :--- |
-| Advertising | ~$250,000 | | Tower lease (80% co-op rate) | ~$8,000 |
-| Listener donations (BWC) | ~$100,000 | | Studio/transmitter maintenance | ~$100,000 |
-| Member dues / subscriptions | ~$20,000 | | Staff (5 @ $40,000) | ~$200,000 |
-| Rural communications fund subsidy | ~$50,000 | | Content production | ~$50,000 |
-| | | | CLS loan repayment (reference-rate-anchored) | ~$20,000 |
-| **Total revenue** | **~$420,000** | | **Total expenses** | **~$378,000** |
-
-> **The station runs at a small operating loss (~$8,000/year)**, which is realistic for a rural community station serving 50,000 citizens on subsidized 0% rural credit. The loss is absorbed by retained earnings or covered by adjusting the rural communications fund subsidy in lean years. **Patronage is a return of surplus to members, not revenue** — it is paid from profit after expenses. A station that needs patronage to cover operating costs is not generating a surplus to return. If the station grows its advertising base or adds subscribers, it moves into surplus and patronage begins. The 0% rural credit and co-op tower discount are what make the loss small enough to sustain.
+| Advertising | ~$220,000 | Tower lease (80% co-op rate) | ~$8,000 |
+| Listener donations (BWC) | ~$100,000 | Studio/transmitter maintenance | ~$100,000 |
+| Member dues / subscriptions | ~$20,000 | Staff (5 @ $40,000) | ~$200,000 |
+| Rural communications fund subsidy | ~$50,000 | Content production | ~$50,000 |
+| | | CLS loan repayment (reference-rate-anchored) | ~$20,000 |
+| **Total revenue** | **~$390,000** | **Total expenses** | **~$378,000** |
 
 ---
 
@@ -422,4 +427,4 @@ The state owns the fiber, towers, and submarine cables. Co-ops and corporations 
 
 ---
 
-**End of Draft 4.6**
+**End of Draft 4.7**
