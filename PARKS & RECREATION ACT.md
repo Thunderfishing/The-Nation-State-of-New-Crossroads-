@@ -273,7 +273,7 @@ Management contracts for regional and municipal parks are issued preferentially 
 
 *Rationale:* the prior fixed fees ($10,000/year cottages, $5,000/year timeshares) badly **underpriced** the scarcity value of residence in a dark-sky parkweb reserve. Foreign access is now **auctioned**, capturing true value and funding the commons entirely from foreign capital.
 
-- **Cottages — fixed-cap, rising-price (auction-cleared):** a **hard cap of 10,000 cottages (500/region)** on 50-year leases. Because supply is capped, leases are **auctioned** and the clearing price rises with demand — the cap protects the parkweb while the auction captures the scarcity premium. Realistic auction clearance: ~$150,000/year average at maturity → **~$1.5–2B/year** from cottages alone.
+- **Cottages — fixed-cap, rising-price (auction-cleared):** a **hard cap of 10,000 cottages in the most desirable park locations** on 50-year leases reserved specifically for wealthy foreigners as land ownership by non citizens if the nation is prohibited. Because supply is capped, leases are **auctioned** and the clearing price rises with demand — the cap protects the parkweb while the auction captures the scarcity premium. Realistic auction clearance: ~$150,000/year average at maturity → **~$1.5–2B/year** from cottages alone.
 
 - **Timeshares — scaled to carrying capacity, auctioned:** timeshare units **scale with the parkweb's measured carrying capacity** (ecological load limits set by the park authority), and are **auctioned** within that limit. The 10% foreign-ownership cap is retained. ~100,000–200,000 timeshare-weeks/year at $20,000–$30,000/week → **~$3–4B/year** at maturity.
 
@@ -380,7 +380,7 @@ Club lodges, campsites, and trailheads within National/Regional parks comply wit
 
 ---
 
-## Section 8: Interdependencies (Harmonized) — Reference
+## Section 0: Interdependencies (Harmonized) — Reference
 
 | Act | Integration Point |
 | :--- | :--- |
