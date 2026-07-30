@@ -1,11 +1,7 @@
-# New Crossroads Industry Act of 2025: Draft 5.1
+# New Crossroads Industry Act of 2025: 
 
 **Draft:** 5.1 | **Date:** July 22, 2026
 **Author:** Thunderfish2
-
----
-
-> **Note on figures.** Illustrative projections from a 2025 base; the design is in the structure and ratios, not the precise values.
 
 ---
 
@@ -19,18 +15,7 @@ Standards set by the **National Industry Board (NIB)** — an independent sector
 
 ---
 
-## Section 0: Interdependencies
 
-| Act | Integration Point |
-| :--- | :--- |
-| **Monetary Act 9.9.1** | Reference-rate-anchored service-sector loans (Monetary §1.5A); Informal Economy Guarantee (cash industrial transactions protected); asymmetric scrutiny (private under $100k); SWF capped at 12% GDP; co-op profit tax 5% (no SWF recharge); no binding quotas |
-| **Credit Union Act 6.0** | Micro-loans for informal industrial workers ($500, reference + 0.5% (~4%), self-attested, 24hr); embedded CLS officers (demand-distributed) |
-| **Sovereign Functions Act** | NIB is an independent board chartered under the independent board registry; Special Auditors (§3) enforce compliance |
-| **Chamber Act** | Regional Boards (§3) oversee regional industry matters; independent board registry (§7) |
-| **Energy Act 5.0** | ~2,814 TWh grid (413 GW, nuclear + geothermal backbone) provides the cheapest baseload power of any major nation (~21.6 MWh/capita); 21 antifragile hubs (including repository) ensure CME-proof operations; nuclear/coal/WTE feed the Industrial Corridors |
-| **Housing Act 2.6** | 500,000 Durahomes/year use CO₂-cured hempcrete, low-carbon concrete, hemp 2x4s, and hemp insulation — all supplied by this act's hemp and forestry sectors |
-| **Infrastructure Act 3.1** | Rail, freeways, ports, barges, and CO₂ pipelines distribute goods; the **Industrial Corridors (§3.7)** carry warm-water + CO₂ to greenhouses, hemp processing, and hempcrete plants; DCALS applies to industrial compounds |
-| **Municipal & Regional Funding Act** | Corridor plants/greenhouses receive the DCALS-contingent land-tax holiday (construction-cost recovery); resources are regionally owned (royalties regional) |
 
 ---
 
@@ -397,6 +382,21 @@ The Crossroads Loan Service manages reference-rate-anchored industry loans (~$10
 | Loan rates | **reference + 2%** (~5.5%) standard; service-sector below it. Reference rate ~3.5% (Monetary §1.5A) | same |
 | NIB | Independent sector board — Territorial Chamber nominates, the Productive Chamber confirms (Chamber Act §7.1). **No sovereign role** | same |
 | Data architecture | PPK + CED (no CWD) | PPK + CED |
+
+---
+
+## Section 9: Interdependencies
+
+| Act | Integration Point |
+| :--- | :--- |
+| **Monetary Act 9.9.1** | Reference-rate-anchored service-sector loans (Monetary §1.5A); Informal Economy Guarantee (cash industrial transactions protected); asymmetric scrutiny (private under $100k); SWF capped at 12% GDP; co-op profit tax 5% (no SWF recharge); no binding quotas |
+| **Credit Union Act 6.0** | Micro-loans for informal industrial workers ($500, reference + 0.5% (~4%), self-attested, 24hr); embedded CLS officers (demand-distributed) |
+| **Sovereign Functions Act** | NIB is an independent board chartered under the independent board registry; Special Auditors (§3) enforce compliance |
+| **Chamber Act** | Regional Boards (§3) oversee regional industry matters; independent board registry (§7) |
+| **Energy Act 5.0** | ~2,814 TWh grid (413 GW, nuclear + geothermal backbone) provides the cheapest baseload power of any major nation (~21.6 MWh/capita); 21 antifragile hubs (including repository) ensure CME-proof operations; nuclear/coal/WTE feed the Industrial Corridors |
+| **Housing Act 2.6** | 500,000 Durahomes/year use CO₂-cured hempcrete, low-carbon concrete, hemp 2x4s, and hemp insulation — all supplied by this act's hemp and forestry sectors |
+| **Infrastructure Act 3.1** | Rail, freeways, ports, barges, and CO₂ pipelines distribute goods; the **Industrial Corridors (§3.7)** carry warm-water + CO₂ to greenhouses, hemp processing, and hempcrete plants; DCALS applies to industrial compounds |
+| **Municipal & Regional Funding Act** | Corridor plants/greenhouses receive the DCALS-contingent land-tax holiday (construction-cost recovery); resources are regionally owned (royalties regional) |
 
 ---
 
