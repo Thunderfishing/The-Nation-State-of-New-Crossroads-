@@ -319,7 +319,7 @@ Set in full at Monetary Act §4; collected by Treasury (§6A.1); rates set by th
 | Parks | ~$20B | | | |
 | The four functions | ~$20B | | | |
 | **Universal savings match** | **~$8B** | | | |
-| **Subtotal** | **~$196B** | | **Subtotal** | **~$228.5B** |
+| **Subtotal** | **~$196B** | | **Subtotal** | **~$229B** |
 | **= 3.3% of GDP — inside the cap** | | | | |
 
 **Classification is justiciable, and the presumption runs against the sovereign.** Any citizen may petition the Supreme Court (§1.4) to reclassify a line. **Spending is presumed to be an operation unless the sovereign shows a citizen directs it** — the same inverted burden as the downward presumption of §1.2, for the same reason: the body that benefits from a generous reading is the body that must not hold the pen.
@@ -330,7 +330,7 @@ Set in full at Monetary Act §4; collected by Treasury (§6A.1); rates set by th
 >
 > **It is also what makes the falling cap true.** Operations at ~$196B against a ~$19T GDP is **~1.0%** — under the 2% target without any effort, because operations are physically anchored (a judiciary, eight submarines, a rail network) while the economy triples around them. The sovereign shrinks because the nation grew.
 
-**Spending sits at ~$424.5B total — ~$196B of operations (3.3% of GDP) and ~$228.5B of transfers.**
+**Spending sits at ~$425B total — ~$196B of operations (3.3% of GDP) and ~$229B of transfers.**
 
   > **The cap falls because GDP triples, not because the Defense Fund matures.** Operations are physically anchored; the economy grows around them. At ~$19T GDP, operations at ~$196B are ~1%.
 
@@ -348,7 +348,8 @@ Set in full at Monetary Act §4; collected by Treasury (§6A.1); rates set by th
 | The four functions — judiciary, auditors, four bureaus | ~$20B |
 | **Mandatory-service stipends** (Education Act §4) | **~$13.5B** |
 | **Universal savings match** | **~$8B** |
-| **Total** | **~$424.5B (~7.1% of GDP)** |
+| **Housing rebates** (Durahome ~$7,000/home + geothermal ~$5,000 — Housing Act §3.2/§5.3) | **~$0.4B** (scaling to ~$4.25B) |
+| **Total** | **~$425B (~7.1% of GDP)** |
 
 > **The infrastructure line is new, and its absence was doing real damage.** This table had no line for the freeway, the 75,000 km rail network, grid hardening, or the communications backbone — while the Transport Bureau (§6A.4) is charged with building three of the four. **So four acts funded them from the SWF instead**, because it was the only pot with a large number attached. The claims totalled **~$629B against a ~$230B corpus** — the fund liquidated 2.7× over — and since access fees recover only maintenance (Infrastructure §3.2; Communications §2.1), **none of it would ever have returned.** Monetary §2.1 forbids exactly this: *"the SWF is the state's revolving lender... it is not the state's capital budget."*
 >
@@ -360,7 +361,7 @@ Set in full at Monetary Act §4; collected by Treasury (§6A.1); rates set by th
 
 ### 7.4 Surplus and the Bars
 
-- Surplus flows to the SWF (within the 12% cap) or to the **citizen dividend**. The sovereign cannot accumulate. Once the SWF is capped — projected ~2029 (Year 4) — Monetary §2.3 redirects SWF contributions to general revenue, and this section sends them onward to the dividend: **~$157B/year, ~$1,400 per citizen** at founding-era rates, in cash, tax-free, reaching the informal majority that files nothing. No dividend during the build phase (Years 1–3). Both channels scale with GDP: ~$3,500–4,500/citizen at maturity.
+- Surplus flows to the SWF (within the 12% cap) or to the **citizen dividend**. The sovereign cannot accumulate. Once the SWF is capped — projected ~2029 (Year 4) — Monetary §2.3 redirects SWF contributions to general revenue, and this section sends them onward to the dividend: **~$153B/year, ~$1,370 per citizen** at founding-era rates, in cash, tax-free, reaching the informal majority that files nothing. No dividend during the build phase (Years 1–3). Both channels scale with GDP: ~$3,500–4,500/citizen at maturity.
 - No issuance, no debt, no SWF-principal draw.
 - The Public Accounts Committee scrutinizes all spending against the cap.
 
@@ -401,7 +402,7 @@ A sovereign act inconsistent with this section is void, reviewable by the Suprem
 | Takings | Transport Bureau | Public-infra only; market+10%; judicial ratification |
 | Fund of last resort | SWF (~$230B seed, 12% cap) + Defense Fund (~$100B → ~$920B) | Auto stabilizers; Tier-2 sunsets; **no defense exception to §5.4**; Public Accounts Committee |
 | SWF reaches its cap | ~2029 (year 4) | Contributions redirect to general revenue (Monetary §2.3) |
-| Citizen dividend (post-cap, ~2029 onward) | ~$157B/yr — ~$1,400/citizen at founding-era rates; scaling to ~$3,500–4,500 at maturity | Cash, tax-free; the only channel reaching the informal economy. No dividend during build phase (Years 1–3) |
+| Citizen dividend (post-cap, ~2029 onward) | ~$153B/yr — ~$1,370/citizen at founding-era rates; scaling to ~$3,500–4,500 at maturity | Cash, tax-free; the only channel reaching the informal economy. No dividend during build phase (Years 1–3) |
 | Market supervision | Treasury Capital Markets Bureau | Financial Services Committee; Special Auditors prosecute |
 | Fiscal administration | Treasury | Economic Affairs Committee; Public Accounts Committee |
 | Diplomacy administration | Foreign Affairs Bureau | Defense and Foreign Affairs Committee |
@@ -410,7 +411,7 @@ A sovereign act inconsistent with this section is void, reviewable by the Suprem
 | Election integrity | Election Integrity Commission (11; Chamber Act §9.5) | Ethics & Standards Committee; Supreme Court nominates; referrals to Special Auditors |
 | Foreign-asset resilience | §5.7: 20% concentration ceiling per nation; 30% max freezable; 70%+ in domestic physical assets or globally diversified. Entrenched at middle bar | Treasury Investment Mandate (Monetary §2.1A); Special Auditors |
 | **Revenue** | **~$495B** — VAT 6% $199B · income >$100k $144B · tariffs $49B · corporate profit $25B · resources $22.7B · co-op profit $20B · property $19B · excise $15B · Parks Index $2B | Cap 4% → 2% of GDP; Public Accounts Committee |
-| **Spending** | **~$424.5B total** — **operations ~$196B (3.3% of GDP, inside the 4% cap)**: sustainability $50B · **military $46B** · R&D $30B · infrastructure $20B · parks $20B · four functions $20B · **savings match $8B**. **Transfers ~$228.5B**: education vouchers $170B · healthcare subsidy $45B · **mandatory-service stipends $13.5B** | Cap binds operations only (§7.2); classification justiciable. No debt, no issuance, no SWF draw |
+| **Spending** | **~$425B total** — **operations ~$196B (3.3% of GDP, inside the 4% cap)**: sustainability $50B · **military $46B** · R&D $30B · infrastructure $20B · parks $20B · four functions $20B · **savings match $8B**. **Transfers ~$229B**: education vouchers $170B · healthcare subsidy $45B · **mandatory-service stipends $13.5B** · **housing rebates $0.4B** (scaling to $4.25B) | Cap binds operations only (§7.2); classification justiciable. No debt, no issuance, no SWF draw |
 | Profit taxation | **Federal only** | Regions levy income tax and VAT; no level may tax residential land |
 | Domestic force | Not the sovereign | Militia to Territorial; police to municipalities; prosecutors to Regional Boards |
 | Growth | Closed list (§1.1) | Highest bar to add; ordinary bar to shrink |
