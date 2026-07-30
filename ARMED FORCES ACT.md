@@ -226,8 +226,8 @@ Ground equipment largely inherited at or near these levels. Counts below are tar
 | Strategic EW suites | 50 |
 | Signals intelligence stations | 10 |
 
-### 5.3 CMIS Budget: $5.5B/year
-- Personnel: ~$2B | Cyber defense: ~$1B | Border security: ~$1B | Threat monitoring: ~$0.5B | R&D/equipment: ~$1B
+### 5.3 CMIS Budget: $5.5B/year (founding) → ~$11B (mature, 50K personnel)
+- Personnel: ~$2B → ~$4B | Cyber defense: ~$1B → ~$2B | Border security: ~$1B → ~$2B | Threat monitoring: ~$0.5B → ~$1B | R&D/equipment: ~$1B → ~$2B
 
 ---
 
@@ -245,8 +245,8 @@ Ground equipment largely inherited at or near these levels. Counts below are tar
 | Launch facilities | 2 (Desert Port 2035, Frostpeak 2050) |
 | Anti-satellite missiles | 100 |
 
-### 6.3 CSI Budget: $2.25B/year
-- Personnel: ~$0.5B | Satellite operations: ~$0.5B | Space surveillance: ~$0.3B | Launch facilities: ~$0.5B | R&D: ~$0.45B
+### 6.3 CSI Budget: $2.25B/year (founding) → ~$4.5B (mature, 6K personnel)
+- Personnel: ~$0.5B → ~$1B | Satellite operations: ~$0.5B → ~$1B | Space surveillance: ~$0.3B → ~$0.6B | Launch facilities: ~$0.5B → ~$1B | R&D: ~$0.45B → ~$0.9B
 
 ---
 
@@ -389,16 +389,23 @@ Citizens bequeath → Defense Fund ($920B, 5% returns) → 15% co-op shares (Exc
 
 **Mature military annual budget: $65–71B/year (2075). At founding: ~$51B.**
 
-| Branch | Annual Budget (mature) | Personnel |
-|---|---:|---:|
-| Ground Forces | $8–10B | 100K active, 1M reserves, 9.1M militia |
-| Navy | $12–15B | ~18,222 |
-| Air Force | $8–10B | ~15,500–16,500 |
-| CMIS | $5.5B | 25K → 50K |
-| CSI | $2.25B | 3K → 6K |
-| Aid Operations | $2B | 10K |
-| Training + R&D | $5–6B | — |
-| Total | $65–71B | ~178K active |
+> **Why founding is ~$51B, not the table's full line-item sum.** At founding, CMIS (25K, not 50K) and CSI (3K, not 6K) are at half-strength (~$5.5B and ~$2.25B, not ~$11B and ~$4.5B). System-wide procurement and R&D ramp over Years 1–10 as the domestic defense-industrial base converts and the design programs mature — maybe ~$3B each at founding, not ~$5B. Reserve refreshers are smaller (fewer trained reserves in Year 1). The mature figures in the table are what the budget grows toward as the Defense Fund's returns (~$5B founding → ~$19–25B mature draw) absorb the expansion.
+
+| Branch | Founding Budget | Mature Budget (2075) | Personnel |
+|---|---:|---:|---|
+| Ground Forces | $8–10B | $8–10B | 100K active, 1M reserves, 9.1M militia |
+| Navy | $12–15B | $12–15B | ~18,222 |
+| Air Force | $8–10B | $8–10B | ~15,500–16,500 |
+| CMIS | $5.5B | ~$11B (50K personnel) | 25K → 50K |
+| CSI | $2.25B | ~$4.5B (6K personnel) | 3K → 6K |
+| Aid Operations | $2B | $2B | 10K |
+| Nuclear Directorate (§8) | ~$5B | ~$5B | ~12,500 |
+| Training academies + reserve refreshers (§9.1) | ~$3.7B | ~$3.7B | — |
+| System-wide procurement (§9.2) | ~$5B | ~$5B | — |
+| R&D (§9.3) | ~$5B | ~$5B | — |
+| **Total** | **~$51B** | **~$65–71B** | **~178K active** (founding) → **~200K** |
+
+> **Why the total grows from ~$51B to ~$65–71B.** The sovereign baseline (~$46B) stays constant. The growth comes from two sources: (1) CMIS and CSI double their personnel and budgets over 50 years as the cyber/space domains expand (~$5.5B → ~$11B, ~$2.25B → ~$4.5B = +~$7.75B), and (2) the Defense Fund's maturing returns (~$5B founding → ~$19–25B mature draw) absorb the expansion. The branch operational budgets (Ground, Navy, Air Force) stay roughly flat — the 15-year modernization replaces inherited equipment at comparable operating cost, not higher.
 
 ### 10.1 Funding Sources — Two Streams
 
