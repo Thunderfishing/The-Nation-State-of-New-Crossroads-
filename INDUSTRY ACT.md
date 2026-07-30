@@ -11,7 +11,7 @@ The Industry Act establishes New Crossroads' industrial framework: a **co-op-dom
 
 Industries are fostered via **reference-rate-anchored service-sector loans** (the low service-sector rate for hemp, greenhouses, CO₂ capture, and artisan trades), **cheap baseload power** (SMRs, Energy Act 5.0), **75,000 km cooperative rail**, and **dredged Corridon/Westflow barges**, maintaining a free-market approach. Resource revenue scales to ~$570B by 2075 (§3); total industrial output substantially higher. SWF **revolving lending** (not spending) is drawn from the SWF (capped at 12% of GDP, ~$720B at 2025 GDP, ~$2.28T at 2075). Loans revolve — the corpus survives. All 30,000 ha of greenhouses are non-arable, lease-to-own with buyback options, and hempcrete for Durahomes is CO₂-cured.
 
-Standards set by the **National Industry Board (NIB)** — an independent sector board under chamber appointment (Chamber Act §7.1), **not the sovereign** (Sovereign Functions Act §8.5) — leveraging 5,000 credit unions / CLS. **No binding sector quotas** — the 65/15/20 figures are descriptive baselines; co-ops receive license priority and fee discounts.
+Standards set by the **National Industry Board (NIB)** — an independent sector board under chamber appointment (Chamber Act §7.1), **not the sovereign** (Sovereign Functions Act §8.5) — leveraging 5,000 credit unions / CLS. 
 
 ---
 
@@ -46,7 +46,7 @@ Informal industrial workers (artisans, small farmers, local processors) access m
 
 ### 1.4 Co-op Industrial Preference
 
-Industrial licenses, land leases, and greenhouse allocations are issued preferentially to co-ops (first right of refusal). A structural preference, not a binding quota; the 65% 2025 figure is descriptive.
+Industrial licenses, land leases, and greenhouse allocations are issued preferentially to co-ops (first right of refusal). 
 
 ---
 
@@ -268,13 +268,7 @@ New Crossroads is not competing with TSMC on 3nm leading-edge chips. That requir
 
 ## Section 3: Resource Management
 
-Resources generate ~**$306.4B**/year (2025), scaling to ~**$570B** by 2075. **Resources are regionally owned** — regions levy royalties/stumpage as own-source revenue; the national government takes **40% of a 12% royalty, plus profit tax on resource firms** (Municipal & Regional Funding Act §2.5; Monetary Act §4; Sovereign Functions Act §7.1).
-
-> **The figure this corrects, and how it was caught.** Prior drafts headlined ~$213.28B. **The subsections beneath it sum to $306.375B** — minerals $200B, agriculture $45.375B, fuels $50B, forestry/water $9B, rare earths $2B — and the FCL Act independently reports **~$274B of co-op resource activity**, which fits inside $306B (89%, plausible in a co-op-dominant economy) but **exceeds the $213.28B headline outright**. A part cannot exceed its whole. Two witnesses against one: **the headline was the error**, not its own components and not the other act.
->
-> The 2075 figure carries the act's own growth ratio (1.86×) forward from the corrected base.
->
-> **This moves money in two other acts.** The national resource cut rises from ~$18B to **~$22.7B** (40% of 12% of $306.4B, plus ~$8B of resource-firm profit tax), taking federal revenue to **~$495B** against **~$424.5B** of spending (Monetary §4 and Sovereign Functions §7.1 carry the corrected line; the VAT increase to 6% absorbs the infrastructure revenue correction and the mandatory-service stipend line).
+Resources generate ~**$306.4B**/year (2025), scaling to ~**$570B** by 2075. **Resources are regionally owned** — regions levy royalties/stumpage as own-source revenue; the national government takes **40% of a 12% royalty, plus profit tax on resource firms** (Municipal & Regional Funding Act §2.5; Monetary Act §4; Sovereign Functions Act §7.1).           
 
 ### 3.1 Minerals
 - **Scale:** ~$200B — the nation's largest resource sector, anchored by **massive mineral deposits and operations** (the reason the mining-machinery industry §2.3 is fostered).
@@ -316,19 +310,17 @@ Hubs drive ~$60–80B semiconductors (§2.15), ~$40B AI/data center/tech (§2.14
 ### 5.1 NIB Structure
 The **National Industry Board (NIB)** — 11 members — sets standards for all industrial sectors, district loans, and revenue. It is an **independent sector board** on the Chamber Act §7 registry and reports to no sovereign organ.
 - **Composition:** 6 representatives from 20 Regional Industry Districts, 4 experts (drawn from the regional advisory layer, Chamber Act §8), 1 chairman.
-- **Appointment:** **nominated by the Territorial Chamber (Regional Boards, 11/20), confirmed by the Productive Chamber** — the uniform rule for the seven sector boards (Chamber Act §7.1).
+- **Appointment:** **nominated by the Territorial Chamber (Regional Boards, 111/220), confirmed by the Productive Chamber** — the uniform rule for the seven sector boards (Chamber Act §7.1).
 - **Removal:** by the nominating and confirming bodies jointly, or on cause established by a Special-Auditor investigation.
 - **Voting:** 6/11 operational, 8/11 regulations
 - **Scrutiny:** NIB operations fully transparent (institutional level, CED)
 - **Independence:** paired with its department but subordinate to none — the board sets standards, the department implements; disputes resolved through ad-hoc arbitration (Chamber Act §6.6)
 
-> **The sovereign has no role here.** The NIB is an independent sector board under chamber appointment (Chamber Act §7.1). Sovereign Functions Act §8.5 bars the sovereign from sector policy, rates, and board appointments.
-
 ### 5.2 Regional Industry Districts
 20 Regional Industry Districts (e.g., Region 5: Heartland Plains) manage local industrial development, greenhouse buybacks, and corridor siting, reporting via Regional Boards (Chamber Act §3). District transactions below $10k are private; above $100k tracked via the pseudonymized CED.
 
-### 5.3 Dark Corridor Compliance for Industrial Compounds (per Infrastructure Act 3.1)
-Industrial compounds within 500m of elevated freeway insect corridors must comply with DCALS: indirect red-spectrum motion lighting (scaled by floor area), retroreflective markers (no powered edge lighting), retroreflective paint as an alternative pathway, no horizon-visible emission. **DCLTI incentive:** certified compounds receive the property-tax reduction (0.75% → 0.70%, or 0.68% for full retroreflective). **Corridor land-tax holiday:** plants and greenhouses built on the Industrial Corridors pay no commercial land tax until construction (or lease-to-own purchase) cost is recovered, contingent on DCALS compliance (Infrastructure §3.7; Municipal & Regional Funding Act corridor carve-out).
+### 5.3 Darksky Compliant Lighting Standards (DCLS) for Industrial Compounds (per Infrastructure Act 3.1)
+Industrial compounds within 500m of National/Regional Parks, wildlife  corridors elevated freeways must comply with DCLS: indirect red-spectrum motion lighting (scaled by floor area), retroreflective markers (no powered edge lighting), retroreflective paint as an alternative pathway, no horizon-visible emission. **DCLTI incentive:** certified compounds receive the property-tax reduction. **Corridor land-tax holiday:** plants and greenhouses built on the Industrial Corridors pay no commercial land tax until construction (or lease-to-own purchase) cost is recovered, contingent on voluntary DCLS compliance (Infrastructure §3.7; Municipal & Regional Funding Act corridor carve-out).
 
 ---
 
