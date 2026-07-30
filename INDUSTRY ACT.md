@@ -15,10 +15,6 @@ Standards set by the **National Industry Board (NIB)** — an independent sector
 
 ---
 
-
-
----
-
 ## Section 1: Core Principles
 
 ### 1.1 Asymmetric Scrutiny for Industry (per Monetary Act §5)
