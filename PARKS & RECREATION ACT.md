@@ -40,7 +40,7 @@ Over fifty years, the park authority shall:
 Annual land‑acquisition expenditures shall be funded exclusively from the parks budget, drawn from:
 
 - general revenue,
-- the Dark Corridor Fund surplus,
+- the Darksky Fund surplus,
 - the Parks Index,
 - CCIF allocations, and
 - the parks‑stewardship levy.
@@ -89,14 +89,14 @@ The basin is actively restored, not merely fenced:
 
 - **Exception — Crossroads City.** The capital is the explicit exception: as the site of the **massive freshwater barge port** (the head of the inland barge network), its Corridon frontage is necessarily working port infrastructure rather than parkland. Crossroads City greens what frontage it can around the port, but the port itself is a designated working carve-out.
 
-- Where freeways or pipelines must cross the Corridon or adjacent wetlands: 3–5m clearance maintained; darksky-corridor (no lighting) regulations apply within 1 km of park wetlands; adjacent park structures comply with DCALS (indirect red-spectrum motion lighting, retroreflectors, no horizon-visible emission) and may claim the DCLTI property-tax reduction.
+- Where freeways or pipelines must cross the Corridon or adjacent wetlands: 3–5m clearance maintained; darksky-corridor (no lighting) regulations apply within 1 km of park wetlands; adjacent park structures comply with **Darksky Compliant Lighting Standards (DCLS)** — indirect red-spectrum motion lighting, retroreflectors, no horizon-visible emission — and may claim the DCLTI property-tax reduction.
 
 - **Protected-by-default (the inversion).** Within the basin reserve, land is **protected unless explicitly designated otherwise.** Development is the justified exception, not the default. The only carve-outs along the water are:
   - **Municipalities** (subject to the riverbank-parks rule, §1.6);
   - **Riverside power plants** — nuclear and waste-to-energy plants sited on the banks for cooling (point footprints, held to strict riparian and discharge standards since they sit within the protected zone); and
   - **Ports, barge channels, water intakes, and flood works** — the river's own working infrastructure.
 
-- **Industry is off the floodplain.** The Industrial Corridors do **not** run along the river. They **radiate inland** from the riverside plants (Infrastructure Act 3.1 §3.7): a nuclear or WTE plant on the bank is the *head* of a corridor that runs perpendicular into the dry uplands, carrying buried warm-water + CO₂ to the inland greenhouses, hemp processing, and hempcrete plants. The sprawling industrial land use is therefore **outside the protected basin entirely** — the riverbank carries only the plants (point sites), the ports, and the protected ecological matrix. Where a corridor or pipeline must cross a riparian zone, it does so at a defined, buffered, DCALS-compliant crossing (like the land bridges, §2.4).
+- **Industry is off the floodplain.** The Industrial Corridors do **not** run along the river. They **radiate inland** from the riverside plants (Infrastructure Act 3.1 §3.7): a nuclear or WTE plant on the bank is the *head* of a corridor that runs perpendicular into the dry uplands, carrying buried warm-water + CO₂ to the inland greenhouses, hemp processing, and hempcrete plants. The sprawling industrial land use is therefore **outside the protected basin entirely** — the riverbank carries only the plants (point sites), the ports, and the protected ecological matrix. Where a corridor or pipeline must cross a riparian zone, it does so at a defined, buffered, DCLS-compliant crossing (like the land bridges, §2.4).
 
 **Biosphere zoning (three tiers):**
 
@@ -120,7 +120,7 @@ The minimum flow protects downstream wetlands, the river mouth, and aquatic life
 
 ### 2.1 National Parks (250,000 km²)
 - Corridon Basin (124,000 km²), Frostpeak Range (50,000 km²), Ember Range (26,000 km²).
-- Darksky regulations mandatory DCALS within 500m.
+- Darksky regulations mandatory DCLS within 500m.
 
 ### 2.2 Regional Parks (240,000 km²)
 - Co-op management preference; DCLTI priority certification.
@@ -273,7 +273,7 @@ Management contracts for regional and municipal parks are issued preferentially 
 
 *Rationale:* the prior fixed fees ($10,000/year cottages, $5,000/year timeshares) badly **underpriced** the scarcity value of residence in a dark-sky parkweb reserve. Foreign access is now **auctioned**, capturing true value and funding the commons entirely from foreign capital.
 
-- **Cottages — fixed-cap, rising-price (auction-cleared):** a **hard cap of 10,000 cottages in the most desirable park locations** on 50-year leases reserved specifically for wealthy foreigners as land ownership by non citizens if the nation is prohibited. Because supply is capped, leases are **auctioned** and the clearing price rises with demand — the cap protects the parkweb while the auction captures the scarcity premium. Realistic auction clearance: ~$150,000/year average at maturity → **~$1.5–2B/year** from cottages alone.
+- **Cottages — fixed-cap, rising-price (auction-cleared):** a **hard cap of 10,000 cottages (500/region)** on 50-year leases. Because supply is capped, leases are **auctioned** and the clearing price rises with demand — the cap protects the parkweb while the auction captures the scarcity premium. Realistic auction clearance: ~$150,000/year average at maturity → **~$1.5–2B/year** from cottages alone.
 
 - **Timeshares — scaled to carrying capacity, auctioned:** timeshare units **scale with the parkweb's measured carrying capacity** (ecological load limits set by the park authority), and are **auctioned** within that limit. The 10% foreign-ownership cap is retained. ~100,000–200,000 timeshare-weeks/year at $20,000–$30,000/week → **~$3–4B/year** at maturity.
 
@@ -285,7 +285,7 @@ Management contracts for regional and municipal parks are issued preferentially 
 
 **Cottage & timeshare buildout (Model B — state prepares, foreigner builds):**
 
-The state prepares sites (access roads, grid connection or solar micro-grid, water supply, waste management, DCALS-compliant infrastructure). The leaseholder builds to NHA-approved, DCALS-compliant dark-sky designs — the state does not hand a blank cheque on a dark-sky reserve.
+The state prepares sites (access roads, grid connection or solar micro-grid, water supply, waste management, DCLS-compliant infrastructure). The leaseholder builds to NHA-approved, DCLS-compliant dark-sky designs — the state does not hand a blank cheque on a dark-sky reserve.
 
 | Item | Cost | Funded by |
 |:---|:---|:---|
@@ -331,9 +331,9 @@ The Alliance Network is the **voluntary federation of CCIF depositors** — ~1,8
 
 - **Education (Education 2.3):** clubs and the parkweb serve as **venues for recreation apprenticeships** and host the school **sports/recreation representative** pathway; they provide lifelong-recreation access consistent with the education system's lifelong-learning ethos.
 
-### 5.7 Dark Corridor Compliance for Club Facilities
+### 5.7 Darksky Compliance for Club Facilities
 
-Club lodges, campsites, and trailheads within National/Regional parks comply with DCALS (indirect red-spectrum motion lighting scaled by square footage; retroreflective markers; retroreflective paint as alternative pathway; no horizon-visible emission). Incentives: DCLTI property-tax reduction (0.75% → 0.70%, or 0.68% for full retroreflective compliance) and expedited CLS loans (24-hour, service-sector rate).
+Club lodges, campsites, and trailheads within National/Regional parks comply with DCLS (indirect red-spectrum motion lighting scaled by square footage; retroreflective markers; retroreflective paint as alternative pathway; no horizon-visible emission). Incentives: DCLTI property-tax reduction (0.75% → 0.70%, or 0.68% for full retroreflective compliance) and expedited CLS loans (24-hour, service-sector rate).
 
 ---
 
@@ -351,7 +351,7 @@ Club lodges, campsites, and trailheads within National/Regional parks comply wit
 | Cottages | **Auctioned, cap 10,000** | Auctioned (~$150k/yr avg clearance) |
 | Timeshares | **Auctioned, capacity-scaled** | Auctioned (10% foreign cap) |
 | Loan rates | **service-sector band: reference + 0.5% to + 1.5%** (~4–5%). Reference rate ~3.5% (Monetary §1.5A) | same |
-| **Dark Corridor Fund surplus to parks** | building | **~$1.6B/yr** at corrected infrastructure revenue (Infrastructure Act 3.1 — after ~$1.1B of corridor items) |
+| **Darksky Fund surplus to parks** | building | **~$1.6B/yr** at corrected infrastructure revenue (Infrastructure Act 3.1 — after ~$1.1B of corridor items) |
 | Pollinator agricultural benefit | — | ~$6.8B/yr |
 | Parkweb | 540,000 km² | 540,000 km² |
 | **Corridon Basin Biosphere Reserve** | **Established (source-to-mouth, protected-by-default)** | Connected to Frostpeak/Ember ranges |
@@ -371,7 +371,7 @@ Club lodges, campsites, and trailheads within National/Regional parks comply wit
 
 ## Section 7: 50-Year Implementation Plan (Condensed)
 
-| Phase | Years | Parkweb (km²) | Elevated freeways (km) | DCALS Compliance | Funding |
+| Phase | Years | Parkweb (km²) | Elevated freeways (km) | DCLS Compliance | Funding |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1: Foundation | 2025–2035 | 200,000 | pilot 100 km (Region 5) | Pilot only | ~$10B/yr CPI |
 | 2: Expansion | 2035–2050 | 350,000 | 1,550 | 500 structures | ~$10B/yr CPI |
@@ -380,14 +380,14 @@ Club lodges, campsites, and trailheads within National/Regional parks comply wit
 
 ---
 
-## Section 0: Interdependencies (Harmonized) — Reference
+## Section 8: Interdependencies (Harmonized) — Reference
 
 | Act | Integration Point |
 | :--- | :--- |
 | **Monetary Act 9.9.1** | SWF capped at 12% GDP; automatic citizen dividends; reference-rate-anchored service-sector loans (Monetary §1.5A); Informal Economy Guarantee (cash park fees protected); auctioned cottages/timeshares (Monetary §6); no binding quotas |
 | **Credit Union Act 6.0** | Micro-loans for park-adjacent informal businesses ($500, reference + 0.5% (~4%), self-attested, 24hr) |
 | **FCL Act 3.4** | 30,000 recreation co-op clubs on the **progressive waterfall** (5%/15%/~22%, 2:1:2) + the parks-stewardship levy; Co-op Board listing; Freedom Share eligibility |
-| **Infrastructure Act 3.1** | Elevated freeway insect corridors (3,000 km) intersect parkweb; DCALS/DCLTI; retroreflective paint program; Dark Corridor Fund (10% of infrastructure access-fee revenue ≈ ~$2.7B/yr by 2075; **parks receives the ~$1.6B surplus** after ~$1.1B of corridor items) |
+| **Infrastructure Act 3.1** | Elevated freeway insect corridors (3,000 km) intersect parkweb; DCLS/DCLTI; retroreflective paint program; Darksky Fund (10% of infrastructure access-fee revenue ≈ ~$2.7B/yr by 2075; **parks receives the ~$1.6B surplus** after ~$1.1B of corridor items) |
 | **Energy Act 5.0** | Grid (~2,814 TWh, nuclear + geothermal) powers park infrastructure; 21 antifragile hubs (including repository) anchor regional services |
 | **Healthcare Act 6.9** | Parks and clubs as **preventive-health infrastructure** — green space and recreation feed the Healthcare Act's preventive-care and mental-wellness goals |
 | **Education Act 2.6** | Parkweb and clubs as venues for recreation apprenticeships and the school sports/recreation representative; lifelong-recreation access |
