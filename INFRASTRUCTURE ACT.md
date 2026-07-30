@@ -142,7 +142,7 @@ Construction is funded by **general revenue** (Sovereign Functions Act §7.3). A
 
 Industrial Corridors radiate inland from riverside nuclear and WTE plants, carrying buried warm-water pipelines and CO₂ pipelines to greenhouses, hemp processing, and hempcrete plants.
 
-### 6.1 Warm-Water Pipelines
+### 6.1 Warm-Water Irrigation Pipelines
 
 - Plant draws cooling water once
 - Warm water becomes irrigation supply, piped (buried) inland
@@ -195,7 +195,7 @@ To preserve nocturnal insect populations and dark skies near parks, wildlife cor
 
 | Actor | Incentive |
 | :--- | :--- |
-| Commercial/industrial (DCLS-compliant) | Property tax: 0.75% → 0.70% + 5% electricity rebate |
+| Commercial/industrial (DCLS-compliant) | Property tax: 0.75% → 0.70% |
 | Farms/residences (DCLS-compliant) | 5% electricity rebate |
 
 ### 8.5 Penalties (Mandatory Zones Only — Commercial/Industrial)
