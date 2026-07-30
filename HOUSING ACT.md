@@ -1,7 +1,6 @@
-# Crossroads Durahome Housing Act of 2025
+The Nation-State of Crossroads Housing Act of 2025: Shelter Foundation of a Nation
 
-
-**Draft:** 2.7 | **Date:** July 22, 2026
+**Draft:** 2.8 | **Date:** July 22, 2026
 **Author:** Thunderfish2
 
 ---
@@ -17,22 +16,6 @@ The Housing Act establishes the shelter foundation of New Crossroads, promoting 
 Funded by the **SWF (capped at 12% of GDP, ~$230B → ~$2.28T, per Monetary Act 9.9.1)**, a **$94B Forced Savings base (scaling with population)**, and **reference-rate-anchored service-sector housing loans**, it facilitates co-op/corporate production of materials and greenhouses (leased to co-ops), transitioning to a free market by 2035.
 
 Co-op housing FCLs pay the 5% co-op profit tax on profit over $100,000 — co-op contractor preference with first right of refusal.
-
----
-
-## Section 0: Interdependencies
-
-| Act | Integration Point |
-| :--- | :--- |
-| **Monetary Act 9.9.1** | Reference-rate-anchored service-sector housing loans (Monetary §1.5A); Informal Economy Guarantee; asymmetric scrutiny; SWF capped at 12% GDP; co-op profit tax 5%, Forced Savings (~$94B base); no binding quotas |
-| **Credit Union Act 6.0** | Micro-loans/micro-mortgages for informal housing; embedded CLS loan officers (demand-distributed) |
-| **FCL Act 3.4** | Housing co-ops structured as FCLs (Tier 1–3); CCJV provisions for mixed ownership; ~195,100 core FCLs available for housing production |
-| **Sovereign Functions Act** | The NHA is an independent board chartered under the independent board registry; Special Auditors (§3) enforce compliance |
-| **Chamber Act** | Regional Boards (§3) approve projects and verify compliance; independent board registry (§7) |
-| **Municipal & Regional Funding Act** | **Residential land/homes are never taxed** — the guarantee that a homeowner is never taxed back into tenancy; DCLTI applies only to taxable commercial/industrial housing facilities |
-| **Infrastructure Act 3.1** | DCALS/DCLTI dark-corridor standards for housing near elevated insect corridors; retroreflective paint program |
-| **Energy Act 5.1** | Grid powers homes; geothermal heat-pump integration in feasible regions; SMR-hub resilience |
-| **Industry Act 5.1** | Hempcrete, low-carbon concrete, hemp fiberboard, and heat-pump production |
 
 ---
 
@@ -60,7 +43,7 @@ All housing loans (construction, mortgages, geothermal retrofits, material produ
 | Geothermal retrofit | Service-sector band: reference + 0.5% to + 1.5% (~4–5%) |
 | Hempcrete plant (co-op) | Service-sector band: reference + 0.5% to + 1.5% (~4–5%) |
 | Mortgage (primary residence) | Service-sector band: reference + 0.5% to + 1.5% (~4–5%) |
-| Non-Durahome construction | Service-sector band: reference + 0.5% to + 1.5% (~4–5%) |
+| Non-Durahome construction | Service-sector band: reference + 1.5% to + 2.5% (~5–6%) |
 
 ### 1.3 Informal Sector Housing Access (per Credit Union Act 6.0)
 
@@ -70,11 +53,11 @@ Informal workers and cash-based citizens have automatic access to micro-loans (~
 
 Housing construction contracts, material-production licenses, and greenhouse leases are issued preferentially to co-ops (first right of refusal). A structural preference, not a binding quota.
 
-### 1.5 Dark Corridor Compliance for Housing (per Infrastructure Act 3.1)
+### 1.5 Darksky Compliance for Housing (per Infrastructure Act 3.1)
 
-Housing developments, geothermal compounds, and material-production facilities within 500m of Dark Corridor Elevated freeways, parkland, wildlife & insect corridors must comply with DCALS: indirect red-spectrum motion lighting only (scaled by square footage), retroreflective markers (no powered edge lighting), retroreflective building paint as an alternative pathway, and no horizon-visible emission.
+Housing developments, geothermal compounds, and material-production facilities within 500m of Darksky Corridor elevated freeways, parkland, wildlife & insect corridors must comply with **Darksky Compliant Lighting Standards (DCLS)** — indirect red-spectrum motion lighting only (scaled by square footage), retroreflective markers (no powered edge lighting), retroreflective building paint as an alternative pathway, and no horizon-visible emission.
 
-**DCLTI tax incentive (clarified).** The DCLTI property-tax reduction (0.75% → 0.70%, or 0.68% for full retroreflective compliance) applies to **commercial/industrial housing-related facilities** — hempcrete and concrete factories, heat-pump plants, geothermal drilling sites — which **are** subject to commercial property tax (Municipal & Regional Funding Act §2.1). It does **not** apply to owner-occupied homes, because **residential land and homes are never taxed at all** (Municipal & Regional Funding Act §1.2) — there is no residential property tax to reduce, however home owners adopting voluntary compliance receive a 5% electricity rebate.
+**DCLTI tax incentive (clarified).** The DCLTI property-tax reduction (0.75% → 0.70%, or 0.68% for full retroreflective compliance) applies to **commercial/industrial housing-related facilities** — hempcrete and concrete factories, heat-pump plants, geothermal drilling sites — which **are** subject to commercial property tax (Municipal & Regional Funding Act §2.1). It does **not** apply to owner-occupied homes, because **residential land and homes are never taxed at all** (Municipal & Regional Funding Act §1.2) — there is no residential property tax to reduce; however home owners adopting voluntary compliance receive a 5% electricity rebate.
 
 ---
 
@@ -110,7 +93,7 @@ Durahomes are modular hempcrete/low-carbon-concrete homes with passive design an
 - **Formal workers:** ~$5,000/year, payroll-deducted.
 - **Informal workers:** ~$600/year auto-routed from the citizen dividend by default (Monetary Act §2.3 — opt-out, not opt-in). Plus the universal savings match: voluntary contributions matched $1-for-$1 up to $1,000/year from general revenue.
 - **Accumulates at the credit-union savings rate** (~2.5%, reference − 1%).
-- **Withdrawal: ~$25,000 - %75,000** for the Durahome down payment. One withdrawal, verified by the credit union against a purchase contract.
+- **Withdrawal: ~$25,000 - $75,000** for the Durahome down payment. One withdrawal, verified by the credit union against a purchase contract.
 - At $5,000/year for 5 years at 2.5%, a formal worker accumulates ~$26,300 — enough for the withdrawal. An informal worker on the dividend default alone accumulates ~$3,200; with the match and own contributions, ~$8,000–12,000. The co-op housing structure (§3.2, first right of refusal) bridges the gap through shared-equity arrangements.
 
 **Phase 2 — Retirement Accumulation (post-house purchase until age 65):**
@@ -132,7 +115,7 @@ Durahomes are modular hempcrete/low-carbon-concrete homes with passive design an
 - **Geothermal rebate:** ~$5,000.
 - **Co-op tax rate:** 5% profit tax over $100k (per Monetary 9.9.1). **SWF contribution: $0 (eliminated).**
 
-### 3.4 Housing Loans (Reference-Rate-Anchored)
+### 3.3 Housing Loans (Reference-Rate-Anchored)
 
 | Loan Type | Source | Service-sector rate |
 | :--- | :--- | :--- |
@@ -200,7 +183,7 @@ All housing loans are reference-rate-anchored nominal rates (Monetary §1.5A).
 - **Voting:** 6/11 routine, 8/11 strategic; **major investments ratified by the Territorial Chamber (11/20)** — not the sovereign.
 
 ### 7.2 Regional Boards
-- 20 boards (220 members) per Chamber Act §3; approve FCL/corporate projects (co-op preference), distribute subsidies, enforce mandates, verify DCALS compliance.
+- 20 boards (220 members) per Chamber Act §3; approve FCL/corporate projects (co-op preference), distribute subsidies, enforce mandates, verify DCLS compliance.
 
 ---
 
@@ -212,8 +195,8 @@ All housing loans are reference-rate-anchored nominal rates (Monetary §1.5A).
 | Total SWF | ~**$230B** seed (3.8% of GDP) | capped at 12% of GDP (~$720B → ~$2.28T) |
 | **Housing SWF — revolving construction capital** | ~**$9B** (~3.8% of the SWF) | ~**$88B** (~3.8% of the SWF) |
 | Housing output | ~$9B/yr (50,000 Durahomes × $180k) | ~$90B/yr (500,000 × $180k) |
-| — of which co-op construction (SWF-funded, §3.4) | ~$5.9B/yr | ~$58.5B/yr |
-| — of which private mortgage (credit-union-funded, §3.4) | balance | balance |
+| — of which co-op construction (SWF-funded, §3.3) | ~$5.9B/yr | ~$58.5B/yr |
+| — of which private mortgage (credit-union-funded, §3.3) | balance | balance |
 | Co-op SWF recharge | $0 (eliminated) | $0 |
 | Co-op profit tax | 5% (over $100k) | 5% (over $100k) |
 | Loan rates | **service-sector band: reference + 0.5% to + 1.5%** (~4–5%), set below the commercial band by design. Reference rate ~3.5% (Monetary §1.5A) | same |
@@ -224,10 +207,26 @@ All housing loans are reference-rate-anchored nominal rates (Monetary §1.5A).
 | Energy savings (geothermal regions) | ~$2,000/year | — |
 | Energy savings (standard) | ~$1,200/year | — |
 | CO₂ offset | 100,000 tons/year | 450,000 tons/year |
-| DCALS-certified developments | 0 | 10,000+ |
+| DCLS-certified developments | 0 | 10,000+ |
 | Residential land/home tax | **None, at any level** — federal, regional, or municipal (Chamber Act §11, Floor 2; Sovereign Functions Act §8.2) | None |
 | NHA | Independent sector board — Territorial Chamber nominates, the Productive Chamber confirms (Chamber Act §7.1). **No sovereign role** | same |
 | Data architecture | PPK + CED (no CWD) | PPK + CED |
+
+---
+
+## Section 0: Interdependencies (Harmonized) — Reference
+
+| Act | Integration Point |
+| :--- | :--- |
+| **Monetary Act 9.9.1** | Reference-rate-anchored service-sector housing loans (Monetary §1.5A); Informal Economy Guarantee; asymmetric scrutiny; SWF capped at 12% GDP; co-op profit tax 5%, Forced Savings (~$94B base); no binding quotas |
+| **Credit Union Act 6.0** | Micro-loans/micro-mortgages for informal housing; embedded CLS loan officers (demand-distributed) |
+| **FCL Act 3.4** | Housing co-ops structured as FCLs (Tier 1–3); CCJV provisions for mixed ownership; ~195,100 core FCLs available for housing production |
+| **Sovereign Functions Act** | The NHA is an independent board chartered under the independent board registry; Special Auditors (§3) enforce compliance |
+| **Chamber Act** | Regional Boards (§3) approve projects and verify compliance; independent board registry (§7) |
+| **Municipal & Regional Funding Act** | **Residential land/homes are never taxed** — the guarantee that a homeowner is never taxed back into tenancy; DCLTI applies only to taxable commercial/industrial housing facilities |
+| **Infrastructure Act 3.1** | DCLS/DCLTI darksky standards for housing near elevated insect corridors; retroreflective paint program; Darksky Fund |
+| **Energy Act 5.1** | Grid powers homes; geothermal heat-pump integration in feasible regions; SMR-hub resilience |
+| **Industry Act 5.1** | Hempcrete, low-carbon concrete, hemp fiberboard, and heat-pump production |
 
 ---
 
@@ -243,10 +242,10 @@ The Housing Act is the shelter foundation of New Crossroads — and the place wh
 
 - **Honest about the land.** Geothermal where the earth is shallow and warm; solar where it isn't. The act does not force an expensive technology onto bedrock it cannot afford. The Durahome in Region 4, the timber lodge in Region 7, the cash-rented apartment in Region 1 — all valid, all protected.
 
-- **Light that respects the night.** Red-spectrum, motion-activated, indirect lighting near the dark corridors keeps residents safe without trapping the insects — rewarded by a tax incentive where a tax exists, never imposed on the home itself.
+- **Light that respects the night.** Red-spectrum, motion-activated, indirect lighting near the darksky corridors keeps residents safe without trapping the insects — rewarded by a tax incentive where a tax exists, never imposed on the home itself.
 
 When a family moves into a Durahome, pays a cost-of-living-indexed mortgage they can actually carry, watches the energy bill fall to a few hundred a year, and knows the home can never be taxed out from under them — that is a citizen with a genuine stake in the nation. That is the Housing Act: not identical boxes, but a durable, affordable, owned home for every citizen, and the guarantee that it stays theirs.
 
 ---
 
-**End of Draft 2.7**
+**End of Draft 2.8**
