@@ -26,8 +26,8 @@ In **2025** it supports **112M citizens** and a **~$6T GDP** (~$53,600 per capit
 
 The island's **long axis runs north–south** along its meridian. The **east and west coasts** are its two long flanks (trade and fishing coasts); the **north and south ends** anchor the climate extremes:
 
-- **Far south — polar/alpine (cold):** the **Frostpeak Range**, a high glaciated cordillera near the south pole. Source of the nation's mineral wealth (uranium, coal, metals) and its glaciers. Sparsely populated, cold, rugged.
-- **South-central — volcanic/geothermal (cool-temperate):** the **Ember Range**, a volcanic spine of geothermal heat — the nation's renewable-heat heartland.
+- **Far south — polar/alpine (cold):** the **Frostpeak Range**, a high glaciated cordillera near that dominantates the islands broader southern end. Source of the nation's mineral wealth (uranium, coal, metals) and its glaciers. Sparsely populated, cold, rugged.
+- **South-central— volcanic/geothermal (cool-temperate):** the **Ember Range**, a volcanic spine of mountains conected to the western edge of the Frostpeak range, running halfway down the nations western coast source of the nation's geothermal heat — the nation's renewable-heat heartland.
 - **Temperate middle — the breadbasket:** the **Heartland Plains**, broad temperate prairie, irrigated by the Corridon and the Industrial-Corridor warm-water pipelines.
 - **Warm-temperate north-center — the great confluence:** where the Corridon meets its major tributaries and the north–south river corridor crosses the east–west land routes — the seat of **Crossroads City.**
 - **Equatorial north — hot (delta, desert coast, sea-gates):** the Corridon's **northern delta**, the warm coastal **solar desert**, and the principal sea-ports, including **Rivergate City** near the equatorial coast.
