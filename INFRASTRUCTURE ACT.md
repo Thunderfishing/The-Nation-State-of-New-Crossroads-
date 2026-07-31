@@ -1,6 +1,6 @@
 New Crossroads Infrastructure Act of 2025
 
-**Draft:** 3.1.| **Date:** July 22, 2026
+**Draft:** 3.1. **Date:** July 22, 2026
 **Author:** Thunderfish2
 
 ---
