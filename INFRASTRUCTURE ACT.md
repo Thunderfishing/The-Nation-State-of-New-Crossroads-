@@ -118,6 +118,30 @@ Construction is funded by **general revenue** (Sovereign Functions Act §7.3). A
 - **Ownership:** 70% co-op, 30% state
 - **Maintenance:** Cooperative concession under NInfraB oversight
 
+### 4.1 Rivergate Delta Port — Seawater Basin (New Build)
+
+The old regime's delta port at Rivergate City (Region 2) is silted, neglected, and blocking the Corridon's natural delta ecology. Rather than dredging the old facility, the Infrastructure Act authorizes a new-build port in a recovered paleo-channel adjacent to the active Corridon delta — designed as a **seawater-filled basin** with controlled freshwater access.
+
+**Design:**
+
+| Element | Specification |
+|---|---|
+| Basin type | Saltwater — seaward end open to the ocean, tidal exchange for natural depth maintenance |
+| Freshwater link | Single lock at the junction with the active Corridon — barge/river-sea vessel transfer only. The lock is the silt barrier; the main river does not flow through the basin |
+| Storm surge protection | **Netherlands-style storm surge barrier** (Maeslantkering concept) at the seaward entrance — automated closure on surge forecast, protecting the basin and its berths from extreme tides |
+| Capacity target | Handles the bulk of the nation's 1.5B-ton sea-port throughput at maturity — deep-water berths for ocean-going bulk carriers, container terminals, and RoRo facilities |
+| Old delta port | Retired once the new basin is operational. Footprint returned to **tidal wetland/mangrove restoration** (Parks Act §8) — the Corridon delta becomes a living river-mouth system again |
+| Lock scheduling | Sized to avoid bottlenecking the ~700M-ton Corridon barge traffic transferring to/from sea vessels |
+| Environmental flow | Unaffected — the main Corridon discharge continues through the active delta channels, nourishing wetlands and the river mouth. The lock's environmental-flow outlet is sized independently |
+
+**Funding:** General revenue — the **~$50B sustainability line** (Sovereign Functions Act §7.3) covers the Rivergate construction as a combined infrastructure/environmental restoration project. The old port demolition and wetland restoration are integral to the project, not a separate parks expenditure.
+
+**Why seawater, not freshwater extension:**
+- Natural tidal scour reduces maintenance dredging vs. a stagnant freshwater basin
+- Ocean-going ships enter directly without needing full river depth or the lock — only barge traffic uses the lock
+- Clean separation: freshwater navigation and sediment management stay on the active Corridon; the port operates as a conventional coastal harbour
+- The old delta port can be fully retired without disrupting the river's path to the sea
+
 ---
 
 ## Section 5: Corridon/Westflow Barges
@@ -142,16 +166,17 @@ Construction is funded by **general revenue** (Sovereign Functions Act §7.3). A
 
 Industrial Corridors radiate inland from riverside nuclear and WTE plants, carrying buried warm-water pipelines and CO₂ pipelines to greenhouses, hemp processing, and hempcrete plants.
 
-### 6.1 Warm-Water Irrigation Pipelines
+### 6.1 Warm-Water Pipelines
 
 - Plant draws cooling water once
 - Warm water becomes irrigation supply, piped (buried) inland
+- Feeds both the **non-arable greenhouse clusters** (Industry Act §3.2) AND **Heartland Plains field agriculture** — the warm-water pipeline is the irrigation backbone for prairie crops as well as greenhouse production
 - Zero evaporation loss, no heat returned to river
 - **Cost:** ~$5M/km (3,000 km = $15B)
 
 ### 6.2 CO₂ Pipelines
 
-- Captured CO₂ piped to greenhouses (enrichment) and hempcrete plants (curing)
+- Captured CO₂ piped to greenhouses (enrichment), hempcrete plants (curing), and **CO₂-cured aggregate manufacturers** (Industry Act §2.11 — carbonate aggregates, carbon fiber production, CO₂-to-fuels). All three product lines sit on the Industrial Corridors, hooked directly into the CO₂ pipeline network.
 - **Cost:** ~$2M/km (4,000 km = $8B)
 
 ### 6.3 Corridor Land-Tax Holiday (DCLS-Contingent)
@@ -195,7 +220,7 @@ To preserve nocturnal insect populations and dark skies near parks, wildlife cor
 
 | Actor | Incentive |
 | :--- | :--- |
-| Commercial/industrial (DCLS-compliant) | Property tax: 0.75% → 0.70% |
+| Commercial/industrial (DCLS-compliant) | Property tax: 0.75% → 0.70% + 5% electricity rebate |
 | Farms/residences (DCLS-compliant) | 5% electricity rebate |
 
 ### 8.5 Penalties (Mandatory Zones Only — Commercial/Industrial)
