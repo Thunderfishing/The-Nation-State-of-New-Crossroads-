@@ -1,6 +1,7 @@
-# New Crossroads Energy Act of 2025: Draft 5.1
+# New Crossroads Energy Act of 2025: Draft 5.2
 
-**Draft:** 5.1 | **Date:** July 21, 2026 **Author:** Thunderfish2
+**Draft:** 5.1 | **Date:** July 21, 2026
+**Author:** Thunderfish2
 
 ---
 
@@ -24,22 +25,41 @@ Managed by the **National Energy Board (NEB)**, an independent sector board (Cha
 
 ---
 
+## Section 0: Interdependencies
+
+| Act | Integration Point |
+|:---|:---|
+| **Utilities Act 1.4** | Asset/operator separation; co-op maintenance concessions (ACI-tied, §1.4); Asset Renewal Fund (§2.4); transmission access fees (155% of annual maintenance); anti-rot guarantees |
+| **Industry Act** | 2,814 TWh grid powers 30,000 ha hemp, 45,000 ha greenhouses, transformer production, heavy equipment, steel, and foreign factories |
+| **Infrastructure Act 2.4** | Buried lines connect to 75,000 km rail (80% electrified, 20 GW), ports, barges, and 4,000 km CO₂ pipelines. Industrial Corridors (§3.7) radiate inland from riverside plants |
+| **Monetary Act 9.9.1** | Transmission access fees paid in BWC; 30% of access-fee revenue to SWF. Co-op generators pay 5% profit tax on profits over $100k. Loans reference-rate-anchored (§1.5A) |
+| **Credit Union Act 6.0** | Generation co-ops access reference-rate-anchored loans; CLS officers demand-distributed |
+| **FCL Act 3.4** | Generation utilities operate as Tier 2/3 FCLs. Heavy Industry Clause applies to nuclear SMRs and large geothermal (51% member ownership minimum) |
+| **Parks Act 3.5** | Wind-sited reservoir hydro (§4.3) — dams permitted only on tributaries whose evaporated moisture returns to the glacial catchment. Minimum environmental flow (§2.5) — no withdrawal may take the river below the protected minimum. The Corridon Basin Biosphere Reserve (§2.4) keeps industry off the floodplain |
+| **Education Act 2.6** | ~50,000–75,000 mandatory-service apprentices/year in energy-related trades (§3.5C), stipend-paid by general revenue. Structural labor-cost reduction for the buildout (§8.3) |
+| **Sovereign Functions Act 2.2** | NEB is an independent board; Special Auditors (§3) enforce compliance |
+| **Chamber Act** | Regional Boards (§3) oversee regional energy; independent board registry (§7) |
+
+---
+
 ## Section 1: Asset/Operator Separation
 
 ### 1.1 State-Owned Assets
 
-| Asset | 2025 | 2075 | Owner | Maintained by |
+| Asset | 2025 (inherited) | 2075 (target) | Owner | Maintained by |
 |:---|:---|:---|:---|:---|
-| High-voltage buried transmission (>100kV) | 20,000 km | 30,000 km | State (NEB) | Co-op concession (Utilities §1.4) |
-| Medium/low-voltage buried distribution | 50,000 km | 150,000 km | State (Regional Boards) | Co-op concession |
-| EMP-shielded substations | 250 | 750 | State (NEB) | Co-op concession |
-| Strategic transformer reserve | 500 | 5,000+ | State (NEB) | Co-op concession |
-| Antifragile hub SMRs (20 hubs) | 18 GW | 56 GW | State | Co-op concession (NEB oversight) |
+| High-voltage transmission (>100kV) | ~20,000 km (overhead, unhardened — inherited from old regime) | 30,000 km (all buried, CME-hardened) | State (NEB) | Co-op concession (Utilities §1.4) |
+| Medium/low-voltage distribution | ~50,000 km (overhead/shallow-buried, unhardened) | 150,000 km (all buried, CME-hardened by 2095) | State (Regional Boards) | Co-op concession |
+| EMP-shielded substations | 0 (hardening programme begins Year 1) | 750 | State (NEB) | Co-op concession |
+| Strategic transformer reserve | ~50 (inherited Soviet stockpile) | 5,000+ | State (NEB) | Co-op concession |
+| Antifragile hub SMRs (20 hubs) | 18 GW across 6 inherited nuclear plant sites (not yet "hub" architecture — hub conversion begins Year 1) | 56 GW across 21 purpose-built antifragile hubs | State | Co-op concession (NEB oversight) |
 | Repository SMR (Frostpeak) | — | 2 GW | State | Nuclear Stewardship Consortium (§4A.7), NEB oversight |
-| Hydro dams (Westflow + reservoir) | 5 GW | 18 GW | State | Co-op concession |
-| WTE plants (standalone) | 2 GW | 5 GW | State | Licensed to corporations |
-| Geo-coal hybrid plants | 20 GW | 50 GW | State | Licensed to corporations |
-| Geo-WTE hybrid plants | 5 GW | 50 GW | State | Licensed to corporations |
+| Hydro dams (Westflow + reservoir) | 5 GW (2 inherited Westflow dams) | 18 GW (+ 10 new-build wind-sited reservoirs) | State | Co-op concession |
+| WTE plants (standalone) | 2 GW (inherited) | 5 GW | State | Licensed to corporations |
+| Geo-coal hybrid plants | 20 GW (inherited) | 50 GW | State | Licensed to corporations |
+| Geo-WTE hybrid plants | 5 GW (inherited) | 50 GW | State | Licensed to corporations |
+
+> **Founding-year reality.** The old regime's grid exists — 20,000 km of high-voltage transmission and 50,000 km of distribution lines carry power from the inherited nuclear/geo-coal/hydro plants to cities and industry. But it is entirely **overhead and unhardened**: no EMP shielding, no buried cable, no Faraday-caged substations, no strategic transformer reserve worth the name. A Carrington-level CME on Day 1 would destroy most of it. The 70-year grid-hardening programme (§4) converts this inherited grid to buried, CME-hardened infrastructure while continuing to operate it as-is for power delivery. The generation fleet is inherited and operational; the grid is inherited and vulnerable.
 
 Grid construction is funded by **general revenue** (Sovereign Functions Act §7.3). State-owned generation assets (hub SMRs, repository SMR, hydro, WTE, geo-coal, geo-WTE) are sovereign infrastructure. The NEB **owns and sets standards**; hands-on maintenance and operations are contracted to co-op concessions or licensed to corporations.
 
@@ -194,13 +214,13 @@ The 5 GW standalone fleet alone exceeds the ~26M tonnes of burnable waste with ~
 
 ### 4.1 Hardened Assets
 
-| Asset | 2025 | 2095 | Cost (cumulative) | Hardening method |
+| Asset | 2025 (inherited, unhardened) | 2095 (fully hardened) | Cost (cumulative) | Hardening method |
 |:---|:---|:---|:---|:---|
-| Buried high-voltage transmission | 20,000 km | 30,000 km | ~$90B | Buried (GIC-resistant) |
-| Buried distribution lines | 50,000 km | 150,000 km | ~$225B | Buried (GIC-resistant) |
-| EMP-shielded substations | 250 | 750 | ~$1.5B | Faraday cages, GIC-blocking capacitors |
-| Strategic transformer reserve | 500 | 5,000+ | ~$5B | EMP-shielded bunkers |
-| SMRs with Faraday-caged electronics | 75 GW | 170 GW | Included in SMR cost | Passive cooling, EMP shielding |
+| High-voltage transmission | ~20,000 km overhead → to be buried | 30,000 km buried (GIC-resistant) | ~$90B | Progressive burial over 70 years |
+| Distribution lines | ~50,000 km overhead/shallow → to be buried | 150,000 km buried (GIC-resistant) | ~$225B | Progressive burial over 70 years |
+| EMP-shielded substations | 0 | 750 | ~$1.5B | Faraday cages, GIC-blocking capacitors |
+| Strategic transformer reserve | ~50 | 5,000+ | ~$5B | EMP-shielded bunkers |
+| SMRs with Faraday-caged electronics | 75 GW (inherited, not Faraday-caged) | 170 GW (all Faraday-caged) | Included in SMR cost | Passive cooling, EMP shielding added during hub conversion |
 | **Total grid hardening** | | | **~$322B** | **General revenue, phased over 70 years (~$4.6B/yr)** |
 
 ### 4.2 Phased Hardening — Hubs First, Last Mile Last
@@ -469,8 +489,8 @@ This advantage is invisible in the Energy Act's budget tables because it is an E
 |:---|:---|:---|:---|
 | Declare transmission/distribution as state-owned assets | 2025 | $0 | Territorial Chamber |
 | Build 2 international hubs (10 GW each) and 4 regional hubs (8 GW) | 2025–2035 | ~$120B | NEB + concessions |
-| Complete initial 20,000 km buried transmission | 2025–2035 | ~$60B | NEB (co-op concession) |
-| Bury 50,000 km distribution (hub-connected cities) | 2025–2040 | ~$75B | NEB (co-op concession) |
+| Complete initial 20,000 km buried transmission (replacing inherited overhead lines) | 2025–2035 | ~$60B | NEB (co-op concession) |
+| Begin burying 50,000 km distribution (hub-connected cities first, replacing overhead) | 2025–2040 | ~$75B | NEB (co-op concession) |
 | Begin repository SMR construction (2 GW) | 2030 | ~$4B | NEB + Consortium |
 | Begin reprocessing facility Phase 1 (1,000 t/yr) | 2030–2040 | ~$18B | General revenue |
 | Expand nuclear to 130 GW, geothermal to 30 GW | 2025–2040 | Private capital | Co-ops + CCIF + SWF |
@@ -524,12 +544,12 @@ This advantage is invisible in the Energy Act's budget tables because it is an E
 | WTE (standalone) | 2 GW | 5 GW | 5 GW |
 | State-owned generation | 75 GW (68%) | 181 GW (44%) | 181 GW |
 | Competitive generation | 35 GW (32%) | 232 GW (56%) | 232 GW |
-| State-owned transmission (buried) | 20,000 km | 30,000 km | 30,000 km |
-| State-owned distribution (buried) | 50,000 km | 120,000 km | 150,000 km |
+| State-owned transmission | ~20,000 km (overhead, unhardened) | 30,000 km (buried, hardened) | 30,000 km |
+| State-owned distribution | ~50,000 km (overhead, unhardened) | 120,000 km (buried) | 150,000 km (fully buried) |
 | Grid hardening complete | — | — | **2095** |
-| EMP-shielded substations | 250 | 600 | 750 |
-| Strategic transformer reserve | 500 | 3,000 | 5,000+ |
-| Antifragile hubs (incl. repository) | 6 | 21 | 21 |
+| EMP-shielded substations | 0 | 600 | 750 |
+| Strategic transformer reserve | ~50 | 3,000 | 5,000+ |
+| Antifragile hubs (incl. repository) | 6 inherited nuclear sites (not yet hub architecture) | 21 | 21 |
 | Transmission access-fee revenue | ~$15B/yr | ~$49B/yr | ~$55B/yr |
 | Fee allocation | 50% maintenance · 30% SWF · 20% residential credit | same | same |
 | Waste generated | ~155M t/yr | ~179M t/yr | — |
@@ -543,23 +563,6 @@ This advantage is invisible in the Energy Act's budget tables because it is an E
 | Carbon capture | 2M t/yr CO₂ | 5M t/yr | 5M t/yr |
 | Repository | — | Operational | Approaching closure |
 | Data architecture | PPK + CED (no CWD) | same | same |
-
----
-
-## Section 11: Interdependencies
-
-| Act | Integration Point |
-|:---|:---|
-| **Utilities Act 1.4** | Asset/operator separation; co-op maintenance concessions (ACI-tied, §1.4); Asset Renewal Fund (§2.4); transmission access fees (155% of annual maintenance); anti-rot guarantees |
-| **Industry Act** | 2,814 TWh grid powers 30,000 ha hemp, 45,000 ha greenhouses, transformer production, heavy equipment, steel, and foreign factories |
-| **Infrastructure Act 2.4** | Buried lines connect to 75,000 km rail (80% electrified, 20 GW), ports, barges, and 4,000 km CO₂ pipelines. Industrial Corridors (§3.7) radiate inland from riverside plants |
-| **Monetary Act 9.9.1** | Transmission access fees paid in BWC; 30% of access-fee revenue to SWF. Co-op generators pay 5% profit tax on profits over $100k. Loans reference-rate-anchored (§1.5A) |
-| **Credit Union Act 6.0** | Generation co-ops access reference-rate-anchored loans; CLS officers demand-distributed |
-| **FCL Act 3.4** | Generation utilities operate as Tier 2/3 FCLs. Heavy Industry Clause applies to nuclear SMRs and large geothermal (51% member ownership minimum) |
-| **Parks Act 3.5** | Wind-sited reservoir hydro (§4.3) — dams permitted only on tributaries whose evaporated moisture returns to the glacial catchment. Minimum environmental flow (§2.5) — no withdrawal may take the river below the protected minimum. The Corridon Basin Biosphere Reserve (§2.4) keeps industry off the floodplain |
-| **Education Act 2.6** | ~50,000–75,000 mandatory-service apprentices/year in energy-related trades (§3.5C), stipend-paid by general revenue. Structural labor-cost reduction for the buildout (§8.3) |
-| **Sovereign Functions Act 2.2** | NEB is an independent board; Special Auditors (§3) enforce compliance |
-| **Chamber Act** | Regional Boards (§3) oversee regional energy; independent board registry (§7) |
 
 ---
 
@@ -589,6 +592,8 @@ Together, they complete the asset/operator separation pattern:
 
 And when the next Carrington-level CME hits — and it will — New Crossroads will be the only nation with the lights still on.
 
+That is the Energy Act.
+
 ---
 
-**End of Draft 5.1**
+**End of Draft 5.2**
