@@ -125,19 +125,35 @@ The old regime maintained a full aerospace industrial base — airframe factorie
 - **Years 15–30:** Commercial launch rate ~15–20/year. Domestic satellite constellation complete (75 satellites, Military Act §6). Begin offering hosted-payload services to foreign governments and commercial operators.
 - **2075 target:** ~$20B/year aerospace industry (launch services ~$5B, satellite manufacturing ~$5B, military aerospace ~$6B, R&D/export ~$4B).
 
-**The next-generation fighter — evolutionary MiG-29, not clean-sheet stealth:**
+**The Super MiG — engine-led evolution, not a clean-sheet gamble:**
 
-The MiG-29 lineage is the rational core. The nation has the airframe factory, the Klimov/RD-33-family engine production, the pilot training pipeline, and decades of maintenance knowledge. A clean-sheet stealth fighter (Su-57 analogue) would require technologies the holdout never fully possessed — advanced composites, low-observable coatings, sensor fusion — and would take 15–20 years at enormous cost. The Industry Act approach: evolve what works, partner where needed, avoid F-22 cost spirals.
+The Super Phantom proved the highest-leverage fighter upgrade is an engine swap: Israel's PW1120 into the F-4 delivered a generation jump in thrust-to-weight, sustained turn, climb, and range while keeping the airframe. The same logic applies to the MiG-29 — the RD-33 is the binding constraint on energy manoeuvrability, range, and reliability. Fix the engine first; everything else is secondary.
 
-| Upgrade area | Approach | Timeline |
-|---|---|---|
-| Airframe | Strengthened structure, modest RCS reduction (radar-absorbent materials, edge alignment), increased internal fuel | Years 1–10 |
-| Engines | Improved RD-33 derivatives — better time-between-overhaul, digital controls, limited thrust-vectoring | Years 1–8 |
-| Avionics | Modern AESA radar (domestic or partner-sourced), glass cockpit, encrypted data-link, improved EW suite | Years 3–10 (highest-leverage upgrade) |
-| Weapons | Active-radar BVR missiles, modern IR short-range, precision air-to-ground — true multirole | Years 5–12 |
-| Variants | Single-seat fighter + twin-seat multirole/trainer; navalized variant under study | Years 8–15 |
+**Priority 1 — Propulsion (the decisive move):**
+- National or partner-assisted high-thrust RD-33 derivative (or a clean-sheet engine on the same mounting) with digital controls, longer time-between-overhaul, and limited thrust-vectoring.
+- Goal: installed thrust-to-weight comfortably above 1.0 in air-combat configuration and recover the range the original MiG-29 always lacked.
+- The engine programme is a **NIB priority industrial project**, eligible for standard-rate revolving SWF loans and corridor siting. It is the single most important industrial task in the aerospace sector.
 
-This produces a **4.5-generation multirole fighter** — competitive with late F-16s or early Su-30s, significantly more capable than the inherited 1980s MiG-29s, and built entirely by domestic co-op aerospace enterprises. True 5th-generation capability is a later programme, pursued only with foreign partnership under the §2.5 co-op integration model.
+**Priority 2 — Avionics and combat system (highest combat-effectiveness gain per dollar after the engine):**
+- Modern AESA radar (domestic or partner-sourced via the §2.5 semiconductor/EV partnership template — foreign process knowledge in, domestic labour and materials dominant, ownership migrates to workers).
+- Glass cockpit, HOTAS, helmet-mounted cueing, encrypted data-link, and a serious EW suite.
+- Basic sensor fusion so the aircraft operates as part of a networked force, not a pure visual-range dogfighter.
+- Full integration of active-radar BVR missiles, modern IR short-range missiles, and precision air-to-ground munitions — true multirole.
+
+**Priority 3 — Airframe (keep what works, fix what doesn't):**
+- Life-extension structural work and selective weight reduction.
+- Modest RCS reduction (radar-absorbent materials, edge alignment, careful antenna/weapons placement) — without destroying existing production tooling or requiring full stealth shaping.
+- Conformal or semi-conformal fuel to fix the classic short-legs problem.
+- No radical aerodynamic changes. Optional small canards or leading-edge extensions only if wind-tunnel data shows clear sustained-turn benefit without excessive complexity.
+
+**Variants (commonality over specialisation):**
+- Single-seat air-combat / multirole (the core).
+- Twin-seat combat-capable trainer that is also a fully operational strike aircraft.
+- Possible navalized, reconnaissance, or electronic-attack derivatives later.
+
+**What the Super MiG is — and what it isn't.** A well-executed Super MiG sits in the same broad capability band as a late MiG-29M / early MiG-35 or a well-upgraded early F-16: strong kinematics, decent BVR capability, true multirole flexibility, and acceptable range. It would not match a modern F-15EX, Rafale, or J-10C in sensor fusion or sustained energy, and it would be thoroughly outclassed by any fifth-generation aircraft. That is acceptable. The goal is a sovereign, supportable, co-op-built fighter that closes the most painful gaps in the inherited fleet — not a world-beater.
+
+**Production:** Low tens of aircraft per year in the first decade. Quality and commonality matter more than numbers. The programme is explicitly barred from competing with higher-priority mining-machinery, shipbuilding, and mature-node semiconductor efforts for engineering talent and capital. True 5th-generation capability is a later programme, pursued only with significant foreign partnership under the §2.5 co-op integration model.
 
 **Commercial aviation — 737-class regional jets and freighters:**
 
