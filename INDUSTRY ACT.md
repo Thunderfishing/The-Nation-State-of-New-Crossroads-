@@ -155,15 +155,15 @@ The Super Phantom proved the highest-leverage fighter upgrade is an engine swap:
 
 **Production:** Low tens of aircraft per year in the first decade. Quality and commonality matter more than numbers. The programme is explicitly barred from competing with higher-priority mining-machinery, shipbuilding, and mature-node semiconductor efforts for engineering talent and capital. True 5th-generation capability is a later programme, pursued only with significant foreign partnership under the §2.5 co-op integration model.
 
-**Commercial aviation — 737-class regional jets and freighters:**
+**Executive jet manufacturing — realistic niche, not airliner ambition:**
 
-Clean-sheet widebody airliners (777/A350 class) are beyond any new entrant's realistic reach — $15–30B development cost, 8–12 year certification, and a duopoly that no nation has broken. But **737-class regional/commuter jets** (100–220 seats, 2,000–4,000 nm range) are a tractable industrial project at $2–8B development cost with 4–7 year certification timelines. Freighter derivatives (main-deck cargo door, strengthened floor) extend the programme's market.
+Clean-sheet 737-class airliners need ~500+ orders to break even — a global sales operation competing with Boeing and Airbus. Executive/business jets (Gulfstream/Bombardier class, 8–19 seats, 5,000–7,000 nm range) need ~$1–3B development, production in dozens per year, and sell on quality and range rather than unit cost. Two small manufacturers — one co-op, one corporate/co-op joint venture — each producing 20–40 aircraft per year. The MiG airframe/engine expertise transfers directly: aerodynamics, avionics integration, composite structures. And an island nation near Point Nemo has a natural domestic market: its own government, co-op executives, and every foreign investor who needs to get there.
 
-- **Years 1–10:** Foreign partnership (process knowledge, engines, avionics) under the §2.5 co-op integration model. Domestic content starts at airframe structure and assembly, scaling to 50%+ by Year 15.
-- **Years 10–20:** First domestic-assembled regional jet. Freighter variant follows within 3 years.
-- **2075 target:** ~$5B/year domestic aviation industry — regional jets for domestic routes and island-nation export markets, freighters for the merchant marine's air-cargo complement.
+**The 20-year bridge — Super MiG to next-gen clean-sheet:**
 
-- **Scale:** ~$8B (2025, inherited military aerospace) → ~$20B (2075, full spectrum: launch, satellites, fighters, commercial jets).
+The Super MiG is the "sovereign, supportable, good enough now" aircraft — a 20-year bridge. The next-generation clean-sheet fighter starts development ~Year 15 when the nation has three things it lacks at founding: (1) engine maturity from the Super MiG programme, (2) **domestically produced carbon fiber** from the CO₂/carbon-fiber industry (§2.11) — the single technology gap between 4.5-gen and true 5th-gen, and (3) sensor-fusion experience from operating the Super MiG's networked avionics. First flight ~Year 20–22, operational ~Year 25. The Super MiG serves its 20 years and retires as the next-gen replaces it — the same lifecycle as any fighter programme. The carbon-fiber industrial base, built for export over Years 5–15, becomes the defence-critical supply chain for the airframe the nation could not have built at founding.
+
+- **Scale:** ~$8B (2025, inherited military aerospace) → ~$20B (2075: launch services ~$5B, satellite manufacturing ~$5B, military aerospace ~$6B, executive jets ~$2B, R&D/export ~$2B).
 - **Tax:** corporate aerospace 15–20% profit tax; co-op aerospace 5% over $100k.
 - **Facilitation:** ~$500M/year reference-rate-anchored SWF loans (standard rate).
 - *(Arms/aerospace exports subject to the national-security veto, Military Act §11.)*
@@ -191,26 +191,44 @@ The old regime's military-industrial complex produced working hypersonic missile
 
 ### 2.10 Aviation Industry (Commercial)
 
-Distinct from military aerospace (§2.7). The commercial aviation sector covers civilian aircraft manufacturing, maintenance/repair/overhaul (MRO), and air-cargo operations — building on the same airframe and engine industrial base that produces the next-gen MiG-29 but oriented toward the civil market.
+Distinct from military aerospace (§2.7). The commercial aviation sector covers executive jet manufacturing (§2.7), civilian maintenance/repair/overhaul (MRO), and air-cargo operations.
 
-**The opportunity:** New Crossroads is an island nation where domestic air travel and air cargo are essential, not optional. A 737-class regional jet programme (§2.7) produces both passenger and freighter variants. The MRO sector services the domestic fleet and positions for regional export.
+- **Executive jets:** Two manufacturers (one co-op, one CCJV) producing 20–40 business jets per year (8–19 seats, 5,000–7,000 nm range). Domestic market: government, co-op executives, foreign investors transiting to Point Nemo. Export market: island nations, developing-economy governments, charter operators.
+- **MRO:** Co-op-operated maintenance facilities at the 3 airbases (dual-use military/civilian) and 2–3 dedicated civilian MRO centres. Domestic MRO eliminates foreign dependency for engine overhauls and avionics servicing. Services both the domestic fleet and regional foreign carriers.
+- **Domestic airline fleet:** Purchased foreign-built (737/A320 class) for inter-regional routes. No domestic airliner production — the nation buys what works and maintains it domestically.
+- **Air-cargo integration:** Purchased or leased freighters feed into the merchant marine logistics network — air for high-value/time-sensitive, sea for bulk.
 
-- **Domestic fleet requirement:** ~200–400 regional jets (100–220 seats) for inter-regional routes by 2075, plus ~50–100 freighter variants for air cargo to supplement the merchant marine.
-- **MRO:** co-op-operated maintenance facilities at the 3 airbases (dual-use military/civilian) and 2–3 dedicated civilian MRO centres. Domestic MRO eliminates foreign dependency for engine overhauls and avionics servicing.
-- **Air-cargo integration:** freighter variants feed into the merchant marine logistics network — air for high-value/time-sensitive, sea for bulk.
-
-- **Scale:** ~$5B (2025, inherited military aviation services + small civilian MRO) → ~$10B (2075, regional jet production ~$5B + MRO ~$3B + air-cargo operations ~$2B).
+- **Scale:** ~$3B (2025, inherited military aviation services + small civilian MRO) → ~$8B (2075: executive jet production ~$3B + MRO ~$3B + air-cargo operations ~$2B).
 - **Tax:** corporate 15–20% profit tax; co-op operators 5% over $100k.
 - **Facilitation:** ~$500M/year reference-rate-anchored SWF loans (standard rate).
 
-### 2.11 CO₂ Industry (Service-Sector)
+### 2.11 CO₂ & Carbon Materials Industry (Service-Sector)
 
-- **Scale:** ~$1B (~$500M exports).
-- **Rate:** service-sector (low) — CO₂ capture benefits climate.
-- **Products:** carbonate aggregates (500,000 tons/year), CO₂-to-fuels (50,000 tons/year).
-- **Corridor siting:** CO₂ processing sits on the Industrial Corridors beside the CO₂ pipelines (sourced from coal/WTE capture, Energy Act 5.0), feeding greenhouses and hempcrete curing.
-- **Tax:** co-op CO₂ processors 5% over $100k.
-- **Facilitation:** ~$1.35B reference-rate-anchored SWF loans.
+The convergence that no other nation can match: 4,000 km of CO₂ pipelines (Infrastructure Act §7), WTE ash from 20+ waste-to-energy plants (Energy Act §4), the cheapest electricity on Earth (nuclear baseload), and a domestic hemp industry already producing fibre on the Industrial Corridors. Three product lines flow from this:
+
+**1. CO₂-cured construction aggregates — permanent carbon sequestration in building materials:**
+- WTE ash + captured CO₂ → carbonate aggregates that are stronger than Portland-cement equivalents and permanently lock carbon into the structure.
+- Domestic consumption: every Durahome, every corridor factory, every freeway base layer, every port facility. At 500,000 Durahomes per year by maturity (Housing Act §3.1), the aggregate demand is enormous.
+- Export: CO₂-cured aggregates and pre-cast panels to construction markets worldwide. Carbon-negative certification is a premium product.
+- **Scale:** 500,000 tons/year (2025) → 5M+ tons/year (2075).
+
+**2. Carbon fiber — energy-intensive production on the cheapest grid:**
+- Carbon fiber production consumes ~20–30 MWh per tonne — the single largest cost input is electricity. New Crossroads' nuclear baseload at cents per kWh makes it the lowest-cost production jurisdiction on Earth.
+- Two production paths: conventional PAN-based (proven, scalable now) and molten carbonate electrolysis of CO₂ (C2CNT process — converts pipeline CO₂ directly into carbon nanofibers; experimental scaling to commercial over Years 5–15).
+- **Export market:** Aircraft manufacturers (Boeing, Airbus, Embraer), wind turbine makers, automotive, sporting goods, marine. Carbon fiber is a ~$6B global market growing at ~10%/year — New Crossroads can capture a significant share on cost advantage alone.
+- **Defence integration:** This is the strategic linkage. By Year 15, domestic carbon-fiber production at scale gives the aerospace co-ops the composite materials capability they need for the next-generation clean-sheet fighter (§2.7). The civilian export programme funds the R&D and scales the production that the military programme later consumes. The carbon fiber built for Boeing wing panels becomes the carbon fiber built for 5th-gen airframes.
+- **Scale:** ~$100M (2025, pilot plant) → ~$3B (2075, ~50,000 tonnes/year production + downstream composites manufacturing).
+
+**3. Hempcrete — CO₂-cured, corridor-sited, Durahome-standard:**
+- Hemp hurd + lime + CO₂ curing → hempcrete structural/insulation panels. Already specified as a Durahome-standard material (Housing Act §3.3). Produced on the Industrial Corridors using CO₂ from the pipelines and hemp from corridor-adjacent farms.
+- **Scale:** Included in the aggregate/construction materials total; ~$500M standalone by 2075.
+
+**The industrial corridor integration:** All three product lines sit on the same Industrial Corridors (Infrastructure Act §6) that carry the CO₂ pipelines and warm-water irrigation. The WTE plants produce the ash. The nuclear plants produce the electricity. The CO₂ pipelines deliver the feedstock. The corridor is the factory.
+
+- **Combined scale:** ~$1B (2025) → ~$8B (2075: aggregates ~$4B + carbon fiber ~$3B + hempcrete ~$0.5B + CO₂-to-fuels ~$0.5B).
+- **Rate:** service-sector (low) — carbon-negative construction and materials benefit climate.
+- **Tax:** co-op CO₂/carbon-fiber processors 5% over $100k.
+- **Facilitation:** ~$2B reference-rate-anchored SWF loans (service-sector rate).
 
 ### 2.12 Shipbuilding Industry (Co-op Model)
 
