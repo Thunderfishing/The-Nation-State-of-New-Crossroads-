@@ -103,16 +103,89 @@ Because New Crossroads holds **massive mineral deposits and operations** (§3.1)
 - **Scale:** $15B → $30B (~$5B exports). Standard rate. Corporate 15–20% tax. ~$1B/year SWF loans.
 
 ### 2.7 Aerospace Industry
-- **Scale:** $8B → $20B (~$4B exports). Standard rate. Corporate 15–20% tax. ~$500M/year SWF loans. *(Arms/aerospace exports subject to the national-security veto, Military Act §8.2.)*
+
+The old regime maintained a full aerospace industrial base — airframe factories, engine plants, avionics shops, and a Cosmodrome with two launch pads — partly inherited from its Soviet patron and partly developed independently. The hypersonic missile programme and rocket modernization contributed to the regime's fiscal collapse (~120% debt-to-GDP at default), but the technology was real: working reusable rocket stages, operational hypersonic cruise missiles, and a Soyuz-family launch capability sustained in isolation for decades.
+
+**Inherited assets (2025):**
+
+| Asset | Condition | Post-revolution disposition |
+|---|---|---|
+| Cosmodrome (2 pads, rail infrastructure, LOX/kerosene production) | Functional, austere (comparable to a smaller Plesetsk) | Sovereign infrastructure — state-owned, co-op-concession operated |
+| Soyuz-family medium-lift rockets (R-7 derived, ~6–8t to LEO) | Operational, ~3–5 launches/year, aging avionics | Core launch vehicle; modernized with domestic digital flight controls |
+| Reusable booster stages (late-regime programme) | Prototype/early operational — 2–3 successful recovery tests pre-revolution | Highest-priority development programme; target: operational reusable medium-lift by ~Year 5 |
+| Hypersonic cruise missiles | Operational (deployed on SSNs, ground-mobile launchers) | Military asset — production continues under Heavy Industry FCL (Military Act §9.4) |
+| MiG-29 airframe/engine production line | Operational, producing late-Soviet 4th-gen variants | Evolutionary upgrade programme (see below) |
+| S-300P/V air defense batteries | ~8–12 batteries defending Cosmodrome, ports, nuclear plants, capital | Modernized and expanded; domestic successor programme (see §2.8) |
+
+**Post-revolution aerospace programme (2025–2075):**
+
+**Space launch — from Soviet workhorse to commercial operator:**
+- **Years 1–5:** Sustain Soyuz-family launches for military/weather/comms satellites (~3–5/year). Complete reusable booster qualification. Begin Angara-class heavy-lift development (domestic, leveraging the Soyuz industrial base).
+- **Years 5–15:** Operational reusable medium-lift. First commercial launches for foreign customers (leveraging the cheapest electricity on Earth for LOX/kerosene production and the most remote launch site — no populated overfly zones). Angara-class heavy-lift first flight (~Year 10).
+- **Years 15–30:** Commercial launch rate ~15–20/year. Domestic satellite constellation complete (75 satellites, Military Act §6). Begin offering hosted-payload services to foreign governments and commercial operators.
+- **2075 target:** ~$20B/year aerospace industry (launch services ~$5B, satellite manufacturing ~$5B, military aerospace ~$6B, R&D/export ~$4B).
+
+**The next-generation fighter — evolutionary MiG-29, not clean-sheet stealth:**
+
+The MiG-29 lineage is the rational core. The nation has the airframe factory, the Klimov/RD-33-family engine production, the pilot training pipeline, and decades of maintenance knowledge. A clean-sheet stealth fighter (Su-57 analogue) would require technologies the holdout never fully possessed — advanced composites, low-observable coatings, sensor fusion — and would take 15–20 years at enormous cost. The Industry Act approach: evolve what works, partner where needed, avoid F-22 cost spirals.
+
+| Upgrade area | Approach | Timeline |
+|---|---|---|
+| Airframe | Strengthened structure, modest RCS reduction (radar-absorbent materials, edge alignment), increased internal fuel | Years 1–10 |
+| Engines | Improved RD-33 derivatives — better time-between-overhaul, digital controls, limited thrust-vectoring | Years 1–8 |
+| Avionics | Modern AESA radar (domestic or partner-sourced), glass cockpit, encrypted data-link, improved EW suite | Years 3–10 (highest-leverage upgrade) |
+| Weapons | Active-radar BVR missiles, modern IR short-range, precision air-to-ground — true multirole | Years 5–12 |
+| Variants | Single-seat fighter + twin-seat multirole/trainer; navalized variant under study | Years 8–15 |
+
+This produces a **4.5-generation multirole fighter** — competitive with late F-16s or early Su-30s, significantly more capable than the inherited 1980s MiG-29s, and built entirely by domestic co-op aerospace enterprises. True 5th-generation capability is a later programme, pursued only with foreign partnership under the §2.5 co-op integration model.
+
+**Commercial aviation — 737-class regional jets and freighters:**
+
+Clean-sheet widebody airliners (777/A350 class) are beyond any new entrant's realistic reach — $15–30B development cost, 8–12 year certification, and a duopoly that no nation has broken. But **737-class regional/commuter jets** (100–220 seats, 2,000–4,000 nm range) are a tractable industrial project at $2–8B development cost with 4–7 year certification timelines. Freighter derivatives (main-deck cargo door, strengthened floor) extend the programme's market.
+
+- **Years 1–10:** Foreign partnership (process knowledge, engines, avionics) under the §2.5 co-op integration model. Domestic content starts at airframe structure and assembly, scaling to 50%+ by Year 15.
+- **Years 10–20:** First domestic-assembled regional jet. Freighter variant follows within 3 years.
+- **2075 target:** ~$5B/year domestic aviation industry — regional jets for domestic routes and island-nation export markets, freighters for the merchant marine's air-cargo complement.
+
+- **Scale:** ~$8B (2025, inherited military aerospace) → ~$20B (2075, full spectrum: launch, satellites, fighters, commercial jets).
+- **Tax:** corporate aerospace 15–20% profit tax; co-op aerospace 5% over $100k.
+- **Facilitation:** ~$500M/year reference-rate-anchored SWF loans (standard rate).
+- *(Arms/aerospace exports subject to the national-security veto, Military Act §11.)*
 
 ### 2.8 Military / Missile Technology
-- **Scale:** $12B → $25B (~$5B exports). Standard rate. Corporate 15–20% tax. ~$1B/year SWF loans. *(Subject to the Military Act §8.2 export veto.)*
+
+The old regime's military-industrial complex produced working hypersonic missiles and maintained S-300-class air defense — two programmes that consumed enormous capital (contributing to the fiscal collapse) but left real capability on the ground.
+
+**Inherited systems (2025):**
+- **Hypersonic cruise missiles:** Operational, deployed on SSNs and ground-mobile launchers. The programme that partly bankrupted the regime, but the technology works and production continues under Heavy Industry FCLs (Military Act §9.4). VLS-compatible variants for the new-build SSN fleet are the highest-priority missile development.
+- **S-300P/V air defense:** ~8–12 batteries defending key sites. Terminal-phase intercept of short-to-medium-range ballistic missiles (up to ~1,000 km class) and strong conventional air defense. Not capable against full strategic ICBMs or modern hypersonic glide vehicles.
+
+**Post-revolution programmes:**
+- **S-300 successor (domestic next-generation air defense):** Evolutionary upgrade leveraging the existing S-300 industrial base — improved radar (AESA, domestic production), longer-range interceptor missiles, enhanced electronic counter-countermeasures, and integration with the CMIS satellite constellation for over-the-horizon cueing. Target: operational by ~Year 10, providing layered defense against aircraft, cruise missiles, theater ballistic missiles, and limited hypersonic threats. Not a strategic ABM shield — the SSBNs provide the strategic deterrent.
+- **Hypersonic missile production scaling:** Expanded production for SSN VLS tubes, ground-mobile launchers, and potential air-launched variants (anti-ship role for the next-gen MiG-29 maritime strike variant). The hypersonic programme is the single area where New Crossroads enters the global market with a genuine technological edge.
+- **ICBM modernization:** New-build hypersonic MIRVed ICBMs for the 8-SSBN fleet (Military Act §3.3). Sovereign asset — produced in the Frostpeak weapons-grade facility (Military Act §8).
+
+- **Scale:** ~$12B (2025, inherited production) → ~$25B (2075, expanded domestic + ~$5B exports).
+- **Tax:** corporate manufacturers 15–20% profit tax; co-op manufacturers 5% over $100k.
+- **Facilitation:** ~$1B/year reference-rate-anchored SWF loans (standard rate).
+- *(Subject to the Military Act §11 national-security export veto.)*
 
 ### 2.9 Nuclear Technology
 - **Scale:** $7.5B → $15B (~$3B exports). Standard rate. Co-op component manufacturers 5% over $100k. ~$1B/year SWF loans. Supplies the SMR fleet (Energy Act 5.0).
 
-### 2.10 Aviation Industry
-- **Scale:** ~$5B (~$1B exports). Standard rate. Corporate 15–20% tax. ~$500M/year SWF loans.
+### 2.10 Aviation Industry (Commercial)
+
+Distinct from military aerospace (§2.7). The commercial aviation sector covers civilian aircraft manufacturing, maintenance/repair/overhaul (MRO), and air-cargo operations — building on the same airframe and engine industrial base that produces the next-gen MiG-29 but oriented toward the civil market.
+
+**The opportunity:** New Crossroads is an island nation where domestic air travel and air cargo are essential, not optional. A 737-class regional jet programme (§2.7) produces both passenger and freighter variants. The MRO sector services the domestic fleet and positions for regional export.
+
+- **Domestic fleet requirement:** ~200–400 regional jets (100–220 seats) for inter-regional routes by 2075, plus ~50–100 freighter variants for air cargo to supplement the merchant marine.
+- **MRO:** co-op-operated maintenance facilities at the 3 airbases (dual-use military/civilian) and 2–3 dedicated civilian MRO centres. Domestic MRO eliminates foreign dependency for engine overhauls and avionics servicing.
+- **Air-cargo integration:** freighter variants feed into the merchant marine logistics network — air for high-value/time-sensitive, sea for bulk.
+
+- **Scale:** ~$5B (2025, inherited military aviation services + small civilian MRO) → ~$10B (2075, regional jet production ~$5B + MRO ~$3B + air-cargo operations ~$2B).
+- **Tax:** corporate 15–20% profit tax; co-op operators 5% over $100k.
+- **Facilitation:** ~$500M/year reference-rate-anchored SWF loans (standard rate).
 
 ### 2.11 CO₂ Industry (Service-Sector)
 
@@ -285,6 +358,34 @@ Resources generate ~**$306.4B**/year (2025), scaling to ~**$570B** by 2075. **Re
 - **Tax:** agricultural co-ops 5% over $100k (no SWF recharge).
 - **Informal protection:** cash produce sales at farmers markets protected.
 
+### 3.2A Agricultural Reform & Co-operative Marketing
+
+**The conversion (Year 0–5).** The old regime operated Soviet-style collective farms. At founding, these are dissolved and converted under three rules:
+
+1. **Household plots become freehold.** Every family working the land receives title to the plot they already occupy — the house, the garden, the immediate productive ground. This is unconditional and immediate.
+2. **Collective arable land becomes member-use rights** within newly formed agricultural FCLs, vesting into alienable individual title over 10 years of continuous working. The co-op holds the land in trust during the vesting period; the family farms it. A family that leaves forfeits unvested land back to the co-op for reallocation. A family that stays owns it outright at Year 10.
+3. **Collective livestock, equipment, and storage** are divided among the new co-op's members as base shares proportional to years of service on the collective. The co-op continues to operate shared facilities (grain elevators, cold storage, processing) as common infrastructure.
+
+**Livestock.** Cattle, sheep, poultry, and dairy are family-farm enterprises within the agricultural co-ops. The co-op provides shared veterinary services, breeding programmes, and marketing; the family owns the animals. Feedlot-scale corporate livestock operations are permitted but receive no lease priority, no service-sector rate, and no marketing-desk access — they compete at the standard commercial band.
+
+**The Co-operative Marketing Desk — a voluntary preferential channel.**
+
+The old Canadian Wheat Board showed both the power of collective marketing and the failure modes of a compulsory state monopoly. New Crossroads takes the lesson: a co-op-federated marketing desk with preferential access, not a legal single-desk monopoly.
+
+| Element | Design |
+|---|---|
+| Membership | Voluntary — open to agricultural co-op members only. Corporations excluded |
+| Governance | Co-op federated: Regional Industry Districts + Productive Chamber seats, one-member-one-vote at the base co-op level. No sovereign directors |
+| Pricing | Hybrid: base pool + quality/timing premiums + optional forward contracts. Preserves productivity incentives |
+| Scope | Grains, oilseeds, specialty crops — expanded by member vote |
+| Logistics | Desk coordinates with the cooperative rail system (Infrastructure Act §2) and Industrial Corridors; CLS credit for on-farm and co-op storage |
+| Preferential access | Co-op desk receives first call on rail capacity, elevator allocation, and export port slots. Non-members may sell on the open market but at non-preferential terms and lower logistics priority |
+| Corporate participation | Explicitly barred from membership. Corporations may purchase residual volume only after co-op needs are met, at non-preferential terms |
+
+**Why preferential, not compulsory.** A compulsory monopoly dampens productivity incentives, creates a political target, and eventually rigidifies. Preferential access — better rail priority, better elevator terms, first call on export slots — captures most of the volume through network effects and better economics without requiring legal compulsion. The open-market option remains, keeping the desk competitive.
+
+**Structural effect.** The marketing desk, combined with co-op lease priority on arable land (§1.4), service-sector loan rates for food production, and the informal-economy protections for cash produce sales, creates a structural environment in which family farms federated into co-ops are the economically rational choice — and large corporate agribusiness, while permitted, operates at a persistent structural disadvantage in primary production.
+
 ### 3.3 Fuels — Gas to Fertilizer & Petrochemicals (not Transport)
 
 - **Scale:** ~$50B.
@@ -408,4 +509,4 @@ A nation that grows its houses, feeds its own soil, builds its own machines, and
 
 ---
 
-**End of Draft 5.1**
+**End of Draft 5.2**
