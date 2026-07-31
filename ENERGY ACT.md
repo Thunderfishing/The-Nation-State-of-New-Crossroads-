@@ -1,7 +1,6 @@
 # New Crossroads Energy Act of 2025: Draft 5.1
 
-**Draft:** 5.1 | **Date:** July 21, 2026
-**Author:** Thunderfish2
+**Draft:** 5.1 | **Date:** July 21, 2026 **Author:** Thunderfish2
 
 ---
 
@@ -22,23 +21,6 @@ The system is built on the asset/operator separation model:
 The grid is hardened against CME over a **70-year phased program (2025–2095)**, built outward from the 21 antifragile hubs — the survivable core first, the last rural mile last. Generation reaches full capacity by 2075; grid hardening completes by 2095.
 
 Managed by the **National Energy Board (NEB)**, an independent sector board (Chamber Act §7). The Sovereign Council holds no domestic regulatory role over energy (Sovereign Functions Act §8); its nuclear oversight applies only to weapons-grade material (Military Act §8). No binding sector quotas apply. Co-op generation receives license priority and fee discounts.
-
----
-
-## Section 0: Interdependencies
-
-| Act | Integration Point |
-|:---|:---|
-| **Utilities Act 1.4** | Asset/operator separation; co-op maintenance concessions (ACI-tied, §1.4); Asset Renewal Fund (§2.4); transmission access fees (155% of annual maintenance); anti-rot guarantees |
-| **Industry Act** | 2,814 TWh grid powers 30,000 ha hemp, 45,000 ha greenhouses, transformer production, heavy equipment, steel, and foreign factories |
-| **Infrastructure Act 2.4** | Buried lines connect to 75,000 km rail (80% electrified, 20 GW), ports, barges, and 4,000 km CO₂ pipelines. Industrial Corridors (§3.7) radiate inland from riverside plants |
-| **Monetary Act 9.9.1** | Transmission access fees paid in BWC; 30% of access-fee revenue to SWF. Co-op generators pay 5% profit tax on profits over $100k. Loans reference-rate-anchored (§1.5A) |
-| **Credit Union Act 6.0** | Generation co-ops access reference-rate-anchored loans; CLS officers demand-distributed |
-| **FCL Act 3.4** | Generation utilities operate as Tier 2/3 FCLs. Heavy Industry Clause applies to nuclear SMRs and large geothermal (51% member ownership minimum) |
-| **Parks Act 3.5** | Wind-sited reservoir hydro (§4.3) — dams permitted only on tributaries whose evaporated moisture returns to the glacial catchment. Minimum environmental flow (§2.5) — no withdrawal may take the river below the protected minimum. The Corridon Basin Biosphere Reserve (§2.4) keeps industry off the floodplain |
-| **Education Act 2.6** | ~50,000–75,000 mandatory-service apprentices/year in energy-related trades (§3.5C), stipend-paid by general revenue. Structural labor-cost reduction for the buildout (§8.3) |
-| **Sovereign Functions Act 2.2** | NEB is an independent board; Special Auditors (§3) enforce compliance |
-| **Chamber Act** | Regional Boards (§3) oversee regional energy; independent board registry (§7) |
 
 ---
 
@@ -564,6 +546,23 @@ This advantage is invisible in the Energy Act's budget tables because it is an E
 
 ---
 
+## Section 11: Interdependencies
+
+| Act | Integration Point |
+|:---|:---|
+| **Utilities Act 1.4** | Asset/operator separation; co-op maintenance concessions (ACI-tied, §1.4); Asset Renewal Fund (§2.4); transmission access fees (155% of annual maintenance); anti-rot guarantees |
+| **Industry Act** | 2,814 TWh grid powers 30,000 ha hemp, 45,000 ha greenhouses, transformer production, heavy equipment, steel, and foreign factories |
+| **Infrastructure Act 2.4** | Buried lines connect to 75,000 km rail (80% electrified, 20 GW), ports, barges, and 4,000 km CO₂ pipelines. Industrial Corridors (§3.7) radiate inland from riverside plants |
+| **Monetary Act 9.9.1** | Transmission access fees paid in BWC; 30% of access-fee revenue to SWF. Co-op generators pay 5% profit tax on profits over $100k. Loans reference-rate-anchored (§1.5A) |
+| **Credit Union Act 6.0** | Generation co-ops access reference-rate-anchored loans; CLS officers demand-distributed |
+| **FCL Act 3.4** | Generation utilities operate as Tier 2/3 FCLs. Heavy Industry Clause applies to nuclear SMRs and large geothermal (51% member ownership minimum) |
+| **Parks Act 3.5** | Wind-sited reservoir hydro (§4.3) — dams permitted only on tributaries whose evaporated moisture returns to the glacial catchment. Minimum environmental flow (§2.5) — no withdrawal may take the river below the protected minimum. The Corridon Basin Biosphere Reserve (§2.4) keeps industry off the floodplain |
+| **Education Act 2.6** | ~50,000–75,000 mandatory-service apprentices/year in energy-related trades (§3.5C), stipend-paid by general revenue. Structural labor-cost reduction for the buildout (§8.3) |
+| **Sovereign Functions Act 2.2** | NEB is an independent board; Special Auditors (§3) enforce compliance |
+| **Chamber Act** | Regional Boards (§3) oversee regional energy; independent board registry (§7) |
+
+---
+
 ## Design Philosophy (Informative)
 
 The Energy Act provides the hardware — the buried lines, EMP-shielded substations, transformer reserves, and antifragile hubs that make New Crossroads the only nation on Earth with a CME-proof grid.
@@ -589,8 +588,6 @@ Together, they complete the asset/operator separation pattern:
 **Why the waste burns and the landfill shrinks.** A nation that recycles 79%, burns 15%, and landfills only 6% of inert residual — with zero-tax recyclers, at-cost utilities, and WTE plants that generate power from what's left — produces almost no organic waste in a hole in the ground. The recycling industry is the first line; WTE is the last; the landfill is for rubble and ash that cannot burn and is not worth sorting.
 
 And when the next Carrington-level CME hits — and it will — New Crossroads will be the only nation with the lights still on.
-
-That is the Energy Act.
 
 ---
 
