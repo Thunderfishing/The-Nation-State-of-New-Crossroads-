@@ -431,8 +431,7 @@ The aging population requires nursing homes, home care, and assisted living. The
 - **Appointment: nominated by the Territorial Chamber (Regional Boards, 11/20), confirmed by the Productive Chamber** — the uniform rule for the seven sector boards (Chamber Act §7.1). **No sovereign role** (Sovereign Functions Act §8.5).
 - **Removal:** by the nominating and confirming bodies jointly, or on cause established by a Special-Auditor investigation.
 
-> **The seventh and last board on the 
-- Voting: 6/11 routine, 8/11 strategic, 5/11 emergency.
+> - Voting: 6/11 routine, 8/11 strategic, 5/11 emergency.
 - Operations: ~$100M/year (funded from premium administration, not SWF).
 - Independence: paired with but subordinate to none; disputes resolved through ad-hoc arbitration (Chamber Act §6.6).
 
