@@ -1,6 +1,6 @@
-# New Crossroads Utilities Act of 2025: Draft 1.5
+# New Crossroads Utilities Act of 2025: Draft 1.6
 
-**Draft:** 1.5 | **Date:** July 27, 2026
+**Draft:** 1.6 | **Date:** July 27, 2026
 **Author:** Thunderfish2
 
 ---
@@ -19,8 +19,8 @@ This model prevents natural-monopoly capture, centralizes coronal mass ejection 
 
 ## Section 0: Interdependencies
 
-- **Energy Act 5.0:** provides the physical grid — 30,000 km buried high-voltage transmission, 150,000 km buried distribution, 750 EMP-shielded substations, a strategic transformer reserve (5,000+ by 2075) — and the 20 antifragile SMR hubs (one per region) as anchor loads and islanding points.
-- **Infrastructure Act 3.0:** the asset/operator separation model is directly replicated; transmission access fees follow the freeway-toll logic (155% recovery over asset life); the Dark Corridor and Active Lighting System (DCALS) applies to utility infrastructure near elevated freeways.
+- **Energy Act 5.2:** provides the physical grid — inherited as ~20,000 km overhead HV transmission and ~50,000 km overhead distribution (unhardened), progressively buried and CME-hardened over a 70-year programme to 30,000 km buried HV, 150,000 km buried distribution, 750 EMP-shielded substations, and a strategic transformer reserve (5,000+ by 2095) — plus the 21 antifragile SMR hubs (6 inherited nuclear sites converted, 15 new-build) as anchor loads and islanding points.
+- **Infrastructure Act 3.3:** the asset/operator separation model is directly replicated; transmission access fees follow the freeway-toll logic (155% recovery over asset life); the Darksky Compliant Lighting Standards (DCLS) applies to utility infrastructure near elevated freeways.
 - **Monetary Act 9.9.1:** transmission access fees paid in BWC, flow (in part) to the SWF; co-op utilities pay the 5% co-op profit tax on generation profits; no binding quotas.
 - **Credit Union Act 6.0:** co-op utilities access reference-rate-anchored loans and micro-loans (community solar); embedded Crossroads Loan Service (CLS) officers.
 - **FCL Act 3.4:** utility co-ops structured as Federated Cooperative Limiteds (FCLs); Co-op Capital Investment Fund (CCIF, voluntary) funds expansion.
@@ -44,15 +44,15 @@ This model prevents natural-monopoly capture, centralizes coronal mass ejection 
 
 *Rationale:* the state is good at owning and hardening long-lived infrastructure but bad at running customer-facing utilities — and, left to its own devices, bad at *maintaining and reinvesting* in what it owns. Co-ops are good at competing for customers and at delivering against a contract. Separation gives each what it does best, and §1.4/§2.4 fix the state's chronic weakness at upkeep.
 
-### 1.2 What the State Owns (per Energy Act 5.0)
+### 1.2 What the State Owns (per Energy Act 5.2)
 
-| Asset | 2025 | 2075 | Owner | Maintained by |
+| Asset | 2025 (inherited) | 2075 (target) | Owner | Maintained by |
 | :--- | :--- | :--- | :--- | :--- |
-| High-voltage transmission lines (>100kV) | 20,000 km | 30,000 km | State (NEB) | Co-op concession (§1.4) |
-| Medium-voltage distribution lines (10–100kV) | 100,000 km | 150,000 km | State (Regional Boards) | Co-op concession (§1.4) |
-| EMP-shielded substations | 500 | 750 | State (NEB) | Co-op concession (§1.4) |
-| Strategic transformer reserve | 1,000 | 5,000+ | State (NEB) | Co-op concession (§1.4) |
-| Antifragile energy hub SMRs | 18 GW | 56 GW (20 hubs) | State (operated by NEB) | NEB + concession |
+| High-voltage transmission lines (>100kV) | ~20,000 km (overhead, unhardened) | 30,000 km (buried, CME-hardened) | State (NEB) | Co-op concession (§1.4) |
+| Medium-voltage distribution lines (10–100kV) | ~50,000 km (overhead, unhardened) | 150,000 km (buried, CME-hardened by 2095) | State (Regional Boards) | Co-op concession (§1.4) |
+| EMP-shielded substations | 0 (hardening programme begins Year 1) | 750 | State (NEB) | Co-op concession (§1.4) |
+| Strategic transformer reserve | ~50 (inherited Soviet stockpile) | 5,000+ | State (NEB) | Co-op concession (§1.4) |
+| Antifragile energy hub SMRs | 18 GW across 6 inherited nuclear sites (hub conversion begins Year 1) | 56 GW (21 purpose-built hubs) | State (operated by NEB) | NEB + concession |
 
 Capital is funded by the SWF per the Energy Act. The NEB **owns and sets standards**; it does not perform hands-on maintenance — that is contracted out (§1.4).
 
@@ -165,7 +165,7 @@ Mirrors the Informal Economy Guarantee: small-scale activity is friction-free an
 
 ## Section 4: Generation Market
 
-### 4.1 Allowed Generation Technologies (per Energy Act 5.0, 2075 projections)
+### 4.1 Allowed Generation Technologies (per Energy Act 5.2, 2075 projections)
 
 | Technology | 2075 Capacity | Typical Owner | Co-op preference |
 | :--- | :--- | :--- | :--- |
@@ -253,7 +253,7 @@ A Tier 2 FCL in Region 5 (Heartland Plains) builds a 10 MW solar farm serving 2,
 
 ## Section 7: CME Resilience and Emergency Operations
 
-### 7.1 State Responsibilities (per Energy Act 5.0)
+### 7.1 State Responsibilities (per Energy Act 5.2)
 
 | Asset | CME hardening | Recovery role |
 | :--- | :--- | :--- |
@@ -280,7 +280,7 @@ A Tier 2 FCL in Region 5 (Heartland Plains) builds a 10 MW solar farm serving 2,
 ## Section 8: Governance
 
 ### 8.1 National Energy Board (NEB) — Expanded Role
-Per the Energy Act 5.0, the NEB (11 members) sets transmission access-fee rates (6/11), issues generation/retail licenses, enforces co-op preference, **owns the grid and sets the Asset Condition Index, tenders and oversees the maintenance concessions (§1.4), and administers the Asset Renewal Fund (§2.4)**, manages CME response, and publishes an annual utility-performance and asset-condition report (transparent, CED). **The NEB oversees — it does not perform hands-on maintenance** (co-op concessions do, per §1.4).
+Per the Energy Act 5.2, the NEB (11 members) sets transmission access-fee rates (6/11), issues generation/retail licenses, enforces co-op preference, **owns the grid and sets the Asset Condition Index, tenders and oversees the maintenance concessions (§1.4), and administers the Asset Renewal Fund (§2.4)**, manages CME response, and publishes an annual utility-performance and asset-condition report (transparent, CED). **The NEB oversees — it does not perform hands-on maintenance** (co-op concessions do, per §1.4).
 
 ### 8.2 Regional Boards — Retail Oversight
 Per the Chamber Act §3, 20 Regional Boards issue retail licenses (co-op preference), enforce consumer protections, manage low-income enrollment, and investigate complaints (informal complaints anonymous).
@@ -351,10 +351,10 @@ Per the Chamber Act §3, 20 Regional Boards issue retail licenses (co-op prefere
 
 | Metric | 2025 | 2075 |
 | :--- | :--- | :--- |
-| State-owned transmission lines | 20,000 km | 30,000 km |
-| State-owned distribution lines | 100,000 km | 150,000 km |
-| EMP-shielded substations | 500 | 750 |
-| Strategic transformer reserve | 1,000 | 5,000+ |
+| State-owned transmission lines | ~20,000 km (overhead, unhardened) | 30,000 km (buried, hardened) |
+| State-owned distribution lines | ~50,000 km (overhead, unhardened) | 150,000 km (buried, hardened by 2095) |
+| EMP-shielded substations | 0 (programme begins Year 1) | 750 |
+| Strategic transformer reserve | ~50 (inherited) | 5,000+ |
 | Transmission access fee revenue | ~\$15B/year | ~\$49B/year |
 | Asset Renewal Fund (ring-fenced) | ~\$7.5B/year | ~\$24.5B/year |
 | Maintenance model | Co-op performance concession (ACI-tied) | same |
@@ -373,12 +373,12 @@ Per the Chamber Act §3, 20 Regional Boards issue retail licenses (co-op prefere
 
 ---
 
-## Appendix A: Comparison to Rail Model (Infrastructure Act 3.0)
+## Appendix A: Comparison to Rail Model (Infrastructure Act 3.3)
 
 | Feature | Rail | Electricity |
 | :--- | :--- | :--- |
 | Asset owner | State (70%) + Co-op (30%) | State (100%) |
-| Maintained by | Co-op concession (Infrastructure Act 3.0) | Co-op performance concession (§1.4) |
+| Maintained by | Co-op concession (Infrastructure Act 3.3) | Co-op performance concession (§1.4) |
 | Operator | Train co-ops/corporations | Utility co-ops/corporations |
 | Access fee | Track access charge (\$/tonne-km) | \$/MWh transmission fee |
 | Fee recovery target | Maintenance + surplus | **155% of annual hardening + maintenance, annually** |
@@ -386,13 +386,13 @@ Per the Chamber Act §3, 20 Regional Boards issue retail licenses (co-op prefere
 | CME hardening | N/A | Buried lines, EMP shields, transformer reserve |
 | Renewal guarantee | Cooperative maintains | Ring-fenced Asset Renewal Fund (§2.4) |
 
-## Appendix B: Comparison to Freeway Model (Infrastructure Act 3.0)
+## Appendix B: Comparison to Freeway Model (Infrastructure Act 3.3)
 
 | Feature | Freeways | Electricity |
 | :--- | :--- | :--- |
 | Asset owner | State | State |
 | Access fee | Toll | \$/MWh transmission fee |
-| Fee recovery target | **155% of annual maintenance** (Infrastructure Act 3.0 §4.1) | **155% of annual hardening + maintenance** |
+| Fee recovery target | **155% of annual maintenance** (Infrastructure Act 3.3 §4.1) | **155% of annual hardening + maintenance** |
 | Revenue use | Maintenance + SWF | Renewal Fund + SWF + residential credit |
 | Co-op discount | None | 20% on transmission fee |
 | CME hardening | N/A | Full hardening |
@@ -439,4 +439,4 @@ A nation that owns its grid, rents its upkeep to those who must keep it in good 
 
 ---
 
-**End of Draft 1.5**
+**End of Draft 1.6**
