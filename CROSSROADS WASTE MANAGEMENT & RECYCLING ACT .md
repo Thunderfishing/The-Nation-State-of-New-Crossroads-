@@ -1,18 +1,18 @@
-# Crossroads Waste Management & Recycling Act of 2025: Draft 1.0
+# Crossroads Waste Management & Recycling Act of 2025: Draft 1.1
 
 **Posted to r/Bulwarkomics**
-**Draft:** 1.0 | **Date:** July 22, 2026
+**Draft:** 1.1 | **Date:** July 22, 2026
 **Author:** Thunderfish2
 
-**Cross-references:** Energy Act 5.0 (WTE capacity, waste disposition model), Infrastructure Act 3.0 (CO2 pipelines), Industry Act 5.0 (hempcrete, CO2 aggregate, steel co-ops), Housing Act 2.6 (Durahome construction materials), Parks Act 3.6 (stewardship), Credit Union Act (CLS, loan rates), Monetary Act 9.9 (reference rate, tax structure), FCL Act (co-op tiers, CCIF), Sovereign Functions Act 2.3 (Special Auditors), Education Act 2.5 (mandatory service), Municipal & Regional Funding Act.
+**Cross-references:** Energy Act 5.2 (WTE capacity, waste disposition model), Infrastructure Act 3.3 (CO2 pipelines), Industry Act 5.2 (hempcrete, CO2 aggregate, steel co-ops), Housing Act 2.7 (Durahome construction materials), Parks Act 3.7 (stewardship), Credit Union Act (CLS, loan rates), Monetary Act 9.9.1 (reference rate, tax structure), FCL Act (co-op tiers, CCIF), Sovereign Functions Act 2.0 (Special Auditors), Education Act 2.6 (mandatory service), Municipal & Regional Funding Act.
 
 ---
 
 ## Section 0: Interdependencies (Informative)
 
-> **Where this act sits in the system.** The Energy Act 5.0 §4 establishes the waste disposition target: ~179M tonnes/year total, **79% recycled** (~141M t), **15% WTE** (~26M t), **6% landfill** (~11M t, inert only). This act governs *how* that 79% is achieved, what happens to the WTE ash, and who audits the boundary between the recycling stream and the combustion stream. The Energy Act owns the WTE plants. This act owns everything upstream (collection, sorting, recycling) and the ash streams downstream.
+> **Where this act sits in the system.** The Energy Act 5.2 §4 establishes the waste disposition target at maturity (2075): ~179M tonnes/year total, **79% recycled** (~141M t), **15% WTE** (~26M t), **6% landfill** (~11M t, inert only). At founding (2025), the inherited Soviet system generates ~145M tonnes/year at a ~35% recycling rate — most waste is landfilled. This act governs the 50-year transition from landfill-dominant to recycling-dominant, establishes *how* the 79% target is achieved, what happens to the WTE ash, and who audits the boundary between the recycling stream and the combustion stream. The Energy Act owns the WTE plants. This act owns everything upstream (collection, sorting, recycling) and the ash streams downstream.
 
-> The Infrastructure Act 3.0 provides the **CO2 pipeline network** (~4,000 km) that this act's carbonation-aggregate industry depends on. The Industry Act 5.0 provides the **hempcrete manufacturing base** that absorbs the treated ash as aggregate filler. The Housing Act 2.6 creates the **Durahome demand** (~500,000 homes/year) that consumes the hempcrete. The waste system feeds the housing system feeds the construction system — a closed loop.
+> The Infrastructure Act 3.3 provides the **CO2 pipeline network** (~4,000 km) that this act's carbonation-aggregate industry depends on. The Industry Act 5.2 provides the **hempcrete manufacturing base** that absorbs the treated ash as aggregate filler. The Housing Act 2.7 creates the **Durahome demand** (~500,000 homes/year) that consumes the hempcrete. The waste system feeds the housing system feeds the construction system — a closed loop.
 
 ---
 
@@ -74,6 +74,8 @@ Co-op concession performance contracts include contamination-rate targets — th
 ## Section 2: The Recycling Industry
 
 ### 2.1 Material Recovery Targets
+
+> **Founding condition.** The old regime landfilled the majority of its waste. Formal recycling was minimal — perhaps ~35% nationally, mostly metals recovery from industrial streams. The targets below are what the new system builds toward, not what exists at founding. The 2025 column is the first-year target after co-op conversion of inherited waste operations; the 2050 and 2075 columns are the mature targets.
 
 | Material stream | 2025 target | 2050 target | 2075 target | Notes |
 |---|---|---|---|---|
@@ -322,20 +324,20 @@ All beverage containers (glass, aluminium, PET) carry a **refundable deposit** (
 
 ## Section 8: Key Statistics
 
-| Metric | 2025 | 2075 |
+| Metric | 2025 (founding) | 2075 (target) |
 |---|---|---|
-| Total waste generation | ~179M t/yr | ~200M t/yr (population growth, higher consumption partially offset by waste prevention) |
-| Recycling rate | ~70% | **~85%+** |
-| WTE throughput | ~26M t/yr | ~20–25M t/yr (declining as recycling captures more) |
-| Landfill (inert only) | ~11M t/yr | ~5–8M t/yr (declining) |
-| WTE ash produced | ~6–8M t/yr | ~5–7M t/yr |
-| — of which construction aggregate | ~4–5M t/yr | ~3–5M t/yr |
-| — of which recovered metals | ~1–1.5M t/yr | ~1M t/yr |
-| — of which pozzolanic additive | ~0.5–0.8M t/yr | ~0.5M t/yr |
-| — of which vitrified (repository sealing) | ~0.2–0.5M t/yr | ~0.2–0.3M t/yr |
+| Total waste generation | ~145M t/yr (inherited Soviet economy, 112M people) | ~179–200M t/yr (130M people, higher consumption offset by waste prevention) |
+| Recycling rate | ~35% (inherited — most waste landfilled under old regime) | **~85%+** |
+| WTE throughput | ~10M t/yr (inherited WTE capacity limited) | ~20–25M t/yr (declining as recycling captures more) |
+| Landfill | ~80M t/yr (inherited, declining rapidly as recycling ramps) | ~5–8M t/yr (inert only) |
+| WTE ash produced | ~2–3M t/yr | ~5–7M t/yr (peaks mid-plan, then declines) |
+| — of which construction aggregate | ~1–2M t/yr | ~3–5M t/yr |
+| — of which recovered metals | ~0.3–0.5M t/yr | ~1M t/yr |
+| — of which pozzolanic additive | ~0.1–0.2M t/yr | ~0.5M t/yr |
+| — of which vitrified (repository sealing) | ~0.1M t/yr | ~0.2–0.3M t/yr |
 | Licensed dumpster divers | 25,000 | 25,000 (fixed — shrinks in practice as the formal system improves) |
-| Recycling co-ops | ~500 | ~800+ |
-| Deposit-return rate | ~80% | ~95%+ |
+| Recycling co-ops | ~150 (inherited/converted from old regime operations) | ~800+ |
+| Deposit-return rate | ~50% (system being established) | ~95%+ |
 | Recycling industry profit tax | 0% | 0% |
 | Recycling industry utility rate | At cost | At cost |
 
@@ -353,4 +355,4 @@ All beverage containers (glass, aluminium, PET) carry a **refundable deposit** (
 
 ---
 
-**End of Draft 1.0**
+**End of Draft 1.1**
