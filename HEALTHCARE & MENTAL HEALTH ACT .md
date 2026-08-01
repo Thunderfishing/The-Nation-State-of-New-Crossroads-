@@ -431,9 +431,7 @@ The aging population requires nursing homes, home care, and assisted living. The
 - **Appointment: nominated by the Territorial Chamber (Regional Boards, 11/20), confirmed by the Productive Chamber** — the uniform rule for the seven sector boards (Chamber Act §7.1). **No sovereign role** (Sovereign Functions Act §8.5).
 - **Removal:** by the nominating and confirming bodies jointly, or on cause established by a Special-Auditor investigation.
 
-> **The seventh and last board on the registry, and the seventh to be found running on a rule the registry does not contain.** Prior drafts had the NHB *"appointed by the Sovereign Council (5/7)."* **Chamber Act §7** is explicit: *"The sovereign is barred from domestic regulation, so board appointment is a chamber function."* The Exchange's Co-op Capital Index, the NIB, the NEB, the NHA, the NCB, the NInfraB, and now the NHB — **seven acts, twelve instances, each written independently.** Every act described a board and reached for the nearest executive to appoint it, because that is what boards look like in every other country. **The Municipal & Regional Funding Act is the only one that checked** — and it is the act closest to the ground.
->
-> The NHB is the sector board whose capture would matter most: it sits over an entrenched guarantee (Chamber Act §12.1) and a ~$451B system. It is the last one that should have been appointed by the executive.
+> **The seventh and last board on the 
 - Voting: 6/11 routine, 8/11 strategic, 5/11 emergency.
 - Operations: ~$100M/year (funded from premium administration, not SWF).
 - Independence: paired with but subordinate to none; disputes resolved through ad-hoc arbitration (Chamber Act §6.6).
