@@ -199,7 +199,7 @@ The co-op system is a **hub-and-spoke hierarchy**: everything radiates outward f
 
 ### 3.1 Tier 1 — Co-op Clinics (10,000)
 
-- **Structure:** 10,000 clinics (~500/region), as Co-op-Led CCJVs (51–99% patient co-op / 1–49% Professional FCL).
+- **Structure:** 10,000 clinics, as **member-owned co-ops (§2.4 Model 1)** — 70% community members ($50 BWC buy-in), 30% Professional FCL.
 - **Role:** primary care, pediatrics, geriatrics, **and minor surgery at qualifying multi-specialty clinics (§2.5).** Small-town clinics (1–3 GPs) provide primary care and refer upward; city-based multi-specialty clinics (5–10+ doctors across 3+ specialties) perform minor surgery, diagnostics, and specialist consultations in-house, offloading the hospital tiers.
 - **Access ratio:** ~1 clinic per ~13,000 people — excellent local coverage.
 - **Workforce:** ~50,000 workers (~2,500/region), including physicians from Professional FCLs.
@@ -257,7 +257,7 @@ Bulk procurement, shared diagnostics, telehealth, preventive-care incentives, an
 
 Healthcare is funded by **mandatory universal premiums**, not state SWF operating allocations.
 
-- **Membership:** every citizen is covered; adults join the patient co-op (nominal 50 BWC buy-in). Coverage is universal — the whole population (112M), not a subset.
+- **Membership:** every citizen is covered; adults join both their chosen **fund** (§4A, one member one vote) and their local **clinic co-op** ($50 BWC buy-in, §2.4 Model 1). Coverage is universal — the whole population (112M), not a subset.
 - **Mandatory premiums (per adult, ~94M adults), DLB-indexed:**
   - **Bottom 20%:** ~$200/month — **subsidized** by the state (the bottom-tier subsidy, ~$45B/year, is the state's main healthcare cost).
   - **Middle 60%:** ~$350/month.
