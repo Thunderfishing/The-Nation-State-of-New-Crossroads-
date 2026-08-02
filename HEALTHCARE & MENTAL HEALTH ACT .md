@@ -99,20 +99,39 @@ Professional FCLs may issue non-voting retainer shares to patients/clients:
 | Cap | ≤20% of firm equity |
 | Voting control | Remains 100% with worker-owners |
 
-### 2.4 Clinic Structure as Co-op/Corporate Joint Venture (CCJV) — the hybrid model
+### 2.4 Clinic Ownership — Two Models
 
-The co-op clinic backbone is structured as **Co-op-Led CCJVs** — hybrid co-op/corporate ventures. Because the CCJV form is available across the tiers, **hybrid clinics and hybrid (super) hospitals** naturally exist alongside pure co-op and pure corporate facilities.
+**Model 1: Co-op Clinic (the backbone — 10,000 clinics)**
 
-| Provision | Specification |
-| :--- | :--- |
-| CCJV Type | Co-op Led (per FCL Act 3.7.2) |
-| Patient Co-op ownership | 51–99% |
-| Professional FCL / corporate partner | 1–49% |
+The standard community clinic is a member-owned co-operative, not a joint venture.
+
+| Element | Specification |
+|---|---|
+| Member ownership | **70%** — citizens join for **$50 BWC**, one member one vote. Members are the patients and the community the clinic serves |
+| Professional FCL ownership | **30%** — the doctors and healthcare professionals hold the investor portion (FCL Act §2.3 investor shares). The FCL runs clinical operations, hires staff, sets clinical standards |
+| Governance | Member-elected board (one member one vote on the 70% stake). The Professional FCL holds board seats proportional to its 30% — typically 2–3 seats on a 7–9 seat board. Members govern; the FCL operates |
+| Surplus distribution | 70% to members as patronage (reduced fees, facility improvements, reserve); 30% to the FCL (distributed to its worker-members per the FCL's own rules) |
+| Approval | Regional Board (6/11) for chartering |
+| Dispute resolution | Ad-hoc arbitration (Chamber Act §6.6) |
+
+**Why 70/30.** The members own the clinic because it exists to serve them — not to maximise physician income. The Professional FCL holds 30% because doctors need skin in the game and a guaranteed operational role, not because they need control. The fund (§4A) negotiates fees externally; the members govern internally. The doctor's leverage is the FCL's 30% stake and board seats; the community's leverage is the 70% vote and the ability to replace the FCL partnership at renewal.
+
+**Model 2: Co-op/Corporate Joint Venture (CCJV — the alternative, not the default)**
+
+Where a **corporate** partner — a corporate hospital chain, a corporate specialist group, or a foreign medical partner — is involved, the clinic or hospital is structured as a Co-op-Led CCJV (FCL Act §3.7.2).
+
+| Element | Specification |
+|---|---|
+| CCJV type | Co-op Led (FCL Act §3.7.2) |
+| Patient/community co-op ownership | 51–99% |
+| Corporate partner | 1–49% |
 | Max term | 20 years (renewable) |
-| Approval body | Regional Board (6/11) |
+| Approval | Regional Board (6/11) |
 | Corporate partner voting in co-op internal affairs | None |
 | JV board seats | Proportional to ownership; co-op holds ≥1 seat |
 | Deadlock resolution | Ad-hoc arbitration (Chamber Act §6.6) |
+
+**When a CCJV is used instead of the standard co-op model:** when the clinic or hospital requires corporate capital, foreign medical expertise, or specialist technology that a community co-op and a Professional FCL cannot source on their own. This is the exception — perhaps 5–10% of facilities. The 10,000-clinic backbone runs on Model 1.
 
 
 ### 2.5 Multi-Specialty Community Clinics (the "Complete Clinic" Incentive)
