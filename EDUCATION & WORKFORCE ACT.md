@@ -1,4 +1,4 @@
-# Crossroads Education and Workforce Act of 2025: Draft 2.6
+# Crossroads Education and Workforce Act of 2025: Draft 2.7
 
 ---
 
@@ -37,15 +37,36 @@ The act provides a **$10,000/year voucher** (following the student to any licens
 
 ---
 
+## Section 1A: Founding Transition — Soviet Education System to Co-operative Model
+
+> **What the old regime had (2025).** A centralized Soviet-style education system: ~15,000 state-run schools (assigned by residence, no choice), ~300,000 teachers (salaried state employees, no professional autonomy), ~200 vocational institutes (state-directed — students assigned to occupations by quota, not by choice), and no private schools. Curriculum was centrally dictated; no local governance, no parent involvement, no teacher self-governance. The system produced technically competent graduates but crushed initiative, discouraged questioning, and assigned careers by bureaucratic fiat rather than aptitude or preference.
+
+**The conversion (Year 0–5):**
+
+| Soviet asset | Converts to | Timeline |
+|---|---|---|
+| State-run schools (~15,000) | Hybrid FCL schools (§3.2) — 70% Local School Board / 30% Teacher Professional FCL. Parents elect the board; teachers form the FCL | Year 0–2 |
+| State teachers (~300,000) | Professional FCL members — all licensed teachers at a school become worker-members of that school's Teacher FCL, with full voting rights and the cost-share compensation model (§3.2) | Year 0–2 |
+| Vocational institutes (~200) | Converted to NLC-licensed vocational schools competing for voucher students. Quota-based assignment replaced by student choice at age 16 (§3.1) | Year 0–3 |
+| State curriculum | NLC sets national standards (core subjects, credentialing requirements); schools choose pedagogy and supplementary content within the standards. Regional Boards adapt for local context (§3.2) | Year 0–2 |
+| No service camps | ~200 service camps (10/region) — **new-build**, phased over Years 1–5, funded from general revenue (§4). In Years 1–2, mandatory service placements use existing vocational institute facilities and co-op worksites | Year 1–5 |
+| No NLC | NLC chartered as an independent sector board (Chamber Act §7.1) in Year 0. Interim NLC board (3 Regional Board nominees + 2 teacher representatives + 1 NHB education liaison) operates until the permanent board is confirmed by the Productive Chamber | Year 0–1 |
+
+**Building transfer:** School buildings and equipment are transferred from the state to the new hybrid FCLs at nominal cost (1 BWC) on 50-year land leases — the same model as the Healthcare Act §2A.1 asset transfer. The voucher funds instruction; the building is community infrastructure maintained through MMF capital lending (§3.2).
+
+---
+
 ## Section 2: Funding
 
 - **Voucher cost:** ~$180B gross at $10,000 × 18M students (scaling with the DLB), net ~$170B after the ~$11B FCL education contribution (commons rescaled — FCL Act §3.2) (FCL Act profit-sharing waterfall). **Funded by general revenue** (Sovereign Functions Act §7.3) — a transfer, not an operation, because the family picks the school (Sovereign Functions Act §7.2).
 
-  > **one-way spend**: vouchers do not revolve and are never repaid. 
+  > **Not the SWF.** Prior drafts called this an *"Education SWF allocation."* It is the largest single line in the federal budget and it is a **one-way spend**: vouchers do not revolve and are never repaid. **Monetary §2.1:** *"the SWF is the state's revolving lender… it is not the state's capital budget."* Calling it an SWF allocation would have consumed three-quarters of the fund's corpus every year. It was general revenue that had been labelled wrong — the same error as the infrastructure buildout, the grid hardening, and the sustainability line.
 - **Stipends:** $15,000/year professional (service), $12,000/year vocational; paid monthly via credit-union checking.
-- **Revenue support:** the federal tax base (Monetary Act §4; Sovereign Functions Act §7.1 — VAT 6%, income above $100k, profit taxes, tariffs, resources, property, excise, Parks Index = ~$495B against ~$424.5B of spending) 
+- **Revenue support:** the federal tax base (Monetary Act §4; Sovereign Functions Act §7.1 — VAT 6%, income above $100k, profit taxes, tariffs, resources, property, excise, Parks Index = ~$495B against ~$425B of spending); credit-union contribution; **no co-op SWF recharge** (eliminated — co-ops contribute to the commons via the FCL waterfall).
 - **Audits:** system auditors + AI fraud detection, fraud cap, tracked via the **CED** (pseudonymized; no identity).
 - **Data:** PPK holds student identity, credentials, and records; the CED holds only pseudonymized economic flows (voucher value, stipend value). School performance data is published in aggregate.
+
+*(The former "BWC Reserve ETF" financial-literacy reference is updated to the Citizens' Metals ETF as an investment example; there is no reserve-backing mechanism.)*
 
 ---
 
@@ -129,7 +150,7 @@ Co-op clubs (sports, arts, recreation) integrate into school governance with boa
 | **18** (completed school-primary, may have spent voucher on 16–18 specialization) | Expected to report for full 24-month service at 19. | Owed in full. If they evade, **PPK-flagged "service delinquent"** (§5.1) until cleared — re-entry through the pipeline is how the flag clears. | May be fully or partly spent (§3.5D). |
 | **15–65** | Re-enters at any time. | Discharged via the pipeline (§3.5C). | Banked remainder applied first; general revenue covers any shortfall (§3.5D). |
 
-**No double boot camp.** A 15–17 dropout who completed early boot camp does **not** repeat it on return. The completed module is banked against the service obligation; on re-entry they proceed directly to the theory block and apprenticeship. 
+**No double boot camp.** A 15–17 dropout who completed early boot camp does **not** repeat it on return. The completed module is banked against the service obligation; on re-entry they proceed directly to the theory block and apprenticeship. This is the resolution of the "no further obligation" ambiguity in prior drafts: dropping out banks the boot camp and defers the apprenticeship — it does not dodge either.
 
 ### 3.5B Boot Camp, the Service Duty & Exemptions
 
@@ -186,7 +207,13 @@ Costs are met from the citizen's banked voucher first, and from general revenue 
 
 **If a residual cost is ever charged to the citizen, it uses the plumbing that already exists.** Should policy elect to have a re-entrant nominally bear part of the cost, it runs through the **existing household loss-reserve mechanism (Monetary §1.6A, §1.2)** — the same one that already absorbs unrepaid revolving credit "automatically and arithmetically" (Monetary §4.12). It is a **recoverable grant, not a lien**: no interest schedule, no multi-year balance, no dividend seizure. The citizen may voluntarily route dividend to repay (and qualify for the Monetary §4.82 savings match if they do); what is not repaid is absorbed by the loan loss reserve. **No file is opened, nothing follows the citizen** (Monetary §1A.2).
 
----
+> **Why no bond.** Prior drafts funded the shortfall with a $20,000 bond at ~4%, secured against the citizen's dividend by a 10-year lien. It was removed because it fails on four independent grounds, each traceable to the Monetary Act:
+> - **It lends against future income.** Monetary §1.6A sizes all household credit by *reserve* (savings held), never by income or future cash flow — "credit is extended on savings, not on leverage." A bond against a future dividend stream is the leverage the architecture refuses.
+> - **It cannot run on the arrears flag.** The PPK arrears attribute is a binary qualified/not-qualified check that "records no amount, no counterparty, and no date" (Monetary §1.6A). A 10-year amortizing balance cannot ride a flag that holds no balance, and Monetary §1A.2 prohibits any body from maintaining a credit history that follows a citizen.
+> - **It collides with the retirement mechanism.** The dividend auto-routes to forced savings by default (Monetary §2.3), and the cash-first reduction rule protects that nest egg. A lien seizing 50% of the dividend either raids protected savings or cannot reach 50% of the total.
+> - **The arithmetic never closes.** $20,000 at 4% throws off $800/yr in interest against the ~$700/yr (50% of the ~$1,400 dividend) the lien would collect — principal never falls.
+>
+> The general-revenue framing above dissolves the problem the bond existed to solve. There is no gap left for a loan to fill.
 
 ### 3.5E Second-Chance Academies (Organic Facility Model)
 
@@ -247,6 +274,12 @@ Every dropout can re-enter. No one borrows to serve. The system pays for itself 
 ---
 
 ## Section 4: Mandatory Service Program (Ages 19–20)
+
+**Placement mechanics and career data:**
+- **October–December:** co-ops and corporations submit placement offers to their Regional Board through the NLC portal — specifying occupation, duration, stipend (within the $12,000–$15,000 band), location, and whether a hire is likely at completion.
+- **January–March:** students browse the portal and rank preferences. The NLC matches (algorithm + counselor input, not pure lottery). Unmatched students trigger outreach — the NLC contacts employers in undersupplied occupations.
+- **June:** placements begin.
+- **Career data (BLES, Sovereign Functions Act §6A.5):** the portal publishes historical placement data going back as far as records exist — placements offered by occupation and region, fill rates, completion rates, subsequent hiring rates, and average wages. A student considering welding can see that Region 7 shipyard co-ops requested 200 welding apprentices per year for the last 10 years, hired 85% of them, and they're now earning ~$55,000. The Bureau of Labour and Economic Statistics (BLES) publishes the annual Apprenticeship and Placement Report and the Occupation Demand Index, both fed by this portal data.
 
 - **Participants:** ~1 million/year (~500,000 men, ~500,000 women), auto-incorporated at 20 with a $50 BWC wallet and base shares. **Full-time apprenticeship all year** in the chosen field, mentored by masters, with ~3 weeks/year back at school for testing/credentialing (the flip).
 - **Structure:**
@@ -385,4 +418,4 @@ The young are trusted with a choice, trained without debt, and welcomed back whe
 
 ---
 
-**End of Draft 2.6**
+**End of Draft 2.7**
