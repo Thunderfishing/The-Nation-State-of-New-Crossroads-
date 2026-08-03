@@ -1,5 +1,5 @@
 # Crossroads Federated Cooperatives Limited (FCL) Structure Act of 2025
-**Draft: 3.5 | Date: July 27, 2026**  
+**Draft: 3.6 | Date: July 27, 2026**  
 **Author: Thunderfish2**
 
 ---
@@ -77,6 +77,40 @@ Three tiers by size, revenue, and loan exposure. All pay the 5% co-op profit tax
 - **2.6.3 Payout schedule (tiered):** small amounts upfront; larger balances over up to 5 years at 5% simple interest (e.g., 10% upfront, balance over 5 years).
 - **2.6.4 Termination for cause:** a worker-member who leaves for **any** reason — including termination for cause — is entitled to full redemption value under the 2.6.3 schedule.
 - **2.6.5 Relation to investor exits:** member redemptions take priority for liquidity over discretionary investor exits.
+
+### 2.7 Second-Tier Federation — Co-ops of Co-ops
+
+FCLs may federate into **sector-level co-operative federations** whose members are co-ops, not individuals. A second-tier federation is itself an FCL — governed one-member-co-op-one-vote, with its own board elected by its member co-ops.
+
+| Function | What the federation does | Example |
+|---|---|---|
+| **Wholesale purchasing** | Aggregates buying power across member co-ops for raw materials, components, supplies | A grocery co-op federation negotiating bulk food purchases for 500 retail co-ops |
+| **Export marketing** | Collective export desk — negotiates foreign contracts, coordinates logistics, manages brand | The agricultural marketing desk (Industry Act §3.2A) is exactly this |
+| **Shared R&D** | Joint research programmes funded by member dues — avoids each co-op reinventing the wheel | A steel co-op federation sharing metallurgical R&D across 20 mills |
+| **Supply-chain coordination** | Common component platforms, interchangeable parts, shared quality standards | An automotive co-op federation standardizing battery modules across 10 EV factories |
+| **Brand and standards** | Shared brand identity, quality certification, training standards (see §2.8 Franchise) | A co-op hotel federation sharing a reservation system and service standards |
+
+**Governance:** one member co-op, one vote — regardless of the member co-op's size. A Tier 1 grocery co-op and a Tier 3 grocery co-op each hold one vote in the grocery federation. The federation's board is elected by its member co-ops and reports to the Productive Chamber through the same collective-election mechanism as any Tier 2+ FCL.
+
+**What a federation is NOT:** it is not a holding company. It does not own its member co-ops. It does not set their prices, hire their staff, or direct their operations. It serves its members — purchasing, marketing, R&D, logistics — on the same principle as a credit union serving its depositors. The member co-op that no longer benefits may withdraw.
+
+**The CCIF Alliance Network (§3.8.7) is already a second-tier federation** — the voluntary federation of CCIF depositors, governing the co-op sector's largest capital pool. The pattern is established; this section generalizes it to any sector.
+
+### 2.8 Co-operative Franchise
+
+An FCL may license its brand, operating model, training standards, and supply chain to independent franchise FCLs. Each franchise location is a separate worker co-op — one worker one vote, independently governed — operating under the brand standards and paying a franchise fee for access.
+
+| Element | Specification |
+|---|---|
+| **Parent (brand FCL)** | Develops and owns the brand, the operating playbook, training standards, and the supply chain. Its members ARE the franchise co-ops (second-tier federation, §2.7). Governed one-member-co-op-one-vote |
+| **Franchise (location FCL)** | Independent worker co-op — one worker one vote, independently governed. Operates under the brand standards. Pays a franchise fee (a service charge, not equity — the parent does not own the franchise) |
+| **Franchise fee** | Set by the parent's board (elected by the franchise co-ops). Covers brand use, supply-chain access, training, marketing. The fee is a cost of service, not a royalty on ownership |
+| **Quality control** | The parent sets standards; franchise locations must meet them. A franchise that fails quality standards may lose the brand licence (parent board vote, appealable to ad-hoc arbitration, Chamber Act §6.6) |
+| **Exit** | A franchise co-op may leave the franchise at any time — it loses the brand and supply-chain access but keeps its own assets, members, and governance. No exit penalty beyond loss of the brand |
+
+**Why this matters:** co-operative franchising solves the scale-vs-ownership tension. A grocery chain, a restaurant chain, a pharmacy chain, a daycare network — any business where brand consistency and supply-chain scale matter — can achieve national reach without centralizing ownership. Each location is worker-owned and locally governed; the franchise federation provides the scale. The franchise fee replaces the corporate model's profit extraction: value flows up as a service charge, not as dividends to distant shareholders.
+
+**Real-world precedents:** Ace Hardware (dealer co-op, each store independently owned), Best Western (hotel co-op), Eroski/Mondragon (worker co-op supermarkets sharing a brand), Associated Press (news co-op). The model is proven; this section makes it explicit in the FCL architecture.
 
 ---
 
@@ -330,4 +364,4 @@ That is the FCL Act.
 
 ---
 
-**End of Draft 3.5**
+**End of Draft 3.6**
