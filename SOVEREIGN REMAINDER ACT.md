@@ -220,7 +220,7 @@ The smallest body that can command the military, conduct diplomacy, nominate aud
 
 ### 6.3 Powers (closed list)
 
-- Command the military (§2.1); negotiate treaties (§2.2); direct the four bureaus (§6A); exercise the global-segment statecraft powers (§2.4).
+- Command the military (§2.1); negotiate treaties (§2.2); direct the five bureaus (§6A); exercise the global-segment statecraft powers (§2.4).
 - Nominate Special Auditors (§3.1) and participate in judicial appointments (§4.1).
 - Turn the Tier-2 key with chamber concurrence (§5.3). The Tier-1 retaliatory authority (Chamber Act §12.4) requires the Chairman plus a majority of sitting members, but never fewer than three total authorizers. The Chairman's own vote counts toward the majority.
 - Nothing else.
@@ -229,18 +229,18 @@ The smallest body that can command the military, conduct diplomacy, nominate aud
 
 ## Section 6A: The Executive Bureaus
 
-Four lean organs that administer what the Council directs and the chambers oversee. They are not policy-making bodies. None may grow beyond its mandate without the highest amendment bar (§1.3).
+Five lean organs that administer what the Council directs and the chambers oversee. They are not policy-making bodies. None may grow beyond its mandate without the highest amendment bar (§1.3).
 
 ### 6A.1 Treasury
 
 - Cash printing and the issuance anchor (Monetary §1.5).
-- Publication of the DLB, the PPI, and the reference rate (Monetary §1.5A).
+- Publication of the DLB, the PPI, and the reference rate (Monetary §1.5A) — **calculated by BLES (§6A.5), published by Treasury.** Treasury owns the publication; BLES owns the methodology and collection.
 - **Collection of the federal tax base (Section 7)** — VAT, income tax above $100,000, co-op and corporate profit tax, excise, the national property layer, and the resource cut.
 - SWF administration — contributions, stabilizers, the automatic dividend, the Defense Fund.
 - The Citizens' Metals ETF and financial management of the sovereign metals reserve.
 - Tariff collection and customs/border administration (§2.3).
 - Citizen-initiative petition processing (Chamber §6.3).
-- **The Capital Markets Bureau** — continuous market supervision of the Crossroads Exchange (Exchange Act 1.5). Monitors for manipulation, enforces the §2.5 prohibitions in real time, verifies the domestic/global firewall, and refers violations to the Special Auditors. Treasury watches the market; the auditors prosecute; the Financial Services Committee (Chamber §6.7) questions both.
+- **The Capital Markets Bureau** — continuous market supervision of the Crossroads Exchange (Exchange Act 1.8). Monitors for manipulation, enforces the §2.5 prohibitions in real time, verifies the domestic/global firewall, and refers violations to the Special Auditors. Treasury watches the market; the auditors prosecute; the Financial Services Committee (Chamber §6.7) questions both.
 
 Reports to the Economic Affairs Committee; scrutinized by the Public Accounts Committee.
 
@@ -272,6 +272,39 @@ Territorial Chamber oversight; paired with Parks Act and relevant boards.
 - The NInfraB sets standards and fees; Transport builds and operates.
 
 Scrutinized by the Energy and Infrastructure Committee.
+
+### 6A.5 Bureau of Labour and Economic Statistics (BLES)
+
+The statistical arm of the sovereign. BLES **publishes — it does not regulate.** Its outputs are inputs to Treasury (the DLB, PPI, and reference rate), to the NLC (apprenticeship and occupation data), to the CLS (labor-market context for lending decisions), and to every citizen browsing the mandatory-service placement portal (Education Act §4).
+
+**Publications:**
+
+| Publication | Frequency | Source data | Consumer |
+|---|---|---|---|
+| **Daily Living Basket (DLB)** | Annual (January) | Bottom-up: Regional Boards price the fixed national basket at local retailers/markets monthly (20 regional price points). Credit union boards cross-check against aggregate wallet spending patterns on basket-category merchants (no individual transaction data — §1A compliant). BLES receives all 20 regional prices, population-weights them, publishes the national DLB. Methodology public; basket composition reviewed every 5 years (Monetary §1.4) | Treasury (issuance anchor, threshold indexing), all acts |
+| **BWC Purchasing Power Index (PPI)** | Monthly | Broader basket, same bottom-up collection method as the DLB — Regional Board pricing + CU aggregate validation | Treasury (reference rate input), credit unions |
+| **Reference rate** | Quarterly | Derived mechanically from DLB/PPI per the §1.5A rule — BLES calculates, Treasury publishes. BLES does not set the rate; the rule sets the rate | Treasury, credit unions, all rate-anchored instruments |
+| **Apprenticeship and placement report** | Annual | NLC mandatory-service portal data — placements offered by co-ops/corporations, placements filled, completion rates, subsequent hiring rates, by occupation and region. Historical data open to students for career decisions | NLC, students, Education Act §4 |
+| **Occupation demand index** | Annual | CED pseudonymized employment and wage data by sector, region, and skill tier. Aggregate patterns only — no individual identification | NLC, CLS, Regional Boards, Productive Chamber |
+| **Wage distribution** | Annual | CED aggregates by sector, region, skill tier | Public (transparency), fund premium calculations |
+| **Informal-economy estimate** | Annual | Sampling only (Monetary §1A.5) — anonymized voluntary surveys, DLB price extrapolation, aggregate cash circulation data. Never surveillance | PMI dashboard (Monetary §1.7), Treasury |
+
+**The DLB methodology — bottom-up, not top-down:**
+
+The DLB is a fixed basket priced locally, not average spending. Average spending drifts with income and preferences; a rich region's higher average spend does not mean groceries cost more. The method:
+
+1. **Regional Boards** price the exact national basket (Monetary §1.4: groceries for 2 persons/7 days, one restaurant meal, one tank of fuel, one week of transit, one standard utility payment) at local retailers and markets, monthly — producing 20 regional price points.
+2. **Credit union boards** cross-check against aggregate spending patterns on basket-category merchants within their catchment — not individual transactions (that would violate Monetary §1A), but aggregate flows by merchant category. If the Regional Board says fuel is $1.50/litre but CU aggregate data shows fuel-station transactions averaging $1.80, the CU flags the discrepancy.
+3. **BLES** receives all 20 regional prices plus CU validation flags, population-weights them, reconciles discrepancies, and publishes the national DLB on the first week of January.
+
+This is structurally similar to how Statistics Canada calculates CPI — local price collectors, national averaging — but uses the existing institutional infrastructure (Regional Boards + credit unions) instead of a separate collection corps.
+
+**What BLES is not:**
+- Not a regulatory body — it holds statistics, not rules.
+- Not a labor board — it does not set wages, mediate disputes, or enforce standards. Those functions sit with the CLS Board (Credit Union Act §5.5), the NLC (Education Act), and the Regional Boards.
+- Not a surveillance instrument — its informal-economy estimates use sampling only (Monetary §1A.5). BLES has no access to individual CED records; it receives aggregates from Treasury.
+
+Scrutinized by the Economic Affairs Committee; methodology audited by the Special Auditors.
 
 ---
 
@@ -345,7 +378,7 @@ Set in full at Monetary Act §4; collected by Treasury (§6A.1); rates set by th
 | R&D / Innovation Hubs | ~$30B |
 | **National infrastructure buildout** (§6A.4; Infrastructure, Energy, Communications Acts) | **~$20B** |
 | Parks | ~$20B |
-| The four functions — judiciary, auditors, four bureaus | ~$20B |
+| The four functions — judiciary, auditors, five bureaus | ~$20B |
 | **Mandatory-service stipends** (Education Act §4) | **~$13.5B** |
 | **Universal savings match** | **~$8B** |
 | **Housing rebates** (Durahome ~$7,000/home + geothermal ~$5,000 — Housing Act §3.2/§5.3) | **~$0.4B** (scaling to ~$4.25B) |
@@ -411,7 +444,7 @@ A sovereign act inconsistent with this section is void, reviewable by the Suprem
 | Election integrity | Election Integrity Commission (11; Chamber Act §9.5) | Ethics & Standards Committee; Supreme Court nominates; referrals to Special Auditors |
 | Foreign-asset resilience | §5.7: 20% concentration ceiling per nation; 30% max freezable; 70%+ in domestic physical assets or globally diversified. Entrenched at middle bar | Treasury Investment Mandate (Monetary §2.1A); Special Auditors |
 | **Revenue** | **~$495B** — VAT 6% $199B · income >$100k $144B · tariffs $49B · corporate profit $25B · resources $22.7B · co-op profit $20B · property $19B · excise $15B · Parks Index $2B | Cap 4% → 2% of GDP; Public Accounts Committee |
-| **Spending** | **~$425B total** — **operations ~$196B (3.3% of GDP, inside the 4% cap)**: sustainability $50B · **military $46B** · R&D $30B · infrastructure $20B · parks $20B · four functions $20B · **savings match $8B**. **Transfers ~$229B**: education vouchers $170B · healthcare subsidy $45B · **mandatory-service stipends $13.5B** · **housing rebates $0.4B** (scaling to $4.25B) | Cap binds operations only (§7.2); classification justiciable. No debt, no issuance, no SWF draw |
+| **Spending** | **~$425B total** — **operations ~$196B (3.3% of GDP, inside the 4% cap)**: sustainability $50B · **military $46B** · R&D $30B · infrastructure $20B · parks $20B · four functions (judiciary, auditors, five bureaus) $20B · **savings match $8B**. **Transfers ~$229B**: education vouchers $170B · healthcare subsidy $45B · **mandatory-service stipends $13.5B** · **housing rebates $0.4B** (scaling to $4.25B) | Cap binds operations only (§7.2); classification justiciable. No debt, no issuance, no SWF draw |
 | Profit taxation | **Federal only** | Regions levy income tax and VAT; no level may tax residential land |
 | Domestic force | Not the sovereign | Militia to Territorial; police to municipalities; prosecutors to Regional Boards |
 | Growth | Closed list (§1.1) | Highest bar to add; ordinary bar to shrink |
