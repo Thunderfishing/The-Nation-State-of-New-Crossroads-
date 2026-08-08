@@ -1,5 +1,5 @@
 # Crossroads Federated Cooperatives Limited (FCL) Structure Act of 2025
-**Draft: 3.6 | Date: July 27, 2026**  
+**Draft: 3.8 | Date: July 27, 2026**  
 **Author: Thunderfish2**
 
 ---
@@ -20,6 +20,69 @@
 - 195,100 core FCLs + 27,600 co-op clubs = 222,700 entities nationally.
 - Co-op sector revenue (2025 baseline ~$9.425T) — descriptive, not a binding target.
 
+### 2.1A Co-operative Configurations
+
+The FCL framework supports four governance configurations. Every FCL declares its configuration at chartering. The configuration determines who the **members** are (the 70%+ majority), who the **investors** are (the ≤30% minority), and who the **employees** are (if distinct from members).
+
+**Configuration 1: Worker Co-operative**
+
+| Class | Stake | Voting | Profit / patronage |
+|---|---|---|---|
+| **Workers (members)** | 70%+ base shares ($1 per share) | One member, one vote — on all matters (board elections, operations, wages, strategy) | **Labour patronage** — surplus distributed proportional to hours worked or salary contribution. Illustrative default: 50% to individual capital accounts (locked until exit), 20% reserve fund, 20% discretionary (cash patronage or reinvestment), 10% community/education fund |
+| **Investors** | ≤30% investor shares | 5% cap per investor; restricted to investor matters (§2.3) | Proportional profit-sharing from the investor portion (§3.2) |
+| **Customers** | Not members | No vote, no patronage | Purchase goods/services at market price |
+
+Examples: factory, shipyard, software firm, construction crew.
+
+**Configuration 2: Consumer Co-operative**
+
+| Class | Stake | Voting | Profit / patronage |
+|---|---|---|---|
+| **Customers (members)** | 70%+ base shares ($1–$50 buy-in) | One member, one vote — on all matters (board elections, operations, product selection, pricing) | **Spending patronage (Calgary Co-op model)** — tiered by purchase category. Illustrative defaults: groceries ~3%, fuel ~2%, pharmacy ~1.5%, general merchandise ~1%. Earned patronage accumulates as member equity; the co-op may also pay a **share dividend** (~4–5%) on accumulated equity. Each co-op sets its own tiers and rates by member vote |
+| **Investors** | ≤30% investor shares | 5% cap per investor; restricted to investor matters | Proportional profit-sharing from the investor portion |
+| **Workers** | **Employees, not members** | No vote, no base shares | Wages and benefits set by the member-elected board. May form a union and bargain collectively. Do not receive patronage — compensated through employment, not ownership |
+
+Examples: grocery, hardware, utility, credit union, insurance.
+
+**Configuration 3: Multi-Stakeholder Co-operative**
+
+| Class | Stake | Voting | Profit / patronage |
+|---|---|---|---|
+| **Workers (members)** | Share of the 70%+ (split defined in bylaws — e.g., 40% worker / 30% customer) | One member, one vote within their class. Board seats allocated by class ratio (e.g., 4 worker seats / 3 customer seats on a 10-seat board) | **Labour patronage** on the worker portion of surplus |
+| **Customers (members)** | Share of the 70%+ (per bylaws) | One member, one vote within their class | **Spending patronage** on the customer portion of surplus |
+| **Investors** | ≤30% investor shares | 5% cap per investor; restricted to investor matters | Proportional profit-sharing from the investor portion |
+
+The bylaws define the class split, board-seat allocation, and surplus ratio between worker and customer patronage. The investor portion (≤30%) is separate.
+
+Examples: daycare co-op, community energy co-op, mixed retail/production.
+
+**Configuration 4: Professional Service Co-operative (the 70/30 clinic model)**
+
+| Class | Stake | Voting | Profit / patronage |
+|---|---|---|---|
+| **Community members (patients, clients)** | 70% base shares ($50 buy-in per Healthcare Act §2.4) | One member, one vote — on board elections, service hours, facility decisions | **Service patronage** — surplus from the 70% stake funds facility improvements, reduced fees, or expanded services rather than cash distribution |
+| **Professional FCL (investor)** | 30% investor shares (held as a single entity, not as individual professionals) | The FCL holds the 30% and appoints 2–3 board seats proportionally. Individual professionals vote within their own FCL, not in the clinic co-op | The Professional FCL distributes its 30% to its own worker-members through its own internal compensation structure |
+| **Support staff** | Employed by the Professional FCL | No direct vote in the clinic co-op. May join the Professional FCL as worker-members if the FCL's bylaws permit — if they join, they vote within the Professional FCL, not the clinic co-op | Wages from the Professional FCL. If admitted as FCL members, receive labour patronage within the FCL |
+
+Examples: healthcare clinic, legal aid co-op, community accounting firm.
+
+**Configuration 5: Agricultural / Primary Producer Co-operative**
+
+| Class | Stake | Voting | Profit / patronage |
+|---|---|---|---|
+| **Producers (members)** | Base shares ($1–$1,000, scaled by production capacity) | One member (one farm), one vote — on all matters (board elections, pooling terms, marketing strategy, capital investment) | **Production patronage** — surplus distributed proportional to volume or quality of production delivered to the co-op. Capital reinvestment decisions by member vote |
+| **Investors** | ≤30% investor shares | 5% cap per investor; restricted to investor matters | Proportional profit-sharing from the investor portion |
+| **Workers (processing/logistics)** | Employees of the co-op | No vote unless the co-op opts for multi-stakeholder (Configuration 3) bylaws | Wages set by the member-elected board |
+
+The agricultural co-op may federate into a **second-tier co-operative marketing desk** (§2.7, Industry Act §3.2A) — a voluntary, preferential-access channel for export marketing, rail/elevator allocation, and collective bargaining with buyers. The marketing desk is an FCL whose members are agricultural co-ops, governed one-member-co-op-one-vote.
+
+- **Collective farm conversion (Industry Act §3.2A):** at founding, Soviet collective farms are dissolved. Household plots become freehold; collective arable becomes member-use rights vesting into title over 10 years; collective equipment/livestock divided as base shares proportional to years of service. The co-op operates shared facilities (elevators, cold storage, processing) as common infrastructure.
+- **Corporate exclusion:** corporations are barred from membership in the marketing desk. They may purchase residual volume after co-op needs are met, at non-preferential terms.
+
+Examples: grain pooling, dairy processing, livestock marketing, fishing co-op, forestry co-op, greenhouse cluster.
+
+**Illustrative defaults, not mandates.** The patronage percentages, surplus-allocation ratios, and spending-category tiers above are defaults each co-op may adjust by member vote. The act sets the STRUCTURE (who the members are, what voting rights each class holds, the investor cap); the co-op sets the ECONOMICS (how surplus is divided, what patronage rates apply, whether to reinvest or distribute). No two grocery co-ops need the same patronage tiers. No two worker co-ops need the same surplus split.
+
 ### 2.2 Membership
 
 - **Workers/customers:** buy a $1 base share ($50/year for co-op clubs); 4–8% dividends; voting and patronage rights.
@@ -29,8 +92,12 @@
 ### 2.3 Ownership Models
 
 - **Standard FCL** (e.g., grocery stores): workers/customers hold base shares ($1, 4–8% dividends); investors contribute $50,000–$5M, voting capped at 5% per investor; members hold 70% voting power, investors 30%.
-- **Professional FCL** (e.g., law/engineering firms, physician groups): licensed professionals hold equal shares; 100% worker-owned; may issue **retainer client shares** ($1,000–$25,000 each; non-voting; 2–8% patronage on fees paid; refundable on termination; capped at 20% of firm equity; voting control remains 100% with worker-owners). Hybrid ratios allowed with 75% board approval.
-- **Investor Shares:** $50,000–$5M (up to $500M under the Heavy Industry Clause, 2.4.3), tied to 30% ownership (or 40%/49% under Heavy Industry), voting capped at 5% per investor (15% under Heavy Industry), non-sellable except via 2.5, estate-transferrable.
+- **Professional FCL** (licensed professionals — doctors, lawyers, engineers, accountants, teachers): 100% worker-owned by the professionals themselves. Each professional holds equal shares; voting is one-member-one-vote among the professionals.
+
+  **Use 1 — Standalone professional firm** (law firms, engineering firms, accounting firms): the firm serves paying clients directly. May issue **retainer client shares** ($1,000–$25,000 each; non-voting; 2–8% patronage on fees paid; refundable on termination; capped at 20% of firm equity; voting control remains 100% with worker-owners). Hybrid ratios allowed with 75% board approval. Retainer shares are specific to firms with fee-paying clients — they do not apply to Professional FCLs that sit inside other co-ops.
+
+  **Use 2 — Professional FCL as investor in a service co-op** (doctors inside clinics, teachers inside schools): the Professional FCL holds the **30% investor stake** in a Configuration 4 co-op (§2.1A). The professionals are worker-members of THEIR OWN FCL and investor-members of the service co-op. They run clinical/educational operations; the community members (patients, parents) govern. The Professional FCL appoints 2–3 board seats proportionally on the service co-op's board. The 30% profit share is distributed to the professionals through their own FCL's internal compensation structure. Retainer client shares do not apply — the service co-op's community members ($50 buy-in) are the members, not retainer clients.
+- **Investor Shares:** $50,000–$5M (up to $500M under the Heavy Industry Clause, 2.4.3), tied to 30% ownership (or 40%/49% under Heavy Industry), voting capped at 5% per investor (15% under Heavy Industry). Investor shares may not be sold privately — transferable only through the §2.5 priority exit ladder (internal buyer → secondary eligible investor → Co-op Board → CCIF backstop). Estate-transferrable.
 
 ### 2.4 FCL Maturity Tiers
 
@@ -77,6 +144,63 @@ Three tiers by size, revenue, and loan exposure. All pay the 5% co-op profit tax
 - **2.6.3 Payout schedule (tiered):** small amounts upfront; larger balances over up to 5 years at 5% simple interest (e.g., 10% upfront, balance over 5 years).
 - **2.6.4 Termination for cause:** a worker-member who leaves for **any** reason — including termination for cause — is entitled to full redemption value under the 2.6.3 schedule.
 - **2.6.5 Relation to investor exits:** member redemptions take priority for liquidity over discretionary investor exits.
+
+### 2.6.6 Founder's Seat
+
+The founding member(s) of an FCL — the individual(s) who registered the co-op at Tier 1 — hold a **lifetime non-voting board seat** for as long as they retain any shares (base or investor) in the co-op.
+
+| Element | Specification |
+|---|---|
+| Eligibility | The individual(s) named on the original Tier 1 registration |
+| Duration | Lifetime of the founder's membership. Expires when the founder sells all shares, dies, or voluntarily resigns the seat |
+| Voting power | **None** — the founder speaks but does not vote. The seat is a voice, not a veto |
+| Board participation | Full access to board meetings, materials, and deliberation. May propose agenda items |
+| Multiple founders | If the co-op was founded by more than one person, each founder holds a seat (maximum 3 founder seats) |
+| Transferability | None — the seat is personal to the founder and cannot be sold, inherited, or assigned |
+
+### 2.6.7 Investor Rights and Entitlements
+
+An investor holding FCL investor shares is entitled to:
+
+- **(a) Proportional profit-sharing** — the investor's share of distributable profit, calculated as their equity percentage of total investor equity × the investor portion of the profit allocation (§3.2). Paid annually in BWC.
+- **(b) Audited financial transparency** — quarterly financial statements (unaudited), annual audited statements. The investor may request a breakdown of how the investor portion of profit was allocated.
+- **(c) Voting rights** — capped at 5% per investor (15% under Heavy Industry Clause §2.4.3). Restricted to matters affecting investor interests: changes to the investor share class, profit-allocation ratio, mergers, dissolution, sale of substantially all assets. Investor votes do not count on worker/member matters.
+- **(d) Exit rights** — per the §2.5 priority hierarchy. The FCL may not block an exit except where the Redemption Reserve is insufficient (the investor's place in the queue is preserved and interest accrues at the reference rate).
+- **(e) Information rights** — the investor may inspect the FCL's books and records (excluding worker personnel files and customer-specific data) upon 30 days' notice, subject to a confidentiality agreement.
+- **(f) Tag-along rights** — if the FCL is sold (merger, asset sale, dissolution), the investor participates in the sale proceeds on the same terms as other equity holders, in proportion to their equity percentage.
+- **(g) No governance rights beyond (c)** — investors have no voice in worker/member board elections, wages, working conditions, operational decisions, or strategic direction except as provided in §2.6.8.
+
+### 2.6.8 Investor Influence Rights (Scaled by Ownership)
+
+Investors receive influence rights proportional to their ownership stake. These rights are **influence, not control** — voice and information, never voting power. The worker/member majority retains voting control at all times.
+
+| Ownership threshold | Automatic right |
+|---|---|
+| **5%** | **Information rights** — quarterly financials, annual audited statements, right to inspect books on 30 days' notice |
+| **10%** | **Observer rights** — one non-voting observer to all board meetings. May speak but not vote. Expenses paid by investor |
+| **15%** | **Advisory vote** — non-binding advisory vote on matters affecting investor interests. Board must consider and publish its response |
+| **20%** | **Consultation rights** — board must consult the investor before decisions materially affecting investor interests. Consultation is not approval |
+| **30%** | **Non-voting board seat** — one director appointed by the investor, 3-year term, receives all board materials, speaks but does not vote |
+
+**Heavy Industry escalation (§2.4.3 co-ops only):**
+
+| Ownership threshold | Additional right |
+|---|---|
+| **40%** | **Two non-voting board seats** instead of one |
+
+**CGCI treatment:** where the Crossroads Global Co-operative Index (CGCI Act §2.1) holds 10% or more of a specific FCL through its Co-op Index sub-fund, the CGCI fund manager receives observer rights as proxy for the pooled foreign investors. The CGCI fund manager holds **zero voting rights** per the CGCI Act §1.
+
+**What these rights do NOT include:**
+- **No dilution veto.** No investor at any threshold may veto new share issuance. The co-op's capitalization decisions belong to its members.
+- **No voting board seats.** At no threshold does an investor receive a voting seat. Capital has a voice; membership has the vote.
+
+**Transferability.** Influence rights attach to the holder, not the shares. If the investor sells below a threshold, the corresponding rights lapse automatically.
+
+**Enforcement.** Influence through channels other than those specified here — side agreements, loan covenants, informal pressure — is void and prosecutable by the Special Auditors (Sovereign Functions Act §3).
+
+### 2.6.9 Redemption Reserve
+
+Tier 2 and Tier 3 FCLs allocate **5% of annual net profit** until the reserve equals **10% of total member/investor equity**. The reserve is ring-fenced — it may be used only for member and investor exits under §2.5 and §2.6. It may not be borrowed against, lent out, or used for operations. The Special Auditors audit the reserve annually.
 
 ### 2.7 Second-Tier Federation — Co-ops of Co-ops
 
@@ -225,7 +349,7 @@ An FCL may license its brand, operating model, training standards, and supply ch
 
 - **3.8.6 Prudential rules.** The CCIF takes deposits, promises a return, offers a redemption window, and lends into illiquid national-scale projects. **That is a bank**, and until this draft it was a bank with no bank rules: no reserve, no loss provision, no underwriting, no supervisor, and no line in the crisis architecture. Monetary §1.8 names a GFC-2.0-style event as the system's real exposure and then did not watch the one pool shaped like one. These rules close that:
 
-  - **Liquidity requirement (the load-bearing one).** The CCIF shall hold liquid assets — BWC, credit-union deposits, and short-term reference-rate-anchored instruments — **at least equal to its callable window.** If 20% may leave in 30 days, 20% is liquid. **The mismatch was never the 20% door; it was the 20% door against a book that could not open it.** Where the liquid book falls short, the door narrows automatically until it is restored. The gate follows the assets; the assets are never asked to follow the gate.
+  - **Liquidity requirement (the load-bearing one).** The CCIF shall hold liquid assets — BWC, credit-union deposits, and short-term reference-rate-anchored instruments — **at least equal to its callable window.** If 20% may leave in 30 days, 20% is liquid. Where the liquid book falls short, the door narrows automatically until it is restored. **This is self-executing and arithmetic:** the callable window is automatically the lesser of (a) 20% of deposits and (b) the CCIF's liquid assets divided by total deposits. If liquid assets fall below 20% of deposits, the window narrows proportionally. No board vote is required to narrow the window; the Alliance Network board may widen the window only if liquid assets exceed 20%, subject to Productive Chamber ratification.
   - **Loss provision.** A published minimum provision against expected losses, set by asset class and taken against returns before distribution — the Credit Union Act §4.3 pattern, which already exists and works. Under-provisioning is prosecutable by the Special Auditors (Sovereign Functions Act §3), not a matter of board judgment.
   - **Telemetry.** CCIF withdrawal velocity, liquid-ratio dispersion, and project-book concentration are added to the systemic-stress trigger set of Monetary §1.8. The pool is institutional, so this sits entirely on the elite side of the asymmetry and reaches no citizen.
   - **No sovereign backstop, and this is deliberate.** The CCIF has no DIP cover, no RLP access, and no SWF line. **Deposits here are uninsured**, exactly like special shares (Credit Union Act §3.2) and CGCI units. Insuring the pool would remove the one thing restraining the door — the depositor's own exposure — and make the run it was meant to prevent more likely, not less. The answer to a maturity mismatch is to end the mismatch, not to guarantee it.
@@ -364,4 +488,4 @@ That is the FCL Act.
 
 ---
 
-**End of Draft 3.6**
+**End of Draft 3.8**
