@@ -1,11 +1,7 @@
-# Crossroads Exchange Act of 2025: Draft 1.8
+# Crossroads Exchange Act of 2025: Draft 1.9
 
-**Draft: 1.8 | Date: July 27, 2026**
+**Draft: 1.9 | Date: July 27, 2026**
 **Author: Thunderfish2**
-
----
-
-**Note on figures.** This act is a rulebook: it carries structure, not fiscal magnitudes, and the Consolidated Fiscal Model's rescale therefore leaves it untouched. Where a figure appears it derives from that model.
 
 ---
 
@@ -18,7 +14,7 @@ Establishes the Crossroads Exchange, the national secondary market for ownership
 - **Domestic corporate equity** (directly listed by corporations)
 - **Citizens' Metals ETF** (the pool of metal, managed by Treasury)
 
-Tranching, derivatives, shorting, and leverage are prohibited outright. The **Global Sound-Capital Segment** offers that same rulebook to the world: foreign cooperatives, mutuals, and disciplined corporations may list by restructuring to the Crossroads standard and submitting to independent audit — exporting the ethos of sound, ownership-based finance the way older exchanges exported disclosure, while a hard firewall keeps foreign risk out of the domestic core. The Exchange gives New Crossroads real, deep capital markets that remain entirely in character: legible, ownership-based, anti-takeover, transparent, and liquid.
+Tranching, derivatives, shorting, and leverage are prohibited outright. The **Global Sound-Capital Segment** (governed by the Foreign Investment & Global Capital Act) offers that same rulebook to willing foreign issuers, while a hard firewall keeps foreign risk out of the domestic core. The **CGCI sub-fund platform** (Foreign Investment Act §2) channels foreign capital into seven domestic-sector sub-funds — all non-voting, non-redeemable, providing structural liquidity without sovereign backstops. The Exchange gives New Crossroads real, deep capital markets that remain entirely in character: legible, ownership-based, anti-takeover, transparent, and liquid.
 
 ---
 
@@ -38,13 +34,11 @@ Tranching, derivatives, shorting, and leverage are prohibited outright. The **Gl
 | **Co-op Board** | Non-voting FCL investor shares | Co-op Capital Index | CCIF Alliance Network (FCL Act §3.8.7) |
 | **Credit-Union Capital Board** | Credit-union special shares | Individual credit unions | Each issuing credit union |
 | **Corporate-Equity Board** | Domestic corporate equity | Individual corporations | Each issuing corporation |
-| **Metals ETF Board** | Citizens' Metals ETF shares | Citizens' Metals ETF | Treasury |
+| **Metals ETF Board** | Citizens' Metals ETF shares | Citizens' Metals ETF | Citizens' Metals Reserve Board (Metals Act §4) |
 | **FX Board** | Foreign-currency spot contracts (BWC ↔ major currencies) | No underlying pool — a clearing facility | Exchange Authority under Treasury Capital Markets Bureau oversight |
 | **Investment Fund Board** | GIC Ladder, Co-op Sector Index, Blended-Return, and Sector-Specific fund shares | Various pooled vehicles | Licensed fund managers / CU consortia |
 
 **What flows through but does not trade as a board:** foreign capital, via the CGCI channel (3.4), during the Industry Act §2.5 conversion ramp.
-
-**What is deliberately *not* on the Exchange (3.5):** the sovereign metals reserve (a strategic state asset, never a security), and **sovereign debt instruments** (Crossroads issues no government bonds and runs no repo — Monetary §1.5A). Private-sector debt (corporate or co-op bonds) is not listed by current design choice — all private-sector debt flows through the credit-union network (Credit Union Act §4) and the CCIF (FCL Act §3.8) — but is not constitutionally prohibited.
 
 **What never exists on the Exchange (Section 2.5):** tranched or securitized repackagings, derivatives, short positions, and leveraged/margin positions — in either segment.
 
@@ -83,9 +77,9 @@ These are not frictions to be optimized away — they are the point. The Exchang
 
 A public bid sits beneath certain **domestic** boards so a holder is never wholly trapped — and, equally, so the band caps any panic:
 
-- Co-op investor shares (Co-op Capital Index): the **CCIF** buys unlisted shares at **90% of audited book** if no buyer is found within 90 days (FCL §2.5.5).
+- Co-op investor shares (Co-op Capital Index): the **CCIF** buys unlisted shares at **90% of audited book** if no buyer is found within 90 days (FCL §2.5.5). The **CGCI Co-op Index sub-fund** (Foreign Investment Act §2.1) provides additional foreign liquidity on this board, reducing pressure on the CCIF backstop.
 - Special shares: the **90% floor** of the trading band, plus the co-op-index / member-buyback last-resort paths (CU §3.3).
-- Metals ETF: **no public backstop**. The fund never redeems; the price is discovery, not guaranteed. The band limits the daily fall, and the 30-day minimum hold prevents reflexive panic selling.
+- Metals ETF: **no public backstop**. The fund never redeems; the price is discovery, not guaranteed. The band limits the daily fall, and the 30-day minimum hold prevents reflexive panic selling. The **CGCI Metals Allocation sub-fund** (Foreign Investment Act §2.1) holds up to 10% of the ETF, providing a permanent structural bid without a sovereign backstop.
 - The backstop is a haircut exit, not a guarantee of par — it removes the trap without removing the risk.
 
 **The domestic public backstops (CCIF, the 90% floor, and behind them the RLP/SWF/DIP) never extend to the Global Sound-Capital Segment (7.2) nor to the Metals ETF Board.** Global-segment liquidity arrangements, if any, are segment-internal and disclosed; domestic public money never stands behind a foreign listing. The Metals ETF is self-backed by its metal holdings.
@@ -106,8 +100,6 @@ Why this matters specifically here: the special-share board's price *is* the sys
 
 **Diversification is permitted only through transparent pass-through index funds (Section 4)** — which hold the actual underlying shares, disclose exactly what they hold, and add no synthetic seniority or leverage.
 
-> **Note on the citizen revolving credit line.** The line built into every wallet (Monetary §1.6A) is **not** margin and does not breach the leverage prohibition. A citizen's reserve is a **signal, not collateral**: nothing is pledged, nothing is encumbered, and no listed position secures the line. A holder may spend or sell freely — the published formula simply re-reads a smaller number. Because reserve is counted at par and cost basis rather than at market (3.2, 3.6), a listed position can never be levered into a larger one: the line does not grow when the price does.
-
 ### 2.6 Settlement, clearing, and the share register
 
 - **Settlement currency:** BWC, on a defined settlement cycle (not intraday).
@@ -116,16 +108,6 @@ Why this matters specifically here: the special-share board's price *is* the sys
 - **Accrued-distribution rule:** on transfer, the seller's accrued portion of the current dividend/patronage period is settled in the price or paid to holder-of-record on a set date, so the buyer does not collect distributions the seller earned.
 - **Segregated clearing (7.2):** the Domestic Core and the Global Sound-Capital Segment settle in **separate clearing pools with no shared default fund**; a position in one segment may never be cross-collateralized against the other.
 
-### 2.7 Asymmetric scrutiny and privacy
-
-The Exchange inherits the PPK/CED architecture and asymmetric scrutiny (Monetary §5, CU §6.6):
-
-- **Individual trades are private.** The CED logs **aggregate board volume** (quarterly, system-wide) and per-issuer ownership splits; it does not expose who traded what below the disclosure thresholds.
-- **Identity reaches a position only via the warranted Judicial Link Box** (Sovereign Functions Act §4.2). Holdings are pseudonymous; identity is never merged with trading data outside a warrant.
-- **Elite/institutional disclosure applies:** holdings above $10M are publicly disclosed (pseudonymously); listed issuers above $10M revenue file public annual reports. Ordinary citizen positions stay private.
-- **Tier caps for Metals ETF apply to total holdings (primary + secondary).** The Exchange enforces these caps through the share register, and the CED audits compliance quarterly. Holdings above a citizen's tier cap are invalid and must be divested within 90 days or are subject to forced sale.
-- **No credit record is created, held, or consulted.** A citizen's positions on any board feed the §1.6A line formula only as a **present holdings figure read at par or cost basis** — never as a history, never as a score, and never as a file. No credit bureau, score, rating, file, or history may be constructed anywhere (Monetary §1A.2). The Exchange holds a register of who owns what today, not a record of what anyone did.
-
 ---
 
 ## Section 3: The Trading Boards (Domestic Core)
@@ -133,7 +115,7 @@ The Exchange inherits the PPK/CED architecture and asymmetric scrutiny (Monetary
 ### 3.1 Co-op Board
 
 - **Lists:** non-voting FCL investor shares drawn from the **Co-op Capital Index** (FCL §2.3, §2.5.5). Worker/member base shares never list.
-- **The Co-op Capital Index** is the pool of non-voting FCL investor shares, managed by the **CCIF Alliance Network** under **Productive Chamber oversight** (FCL Act §3.8.7). No sovereign role — the Domestic Core sits entirely outside the sovereign (§5; Sovereign Functions Act §8.5).
+- **The Co-op Capital Index** is the pool of non-voting FCL investor shares, managed by the **CCIF Alliance Network** (CCIF Act §5) under **Productive Chamber oversight**. No sovereign role — the Domestic Core sits entirely outside the sovereign (§5; Sovereign Functions Act §8.5).
 - **Pricing:** audited book value, ±10% daily band, 12-month minimum hold.
 - **Backstop:** CCIF at 90% of book if no buyer within 90 days.
 - **Also the destination for three things:**
@@ -172,9 +154,9 @@ The 49% cap can be exceeded in exactly two circumstances, and never otherwise: a
 
 **The common rails.**
 
-- **Approval:** **Regional Board (6/11) → the Corporate and Exchange Commission (recommendation) → the full Productive Chamber (supermajority) → Territorial Chamber (15/20)**, plus a **Community Benefit Agreement** and a **Labor Peace Agreement**. This is deliberately a higher bar than an ordinary listing (which clears the Territorial Chamber at simple majority), because it is an exception to the control rule rather than an application of it.
+- **Approval:** **Regional Board (6/11) → the Corporate and Exchange Commission (recommendation) → the full Productive Chamber (supermajority) → Territorial Chamber (165/220)**, plus a **Community Benefit Agreement** and a **Labor Peace Agreement**. This is deliberately a higher bar than an ordinary listing (which clears the Territorial Chamber at simple majority), because it is an exception to the control rule rather than an application of it.
 - **No sovereign approval, and this matters.** Earlier drafts routed the capital-intensive exception through the Sovereign Council at 5/7. That contradicted Section 5's own opening sentence — *the sovereign is barred from domestic regulation (Sovereign Functions Act §8), so domestic Exchange oversight is a chamber function* — and handed the Council a domestic-economy lever in the same paragraph that denied it one. A firm's ownership structure is the Productive Chamber's business and the Territorial Chamber's check. The Council has no business in it and now holds none: its only role anywhere in this act is the global segment's statecraft powers (Section 7).
-- **The Territorial Chamber at 15/20 is the check on the Productive Chamber.** A chamber of corporations voting on a corporation's ownership structure is an obvious conflict; the answer is not to move the decision to the sovereign but to require the place axis to concur at a supermajority, as it does for every other structural question in the order.
+- **The Territorial Chamber at 165/220 is the check on the Productive Chamber.** A chamber of corporations voting on a corporation's ownership structure is an obvious conflict; the answer is not to move the decision to the sovereign but to require the place axis to concur at a supermajority, as it does for every other structural question in the order.
 - **The hard 33% insider floor.** No exception, of either kind, may take insiders below **33%**. This is not waivable at any bar available in this act.
 
 **Community Benefit Agreement (CBA) — minimum requirements.** The corporation seeking the cap exception commits to specific, measurable community obligations: minimum local employment ratios, co-op supply-chain preferences, infrastructure contributions to the municipality, and environmental standards above the baseline. The Regional Board (which approves at 6/11) is the community's representative — it negotiates the CBA and enforces it. If the company breaches, the Regional Board may refer to the Corporate and Exchange Commission to revoke the exception.
@@ -398,7 +380,7 @@ The Credit-Union Capital Board is not only a market — it is an instrument of t
 
 ## Section 7: The Global Sound-Capital Segment
 
-*Rationale:* an exchange's deepest export is not its fees — it is its **standard**. When a foreign firm lists on a demanding venue, it restructures itself to meet that venue's rules, because the credibility of the standard lowers its cost of capital; investors pay more for what a tough regime has vouched for. That is how a standard travels: not by imposition, but because foreigners adopt it to reach the capital. New Crossroads' standard is not mere disclosure — it is a whole theory of honest, ownership-based, anti-speculative finance. This segment offers that standard to the world. A foreign cooperative, mutual, or disciplined corporation that restructures to the Crossroads rulebook and opens its books may reach Crossroads capital; in doing so it co-op-ifies, opens up, and strips out its synthetic leverage — not because Crossroads compelled it, but because that is the price of admission. The ethos spreads through self-interest, which is the only way an ethos ever actually spreads.
+The Global Sound-Capital Segment exports the Crossroads standard to willing foreign issuers. Full detail is in the **Foreign Investment & Global Capital Act**. This section retains only the special-share global-listing provision (§7.0) and the cross-reference (§7.1).
 
 ### 7.0 Global Listing of Domestic Special Shares (Credit Union Act §3.3)
 
@@ -406,52 +388,16 @@ Domestic special shares that have traded on the CU Capital Board (§3.2) for **5
 
 Globally listed special shares trade under the Global Segment's rules, **not the domestic backstops** — international buyers accept the credit risk of the issuing CU, not a sovereign guarantee. The domestic public backstops (CCIF, the 90% floor, the RLP/SWF/DIP) never extend to the Global Segment (§7.2).
 
-### 7.1 What may list globally
+### 7.1 Global Sound-Capital Segment
 
-Foreign **cooperatives, mutuals/credit unions, and corporations** that voluntarily accept, in full:
+The Global Sound-Capital Segment, including foreign issuer listing, the firewall architecture, foreign firm establishment, CGCI sub-fund platform, accreditation, and statecraft powers, is governed by the **Foreign Investment & Global Capital Act**. This section provides the cross-reference only.
 
-- the Section 2 rulebook (cashflow-not-control, audited-value pricing, dampening, the synthetic-structuring prohibition); and
-- the relevant control discipline — co-op/mutual voting caps, or, for a corporation, the 49% outside-ownership cap and the §4.1 listing disciplines (7.3).
-
-A global listing is a listing of **non-controlling cashflow claims** only, exactly as in the Domestic Core. Control never trades, at home or abroad.
-
-**No cap exceptions abroad.** Neither §3.3 exception — capital-intensive or jubilee — is available to a global-segment issuer. Both run on chamber approval and both attach a Community Benefit Agreement and a Labor Peace Agreement, and Crossroads has no jurisdiction to enforce either against a foreign firm. A foreign corporation lists at 49% or does not list. The jubilee, likewise, is a domestic instrument: Crossroads credit unions do not forgive foreign debt and no foreign firm may reach the domestic relief machinery through the global board.
-
-### 7.2 The firewall (the load-bearing provision)
-
-The Global Sound-Capital Segment is **structurally separate** from the Domestic Core. This is not a preference; it is what makes the whole international venture safe.
-
-- **Separate clearing and settlement** — a distinct clearing pool with **no shared default fund**; no netting between segments (2.6).
-- **No cross-collateralization** — a global-segment position may never be pledged against a domestic one, or vice versa.
-- **No co-mingled funds** — domestic index funds hold only Domestic-Core instruments; the Global Sound-Capital Index holds only global-segment instruments (Section 4).
-- **No domestic public backstop** — the CCIF, the special-share 90% floor, and the RLP/SWF/DIP safety net **never** stand behind a global-segment instrument (2.4). **Foreign losses stay foreign.** A citizen who invests in the segment does so knowingly, in a venue flagged as outside the domestic backstops.
-- **No household credit exposure** — global-segment instruments count toward no citizen's §1.6A countable reserve (Section 4). A citizen may take foreign risk with their savings; the credit line that sits in every wallet does not.
-- **No crisis-signal contamination** — global-segment prices are excluded from the §1.8/§6 detection telemetry. A collapse on the global board cannot register as domestic institutional stress or trip a domestic trigger.
-
-Same building, sealed rooms. Capital and ideas may pass between the segments only as a citizen's deliberate, disclosed choice — never as an automatic transmission of risk.
-
-### 7.3 Enforcement without jurisdiction — audit-to-standard and the delisting teeth
-
-*The hard problem:* Crossroads' domestic listing conditions have teeth because the CLS, the Regional Boards, the PPK/CED, and the courts stand behind them. A foreign issuer sits outside all of that. Crossroads cannot send an auditor to verify a foreign co-op's books are honest. The segment's credibility therefore rests entirely on enforcement Crossroads *can* exercise:
-
-- **Continuing independent audit to the Crossroads standard.** As a standing listing condition, each global issuer is audited — not once, but continuously (at least annually) — by an auditor **accredited by the Sovereign Council** (Sovereign Functions Act §2.4) to certify compliance with the Section 2 rulebook and the control disciplines. The Exchange maintains and publishes the accreditation registry and may revoke an auditor's accreditation.
-- **Loud, public delisting.** The Exchange holds the standing power to **delist an issuer publicly, on the record, with a stated reason**, the moment it fails the standard or its audit lapses. The revocation *is* the enforcement: the Crossroads stamp is worth reaching for only because it is visibly withdrawn when earned dishonestly. A quiet delisting would defeat the purpose; delistings are announced.
-- **The Potemkin risk, named.** The failure mode is a foreign firm that games the audit to wear a credible stamp while rotten underneath — the failure that discredits any standard. The defenses are real: independent accredited audit, continuous re-verification, auditor accountability, and the willingness to delist loudly and early. Crossroads accepts that no external standard is perfectly enforceable and treats vigilance, not trust, as the price of lending its name.
-
-### 7.4 The fee ring-fence (protecting the standard from the revenue motive)
-
-*The historical poison:* every exchange that let its revenue depend on the number of listings eventually lowered its bar to attract them — the race to the bottom. Crossroads forecloses this structurally.
-
-- The Exchange is and remains a **thin non-profit utility (Section 5)** with no proprietary book and no profit motive.
-- Any global-segment listing or audit fees are **ring-fenced to fund the audit and enforcement function (7.3)** and may **never** accrue as profit, surplus, or a distribution that would reward growth in listings.
-- The Exchange Authority's budget is fixed by the Territorial Chamber independent of listing volume, so no one inside the Exchange has an interest in more listings at the cost of a lower standard.
-
-### 7.5 Two governing caveats
-
-- **This segment is an instrument of statecraft, not merely finance.** A global exchange is a geopolitical instrument — it can be leaned on (sanctions pressure, a listed firm's home government, capital-flight dynamics). The Global Sound-Capital Segment is therefore governed by the **Sovereign Council** (Sovereign Functions Act §2.4), which approves and may **suspend or bar** listings on foreign-policy or national-security grounds, subject to citizen oversight (a 1% petition forces public justification for any suspension beyond 90 days, with Territorial Chamber review and the judiciary adjudicating secrecy claims — Sovereign Functions Act §2.4). The segment is a lever of Crossroads' influence in the world and is governed as one. It is also the *only* thing in this act the Council touches: foreign relations are on its closed list, and the domestic economy is not.
-- **Phase-two activation, downstream of domestic success.** A standard has export power only if the system that authored it is visibly succeeding — nobody adopts the ethos of a venue that is not demonstrably working. The Global Sound-Capital Segment therefore **activates only on a Sovereign Council determination that the Domestic Core has demonstrated stability over a defined period** (illustratively, a full economic cycle or a set number of years post-launch). Until that determination, the segment is dormant. The global play is a second-phase move, not a launch feature.
-
----
+- **The firewall** (Foreign Investment Act §4): separate clearing, separate settlement, separate order books. No domestic backstop extends to the global segment. No cross-collateralization. No crisis-signal contamination. Architecture, not regulation.
+- **Foreign listing** (Foreign Investment Act §3): foreign co-ops, mutuals, and disciplined corporations list by restructuring to the Crossroads rulebook (Section 2 of this act) with independent audit.
+- **CGCI sub-fund platform** (Foreign Investment Act §2): seven sub-funds channeling foreign capital to co-op shares, CU special shares, corporate equity, Freedom Shares, Metals ETF, SMSF, and commodity stabilization — all non-voting, non-redeemable, BWC-denominated, 15% board-cap ceiling.
+- **Foreign firm establishment** (Foreign Investment Act §5): 20%→40% co-op ramp, tariff principles, land leases.
+- **Statecraft** (Foreign Investment Act §6): Sovereign Council accredits participants and auditors, may suspend on national-security grounds. Citizen override via 1% petition.
+- **No cap exceptions abroad.** Neither §3.3 exception — capital-intensive or jubilee — is available to a global-segment issuer. A foreign corporation lists at 49% or does not list.
 
 ## Key Stats / Structure Summary
 
@@ -459,68 +405,28 @@ Same building, sealed rooms. Capital and ideas may pass between the segments onl
 |---|---|
 | Venue | Single national Crossroads Exchange; two firewalled segments (Domestic Core / Global) |
 | Domestic trading boards | Co-op Board · Credit-Union Capital Board · Corporate-Equity Board · Metals ETF Board · **FX Board** |
-| Underlying indexes/pools | Co-op Capital Index (managed by CCIF Alliance Network) · Special shares (managed by each credit union) · Corporate equity (managed by each corporation) · Metals ETF (managed by Treasury) |
+| Underlying indexes/pools | Co-op Capital Index (managed by CCIF Alliance Network, CCIF Act §5) · Special shares (managed by each credit union) · Corporate equity (managed by each corporation) · Metals ETF (managed by Citizens' Metals Reserve Board, Metals Act §4) |
 | Channel (not a board) | CGCI (foreign capital, during Industry §2.5 conversion ramp) |
 | **FX Board** | Spot BWC ↔ foreign-currency conversion. Discovered rate (never defended); batched auctions; ±3% daily band; no derivatives/margin/shorting; no foreign participants; SWF holds a ~6-month import reserve but may not intervene. ~$5.5B/day trade volume at founding |
-| Global segment | Foreign co-ops/mutuals/disciplined corporations listing under the Crossroads rulebook (Section 7) |
+| Global segment | Foreign co-ops/mutuals/disciplined corporations listing under the Crossroads rulebook (Foreign Investment Act §3) |
 | Firewall | Separate clearing; no cross-collateralization; no co-mingled funds; no domestic backstop for global; no §1.6A credit-line exposure; global excluded from §1.8 crisis signal |
 | Off the exchange | Sovereign metals reserve (never listed); no debt board; **household credit lines are never securitized, pooled, or listed** |
 | Core rule | Cashflow trades; control never trades (both segments) |
 | Pricing | PPK/CED-audited book or par (domestic); NAV for Metals ETF; independent audit-to-standard (global); movement within bands |
 | Dampening | 90–110% / ±10% / ±5% daily bands; 12-month (co-op) & 3-year (special-share) & 30-day (ETF) holds; §4.1 short-term trade tax |
-| Backstop | CCIF at 90% of book; special-share 90% floor; index/buyback last resort — **domestic only**; Metals ETF has no backstop |
+| Backstop | CCIF at 90% of book (+ CGCI Co-op Index foreign liquidity); special-share 90% floor (+ CGCI Special-Share foreign liquidity); index/buyback last resort — **domestic only**; Metals ETF: no public backstop but CGCI Metals Allocation holds up to 10% (permanent structural bid) |
 | Corporate cap | ≤49% outside ownership / ≥51% insider; §4.1 disciplines as listing conditions (entrenched as §12.3) |
 | **Corporate cap exceptions** | **Two: capital-intensive (appetite, renewable 5-yearly) and jubilee (distress, recovery-window only). Both: Regional Board 6/11 → Corporate and Exchange Commission (recommendation) → Productive Chamber (supermajority) → Territorial Chamber 15/20, + CBA + LPA. Hard 33% insider floor. NO SOVEREIGN APPROVAL. Neither available to global-segment issuers** |
 | **Corporate Freedom Shares** | **Plain equity — no class exists to put them in. Count against the 49% cap. No tenure-multiplier accrual while a credit union holds them. Exit via Corporate-Equity Board restores the cap. Below the 33% floor: converts to FCL, credit union exits via Co-op Board instead** |
 | Credit-line values (Monetary §1.6A) | Special shares at **par**, never board price. ETF at **cost basis**, never NAV. Index funds at the underlying's value. Global segment: **zero** |
 | Sovereign's role | **Global segment statecraft only** (Sovereign Functions Act §2.4). Nothing on the Domestic Core |
-| Foreign firms (inbound) | Industry §2.5 ramp (20%→40% co-op) + CGCI channel; not corporate-listed |
-| Global listing enforcement | Continuing independent audit-to-standard (Sovereign-Council-accredited); loud public delisting |
-| Global fee rule | Fees ring-fenced to fund enforcement; never profit |
-| Global governance | Sovereign Council (Sovereign Functions Act §2.4); foreign-policy/national-security suspension; 1% citizen-petition oversight; phase-two activation |
+| Foreign firms (inbound) | Foreign Investment Act §5 — 20%→40% co-op ramp + CGCI sub-fund platform (Foreign Investment Act §2) |
+| Global listing enforcement | Governed by Foreign Investment Act §3 — continuing independent audit-to-standard; loud public delisting |
+| Global fee rule | Foreign Investment Act §3.4 — fees ring-fenced to fund enforcement; never profit |
+| Global governance | Foreign Investment Act §6 — Sovereign Council statecraft; 1% citizen-petition oversight; three-phase activation |
 | Prohibited | Tranching, synthetic seniority, securitization-that-obscures, derivatives, shorting, leverage |
 | Diversification | Transparent pass-through index funds only (special-share, co-op, metals, global) |
 | Privacy | Individual trades private; aggregate volume in CED; >$10M holdings disclosed; identity only via Link Box; **no credit bureau, score, or file exists** |
 | Domestic operator | Exchange Authority (non-profit clearing/registry) under Territorial Chamber; indexes/pools managed by their own stewards |
 | Committee oversight | Financial Services & Mutual Funds Committee (Chamber Act §6.7), public session, referral to Special Auditors |
 | Amendments | Simple majority Territorial Chamber (11/20) + simple majority Productive Chamber. Operational parameters delegated to Exchange Authority |
-
----
-
-## Design Philosophy (Informative)
-
-New Crossroads built markets the way it built everything else — by inverting the assumption.
-
-- **It is a market for ownership and real assets, never debt.** There are no bonds to trade, no repo, no rates. The entire tradable universe is a slice of someone's productive enterprise or a claim on a permanent metal reserve. A trader here can never speculate on sovereign debt or interest rates, because those instruments do not exist. Nor on household debt: the credit line in every wallet is a facility, not a claim, and it may never be pooled or sold. A country that will not securitize a mortgage will not securitize a credit card balance.
-
-- **Cashflow circulates; control stays home.** You can buy the economics of a co-op, a credit union, a corporation, or a share of the metal reserve — never the power to govern them. Worker base shares never trade, special shares never vote, corporate insiders keep 51%, and the ETF shares carry no governance rights. The market moves money toward good enterprises without ever letting money capture them.
-
-- **Prices are tethered to audited truth.** Every board anchors to PPK/CED-audited value and moves only within a band. Price discovery is real but disciplined — sentiment cannot run away from fundamentals, because the audit is the anchor.
-
-- **It rewards patience and frustrates speculation — on purpose.** Minimum holds, daily caps, a short-term trade tax, and a public backstop bid (where it exists) make this a place for capital to find a home and exit when it must, not a casino. The frictions are not flaws to optimize away. They are the design.
-
-- **The market may move; the household may not be moved by it.** A citizen's credit line reads their special shares at par and their metal at cost, never at the price on the board. This is deliberate: the special-share board's price is the country's crisis alarm, and an alarm that also cut every family's credit as it rang would be a machine for turning a bank's bad quarter into a nation's bad decade. The parts that detect a crisis move. The parts that carry people through it do not.
-
-- **The rescue is the chambers' business, and the relief is nobody's business but the borrower's.** When a jubilee hands a credit union equity that breaks the ownership cap, the place axis and the form axis decide whether the cap may bend — and no chamber, board, or council gets a vote on whether the firm deserved rescuing. That question belongs to a licensed officer applying a published standard to an application the firm chose to file. Two questions, two deciders, and the one with an interest in the answer is kept away from it.
-
-- **The Metals ETF solves the exit problem without redemption.** By listing the ETF on the Exchange, holders can sell to other citizens. The metal reserve is untouched. The tier caps prevent concentration. No public backstop means the price reflects true market sentiment, but the 30-day hold and ±5% band prevent panic. It is a liquid, transparent store-of-value market that remains entirely in character.
-
-- **It refuses the one trick that blew up the old world.** No tranching, no synthetic seniority, no derivatives, no shorting, no leverage. The 2008 collapse was complexity hiding correlated risk; this system's entire premise is risk in plain sight. Diversification comes from transparent pass-through index funds that show you exactly what you own — never from engineering that hides it. And because the special-share board's price is the country's bank-soundness signal, keeping it un-engineered keeps the early-warning system alive.
-
-- **Foreign capital is welcomed and domesticated, not special-cased.** A foreign factory behind the tariff wall does not get a free-floating listing — it becomes, over ten years, partly worker-owned, and its shares migrate from the foreign channel onto the co-op board as it co-op-ifies. The market doesn't bend its rules for foreign money; the foreign money bends toward the market's rules.
-
-- **The FX Board closes the last gap in the monetary infrastructure.** The BWC existed but had no interface with the world. Exporters earned foreign currency with no facility to convert it; importers needed it with nowhere to buy it. The FX Board is a transparent, rule-based clearing facility — the rate is discovered, never defended, and no organ of the state may target it. It applies the same anti-speculation rulebook as every other board: no derivatives, no leverage, no shorting, no dark pools, no privileged access. A currency market as patient and transparent as the equity market beside it.
-
-- **The sovereign owns nothing here and decides nothing here.** Its only power in this act points outward — the statecraft of a foreign venue, which is on its closed list. Every domestic question, including the two exceptions to the control rule, runs through the chambers. A sovereign that could grant one firm the right to sell more of itself than another would hold the most valuable favor in the economy, and this act does not let it hold that favor.
-
-- **The Exchange recruits.** Its deepest purpose is not where citizens invest but how the model travels. By offering its rulebook to the world as the price of reaching Crossroads capital, the Exchange does to sound, ownership-based finance what older exchanges did to disclosure — it makes foreigners restructure themselves to meet the standard. An ethos spreads through self-interest or not at all; this is the machinery of that spread. And it is firewalled, so the model can recruit abroad without the vessel springing a leak: the standard is exported, the risk is not.
-
-- **The sovereign metals reserve never touches the floor.** The citizens' investment ETF is now a listed security; the sovereign reserve remains a strategic state asset and catastrophe floor, never listed, never traded. The ETF is a market; the reserve is a fortress.
-
-Crossroads has real, deep capital markets — and they are unmistakably its own: ownership-based, anti-takeover, audited, patient, transparent, quietly load-bearing for the crisis system, liquid for store-of-value savers, and — abroad — a quiet argument that honest finance is worth restructuring to reach. A place to invest, not a place to gamble.
-
-That is the Exchange Act.
-
----
-
-**End of Draft 1.8**
